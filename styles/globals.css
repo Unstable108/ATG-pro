@@ -2,6 +2,47 @@
 @tailwind components;
 @tailwind utilities;
 
+/* --------------------------
+   SITE (global) theme
+   Controlled by data-site-theme="dark" on <html>
+   -------------------------- */
+
+/* default (light) site variables */
+:root {
+  --site-bg: #ffffff;
+  --site-text: #111827;
+  --site-border: #e5e7eb;
+  --site-muted: #6b7280;
+}
+
+/* dark site theme (applies only when attribute set) */
+[data-site-theme='dark'] {
+  --site-bg: #0b1220;
+  --site-text: #e6eef8;
+  --site-border: rgba(148,163,184,0.12);
+  --site-muted: #94a3b8;
+}
+
+/* Use site variables across site UI */
+body, .site-root {
+  background: var(--site-bg);
+  color: var(--site-text);
+}
+
+/* Example for header and sidebar if you use CSS variables */
+header, .sidebar, .card {
+  background: var(--site-bg);
+  color: var(--site-text);
+  border-color: var(--site-border);
+}
+
+/* --------------------------
+   READER theme (independent)
+   Controlled by data-reader-theme on <html> (set by ReaderControls)
+   AND via CSS variables used by .reader-content
+   -------------------------- */
+
+/* Default reader variables (day) */
 :root {
   --reader-font-size: 18px;
   --reader-font-family: 'ui-sans-serif', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
@@ -10,30 +51,23 @@
   --reader-max-width: 720px;
 }
 
-[data-theme='dark'] {
+/* Reader theme presets via attribute - these are used as selectors to set variables */
+[data-reader-theme='day'] {
+  --reader-text-color: #111827;
+  --reader-bg-color: #ffffff;
+}
+
+[data-reader-theme='night'] {
   --reader-text-color: #e5e7eb;
   --reader-bg-color: #0f172a;
 }
 
-html {
-  -webkit-text-size-adjust: 100%;
+[data-reader-theme='sepia'] {
+  --reader-text-color: #111827;
+  --reader-bg-color: #f5ecd8;
 }
 
-button, a, input, select, textarea {
-  touch-action: manipulation;
-  -webkit-tap-highlight-color: rgba(0,0,0,0.08);
-}
-
-body {
-  font-size: 16px;
-  line-height: 1.6;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background: var(--reader-bg-color);
-  color: var(--reader-text-color);
-  -webkit-font-smoothing: antialiased;
-}
-
+/* .reader-content uses variables above */
 .reader-content {
   font-size: var(--reader-font-size);
   font-family: var(--reader-font-family);
@@ -45,6 +79,15 @@ body {
   padding: 1.25rem;
   border-radius: 8px;
 }
+
+/* keep reader content safe from global site theme */
+[data-site-theme='dark'] .reader-content {
+  /* do not override .reader-content vars here — reader controls set them */
+}
+
+/* Small helpers */
+.reader-bottom-space { height: 72px; }
+
 
 .container {
   max-width: 800px;
@@ -126,9 +169,49 @@ body {
   z-index: 80;
   transition: width 120ms linear;
 }
+/* Remove floating-nav-mobile if present (we no longer use it) */
+/* .floating-nav-mobile { ... }  (delete or ignore) */
+
+/* Style for inline nav buttons */
+.btn {
+  background: var(--reader-bg-color);
+  border: 1px solid rgba(0,0,0,0.06);
+  padding: 0.4rem 0.7rem;
+  border-radius: 6px;
+  font-weight: 600;
+}
+.dark .btn {
+  border-color: rgba(148,163,184,0.12);
+}
+
+/* Top inline nav spacing */
+.chapter-meta + .flex {
+  margin-top: 0.5rem;
+}
+
+/* Bottom nav area */
+article + .mt-8 {
+  margin-top: 2rem;
+}
+
+/* smaller "jump to top" style */
+.jump-top {
+  font-size: 0.9rem;
+  color: #6b7280;
+}
+
+/* landing page specific styles */
+.prose a { color: #1d4ed8; }
+.line-clamp-3 {
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
 
 /* mobile tweaks */
 @media (max-width: 640px) {
+  .w-56 { width: 14rem; } /* ensure consistent cover sizing on mobile */
   .chapter-title {
     font-size: 1.25rem;
   }
