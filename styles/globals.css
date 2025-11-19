@@ -1,0 +1,144 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --reader-font-size: 18px;
+  --reader-font-family: 'ui-sans-serif', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  --reader-text-color: #111827;
+  --reader-bg-color: #ffffff;
+  --reader-max-width: 720px;
+}
+
+[data-theme='dark'] {
+  --reader-text-color: #e5e7eb;
+  --reader-bg-color: #0f172a;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+button, a, input, select, textarea {
+  touch-action: manipulation;
+  -webkit-tap-highlight-color: rgba(0,0,0,0.08);
+}
+
+body {
+  font-size: 16px;
+  line-height: 1.6;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: var(--reader-bg-color);
+  color: var(--reader-text-color);
+  -webkit-font-smoothing: antialiased;
+}
+
+.reader-content {
+  font-size: var(--reader-font-size);
+  font-family: var(--reader-font-family);
+  color: var(--reader-text-color);
+  background: var(--reader-bg-color);
+  max-width: var(--reader-max-width);
+  margin-left: auto;
+  margin-right: auto;
+  padding: 1.25rem;
+  border-radius: 8px;
+}
+
+.container {
+  max-width: 800px;
+}
+
+/* Chapter header (WuxiaWorld-like) */
+.chapter-meta {
+  text-align: center;
+  margin-bottom: 0.75rem;
+}
+.novel-title {
+  font-size: 0.95rem;
+  color: #2563eb; /* blue-600 */
+  font-weight: 600;
+}
+.chapter-title {
+  font-size: 1.6rem;
+  font-weight: 700;
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+}
+.chapter-subtitle {
+  font-size: 0.95rem;
+  color: #6b7280; /* gray-500 */
+}
+
+/* Sticky prev/next nav */
+.sticky-nav {
+  position: sticky;
+  top: 64px;
+  z-index: 50;
+  display: flex;
+  gap: 8px;
+  justify-content: center;
+  padding: 0.5rem;
+}
+.sticky-nav .btn {
+  background: rgba(255,255,255,0.9);
+  border: 1px solid #e5e7eb;
+  padding: 0.5rem 0.75rem;
+  border-radius: 6px;
+}
+.dark .sticky-nav .btn {
+  background: rgba(15,23,42,0.9);
+  border-color: rgba(148,163,184,0.12);
+}
+
+/* Floating bottom prev/next for mobile */
+.floating-nav-mobile {
+  position: fixed;
+  bottom: 88px;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 60;
+  display: flex;
+  gap: 8px;
+}
+
+/* progress dot on chapter list */
+.chapter-progress {
+  height: 8px;
+  width: 8px;
+  border-radius: 99px;
+  background: #e5e7eb;
+  display: inline-block;
+}
+.chapter-progress[data-percent] {
+  background: linear-gradient(90deg, #10b981 var(--p, 0%), #e5e7eb 0%);
+}
+
+/* reading progress bar at top of article */
+.read-progress-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 3px;
+  background: #10b981; /* green */
+  width: 0%;
+  z-index: 80;
+  transition: width 120ms linear;
+}
+
+/* mobile tweaks */
+@media (max-width: 640px) {
+  .chapter-title {
+    font-size: 1.25rem;
+  }
+  .sticky-nav {
+    top: 56px;
+  }
+  .floating-nav-mobile {
+    bottom: 92px;
+  }
+  .reader-content {
+    padding: 1rem;
+  }
+}
