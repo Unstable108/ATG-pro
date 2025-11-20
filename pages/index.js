@@ -2,7 +2,7 @@
 import Link from "next/link";
 import TopBar from "../components/TopBar";
 import SidebarChapters from "../components/SidebarChapters";
-// using plain <img> to avoid next/image fetchPriority warning on this page
+import Image from "next/image";
 import { getAllChapters } from "../lib/chapters";
 import fs from "fs";
 import path from "path";
@@ -13,6 +13,16 @@ export default function Home({ novel, chapters }) {
 
   // Client-side state for continue reading
   const [continueItem, setContinueItem] = useState(null);
+
+  // NEW: sort order state (true = ascending, false = descending)
+  const [sortAsc, setSortAsc] = useState(true);
+
+  // NEW: derive sorted chapters for the "All Chapters" list
+  const sortedChapters = [...chapters].sort((a, b) => {
+    const aNum = Number(a.chapterNumber) || 0;
+    const bNum = Number(b.chapterNumber) || 0;
+    return sortAsc ? aNum - bNum : bNum - aNum;
+  });
 
   useEffect(() => {
     try {
@@ -29,7 +39,7 @@ export default function Home({ novel, chapters }) {
       });
       const entries = Object.entries(map);
       if (entries.length > 0) {
-        // choose the chapter with the highest percent (or the latest updated if you prefer)
+        // choose the chapter with the highest percent
         entries.sort((a, b) => b[1] - a[1]);
         const chosenSlug = entries[0][0];
         const pct = Math.round(entries[0][1] * 100);
@@ -49,21 +59,19 @@ export default function Home({ novel, chapters }) {
 
   return (
     <div className="min-h-screen bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100">
-      <TopBar
-        onOpenChapters={() => {
-          /* no-op */
-        }}
-      />
+      <TopBar onOpenChapters={() => {}} />
 
       <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
         {/* HERO */}
         <section className="grid grid-cols-1 md:grid-cols-3 gap-6 items-start mb-10">
           <div className="md:col-span-1 flex flex-col items-center">
             <div className="w-56 md:w-64 shadow-lg rounded overflow-hidden">
-              <img
+              <Image
                 src={novel.cover}
                 alt={`${novel.title} cover`}
-                style={{ width: "100%", height: "auto", display: "block" }}
+                width={640}
+                height={900}
+                style={{ width: "100%", height: "auto" }}
               />
             </div>
 
@@ -80,7 +88,9 @@ export default function Home({ novel, chapters }) {
                       className="font-medium"
                     >
                       Chapter {continueItem.chapterNumber}
-                      {continueItem.title ? ` — ${continueItem.title}` : ""}
+                      {continueItem.title
+                        ? ` — ${continueItem.title}`
+                        : ""}
                     </Link>
                   </div>
                   <div className="text-sm text-gray-600">
@@ -97,8 +107,9 @@ export default function Home({ novel, chapters }) {
                   <button
                     className="ml-2 text-xs text-red-600"
                     onClick={() => {
-                      // clear progress for this chapter
-                      localStorage.removeItem(`progress:${continueItem.slug}`);
+                      localStorage.removeItem(
+                        `progress:${continueItem.slug}`
+                      );
                       setContinueItem(null);
                     }}
                   >
@@ -194,9 +205,22 @@ export default function Home({ novel, chapters }) {
 
         {/* CHAPTER LIST */}
         <section>
-          <h2 className="text-xl font-semibold mb-4">All Chapters</h2>
+          {/* NEW: header + sort toggle on opposite corner */}
+          <div className="flex items-center justify-between mb-4">
+            <h2 className="text-xl font-semibold">All Chapters</h2>
+            <button
+              type="button"
+              onClick={() => setSortAsc((prev) => !prev)}
+              className="inline-flex items-center gap-1 text-sm border px-3 py-1 rounded-md text-blue-600 border-blue-200 hover:bg-blue-50 dark:hover:bg-slate-800"
+              aria-label="Toggle chapter sort order"
+            >
+              <span>{sortAsc ? "Ascending" : "Descending"}</span>
+              <span className="text-xs">{sortAsc ? "↑" : "↓"}</span>
+            </button>
+          </div>
+
           <ul className="space-y-3">
-            {chapters.map((ch) => (
+            {sortedChapters.map((ch) => (
               <li
                 key={ch.slug}
                 className="p-3 border rounded flex justify-between items-start bg-white dark:bg-slate-900"
@@ -209,7 +233,7 @@ export default function Home({ novel, chapters }) {
                     </div>
                     <div className="text-sm text-gray-500 mt-1">
                       {(ch.content || "").slice(0, 140)}
-                      {ch.content.length > 140 ? "..." : ""}
+                      {(ch.content || "").length > 140 ? "..." : ""}
                     </div>
                   </Link>
                 </div>

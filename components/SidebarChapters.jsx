@@ -1,5 +1,7 @@
 // components/SidebarChapters.jsx
+import { useEffect } from "react";
 import Link from "next/link";
+import { useRouter } from "next/router";
 
 export default function SidebarChapters({
   chapters,
@@ -7,15 +9,33 @@ export default function SidebarChapters({
   onClose,
   currentSlug,
 }) {
-  // desktop sidebar + mobile drawer
+  const router = useRouter();
+
+  // Prevent body scrolling when sidebar is open (mobile)
+  useEffect(() => {
+    if (typeof document === "undefined") return;
+
+    if (open) {
+      const original = document.body.style.overflow;
+      document.body.style.overflow = "hidden";
+
+      return () => {
+        document.body.style.overflow = original;
+      };
+    }
+  }, [open]);
+
   return (
     <>
-      {/* Desktop sidebar */}
+      {/* ───────────────────────────────────────
+          DESKTOP SIDEBAR
+      ─────────────────────────────────────── */}
       <aside className="hidden md:block w-64 shrink-0">
-        <div className="sticky top-16 h-[calc(100vh-4rem)] overflow-y-auto border-r border-slate-200 dark:border-slate-700 pr-2">
+        <div className="sticky top-16 h-[calc(100vh-4rem)] overflow-y-auto overscroll-contain border-r border-slate-200 dark:border-slate-700 pr-2">
           <h2 className="px-3 pt-3 pb-2 text-xs font-semibold uppercase tracking-wide text-slate-500 dark:text-slate-400">
             Chapters
           </h2>
+
           <ul className="space-y-1 pb-4">
             {chapters.map((ch) => {
               const isActive = currentSlug === ch.slug;
@@ -33,6 +53,7 @@ export default function SidebarChapters({
                     <div className="text-xs text-slate-500 dark:text-slate-400">
                       Chapter {ch.chapterNumber}
                     </div>
+
                     <div>
                       {ch.title || `Chapter ${ch.chapterNumber}`}
                     </div>
@@ -44,15 +65,23 @@ export default function SidebarChapters({
         </div>
       </aside>
 
-      {/* Mobile drawer */}
+      {/* ───────────────────────────────────────
+          MOBILE DRAWER SIDEBAR
+      ─────────────────────────────────────── */}
       {open && (
         <div className="fixed inset-0 z-40 md:hidden">
+
+          {/* Backdrop */}
           <div
             className="absolute inset-0 bg-black/40"
             onClick={onClose}
             aria-hidden="true"
           />
+
+          {/* Sliding drawer */}
           <div className="absolute left-0 top-0 bottom-0 w-72 max-w-[80%] bg-white dark:bg-slate-900 shadow-xl flex flex-col">
+
+            {/* Header */}
             <div className="flex items-center justify-between px-4 py-3 border-b border-slate-200 dark:border-slate-700">
               <h2 className="text-sm font-semibold">Chapters</h2>
               <button
@@ -62,7 +91,9 @@ export default function SidebarChapters({
                 ✕
               </button>
             </div>
-            <div className="flex-1 overflow-y-auto">
+
+            {/* Scrollable chapter list */}
+            <div className="flex-1 overflow-y-auto overscroll-contain">
               <ul className="space-y-1 p-2">
                 {chapters.map((ch) => {
                   const isActive = currentSlug === ch.slug;
@@ -81,6 +112,7 @@ export default function SidebarChapters({
                         <div className="text-xs text-slate-500 dark:text-slate-400">
                           Chapter {ch.chapterNumber}
                         </div>
+
                         <div>
                           {ch.title || `Chapter ${ch.chapterNumber}`}
                         </div>
@@ -90,6 +122,7 @@ export default function SidebarChapters({
                 })}
               </ul>
             </div>
+
           </div>
         </div>
       )}
