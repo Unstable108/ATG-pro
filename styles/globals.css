@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 /* ---------------------------------
-   BASIC GLOBAL COLORS (NO SITE THEMES)
+   BASIC GLOBAL COLORS + SITE DARK MODE
    --------------------------------- */
 
 body {
@@ -18,9 +18,37 @@ body {
   color: #e5e7eb;      /* gray-200 */
 }
 
+/* Sepia reading overlay, controlled by <html class="sepia">.
+   This overrides BOTH light and dark site themes. */
+html.sepia body {
+  background: #f7aa66; /* warm sepia */
+  color: #111827;      /* dark text */
+}
+/* In sepia mode, force header + chapter meta to look like a light theme,
+   even if site dark mode is on */
+html.sepia header {
+  background: #f5ecd8 !important;         /* match page sepia */
+  border-bottom-color: #e2d1aa !important; /* softer border */
+}
+
+/* Make all header text/icons dark on sepia */
+html.sepia header *,
+html.sepia header svg *,
+html.sepia .chapter-meta,
+html.sepia .chapter-meta * {
+  color: #111827 !important;
+  stroke: #111827 !important;
+}
+
+html.sepia .reader-content {
+  color: #111827; /* force readable dark text, even if dark mode is on */
+}
+
+
 
 /* ---------------------------------
-   READER — STATIC + THEME HOOKS
+   READER — FONT + LAYOUT ONLY
+   (Colors now come from body / sepia / dark mode)
    --------------------------------- */
 
 /* Only one variable: font-size */
@@ -33,36 +61,15 @@ body {
   font-family: "ui-sans-serif", system-ui, -apple-system, "Segoe UI",
     Roboto, "Helvetica Neue", Arial;
 
-  /* default “day” look */
-  color: #111827;
-  background: #ffffff;
-
+  /* No explicit background/color here → inherit from body / sepia / dark */
   max-width: 840px;
   margin-left: auto;
   margin-right: auto;
   padding: 1.25rem;
-  border-radius: 8px;
 
   text-align: left;
   word-spacing: 0.02em;
   letter-spacing: 0em;
-}
-
-/* Reader theme presets: ONLY affect .reader-content */
-[data-reader-theme="day"] .reader-content {
-  background: #ffffff;
-  color: #111827;
-}
-
-[data-reader-theme="night"] .reader-content {
-  background: #020617;   /* same as dark body */
-  color: #e5e7eb;
-}
-
-
-[data-reader-theme="sepia"] .reader-content {
-  background: #f5ecd8;
-  color: #111827;
 }
 
 /* ---------------------------------
@@ -143,14 +150,13 @@ body {
 }
 
 /* ---------------------------------
-   Mobile-specific tweaks
+   Mobile-specific reader layout ONLY
    --------------------------------- */
 @media (max-width: 640px) {
   .reader-content {
     max-width: 100%;
-    padding: 0.5rem 0.75rem 1.5rem;
+    padding: 0.35rem 0.5rem 1.5rem; /* wider lines on mobile */
     border-radius: 0;
-    background: transparent; /* theme will still color text/bg area; but page bg shows at edges */
     font-size: calc(var(--reader-font-size, 18px) * 1.02);
   }
 
@@ -220,7 +226,6 @@ body {
   color: #e5e7eb;
   border-color: rgba(148, 163, 184, 0.5); /* slate-400-ish */
 }
-
 
 /* Bottom nav area */
 article + .mt-8 {

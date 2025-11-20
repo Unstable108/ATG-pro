@@ -136,7 +136,7 @@ export default function Chapter({
   }
 
   return (
-    <div className="min-h-screen bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100">
+    <div className="min-h-screen">
       <div id="read-progress-bar" className="read-progress-bar" />
 
       <TopBar
@@ -199,7 +199,7 @@ export default function Chapter({
           <article
             ref={articleRef}
             key={chapter.slug}
-            className="reader-content bg-transparent rounded reader-fade"
+            className="reader-content reader-fade"
             aria-label={`Chapter ${chapter.chapterNumber}`}
           >
             <div dangerouslySetInnerHTML={{ __html: chapterHtml }} />

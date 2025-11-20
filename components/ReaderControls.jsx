@@ -22,7 +22,7 @@ const FONT_FAMILIES = [
 export default function ReaderControls({ showMobileControls = true }) {
   const [fontSize, setFontSize] = useState(18);
   const [fontFamily, setFontFamily] = useState(FONT_FAMILIES[0].css);
-  const [readerTheme, setReaderTheme] = useState("day"); // "day" | "night" | "sepia"
+  const [sepiaOn, setSepiaOn] = useState(false);
 
   // Load prefs on mount
   useEffect(() => {
@@ -34,7 +34,7 @@ export default function ReaderControls({ showMobileControls = true }) {
         const p = JSON.parse(saved);
         if (p.fontSize) setFontSize(p.fontSize);
         if (p.fontFamily) setFontFamily(p.fontFamily);
-        if (p.readerTheme) setReaderTheme(p.readerTheme);
+        if (typeof p.sepiaOn === "boolean") setSepiaOn(p.sepiaOn);
       }
     } catch (e) {}
   }, []);
@@ -42,25 +42,32 @@ export default function ReaderControls({ showMobileControls = true }) {
   // Apply + persist
   useEffect(() => {
     if (typeof document !== "undefined") {
-      document.documentElement.style.setProperty(
-        "--reader-font-size",
-        `${fontSize}px`
-      );
-      document.documentElement.setAttribute("data-reader-theme", readerTheme);
+      const root = document.documentElement;
+      root.style.setProperty("--reader-font-size", `${fontSize}px`);
+
+      if (sepiaOn) {
+        root.classList.add("sepia");
+      } else {
+        root.classList.remove("sepia");
+      }
     }
 
     try {
       localStorage.setItem(
         "readerPrefs",
-        JSON.stringify({ fontSize, fontFamily, readerTheme })
+        JSON.stringify({ fontSize, fontFamily, sepiaOn })
       );
     } catch (e) {}
-  }, [fontSize, fontFamily, readerTheme]);
+  }, [fontSize, fontFamily, sepiaOn]);
 
   function resetAll() {
     setFontSize(18);
     setFontFamily(FONT_FAMILIES[0].css);
-    setReaderTheme("day");
+    setSepiaOn(false);
+  }
+
+  function getMobileThemeIcon() {
+    return sepiaOn ? "📖" : "☀️";
   }
 
   return (
@@ -99,46 +106,19 @@ export default function ReaderControls({ showMobileControls = true }) {
             <span className="w-8 text-right text-xs">{fontSize}px</span>
           </label>
 
-          {/* Theme buttons */}
-          <div className="flex items-center gap-1">
-            <span className="text-sm mr-1">Theme</span>
-            <button
-              type="button"
-              onClick={() => setReaderTheme("day")}
-              className={
-                "px-2 py-1 rounded border text-xs " +
-                (readerTheme === "day"
-                  ? "bg-blue-600 text-white border-blue-600"
-                  : "bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 border-slate-200 dark:border-slate-600")
-              }
-            >
-              Day
-            </button>
-            <button
-              type="button"
-              onClick={() => setReaderTheme("night")}
-              className={
-                "px-2 py-1 rounded border text-xs " +
-                (readerTheme === "night"
-                  ? "bg-blue-600 text-white border-blue-600"
-                  : "bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 border-slate-200 dark:border-slate-600")
-              }
-            >
-              Night
-            </button>
-            <button
-              type="button"
-              onClick={() => setReaderTheme("sepia")}
-              className={
-                "px-2 py-1 rounded border text-xs " +
-                (readerTheme === "sepia"
-                  ? "bg-blue-600 text-white border-blue-600"
-                  : "bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 border-slate-200 dark:border-slate-600")
-              }
-            >
-              Sepia
-            </button>
-          </div>
+          {/* Sepia toggle (desktop) */}
+          <button
+            type="button"
+            onClick={() => setSepiaOn((v) => !v)}
+            className={
+              "px-3 py-1 rounded border text-xs flex items-center gap-1 " +
+              (sepiaOn
+                ? "bg-amber-200 border-amber-400 text-amber-900"
+                : "bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 border-slate-200 dark:border-slate-600")
+            }
+          >
+            <span>{sepiaOn ? "Sepia on" : "Sepia off"}</span>
+          </button>
 
           <div className="ml-auto">
             <button
@@ -162,7 +142,7 @@ export default function ReaderControls({ showMobileControls = true }) {
                 type="button"
                 aria-label="Decrease font"
                 onClick={() => setFontSize((f) => Math.max(14, f - 1))}
-                className="px-2 py-1 rounded border text-xs bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 border-slate-200 dark:border-slate-600"
+                className="px-2 py-1 rounded border text-s bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 border-slate-200 dark:border-slate-600"
               >
                 A-
               </button>
@@ -170,22 +150,20 @@ export default function ReaderControls({ showMobileControls = true }) {
                 type="button"
                 aria-label="Increase font"
                 onClick={() => setFontSize((f) => Math.min(32, f + 1))}
-                className="px-2 py-1 rounded border text-xs bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 border-slate-200 dark:border-slate-600"
+                className="px-2 py-1 rounded border text-s bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 border-slate-200 dark:border-slate-600"
               >
                 A+
               </button>
             </div>
 
-            {/* Theme toggle day/night */}
+            {/* Sepia toggle (mobile) */}
             <button
               type="button"
-              aria-label="Toggle reader theme"
-              onClick={() =>
-                setReaderTheme(readerTheme === "night" ? "day" : "night")
-              }
+              aria-label="Toggle sepia mode"
+              onClick={() => setSepiaOn((v) => !v)}
               className="px-3 py-1 rounded border text-lg bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 border-slate-200 dark:border-slate-600"
             >
-              {readerTheme === "night" ? "🌙" : "☀️"}
+              {getMobileThemeIcon()}
             </button>
 
             {/* Reset */}
