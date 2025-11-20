@@ -16,6 +16,10 @@ export default function Chapter({ chapterHtml, chapter, allChapters, prevSlug, n
   const router = useRouter()
   const articleRef = useRef(null)
 
+  // Hide/show top & bottom chrome on scroll
+  const [chromeHidden, setChromeHidden] = useState(false)
+  const lastScrollYRef = useRef(0)
+
   useEffect(() => {
     try {
       const raw = typeof window !== 'undefined' && window.localStorage.getItem('novelBookmarks')
@@ -38,12 +42,12 @@ export default function Chapter({ chapterHtml, chapter, allChapters, prevSlug, n
           window.scrollTo(0, to)
         }
       } else {
-        // start at top for fresh reads
         window.scrollTo(0, 0)
       }
     } catch (e) {}
   }, [chapter.slug])
 
+  // reading progress bar + save progress
   useEffect(() => {
     function onScroll() {
       const el = document.documentElement
@@ -58,10 +62,32 @@ export default function Chapter({ chapterHtml, chapter, allChapters, prevSlug, n
     return () => window.removeEventListener('scroll', onScroll)
   }, [chapter.slug])
 
+  // chrome hide/show on scroll direction
+  useEffect(() => {
+    function handleScrollDirection() {
+      const current = window.scrollY || 0
+      const last = lastScrollYRef.current
+      const delta = current - last
+
+      // scrolling up or near top -> show chrome
+      if (current < 80 || delta < -10) {
+        setChromeHidden(false)
+      } else if (delta > 10 && current > 80) {
+        // scrolling down a bit -> hide chrome
+        setChromeHidden(true)
+      }
+      lastScrollYRef.current = current
+    }
+
+    window.addEventListener('scroll', handleScrollDirection, { passive: true })
+    return () => window.removeEventListener('scroll', handleScrollDirection)
+  }, [])
+
+  // keyboard navigation
   useEffect(() => {
     function onKey(e) {
-      if (e.key === 'ArrowLeft' && prevSlug) router.push(`/chapters/${prevSlug}`).then(() => window.scrollTo(0,0))
-      if (e.key === 'ArrowRight' && nextSlug) router.push(`/chapters/${nextSlug}`).then(() => window.scrollTo(0,0))
+      if (e.key === 'ArrowLeft' && prevSlug) router.push(`/chapters/${prevSlug}`).then(() => window.scrollTo(0, 0))
+      if (e.key === 'ArrowRight' && nextSlug) router.push(`/chapters/${nextSlug}`).then(() => window.scrollTo(0, 0))
     }
     window.addEventListener('keydown', onKey)
     return () => window.removeEventListener('keydown', onKey)
@@ -92,24 +118,28 @@ export default function Chapter({ chapterHtml, chapter, allChapters, prevSlug, n
   return (
     <div className="min-h-screen bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100">
       <div id="read-progress-bar" className="read-progress-bar" />
+
       <TopBar
         onOpenChapters={() => setChapOpen(true)}
-        onToggleTheme={() => {
-          const isDark = document.documentElement.getAttribute('data-theme') === 'dark'
-          if (isDark) document.documentElement.removeAttribute('data-theme')
-          else document.documentElement.setAttribute('data-theme', 'dark')
-        }}
-        onSearch={(q) => {}}
+        onSearch={() => {}}
+        isHidden={chromeHidden}
       />
 
       <div className="max-w-5xl mx-auto flex gap-6 px-4 sm:px-6 lg:px-8 py-6">
-        <SidebarChapters chapters={allChapters} open={chapOpen} onClose={() => setChapOpen(false)} />
+        <SidebarChapters
+          chapters={allChapters}
+          open={chapOpen}
+          onClose={() => setChapOpen(false)}
+          currentSlug={chapter.slug}
+        />
 
         <main className="flex-1">
           {/* Chapter header */}
           <div className="chapter-meta">
-            <div className="novel-title" >Against The God</div>
-            <div className="chapter-title">Chapter {chapter.chapterNumber}{chapter.title ? ` — ${chapter.title}` : ''}</div>
+            <div className="novel-title">Against The God</div>
+            <div className="chapter-title">
+              Chapter {chapter.chapterNumber}{chapter.title ? ` — ${chapter.title}` : ''}
+            </div>
             <div className="chapter-subtitle">{chapter.publishedAt}</div>
           </div>
 
@@ -128,29 +158,42 @@ export default function Chapter({ chapterHtml, chapter, allChapters, prevSlug, n
           </div>
 
           <div className="mb-4">
-            <ReaderControls />
+            <ReaderControls showMobileControls={!chromeHidden} />
           </div>
 
           {/* Article */}
-          <article ref={articleRef} className="reader-content bg-transparent rounded" aria-label={`Chapter ${chapter.chapterNumber}`}>
+          <article
+            ref={articleRef}
+            key={chapter.slug}
+            className="reader-content bg-transparent rounded reader-fade"
+            aria-label={`Chapter ${chapter.chapterNumber}`}
+          >
             <div dangerouslySetInnerHTML={{ __html: chapterHtml }} />
           </article>
 
-          {/* Bottom inline prev/next links (like WuxiaWorld/Webnovel) */}
+          {/* Bottom inline prev/next links */}
           <div className="mt-8 mb-12 text-center">
             <div className="flex items-center justify-center gap-6">
               {prevSlug ? (
                 <button onClick={() => navTo(prevSlug)} className="px-4 py-2 rounded border btn">← Previous Chapter</button>
-              ) : <span className="px-4 py-2 rounded border opacity-40">← Previous Chapter</span>}
+              ) : (
+                <span className="px-4 py-2 rounded border opacity-40">← Previous Chapter</span>
+              )}
 
               {nextSlug ? (
                 <button onClick={() => navTo(nextSlug)} className="px-4 py-2 rounded border btn">Next Chapter →</button>
-              ) : <span className="px-4 py-2 rounded border opacity-40">Next Chapter →</span>}
+              ) : (
+                <span className="px-4 py-2 rounded border opacity-40">Next Chapter →</span>
+              )}
             </div>
 
-            {/* small "jump to top" for very long chapters */}
             <div className="mt-3">
-              <button onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })} className="text-sm underline">Jump to top</button>
+              <button
+                onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+                className="text-sm underline"
+              >
+                Jump to top
+              </button>
             </div>
           </div>
         </main>
@@ -169,7 +212,12 @@ export async function getStaticProps({ params }) {
   const chapter = getChapterBySlug(params.slug)
   const processed = await remark().use(html).process(chapter.content || '')
   const chapterHtml = processed.toString()
-  const allChapters = getAllChapters().map(c => ({ slug: c.slug, chapterNumber: c.chapterNumber, title: c.title, content: c.content }))
+  const allChapters = getAllChapters().map(c => ({
+    slug: c.slug,
+    chapterNumber: c.chapterNumber,
+    title: c.title,
+    content: c.content,
+  }))
   const idx = allChapters.findIndex(c => c.slug === chapter.slug)
   let prevSlug = null, nextSlug = null
   if (idx > 0) prevSlug = allChapters[idx - 1].slug

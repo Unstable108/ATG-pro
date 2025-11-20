@@ -16,21 +16,24 @@
 }
 
 /* dark site theme (applies only when attribute set) */
-[data-site-theme='dark'] {
+[data-site-theme="dark"] {
   --site-bg: #0b1220;
   --site-text: #e6eef8;
-  --site-border: rgba(148,163,184,0.12);
+  --site-border: rgba(148, 163, 184, 0.12);
   --site-muted: #94a3b8;
 }
 
 /* Use site variables across site UI */
-body, .site-root {
+body,
+.site-root {
   background: var(--site-bg);
   color: var(--site-text);
 }
 
 /* Example for header and sidebar if you use CSS variables */
-header, .sidebar, .card {
+header,
+.sidebar,
+.card {
   background: var(--site-bg);
   color: var(--site-text);
   border-color: var(--site-border);
@@ -45,29 +48,30 @@ header, .sidebar, .card {
 /* Default reader variables (day) */
 :root {
   --reader-font-size: 18px;
-  --reader-font-family: 'ui-sans-serif', system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial;
+  --reader-font-family: "ui-sans-serif", system-ui, -apple-system, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial;
   --reader-text-color: #111827;
   --reader-bg-color: #ffffff;
-  --reader-max-width: 720px;
+  --reader-max-width: 840px;
 }
 
 /* Reader theme presets via attribute - these are used as selectors to set variables */
-[data-reader-theme='day'] {
+[data-reader-theme="day"] {
   --reader-text-color: #111827;
   --reader-bg-color: #ffffff;
 }
 
-[data-reader-theme='night'] {
+[data-reader-theme="night"] {
   --reader-text-color: #e5e7eb;
   --reader-bg-color: #0f172a;
 }
 
-[data-reader-theme='sepia'] {
+[data-reader-theme="sepia"] {
   --reader-text-color: #111827;
   --reader-bg-color: #f5ecd8;
 }
 
-/* .reader-content uses variables above */
+/* Reader layout */
 .reader-content {
   font-size: var(--reader-font-size);
   font-family: var(--reader-font-family);
@@ -78,16 +82,142 @@ header, .sidebar, .card {
   margin-right: auto;
   padding: 1.25rem;
   border-radius: 8px;
+
+  /* NEW: block-style reading */
+  text-align: left;
+  word-spacing: 0.02em; 
+}
+
+/* ---------------------------------
+   Fine-tuned reading typography
+   --------------------------------- */
+
+/* Base paragraph style */
+.reader-content p {
+  margin: 0.6rem 0;
+  line-height: 1.8;
+}
+
+/* Slightly tighter stack between paragraphs */
+.reader-content p + p {
+  margin-top: 0.45rem;
+}
+
+/* First paragraph closer to title (no big gap at top) */
+.reader-content p:first-child {
+  margin-top: 0.25rem;
+}
+
+
+/* Optional: soften text edges for long reading */
+.reader-content {
+  letter-spacing: 0em;
+}
+
+/* Headings inside chapter content (if any) */
+.reader-content h2,
+.reader-content h3 {
+  margin-top: 1.5rem;
+  margin-bottom: 0.5rem;
+  font-weight: 700;
+}
+
+.reader-content h2 {
+  font-size: 1.2rem;
+}
+
+.reader-content h3 {
+  font-size: 1.05rem;
+}
+
+/* Lists */
+.reader-content ul,
+.reader-content ol {
+  margin: 0.6rem 0 0.6rem 1.25rem;
+  line-height: 1.7;
+}
+
+.reader-content li + li {
+  margin-top: 0.2rem;
+}
+
+/* Blockquotes / quotes (if any) */
+.reader-content blockquote {
+  margin: 0.8rem 0;
+  padding-left: 0.9rem;
+  border-left: 3px solid rgba(148, 163, 184, 0.7);
+  font-style: italic;
+  color: #6b7280;
+}
+
+/* Links inside content */
+.reader-content a {
+  color: #1d4ed8;
+  text-decoration: none;
+}
+
+.reader-content a:hover {
+  text-decoration: underline;
+}
+
+/* Code / inline */
+.reader-content code {
+  font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas,
+    "Liberation Mono", "Courier New", monospace;
+  font-size: 0.9em;
+  background: rgba(148, 163, 184, 0.15);
+  padding: 0.05rem 0.25rem;
+  border-radius: 3px;
+}
+/* Subtle fade-in when chapter loads */
+.reader-fade {
+  animation: readerFadeIn 220ms ease-out;
+}
+
+@keyframes readerFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(4px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+
+/* ---------------------------------
+   Mobile-specific tweaks
+   --------------------------------- */
+
+@media (max-width: 640px) {
+  .reader-content {
+    max-width: 100%;
+    padding: 0.5rem 0.75rem 1.5rem;
+    border-radius: 0;
+    background: transparent; /* already set earlier, but just to be sure */
+  }
+
+  .reader-content p {
+    margin: 0.5rem 0;
+    line-height: 1.8;
+  }
+
+  /* Slightly bigger base size on mobile for comfort */
+  .reader-content {
+    font-size: calc(var(--reader-font-size) * 1.02);
+  }
 }
 
 /* keep reader content safe from global site theme */
-[data-site-theme='dark'] .reader-content {
+[data-site-theme="dark"] .reader-content {
   /* do not override .reader-content vars here — reader controls set them */
 }
 
 /* Small helpers */
-.reader-bottom-space { height: 72px; }
-
+/* .reader-bottom-space {
+  height: 1px;
+} */
 
 .container {
   max-width: 800px;
@@ -125,14 +255,14 @@ header, .sidebar, .card {
   padding: 0.5rem;
 }
 .sticky-nav .btn {
-  background: rgba(255,255,255,0.9);
+  background: rgba(255, 255, 255, 0.9);
   border: 1px solid #e5e7eb;
   padding: 0.5rem 0.75rem;
   border-radius: 6px;
 }
 .dark .sticky-nav .btn {
-  background: rgba(15,23,42,0.9);
-  border-color: rgba(148,163,184,0.12);
+  background: rgba(15, 23, 42, 0.9);
+  border-color: rgba(148, 163, 184, 0.12);
 }
 
 /* Floating bottom prev/next for mobile */
@@ -175,13 +305,13 @@ header, .sidebar, .card {
 /* Style for inline nav buttons */
 .btn {
   background: var(--reader-bg-color);
-  border: 1px solid rgba(0,0,0,0.06);
+  border: 1px solid rgba(0, 0, 0, 0.06);
   padding: 0.4rem 0.7rem;
   border-radius: 6px;
   font-weight: 600;
 }
 .dark .btn {
-  border-color: rgba(148,163,184,0.12);
+  border-color: rgba(148, 163, 184, 0.12);
 }
 
 /* Top inline nav spacing */
@@ -201,7 +331,9 @@ article + .mt-8 {
 }
 
 /* landing page specific styles */
-.prose a { color: #1d4ed8; }
+.prose a {
+  color: #1d4ed8;
+}
 .line-clamp-3 {
   display: -webkit-box;
   -webkit-line-clamp: 3;
@@ -211,7 +343,9 @@ article + .mt-8 {
 
 /* mobile tweaks */
 @media (max-width: 640px) {
-  .w-56 { width: 14rem; } /* ensure consistent cover sizing on mobile */
+  .w-56 {
+    width: 14rem;
+  } /* ensure consistent cover sizing on mobile */
   .chapter-title {
     font-size: 1.25rem;
   }
@@ -220,8 +354,5 @@ article + .mt-8 {
   }
   .floating-nav-mobile {
     bottom: 92px;
-  }
-  .reader-content {
-    padding: 1rem;
   }
 }
