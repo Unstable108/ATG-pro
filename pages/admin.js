@@ -31,15 +31,22 @@ export default function AdminPage() {
     } catch (e) {}
   }, []);
 
-  function reset() {
+  // Clear just the form fields (not status / download / commit)
+  function resetFormFields() {
     setFilename("");
     setChapterNumber("");
     setTitle("");
     setContent("");
+    if (fileInputRef.current) fileInputRef.current.value = "";
+  }
+
+  // Reset everything (used by Reset button)
+  function resetAll() {
+    resetFormFields();
     setStatus(null);
     setDownloadUrl(null);
     setDownloadName(null);
-    if (fileInputRef.current) fileInputRef.current.value = "";
+    setCommitUrl(null);
   }
 
   async function submit(e) {
@@ -47,6 +54,7 @@ export default function AdminPage() {
     setStatus(null);
     setDownloadUrl(null);
     setDownloadName(null);
+    // don't clear commitUrl; a new success will overwrite it
 
     // basic validation
     if (!chapterNumber) {
@@ -72,13 +80,18 @@ export default function AdminPage() {
 
     try {
       const fd = new FormData();
-      const derived = slugify(
-        filename || title || `chapter-${String(chapterNumber).padStart(2, "0")}`
-      );
-      fd.append("filename", derived);
+
+      // If filename field is blank, we DO NOT send filename.
+      // Backend will then name it chapter-{chapterNumber}.md.
+      const derived = slugify(filename || "");
+      if (derived) {
+        fd.append("filename", derived);
+      }
+
       fd.append("chapterNumber", chapterNumber);
       fd.append("title", title);
       fd.append("content", content);
+
       const file =
         fileInputRef.current &&
         fileInputRef.current.files &&
@@ -93,65 +106,60 @@ export default function AdminPage() {
         body: fd,
       });
 
-      // if server returned JSON (likely GitHub commit response)
-      // inside submit() after receiving response (replace the previous handling)
       const contentType = res.headers.get("content-type") || "";
+
+      // JSON: likely a GitHub commit
       if (contentType.includes("application/json")) {
         const json = await res.json();
         if (res.ok) {
-          // if commit to GitHub happened, try to show commit link
+          // default message
+          let msg = "Uploaded.";
+
           if (
             json.github &&
             json.github.commit &&
             json.github.commit.html_url
           ) {
-            setStatus({
-              type: "success",
-              msg: "Uploaded and committed to GitHub.",
-            });
-            try { localStorage.setItem('adminToken', token) } catch (e) {}
-    // clear all fields except the token
-    reset()
-            setCommitUrl(json.github.commit.html_url); // store to show link
+            msg = "Uploaded and committed to GitHub.";
+            setCommitUrl(json.github.commit.html_url);
           } else if (
             json.github &&
             json.github.content &&
             json.github.content.path
           ) {
-            // sometimes the response doesn't include commit.html_url; construct a repo URL if you have REPO_OWNER and REPO_NAME
-            // attempt to show a constructed file URL (best-effort)
-            const pathInRepo = json.github.content.path;
-            const constructed = `https://github.com/${
-              process.env.NEXT_PUBLIC_REPO_OWNER || "<owner>"
-            }/${process.env.NEXT_PUBLIC_REPO_NAME || "<repo>"}/blob/${
-              process.env.NEXT_PUBLIC_REPO_BRANCH || "main"
-            }/${pathInRepo}`;
-            setStatus({
-              type: "success",
-              msg: "Uploaded and committed to GitHub.",
-            });
-            setCommitUrl(constructed);
-          } else {
-            setStatus({
-              type: "success",
-              msg: "Uploaded (GitHub response returned).",
-            });
+            // If we want to construct a file URL, we could use NEXT_PUBLIC_* env,
+            // but for now just keep generic success text.
+            msg = "Uploaded and committed to GitHub.";
           }
+
+          setStatus({ type: "success", msg });
+          try {
+            localStorage.setItem("adminToken", token);
+          } catch (e) {}
+
+          // clear form fields after success
+          resetFormFields();
         } else {
-          setStatus({ type: "error", msg: json.error || JSON.stringify(json) });
+          setStatus({
+            type: "error",
+            msg: json.error || JSON.stringify(json),
+          });
         }
         return;
       }
 
-      // fallback: API returned markdown text (attachment). Read as blob and create download link
+      // Fallback: server returned raw markdown (no GitHub env configured)
       const blob = await res.blob();
       const text = await blob.text();
-      // If the response is markdown text but sent as application/octet-stream or text/markdown,
-      // create a downloadable blob and also show the content in a preview.
       const url = URL.createObjectURL(
         new Blob([text], { type: "text/markdown" })
       );
-      const suggestedName = `${derived}.md`;
+
+      // suggested filename: chapter-<no>.md or derived (if user set one)
+      const safeDerived =
+        derived || `chapter-${String(chapterNumber).trim()}`;
+      const suggestedName = `${safeDerived}.md`;
+
       setDownloadUrl(url);
       setDownloadName(suggestedName);
       setStatus({
@@ -159,10 +167,13 @@ export default function AdminPage() {
         msg: "No GitHub configured — markdown prepared for download (save into content/chapters/ and push).",
       });
 
-      // Also keep token in localStorage
+      // Save token
       try {
         localStorage.setItem("adminToken", token);
       } catch (e) {}
+
+      // Optional: also clear form fields here if you want, even for fallback:
+      resetFormFields();
     } catch (err) {
       console.error(err);
       setStatus({
@@ -215,10 +226,11 @@ export default function AdminPage() {
               value={filename}
               onChange={(e) => setFilename(e.target.value)}
               className="mt-1 block w-full rounded border px-3 py-2"
-              placeholder="e.g. 02-second-chapter"
+              placeholder="leave empty for chapter-{no}.md"
             />
             <p className="text-xs text-gray-500 mt-1">
-              If empty, a slug will be derived from title or chapter number.
+              If empty, backend will name it <code>chapter-{"{number}"}.md</code>.
+              If you fill this, it will be used as the filename (slugified).
             </p>
           </div>
 
@@ -285,7 +297,7 @@ export default function AdminPage() {
             <button
               type="button"
               className="rounded border px-3 py-2"
-              onClick={reset}
+              onClick={resetAll}
             >
               Reset
             </button>
@@ -332,13 +344,12 @@ export default function AdminPage() {
                 Preview markdown
               </summary>
               <pre className="mt-2 whitespace-pre-wrap text-xs p-2 bg-white border rounded max-h-64 overflow-auto">
-                {/* fetch text for preview */}
-                {/* to avoid repeating network fetch, we use the blob url to show preview via fetch in effect - but keep it simple: show a message */}
                 Click "Download" or "Copy" to get the markdown text.
               </pre>
             </details>
           </div>
         )}
+
         {commitUrl && (
           <div className="mt-3 text-sm">
             <a
