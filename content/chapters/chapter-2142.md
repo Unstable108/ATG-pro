@@ -1,6 +1,6 @@
 ---
-chapterNumber: 2042
-title: ""
+chapterNumber: 2142
+title: "The Wild heart loses"
 publishedAt: "2025-11-19"
 ---
 
@@ -212,4 +212,5 @@ Wuming (无明 - Wuming): The title of Shen Wuyanye. It literally means "No Ligh
 Jue Luo (绝罗 - Jueluo): The title of Dian Luohou. It can be interpreted as "Absolute Net" or "Ultimate Ensnarement."
 
 9:
+
 Heartless Sword and Heartbreak Thorn (绝情剑, 断情刺 - Jueqing Jian, Duanqing Ci): The names of Shen Wuyi's weapons. The names reflect a theme of severing emotions.
