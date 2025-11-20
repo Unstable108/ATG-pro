@@ -1,102 +1,150 @@
 // components/ReaderControls.jsx
-import { useEffect, useState } from 'react'
-import MobileSettingsModal from './MobileSettingsModal'
+import { useEffect, useState } from "react";
 
 const FONT_FAMILIES = [
-  { id: 'sans', label: 'Sans', css: `-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial` },
-  { id: 'serif', label: 'Serif', css: `Georgia,"Times New Roman",Times,serif` },
-  { id: 'mono', label: 'Mono', css: `ui-monospace,SFMono-Regular,Menlo,Monaco,"Roboto Mono",monospace` },
-]
+  {
+    id: "sans",
+    label: "Sans",
+    css: `-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial`,
+  },
+  {
+    id: "serif",
+    label: "Serif",
+    css: `Georgia,"Times New Roman",Times,serif`,
+  },
+  {
+    id: "mono",
+    label: "Mono",
+    css: `ui-monospace,SFMono-Regular,Menlo,Monaco,"Roboto Mono",monospace`,
+  },
+];
 
 export default function ReaderControls({ showMobileControls = true }) {
-  const [fontSize, setFontSize] = useState(18)
-  const [fontFamily, setFontFamily] = useState(FONT_FAMILIES[0].css)
-  const [textColor, setTextColor] = useState('#111827')
-  const [bgColor, setBgColor] = useState('#ffffff')
-  const [readerTheme, setReaderTheme] = useState('day') // 'day' | 'night' | 'sepia'
-  const [modalOpen, setModalOpen] = useState(false)
+  const [fontSize, setFontSize] = useState(18);
+  const [fontFamily, setFontFamily] = useState(FONT_FAMILIES[0].css);
+  const [readerTheme, setReaderTheme] = useState("day"); // "day" | "night" | "sepia"
 
-  // load prefs from localStorage
+  // Load prefs on mount
   useEffect(() => {
     try {
-      const saved = typeof window !== 'undefined' && window.localStorage.getItem('readerPrefs')
+      const saved =
+        typeof window !== "undefined" &&
+        window.localStorage.getItem("readerPrefs");
       if (saved) {
-        const p = JSON.parse(saved)
-        if (p.fontSize) setFontSize(p.fontSize)
-        if (p.fontFamily) setFontFamily(p.fontFamily)
-        if (p.textColor) setTextColor(p.textColor)
-        if (p.bgColor) setBgColor(p.bgColor)
-        if (p.readerTheme) setReaderTheme(p.readerTheme)
+        const p = JSON.parse(saved);
+        if (p.fontSize) setFontSize(p.fontSize);
+        if (p.fontFamily) setFontFamily(p.fontFamily);
+        if (p.readerTheme) setReaderTheme(p.readerTheme);
       }
     } catch (e) {}
-  }, [])
+  }, []);
 
-  // apply prefs to CSS vars scoped to reader and persist
+  // Apply + persist
   useEffect(() => {
-    // set CSS variables used by .reader-content (these are reader-scoped variables)
-    document.documentElement.style.setProperty('--reader-font-size', `${fontSize}px`)
-    document.documentElement.style.setProperty('--reader-font-family', fontFamily)
-    document.documentElement.style.setProperty('--reader-text-color', textColor)
-    document.documentElement.style.setProperty('--reader-bg-color', bgColor)
+    if (typeof document !== "undefined") {
+      document.documentElement.style.setProperty(
+        "--reader-font-size",
+        `${fontSize}px`
+      );
+      document.documentElement.setAttribute("data-reader-theme", readerTheme);
+    }
 
-    // set a data attribute to indicate reader theme (so CSS can use selectors)
     try {
-      document.documentElement.setAttribute('data-reader-theme', readerTheme)
+      localStorage.setItem(
+        "readerPrefs",
+        JSON.stringify({ fontSize, fontFamily, readerTheme })
+      );
     } catch (e) {}
+  }, [fontSize, fontFamily, readerTheme]);
 
-    localStorage.setItem('readerPrefs', JSON.stringify({ fontSize, fontFamily, textColor, bgColor, readerTheme }))
-  }, [fontSize, fontFamily, textColor, bgColor, readerTheme])
+  function resetAll() {
+    setFontSize(18);
+    setFontFamily(FONT_FAMILIES[0].css);
+    setReaderTheme("day");
+  }
 
   return (
     <>
       {/* Desktop toolbar */}
-      <div className="hidden sm:block p-3 bg-gray-50 dark:bg-slate-800 rounded-md shadow-sm">
-        <div className="flex gap-3 items-center">
+      <div className="hidden sm:block p-3 bg-gray-50 dark:bg-slate-800 border border-gray-200 dark:border-slate-700 rounded-md shadow-sm mb-3 text-slate-900 dark:text-slate-100">
+        <div className="flex gap-3 items-center flex-wrap">
+          {/* Font family */}
           <label className="flex items-center gap-2">
             <span className="text-sm">Font</span>
-            <select value={fontFamily} onChange={e => setFontFamily(e.target.value)} className="rounded border px-2 py-1">
-              {FONT_FAMILIES.map(f => <option key={f.id} value={f.css}>{f.label}</option>)}
+            <select
+              value={fontFamily}
+              onChange={(e) => setFontFamily(e.target.value)}
+              className="rounded border border-slate-200 dark:border-slate-600 bg-white dark:bg-slate-900 text-sm text-slate-900 dark:text-slate-100 px-2 py-1"
+              style={{ fontFamily }}
+            >
+              {FONT_FAMILIES.map((f) => (
+                <option key={f.id} value={f.css}>
+                  {f.label}
+                </option>
+              ))}
             </select>
           </label>
 
+          {/* Font size */}
           <label className="flex items-center gap-2">
             <span className="text-sm">Size</span>
-            <input type="range" min={14} max={32} value={fontSize} onChange={e => setFontSize(Number(e.target.value))} />
-            <span className="w-8 text-right">{fontSize}px</span>
+            <input
+              type="range"
+              min={14}
+              max={32}
+              value={fontSize}
+              onChange={(e) => setFontSize(Number(e.target.value))}
+              className="accent-blue-600"
+            />
+            <span className="w-8 text-right text-xs">{fontSize}px</span>
           </label>
 
-          <label className="flex items-center gap-2">
-            <span className="text-sm">Theme</span>
+          {/* Theme buttons */}
+          <div className="flex items-center gap-1">
+            <span className="text-sm mr-1">Theme</span>
             <button
-              onClick={() => { setReaderTheme('day'); setBgColor('#ffffff'); setTextColor('#111827') }}
-              className="px-2 py-1 rounded border text-sm"
+              type="button"
+              onClick={() => setReaderTheme("day")}
+              className={
+                "px-2 py-1 rounded border text-xs " +
+                (readerTheme === "day"
+                  ? "bg-blue-600 text-white border-blue-600"
+                  : "bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 border-slate-200 dark:border-slate-600")
+              }
             >
               Day
             </button>
             <button
-              onClick={() => { setReaderTheme('night'); setBgColor('#0f172a'); setTextColor('#e5e7eb') }}
-              className="px-2 py-1 rounded border text-sm"
+              type="button"
+              onClick={() => setReaderTheme("night")}
+              className={
+                "px-2 py-1 rounded border text-xs " +
+                (readerTheme === "night"
+                  ? "bg-blue-600 text-white border-blue-600"
+                  : "bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 border-slate-200 dark:border-slate-600")
+              }
             >
               Night
             </button>
             <button
-              onClick={() => { setReaderTheme('sepia'); setBgColor('#f5ecd8'); setTextColor('#111827') }}
-              className="px-2 py-1 rounded border text-sm"
+              type="button"
+              onClick={() => setReaderTheme("sepia")}
+              className={
+                "px-2 py-1 rounded border text-xs " +
+                (readerTheme === "sepia"
+                  ? "bg-blue-600 text-white border-blue-600"
+                  : "bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 border-slate-200 dark:border-slate-600")
+              }
             >
               Sepia
             </button>
-          </label>
+          </div>
 
           <div className="ml-auto">
             <button
-              onClick={() => {
-                setFontSize(18)
-                setFontFamily(FONT_FAMILIES[0].css)
-                setTextColor('#111827')
-                setBgColor('#ffffff')
-                setReaderTheme('day')
-              }}
-              className="px-3 py-1 rounded border"
+              type="button"
+              onClick={resetAll}
+              className="px-3 py-1 rounded border text-xs bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 border-slate-200 dark:border-slate-600"
             >
               Reset
             </button>
@@ -107,53 +155,50 @@ export default function ReaderControls({ showMobileControls = true }) {
       {/* Mobile bottom toolbar */}
       {showMobileControls && (
         <div className="sm:hidden fixed bottom-3 left-1/2 transform -translate-x-1/2 z-50 w-[92%]">
-          <div className="reader-controls-mobile bg-white dark:bg-slate-900 rounded-xl p-2 shadow-lg flex items-center justify-between">
+          <div className="bg-white dark:bg-slate-800 rounded-xl p-2 shadow-lg flex items-center justify-between border border-slate-200 dark:border-slate-700">
+            {/* Font size +/- */}
+            <div className="flex items-center gap-1">
+              <button
+                type="button"
+                aria-label="Decrease font"
+                onClick={() => setFontSize((f) => Math.max(14, f - 1))}
+                className="px-2 py-1 rounded border text-xs bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 border-slate-200 dark:border-slate-600"
+              >
+                A-
+              </button>
+              <button
+                type="button"
+                aria-label="Increase font"
+                onClick={() => setFontSize((f) => Math.min(32, f + 1))}
+                className="px-2 py-1 rounded border text-xs bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 border-slate-200 dark:border-slate-600"
+              >
+                A+
+              </button>
+            </div>
+
+            {/* Theme toggle day/night */}
             <button
-              aria-label="Open settings"
-              onClick={() => setModalOpen(true)}
-              className="px-3 py-2 rounded"
+              type="button"
+              aria-label="Toggle reader theme"
+              onClick={() =>
+                setReaderTheme(readerTheme === "night" ? "day" : "night")
+              }
+              className="px-3 py-1 rounded border text-lg bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 border-slate-200 dark:border-slate-600"
             >
-              A
+              {readerTheme === "night" ? "🌙" : "☀️"}
             </button>
 
+            {/* Reset */}
             <button
-              aria-label="Reader theme toggle"
-              onClick={() => setReaderTheme(readerTheme === 'night' ? 'day' : 'night')}
-              className="px-3 py-2 rounded"
-            >
-              {readerTheme === 'night' ? '🌙' : '☀️'}
-            </button>
-
-            <button
-              aria-label="Width"
-              onClick={() => {
-                const cur = document.documentElement.style.getPropertyValue('--reader-max-width') || ''
-                if (cur === '720px') document.documentElement.style.setProperty('--reader-max-width', '100%')
-                else document.documentElement.style.setProperty('--reader-max-width', '720px')
-              }}
-              className="px-3 py-2 rounded"
-            >
-              W
-            </button>
-
-            <button
-              onClick={() => {
-                setFontSize(18)
-                setFontFamily(FONT_FAMILIES[0].css)
-                setTextColor('#111827')
-                setBgColor('#ffffff')
-                setReaderTheme('day')
-              }}
-              className="px-3 py-2 rounded"
+              type="button"
+              onClick={resetAll}
+              className="px-3 py-1 rounded border text-xs bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 border-slate-200 dark:border-slate-600"
             >
               Reset
             </button>
           </div>
         </div>
       )}
-
-      <div className="reader-bottom-space" />
-      <MobileSettingsModal open={modalOpen} onClose={() => setModalOpen(false)} />
     </>
-  )
+  );
 }

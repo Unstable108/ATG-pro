@@ -10,16 +10,21 @@ export default function TopBar({
   isHidden = false,
 }) {
   const [q, setQ] = useState(initialSearch)
-  const [siteTheme, setSiteTheme] = useState('light')
+  const [siteTheme, setSiteTheme] = useState('light') // <-- plain string
   const router = useRouter()
 
   useEffect(() => {
     try {
-      const t =
-        typeof window !== 'undefined' &&
-        window.localStorage.getItem('siteTheme')
-      if (t === 'dark') setSiteTheme('dark')
-      else setSiteTheme('light')
+      const root = document.documentElement
+      const saved = window.localStorage.getItem('siteTheme')
+
+      if (saved === 'dark') {
+        root.classList.add('dark')
+        setSiteTheme('dark')
+      } else {
+        root.classList.remove('dark')
+        setSiteTheme('light')
+      }
     } catch (e) {}
   }, [])
 
@@ -27,12 +32,13 @@ export default function TopBar({
     const next = siteTheme === 'dark' ? 'light' : 'dark'
     setSiteTheme(next)
     try {
+      const root = document.documentElement
       if (next === 'dark') {
-        document.documentElement.setAttribute('data-site-theme', 'dark')
-        localStorage.setItem('siteTheme', 'dark')
+        root.classList.add('dark')
+        window.localStorage.setItem('siteTheme', 'dark')
       } else {
-        document.documentElement.removeAttribute('data-site-theme')
-        localStorage.setItem('siteTheme', 'light')
+        root.classList.remove('dark')
+        window.localStorage.setItem('siteTheme', 'light')
       }
     } catch (e) {}
   }
@@ -42,11 +48,9 @@ export default function TopBar({
     const query = q.trim()
     if (!query) return
 
-    // If page passes a custom handler, use it
     if (onSearch) {
       onSearch(query)
     } else {
-      // Default: go to /chapters?q=...
       router.push(`/chapters?q=${encodeURIComponent(query)}`)
     }
   }
@@ -54,7 +58,7 @@ export default function TopBar({
   return (
     <header
       className={
-        'bg-white dark:bg-slate-900 border-b dark:border-slate-700 sticky top-0 z-40 transition-transform duration-200 ' +
+        'bg-white dark:bg-slate-900 border-b border-slate-200 dark:border-slate-700 sticky top-0 z-40 transition-transform duration-200 ' +
         (isHidden ? '-translate-y-full pointer-events-none' : 'translate-y-0')
       }
     >
@@ -84,14 +88,14 @@ export default function TopBar({
             <div className="text-lg font-semibold">ATG</div>
           </Link>
 
-          {/* SEARCH: now visible on mobile too */}
+          {/* SEARCH */}
           <form onSubmit={handleSubmit} className="flex-1">
             <div className="relative">
               <input
                 value={q}
                 onChange={(e) => setQ(e.target.value)}
                 placeholder="Search chapter no or title..."
-                className="w-full rounded-md border px-3 py-2 pl-10 text-sm focus:outline-none focus:ring-2 focus:ring-blue-500"
+                className="w-full rounded-md border border-slate-200 dark:border-slate-600 bg-white dark:bg-slate-800 px-3 py-2 pl-10 text-sm text-slate-900 dark:text-slate-100 focus:outline-none focus:ring-2 focus:ring-blue-500"
                 aria-label="Search chapters"
               />
               <div className="absolute left-3 top-2.5 text-gray-400">
@@ -115,7 +119,7 @@ export default function TopBar({
           <div className="flex items-center gap-2">
             <button
               onClick={toggleSiteTheme}
-              className="p-2 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500"
+              className="p-2 rounded-md focus:outline-none focus:ring-2 focus:ring-blue-500 text-slate-600 dark:text-slate-200"
               aria-label="Toggle site theme"
             >
               {siteTheme === 'dark' ? (
