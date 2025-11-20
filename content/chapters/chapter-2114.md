@@ -1,6 +1,6 @@
 ---
 chapterNumber: 2114
-title: "The Evil God Finally Remembers"
+title: "Final Memory of the Heretic God"
 publishedAt: "2025-11-20"
 ---
 
@@ -538,4 +538,5 @@ Hanging down (垂地 - chuí dì): A term used to describe something that is han
 Without sorrow or hatred, without resentment or harm (无悲无恨, 无怨无伤 - wú bēi wú hèn, wú yuàn wú shāng): A term used to describe a state of being free from negative emotions such as sadness, hatred, resentment, or pain.
 
 91:
+
 颓然 (tuí rán): Dejected; dispirited;颓: dejected; dispirited; downcast.
