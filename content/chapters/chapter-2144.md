@@ -1,6 +1,6 @@
 ---
 chapterNumber: 2144
-title: ""
+title: "Renounces Sword Heart"
 publishedAt: "2025-11-19"
 ---
 
