@@ -108,7 +108,7 @@ export default function Chapter({ chapterHtml, chapter, allChapters, prevSlug, n
         <main className="flex-1">
           {/* Chapter header */}
           <div className="chapter-meta">
-            <div className="novel-title">Against The God</div>
+            <div className="novel-title" >Against The God</div>
             <div className="chapter-title">Chapter {chapter.chapterNumber}{chapter.title ? ` — ${chapter.title}` : ''}</div>
             <div className="chapter-subtitle">{chapter.publishedAt}</div>
           </div>

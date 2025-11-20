@@ -109,6 +109,9 @@ export default function AdminPage() {
               type: "success",
               msg: "Uploaded and committed to GitHub.",
             });
+            try { localStorage.setItem('adminToken', token) } catch (e) {}
+    // clear all fields except the token
+    reset()
             setCommitUrl(json.github.commit.html_url); // store to show link
           } else if (
             json.github &&
