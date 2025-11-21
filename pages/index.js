@@ -9,7 +9,7 @@ import path from "path";
 import { useEffect, useState } from "react";
 
 export default function Home({ novel, chapters }) {
-  const latest = [...chapters].slice(-4).reverse(); // latest 4, newest first
+  const latest = [...chapters].slice(-2).reverse(); // latest 2, newest first
 
   // Client-side state for continue reading
   const [continueItem, setContinueItem] = useState(null);
