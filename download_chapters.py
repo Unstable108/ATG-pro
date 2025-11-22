@@ -1,0 +1,114 @@
+import os
+import re
+import time
+import requests
+from bs4 import BeautifulSoup
+from datetime import datetime
+
+# ====================== CONFIG ======================
+# You now set the REAL chapter numbers you want
+START_CHAPTER = 2000
+END_CHAPTER   = 2005
+
+DELAY = 1.5
+OUTPUT_DIR = "chapters"
+URL_OFFSET = 3  # URL = real_chapter + 3
+
+os.makedirs(OUTPUT_DIR, exist_ok=True)
+
+def clean_content(soup):
+    # Remove ads/scripts
+    for trash in soup.select("script, style, .ads, a[href*='javascript']"):
+        trash.decompose()
+
+    # Get all <p> tags with real content
+    paragraphs = []
+    for p in soup.find_all("p"):
+        text = p.get_text(strip=True)
+        # Skip short lines (ads, nav) or navigation text
+        if len(text) < 30 or "arrow keys" in text.lower() or "prev/next" in text.lower():
+            continue
+        # Remove reaction numbers like "text2"
+        text = re.sub(r'([.!?])\s*\d+$', r'\1', text)
+        paragraphs.append(text)
+
+    full_text = "\n\n".join(paragraphs).strip()
+    return full_text if len(full_text) > 800 else "Content too short"
+
+def extract_real_title_and_number(soup):
+    # Method 1: Look for <span class="chapter">Chapter 2133 - Stray Not...</span>
+    span = soup.find("span", class_="chapter")
+    if span:
+        text = span.get_text(strip=True)
+        match = re.match(r"Chapter\s*\d+\s*-\s*(.+)", text, re.I)
+        if match:
+            return match.group(1).strip()
+
+    # Method 2: From <h1> like "Chapter 1367 - Choice?"
+    h1 = soup.find("h1")
+    if h1:
+        text = h1.get_text(strip=True)
+        match = re.match(r"Chapter\s*\d+\s*-\s*(.+)", text, re.I)
+        if match:
+            return match.group(1).strip()
+
+    # Fallback
+    return "Unknown Title"
+
+for real_chap in range(START_CHAPTER, END_CHAPTER + 1):
+    url_chap = real_chap + URL_OFFSET
+    filename = f"{OUTPUT_DIR}/chapter-{real_chap}.md"
+    
+    if os.path.exists(filename):
+        print(f"Skipping chapter {real_chap} (already exists)")
+        continue
+
+    url = f"https://freewebnovel.com/novel/against-the-gods-novel/chapter-{url_chap}"
+    print(f"Fetching real chapter {real_chap} → URL chapter-{url_chap}")
+
+    try:
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+        }
+        r = requests.get(url, headers=headers, timeout=15)
+        
+        if r.status_code == 404:
+            print(f"Chapter URL {url_chap} not found. Maybe not released yet.")
+            break
+        if r.status_code != 200:
+            print(f"HTTP {r.status_code}, skipping...")
+            time.sleep(5)
+            continue
+
+        soup = BeautifulSoup(r.content, "html.parser")
+        
+        # Extract correct title
+        chapter_title = extract_real_title_and_number(soup)
+        
+        # Get content
+        content = clean_content(soup)
+        
+        if len(content) < 1000:
+            print(f"Content too short ({len(content)} chars). Wrong page?")
+            continue
+
+        # Frontmatter with CORRECT chapter number and title
+        frontmatter = f"""---
+chapterNumber: {real_chap}
+title: "{chapter_title.replace('"', '\\"')}"
+publishedAt: "{datetime.now().strftime('%Y-%m-%d')}"
+---
+"""
+
+        # Single newline after frontmatter for tight spacing
+        with open(filename, "w", encoding="utf-8") as f:
+            f.write(frontmatter + "\n" + content)
+
+        print(f"SAVED chapter-{real_chap}.md → \"{chapter_title}\" ({len(content)} chars)")
+
+        time.sleep(DELAY)
+
+    except Exception as e:
+        print(f"Error on chapter {real_chap}: {e}")
+
+print("All done! Files saved with correct chapter numbers and titles.")

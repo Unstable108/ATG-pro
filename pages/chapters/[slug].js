@@ -144,7 +144,7 @@ export default function Chapter({
         isHidden={chromeHidden}
       />
 
-      <div className="max-w-5xl mx-auto flex gap-6 px-4 sm:px-6 lg:px-8 py-6">
+      <div className="max-w-6xl mx-auto flex gap-6 px-1 sm:px-6 lg:px-8 py-6">
         <SidebarChapters
           chapters={allChapters}
           open={chapOpen}

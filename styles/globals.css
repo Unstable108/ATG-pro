@@ -14,7 +14,7 @@ body {
 
 /* Site-wide dark mode, controlled by <html class="dark"> */
 .dark body {
-  background: #020617; /* slate-950-ish */
+  background: #212121; /* slate-950-ish */
   color: #e5e7eb;      /* gray-200 */
 }
 
@@ -47,45 +47,52 @@ html.sepia .reader-content {
 
 
 /* ---------------------------------
-   READER — FONT + LAYOUT ONLY
-   (Colors now come from body / sepia / dark mode)
+   READER — STATIC + TYPOGRAPHY
    --------------------------------- */
 
-/* Only one variable: font-size */
+/* Default reader font size = 16px (WuxiaWorld-like) */
 :root {
-  --reader-font-size: 18px;
+  --reader-font-size: 16px;
 }
 
 .reader-content {
-  font-size: var(--reader-font-size, 18px);
-  font-family: "ui-sans-serif", system-ui, -apple-system, "Segoe UI",
-    Roboto, "Helvetica Neue", Arial;
+  font-size: var(--reader-font-size, 16px);
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
 
-  /* No explicit background/color here → inherit from body / sepia / dark */
-  max-width: 840px;
+  max-width: 60rem;           /* a bit wider, less enclosed */
   margin-left: auto;
   margin-right: auto;
-  padding: 1.25rem;
-
+  padding: 1rem 1rem 2rem;    /* lighter padding than a “card” */
   text-align: left;
   word-spacing: 0.02em;
   letter-spacing: 0em;
 }
+/* Dark mode chapter text color (WuxiaWorld-like) */
+.dark .reader-content {
+  color: rgb(224, 224, 224);
+}
+.dark .reader-content p,
+.dark .reader-content li,
+.dark .reader-content h2,
+.dark .reader-content h3 {
+  color: rgb(224, 224, 224);
+}
 
-/* ---------------------------------
-   Fine-tuned reading typography
-   --------------------------------- */
 
+/* Fine-tuned reading typography */
+/* Desktop / base */
 .reader-content p {
-  margin: 0.6rem 0;
-  line-height: 1.8;
+  margin-top: 0;
+  margin-bottom: 0.9rem;  /* space between paragraphs */
+  line-height: 1.7;       /* more breathing room between lines */
 }
-.reader-content p + p {
-  margin-top: 0.45rem;
-}
+
+/* First paragraph after title a bit closer */
 .reader-content p:first-child {
-  margin-top: 0.25rem;
+  margin-top: 0.4rem;
 }
+
 
 .reader-content h2,
 .reader-content h3 {
@@ -134,7 +141,7 @@ html.sepia .reader-content {
   border-radius: 3px;
 }
 
-/* Subtle fade-in when chapter loads */
+/* Fade-in */
 .reader-fade {
   animation: readerFadeIn 220ms ease-out;
 }
@@ -149,22 +156,22 @@ html.sepia .reader-content {
   }
 }
 
-/* ---------------------------------
-   Mobile-specific reader layout ONLY
-   --------------------------------- */
+/* Mobile layout only (no color changes here) */
 @media (max-width: 640px) {
   .reader-content {
     max-width: 100%;
-    padding: 0.35rem 0.5rem 1.5rem; /* wider lines on mobile */
+    padding: 0.5rem 0.75rem 1.75rem;
     border-radius: 0;
-    font-size: calc(var(--reader-font-size, 18px) * 1.02);
+    font-size: calc(var(--reader-font-size, 16px) * 1.02);
   }
 
   .reader-content p {
-    margin: 0.5rem 0;
-    line-height: 1.8;
+    margin-top: 0;
+    margin-bottom: 0.8rem;  /* slightly tighter than desktop */
+    line-height: 1.6;       /* comfy on phone */
   }
 }
+
 
 /* ---------------------------------
    (rest of your CSS is unchanged)
