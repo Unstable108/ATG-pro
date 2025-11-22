@@ -1,223 +1,163 @@
 ---
 chapterNumber: 2122
 title: "High Priest Greets His Master"
-publishedAt: "2025-11-20"
+publishedAt: "2025-11-22"
 ---
 
-Hua Cai Li stepped forward, asking with full anticipation, "How is the taste? Did it make you~ submit~? Uncle Liu Xiao, you are the most esteemed God Official¹, you definitely can't be stubborn and speak falsely."
+Hua Caili stepped forward and asked expectantly, “How does it taste? Did it win you over? You are the High Priest of the highest honor. You mustn’t speak falsehood, no matter how much you want to!”
 
-Liu Xiao God Official didn't speak. His old eyes slowly lost focus. Following that, his sparse hair gradually floated up at a visible rate, until each strand stood on end.
+High Priest Liu Xiao did not say anything. His wizened eyes were slowly losing focus, and his sparse hair was standing up at a visible rate. Soon, they were all standing like he had been electrocuted by lightning.
 
-"Eh?" This strange phenomenon made Hua Cai Li's cherry lips part slightly in surprise.
+“Huh?” Hua Caili was so astonished that her mouth parted slightly. Yun Che gently tugged her sleeve and motioned for her to keep quiet, but she responded by brushing a dainty finger against his palm. She dared to convey physical affection right under the nose of a High Priest.
 
-Yun Che lightly tugged Hua Cai Li's sleeve, signaling her not to speak. But Hua Cai Li's soft, delicate fingers brushed his palm in return, subtly conveying intimacy to him right under a God Official's nose.
+High Priest Liu Xiao slowly closed his eyes and let out a long, shuddering moan. It sounded strange to say the least. When he finally opened his eyes, his gaze was still affixed to the ice bowl in his hand. His old eyes seemed to be shrouded by a layer of thin, icy mist, and he did not move for a very, very long time.
 
-Liu Xiao God Official slowly closed his eyes, letting out a long, strange groan that trembled.
+High Priest Liu Xiao seemed reluctant or unwilling to take a second sip. It was because his culinary knowledge told him that the soup was a one-of-a-kind masterpiece, the kind that could never be replicated. If he drank it all, then he might never be able to experience something like it again.
 
-When he opened his eyes, his gaze was still fixed on the ice bowl in his hand. His old eyes seemed to be covered by a thin layer of icy mist, and he remained motionless for a long time, as if reluctant... or unable to take a second bite.
+So, he gently pushed with his hand, sealing the ice bowl in a layer of profound qi. When he turned around, he stared at Yun Che with eyes so bright they were scorching.
 
-Because in his understanding of the culinary arts², this was a dream-like masterpiece, rarely seen in the world, that would be gone forever once consumed.
+“Who on earth is your culinary master, boy? I have lived for millions of years, and yet I never knew that an old monster like him existed!”
 
-His old hand gently pushed, and the ice bowl was sealed by a thin layer of profound energy³. As he turned, his old eyes, fixed on Yun Che, shot out divine light so scorching it was terrifying.
+Yun Che responded swiftly, “Senior Liu Xiao, my master comes from the outside. He had never set foot in the mortal coil because he was unwilling, and he specifically warned me not to tell anyone about him prior to his passing, so...”
 
-"Boy, just who is your culinary Master? I've existed for millions of years, and I never knew there was such an old monster in this world!"
+“Fine, fine. If you don’t want to tell me, so be it.”
 
-Yun Che quickly replied, "Replying to Senior⁴ Liu Xiao, my Master is a person from beyond this world, never wishing to be tainted by the mortal realm. Before his passing, he instructed this junior⁵ not to speak of him to anyone, so..."
+High Priest Liu Xiao waved him off. He did not try to pressure Yun Che in the slightest. On the contrary, the light in his eyes only grew stronger as he said, “The old monster may be gone, but this young monster is right in front of me!”
 
-"Alright, alright, then don't speak of it." Liu Xiao God Official waved a hand, showing no intention of forcing the issue. The divine light in his eyes, far from dimming, grew even stronger. "The old monster is gone, but there's still you, this little monster!"
+High Priest Liu Xiao proceeded to appear before Yun Che so fast that he literally left behind an afterimage. As if afraid that Yun Che would escape him, the thin, frail-looking man grabbed Yun Che’s arm with a speed that completely exceeded his ability to react and stared at him with blazing eyes, saying, “Boy, how on earth did you make this Liu Xiao Look Askance At Vicissitudes, Rainbow Cloud Soup, and Cloud Flaky Biscuit? Please teach me!”
 
-Before his afterimage dissipated, Liu Xiao God Official's withered figure instantly appeared before Yun Che. An old hand gripped his arm with a speed Yun Che couldn't react to, as if afraid he would run away. His gaze was like a burning torch: "Boy, how are this 'Liu Xiao Scorns the Mortal Dust,' and the 'Colorful Cloud Soup' and 'Reflected Cloud Crisp' made?! Quickly teach me..."
+Hua Caili let out a cry of astonishment and hurriedly shifted forward. She grabbed High Priest Liu Xiao’s sleeve and said with poorly concealed urgency, “You... You’re acting too aggressively, Uncle Liu Xiao! What if you accidentally hurt Big Brother Yun! Also... Culinary arts are the same as profound arts in that they follow the custom of inheritance. You can’t possibly expect him to teach you for free.”
 
-"Ah!" Hua Cai Li exclaimed in surprise, hastily moving to pull Liu Xiao God Official's sleeve, unable to hide her urgency: "You... your movements are so big, don't accidentally hurt Brother Yun! And... and the culinary arts, just like profound cultivation⁶, have laws of inheritance. How can you easily teach them to others?"
+High Priest Liu Xiao’s eyes bugged out for a moment before he withdrew his hand like lightning. Then, he gave himself a huge slap in the face.
 
-Liu Xiao God Official's eyes widened, he swiftly withdrew his hand, then "slapped" his own old face.
+“Right right right right right!”
 
-"Right, right, right, right, right!" After slapping his own old face, Liu Xiao God Official paced in small, annoyed steps: "Look at me, in my excitement, I almost broke a taboo. Unacceptable, utterly unacceptable."
+High Priest Liu Xiao stomped his feet in frustration after he was done slapping himself. “Look at me! I nearly broke a taboo because I was too excited! This shouldn’t be, this shouldn’t be!”
 
-After turning in a circle, he suddenly thought of something. He looked up at Yun Che again, the excitement in his eyes completely transformed into fervor: "That's right! I can take you as my Master! That way, you can teach me!"
+After circling the area once, he suddenly thought of something and stared at Yun Che once more. The excitement in his eyes completely transformed into passion as he declared, “Oh, right! I can become your disciple! That way, you can teach me to your heart’s content!”
 
-Before Yun Che and Hua Cai Li could react, he "whooshed" forward. This time, he used both hands, firmly grasping Yun Che's hands. The excitement and yearning on his old face almost materialized and overflowed: "Boy... bah! Little monster... tsk! Little Master⁷! I'll take you as my Master right now, you must accept me... Oh, right, the apprenticeship gift, the apprenticeship gift!"
+Before Yun Che or Hua Caili could react, he appeared before the young man once more. This time, he grabbed both of Yun Che’s hands tightly and begged him with an expression overflowing with desire and excitement, “Boy—oh, screw me, I mean little monster... No! I mean, little master! I humbly ask you to accept me as your disciple! Please don’t reject my request... Oh, right, how could I forget? A gift! A gift for my master!”
 
-As he spoke, his body quickly lowered, clearly intending to perform a kneeling bow.
+As he spoke, the old man swiftly bent down. It was clear he was planning to kneel before Yun Che. This unexpected development caught Hua Caili completely off guard as a matter of course. When she actually realized what High Priest Liu Xiao was planning to do, she paled and hurriedly tried to stop him.
 
-This unexpected development left Hua Cai Li dumbfounded, then her face turned pale. She hastily tried to pull Liu Xiao God Official up, but then heard the whistling wind in her ears, accompanied by an extremely terrified roar:
+It was at this moment that a windy howl and a beyond-horror-scream cut through the air, “Master! You mustn’t!”
 
-"Master, you cannot!"
+Wreathed in a storm, Divine Attendant Yuan Ying pounced onto the space in front of High Priest Liu Xiao in exceedingly inelegant fashion and blocked his knees from bending. It was only then that he managed to stop the man from kneeling.
 
-Yuan Ying God Attendant⁸, carrying a storm, rushed forward to Liu Xiao God Official in an extremely flustered and undignified posture, cushioning his knees with his own body, barely stopping him from bowing down.
+“You are a High Priest of the Pure Land, master! No one besides the supreme Abyssal Monarch possesses the right to command your head and knee! How can you possibly perform such a big salutation to a junior from a Kingdom of God?! You mustn’t! You absolutely mustn’t!”
 
-"Master, you are a God Official of the Pure Land⁹! Throughout the heavens, only the supreme Abyss Emperor¹⁰ can make you bow your head. How can you perform such a grand ceremony to a junior from a God Realm? Absolutely not, absolutely not!"
+Right now, Divine Attendant Yuan Ying was holding up High Priest Liu Xiao’s upper body with all he had while screaming without an ounce of grace whatsoever. Sweat was pouring down his head like crazy, and his face was full of shock and panic.
 
-He held up his hands, desperately supporting Liu Xiao God Official's upper body. As he howled, all decorum was lost, his head covered in sweat, only panic remaining.
+In response, High Priest Liu Xiao rolled his eyes at him and sent him flying with one kick.
 
-Liu Xiao God Official rolled his eyes, and with a kick, sent Yuan Ying God Attendant flying.
+Yuan Ying was one of the Four Divine Attendants of the Pure Land and a proud Divine Limit Realm profound practitioner. However, High Priest Liu Xiao had literally kicked him away like a ball. In the air, the attendant let out a hoarse scream, “Yun... Che...”
 
-One of the four esteemed God Attendants of the Pure Land, a proud existence with Divine Extreme Realm¹¹ cultivation, tumbled and flew out like a ball, letting out an even hoarser howl in mid-air: "Yun... X..."
+High Priest Liu Xiao never even glanced at his poor attendant as he remarked, “This brat never fails to annoy me with his don’t-do-this-and-thats.”
 
-Liu Xiao God Official didn't even glance sideways: "I hate it most when this brat spouts all this 'this can't be done, that can't be done' nonsense."
+Bang! 𝒻𝑟𝘦𝘦𝘸ℯ𝒷𝑛𝘰𝓋ℯ𝘭.𝘤𝘰𝘮
 
-Bang!
+The next moment, Divine Attendant Yuan Ying punched through the wall and crashed god-knows-how-far-away.
 
-Yuan Ying God Attendant burst through the wall and crashed onto the Pure Land's ground, who knows how far away.
+Hua Caili was frightened, and Divine Attendant Yuan Ying was horrified. Yun Che was the only one who, inexplicably, remained as calm as a lake. Facing High Priest Liu Xiao’s passionate, near uncontrollable gaze head on, he said slowly, “There is a saying that goes something like this: There is no Way that comes before or after, or is better or worse than the other. If someone is accomplished, then he is the master. You are a worldly-wise and insightful man, senior Liu Xiao. If you willingly choose to become my disciple, then it must mean that this junior’s culinary attainments are above yours. Hence, I am qualified to teach you.”
 
-Compared to Hua Cai Li's shock and Yuan Ying God Attendant's terror, Yun Che was surprisingly calm. Facing Liu Xiao God Official's gaze, which was so fervent it was almost out of control, he slowly said, "As the saying goes, 'In the Way, there is no precedence or hierarchy; the capable one is the teacher¹².' Senior Liu Xiao's knowledge is vast, and his insight is like a torch. Since he is willing to take this junior as his Master, it naturally proves that this junior indeed possesses the qualifications in the culinary arts."
+Hua Caili’s eyes bugged out, but she believed in Yun Che too much to interrupt him.
 
-Hua Cai Li's beautiful eyes widened, but she trusted Yun Che too much to interrupt.
+High Priest Liu Xiao’s eyes blazed even more, and his facial features arranged into a grin so bright it was like a withered flower that was given a new lease in life. “Hahahaha! Well said! Perfectly said, my boy! You are truly... ah pui! This stupid old mouth! What I meant to say is, I’m liking you more and more, little master. So, does this mean you accept me as your disciple?”
 
-Liu Xiao God Official's gaze brightened immensely, his features practically blooming like a withered flower: "Hahahaha! Well said, simply too well said! You brat... tsk! Look at my old mouth, Little Master is truly more pleasing to the eye the more I look. So, you are willing to accept this old man as your disciple?"
+Yun Che shook his head. “No.”
 
-Yun Che shook his head: "I will not accept."
+“Huh?” High Priest Liu Xiao’s voice and expression stiffened at the same time.
 
-"Uh..." Liu Xiao God Official's voice and expression froze simultaneously.
+Yun Che paid him a respectful salute before saying slowly, “I am most impressed by your unfettered soul and obsession toward culinary arts, senior Liu Xiao, but you are a High Priest of the Pure Land. Although this identity is infinitely noble, it is also shackling in some ways. This is one such occasion. If you, a High Priest, came under me, a junior of a Kingdom of God, as a disciple, then the supreme dignity of the Pure Land would surely be damaged. This may be an unparalleled honor to this junior and the Dreamweaver of God, but what awaits behind that honor is an even bigger disaster.”
 
-Yun Che bowed respectfully and slowly said, "Senior Liu Xiao's uninhibited soul and unwavering dedication to the culinary arts are deeply admirable. However, Senior Liu Xiao, as a God Official of the Pure Land, possesses boundless nobility in his person and name. Yet, such nobility can sometimes become a restraint, just as now. If you, as a God Official, were to take a junior from a God Realm¹³ like me as your Master, it would undoubtedly harm the supreme dignity of the Pure Land. For this junior, and for the Dream Weaving God Realm¹⁴, it would be an immense honor, but even more so, an immense disaster."
+“Therefore,” Yun Che bowed slightly, “As honored as this junior feels, I humbly request you withdraw your request.”
 
-"Therefore," Yun Che bowed slightly, "this junior is overwhelmed with trepidation by such an honor, but I humbly ask Senior Liu Xiao to withdraw this kindness."
+“Yeah, yeah!”
 
-"Yes, yes." Hua Cai Li's graceful figure flashed, and she stood beside Yun Che, echoing him: "If you really take Brother Yun as your Master, even if Uncle Abyss Emperor is gentle, he'll likely get angry, and Uncle Meng will be restless day and night. So, Uncle Liu Xiao just needs to admit defeat obediently, and forget about taking him as a Master."
+Hua Caili moved forward and stood next to Yun Che. She then supported his statement like an obedient wife, saying, “If you really became Big Brother Yun’s disciple, Uncle Abyssal Monarch would probably get angry no matter how mild-tempered he is, and Uncle Meng would not be able to catch any shut-eye for the rest of his life. So, let’s forget about this, okay? All you need to do is admit defeat.”
 
-"Besides, if Brother Yun became your Master, wouldn't his seniority suddenly be much higher than mine? I don't want that!"
+“Besides, Big Brother Yun would be much higher than me in terms of seniority if he became your master. I don’t wanna!”
 
-She stood extremely close to Yun Che, their clothes almost touching, and spoke without any reservations.
+Hua Caili was currently standing very close to Yun Che, so much so that their clothes were almost touching. She also showed no restraint whatsoever when displaying her affection for Yun Che.
 
-Liu Xiao God Official twisted his mouth, then waved a hand, a muffled grumble escaping his lips: "Alright, alright, what kind of damn God Official is this, can't even take a Master... mumble... mumble... DE!"
+High Priest Liu Xiao twisted his lips for a moment. Finally, he swung his arm in frustration and grumbled somewhat incoherently under his breath, “Oh, forget it. High Priest, my fart, can’t even become someone’s disciple... grumble grumble ... mumble mumble ... Ptooey!”
 
-Yuan Ying God Attendant, who had gotten up, let out a huge sigh of relief upon hearing this, then wiped the cold sweat from his forehead.
+Meanwhile, Divine Attendant Yuan Ying was just climbing out of the pit he made. He let out a huge sigh of relief and wiped away the cold sweat on his forehead when he heard this.
 
-As Liu Xiao God Official's personal God Attendant, he knew Liu Xiao God Official's temperament better than anyone. He never cared for the status and prestige of a God Official, nor for any conventional etiquette of hierarchy. He acted and spoke purely on his own whims, completely disregarding the dignity of a God Official, and would suddenly do something astonishing.
+As High Priest Liu Xiao’s divine attendant, he knew the old man’s temperament better than anyone else. He knew that the old man scoffed at his identity and prestige and disdained all respect and etiquette. He acted and spoke according to his own wishes only and did not carry himself with the dignity befitting a High Priest at all. It was not unusual for him to do something earth-shattering out of nowhere.
 
-Even so, today's incident still scared him so much that his liver and guts almost split, and his scalp was still tingling even now.
+Despite all that he had endured, today’s incident still nearly broke his psyche. Even now, his scalp was still numb with fright.
 
-Hua Cai Li also secretly let out a breath, then said, "Then... Uncle Liu Xiao should admit defeat now, right!"
+Even Hua Caili was letting out a mental sigh of relief as she said, “Anyway... when are you going to admit defeat, Uncle Liu Xiao?”
 
-"Admit, admit, I'm completely convinced."
+“I was just getting to it. I admit defeat. This is your complete and utter victory, little master,” High Priest Liu Xiao declared without any hesitation whatsoever. He did go so far as to beg Yun Che to take him in as his disciple after all. Of course, he had no qualms admitting that he was Yun Che’s inferior in terms of culinary arts.
 
-Liu Xiao God Official admitted without the slightest hesitation. After all, he had been so eager to take a Master regardless of his status, so it was more than just being convinced.
+The high priest then glanced sideways at Hua Caili and said, “You naughty lass. The reason you put on this whole act is to convince me to support you in your cancellation of your engagement with Dian Jiuzhi, isn’t it?”
 
-He leisurely glanced at Hua Cai Li: "Little girl, you specifically orchestrated this whole thing, and what you want this old man to agree to is to help you break off your engagement with that boy Dian Jiu Zhi?"
+Hua Caili’s eyes and face glowed with admiration as she exclaimed, “Wow!! As expected of Uncle Liu Xiao. You figured out everything without needing me to say a word.”
 
-Hua Cai Li's phoenix eyes sparkled, and she said with full admiration, "Wow! As expected of Uncle Liu Xiao, I haven't even said a word, and you've already completely seen through it."
+“Come now!”
 
-"Pah!" Liu Xiao God Official spat fiercely: "You little girl, weren't you deliberately making those little glances and gestures for me to see?! You didn't say a word, but your little thoughts were practically screaming in my face!!"
+High Priest Liu Xiao clicked his tongue audibly. “You may not have said a word, but you’ve been hinting at me with your gaze and little gestures all day long! You only wish that you could slap your intentions on my face!”
 
-"N-no way." Hua Cai Li's beautiful, fairy-like face was full of innocence and docility: "It's just that a young girl with such shallow experience like me, no matter how much I try to hide it, I definitely can't hide it from Uncle Liu Xiao's eyes."
+“N... No, I didn’t.”
 
-"Young girl? Hmm..."
+The beautiful goddess replied with an expression of pure innocence and obedience, “I’m just a young and inexperienced girl. I cannot possibly hide my intentions from you, Uncle Liu Xiao.”
 
-Liu Xiao God Official squinted, grinning: "She was before. But look at the way you look at this boy, your eyes are practically spinning threads. I'm afraid you've already been fooling around with him for a while, and this little girl has long become a married woman."
+“Young and inexperienced girl? Hmm...”
 
-Yun Che: "..."
+High Priest Liu Xiao cast her a sideways glance before grinning. “You were a young and inexperienced girl, sure, but judging from how you’re looking at him like you wish that there was a thread that permanently connected your eyes, I bet the two of you have already fucked, haven’t you? Yes, you’re a full-grown adult now!”
 
-Hua Cai Li's face instantly flushed crimson, and her body subconsciously retreated half a step: "Uncle Liu Xiao, you... are vulgar."
+Yun Che: “...”
 
-Liu Xiao God Official snorted through his nose: "If you did it, you did it, what's there to be afraid to admit? The affairs between men and women are nothing but two piles of rotting flesh entangled, truly vulgar and unbearable. How can it compare to even a bit of the elegance of fine food?"
+Hua Caili’s face instantly turned as red as the evening glow as she subconsciously backed half a step away from High Priest Liu Xiao. “Uncle Liu Xiao! You... that’s so vulgar.”
 
-"Senior... you are absolutely right." Yun Che felt a little embarrassed.
+High Priest Liu Xiao snorted through his nose. “If you fucked, you fucked. What’s there to be ashamed about? Besides, sex is just two sacks of rotten flesh mixing with each other. It is vulgar. It does not possess even one whit of the elegance of delicious food.”
 
-Liu Xiao God Official's gaze turned to Yun Che, his eyes still revealing his reluctance at not being able to take him as a Master: "You brat... you're called Yun Che, and you're also that 'Meng Jian Yuan' from the Dream Weaving God Realm who 'died and returned¹⁵'?"
+“You... are right, senior,” Yun Che forced himself to say.
 
-Hua Cai Li offered a timely compliment: "As expected of Uncle Liu Xiao, you knew right away..."
+High Priest Liu Xiao turned his gaze back to Yun Che. It was clear that a tinge of reluctance still lurked behind his eyes. The guy really, really wanted to become Yun Che’s disciple in the culinary arts. “Boy... your name is Yun Che, but you’re also the Meng Jianyuan of the Dreamweaver Kingdom of God; the prince who came back to life, right?”
 
-"Go, go, go, go!! In the past two years, who else with the surname Yun is famous besides Yun Che of the Dream Weaving God Realm! 'Died and returned,' 'perfect divine soul¹⁶,' even this old man who hasn't stepped out of the Pure Land for eighty thousand years has heard it more than eight times."
+Hua Caili chose this timing to pay a compliment, “As expected of Uncle Liu Xiao, you figured out—”.
 
-"However," Liu Xiao God Official's tone shifted, and his gaze became a bit more leisurely: "Although Cai Li's stunt was audacious, her taste is quite good. This boy... aside from not having fully matured yet, he truly surpasses Dian Jiu Zhi in all aspects. Hmm... and his culinary skill is eight million times better than that boy's father!"
+“Oh, save it. How many people have the surname Yun and are famous in the past two years? Who else is called Yun Che besides the one from the Dreamweaver Kingdom of God? Not only did he come back from the dead, but he even possesses perfect divine essence! Even a shitty old man who hasn’t taken a single step out of the Pure Land for the past eighty thousand years like me has heard about him more than eight times!”
 
-This was undoubtedly the most pleasant sound Hua Cai Li had heard from Liu Xiao God Official today. Half joyful, half eager, she said, "So, Uncle Liu Xiao will definitely help us achieve our goal, right?"
+“That said...”
 
-"Achieve your goal?" Liu Xiao God Official half-turned, carefully placing the bowl of 'Liu Xiao Scorns the Mortal Dust,' from which he had taken a single sip, into his spatial ring¹⁷. "I admit defeat. When it's time to help, I will certainly help. It's just that the scope of this matter is so vast, I'm afraid you, little girl, only know about a third of it at most."
+High Priest Liu Xiao suddenly changed his tone, and his gaze gained an inkling of understanding. “Caili’s action is audacious to put it mildly, but I cannot deny that her eye for men is keen. This boy... he may not have grown into his power yet, but he is certainly superior to Dian Jiuzhi in countless ways. Mm... his culinary attainments especially can stomp Dian Jiuzhi’s dad eight million times over!”
 
-"And even if you only know a third, I estimate you'd only dare to speak openly about it with an old man like me. As for 'achieving your goal,' I don't have that kind of ability."
+These were undoubtedly the sweetest-sounding words Hua Caili had heard from High Priest Liu Xiao today. Half-overjoyed and half-anxious, she asked urgently, “Does that mean you will support our union, Uncle Liu Xiao?”
 
-"It's alright." Hua Cai Li, however, smiled with exceptional joy: "That Uncle Liu Xiao is willing to help, Cai Li is already extremely fortunate and grateful."
+“Support your union?”
 
-"This junior is endlessly grateful." Yun Che bowed in salute.
+High Priest Liu Xiao half-turned toward her while carefully—very carefully—storing the Liu Xiao Look Askance At Vicissitudes that he had only taken a sip of, into his portable space, saying, “I lost the bet, so I will pay my dues. Naturally, I will lend you my aid when the time is right. However, I have a feeling that even you, the person at the center of this maelstrom, only understands about a-third of how big this matter is.”
 
-Liu Xiao God Official opened his mouth, as if to speak, but after a slightly complex change in his eyes, he merely waved his hand and turned his back, saying, "Alright, your goal has been achieved. Go on, go on."
+“Still, you know enough that I am probably the only one you dare to speak about this openly, so I’ll be frank: I do not have the ability to guarantee your union.”
 
-His mind was still full of the 'Liu Xiao Scorns the Mortal Dust,' eager to try and recreate it based on Yun Che's ingredients and vague techniques he remembered.
+“That’s fine.”
 
-Their trip had achieved its desired outcome, and both Yun Che's performance and Liu Xiao God Official's astonishment far exceeded expectations.
+Hua Caili’s smile was unusually joyous. “Caili is already infinitely grateful and delighted that you are willing to help.”
 
-Hua Cai Li naturally had no reason to stay any longer, and quickly responded, "Okay, then we won't disturb Uncle Liu Xiao anymore. After we have an audience with Uncle Abyss Emperor, my brother and I will come to see you again."
+“This junior is infinitely grateful as well.” Yun Che bowed to the old man.
 
-Yun Che, however, suddenly spoke: "Senior Liu Xiao, may this junior be allowed to stay a moment longer?"
+High Priest Liu Xiao opened his mouth as if he wanted to say something, but he ultimately did not do so after a complicated glint flickered in his eyes. He simply waved his hand and turned his back on them, saying, “Alright, you’ve accomplished your objective. You may leave now.”
 
-"Hmm??" Liu Xiao God Official glanced sideways, but didn't refuse.
+Right now, the man’s head was still full of Liu Xiao Look Askance At Vicissitudes. He desperately wanted to try to reproduce the dish using the food ingredients Yun Che selected and whatever methods he managed to glimpse during the process.
 
-Yun Che said no more. Under their gazes, he took out a jade slip¹⁸, his fingers imbued with profound light, and quickly etched upon it.
+Her objective was fulfilled, and both Yun Che’s performance and High Priest Liu Xiao’s astonishment completely surpassed her expectations. Naturally, Hua Caili no longer had a reason to stay. So, she said in a hurry, “Okay. I shan’t disturb you any longer, Uncle Liu Xiao. Big Brother Yun and I will come see you after our meeting with Uncle Abyssal Monarch is over.”
 
-In the silence, only the swirling profound light was seen, and only the sound of carving was heard.
+Suddenly, Yun Che spoke up, “Can this junior stay here a little longer, senior Liu Xiao?”
 
-After a long while, Yun Che stopped, closed the jade slip, and respectfully presented it to Liu Xiao God Official: "This junior's visit this time was without a prepared gift, which makes me quite uneasy. I offer this as compensation, and hope Senior will not disdain it."
+“Hmm?” High Priest Liu Xiao cast him a sideways glance but did not turn him down. Having obtained his permission, Yun Che silently produced a jade strip right in front of the duo and summoned a dot of profound light at his fingertip. It looked like he was engraving something into the jade strip. For a moment, only the occasional sounds of engraving could be heard.
 
-Liu Xiao God Official's old eyes flickered, a hidden guess forming in his heart. He unceremoniously snatched the jade slip, his gaze sweeping over it. In an instant, his body trembled, then he actually bounced three feet into the air: "This... this, this, this, this..."
+A long time later, Yun Che finished what he was doing and closed the jade strip. Then, he presented it to High Priest Liu Xiao respectfully, saying, “This is my first visit, and yet I have not prepared a gift. It makes me quite anxious, to say the least. I hope this will make up for my mistake, and I pray that you don’t find it unsavory.”
 
-Yun Che said unhurriedly, "Senior, rest assured, these recipes... including 'Four-Colored Cloud Soup' and 'Liu Xiao Scorns the Mortal Dust,' were not taught by my Master. They are all original creations of this junior and absolutely do not involve any inheritance taboos."
+High Priest Liu Xiao’s old eyes flashed. He had a feeling he knew what it was, though he could not be certain until he checked out the jade strip’s contents. Without hesitation, he grabbed the jade strip and scanned it. The next instant, he shuddered from head to toe and actually jumped a meter into the air, exclaiming, “THIS! T-T-T-T-T-T-T-This is...”
 
-"I shall not disturb you further. This junior takes his leave."
+Yun Che said unhurriedly, “Don’t worry, senior. These recipes... including the Four-colored Rainbow Cloud Soup and the Liu Xiao Look Askance At Vicissitudes are all my inventions. Naturally, it does not break any taboo or custom.”
 
-The number of recipes carved onto that jade slip amounted to a full two hundred.
+“Now that that’s done, I shan’t disturb you any longer. This junior bids you goodbye.”
 
-In the eyes of ordinary people, this might be dismissed as unworthy of a glance. But for Liu Xiao God Official... especially after witnessing Yun Che's culinary mastery, it was absolutely a treasure among treasures.
+Over two hundred recipes were engraved on the jade strip. To a normal person, they probably weren’t even worth looking at. But to High Priest Liu Xiao, especially after he experienced Yun Che’s culinary skills, it was a priceless treasure among priceless treasures.
 
-"Wait!"
-
-This time, it was Liu Xiao God Official who called out to him. The small jade slip was held by both of the God Official's hands, his withered fingers trembling slightly: "Young Yun, what do you want to exchange for this item from me?"
-
-AI Translation Notes:
-1:
-God Official (神官 Shen Guan): A high-ranking divine official in the celestial or divine hierarchy, often possessing immense power and authority within their respective domains.
-
-2:
-Culinary Arts (厨道 Chu Dao): Literally "the Way of Cooking," referring to the profound skill and philosophy behind cooking. In cultivation novels, it's often treated as an art form or even a spiritual path, requiring deep understanding and mastery.
-
-3:
-Profound Energy (玄气 Xuan Qi): A fundamental energy source in many cultivation novels, used for various abilities, including combat, healing, sealing, and enhancing objects.
-
-4:
-Senior (前辈 Qian Bei): An honorific used to address someone older, more experienced, or of higher status, showing respect.
-
-5:
-Junior (晚辈 Wan Bei): A humble self-reference used when speaking to a senior, acknowledging one's lower status or experience.
-
-6:
-Profound Cultivation (玄道 Xuan Dao): The path of cultivating profound energy and spiritual power, often involving martial arts, mystical abilities, and spiritual enlightenment.
-
-7:
-Little Master (小师父 Xiao Shi Fu): An affectionate or sometimes teasing term for a young person who is recognized as a master or teacher, often implying their youth belies their exceptional skill.
-
-8:
-God Attendant (神侍 Shen Shi): A divine attendant, typically a subordinate, personal guard, or aide to a God Official or higher-ranking deity.
-
-9:
-Pure Land (净土 Jing Tu): A specific divine domain or realm, often implying a place of purity, high status, or a sacred location within the divine hierarchy.
-
-10:
-Abyss Emperor (渊皇 Yuan Huang): The supreme ruler or emperor of the Abyss, a powerful and revered figure in the story's cosmology.
-
-11:
-Divine Extreme Realm (神极境 Shen Ji Jing): A very high level of cultivation in the divine hierarchy, indicating immense power and mastery.
-
-12:
-"In the Way, there is no precedence or hierarchy; the capable one is the teacher" (道无先后尊卑,达者为师 Dao Wu Xian Hou Zun Bei, Da Zhe Wei Shi): A Chinese proverb emphasizing that true mastery and teaching ability are based on skill and understanding, not age, social status, or seniority.
-
-13:
-God Realm (神国 Shen Guo): A divine kingdom or realm, typically ruled by a powerful deity or divine lineage, often a smaller entity compared to a "Pure Land" or the domain of an "Abyss Emperor."
-
-14:
-Dream Weaving God Realm (织梦神国 Zhi Meng Shen Guo): The specific divine realm that Yun Che and Hua Cai Li belong to.
-
-15:
-Died and Returned (死而复归 Si Er Fu Gui): A common trope in cultivation novels where a character dies and is later resurrected or returns from the brink of death, often with enhanced abilities or knowledge.
-
-16:
-Perfect Divine Soul (完美神格 Wan Mei Shen Ge): Refers to a flawless and exceptionally powerful divine soul or divinity, indicating extraordinary talent and potential that is rare even among deities.
-
-17:
-Spatial Ring/Spatial Storage (随身空间 Sui Shen Kong Jian): A common magical item in cultivation novels, typically a ring or other accessory that allows users to store objects in a personal, portable dimension.
-
-18:
-Jade Slip (玉简 Yu Jian): A common magical item in cultivation novels, typically a small jade tablet used to store information, techniques, or messages, which can be read by infusing it with spiritual or profound energy.
-
-Human Editors Notes:
-"Dream Vision Abyss" to "Meng Jian Yuan"
+This time, it was High Priest Liu Xiao who stopped him in his tracks. While clutching the jade strip with both hands and ten wizened fingers that were trembling slightly, he asked, “What do you want in exchange for this item?”

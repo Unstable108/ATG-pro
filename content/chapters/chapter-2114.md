@@ -1,542 +1,261 @@
 ---
 chapterNumber: 2114
 title: "Final Memory of the Heretic God"
-publishedAt: "2025-11-20"
+publishedAt: "2025-11-22"
 ---
 
-"Are they the Divine Guards of the Pure Land?" Yun Che whispered. These three were not wearing armor, but brocade clothes, clearly not Abyss Knights.
+“Are they the Pure Land Divine Guards?” Yun Che asked in a hushed voice.
 
-"Yes," Meng Jianxi responded via voice transmission, "They have no right of judgment and almost never leave the Pure Land in their entire lives. They manage everything in the Pure Land and are not as well-regarded as the Abyss Knights in the eyes of the world. However, you must not underestimate them because of this."
+The three men were wearing silk robes instead of armor. They obviously weren’t Abyssal Knights.
 
-"Those profound practitioners who fail the Pure Land trial and are not qualified to become Abyss Knights will be expelled from the Pure Land. However, if they pass the character trial, they will have another choice besides leaving, which is to stay in the Pure Land and become Divine Guards of the Pure Land."
+“That’s right,” Meng Jianxi responded via sound transmission, “They do not possess the right of adjudication, and they rarely leave the Pure Land, if at all. They are responsible for all things major or minor within the Pure Land. The people view them as below the Abyssal Knights, but you must not look down on them or underestimate them no matter what.”
 
-"If they become Divine Guards of the Pure Land, they will likely never be able to step out of the Pure Land again in their entire lives, which is equivalent to giving up their previous lives and being bound to their future lives."
+Those who failed the trials of the Pure Land did not qualify to become an Abyssal Knight and so were expelled from the Pure Land. However, those who passed the test of character were given an additional choice. They could leave, or they could remain in the Pure Land and become a Pure Land Divine Guard.
 
-"Most of the Divine Guards of the Pure Land come from this. Once they become Divine Guards, they almost never appear outside the Pure Land, and the world naturally knows very little about them. Their freedom, power, and status are all lower than those of the Abyss Knights."
+Becoming a Pure Land Divine Guard wasn’t all good though. They might never be able to set foot outside of the Pure Land ever again. It was the same as abandoning their past and cutting off all future paths except one.
 
-"However, Yun Che learned from Hua Caili long ago that there is a small number of extremely special Divine Guards in the Pure Land."
+The large majority of Pure Land Divine Guards were people who chose to remain in the Pure Land forever. As they rarely left the Pure Land after becoming a Divine Guard, the outsiders naturally knew very little about them. Their degree of freedom, authority and status were all inferior to an Abyssal Knight's as well.
 
-"The Divine Guards personally trained by the Four Divine Envoys of the Pure Land."
+Yun Che learned from Hua Caili a long time ago that there existed a small but very special subset of Divine Guards in the Pure Land.
 
-"Below the True God of the Abyss, there are eleven people at the pinnacle of the Divine Limit Realm, which is also the pinnacle of humanity."
+They were raised by the four High Priests themselves.
 
-"Six are in the Six Divine Kingdoms, and the Pure Land alone has five."
+There were a total of eleven peak Divine Limit Realm profound practitioners below the True Gods of the Abyss.
 
-"Among these five Divine Limits at the pinnacle in the Pure Land, one is an Abyss Knight, and the other four are all Divine Guards of the Pure Land."
+Six of them served the six Kingdoms of God, and the remaining five all served the Pure Land.
 
-"Under the Great Divine Envoy: Dong Huang;"
+One of the five peak Divine Limit Realm profound practitioners who served the Pure Land was an Abyssal Knight. The other four were all Pure Land Divine Guards.
 
-"Under the Myriad Paths Divine Envoy: Chang Ying;"
+The Pure Land Divine Guard serving under the Chief Priest was Donghuang.
 
-"Under the Spirit Immortal Divine Envoy: Su Shang;"
+The Pure Land Divine Guard serving under High Priest Wandao was Changying.
 
-"Under the Six Smiles Divine Envoy: Yuan Ying."
+The Pure Land Divine Guard serving under the High Priest Lingxian was Sushang.
 
-Yun Che couldn't help but sigh, "Even the most insignificant person in the Pure Land is someone no one dares to look down upon."
+And the Pure Land Divine Guard serving under the High Priest Liu Xiao was Yuanying.
 
-"Even the most ordinary Divine Guard of the Pure Land is a quasi-knight who failed the trial... and to obtain the qualification to participate in the Pure Land trial, a necessary condition is that one's cultivation must have entered the Divine Extinction Realm."
+Yun Che replied with feeling, “Even the lowest person in the Pure Land is someone no one dares to look down upon.”
 
-"In other words, the cultivation of the Divine Guards of the Pure Land is no lower than the Divine Extinction Realm, and in any land, they are qualified to establish a sect."
+Even the most ordinary Pure Land Divine Guard was a squire who failed the trials... but one of the prerequisites to participate in the Pure Land trials was to be at the Divine Extinction Realm.
 
-"Just this concept alone is enough to make people think deeply."
+In other words, every Pure Land Divine Guard was at least a divine Extinction Realm profound practitioner. In the Land of the Living, they were all powerful existences who could found a sect or create a faction should they so choose.
 
-Stepping into the Light Realm, the world suddenly changed.
+This concept alone was enough to strike terror in anyone’s heart.
 
-At first glance, the Pure Land gave Yun Che a feeling of only two words: simple and plain.
+The world changed as soon as they passed through the light barrier.
 
-There was no imperial splendor as expected, nor was there the natural majesty of a supreme place. At a glance, even the buildings were sparse. Instead, there were various green trees and flowers everywhere.
+Yun Che’s very first look and impression of the Pure Land was this: Simple.
 
-All the auras here flowed gently, and there was no anxiety or restlessness from any living beings. The light here was so gentle that it seemed to penetrate one's heart, easily soothing all negative emotions.
+It did not look as luxurious or glorious as an imperial realm should. It did not feel as solemn and imposing as a supreme land naturally felt either. At first glance, there weren’t even many structures at all. Instead, it was filled with all kinds of flowers, trees, and other plants.
 
-Yun Che looked around and clearly felt that everyone's breathing had unconsciously slowed down. Those young disciples were amazed, and all showed expressions of intoxication.
+Every single bit of energy circulating in this place was extraordinarily gentle. He could not feel any anxiety or irritation from any living being whatsoever. The light here seemed gentle enough to shine into one’s heart and pacify any negative emotion with ease.
 
-Because this was the Pure Land, a world completely free of abyssal dust, a dream realm endlessly revered and yearned for by the creatures of the Abyss.
+Yun Che looked around. He could clearly feel everyone’s breathing slowing down unconsciously. The younger disciples especially were exclaiming in surprise and looking intoxicated.
 
-Meng Jianxi took a long breath in and then a long breath out, followed by an irrepressible sigh, "Although this is not the first time I have come, I still feel like I have stepped into a fairyland... a world completely free of abyssal dust."
+It was because this was the Pure Land, a realm where abyssal dust did not exist. It was the dreamland all living beings of the Abyss revered and longed for.
 
-"I heard that in the 'Eternal Pure Land,' the entire vast world does not have a trace of abyssal dust. It's simply unimaginable. What a beautiful world that must be."
+Meng Jianxi sucked in a deep, long breath and exhaled just as much. Finally, he let out a barely controlled sigh of admiration, “This isn’t my first time coming here, but it always feels like I’m entering an immortal realm... a world without abyssal dust.”
 
-"Living in such a world, no creature needs to worry about the invasion of abyssal dust at any time. All plants grow naturally, all beasts roam freely, countless races multiply, and even a newborn baby can cry freely... In such a world, creatures must be unimaginably peaceful and harmonious."
+“I heard that the ‘Eternal Pure Land’ is an entire world without a speck of abyssal dust. I can’t even imagine what kind of beautiful world that is.”
 
-"There would be no fear, struggle, or sorrow. Even evil thoughts would be purified and soothed, and there would be no cruel fighting and killing."
+“In that world, no living being ever needs to worry about being eroded by abyssal dust at all times. The plants grow naturally, the beasts run freely, countless races are being born, and even a newborn may cry to their heart’s content... the living beings of that world must be unimaginably peaceful. There cannot be any terror, struggle, or misery. Even natural malice would be pacified by purity. I cannot imagine that there exists cruel conflicts and murder in that world.”
 
-Yun Che remained silent.
+Yun Che said nothing at all.
 
-Meng Jianxi continued, "During this Pure Land audience, the Abyssal Emperor will likely mention the Eternal Pure Land. Are you looking forward to it, Brother Yuan?"
+Meng Jianxi continued, “I heard that the Abyssal Monarch may very well speak of the Eternal Pure Land during this Pure Land Meet. Are you looking forward to it, Brother Yuan?”
 
-Yun Che showed a look of longing, "Who wouldn't yearn for a world without abyssal dust?"
+Yun Che put on a look of longing. ‘Who doesn’t look forward to a world without abyssal dust?”
 
-"It will come true."
+“The dream will come true.”
 
-Meng Kongchan suddenly spoke faintly, "That once-dreamed-of place is now within reach. Perhaps, in just a few decades, you will be able to stand on that Eternal Pure Land and re-establish and continue our dream-weaving future there, hahahaha."
+Up ahead, Meng Kongchan suddenly said indifferently, “Once upon a time, that world only existed in our dreams. But today, it is within our reach. Who knows, maybe it will only take a couple more decades for all of you to be able to set foot in the Eternal Pure Land, create, and continue the future of Dreamweaver, hahahaha!”
 
-Amidst Meng Kongchan's laughter, Yun Che and Meng Jianxi had the same expression, but their hearts were surging with completely different emotions.
+Yun Che and Meng Jianxi wore the same expression as Meng Kongchan laughed, but the tidal waves of emotions splashing inside their hearts could not be anymore different.
 
-At this moment, Yun Che's expression suddenly froze, and his footsteps stopped dead in their tracks.
+Suddenly, Yun Che’s face stiffened without warning. His footsteps came to a complete halt as well.
 
-"Brother Yuan, what's wrong?" Meng Jianxi stopped and asked.
+“Brother Yuan? What’s wrong?” Meng Jianxi asked while stopping in his tracks.
 
-"It's nothing," Yun Che shook his head, his expression calm, "I just felt a bit dazed for a moment."
+“... It’s nothing.” Yun Che shook his head and replied calmly, “I just lost focus for a moment.”
 
-Meng Jianxi understood, "That's normal. Accustomed to the existence of abyssal dust, suddenly entering a world without any abyssal dust can shake one's perception. When I first entered the Pure Land, I also felt dazed several times."
+Meng Jianxi nodded in understanding. “That’s perfectly normal. For someone who was used to abyssal dust, to enter a world without abyssal dust is like stepping into a whole new world. I am not ashamed to admit that I lost myself several times when I first entered the Pure Land.”
 
-"For profound practitioners of the Abyss to step into the Pure Land is like a fish suddenly entering a clear spring from a long-accustomed foul-smelling mud. It will indeed have a huge impact on their perception."
+For a profound practitioner of the Abyss to enter the Pure Land was like a fish used to a stinky swamp suddenly entering a spring that was perfectly clear. Of course they would be shocked by it.
 
-"However, setting aside the level of the heavenly and earthly auras, the Pure Land, which is like a fairyland and holy land in the eyes of profound practitioners of the Abyss, is just an ordinary world in Yun Che's perception."
+Setting the ambient energies aside, what was an immortal sanctuary to the people of the Abyss was nothing more than an ordinary corner of the world to Yun Che.
 
-Just now, a divine sense had enveloped him.
+So why had he reacted the way he had earlier?
 
-In that instant, his five senses seemed to sink into an endless sea, not knowing where he came from, where he was going, or where the end was.
+Because a divine perception had enveloped him just now.
 
-That single divine sense seemed to be enough to cover the heavens and earth and devour all worlds.
+At that moment, he had felt as if his five senses had sunk into an endless sea. For an instant, he did not know where he came from, did not know where he was going, and could not see the end of the strange world he suddenly found himself in.
 
-That divine sense lingered on him for a moment, but it made Yun Che feel as if he had experienced a long period of time.
+It was just a person’s divine perception, and yet it felt powerful enough to flood heaven and earth and devour worlds.
 
-"Just now... was that?" Li Suo's voice was extremely soft, carrying the deepest and heaviest worry since she woke up.
+The divine perception had only hovered over him for a brief moment, but Yun Che felt like he had endured centuries in nowhere.
 
-When she asked, she already knew the answer.
+“What... was that?” Li Suo asked very, very quietly. This was her greatest expression of gravity and severity since she awakened from her slumber.
 
-"He discovered me," Yun Che was very calm, both in tone and emotion.
+She knew the answer even as she voiced the question.
 
-"You... are you really sure how to face him?" Li Suo asked, each word filled with an indescribable worry.
+“He found me,” Yun Che replied calmly. Li Suo could tell that he was equally calm on the inside.
 
-"Yes, don't worry," Yun Che's voice was faint, his heart calm, speaking to Li Suo and also to himself.
+“Are you... truly prepared to face him?” Li Suo asked. Despite Yun Che’s calmness, she could not help but speak with thick worry.
 
-A stinging pain came from the depths of his soul sea and gradually intensified.
+“Yes, there is nothing to be worried about,” Yun Che replied calmly again, though he was more speaking to himself than Li Suo.
 
-Fragments.
+It was at this moment he felt a pinprick of pain from the depths of his soul sea. It was worsening as well.
 
-They were the last two memory fragments from the Evil God Ni Xuan.
+It was the final two memory fragments of the Heretic God, Ni Xuan.
 
-They were unexpectedly triggered and shattered when touched by "his" existence.
+To think that the trigger to unlock them... was “His” presence.
 
-And this stinging sensation also told Yun Che that the emotional fluctuations carried by these last memory fragments were far greater than before.
+The pain was telling Yun Che that the emotions within the final two memory fragments were far stronger than the previous three.
 
-The Divine Guards of the Pure Land led them to a courtyard. The furnishings were extremely simple, without any proper guest items. There were only a few profound formations for calming the mind. The most eye-catching things were still the green trees and flowers.
+The Pure Land Divine Guards led them to a simplistic courtyard. It was lacking all the indulgences a guest might expect from their host. There were only dozens of profound formations used for meditation, and the flora remained the most conspicuous thing about the entire courtyard.
 
-However, the noble people from the Divine Kingdoms did not dare to touch the flowers and trees here, as if they were afraid of desecrating them.
+Still, not a single person dared to touch the plants. They were worried that it would constitute blasphemy.
 
-A Divine Guard of the Pure Land said gently, "It is still early. I ask the Dreamless God Child and all the distinguished guests to rest here for a while. When the time comes, the Abyssal Emperor will summon you. In addition, the Pure Land is strictly divided, and there are many forbidden areas. Please do not wander around."
+A Pure Land Divine Guard said gently, “It is still early, so please catch a break in this courtyard, Dreamless Divine Regent, honored guests. The Abyssal Monarch will summon you all when it's time. Also, the Pure Land is rigidly structured and boasts a lot of forbidden areas, so please do not move about carelessly.”
 
-"Okay," Meng Kongchan nodded, "Have the other Divine Kingdoms all arrived?"
+“Understood.” Meng Kongchan nodded. “Have the other Kingdoms of God arrived?”
 
-The Divine Guard of the Pure Land said, "Currently, only the Weaving Dream and the Heaven Smiting have arrived. The other four Divine Kingdoms and the guests from the Dragon Race are still on their way."
+The Pure Land Divine Guard said, “Right now, only Dreamweaver and Heaven Breaker are present. The other four Kingdoms of God and the guests from the dragon race are still on their way.”
 
-The Divine Guard of the Pure Land left, leaving no attendants behind.
+The Pure Land Divine Guards took their leave then. Not a single attendant had stayed behind to attend to their guests.
 
-However, no one would think that the Pure Land was being rude.
+Still, not a single person thought that the Pure Land was being impolite.
 
-The stinging pain in Yun Che's soul sea became more and more intense, and he showed this sense of unease on his face.
+Meanwhile, the pain in Yun Che’s soul sea was still worsening. He decided that he might as well reflect it on his face as anxiousness.
 
-Meng Kongchan had noticed it long ago and said with concern, "When you first enter the Pure Land, it's easy to feel uneasy, especially since your cultivation is still shallow. If you can't bear it, go and calm your mind for a while to adapt to the aura here."
+Meng Kongchan had long since noticed that something was wrong and said concernedly, “It’s easy for those who enter the Pure Land for the first time to feel uneasy. This is especially true for someone with light cultivation. If you cannot bear the discomfort, then why don’t you take a moment to meditate and get used to the surrounding energies?”
 
-"Alright," Yun Che obediently agreed, and then said very softly, "If Caili comes, please help me cover it up a little"
+“Okay,” Yun Che replied obediently before adding in a much smaller voice, “If Caili shows up later, please help me and don’t let her see me like this, Divine Regent.”
 
-"Oh?" Meng Kongchan looked surprised, and then laughed loudly, "You're really a stubborn boy, not wanting to show any weakness to the person you admire. Don't worry, I'll cover for you."
+“Oh?” Meng Kongchan looked surprised. He broke into a guffaw, “You stubborn boy. You don’t want to show any weakness to your lover, eh? Worry not! I shall guard you myself.”
 
-Yun Che didn't say any more, quickly went to a profound formation, sat down, and then opened an isolation barrier, allowing his consciousness to sink into the newly shattered memory fragment.
+Yun Che stopped talking and sat down at the center of a profound formation. Then, he activated an isolation barrier and allowed his consciousness to sink into the memory fragment that just broke.
 
-A vast world, swirling with a catastrophic storm.
+A disastrous storm was blowing in a vast world.
 
-The sky was shifting, the earth was trembling, and countless cracks appeared in space every moment, as if countless lightning bolts were raging between heaven and earth.
+The sky was out of place, the earth was shaking, and countless spatial cracks were forming every instant. From a distance, it looked like countless lightning was dancing through the air at all times.
 
-Even though it was separated by a distant era, Yun Che could still tell from the unique grayish-white color of the sky that this was the world of the Primordial Divine Realm.
+Although the era of this memory was far, far before his time, Yun Che still recognized through the unique grayish white sky that this memory took place in the God Realm of Absolute Beginning.
 
-But what was presented in the Primordial Kingdom of the Gods was an ancient catastrophe that ordinary people could not even imagine.
+Right now though, an ancient disaster of unimaginable proportion was taking place in the God Realm of Absolute Beginning.
 
-Ni Xuan's long hair was disheveled, his once handsome face was now only gray and defeated, covered with overlapping terrible wounds. His outer clothes looked like they had just been pulled out of a blood pool, stained with a bloody red.
+Ni Xuan’s long hair was disheveled and hanging loosely behind his back. The face that once boasted unparalleled handsomeness now looked grayish with defeat, and his entire body was covered in overlapping stacks of horrifying wounds. His clothes looked like they had just been scooped out of a pool of blood, utterly drenched and reeking of blood.
 
-He slowly moved his upper body, the action of getting up as difficult as that of a withered old man. But soon, he heavily knelt on the ground again, the blood of the God of Creation dripping from the countless wounds on his body, soaking the Primordial Earth beneath his feet.
+He slowly lifted his upper body, his movement so slow and difficult it was like he was a dying old man. The next moment, he collapsed on his knees, the blood of a Creation God pouring wildly out of his countless wounds and dyeing the ground red.
 
-He was the Elemental God of Creation, the supreme existence of the current era. No one could imagine... even he himself had never imagined that he would one day be so seriously injured, so wretched, so painful.
+He was the Creation God of Elements, the supreme existence of Primal Chaos. No one, not even himself, could imagine that he would one day be hurt this badly, look this terrible, suffer so much pain.
 
-In front of him was a tall man in golden clothes.
+Standing in front of him was a huge, tall man wearing a golden outfit.
 
-His facial features gave an extremely clear impression of being carved by a sword.
+His facial features gave off the distinct feeling that they were carved using a sword.
 
-The first time one looked at his face, the word "upright" would appear in their mind.
+The first and immediate impression one got when looking at his face was “justice”.
 
-As if in front of this face, no law could be violated, no rule could be trampled, no mistake could be forgiven, and no evil could exist.
+It was as if no laws could be violated, no rules could be trampled, no wrong could be tolerated, and no sin could exist before this face.
 
-He was the head of the Four Gods of Creation, the most supreme existence of the current era:
+He was the first of the Four Creation Gods and the highest existence in the entire universe...
 
-The Heaven Punishing God Emperor - Mo E.
+The Heaven Punishing Divine Emperor, Mo E.
 
-In his hand, he held a wide sword.
+He was wielding a sword with a broad blade. The blade was bronze-colored and looked no different from an ordinary slab of metal. Its edge was dull, its surface was dim, and it did not exude even the slightest bit of pressure. It was as if it truly was an ordinary slab of metal that not even the profound practitioners of the mundane world would afford a second glance.
 
-The sword was bronze in color, the blade ordinary, blunt and without sharpness, and without any sword pressure. Even if it fell into the mortal world, it would be an ordinary iron that even mortal profound practitioners would not look at.
-
-However, it had a world-shaking name.
+The sword had a stunning name, however.
 
 The Heaven Punishing Ancestral Sword.
 
-The head of the Seven Great Profound Heavenly Treasures; the first sword of the Primordial Chaos, the ancestor of all weapons in the Primordial Chaos.
+It was ranked first of the Seven Heavenly Profound Treasures. It was the first sword of Primal Chaos and the literal ancestor of all things.
 
-He held the Ancestral Sword and stood quietly between heaven and earth. Even if the sky collapsed and the earth cracked, and the storm filled the world, he remained as motionless as a mountain supporting the sky.
+He stood quietly with the Ancestral Sword in his hand. Although the world was crumbling, and the surrounding storm threatened to turn the world upside down, he remained as unmoving as a mountain that connected heaven and earth.
 
-He looked indifferently at the blood-stained Elemental God of Creation Ni Xuan, his expression never changing, not even for a moment.
+He was looking down on the bloodied Ni Xuan, Creation God of Elements, without any expression whatsoever. Not a single line had shifted out of place from the beginning until the end.
 
-"To defeat me, you did not hesitate to use the power of the Ancestral Sword a second time."
+“To think you would muster the Ancestral Sword’s power a second time to defeat me.”
 
-Ni Xuan's voice was so dry that it was hard to believe it was the voice of a God of Creation, "Is this also for the so-called 'righteous path' in your heart!"
+Ni Xuan’s voice was so dry it was unthinkable that it was the voice of a Creation God. “Is this all for the so-called ‘righteous way’ in your heart?!”
 
-If a mortal used the power of the Ancestral Sword, they would die instantly; if a True God used it, their lifespan would be reduced by ninety percent.
+If a mortal were to activate the Ancestral Sword’s power, they would die instantly. If a True God were to activate it, they would lose ninety percent of their lifespan.
 
-Even as strong as a God of Creation, using the power of the Ancestral Sword would consume thirty percent of their lifespan.
+Even a Creation God must pay the hefty price of thirty percent lifespan to activate the Ancestral Sword’s power.
 
-This was the second time he had used the Ancestral Sword, and his lifespan as a God of Creation had been greatly reduced by sixty percent.
+Since this was the second time the Heaven Punishing Divine Emperor used the Ancestral Sword, it meant that he had used up sixty percent of his lifespan.
 
-But he did not hesitate, nor did he have any regrets.
+He did not hesitate for even a moment though, much less regret his decision.
 
-He could not understand Mo E's obsession.
+Ni Xuan simply could not understand Mo E’s determination, just like he could not understand why the man must kill Mo Su, his favorite son, the Heaven Punishing Crown Prince, the chosen inheritor of his power and will.
 
-Just as he could not understand why he had to kill Mo Su.
+Even if Mo Su had violated the taboo, surely he did not deserve to die for it... much less deserve to be executed by his own father!
 
-That was clearly his most beloved son! He was his Heaven Punishing Crown Prince, the successor he had chosen for his power and will.
+“You killed Mo Su, ambushed Jie Yuan, and kidnapped my daughter... I suppose it’s my turn now.”
 
-Even if Mo Su had violated the taboo, he did not deserve to die... let alone be executed by him personally.
+Ni Xuan let out a horrible laugh as hopeless despondence colored his grayish complexion. “Do it.”
 
-"You killed Mo Su, harmed Jie Yuan, and took my daughter... Now, it should be my turn."
+Mo E replied in a voice lighter than smoke itself, “I hate you, but I have no reason to kill you.”
 
-Ni Xuan smiled miserably, his gray and defeated face showing a hopelessness, "Do it."
+“Hah!” Ni Xuan chuckled. “You will execute even the son you poured all your love and hope into just because he defied your ‘righteous way.’ Why on earth would you allow a complete rebel like me to live?”
 
-Mo E spoke, his voice as light as a cloud, "Although I hate you, I have no reason to kill you."
+The storm swept up some of Mo E’s hair and slapped them against his face. It gave him a look of deep sorrow buried deep within his soul.
 
-"Heh!" Ni Xuan laughed softly, "Those who defy your 'righteous path,' even your own son, whom you poured all your love and hope into, you can execute without hesitation, let alone someone like me who defies you."
+Mo E did not raise his sword. He did not summon his energy either.
 
-The storm moved a few strands of Mo E's long hair, hitting his face and revealing a hidden sadness.
+A long, long time later, he finally spoke up in a tone that Ni Xuan had never heard before, “Do you have any idea how much I envy you, Ni Xuan? How long have I dreamed of putting myself in your shoes?”
 
-Mo E did not raise his sword, nor did any aura emanate from his body.
+Ni Xuan: “...?”
 
-After a long time, he slowly spoke, but in a tone completely unfamiliar to Ni Xuan, "Ni Xuan, do you know how much I have always envied you?"
+“When the Ancestral God named you, she gave you the word ‘Ni (Rebellion)’. The personality she bestowed you is one that fits the word completely. You live free and true to yourself. You are ever unwilling to bind yourself to any rule, and you never stop defying and rebelling against those rules or situations that in your opinion seem old-fashioned, ridiculous, unfair, and wrong.”
 
-Ni Xuan: "............?"
+“The world needs a Creation God like you because the world is constantly evolving, and the times are always changing. It has to change. It has to break the old rules again and again and get rid of the filth and shackles of each era.”
 
-"The name given to you by the Ancestral God contains the word 'Ni' (rebellious), and your personality is so free and unrestrained. You never want to be bound by any existing rules, and you repeatedly rebel against and change those rules and situations that you see as rigid, absurd, unfair, and wrong."
+“From a barren universe of nothing to a prosperous universe filled with countless worlds and even more lives. This could not have been possible without countless corrections and changes.”
 
-"The world needs a God of Creation like you. Because the evolution of the world and the change of eras require constant change, the breaking of old rules, and the elimination of the filth and shackles of each era."
+Ni Xuan just stared at Mo E. Perhaps he could not believe that such words could possibly come from Mo E’s mouth.
 
-"The world, from a desolate void to the prosperity of all spirits and all worlds today, has undergone countless corrections and changes."
+“Someone needs to change the world.” Mo E was also staring at Ni Xuan. “But just the same, someone needs to preserve the world.”
 
-Ni Xuan looked at Mo E. Perhaps he could not believe that these words were coming from Mo E.
+“Is that so?” Ni Xuan growled, “Is that what you told yourself when you decided that the God Race and the Devil Race must never mix? That it is a rule that must never be violated? Even if the involved is your son Mo Su, even if the involved is a Creation God and a Devil Emperor, even if it must cost you most of your lifespan to do so? You must eliminate the violation and violators no matter what?!”
 
-"The world needs someone to constantly change," Mo E also looked at Ni Xuan, "But it also needs someone to hold fast."
+Compared to Ni Xuan’s sorrow, anger, pain, and confusion... Mo E’s eyes were as calm and dead as a pool of dead water.
 
-"So," Ni Xuan said deeply, "Gods and devils cannot coexist, is that the rule you must hold fast to, and not allow anyone to touch? Even Mo Su, even the Gods of Creation and the Devil Emperors, even if you have to damage your origin so severely, you must eliminate them!?"
+Or maybe, he was so sad that he could not feel any sadness at all.
 
-Compared to Ni Xuan's sorrow, anger, soul pain, and confusion... Mo E's eyes remained calm, like still water.
+Mo E continued, “The world is split into Existence and Extinction, and Existence is split into yin and yang. When yin and yang are balanced, the worlds are in harmony and peace.”
 
-Or perhaps, it was a wound so deep that there was no sorrow.
+“The Ancestral God created the universe based on balance, so the universe began from balance. Without balance, a man would fall on his feet. Without balance, a world would fall apart.”
 
-He spoke, "The world is divided into life and death, life is divided into yin and yang, yin and yang are balanced, and all worlds are peaceful."
+“That is why there are four Creation Gods and four Devil Emperors at the beginning of the universe, not eight Creation Gods or eight Devil Emperors.”
 
-"The creation of the Ancestral God was based on 'balance,' starting with balance. Without balance, a person stumbles, and without balance, the world will inevitably collapse."
+The Heaven Punishing Divine Emperor spoke words that he had never spoken before almost woodenly and completely without expression.
 
-"Therefore, at the beginning of the world, there were Four Gods of Creation and Four Devil Emperors, not Eight Gods of Creation or Eight Devil Emperors."
+“Since ancient times, the God Race and the Devil Race have always been the supreme existences of this universe. Their actions could easily decide the fate of countless realms. What is a small accident to a God or a Devil could be the end of the world to everyone else.”
 
-The Heaven Punishing God Emperor spoke without expression, almost mechanically, saying words he had never said before.
+“The God Race and the Devil Race each occupied a corner of the world, rejecting and keeping each other in check. Over time, this state became a sort of balance as well. Everything in this world can change, everything... except. This. Balance.”
 
-"Since ancient times, the God Race and the Devil Race have been the supreme existences of this world, easily determining the fate of all heavens and all worlds. A small disaster for the God and Devil Races is a catastrophic disaster for all worlds."
+The storm was finally subsiding, and the shrieks of space were finally decreasing in intensity and frequency as well. All that was left was the natural storms inflicted by the existence of two Creation Gods’ souls.
 
-"The God and Devil Races are on opposite sides, repelling and restraining each other, forming a long-standing balance. Everything in the world can change, but this balance... must... not... be... touched... or... harmed."
+Ni Xuan’s voice pushed the storm in Mo E’s direction. “You only know rejection and control. Whoever said that union could not possibly be a better form of balance?”
 
-The disaster gradually subsided, and the hissing of space slowed down. Between heaven and earth, only the souls of the two Gods of Creation trembled the winds and clouds of the world.
+“You are correct. Union could be a better form of balance.”
 
-Ni Xuan's voice pushed the storm towards Mo E, "You only know repulsion and restraint. But integration, is it not another, better balance?"
+Ni Xuan could not believe that the stubborn bastard who had never changed in an eternity actually agreed with him.
 
-"You're right, integration may be a better balance."
+“However, all major changes should begin from the smallest tests, much less a change that involves the two races whose every whim could threaten the integrity and existence of the universe itself.”
 
-Mo E, who was always stubborn in Ni Xuan's perception, actually gave him an echo of agreement.
+“It could begin with the mortals from a God-created world and a Devil-created world. It could begin from the lowest God and Devil... but it cannot begin from Ni Xuan, it cannot begin from the Heaven Smiting Devil Emperor, and it definitely... cannot begin from the son of Mo E!”
 
-"But any major change should start with a small test, let alone the touch between two races that involves the safety of the world."
+Ni Xuan’s pupils froze for a brief moment.
 
-"It could be the mortals of the God-Created World and the Devil-Created World, or it could be the gods and devils of the lowest plane... but it cannot be you, Ni Xuan, it cannot be the Heaven Sealing Devil Emperor, and even more so, it cannot be... my son, Mo Su!"
+He could actually feel himself being drawn by Mo E’s words.
 
-Ni Xuan's pupils paused for a moment.
+“Even so...” These two words were enough to reveal that Ni Xuan... did not reject Mo E’s statements completely. “You did not need to be so ruthless to Mo Su or yourself!”
 
-He realized that his soul was actually moved by it.
+Mo E finally moved for the first time since the beginning of this memory. His arm curled as he slowly crossed the Heaven Punishing Ancestral Sword in front of him.
 
-"Even so..." These four short words showed that he did not completely reject Mo E's words, "Why did you have to be so cruel to Mo Su, to yourself!"
+“Four Creation Gods, four Devil Emperors. We are the highest beings of this universe, but we don’t possess the highest powers.”
 
-Mo E finally made a move. He bent his arm, and the Heaven Punishing Ancestral Sword, which was hanging down, slowly moved horizontally in front of him.
+“In fact, the highest powers of this universe are the Heaven Punishing Ancestral Sword and the Evil Infant's Wheel of Myriad Tribulations.” 𝚏𝕣𝐞𝗲𝐰𝕖𝐛𝐧𝕠𝕧𝚎𝚕.𝐜𝚘𝗺
 
-"The Four Gods of Creation and the Four Devil Emperors are the beings of the highest plane of the world, but they do not bear the power of the highest plane."
-
-"The ultimate power of the world is carried by the Heaven Punishing Ancestral Sword and the Evil Infant's Wheel of Myriad Tribulations."
-
-"Ni Xuan," he called the name of the Elemental God of Creation, without sorrow or hatred, without resentment or harm, "Do you know why they, who possess the ultimate power, were given such ominous names as 'Heaven Punishing' and 'Myriad Tribulations'?"
-
-AI Translation Notes:
-1:
-Hanyu Pinyin: The romanization system for Standard Mandarin Chinese, used here for proper names.
-
-2:
-Divine Extinction Realm (神灭境 - shén miè jìng): A high level of cultivation in this fictional universe, indicating significant power.
-
-3:
-Abyssal Dust (渊尘 - yuān chén): A unique concept in this story, representing a corrupting or negative force in the world of the Abyss.
-
-4:
-Pure Land (净土 - jìng tǔ): A realm within the Abyss that is free of abyssal dust, considered a paradise or sacred place.
-
-5:
-God of Creation (创世神 - chuàng shì shén): A deity responsible for creating the world or universe in this fictional setting.
-
-6:
-Ancestral Sword (始祖剑 - shǐ zǔ jiàn): A powerful and ancient artifact, likely possessing immense power and significance.
-
-7:
-Mo E (末厄 - mò è): The name of the Heaven Punishing God Emperor, with "Mo" meaning "end" or "final" and "E" meaning "disaster" or "suffering."
-
-8:
-Ni Xuan (逆玄 - nì xuán): The name of the Elemental God of Creation, with "Ni" meaning "rebellious" or "against" and "Xuan" meaning "profound" or "mysterious."
-
-9:
-Mo Su (末苏 - mò sū): The name of Mo E's son, with "Mo" meaning "end" or "final" and "Su" meaning "revive" or "awaken."
-
-10:
-Evil Infant's Wheel of Myriad Tribulations (邪婴万劫轮 - xié yīng wàn jié lún): A powerful artifact, likely possessing immense power and significance, and is the counterpart to the Heaven Punishing Ancestral Sword.
-
-11:
-Yin and Yang (阴阳 - yīn yáng): A fundamental concept in Chinese philosophy representing dualism and balance, such as light and dark, male and female, etc.
-
-12:
-God Race and Devil Race (神魔族 - shén mó zú): Two powerful races in this fictional setting, often depicted as opposing forces.
-
-13:
-Integration (相融 - xiāng róng): The concept of merging or blending, in this context referring to the potential union of the God and Devil Races.
-
-14:
-Heaven Sealing Devil Emperor (劫天魔帝 - jié tiān mó dì): The leader of the Devil Race, a powerful figure who opposes the Heaven Punishing God Emperor.
-
-15:
-Four Gods of Creation and Four Devil Emperors (四创世神, 四魔帝 - sì chuàng shì shén, sì mó dì): The eight supreme beings who created and rule the world in this fictional setting, divided into two opposing groups.
-
-16:
-Heaven Punishing Crown Prince (诛天太子 - zhū tiān tài zǐ): The title of Mo Su, indicating his status as the heir to the Heaven Punishing God Emperor.
-
-17:
-Six Divine Kingdoms (六大神国 - liù dà shén guó): Powerful nations or realms within the Abyss, each likely ruled by a powerful figure.
-
-18:
-Four Divine Envoys (四神官 - sì shén guān): High-ranking officials or leaders within the Pure Land, each responsible for training a group of Divine Guards.
-
-19:
-Divine Guards of the Pure Land (净土神卫 - jìng tǔ shén wèi): Elite warriors or protectors of the Pure Land, possessing high levels of cultivation and loyalty.
-
-20:
-Abyssal Emperor (渊皇 - yuān huáng): The ruler of the Abyss, a powerful figure who governs the realm.
-
-21:
-Eternal Pure Land (永恒净土 - yǒng héng jìng tǔ): A mythical or legendary realm within the Abyss, said to be completely free of abyssal dust and a paradise.
-
-22:
-Weaving Dream (织梦 - zhī mèng): One of the Six Divine Kingdoms, likely possessing unique characteristics or abilities related to dreams or illusions.
-
-23:
-Heaven Smiting (折天 - zhé tiān): One of the Six Divine Kingdoms, likely possessing unique characteristics or abilities related to defying or challenging the heavens.
-
-24:
-Dragon Race (龙族 - lóng zú): A powerful race within the Abyss, likely possessing unique characteristics or abilities related to dragons.
-
-25:
-Dreamless God Child (无梦神尊 - wú mèng shén zūn): A title or honorific for Meng Kongchan, indicating his status and possibly his abilities.
-
-26:
-Primordial Divine Realm (太初神境 - tài chū shén jìng): The world or realm where the battle between Ni Xuan and Mo E takes place, likely a significant location in the story's cosmology.
-
-27:
-Seven Great Profound Heavenly Treasures (七大玄天至宝 - qī dà xuán tiān zhì bǎo): Powerful artifacts of immense power and significance in this fictional setting.
-
-28:
-Hua Caili (画彩璃 - huà cǎi lí): A character who has a connection to Yun Che and provides him with information about the Pure Land.
-
-29:
-Yun Che (云澈 - yún chè): The main protagonist of the story.
-
-30:
-Meng Jianxi (梦见溪 - mèng jiàn xī): A character from the Weaving Dream Divine Kingdom, accompanying Yun Che to the Pure Land.
-
-31:
-Meng Kongchan (梦空蝉 - mèng kōng chán): A character from the Weaving Dream Divine Kingdom, likely a leader or elder.
-
-32:
-Li Suo (黎娑 - lí suō): A character with a close connection to Yun Che, possibly a spirit or entity residing within him.
-
-33:
-Dong Huang (东煌 - dōng huáng): One of the four Divine Guards of the Pure Land, serving under the Great Divine Envoy.
-
-34:
-Chang Ying (长赢 - cháng yíng): One of the four Divine Guards of the Pure Land, serving under the Myriad Paths Divine Envoy.
-
-35:
-Su Shang (素商 - sù shāng): One of the four Divine Guards of the Pure Land, serving under the Spirit Immortal Divine Envoy.
-
-36:
-Yuan Ying (元英 - yuán yīng): One of the four Divine Guards of the Pure Land, serving under the Six Smiles Divine Envoy.
-
-37:
-Great Divine Envoy (大神官 - dà shén guān): One of the Four Divine Envoys of the Pure Land.
-
-38:
-Myriad Paths Divine Envoy (万道神官 - wàn dào shén guān): One of the Four Divine Envoys of the Pure Land.
-
-39:
-Spirit Immortal Divine Envoy (灵仙神官 - líng xiān shén guān): One of the Four Divine Envoys of the Pure Land.
-
-40:
-Six Smiles Divine Envoy (六笑神官 - liù xiào shén guān): One of the Four Divine Envoys of the Pure Land.
-
-41:
-Divine Master Realm (神极境 - shén jí jìng): A high level of cultivation in this fictional universe, indicating significant power.
-
-42:
-Quasi-knight (准骑士 - zhǔn qí shì): A term for individuals who have almost completed the training or trials to become a knight but have not yet fully qualified.
-
-43:
-Light Realm (光界 - guāng jiè): A realm or dimension within the Pure Land, possibly possessing unique properties or characteristics.
-
-44:
-Profound practitioner (玄者 - xuán zhě): A general term for individuals who cultivate or practice martial arts or other forms of energy manipulation in this fictional setting.
-
-45:
-Fairyland (仙境 - xiān jìng): A term used to describe a beautiful and idyllic place, often associated with immortals or divine beings.
-
-46:
-Holy land (圣地 - shèng dì): A term used to describe a sacred or revered place, often associated with religious or spiritual significance.
-
-47:
-Foul-smelling mud (污臭泥沼 - wū chòu ní zhǎo): A term used to describe a dirty and unpleasant environment, contrasting with the purity of the Pure Land.
-
-48:
-Clear spring (至清之泉 - zhì qīng zhī quán): A term used to describe a pure and refreshing source of water, symbolizing the clean and uncorrupted nature of the Pure Land.
-
-49:
-Soul sea (魂海 - hún hǎi): A term used to describe the inner world or consciousness of a character, often where memories, emotions, and spiritual power reside.
-
-50:
-Memory fragments (记忆碎片 - jì yì suì piàn): Pieces of memories from the past, often incomplete or fragmented, that provide glimpses into the history or backstory of a character or event.
-
-51:
-Catastrophic storm (灾厄的风暴 - zāi è de fēng bào): A powerful and destructive storm, often symbolizing chaos, destruction, or a major turning point in the story.
-
-52:
-Primordial Earth (太初大地 - tài chū dà dì): The ground or land of the Primordial Divine Realm, possibly possessing unique properties or significance.
-
-53:
-Bronze (古铜 - gǔ tóng): A type of metal, often associated with ancient artifacts or weapons.
-
-54:
-Mortal world (凡间 - fán jiān): The world or realm inhabited by ordinary humans, as opposed to the realms of gods, devils, or other supernatural beings.
-
-55:
-Ordinary iron (凡铁 - fán tiě): A common and unremarkable type of metal, contrasting with the powerful and unique nature of the Ancestral Sword.
-
-56:
-Lifespan (寿元 - shòu yuán): The length of time a being is expected to live, often a precious resource for powerful cultivators or immortal beings.
-
-57:
-Crown Prince (太子 - tài zǐ): The heir apparent to a throne or ruler, often possessing significant power and responsibility.
-
-58:
-Righteous path (正道 - zhèng dào): A term used to describe a moral or ethical code, often associated with justice, virtue, and upholding the established order.
-
-59:
-Rebellious (逆 - nì): A term used to describe someone who opposes or challenges authority, rules, or the established order.
-
-60:
-Free and unrestrained (洒脱不羁 - sǎ tuō bù jī): A term used to describe someone who is independent, unconventional, and not bound by rules or expectations.
-
-61:
-Filth and shackles (污淤与桎梏 - wū yū yǔ zhì gù): Terms used to describe negative aspects or limitations of an era or system, often associated with corruption, stagnation, or oppression.
-
-62:
-All spirits and all worlds (万灵万界 - wàn líng wàn jiè): A term used to describe the vastness and diversity of life and realms in the universe.
-
-63:
-Still water (死水 - sǐ shuǐ): A term used to describe water that is not flowing or moving, often symbolizing calmness, stagnation, or the absence of emotion.
-
-64:
-Repulsion and restraint (相斥相制 - xiāng chì xiāng zhì): Terms used to describe the opposing and balancing forces between the God and Devil Races.
-
-65:
-Lowest plane (最末位面 - zuì mò wèi miàn): The lowest or least significant realm or dimension in the story's cosmology.
-
-66:
-Ultimate power (极道之力 - jí dào zhī lì): The highest or most powerful form of energy or force in this fictional setting.
-
-67:
-Ominous (不详 - bù xiáng): A term used to describe something that is considered unlucky, dangerous, or associated with misfortune.
-
-68:
-World of the Abyss (深渊世界 - shēn yuān shì jiè): The primary setting of the story, a realm or dimension inhabited by various races and governed by the Abyssal Emperor.
-
-69:
-God Child (神尊 - shén zūn): A title or honorific used for individuals with high status or power, often associated with divine beings or powerful cultivators.
-
-70:
-Profound formations (玄阵 - xuán zhèn): Arrays or patterns imbued with mystical energy, used for various purposes such as defense, attack, or cultivation.
-
-71:
-Isolation barrier (隔绝结界 - gé jué jié jiè): A protective barrier or field that isolates or separates an area from the outside world.
-
-72:
-Distinguished guests (贵客 - guì kè): A term used to address honored or important visitors.
-
-73:
-Forbidden areas (禁地 - jìn dì): Places that are restricted or off-limits to unauthorized individuals.
-
-74:
-Attendants (侍者 - shì zhě): Servants or individuals who provide assistance or service to others.
-
-75:
-Uneasy (心神难宁 - xīn shén nán níng): A term used to describe a state of mental or emotional distress or agitation.
-
-76:
-Cover up (掩饰 - yǎn shì): To hide or conceal something, often used in the context of protecting someone's reputation or hiding their true feelings.
-
-77:
-Stubborn (倔 - jué): A term used to describe someone who is determined, unyielding, or resistant to change.
-
-78:
-Admire (心仪 - xīn yí): To have feelings of affection or admiration for someone.
-
-79:
-Gray and defeated (灰败 - huī bài): A term used to describe someone who is exhausted, demoralized, or has lost hope.
-
-80:
-Wretched (狼狈 - láng bèi): A term used to describe someone who is in a miserable or pitiful state.
-
-81:
-Upright (刚正 - gāng zhèng): A term used to describe someone who is righteous, honest, and adheres to strict moral principles.
-
-82:
-Indifferent (漠然 - mò rán): A term used to describe someone who is emotionally detached, apathetic, or uncaring.
-
-83:
-Mountain supporting the sky (擎天之岳 - qíng tiān zhī yuè): A metaphor used to describe someone who is strong, stable, and unwavering, like a mountain that holds up the sky.
-
-84:
-Hidden sadness (深隐的悲怆 - shēn yǐn de bēi chuàng): A term used to describe a deep and concealed sorrow or grief.
-
-85:
-Echo of agreement (认同的回音 - rèn tóng de huí yīn): A term used to describe a response that shows understanding or agreement.
-
-86:
-Small test (微末处的试探 - wēi mò chù de shì tàn): A term used to describe a minor or initial attempt to explore or experiment with something new.
-
-87:
-Moved (触动 - chù dòng): To be emotionally affected or stirred by something.
-
-88:
-Cruel (狠绝 - hěn jué): A term used to describe someone who is ruthless, merciless, or extremely harsh.
-
-89:
-Hanging down (垂地 - chuí dì): A term used to describe something that is hanging or drooping towards the ground.
-
-90:
-Without sorrow or hatred, without resentment or harm (无悲无恨, 无怨无伤 - wú bēi wú hèn, wú yuàn wú shāng): A term used to describe a state of being free from negative emotions such as sadness, hatred, resentment, or pain.
-
-91:
-
-颓然 (tuí rán): Dejected; dispirited;颓: dejected; dispirited; downcast.
+“Ni Xuan,” he called out the Creation God of Elements’ name without sorrow or hate, resentment or wound, “do you know why they are bestowed such inauspicious names—‘Heaven Punishing’, ‘Myriad Tribulations’—despite possessing the highest powers of this universe?”

@@ -1,149 +1,201 @@
 ---
 chapterNumber: 2129
 title: "Abyssal Monarch (1)"
-publishedAt: "2025-11-20"
+publishedAt: "2025-11-22"
 ---
 
-The sudden appearance of a Divine Forged Barrier¹ immediately diverted everyone's attention. Following this was Divine Venerable Wuming's² cold sneer: "Is this the so-called Perfect Divinity³ of the Weaving Dream Divine Kingdom⁴? It's utterly pathetic, simply laughable!"
+The appearance of a True God-level barrier immediately distracted everyone from the sight before them. At the same time, the Lightless Divine Regent let out a cold snort. “This is the Dreamweaver Kingdom of God’s so-called perfect God Bearer? How pathetic! Positively laughable!”
 
-Although Divine Venerable Wuming could not see, her spiritual perception was terrifyingly acute. Every wisp of aura, even the slightest change in facial expression of those present, would clearly register in her senses. To outsiders, the sudden formation of this barrier meant that Yun Che was struggling to withstand the divine pressure of this place and needed an isolating barrier to adjust and recover.
+Although the Lightless Divine Regent could not see, her spiritual perception was scarily sensitive. She could clearly capture everyone’s aura and every minute change in their facial features.
 
-Facing Shen Wuyan Ye, Meng Kongchan⁵ showed no pleasant expression, stating in a deep voice: "My son has only returned for a few short years, and his cultivation is still shallow. With merely the fourth level of the Divine Master Realm⁶, it's naturally difficult for him to withstand the spiritual pressure here."
+To an outsider, the reason Meng Kongchan had suddenly created the barrier was that Yun Che could not endure the collective divine pressure that had gathered in this temple. He needed time and space to neutralize and adjust to the effects.
 
-"On the contrary, Divine Venerable Wuming, in her esteemed position, actively challenges a junior she's just met. What? Could it be that the emergence of a man with a Perfect Divinity has struck a raw nerve with Divine Venerable Wuming?" It was widely known that Shen Wuyan Ye, having been hurt by her beloved, harbored an extreme aversion to men. Yet, those who dared to mock her directly with this fact were few and far between... Meng Kongchan was naturally one of them.
+Meng Kongchan had no goodwill to offer Shenwu Yanye, so he said in a heavy voice, “My son has only returned for a few years, and he is merely a fourth-level Divine Master. Naturally, the spiritual pressure in this place is difficult for him to endure.”
 
-Shen Wuyan Ye, however, did not get angry. Instead, she let out a low chuckle that instilled fear in people's hearts: "A man with a Perfect Divinity is truly extraordinary. Then, Divine Venerable Wumeng, you must watch him carefully. Make sure he doesn't... perish... prematurely... again."
+“Speaking of which, I am surprised that a Divine Regent would stoop so low as to attack a junior she just met. What’s wrong? Did the appearance of a man with perfect divine essence touch a sore spot, Lightless Divine Regent?”
 
-"..." Meng Kongchan let out a faint snort, seemingly disdaining to respond. But in the depths of his pupils, a streak of icy silver light flashed. Shen Wuyan Ye's words had undoubtedly touched his dragon's reverse scale⁷.
+Shenwu Yanye was hurt by her beloved and so came to loathe men like no other. This was something the entire world was aware of. However, only a handful of people dared to taunt her with it to her face... and Meng Kongchan was one of them.
 
-However, this was merely a verbal exchange between Divine Venerables. While it greatly increased his dislike for Shen Wuyan Ye, it wasn't enough to make him lose his composure. Yet, as a fellow Divine Venerable, he ultimately underestimated... or rather, he simply couldn't comprehend the terrifying madness born from Shen Wuyan Ye's extremely twisted psyche. In Shen Wuyi's⁸ soul sea, a telepathic message from Divine Venerable Wuming resonated.
+Shenwu Yanye did not get angry, however. Instead, she let out a low, spine-chilling chuckle. “A man with perfect divine essence, is it? That's impressive. You best guard him well and make sure that he does~ not~ die~ again, Dreamless Divine Regent.”
 
-"Find an opportunity and cripple Meng Jian Yuan." Compared to her identity as a Divine Venerable, she was a complete and utter madwoman.
+Meng Kongchan let out a silent hmph as if he could not bring himself to respond to such a taunt. In reality, a silver glint flickered coldly and murderously behind his eyes. Shenwu Yanye’s taunt had undoubtedly touched his reverse scale.
 
-"Yes." Facing this terrifyingly deranged command, Shen Wuyi accepted it without the slightest hesitation. Not even a ripple of emotion appeared on her face, only an eternally unchanging coolness and indifference. Hua Caili's⁹ beautiful eyes clearly could no longer maintain their calm. In just a few breaths, she had several times almost given in to the urge to approach Meng Kongchan and ask about Yun Che's well-being.
+Still, this was a verbal clash between Divine Regents. Although his disgust for Shenwu Yanye had grown by leaps and bounds after receiving such a taunt, it wasn’t enough to make him lose decorum.
 
-"Rest assured, completely."
+This was a problem. Despite being a Divine Regent, he had ultimately underestimated Shenwu Yanye. More accurately, he could not understand the terrifying madness born from the woman’s utterly warped psyche.
 
-Hua Fuchen¹⁰ once again soothed her with a soft voice: "With his father god by his side, it would be difficult for anything to happen to him. All your worries are superfluous."
+Inside Shenwu Yi’s soul sea, the Lightless Divine Regent’s sound transmission resounded: “Seek out the right time and opportunity and cripple Meng Jianyuan.”
 
-He secretly sighed, his daughter truly was a love-struck fool; her state of mind would easily crumble whenever Yun Che was involved. But at the same time, a slight doubt arose in his heart. He had personally witnessed Yun Che's strength, which far surpassed his realm, coupled with his extraordinary mental fortitude. Logically, this shouldn't be happening... Inside the barrier, the world was empty. Only Yun Che's heavy gasps could be heard.
+She was more of a complete madwoman than a Divine Regent.
 
-With a heavy "thud," he fell heavily to his knees, hand pressed to his chest, his entire body trembling like chaff. His chest heaved as if it would split open.
+“As you command.”
 
-"Heh... hehe... ha...呜... uh..."
+The order was unwise to the point of being terrifying, and yet Shenwu Yi did not hesitate to say yes. Forget fear, her face hadn’t so much as twitched. It was as if cool indifference was the only expression she was capable of mustering. 𝒻𝑟𝘦𝘦𝘸ℯ𝒷𝑛𝘰𝓋ℯ𝘭.𝘤𝘰𝘮
 
-He hung his head, his falling hair obscuring his twitching features. He seemed to be laughing, but what escaped his lips were broken sobs.
+Meanwhile, Hua Caili could no longer maintain her mask of calmness. In just the span of a few breaths, she had repeatedly tried to get close to Meng Kongchan and ask how Yun Che was doing.
 
-"Ah... haha... hiss..."
+Hua Fuchen consoled her for the umpteenth time, “With his Father by his side, it would take a miracle for him to experience any difficulties. Your worries are understandable but unnecessary.”
 
-"Heaven... have... mercy... you're still here..."
+Inside his head, he lamented the fact that his daughter was so lovesick that her mind turned to mush, and her heart became as frail as glass in all matters relating to Yun Che.
 
-"You... you're really still here..."
+However, he was also puzzled. He had experienced Yun Che’s supernatural strength and extraordinary fortitude before. Logically speaking, just this bit of pressure should not cause him to crumble...
 
-Fate, once again, bestowed upon him a gift as beautiful as a dream. Lishuo's¹¹ figure slowly materialized before him, silently observing his current state. Since entering the Abyss World¹², every subtle change in Yun Che's emotions had been within her perception.
+There was only emptiness inside the barrier. The only sound that could be heard was Yun Che’s heavy panting.
 
-She felt his resolve and loneliness, sensed the heavy pressure he bore with every step and every decision, and... the absolute rationality, caution, and cold sobriety he had to maintain at all times. And at this moment, in the highest place of this Abyss World, at this Eden Cloud Peak¹³ where he absolutely could not allow himself to show any weakness, he let his emotions completely burst forth. Because the person who had just appeared in his eyes, the woman called Shen Wuyi... "Is she... Xia Qingyue¹⁴?" she asked softly.
+His knees hit the floor heavily as he pressed a hand to his solar plexus. His whole body was shaking like a leaf, and his chest was heaving up and down like something was trying to burst out.
 
-When she attached herself to Yun Che, following the Primordial Seal of Life and Death¹⁵, Xia Qingyue had already fallen into the Abyss of Nothingness. Thus, she had never personally seen Xia Qingyue. But she had listened to Yun Che's conversations with the Ancestral Will¹⁶ and walked with Yun Che through that "Moon Memory"¹⁷ intertwined with so many emotions and karmic ties. She couldn't clearly understand romantic love, but she knew clearly enough what the name "Xia Qingyue" meant to Yun Che: extreme pain, extreme regret, extreme wounds, and extreme longing. Upon learning that there was another habitable world beneath the Abyss of Nothingness, his first desire was that Xia Qingyue might still be alive.
+“Heh... hehe... ha... sob... ugh...”
 
-After entering the Abyss World, he had always used the name Yun Che. Even after expending immense effort to enter the Weaving Dream Divine Kingdom, he braved all resistance and still used the name Yun Che. A major reason for this was the hope that if Xia Qingyue were still alive, she might hear his name. He had once used the name of the Xuanji Palace¹⁸ to search... but in the vast Abyss World, there was simply no surname "Xia." Nor was there any woman whose beauty could compare to the Heaven-Folding Divine Maiden¹⁹. After that, he never tried to search again.
+His head was lowered, and disheveled strands of hair were covering up his twitching facial features. He seemed to be laughing, but the voices spilling out of his mouth could only be described as broken sobs.
 
-Xia Qingyue had fallen into the Abyss four years before him. Given the time-distorting black tides of the Abyss, she should have spent forty years in the Abyss World by the time he entered. If she were still alive, with her beauty, talent, and cultivation, it would be absolutely impossible for her to remain unknown for forty years. Even if she had changed her name from the start, she could still be easily found. Therefore, the answer was already in his subconscious.
+“Ah... haha... sss...”
 
-He simply dared not touch upon it, nor had he ever mentioned it again, forcing himself to cling desperately to that faint hope, like a distant, fading star trail. And now, this extravagant wish, which he had thought shattered, was so unexpectedly presented before his eyes.
+“The heavens... have mercy... you... are still alive...”
 
-"It's her... it's her..."
+“You really are... still alive...”
 
-He whispered in an utterly trembling voice, responding to Lishuo, and even more so, speaking to himself: "I absolutely... absolutely cannot be mistaken... she's still here... she's still here..."
+Once again, fate had bestowed him a fantastical gift.
 
-"This is too good..."
+Li Suo slowly appeared in front of Yun Che and watched him silently. From the moment he set foot in the Abyss, she had been sensing his every emotion. She had experienced his determination and loneliness, felt the immense pressure that accompanied every footstep and decision, and shouldered the burden of maintaining absolute rationality, caution, and cold, calculating awareness at all times.
 
-"It's truly... too good..."
+Right here and now, at the highest place of the Abyss, in the Eden’s Crown, where he absolutely could not allow himself to reveal even a hint of weakness or make a single mistake, he was letting his emotions run free without any control whatsoever.
 
-"I... finally... I..."
+It was all because of that woman named Shenwu Yi...
 
-"He could no longer form words."
+“Is she... Xia Qingyue?” Li Suo asked softly.
 
-"I can feel that you are very agitated,"
+Xia Qingyue had already fallen into the Abyss of Nothingness by the time she became attached to Yun Che through the Primordial Seal of Life and Death. Therefore, she had never seen Xia Qingyue before. However, she had heard the dialogue between Yun Che and the Ancestral Will and had walked with Yun Che through those moonlit memories, entangled with far too many emotions and karma.
 
-Lishuo said softly: "Your soul is chaotic and very warm, as if it's about to ignite."
+She might not truly understand the love between a man and a woman yet, but she knew exactly how much the three words “Xia Qingyue” meant to Yun Che. If she were to summarize that feeling, it would be absolute pain, absolute regret, absolute trauma, and absolute love.
 
-"All the joy and satisfaction I've felt from you over these years, perhaps combined, don't equal this single moment."
+From the moment he learned that it was possible for another world to exist on the other side of the Abyss of Nothingness, the very first desire that sprouted in his heart was the potential survival of Xia Qingyue.
 
-"So..."
+From the moment he set foot in the Abyss, he had called himself Yun Che and did everything in his power to join the Dreamweaver Kingdom of God. Despite facing heavy resistance, he still insisted on using his actual name. One of the biggest reasons he did this was that he hoped Xia Qingyue was still alive and would hear his name.
 
-Lishuo reached out, her snow-white finger covered in a faint white glow, gently touching Yun Che's trembling brow: "You absolutely cannot fail, right?"
+He had used the Xuanji Hall to look for her as well. However, the surname Xia did not exist in the entire Abyss, much less another woman whose countenance could rival that of the Heaven Breaker Divine Daughter. After that, he stopped searching.
 
-"Otherwise, not only will your homeland suffer catastrophic disaster, but even this beautiful dream will turn into a shattered illusion." The light soothed his soul, quickly calming the turbulent waves in Yun Che's soul sea.
+Xia Qingyue had fallen into the Abyss four years earlier than him. In the Abyss, that was forty years due to the effects of the Black Tide of Time. If she were still alive, there was no way she would remain nameless. Her outstanding appearance, talent, and cultivation all ensured that. Even if she had changed her name from the start, locating her should not be difficult at all. Therefore, the answer had appeared in his subconscious long ago.
 
-One breath... two breaths... three breaths... The heaving of his chest subsided, his breathing was no longer rapid, and gradually, the trembling of his body also ceased little by little. Yun Che slowly raised his head, his eyes misted over. The next instant, the mist dispersed, revealing those pupils that always held a hidden sobriety.
+However, Yun Che dared not touch the truth. He never brought it up after that. He forced himself to hold onto that sliver of hope so ephemeral that it was comparable to the long-faded trail of a shooting star.
 
-"Yes, of course." He smiled... It was the first smile without a trace of impurity since he entered the Abyss. But, disappointingly, the mist that had just cleared once again blurred his eyes, forcing him to quickly dispel it again.
+Then, the absurd fantasy he deep down believed to be shattered and dead appeared before his eyes out of nowhere, intact.
 
-She looked at Yun Che, no longer worried, and her figure silently vanished, leaving only a faint, ethereal whisper: "Protect yourself."
+“It’s her... it’s her...” He murmured in a shaky voice. It was both a response to Li Suo’s question and a confession to himself. “I will never... never mistake her for someone else... she’s still here... she’s still here...”
 
-Yun Che closed his eyes... A moment later, he slowly opened them again. He no longer gave himself more time, extending his hand to touch the barrier. With a soft chime, the barrier shattered, and Yun Che's figure reappeared in everyone's sight. He was still as handsome and elegant as before, a faint, harmless, almost imperceptible smile playing on his lips. His demeanor was one of ease and composure, completely devoid of the embarrassment of being "forced to isolate himself for adjustment in public."
+“Thank goodness...”
 
-Yun Che's appearance eased Meng Kongchan's heart, and he smiled: "How was it?"
+“Thank... goodness...”
 
-"Especially good."
+“I... finally... I...”
 
-Yun Che responded with a smile. The three words, though seemingly deliberate, were in fact insufficient to convey even a fraction of the joy in his soul.
+He was incoherent at this point.
 
-"Mm."
+“I can feel that you are very agitated right now.”
 
-Meng Kongchan nodded: "If you feel unwell, don't force yourself, and there's no need to care about others' gazes."
+Li Suo said softly, “Your soul is chaotic and warm. You feel so warm it’s as if you may burst into flames.”
 
-"Senior, rest assured."
+“All of the joy and satisfaction I picked up from you in the past couple of years combined may still not compare to what you’re feeling right now.”
 
-Yun Che said with a smile: "With you by my side, why would I need to force myself?"
+Li Suo reached out and tapped Yun Che’s shuddering forehead with a pale fingertip that was glowing white. “Now more than ever, you must not fail in your mission, am I right?”
 
-"Hahahahaha!"
+“If you fail, your homeland will face an existential crisis, and even this beautiful dream will pop like a bubble.”
 
-Meng Kongchan burst into laughter, greatly pleased by Yun Che's reply. Faintly, he sensed a subtle change in Yun Che's soul state after he emerged from the barrier. It was as if a tightly locked switch had suddenly, and completely, opened. On the other side, Pan Buzhuo²⁰, who had been staring blankly at Shen Wuyi, suddenly shivered, abruptly turned his head, and met Pan Yusheng's²¹ cold, scrutinizing gaze. "Buzhuo,"
+Her light soothed Yun Che’s soul and rapidly quelled the stunning waves raging inside Yun Che’s soul sea.
 
-Pan Yusheng's face was grim: "She is the Daughter of Eternal Night. Don't forget the lesson from that rebellious son, Pan Buwang²²!"
+One breath... two breaths... three breaths...
 
-Pan Buzhuo quickly composed himself and immediately said with a serious expression: "This woman's appearance is indeed stunningly beautiful. Your son was unprepared and momentarily lost his composure, but only just now. To your son now, even if she were ten times more alluring, she is still a Demonic Maiden of Eternal Night to be avoided like a viper!"
+Soon, his chest stopped heaving, and his breathing slowed. The tremors wracking his body gradually disappeared as well.
 
-After staring at him for a while, Pan Yusheng finally nodded in satisfaction: "Good that you know."
+There was still mist in his eyes when Yun Che’s eyes slowly lifted his head. However, they disappeared the next instant, and the pair of forever wakeful eyes finally reentered Li Suo’s view.
 
-Yun Che's gaze shifted, and he felt that the light here was exceptionally bright. The floating pure white clouds no longer carried an uncomfortable oppressiveness but were like ethereal mists of an immortal realm, refreshing to the heart and mind. He looked at Hua Caili, giving her a comforting glance... Unconsciously, his gaze was still drawn by an invisible force he couldn't fully control, landing on Shen Wuyi. Each time he reunited with her, she would be accompanied by a subtle transformation.
+“Mm. Of course,” Yun Che said with a smile. It was the first smile he ever wore that wasn’t mixed with some other emotion since he entered the Abyss.
 
-Later, he learned that it was the gradual awakening of her Glazed Heart²³ and the growth and integration of her Exquisite Body²⁴. Seeing her again, she had changed once more. In her eyes and on her body, a faint divine light, previously absent, subtly flowed, like an undying bright moon constantly reflecting eternal moonlight upon her. She had become so beautiful; even the Moon Goddess²⁵ of his childhood dreams couldn't compare to a fraction of her. Recalling his sixteen-year-old self, he would always nonchalantly hide the inferiority he couldn't completely dispel when facing her, and then he worked so hard to prove himself worthy of being his husband... And if he had faced her as she was now back then, he might not even have had the courage to look directly at her or touch her. Sensing the man's gaze, Shen Wuyi's eyes suddenly shot towards him, like a beautiful yet merciless glazed ice thorn, piercing directly into Yun Che's pupils. Such a gaze was enough to send a chill down anyone's spine.
+He was more fragile than he thought, as the tears he had just vaporized reappeared once more. He had no choice but to dispel them again.
 
-But Yun Che did not avert his gaze; instead, a smile tilted his lips.
+Confirming that Yun Che was no longer in a state of disarray, Li Suo stopped worrying and disappeared without a trace. She left behind only two words, “Be safe.”
 
-"Then, is that really her?"
+Yun Che closed his eyes for a moment. When he reopened them, he cut his alone time short and touched the barrier with his palm.
 
-Lishuo's voice echoed in his soul sea. She didn't want to shatter Yun Che's dream, but she still voiced her doubt: "But the way she looks at you is unfamiliar and cold, devoid of any emotional warmth."
+The barrier shattered with a soft ping, and Yun Che reappeared in everyone’s vision looking just as handsome and refined as he was before. He was now wearing a faint, warm, and harmless smile, and his composure was as perfect as it was sublime. The “awkwardness” he displayed earlier was nowhere to be found.
 
-"Even you almost lost control of your emotions when caught off guard. I don't believe she could perfectly feign such an encounter without any prior preparation."
+Yun Che’s appearance caused Meng Kongchan to relax, and he asked with a smile, “How do you feel?”
 
-"Yes, you're right. But... that is her. Even if only the last fragment of my soul remained, I could never mistake her or forget her."
+“Better than ever,” Yun Che replied smilingly. His words were chosen deliberately, though they could describe even one-ten-thousandth of the true joy that filled his soul right now.
 
-He didn't deny it hastily but responded in a very gentle tone: "Her current name is Shen Wuyi. I believe, just as the rumors say, she has lost her past memories."
+Meng Kongchan nodded. “If you feel further discomfort, then do not hesitate to tell me. There is no need to force yourself to endure, much less care about what other people think.”
 
-One of the rumors about the Divine Maiden of Eternal Night²⁶ was that she had lost her past before becoming a Divine Maiden. Perhaps she suffered some trauma that led to amnesia, but more people speculated that Divine Venerable Wuming had erased all her past memories and traces to create a flawless Divine Maiden. Yun Che recalled what the Ancestral God's Will had said before dissipating: "With the demise of the 'Instrument of Fate'²⁷, the chains of destiny between you two have also vanished. I no longer have a reason to remain here.
+“Do not worry, senior.” Yun Che beamed. “With you by my side, what is there to endure?”
 
-After today, I shall return to slumber to recover my depleted source energy as soon as possible." She was born as an "Instrument of Fate," and with the severing of the chains of destiny between him and her, her creation and the initial meaning of her existence also concluded... Could it be that her life as an "Instrument of Fate" also vanished with the completion of her "mission," severing all past and memories, returning to a completely independent, completely free life... No... it doesn't matter... whichever possibility, whatever the case... as long as you are still here, as long as you are alive, this is already the most beautiful outcome.
+“Hahahaha!”
 
-"The timing, it seems, doesn't quite fit either."
+Meng Kongchan guffawed loudly. He clearly enjoyed Yun Che’s answer. He also had a vague feeling that Yun Che’s soul state had changed ever so slightly after leaving the barrier. It was as if some sort of switch that was shut tight this entire time had suddenly been flung open in full.
 
-Lishuo continued to question. When it came to Shen Wuyi, she appeared even more rational than Yun Che.
+On the other side, Pan Buzhuo was staring blankly at Shenwu Yi when, suddenly, he shivered and turned his head backward. His eyes immediately met Pan Yusheng’s cold gaze.
 
-"Xia Qingyue fell into the Abyss four years before you. Given the time-distorting black tides of the Abyss, by the time you entered, she had already existed in the Abyss for forty years."
+“Buzhuo,” Pan Yusheng said with a dark expression, “she is a woman of Eternal Night. Do not forget the lesson my unfilial son learned the hard way!”
 
-"And Shen Wuyi became the Divine Maiden of Eternal Night twenty years ago."
+Pan Buzhuo swiftly gathered his wits and said seriously, “That woman’s countenance is outstanding beyond imagination. This child admits that he was caught off guard when he first saw it. However, rest assured that this child is aware of her demonic nature. She can be ten times prettier, and this child will still avoid her at all costs!”
 
-"Therefore, when she became the Divine Maiden of Eternal Night, her age should not have been half a jiazi²⁸, but a full jiazi."
+Pan Yusheng watched him for a bit before finally nodding in satisfaction. “As long as you know.”
 
-"Twenty years ago, Shen Wuyi's cultivation was at the Peak Divine Master Realm, consistent with Xia Qingyue's cultivation when she fell into the Abyss. However, Xia Qingyue possesses the Nine Profound Exquisite Body²⁹, which means she has no bottlenecks in her profound cultivation. It's impossible for her to have made no breakthroughs in her twenty years in the Abyss..."
+Meanwhile, Yun Che idly scanned his surroundings, feeling the world was much more colorful and bright than usual. The pure clouds and white mist no longer felt oppressive. No, it now felt like a celestial paradise that lifted the spirits and soothed the heart. He first gave Hua Caili a comforting look. Then, his eyes subconsciously strayed toward Shewu Yi as if drawn by an uncontrollable, invisible string.
 
-Lishuo didn't want to agitate Yun Che, so her words were extremely gentle and slow. At the same time, she knew that Yun Che couldn't be unaware of such obvious facts.
+Every time he reunited with her, she would undergo a slightly different change. It wasn’t until later that he learned that it was due to the gradual awakening of the Heart of Snow Glazed Glass and the growth and fusion with the Nine Profound Exquisite Body.
 
-"Perhaps... the rumors about her age and cultivation when she became the Divine Maiden of Eternal Night are erroneous."
+Once again, they had reunited, and once again she had changed. Her eyes and her body were now dimly glowing with a faint divine light that had not existed before. It was like a moon was permanently casting a beam of moonlight on her.
 
-Yun Che timely shifted his gaze away from Shen Wuyi, but a faint smile still hung on his lips: "I know all of this, but... it doesn't matter at all."
+She had become so beautiful. The moon god that once visited his dreams when he was a youngster could not hope to compare to even a hair on her person. Looking back, his sixteen-year-old self had always needed to hide the sense of inferiority he couldn’t quite dispel completely with a facade of nonchalance. After that, he worked hard to prove that he was worthy of being her husband as well...
 
-"Her being alive surpasses everything else. As for those twenty blank years, I'll just wait for her to tell me herself one day in the future."
+If the youngster he once was faced the current her, he wasn’t sure whether he could even muster the courage to look her in the eye.
+
+Sensing the gaze of a man, Shenwu Yi abruptly turned in his direction and stabbed Yun Che’s eyes with a gaze that could only be described as a beautiful, glassy spike of coldness and heartlessness. It was a look that could chill anyone to the core.
+
+And yet, Yun Che did not avoid her gaze. He even curled his lips into a small smile.
+
+“Is that really her?”
+
+It was at this moment that Li Suo’s voice rang inside his soul sea. She did not wish to break his dream, but she still chose to voice her doubts. “There is no emotion or sense of familiarity in her gaze whatsoever. Her eyes exist in a temperature that is devoid of any warmth.”
+
+“Even you nearly lost control of your emotions when she suddenly appeared before your eyes. I cannot believe that she can conceal her emotions so perfectly after reuniting with you so suddenly and without warning.”
+
+“Mm. You are right. But... that is her. My soul may break until only a fragment is left, and I still will not forget her or mistake her for someone else.”
+
+He did not immediately deny her doubt. Instead, he explained in an even tone, “Right now, she is called Shenwu Yi (Without Memories). She probably lost her memories as the rumors claim.”
+
+One of the rumors regarding the current Eternal Night Divine Daughter was that she had lost all her memories prior to becoming a Divine Daughter. It was possible that she had suffered some sort of injury and lost her memories as a result. However, even more people believed that the Lightless Divine Regent had stripped her of all memories and traces of her past to create a flawless Divine Daughter.
+
+Yun Che recalled the words the Ancestral Will had said before she disappeared, “Now that the ‘Artifact of Fate’ is deceased, the Chain of Fate between the two of you has disappeared as well. There is no longer any reason for me to remain in this world. Starting today, I will return to my slumber in order to recover my lost origin power as soon as possible.”
+
+She was born to be an Artifact of Fate. After the Chain of Fate between him and her had broken, the reason for her creation and the meaning of her existence had all come to an end as well.
+
+In that case, was it possible that the life she led as the “Artifact of Fate” had disappeared alongside the completion of her “mission”? Was it possible that, after her past and memories were completely severed, she was restored as a wholly independent and free lifeform?
+
+No... it doesn’t matter... it doesn’t matter what the truth is or whether or not you still remember... So long as you still exist, so long as you are still alive, then it is already the best outcome.
+
+“The time doesn’t seem to fully match either.”
+
+Li Suo was still voicing her doubts. When it came to Shenwu Yi, she was clearly the more rational one between the two of them.
+
+“Xia Qingyue entered the Abyss four years earlier than you. Due to the effects of the Black Tide of Time, this means that forty years have passed since she entered the Abyss.”
+
+“However, Shenwu Yi became the Eternal Night Divine Daughter two decades ago.”
+
+“Therefore, she should be one sexagenary year when she became the Eternal Night Divine Daughter, not a half.”
+
+“Shenwu Yi was a peak Divine Master twenty years ago. Her cultivation is identical to Xia Qingyue’s when she fell into the Abyss, at least. However, Xia Qingyue is the owner of the Nine Profound Exquisite Body. She does not have bottlenecks in her cultivation. There is no way she hasn’t broken through during the twenty years she lived in the Abyss...”
+
+Li Suo did not want to agitate Yun Che, so she kept her words as slow and gentle as possible. But at the same time, she understood that there was no way Yun Che had not realized these inconsistencies already. They were so glaringly obvious that even she noticed them after all.
+
+“Maybe... the rumors were wrong. Her age and cultivation when she became the Eternal Night Divine Daughter could be something else.”
+
+Yun Che looked away from Shenwu Yi after a suitable time. He was still smiling, though. “I am aware of all of your concerns, but... it doesn’t matter at all.”
+
+“The fact that she is still alive is better than everything... One day in the future, she can tell me herself what happened to her during those twenty blank years... one day.”
+
+1. Translator’s Note: You wanna know what I think now?
+
+I think Xia Qingyue is dead.
+
+I think Shenwu Yi is her daughter . I think Xia Qingyue gave Shenwu Yi everything prior to her death.
+
+No wonder Mars said that Xia Qingyue’s life is a tragedy. ☜

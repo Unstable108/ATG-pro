@@ -1,203 +1,205 @@
 ---
 chapterNumber: 2112
 title: "Brahma Sound"
-publishedAt: "2025-11-20"
+publishedAt: "2025-11-22"
 ---
 
-Yun Che exited the cultivation space and saw Meng Kongchan standing with his hands clasped behind his back, seemingly having waited for quite some time.
+As soon as Yun Che stepped out of his cultivation space, he immediately saw Meng Kongchan waiting for him with his hands clasped behind his back. It was impossible to say how long he had been waiting for him.
 
-“How was your progress?” Meng Kongchan turned around, asking casually.
+“How is your progress?” Meng Kongchan turned around and asked casually.
 
-“Satisfactory,” Yun Che replied respectfully. “God Emperor², coming here, is it because the time to visit the Pure Land is near?”
+“It’s passable,” Yun Che replied respectfully. “Have you come because the Pure Land Meet is near, Divine Regent?”
 
-“No rush. There’s no need to enter the Pure Land too early. We’ll depart in three days,” Meng Kongchan said with a chuckle. “Before that, there’s something I need to remind you of in private.”
+"There’s no hurry. One cannot enter the Pure Land early anyway. We will depart in three days.” Meng Kongchan chuckled. “But before that, there is something I need to warn you about.”
 
-Yun Che’s expression turned serious. “Please speak, God Emperor.”
+Yun Che said seriously, “Please speak, Divine Regent.”
 
-Meng Kongchan didn’t deliberately lower his voice, yet no one beyond ten feet could hear their conversation. “When you first returned, you displayed a Primordial Flame Crystal³. After that, I issued an order to the seven Dream Halls, strictly forbidding anyone from revealing the existence of the Primordial Flame Crystal.”
+Meng Kongchan hadn’t lowered his voice, but no one beyond ten meters of them could hear a word of their conversation, “Do you remember the time you showed off a Primal Flame Crystal? After that, I commanded the nine Dream Halls to keep its existence a secret.”
 
-Yun Che’s heart stirred slightly, and he said thoughtfully, “Could it be…?” To him, the Primordial Flame Crystal was just one of the various unusual profound crystals he had found in the Mist Sea. Before that, he hadn’t even known its name.
+Astonished, Yun Che said thoughtfully, “Could it be...”
 
-“Indeed,” Meng Kongchan nodded slightly. “Someone in the Pure Land needs it, and it’s a Divine Official⁴.”
+To him, the Primal Flame Crystal was just one of the many types of mutated abyssal crystals he found in the Endless Fog. Before that incident, he didn’t know what it was called.
 
-Yun Che’s heart leaped.
+“Mm.” Meng Kongchan nodded slightly. “There is a High Priest in the Pure Land who needs it.”
 
-“If I hadn’t immediately blocked the news back then, I’m afraid the Pure Land would have already sent someone to take it.”
+Yun Che’s heart skipped a beat.
 
-Meng Kongchan used the word “take,” not “request.” After all, who could refuse the words of a Divine Official?
+“If I hadn't suppressed the news immediately, someone from the Pure Land would have shown up to take it.”
 
-“Being indebted to a Divine Official, there’s a big difference between having it taken from afar and offering it in person. The former would have her repay the favor to the Weaving Dream God Realm, while the latter…” He smiled faintly. “You will gain her attention, perhaps even her favor. For your future, it will definitely be of great benefit.”⁵
+Meng Kongchan specifically used the word “take”, not “request”. After all, who would dare to reject a High Priest?
 
-Yun Che’s face showed gratitude, and he nodded heavily. “I understand. Thank you for your painstaking efforts, God Emperor. Which Divine Official needs the Primordial Flame Crystal?”
+“The High Priest would be indebted to you in either case, but I’m sure you can see the difference,” He said smilingly. “On one hand, the debt would be shared between you and the Dreamweaver Kingdom of God. On the other hand, you would win her attention and even her good graces. It will be hugely beneficial for your future.”
 
-“Divine Official Lingxian⁶,” Meng Kongchan said slowly. “Divine Official Lingxian is the daughter of one of the three ancient gods—the Vermillion Bird God Spirit⁷. However, she is not a pure Vermillion Bird descendant. Her father is the Vermillion Bird God Spirit, and her mother is a Thundercloud Immortal Sparrow⁸. Thus, she was born with three elemental divine powers: fire, lightning, and wind, but she is also deeply troubled by them, often suffering from chaotic wind and thunder, and flames devouring her heart.”
+Yun Che nodded gratefully. “I understand. Thank you for your painstaking efforts, Divine Regent. If I may ask, who is this High Priest who requires the Primal Flame Crystal?”
 
-Yun Che: “…”
+“High Priest Ling Xian.” Meng Kongchan explained, “High Priest Ling Xian is one of the three ancient flame gods and the daughter of the Vermillion Bird Spirit—though not strictly. What I mean is that her father is the Vermillion Bird Spirit, and her mother is the Thunder Cloud Immortal Bird. As a result, she was born with three elemental divine powers—fire, thunder and wind. Unfortunately, she was also deeply disturbed by it. Her wind and thunder rebelled against her, and her flame ate away at her heart.”
 
-“Later, she happened upon a Primordial Flame Crystal and used it to easily suppress the backlash of the Vermillion Bird flames. Her power is primarily fire-based. With the fire affliction temporarily extinguished, she naturally wouldn’t fear the chaos of wind and thunder. However, the suppression of the Primordial Flame Crystal is not permanent. Once its effect disappears, the adverse effects naturally return.”
+Yun Che: “...”
 
-“Therefore, for these years, Divine Official Lingxian has been searching everywhere for the Primordial Flame Crystal. Its color and aura are recorded in great detail in various announcements and records. Because of this, although almost no one has seen a Primordial Flame Crystal, most can recognize it at a glance.”
+“Later, she accidentally obtained a Primal Flame Crystal and discovered that it could easily suppress the backlash of the flame of the Vermillion Bird. As fire was her main power, she easily weathered the backlash of her minor elements. Unfortunately, the suppression of the Primal Flame Crystal was not permanent, and the backlash began anew once it ran out of energy.”
 
-Meng Kongchan sighed. “The Primordial Flame Crystal from back then was like a fleeting epiphyllum⁹. Since then, there has been no news of a second Primordial Flame Crystal appearing. And this heaven-sent opportunity… Yuan’er, you must seize it firmly.”
+“For countless years, High Priest Ling Xian has searched high and low for the Primal Flame Crystal. She jotted down its characteristics to the finest details and announced her search for it time and time again. That was why most people could probably recognize the Primal Flame Crystal at first glance despite not having seen it before.”
 
-The words “Vermillion Bird” were far more sensitive to Yun Che than Meng Kongchan imagined.
+Meng Kongchan sighed. “The Primal Flame Crystal back then was like a dream. Never has a second Primal Flame Crystal appeared since. This is a heaven-given opportunity, Yuan’er. You must grasp it.”
 
-Of the three ancient supreme fire deities, Yun Che had come into contact with the souls of the Phoenix and the Golden Crow, and had received many favors from them, but he had never been able to touch the legacy of the Vermillion Bird… except for the Flame God Realm’s Vermillion Bird Sect, which carried a thin bloodline and incomplete divine arts.
+Yun Che was far more sensitive toward the name “Vermillion Bird” than Meng Kongchan knew.
 
-According to the ancient records of the God Realm, the Vermillion Bird was the first of the three supreme fire deities to become extinct.
+Of the Three Supreme Fire Attribute Beasts, Yun Che had made contact with two of them and received many boons as a result. However, he had never encountered any remnant of the Vermillion Bird before. The closest thing to them was the Vermillion Bird Sect of the Flame God Realm. The descendants' bloodline was extremely diluted, and divine arts were incomplete and missing.
 
-But Divine Official Lingxian, one of the four Divine Officials of the Pure Land, was actually the daughter of the Vermillion Bird… In other words, the Vermillion Bird lineage had never actually become extinct, but had always existed in the abyss!
+According to the ancient records of the God Realm, the Vermillion Bird was the first flame god of the three to go extinct.
 
-Yun Che, inheriting both the Phoenix Flame and the Golden Crow Flame, understood very well why someone as strong as Divine Official Lingxian would experience elemental chaos within her body.
+If High Priest Ling Xian, one of the four High Priests of the Pure Land, really was the daughter of the Vermillion Bird, then... the Vermillion Bird lineage had not actually gone extinct. Instead, they had survived in the Abyss to this day!
 
-Back then, when the Golden Crow soul bestowed upon him the Golden Crow inheritance, it forcefully wanted to completely strip away and eliminate all traces of the Phoenix bloodline within him.
+As the bearer of the phoenix and the golden crow’s flame, Yun Che knew very well why the powerful High Priest Ling Xian was experiencing elemental backlashes.
 
-Because this involved the dignity of the ancient flame gods. As supreme beings of flame, how could they tolerate the coexistence of other divine flames… let alone other elemental powers?
+Back when the Golden Crow Spirit had bestowed him with the Golden Crow Inheritance, it had forcefully demanded that he strip himself of all traces of the phoenix’s bloodline.
 
-Only his Ancestral Saint body could make all the powers in the world obedient within him.
+It was because this was a matter of pride of an ancient flame god and a Supreme Fire Attribute Beast. It could not tolerate even the existence of another divine flame, much less other elements.
 
-In this respect, the moment Divine Official Lingxian was born, she was destined to suffer many hardships in her life.
+His Ancestral Holy Body was the one body in the world that could tame every form of power in the entire universe.
 
-“As for how to meet Divine Official Lingxian…” Meng Kongchan’s smile was ambiguous. “With that Cai’li girl, it’s much easier for you to meet Divine Official Lingxian than anyone else.”
+In this regard, High Priest Ling Xian was destined for hardships from the moment she was born.
 
-It was no secret in the six God Realms that Divine Official Lingxian’s favorite was Hua Caili. The sea of colorful clouds in Hua Caili ’li’s courtyard was a gift from Divine Official Lingxian.
+“As for how you are going to request an audience with High Priest Ling Xian...” Meng Kongchan smiled meaningfully. “That is easy since you have Caili.”
 
-“Good!” Yun Che returned the smile. “I will definitely seize such an opportunity.”
+There was no one in all six Kingdoms of God who did not know that Hua Caili was High Priest Ling Xian’s favorite. The sea of colorful flowers in Hua Caili’s backyard had been given by High Priest Ling Xian herself.
 
-“Haha, I’m not worried about that. You were able to make Qing… cough, your aunt look at you with anticipation, Divine Official Lingxian will definitely like you as well.”
+“Got it!” Yun Che responded with a smile of his own. “I will make sure to grasp this opportunity.”
 
-“Rest well for the next few days, and then accompany your father to the Pure Land.” He turned around, then suddenly said with some emotion, “Yuan’er, I’m very pleased that you and Jianxi can get along so well. To be honest, in the past few years, my worries in my dreams were all about the future of the Weaving Dream Realm. Now, with you two brothers… all my thoughts and dreams are filled with gratitude and no regrets.”
+“Haha, I’m confident that you’ll succeed. After all, you could even make Qing... ahem, your aunt see you in a new light. High Priest Ling Xian has no choice but to like you.”
 
-“Therefore, my greatest wish now is for you two to always be safe and sound, free from the disasters of the past. Besides that, be it progress or opportunities, they are all just icing on the cake.”
+“Rest and prepare for the next few days. Then, I will take you to the Pure Land.” He turned around when a wistful thought suddenly struck him. “Yuan’er, I am very glad that you are able to interact peacefully and cordially with Jianxi. You have no idea how worried I was before I had you and Jianxi. Even in my dreams I was worrying about the future of Dreamweaver. But now... all that worry has morphed into gratitude.”
 
-He glanced sideways, inadvertently looking at the soul ring he had imprinted on Yun Che’s little finger for a moment… He naturally hoped that the day this soul ring shattered would never come.
+“Right now, my biggest wish is for the two of you to be safe and sound; that no more disasters will befall you two. Progress and cultivation are great, but nothing is more important than your safety.”
 
-“This junior will heed God Emperor’s teachings,” Yun Che said solemnly. “Please rest assured, God Emperor, I cherish my life far more than you think. No matter when or where, I will never put myself in danger.”
+He cast Yun Che a sideways glance and accidentally caught a glimpse of the soul ring engraved to Yun Che’s little finger... Of course he hoped that the soul ring would never break.
 
-Meng Kongchan nodded and smiled as he prepared to leave.
+“This junior will remember the divine regent’s teachings deeply,” Yun Che said seriously. “Don’t worry, Divine Regent. I cherish my life far more than you can imagine. I will never willingly place myself in danger.”
 
-“God Emperor, please wait a moment, this junior… has something to offer you.”
+Meng Kongchan nodded smilingly and prepared to leave.
 
-Meng Kongchan turned around in confusion and saw an extremely rare look of apprehension on Yun Che’s face. In his hand, he held a pendant strung with red, blue, and yellow crystals.
+“Wait, Divine Regent. This junior... has a gift for you.”
 
-“This is?”
+Meng Kongchan turned around in confusion and saw a rare look of trepidation on Yun Che’s face. He was holding a pendant with a red crystal, a blue crystal, and a yellow crystal on it.
 
-Yun Che quickly said, “Master once mentioned that the sound of Brahma Stones¹⁰ colliding can purify the heart and soul, and is most beneficial to those who cultivate their souls. This junior happened to have a few Brahma Stones, so I made them into this ornament to express my gratitude to God Emperor… I hope God Emperor won’t find it crude.”
+“What is this?”
 
-Meng Kongchan’s eyes flickered slightly. He reached out to take it, smiling, “I’m naturally very happy that you have such intentions.”
+Yun Che said in a hurry, “Master once told me that the collision of Brahma Sound Stones could cleanse one’s soul. It is most beneficial for a soul cultivator. I happened to have a few Brahma Sound Stones on hand, so I decided to make this pendant to alleviate some of my gratitude toward you... I hope you won’t mind its shoddy craftsmanship.”
 
-After speaking, he tied the Brahma Stones directly to his waist. As they swayed, they made a clear, pleasant colliding sound.
+Meng Kongchan’s eyes flickered a little before he accepted it. He said smilingly, “I am more than happy to accept your gift.”
 
-“Mm, I like it very much, hahahaha!” He laughed loudly and turned to leave.
+He immediately tied the pendant to his waist. As he moved, the stones collided with one another and emitted melodious, soulful sounds.
 
-Meng Zhiyan hurriedly followed, respectfully escorting the Dreamless God Emperor out of the hall.
+“Mm! I love it! Hahahaha!” He barked out a laugh and finally turned to leave.
 
-A gentle breeze blew, bringing with it another string of colliding Brahma Stone sounds. Meng Kongchan suddenly said, “These Brahma Stones are truly as heart-purifying and soul-cleansing as the rumors say. Just a few notes have actually improved my mood quite a bit.”
+Meng Zhiyuan hurriedly caught up to the Dreamless Divine Regent and escorted him to the palace entrance.
 
-Meng Zhiyan secretly smiled, her voice respectful. “If Young Master were to hear God Emperor’s words, he would be overjoyed. Young Master spoke of these Brahma Stones lightly, but in reality… he put a great deal of effort into them.”
+A breeze blew and caused the Brahma Stones to collide once more. It was at this moment Meng Kongchan commented, “These things really do cleanse the soul. I can’t believe how much better I feel just listening to them.”
 
-“Oh?” Meng Kongchan stopped and looked back, motioning for her to continue.
+Meng Zhiyuan chuckled on the inside as she replied respectfully, “Young master would be most happy to hear this, Divine Regent. I should tell you something though. The young master made it sound like he acquired these Brahma Sound Stones with no effort, but in reality... it was the opposite.”
 
-Meng Zhiyan lowered her head, a hint of nervousness in her voice. “God Emperor may not know, but Young Master has always been exceptionally grateful and respectful towards you, and at the same time, feels a deep sense of guilt. He has often mentioned that he is still unable to recall the name ‘Meng Jianyuan,’ unable to address you as ‘Father God’ without any reservation from the bottom of his heart, and thus feels deeply ashamed of everything you have done for him.”
+“Oh?” Meng Kongchan stopped in his tracks and looked back, gesturing for her to continue.
 
-“And as God Emperor, the supreme being, there is nothing in the world that can catch your eye. Fortunately, the food Young Master makes pleases you. Therefore, besides cultivation, the thing Young Master does most often is immerse himself in the kitchen, and he doesn’t allow any of us to interfere in the slightest.”
+Meng Zhiyuan bowed her head and continued a bit nervously, “The young master only had one crimson Brahma Sound Stone at the beginning. However, he believed that only by gathering three different-colored stones could the collisions produce a perfect, heart-cleansing Brahma sound. In order to find a yellow and a blue Brahma Sound Stone, the young master ordered the men to look for it about two years ago. The search never stopped until last month when the final Brahma Sound Stone was discovered. He did not hesitate to pay a mutated abyssal crystal for it.”
 
-“Therefore, every pastry and soup Young Master makes for God Emperor contains nothing but a sincere heart.”
+Meng Kongchan: “...”
 
-“…” Meng Kongchan stood still for a few breaths before walking away.
+Meng Zhiyuan snuck a look before continuing, “You may not know this, Divine Regent, but the young master has always been extraordinarily grateful and respectful toward you. He also carries a lot of guilt. He often complains that he is unable to recall his old name and so could not address you as Father from the bottom of his heart. That is why he feels guilty, especially considering everything you’ve done for him.”
 
-After walking for a long while, he looked up at the clouds, a faint mist seemingly covering his eyes.
+“You are the supreme one. There is nothing in the world that is up to your standards. Thankfully, the young master’s delicious food delights you, which is why the second most common activity young master performs besides cultivating is cooking.”
 
-“It’s enough…” he murmured. “Like this… even if he can’t truly call out ‘Father God’ in his lifetime, it’s enough…”
+“He does not allow anyone to help him when he cooks, which is why every snack you eat, every soup you drink is filled with his pure, unadulterated sincerity.”
 
-Meng Zhiyan returned to the hall. Upon seeing Yun Che, she slowed her steps and walked over, saying somewhat timidly, “Young Master, this servant took the liberty of speaking to God Emperor about you just now. If… if this servant has done wrong, please punish me.”
+“...” Meng Kongchan remained still for a few breaths after Meng Zhiyuan had finished her story. It was only then that he departed without a word.
 
-Yun Che smiled. “In our God Child Hall, unless specifically instructed otherwise, there is nothing that cannot be said. What wrong is there?”
+He would walk for a long time before he looked up at the clouds with faint mist in his eyes.
 
-Facing Young Master, who never got angry and never showed even a hint of arrogance or temper, Meng Zhiyan’s already limited timidity was mostly feigned.
+“It’s enough...” he whispered, “Even if you could never address me as ‘Father’, it is enough...”
 
-With Yun Che’s words, her smile blossomed, and she suddenly became bold. “Can I really say anything? Then this servant wants to ask… when does Young Master plan to favor Zhiyan?”
+When Meng Zhiyuan returned to the palace, she immediately saw that Yun Che was standing nearby. She hurriedly walked up to him and said a bit timidly, “Young master, I'm only a servant girl but took the initiative to praise you in front of the Divine Regent just now. If... you think I have overstepped, then please mete out my punishment.”
 
-Her beautiful eyes were sparkling, yet she refused to avert her gaze from Yun Che.
+Yun Che smiled gently. “In my Divine Son Palace, there is nothing that can’t be said unless there are specific orders not to, so what are you talking about?”
 
-Yun Che still smiled faintly. He reached out his hand, and under Meng Zhiyan’s hopeful gaze… it landed on the top of her head, stroking it affectionately. “Little girl, your life has just begun. Don’t tie yourself to a bad person.”
+Yun Che had never put on airs in front of his subordinates, much less gotten angry with them. That was why at least ninety percent of Meng Zhiyuan’s timidness—which wasn’t a lot to begin with—was fake. As soon as she received Yun Che’s reply, she immediately broke into a wide grin and asked boldly, “Can I really say anything, young master? In that case... May I ask when you are finally going to love me?”
 
-Meng Zhiyan couldn’t hide her disappointment as she pouted. “If Young Master is a bad person, then there are no good people in this world.”
+She refused to look away from Yun Che’s eyes.
 
-“That’s why you’re still a little girl.” Yun Che’s expression remained unchanged, but in the depths of his eyes was a dark sea that Meng Zhiyan could never truly understand.
+Yun Che was still smiling. Meng Zhiyuan’s eyes sparkled with hope when he raised his hand... but instead of her face, it landed on her head instead. He gave her an affectionate head rub as he said, “Your life is just beginning, little one. You should never seek to bind your life to a bad person.”
 
-Moving his fingers down from the girl’s hair, Yun Che turned and left leisurely.
+Meng Zhiyuan pouted with undisguised disappointment, “If the young master is a bad person, then there is no good person in this entire world.”
 
-Looking at his back, Meng Zhiyan let out an extremely firm murmur, “This servant is of lowly status and does not dare to hope for any title. I only wish to serve by Young Master’s side for a lifetime…”
+“That’s why you’re a little one.” Yun Che’s expression did not change. Hidden deep within his pupils was a sea of darkness Meng Zhiyuan would never truly understand.
 
-She knew she wasn’t qualified to love him. Being able to accompany him for a long time was already her lifelong wish.
+His fingers lifted away from the girl’s head, and Yun Che turned around to leave.
 
-Her whisper, however, received a response from Yun Che: “A lifetime is very long, don’t say it lightly. Though Zhiyan is small, she can also soar for thousands of miles. Don’t easily bind your own life.”
+Meng Zhiyuan stared at his back and called out with determination, “I know that I am humble, and I don't seek to have an official status. All I ask is the honor to serve you in this lifetime, young master...”
 
-Meng Zhiyan stood in place, dazed for a long time.
+She knew very well that she did not have the right to love him as an equal. All she asked was the right to stay by his side forever.
 
-The Weaving Dream Divine Ark rose into the air, its aura attracting the attention of the entire Weaving Dream God Realm.
+She wasn’t expecting a response, but Yun Che said, “A lifetime is long, Zhiyuan. You must not use the word lightly. A paper kite (Zhiyuan) is small, but it can still ride the winds and soar high in the sky. Never seek to bind your life so carelessly.”
 
-Meng Kongchan stood at the bow of the ark. The nine Dream Hall Masters were all present, and behind each of them followed the most outstanding juniors of their respective Dream Halls.
+Meng Zhiyuan stood still. She would not say a word for a very long time.
 
-It was no exaggeration to say that the core figures of the Weaving Dream God Realm’s current and next generation were all gathered here.
+The Dreamweaver Divine Ship floated into the air, and the aura emanating from within drew the attention of the entire Dreamweaver Kingdom of God.
 
-But in Yun Che’s view, out of the vast God Realm, only a hundred people could enter the Pure Land… This Pure Land was truly stingy.
+Meng Kongchan was standing at the bow with the nine Lords of Nine Dream Halls. Behind them were the most outstanding juniors of their Dream Halls.
 
-The giant ark soared, flying straight towards the Supreme Pure Land.
+Without exaggeration, the key figures of this generation and the next were all in one place.
 
-Yun Che and Meng Jianxi stood side by side.
+In Yun Che’s opinion though, the fact that only a hundred people out of the entire Kingdom of God could enter the Pure Land... seemed to hint that the Pure Land was far more miserly than they were made out to be.
 
-Meng Jianxi smiled. “Yuan’di, this is the first time you’ve stepped outside the realm since you returned home. But it seems you’re not too excited.”
+After the giant ship rose into the air, it flew straight toward the Pure Land.
 
-“When adrift, I had no home in the four seas, yet the four seas were my home. So, I’ve long since lost my anticipation for unknown lands. However, the Pure Land is clearly not included in this.”
+Yun Che was currently standing right next to Meng Jianxi.
 
-Yun Che asked curiously, “Has Xi God Child ever met the Abyss Emperor¹¹?”
+Meng Jianxi explained smilingly, “Brother Yuan, this is the first time you've left the kingdom after you returned home, isn’t it? It doesn’t look like you are too excited though.”
 
-“I was fortunate enough to once.”
+“When I was wandering, all of the world was and wasn’t my home. That's why my taste and expectation toward a new, unknown frontier have long since diminished. But of course, the Pure Land doesn’t fall under this category.”
 
-Mentioning the Abyss Emperor, Meng Jianxi, like everyone else, instantly showed reverence. “The Abyss Emperor in my imagination was majestic yet benevolent, possessing an aura that made all souls tremble and a supreme imperial might that shook the heavens and earth with a single word.”
+Yun Che asked with a curious expression, “Have you met the Abyssal Monarch before, Divine Son Yuan?”
 
-“But upon meeting him in person, I realized that the Abyss Emperor was completely different from what I had imagined.”
+“One time, yes.”
 
-“Completely different?” Yun Che expressed strong doubt.
+Just like everyone else, Meng Jianxi immediately adopted a reverent expression when he spoke of the Abyssal Monarch. “In my imagination, the Abyssal Monarch is an imposing yet merciful man. His monarchical aura is unparalleled, and His mere presence causes all living beings to cower in fear and submission.”
 
-Meng Jianxi seemed to have some reservations, but after thinking for a moment, he still said, “These words may be offensive, but the Abyss Emperor I saw… I couldn’t sense his aura, nor could I sense his majesty. I couldn’t even sense any changes in his emotions… even when he smiled.”
+“When I actually met Him in person though, I realized that the Abyssal Monarch was nothing like who I imagined Him to be.”
 
-Yun Che: “…”
+“Really?” Yun Che looked very doubtful.
 
-“The Abyss Emperor gave me the feeling of being a detached person, beyond the mundane world.” Meng Jianxi spoke his most direct understanding of the Abyss Emperor. “Perhaps, it’s truly because the Abyss Emperor’s level is too high, so high that it reaches a realm of ‘incomprehensible perception.’”
+Meng Jianxi looked hesitant, but he ultimately said, “This might sound offensive, but when I met the Abyssal Monarch, I... could not feel any aura or imposingness from him. I couldn’t even feel any emotional changes from him at all... even when he was smiling.”
 
-“In contrast, the Great Divine Official’s¹² imposing aura is incomparably heavy and terrifying, far surpassing Father God. Yuan’di, it’s best to be prepared when facing him.”
+Yun Che: “...”
 
-The two stood side by side, conversing freely, their expressions natural, occasionally smiling at each other. Seeing this, the hearts of the Dream Hall Masters were filled with complex emotions.
+“To me, the Abyssal Monarch feels like a drifter who is disassociated from the world,” Meng Jianxi voiced his honest thoughts of the Abyssal Monarch directly. “Maybe it’s because the Abyssal Monarch truly exists in a plane the likes of me cannot possibly understand. It's to the point where even ‘perception’ becomes impossible.”
 
-“Sigh.” Meng Cangji let out a long sigh. If Meng Jianxi had decided not to compete, even if he had the heart and the strength, there was nothing he could do.
+“In contrast, the Chief Priest was far, far more imposing and scary than Father. You best be prepared for a shock when you face him.”
 
-“Speaking of which, with Yuan’di here, Father God will be able to hold his head high in the Pure Land this time.” Meng Jianxi’s words were sincere, not caring at all if Meng Kongchan heard them.
+The two men were chatting casually and exchanging smiles with each other like close brothers. It was a sight that made the Dream Lords feel quite complicated.
 
-Meng Kongchan stood at the bow of the ark, looking into the distance, his demeanor dignified, showing no reaction.
+“Ai.” Meng Cangji let out a long sigh inside his heart. What could he do if Meng Jianxi was determined not to fight against Yun Che?
 
-Yun Che said humbly, “I’m only at the Divine Master Realm. In the Pure Land, I’m not qualified to catch anyone’s eye. This trip is just as a follower seeking to broaden my horizons. The true splendor of our Weaving Dream God Realm still depends on you, Xi God Child.”
+“Speaking of which, Father is going to be absolutely ecstatic when we reach the Pure Land, Brother Yuan. It’s all because of you, of course,” Meng Jianxi said from the heart. He did not care that Meng Kongchan was within hearing range of their conversation.
 
-Meng Jianxi shook his head with a wry smile. “You underestimate your perfect divine nature. As for me… it’s difficult.”
+Meng Kongchan was currently standing at the bow and gazing forward. His appearance was perfect, and he did not react to Meng Jianxi’s remark at all.
 
-“Hm?” Meng Kongchan suddenly looked sideways, towards the east.
+Yun Che replied humbly, “I’m just a Divine Master who does not deserve anyone’s eyes in the Pure Land. I am participating as a humble follower seeking to broaden his horizons. In the end, the one who must show off the true strength of my Dreamweaver Kingdom of God is you, Divine Son Xi.”
 
-Following that, he changed his hand gesture, and the aura and trajectory of the Weaving Dream Divine Ark also changed, tilting towards the east.
+Meng Jianxi shook his head with a bitter smile on his lips. “You underestimate the power of perfect divine essence too much. As for me... it is going to be difficult.”
 
-Soon, another giant profound ark emitting a boundless aura appeared in sight.
+Suddenly, Meng Kongchan glanced toward the east. Then, he made a hand gesture and altered both the energies and the trajectory of the ship. It began to move east.
 
-“The Folding Sky Ark,” Meng Jianxi said. “It’s the Folding Sky God Realm.”
+Very soon, another giant profound ark emanating an immense aura entered their vision.
 
-The two profound arks quickly approached each other until they were seamlessly joined together.
+“The Heaven Breaker Star Ship,” Meng Jianxi remarked. “It’s the Heaven Breaker Kingdom of God.”
 
-“Hehehe, Dreamless God Emperor, what a coincidence.”
+The two profound arks rapidly closed the distance until they were seamlessly joined with one another.
 
-“Hahahaha! With fate already arranged, we naturally meet without prior agreement. There’s no need for the word ‘coincidence.’”
+“Har har, what a coincidence, Dreamless Divine Regent.”
 
-The two God Emperors approached. Hua Fuchen had a cheerful expression, and Meng Kongchan’s smile was even more meaningful.
+“Coincidence? More like predestined, considering the karma between us! Hahahahaha!”
 
-Yun Che’s gaze swept past Hua Fuchen and landed on the young girl beside him. His vision then blurred for a few moments.
+The two Divine Regents approached one another. Hua Fuchen’s smile did not quite reach the eye, and Meng Kongchan’s laugh was as loud as it was meaningful.
 
-In just three short years of not seeing her, she seemed to have undergone a complete transformation.
+Yun Che’s gaze swept across Hua Fuchen and landed on the young woman standing beside him. For a few brief instances, he was actually lost in her appearance.
+
+It had only been three years since they last met, and yet it looked like she had undergone a complete transformation.

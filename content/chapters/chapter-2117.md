@@ -1,177 +1,169 @@
 ---
 chapterNumber: 2117
-title: "Break (1) "
-publishedAt: "2025-11-20"
+title: "Break (1)"
+publishedAt: "2025-11-22"
 ---
 
-The scene changed silently, but it was still within the Life God's Temple. The twisted and blurred images rippled like water.
+Ripples washed over the distorted and blurry image, and a new scene appeared. The background was still the Divine Palace of Life.
 
-"Master, who is she? So adorable."
+“Who is she, master? She’s so cute.”
 
-She looked at the young girl sleeping peacefully in the crystal and exclaimed in amazement.
+A young woman let out a cry of admiration as she watched the girl slumbering in the Coffin of Eternity.
 
-Yun Che's soul trembled violently.
+Yun Che’s soul twitched. Although the image and voice were severely distorted and torn, he still recognized immediately that the voice belonged to Shen Xi, even though it was filled with youth instead of the ephemeralness he was familiar with.
 
-It was Shen Xi's figure, Shen Xi's voice.
+Li Suo said gently, “She is my future adopted daughter and your friend. However, I haven’t thought of a name for her yet.”
 
-Although the image and sound were severely torn and blurred, Yun Che still recognized it instantly.
+“A name...” Shen Xi thought for a moment before answering a bit mischievously, “Well, the Wan Hu Flowers in the Holy Garden today are in full bloom today almost as if they are welcoming her awakening. In that case, let’s call her Wan Hu!”
 
-Although this voice carried the liveliness of a young girl, not the ethereal quality he was familiar with.
+Li Suo smiled and nodded. “Very well.”
 
-Li Suo softly said, "She will be my adopted daughter in the future, and she will also be a good friend of yours. It's just that I haven't had time to give her a name yet."
+Her ever gentle voice was now mixed with a bit of doting love, though it was missing the imposingness that a supreme divine being should possess.
 
-"A name..." Shen Xi thought for a moment, then said playfully, "Today, all the Wuhu flowers in the Holy Garden are in full bloom. It's so beautiful, as if they are welcoming her arrival. So, let's call her Wanhu, okay?"
+It was at this moment a voice came from outside. “Ling Zhen, the current chief of the Sword Spirit God Clan, has come to answer your summons, Lady Li Suo.”
 
-Li Suo smiled and nodded slightly. "Okay."
+“Xi’er, please excuse yourself for a moment.”
 
-Her voice was always so gentle, with a hint of indulgence, but without the majesty that a supreme god should have.
+“Yes, master.”
 
-A voice came from outside the temple, "Ling Zhen, the current patriarch of the Sword Spirit God Clan, has come to pay his respects to Lady Li Suo by summons."
+A huge, tall man whose righteousness could not be concealed even by the distorted, blurry images of the memory fragment stepped inside and bowed. “Minor God Ling Zhen greets Lady Li Suo. So, why have you summoned me today, Lady Li Suo?”
 
-"Xi'er, you may leave for now."
+Instead of answering immediately, Li Suo turned her gaze to the girl inside the crystalline coffin.
 
-"Yes, Master."
+Ling Zhen followed her gaze and immediately let out a cry of surprise, “The Coffin of Eternity!?”
 
-A tall man, whose imposing aura was still evident even in the blurred fragments of memory, walked in quickly and bowed deeply. "This lowly god, Ling Zhen, pays his respects to Lady Li Suo. May I ask why Lady Li Suo has summoned me?"
+“This minor god remembers that the Coffin of Eternity is a gift by Lord Xi Ke to Lord Ni Xuan. With it as the base, it could ensure that the Creation God of Elements Tower remains standing for eternity. Why is it here? And who is this...”
 
-Li Suo did not answer immediately but turned her gaze to the girl in the crystal.
+He abruptly cut himself off realizing that he was one word away from overstepping.
 
-Ling Zhen followed her gaze and exclaimed in surprise, "The Eternal Hub!?"
+Li Suo answered, “There is no longer a Creation God of Elements in this world, nor a Creation God of Elements Tower.”
 
-"This lowly god remembers that the Eternal Hub was a gift from Lord Xi Ke to Lord Ni Xuan. It contains eternal power and serves as the core foundation of the Elemental God Pagoda, ensuring its eternal stability. Why is it here? And there's a young girl inside..."
+Ling Zhen’s eyebrows knitted together, and his face instantly morphed into infinite astonishment.
 
-He stopped speaking, not daring to say anything out of line.
+“Do not ask. Such is fate, and no one can change it,” Li Suo added, her voice tinged with a kind of sorrow and helplessness that was exceedingly rare for a Creation God.
 
-Li Suo said, "There is no longer an Elemental God of Creation in this world, nor is there an Elemental God Pagoda."
+“The reason I summon you today is to entrust this girl to you.”
 
-Ling Zhen frowned and looked up, utterly astonished.
+Ling Zhen replied respectfully, “This minor god sees no reason to disobey your order, but why me?”
 
-"You don't need to ask further. This is the will of heaven, and it cannot be changed." Her voice carried a rare sadness and helplessness for a God of Creation.
+Li Suo explained indifferently, “This girl is named Wan Hu, and she possesses an extremely special body and soul. I have reforged both of them, but a portion of her soul is a sword soul. This sword soul is extraordinarily special even though it is missing half of itself. I originally intended to repair and complete the gap with light profound energy, but I wasn’t able to make it so that it was compatible with her body no matter what I tried.”
 
-"I summoned you here today to entrust this young girl to you."
+“Clan Chief Ling Zhen, I remember that your youngest daughter, Siyao, passed away at a young age due to a tragedy. You preserved her sword soul in order to remember her. I would like to merge Siyao’s sword soul with this girl’s sword soul so that the newborn sword soul would be compatible with her body. Once she awakens, you will take her as your daughter.”
 
-Ling Zhen respectfully said, "This lowly god will naturally obey Lady Li Suo's command. But... why me?"
+Ling Zhen’s eyes trembled violently for a moment before he collapsed on his knees and stammered, “You know that I am willing to fulfill any order you give me, Lady Li Suo, but... My daughter, Siyao, has had a short and tragic life, and I, her father, have failed her from the start until the end. I am ever possessed by pain and sorrow whenever I think of her, and her sword soul is my one and only memento of her.”
 
-Li Suo explained softly, "Her name is Wanhu, and both her body and soul are extremely special. I have reshaped her body and soul. However, one part of her soul is a sword soul. This sword soul is half-damaged, but it is still incredibly unique. I have repaired it with my holy light power, but no matter what, I cannot make it merge with her body."
+“I beg you, Lady Li Suo. This is the one order I must disobey. Please withdraw your—”
 
-"Patriarch Ling Zhen, years ago, your young daughter Si Yao suffered an early death. To remember her, you preserved her sword soul. I hope you can merge Si Yao's sword soul with hers, using it as a guide to allow the new sword soul to merge with her body. When she awakens, she will be your daughter, Ling Zhen."
+Li Suo said quietly, “She is Ni Xuan’s daughter.”
 
-Ling Zhen's eyes trembled violently, and he suddenly knelt heavily, his voice shaking, "I, Ling Zhen, would willingly die ten thousand deaths to fulfill Lady Li Suo's holy command. But... my daughter Si Yao had a tragic fate. As her father, I failed her throughout her life. Every time I think of her, it brings me unbearable pain. And her sword soul is the last trace of her in this world."
+Ling Zhen’s voice came to an abrupt stop, and he turned to stare at the girl inside the Coffin of Eternity for an indefinite amount of time. Then, he shook his head once and declared, “Lord Ni Xuan’s favor to the Sword Spirit God Clan cannot be repaid even with ten thousand lifetimes. From now on, she will become my daughter; the noblest princess of my Sword Spirit God Clan!”
 
-"Only this matter, only regarding Si Yao, I beg Lady Li Suo to take back her holy command..."
+“I, Ling Zhen, swear on my life that I will give her an eternity of peace and happiness. I will not allow her to suffer even a bit of sorrow even if the entire clan must perish to do so!”
 
-Li Suo said softly, "She is Ni Xuan's daughter."
+Every word was spoken like the mandate of heaven itself.
 
-Ling Zhen's voice stopped abruptly. He turned his gaze and stared intently at the girl in the Eternal Hub. Suddenly, he shook his head vigorously and said with utmost determination, "The grace of Lord Ni Xuan is something my Sword Spirit God Clan can never repay, even after ten thousand generations. From this moment on, she is my daughter, Ling Zhen! She is the most honored little princess of my Sword Spirit God Clan."
+“Good.” Li Suo nodded slightly. “Ni Xuan would be happy if he was here to hear this.”
 
-"I, Ling Zhen, swear on my life that I will give her a life of peace and joy. Even if the entire clan is destroyed, I will not let her suffer any harm or sorrow."
+“One thing. No one must find out about her origin, not even she herself.”
 
-His words were powerful and resolute, like a divine decree.
+“Do not worry, Lady Li Suo.” Ling Zhen’s voice was still shivering. “I won’t ask anything. No one will find out about this.”
 
-"Good." Li Suo nodded gently. "With Patriarch Ling Zhen's words, Ni Xuan can rest assured."
+With that, the images turned into white fog and crumbled completely.
 
-"However, do not let anyone, including herself, know her true origins."
+“You’re definitely the one who gave senior Heretic God this memory fragment,” Yun Che said with complicated feelings. “It’s probably to inform him of your arrangements for his daughter, and senior Heretic God has carefully preserved it throughout the times. To think that he would continue to preserve it even when only a wisp of his soul was left... perhaps it was his only comfort during his final moments.”
 
-"Lady Li Suo, rest assured," Ling Zhen's voice was still trembling. "I will not ask anything, and no one will know anything."
+So this was how Hong’er joined the Sword Spirit God Clan.
 
-The scene faded into a vast expanse of white mist and then completely dissipated.
+Her sword soul was also unbelievably complicated. First, she had inherited a sword soul from the Heaven Smiting Devil Emperor. Afterward, it became a broken sword soul because the dark portions were removed. Later, it was reforged by Ni Xuan’s power and repaired by Li Suo’s holy power. Finally, it merged with the Sword Spirit clan chief’s daughter's complete sword soul.
 
-"It seems that this is indeed the memory fragment you gave to Senior Evil God," Yun Che said with mixed emotions. "Probably to inform him of his daughter's whereabouts. And Senior Evil God has always carefully treasured it, even keeping it until his last remaining soul... Perhaps this was his only solace in his final years."
+As it turned out, the holy power Hong’er displayed when she transformed into a sword did come from Li Suo... the Heaven Smiting Devil Emperor’s teeth-clenching guess back then was spot on.
 
-"So, Hong'er entered the Sword Spirit God Clan in such a way."
+Speaking of which, was her anomalous ability to eat swords and subsume the swords she ate the heretical result of the mixture of the Heaven Smiting Devil Emperor, the Creation God of Elements, the Creation Goddess of Life, and the Sword Spirit Sword Clan’s powers?
 
-"And her sword soul is so complex. Her own incomplete sword soul inherited from the Heaven Smiting Devil Emperor, stripped of its dark components... reshaped by Ni Xuan's power... repaired by Li Suo's holy power... and finally merged with the complete sword soul of the Sword Spirit Clan's patriarch's daughter."
+“I’m curious,” Li Suo whispered, “what was the secret Ni Jie was trying to tell me?”
 
-"The holy power of her sword form comes from Li Suo... It completely matches the Heaven Smiting Devil Emperor's furious guess at that time."
+To her surprise, Yun Che was uninterested in it. “The Era of Gods and Devils has long ended. No secret from that dead era is of any importance now.”
 
-"And her strange ability to devour and merge with swords, could it be a heretical power derived from the combination of the Heaven Smiting Devil Emperor, the Elemental God of Creation, the Life God of Creation, and the Sword Spirit God Clan?"
+It was then he recalled a question the Heaven Smiting Devil Emperor had asked him before:
 
-"I'm a little curious," Li Suo said softly. "That girl named Ni Jie, what was the secret she wanted to tell me?"
+“Yun Che, say... should I merge their souls together again?”
 
-Yun Che, however, had no interest in this. "The era of gods and devils is long over. Whatever secrets of that era are no longer important."
+At the time, his answer was rejection because both Hong’er and You’er had developed their individual personalities. To merge them was to wipe out their existence.
 
-At this moment, he remembered a question the Heaven Smiting Devil Emperor had asked him:
+It was because of his words that the Heaven Smiting Devil Emperor had chosen to give up on the thought.
 
-"Yun Che, do you think I should merge their souls back together?"
+Now that he thought about it, it was clear that the Heaven Smiting Devil Emperor was able to tell at first glance that Hong’er and You’er could merge again, and the result was the Ni Jie of the old.
 
-(↑ Chapter 1461)
+In other words, Li Suo did accept Ni Jie’s request after all.
 
-And he chose to dissuade her, reasoning that both Hong'er and You'er had become independent individuals. If they were merged, it would be equivalent to erasing their two existences.
+This was also why Hong’er was a child in both body and mind from the moment he met her. It was as if she could never grow up.
 
-It was this remark that made the Heaven Smiting Devil Emperor decisively abandon this idea.
+Back then, he had advised the Heaven Smiting Devil Emperor not to merge Hong’er and You’er. Today, he was even firmer in his decision as a matter of course. That was why the possibility Ni Xuan had begged for and mercy Li Suo had left behind did not really move him.
 
-Thinking about it now, the Heaven Smiting Devil Emperor clearly saw at a glance that Hong'er and You'er could be merged back together, and after their fusion, they would become the former Ni Jie.
+In fact, he could not help but wonder that, even if Hong’er and You’er could combine into one, considering all the drastic changes Hong’er had gone through, would the returned Ni Jie really be the Ni Jie of the past?
 
-In other words, Li Suo had agreed to Ni Jie's request back then.
+“It is not too important,” Li Suo echoed in agreement. “So, did the memories left behind by Ni Xuan give you any major revelations? For example... did it change your frame of mind, your understanding, or your... solution toward ‘Him’?”
 
-This is also why Hong'er, both in body and mind, has always been a young girl, as if she will never grow up.
+Yun Che did not answer immediately.
 
-Back then, he dissuaded the Heaven Smiting Devil Emperor from merging Hong'er and You'er. Naturally, he himself would not try this idea. Therefore, this possibility, left by Ni Jie's request and Li Suo's kindness, did not have much impact on him.
+A long, long time later, he murmured seemingly to himself, “The Heaven Punishing Divine Emperor mentioned two names... the Original Nether Void Breaching Mirror and the Nirvana Devil Wheel Reversing Pearl.”
 
-He even had a fleeting thought: even if Hong'er, who had undergone such a strange transformation, could truly merge with You'er again, would the "restored" Ni Jie still be the same Ni Jie as before?
+“He called them the ‘supreme devil artifact, and that the combination of their power over ‘space’ and ‘time’ is such that even he could not break out of it.”
 
-"It is indeed not that important," Li Suo expressed her agreement. "Then, did this memory that Ni Xuan specifically left for you have a great impact on you? For example... did it change your original state of mind, understanding, and... way of dealing with 'him'?"
+“To think that the Devil Queen’s guesses would all come true. They can only be the ‘Nether Mirror’ and ‘Devil Pearl’ she spoke of.”
 
-Yun Che did not answer.
+“The pierced abyssal passage, the Black Tide of Time, and the Cradle...”
 
-After a long time, he seemed to be talking to himself, "The Heaven Punishing God Emperor said two names... Panming's Void Shattering Mirror and Nirvana Devil's Wheel of Time."
+Yun Che let out a long sigh.
 
-"He called them 'supreme devil artifacts' and their powers 'dual seals of space and time,' which even the Heaven Punishing God Emperor could not break free from."
+Li Suo asked, “Are you worried that the Original Nether Void Breaching Mirror and the Nirvana Devil Wheel Reversing Pearl are both in ‘His’ hands?”
 
-"The Devil Queen's guess at that time has been completely fulfilled. They are the 'Nether Mirror' and 'Devil Pearl' that the Devil Queen mentioned at that time."
+“Worried?” Yun Che’s voice grew a little heavier. “It is practically confirmed. Everything I know is pointing toward that possibility.”
 
-"The pierced abyssal passage, the black tide of time, and the cradle..."
+“Even so, there is no need to worry too much,” Li Suo consoled. “The Abyss is definitely at a higher level than the God Realm, but it is still far behind the Era of Gods and Devils. Therefore, the two devil artifacts cannot possibly boast the power they originally possessed.”
 
-Yun Che took a long breath.
+“Besides, the Nether Mirror and the Devil Pearl are ultimately Devil Artifacts, and ‘He’ is a God. He cannot master them fully no matter what. That is why ‘He’ needed to assemble every True God’s power to activate the Nether Mirror.”
 
-Li Suo said, "Are you worried that Panming's Void Shattering Mirror and Nirvana Devil's Wheel of Time are both in his hands?"
+Yun Che fell silent once more. The only sound in his soul sea was his slow, even rhythm of his heartbeat.
 
-"Not worried," Yun Che's voice was slightly heavy. "It's almost certain. Everything I know points to this."
+“It looks like I need to adjust my strategy a little.”
 
-"Even so, there is no need to worry too much," Li Suo consoled. "Although the power level of the Abyss is higher than the God Realm, it is still far inferior to the era of gods and devils. Therefore, the power of the Nether Mirror and the Devil Pearl must not have recovered to their ancient levels."
+Inside the Still Heart Profound Formation, Yun Che slowly opened his eyes.
 
-"In addition, the Nether Mirror and the Devil Pearl are ultimately devil artifacts, and 'he' is a god, destined to be unable to fully control them. Based on what we know so far, 'he' needs to gather the power of all the true gods in the Abyss every time he activates the Nether Mirror, which should be due to this reason."
+As soon as he stepped out of the formation, he immediately came face to face with Meng Kongchan. The Divine Regent was smiling meaningfully as he said, “As expected. You are a young man after all.”
 
-Yun Che fell silent again, and the sound of his slow and steady heartbeat echoed in his soul sea.
+Yun Che was confused by his reaction for an instant. The answer appeared to him right after that.
 
-"It seems that I need to adjust my strategy slightly."
+He could sense Hua Caili’s aura pacing back and forth not far away from him. She had clearly been waiting for him. However, she waited for him to meet her instead of approaching herself.
 
-In the Calming Heart Formation, Yun Che slowly opened his eyes.
+Yun Che went with what Meng Kongchan thought was happening and asked, “Senior Divine Regent, would it be too much to...”
 
-As soon as he walked out, he was met with Meng Kongchan's ambiguous smile. "Young people, after all, still couldn't restrain themselves."
+“It’s fine! It’s not a problem at all!” Meng Kongchan declared without hesitation. “The two of you are perfect God Bearers who had appeared in the same generation; the first in the long history of the Abyss. It is perfectly natural for the two of you to interact with each other.”
 
-Yun Che was startled, then understood.
+“That said, I would advise you to watch yourself when the other Kingdoms of God show up; especially the Boundless Kingdom of God. You still have a long future ahead of you, so there is no need to mind one moment.”
 
-He sensed Hua Caili's aura, lingering not far away. She had obviously arrived long ago but was inconvenient to approach, so she could only wait for him to meet her.
+“I understand. Don’t worry, Caili and I would not do anything untoward before you have finished paving the path ahead for us.”
 
-Yun Che followed suit and said, "Senior God Venerable, I wonder... is it convenient?"
+After Yun Che was done speaking with the Divine Regent, he turned to Meng Jianxi and said, “Divine Son Xi, please keep an eye on the other Kingdoms of God. Inform me immediately if any one of them shows up.”
 
-"Convenient! Why wouldn't it be convenient!" Meng Kongchan said straightforwardly, "Two perfect divine inheritances appearing in one era, this is a double divine miracle unprecedented in history. It's only natural for the two of you to interact."
+The first thing he saw after stepping out of the courtyard was Hua Caili. Her silhouette was such that it tickled the heart and stirred one’s soul to no end even in this fantasy land of the Abyss known as the Pure Land.
 
-"However, if other Divine Kingdoms arrive, you still need to be mindful of propriety. You have a long future ahead, so there's no need to rush things... especially the Senluo Divine Kingdom."
+Hua Caili’s eyes flickered as she bloomed into a wide smile. There was a gorgeous flash of sword light, and she was standing in front of Yun Che.
 
-"I understand. Don't worry, Caili and I will not do anything inappropriate before you pave the way for us."
+“I’m surprised your father allowed you to come,” Yun Che said smilingly.
 
-Yun Che responded, then said to Meng Jianxi, "God Child Xi, I'll have to trouble you to keep an eye on the movements of the other Divine Kingdoms. If other Divine Kingdoms arrive, I hope you can inform me immediately via soul sound."
+As there was an audience nearby, they made sure to maintain a distance of three steps between each other.
 
-Walking out of the courtyard, Yun Che saw Hua Caili's figure at a glance. Even in this pure land, as beautiful as an illusion, her figure was still too captivating.
+“I had to give him a lot of promises before he caved. And I have to go back as soon as the other Kingdoms of God arrive.”
 
-Hua Caili's beautiful eyes flashed, and a smile bloomed. A gorgeous sword light flashed, and she stood gracefully in front of Yun Che.
+Hua Caili was complaining, but her eyes and eyebrows were still curled into crescents. “Come with me, big brother Yun. I want you to meet someone.”
 
-"Your father actually let you out?" Yun Che said with a smile.
+“Er... okay. By the way, where is aunt?”
 
-Neither of them moved forward, maintaining a restrained distance of three steps.
+“Aunt went to meet the Chief Priest. There is no danger in the Pure Land, so why would she follow me around?”
 
-"I made a lot of promises to get out. And once other Divine Kingdoms arrive, I have to go back."
+A bright smile on her face, she took to the skies and led Yun Che toward a lustrous white land to the north of the Pure Land.
 
-Hua Caili complained, but her eyebrows were still curved. "Brother Yun, come with me quickly. I'll take you to meet someone."
+At the same time, a loud noise came from the light barrier covering the Pure Land.
 
-"Uh... okay, where's your aunt?"
-
-"Aunt went to see the Great Divine Official. There won't be any danger in the Pure Land, so she won't follow me."
-
-She took Yun Che, with a smile, and flew lightly towards a bright white area in the north of the Pure Land.
-
-At the same time, a powerful roar echoed outside the Pure Land's light realm.
-
-The main profound ark of the Senluo Divine Kingdom had arrived.
+The main profound ark of the Boundless Kingdom of God had arrived.

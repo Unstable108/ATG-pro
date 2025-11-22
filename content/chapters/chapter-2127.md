@@ -1,153 +1,197 @@
 ---
 chapterNumber: 2127
 title: "Arrival of the Kingdoms"
-publishedAt: "2025-11-20"
+publishedAt: "2025-11-22"
 ---
 
-At the Pure Land Assembly a century ago, Meng Kongchan¹ would always be the last to arrive, dragging his feet. At that time, as the only Divine Nation among the Six Divine Nations without a divine successor, every time he faced the other Divine Venerables, he felt as though his head was bowed to the dust. After experiencing the birth and loss of Meng Jianyuan, followed by the acquired awakening of Meng Jianxi, Meng Kongchan could finally hold his head high.
+Until a century ago, Meng Kongchan would always be the last person to show up at the Pure Land Meet. At the time, his was the only Kingdom of God that did not yet have a God Bearer. Every time he met the eyes of another Divine Regent, he could feel his head lowering so deeply that it was sunk into dust. It wasn’t until after Meng Jianyuan was born and lost, and after Meng Jianxi underwent a latent awakening, that he could finally keep his head up.
 
-But this time was completely different. Bringing his two Divine Sons, one of whom possessed a Perfect Divine Core, the Dreamless Divine Venerable, with his hands clasped behind his back, strode confidently into the Eden Cloud Summit. His eyes, which seemed to wish they could rise above his head, calmly swept across the room, only to find that none of the other five Divine Nations had arrived yet.
+It was different this time. Not only did he have two Divine Sons, but one of them was a perfect God Bearer. His hands clasped behind his back, the Dreamless Divine Regent had set foot in Eden’s Crown with his head high and his strides long. Even his eyes were raised so high he only wished they could sit higher than his own skull. When he finally lowered them and scanned his surroundings, he discovered that none of the other five Kingdoms of God had shown up yet.
 
-"Your Venerable's head is almost touching the sky," Second Palace Master Meng Chaoyang couldn't help but laugh.
+“Our lord’s head is practically floating above the clouds,” the second Dream Lord, Meng Chaoyang, remarked with an involuntary chuckle.
 
-Fifth Palace Master Meng Chaofeng whispered, "He's been holding in his frustration for tens of thousands of years. Now with two Divine Sons by his side, and a world-shaking Perfect Divine Core, it's only natural that he'd want to vent all that pent-up frustration from millennia."
+The fifth Dream Lord, Meng Chaofeng, said in a low tone, “After ten thousand years of frustration and self-abasement, he is finally graced by the presence of two Divine Sons. One of them even has perfect divine essence, a feat that illuminates the Abyss. Of course, he’s going to vent it all.”
 
-The siblings exchanged a glance and both laughed. They could already foresee what kind of "arrogant strut" Meng Kongchan would display when facing the other Divine Venerables later. After all, Divine Venerables are still just people who bear the power of true gods.
+The brother and sister exchanged a glance before chuckling together. They could already foresee how “arrogant” Meng Kongchan was going to act when they encountered each other. Divine Regents were people who inherited the power of True Gods after all.
 
-The Dream Weaving Divine Nation was the first Divine Nation to arrive, but not the first power. In the pure white world, three figures were already waiting there early. When the Dream Weaving Divine Nation arrived, the three also stepped forward to greet them, their postures respectful.
+Dreamweaver was the first Kingdom of God to show up, but not the first faction. Three figures had been waiting in the pure white world for god-knows-how-long. When they showed up, the trio waited for the right moment before respectfully and politely walking up to them.
 
-The elder leading them smiled and said, "Hehe, it's only been a few years since we last met, yet the Dreamless Divine Venerable's divine bearing has become much more magnificent, truly enviable."
+The leader of the trio, an old man, greeted them smilingly, “Haha, it has only been a few years since we met, and your divine appearance is so much fiercer than before. How envious I am.”
 
-Meng Kongchan did not act arrogant and returned the greeting with a smile, "The Dragon Clan also has continuous good news. Here, I must also congratulate the Dragon Lord."
+As excited as he was, Meng Kongchan did not actually let his “arrogance” go to his head. He smiled and returned the salute. “Your race has been welcoming great news one after another as well. Congratulations to you as well, Dragon Lord.”
 
-The Dragon Clan was in decline, far inferior to the Six Divine Nations. But as the only beast race in the Abyss, it held a special status. And in terms of seniority and experience, the Dragon Lord surpassed all current Divine Venerables and was qualified to be regarded as an equal by the Divine Venerables of all nations.
+The dragon race was meek and far inferior to the Six Kingdoms of Gods, but as the only existing Beast left in the Abyss, they were unique in a way that could not be ignored. In terms of seniority and experience, the Dragon Lord was greater than all current Divine Regents as well. Therefore, the Dragon Lord was qualified to be treated as an equal by a Divine Regent.
 
-The two figures behind the Dragon Lord stepped half a pace forward and bowed respectfully, "Left Attendant Dragon Chixin, greets the Dreamless Divine Venerable."
+Behind the Dragon Lord, two people took half a step forward and saluted respectfully.
 
-"Right Attendant Dragon Qianxin, greets the Dreamless Divine Venerable."
+“Left Attendant Dragon Chixin greets you, Dreamless Divine Regent.”
 
-"Chixin, Qianxin..."
+“Right Attendant Dragon Long Qianxin greets you, Dreamless Divine Regent.”
 
-Yun Che murmured these two names and sighed softly, "It seems the matter of succession is truly troubling the entire Dragon Clan."
+“Chixin (Devotion), Qianxin (Piety)...” 𝒻𝘳𝘦𝘦𝘸ℯ𝒷𝘯𝘰𝑣ℯ𝑙.𝘤𝑜𝘮
 
-"It has always been this way," Meng Jianxi said. "Legend has it that even the ancient Dragon Clan outside this world had difficulty producing offspring. And in the Abyss, constantly eroded by Abyss Dust, the Dragon Clan's reproductive ability has become extremely weak."
+Yun Che muttered the two names under his breath and sighed. “It looks like the matter of succession concerns the dragon race deeply.”
 
-"The Dragon Lord is extremely old, so old that few people know his true name. But it wasn't until eight jiazi² ago that he finally had a dragon offspring. That is the current Young Dragon Lord of the Dragon Clan, and the sole direct descendant of the Ancestral Dragon lineage, Long Wangchu. Truly lamentable."
+“It has always been so.”
 
-"However," Meng Jianxi's tone shifted, and his voice lowered again, "the Dragon Clan's strength, however, should never be underestimated. Although the Dragon Lord's cultivation is at the mid-stage of the Divine Extremity Realm, a dragon's body is incomparable to a human's. Grandfather (Meng Zangji) once said that even with his peak Divine Extremity Realm cultivation, he wasn't confident he could defeat the Dragon Lord."
+Meng Jianxi replied, “It is rumored that the ancient dragons from beyond the Abyss experienced great difficulties in reproducing in the first place. After they fell to the Abyss, the ever-present erosion of the abyssal dust has only made their condition so much worse.”
 
-"The Dragon Lord's two great Dragon Attendants, Long Chixin and Long Qianxin, are also both in the Divine Extremity Realm... However, it is an undeniable and unstoppable fact that the Dragon Clan is declining with each generation. It's hard to imagine how much further the Dragon Clan will decline after Long Wangchu succeeds as Dragon Lord." When mentioning Long Wangchu, Meng Jianxi's tone was not without disdain. Because based on the information gathered by the Xuanji Palace over the years, this Young Dragon Lord is a complete good-for-nothing³... in every aspect. Yet, this good-for-nothing is the only legitimate heir, the only choice. How tragic and laughable.
+“The Dragon Lord is exceedingly old; so old that there are only a few people left who still remember his true name. It isn’t until eight sexagenary years ago that he finally had a descendant, namely the current Young Dragon Lord, Long Wangchu. The Young Dragon Lord is also the one and only direct heir of the Ancestral Dragon’s bloodline. It is pitiful.”
 
-At this moment, the Dragon Lord's gaze fell upon Yun Che. "This must be the Abyss Divine Son, lost and then found by the Dream Weaving Divine Nation, who astonished the Abyss with his Perfect Divine Core."
+“However...”
 
-Meng Kongchan smiled and said, "Dragon Lord's discerning eyes are like torches. This is indeed my unworthy son, Jianyuan, also known as Yun Che."
+Meng Jianxi changed his tune and lowered his voice even more, “The dragon race is not to be underestimated. Although the Dragon Lord is only at the middle-stage of the Divine Limit Realm, his draconic body far surpasses that of a human body. Grandfather (Meng Cangji) once told me that he, a peak Divine Limit Realm profound practitioner, still isn’t sure if he could defeat the Dragon Lord.”
 
-Yun Che stepped forward and said respectfully, "This junior, Yun Che, has long admired the Dragon Clan's great reputation. It is truly an honor to meet the Dragon Lord today."
+“The Dragon Lord’s Dragon Attendants, Long Chixin and Long Qianxin, are also at the Divine Limit Realm.”
 
-Such courtesy made the Dragon Lord, who had lived through endless ages and was accustomed to bowing before Divine Nations, feel momentarily flattered.
+“Alas, it is an undeniable, unstoppable fact that the dragon race is declining with every generation. I can only imagine how much worse the dragon race will become after Long Wangchu succeeds his father.”
 
-His withered face broke into a smile, and he nodded, "With the Abyss Divine Son's demeanor and brilliance, who wouldn't be captivated at first glance?"
+Meng Jianxi’s tone was clearly scornful when he spoke of Long Wangchu. It was because everything the Xuanji Hall told him in the past few years revealed to him that the Young Dragon Lord was an idiot and a failure through and through.
 
-Meng Kongchan was quite pleased by such praise and chuckled, "This boy has only been back for a few years; he's still very young and doesn't deserve such high praise from the Dragon Lord."
+Unfortunately for the Ancestral Dragons, the idiot failure was their only direct heir and option. They literally could not choose another heir even if they wanted to. What a pitiful and lamentable fate it was.
 
-The Dragon Lord said, "His bearing is like the clouds, his appearance like the stars. His Perfect Divine Core is a divine miracle bestowed by heaven. Any words of praise in this world would not be excessive when applied to the Abyss Divine Son. In comparison, my useless..."
+It was at this moment that the Dragon Lord set his gaze on Yun Che. “Unless my eyes are gravely mistaken, this young man here is the son you lost and found, the Divine Son Yuan who shocked the world with his perfect divine essence, am I right?”
 
-He paused, his smile turned bitter, and he shook his head, "Let's not mention it."
+Meng Kongchan smiled. “Your eyes do not deceive you, Dragon Lord. He is indeed my clumsy son, Jianyuan. He calls himself Yun Che.”
 
-Meng Kongchan politely said, "Dragon Lord, what are you saying? Although I haven't had the leisure to visit the Ancestral Dragon Mountain Range these past years, I am well aware that the Young Dragon Lord has made rapid progress in recent years. It must be a sudden enlightenment, a culmination of long-term efforts, with limitless potential for the future."
+Yun Che stepped forward and said respectfully, “Junior Yun Che greets you, Dragon Lord. I have heard of the dragons for a long time. I am honored to finally meet you, lord of the dragons, in person.”
 
-"Hehe."
+The show of etiquette was proper and respectful. The Dragon Lord was so used to bowing his head before the Kingdom of God for so long that he was taken aback for an instant.
 
-The Dragon Lord smiled faintly, silently concealing the hint of awkwardness in his eyes. "To receive such words from the Dreamless Divine Venerable, I am truly ashamed."
+The ancient creases on the Dragon Lord’s face smoothed out considerably as he smiled and nodded at Yun Che. “There is nowhere you can go without capturing eyeballs with manners and bearing like yours, Divine Son Yuan.”
 
-His "shame" sounded like mere politeness to others. But to Long Chixin and Long Qianxin, it carried a completely different meaning.
+Meng Kongchan gladly accepted the old dragon’s praise of his son and chuckled. “You flatter him, Dragon Lord. He has only returned for a few years. He is still oh-so-soft and wet behind the ears.”
 
-"It's truly rare for the Dreamless Divine Venerable to arrive so early." A voice tinged with mockery rang out. In an instant, the pure white world was imbued with divine light once more. Starlight and moonlight seemed to sweep down from beyond the heavens, interweaving and reflecting each other, like a woven dream of stars and moon. Two figures, cloaked in divine radiance and identical in every way, emerged from the starlight and moonlight.
+The Dragon Lord shook his head. “His bearing resembles the clouds, his appearance resembles the sun, and his perfect divine essence is practically a god-given miracle. No praise is too much when applied to Divine Son Yuan. In comparison, my unworthy son is...”
 
-They had completely identical physiques and facial features. Even their cloud-treading steps, changes in aura, and the shifting of their gazes were exactly alike, like reflections in a mirror. The aura they carried was all too familiar to Yun Che: the power of the Star God and Moon God! Their identities were also immediately apparent: the twin true gods of the Star Moon Divine Nation, Heavenly Star Divine Venerable Wu Shenxing, and Sky Moon Divine Venerable Wu Shenyue!
+The Dragon Lord paused for a moment as his smile turned bitter. He shook his head and said, “Forget him.”
 
-"The Perfect Divine Core bestowed upon Dream Weaving is truly enviable. The Dreamless Divine Venerable's divine bearing has also naturally been renewed."
+Meng Kongchan returned politely, “You are too humble, Dragon Lord. Although I haven’t had the time to pay the Ancestral Dragon Mountain Range a visit in the past couple of years, I still know that the Young Dragon Lord has been growing by leaps and bounds as of late. I assume that he must have experienced enlightenment, and that the years of hard work and study have finally begun to pay dividends. I can only imagine that his future is bright.”
 
-As Wu Shenyue spoke, the identities of the two Divine Venerables became instantly clear. Just as rumored, it was clearly a male voice, yet it carried a femininity that surpassed that of women, an almost bone-chilling softness.
+The Dragon Lord let out a chuckle and concealed the embarrassment in his eyes without a trace. “I am truly ashamed to accept such words from you, Dreamless Divine Regent.”
 
-"What's wrong?" Meng Kongchan turned around and said with a smile, "After being stared at with pitying eyes by you for over ten thousand years, can't I finally raise my eyebrows and let out a breath of relief⁴?"
+Another person might think the Dragon Lord was just being modest, but not Chixin or Qianxin. The word “ashamed” rang completely differently for them.
 
-"Hahahahaha!"
+“Now this is a rare sight. I did not expect you to show up so soon, Dreamless Divine Regent.”
 
-Wu Shenxing let out a hearty laugh, but his gaze fell upon Yun Che. He then praised without reservation, "What a remarkable Abyss Divine Son! Newly returned to the Divine Nation, with Divine Master cultivation, yet so composed and fearless. Even his appearance... is not only not inferior to the rumors, but even surpasses them by a few points. In a few more years, once he fully matures, the title of 'First Divine Son' might very well change hands."
+It was at this moment that a half-teasing voice rang, and the pure white world gained a new sheen of divine light. Starlight and moonlight shone down from beyond the skies, then mingled into a fantastical curtain of radiance. Then, two identical divine figures emerged from it.
 
-Yun Che quickly stepped forward and bowed, "Yun Che of Dream Weaving greets Heavenly Star Divine Venerable and Sky Moon Divine Venerable. This junior is extremely humbled by Heavenly Star Divine Venerable's praise and dares not accept it."
+They possessed the exact same countenance and body figure. Even the way they stepped across the clouds, the way they breathed, even the way the light in their eyes swirled and unfolded, were identical. It was as if they were mirror figures of each other.
 
-Meng Kongchan, however, said, "A Divine Venerable's words are as heavy as ten thousand cauldrons⁵. If he says you deserve it, then you deserve it. Even that old fellow from the Palace would agree if he were here."
+Their auras were most familiar to Yun Che. It was the power of a Star God and a Moon God!
 
-The pleasantries between Divine Venerables were not much different from those between ordinary people. While they spoke, the younger generation naturally exchanged greetings as well.
+This also meant one thing. They could only be the Twin True Gods of the Star and Moon Kingdoms of God, the Heavenly Star Divine Regent Wu Shenxing, and the Sky Moon Divine Regent Wu Shenyue!
 
-"Brother Yuan, these are Star Divine Son Chaxing and Moon Divine Son Xianyue," Meng Jianxi introduced them to Yun Che.
+“Dreamweaver has just received the enviable boon of perfect divine essence. It is only natural that the Dreamless Divine Regent’s spirit would be renewed like he just received a new lease on life.”
 
-"I have long heard of the great reputation of the Star Moon Twin Jades⁶," Yun Che said. "I am Yun Che. Star Divine Son and Moon Divine Son can simply address me by this name."
+After Wu Shenyue spoke, exactly who Wu Shenxing and Wu Shenyue were became clear. As the rumors claimed, Wu Shenyue’s voice was soft, gentle, and feminine in a way that most women could not hope to compare.
 
-As he spoke, his gaze did not turn towards Pan Buwang, who remained silent in the back corner, as if completely unaware of his presence.
+“What’s wrong?”
 
-Chaxing and Xianyue exchanged glances. Chaxing smiled and said, "We have heard of Abyss Divine Son's insistence. However, it would be better for us to address you as Abyss Divine Son. We hope Abyss Divine Son won't take offense."
+Meng Kongchan turned around and grinned at them. “Am I not allowed to lift my head high and flaunt my feathers like a peacock for once after being showered with sympathetic gazes by the likes of you for over ten thousand years?”
 
-"You two Divine Sons are too polite," Yun Che responded with a smile, keeping it brief, neither overly warm nor distant. At this moment, Meng Kongchan's gaze fell upon the clearly out-of-place figure.
+“Hahahaha!”
 
-"Hmm?" He raised an eyebrow slightly. "Who are you?"
+A peal of laughter escaped Wu Shenxing, though his eyes were on Yun Che. He did not hesitate to shower the young man with praise, “And what a man your Divine Son Yuan is! He has only recently returned to his Kingdom of God, and he is only a Divine Master. And yet, he remains calm and composed before our appearance, and his countenance... actually surpasses the rumors. If given a couple more years to come into his power, I have a feeling that he might even snatch the title of number one Divine Son from Divine Son Dian!”
 
-Sensing the Dreamless Divine Venerable's gaze, Pan Buwang straightened up. He stepped forward and said respectfully and calmly, "This junior, Pan Buwang, greets the Dreamless Divine Venerable."
+Yun Che swiftly stepped up to the two Divine Regents and saluted them. “Yun Che of Dreamweaver greets the Heavenly Star Divine Regent and Sky Moon Divine Regent. Heavenly Star Divine Regent, your praise is far too great for me to bear. This junior desperately and fearfully requests you to withdraw it.”
 
-As the former Divine Son of the Owl Butterfly Divine Nation, how could Meng Kongchan not recognize him? His puzzled gaze turned to Wu Shenxing and Wu Shenyue, wondering why he had come with the Star Moon Divine Nation. Before the Star Moon Divine Venerables could speak, a cold snort came from behind.
+Meng Kongchan disagreed. “Every word spoken by a Divine Regent is worth ten thousand sacred tripods. If he says you are worthy, then you are. You must accept it even if Old Dian is present.”
 
-"Hmph, the Star Moon Divine Nation is truly idle. It's one thing to take in my Owl Butterfly's abandoned son. But to even waste a spot to bring him to the Pure Land? Can I assume that you, Star Moon, are deliberately trying to make my Owl Butterfly look bad??" The light suddenly dimmed. Eternal Prayer Divine Venerable Pan Yusheng arrived silently. His demonic might was invisible, yet it made the space suddenly cold and souls tremble.
+The chit-chat between Divine Regents wasn’t too different from that of ordinary people. Their juniors were naturally interacting with each other as well.
 
-Wu Shenxing glanced sideways and chuckled faintly, "Pan Buwang may be an abandoned son to your Owl Butterfly, but to my Star Moon, he is an honored guest. When an honored guest makes a request, how could my Star Moon easily refuse?"
+“Brother Yuan, this is the Star Divine Son, Sha Xing, and this is the Moon Divine Son, Xian Yue.”
 
-Bringing Pan Buwang to the Pure Land was Chaxing's request, and he was particularly insistent, so he eventually agreed.
+Meng Jianxi introduced them to Yun Che.
 
-"Eternal Prayer Divine Venerable." As if worried about a conflict between Star Moon and Owl Butterfly, Meng Kongchan quickly interjected, "Even if Buwang made a grave mistake, he is still your son after all. He was once the Divine Son of Owl Butterfly. Regardless, there's no need to be so estranged and absolute."
+“I have long heard of the famous Star and Moon Twins.” Yun Che greeted them. “I am Yun Che. Please feel free to address me by my name.”
 
-"Hmph, Meng Kongchan. Before meddling in my Pan family's affairs, you should first take care of your own."
+Pan Buwang was sitting in a corner behind the two Divine Sons, but Yun Che never even looked in his direction. It was as if he hadn’t noticed his existence.
 
-Pan Yusheng glanced sideways at Yun Che and said coldly, "Don't think that just because you've obtained a Perfect Divine Core, you can get carried away. Who doesn't know that this so-called 'Abyss Divine Son' completely refused to be a Divine Son, and even rejected the name 'Meng Jianyuan,' only wishing to be addressed as 'Yun Che'?"
+Sha Xing and Xian Yue exchanged a look with each other before Sha Xing replied smilingly, “We have heard of your story and more or less know why you insist on going by that name, but we still feel that addressing you as Divine Son Yuan is for the best. We hope you don’t mind.”
 
-"A 'Divine Son' who refuses to be a Divine Son, an outsider's son who refuses to acknowledge his father. Heh, what a huge joke."
+“You exaggerate, Star Divine Son, Moon Divine Son.”
 
-Such direct and stinging mockery did not cause the slightest trace of anger to appear on Meng Kongchan's face. Instead, his eyebrows rose high. "Eternal Prayer Divine Venerable is absolutely right; Yuan'er is indeed like that."
+Yun Che replied with a polite smile on his face. It was a perfunctory interaction, neither too friendly nor estranged.
 
-"During the years Yuan'er was lost, he was saved by his benefactor-master. The name Yun Che was also bestowed by his benefactor-master. Although he has returned to Dream Weaving, his lost memories have not yet recovered. Naturally, he cannot truly identify with the identity of Meng Jianyuan. What he will never forget is his benefactor-master's kindness and the name bestowed by his benefactor-master."
+It was at this moment that Meng Kongchan’s gaze settled on the one figure that did not fit the Star and Moon Kingdoms of God’s entourage whatsoever.
 
-He looked at Pan Yusheng and said proudly, "I ask all men in this world, who does not yearn for the identity of a Divine Venerable's son? Who does not covet the name of a Divine Son? Only Yuan'er... with the ultimate pursuit of all men presented before him, yet his gratitude towards his benefactor-master cannot be shaken in the slightest! Such profound gratitude and righteousness, such character, truly makes him worthy of being a man of Dream Weaving, worthy of being my son, Meng Kongchan!"
+He lifted his eyebrows slightly. “You are?”
 
-He raised his head and looked sideways, glancing at Pan Yusheng's ashen face, and said, "However, Eternal Prayer Divine Venerable's words are quite perplexing to me. Could it be that in Eternal Prayer Divine Venerable's view, a man should decisively choose fame and profit, casting aside kindness and righteousness like worn-out shoes⁷?"
+Sensing the Dreamless Divine Regent’s gaze, Pan Buwang rose to his feet and stepped forward. He said respectfully and calmly, “Junior Pan Buwang greets you, Dreamless Divine Regent.”
 
-"Good! Well said! Hahahahahaha!"
+Pan Buwang was the former Owl Butterfly Divine Son. Of course, Meng Kongchan recognized him. He looked at Wu Shenxing and Wu Shenyue with puzzlement, astonished that Pan Buwang was accompanying them.
 
-The boisterous laughter directly made everyone's eardrums buzz, almost causing them to spit blood. Absolute Luo Divine Venerable Dian Luohou and Heart Painting Divine Venerable Hua Fuchen arrived side by side. Their combined divine pressure instantly dispelled the chilling aura released by Eternal Prayer Divine Venerable.
+Before either Divine Regent could speak, a cold harrumph came from behind them.
 
-"Old Meng, when did you become so eloquent?" Dian Luohou came to Meng Kongchan's side and said boisterously, "When you used to come here, you wouldn't even say two extra words... As expected, this boy Jianyuan has brought you a lot of confidence, hahahaha!!"
+“Hmph. The Star and Moon Kingdoms of God must have a lot of free time on their hands as of late. Not only did you pick up our castaway, but you even wasted a slot to bring him to the Pure Land? Should I take this as an intentional slight against Owl Butterfly?”
 
-His tone was unrestrained, his movements wild and untamed. There was not a shred of a Divine Venerable's dignity about him.
+Darkness abruptly invaded the light, and the Pray Eternal Divine Regent, Pan Yusheng, arrived without a sound. His demonic pressure possessed no form, and yet it chilled the surrounding space and shook all nearby souls instantly.
 
-Meng Kongchan, whose shortcomings were exposed directly, showed no embarrassment and readily agreed, "That's natural. To say that the father gains prestige through his son⁸ is not too inappropriate."
+Wu Shenxing side-eyed the man and let out a light chuckle. “Pan Buwang may be a castaway to you, but he is an honored guest to us. How can we treat an honored guest’s request lightly?”
 
-The two Divine Venerables exchanged smiles. Pan Yusheng snorted heavily, turned his back, and said nothing more. Yun Che's gaze met Hua Caili's from afar, and then both instinctively broke contact. Like Yun Che, before arriving at the Eden Cloud Summit, Hua Caili had also received another reminder from Hua Fuchen and Hua Qingying.
+Sha Xing was the one who requested that they bring Pan Buwang to the Pure Land. He was surprisingly insistent as well. In the end, Wu Shenxing accepted it.
 
-With the Abyss Emperor above and the Divine Venerables at their sides, for the sake of their shared future, they had to maintain the utmost restraint and not reveal any flaws. Yun Che slowly turned his head, meeting Dian Sansi's gaze. His demeanor was calm, his eyes indifferent. But Yun Che knew all too well that hidden deep within those pupils was a hellfire fiercely suppressed by will and reason.
+“Pray, Eternal Divine Regent.”
 
-Yun Che's lips curved slightly, revealing a very indifferent smile. To outsiders, this was a polite smile exchanged between gazes. But it caused Dian Sansi's hands to clench suddenly. He knew all too well what kind of contempt and mockery was hidden within Yun Che's gentle and harmless smile. Yun Che's utterly humiliating and malicious words still pierced his heart and soul like countless poisonous needles. Even if he maintained his outward composure and calm aura, that soul-piercing humiliation could not truly be dispelled from his heart.
+As if worried that Star, Moon, and Owl Butterfly would clash against each other, Meng Kongchan interrupted, “Whatever mistake Buwang committed, he is ultimately your son and the former Owl Butterfly Divine Son. There is no need to act so estranged and ruthless to him, is there?”
 
-Dian Jiuzhi, however, stepped forward and smiled at Yun Che. "Brother Yun, I just heard Father God mention that you visited in person. I regretfully missed you due to an oversight, which is truly a pity and a shame. Our last conversation in Dream Weaving, Brother Yun, was very beneficial, and I felt as if we had met too late."
+“Hmph. Sort out your own family matters before you stick your nose into mine, Meng Kongchan.”
 
-"After this Pure Land Assembly concludes, I will definitely visit Dream Weaving again within ten days to have a thorough discussion with Brother Yun. I wonder if Brother Yun will have the leisure?" Frankly, Dian Jiuzhi's reaction was largely beyond Yun Che's expectations. Especially his eyes... Yun Che couldn't find any deeply hidden hatred, only sincerity.
+Pan Yusheng side-eyed Yun Che and said coldly, “Don’t lose your head just because you obtained a perfect God Bearer. Everyone knows that this so-called ‘Divine Son Yuan’ not only refuses to become a Divine Son, but he even rejects his birthname, ‘Meng Jianyuan’. He is only willing to address himself as ‘Yun Che.’”
 
-Perhaps it was hidden too deeply, or perhaps Yun Che's ability to discern hearts was still insufficient, or perhaps... He quickly smiled and said, "Brother Dian, what are you saying? If Brother Dian comes, all other matters are trivial; I will only clear a seat and await your arrival⁹."
+“A ‘Divine Son’ who refuses to become a Divine Son; a son who refuses to acknowledge his origin and surname. Heh. What a joke.”
 
-"Tsk tsk, these two lads, when did they start calling each other brothers?" Dian Luohou said with a hearty laugh.
+The insult was frank and terrible, and yet it failed to elicit the slightest anger on Meng Kongchan’s face. On the contrary, a proud smile appeared on the Divine Regent’s face as he declared, “You are exactly right, Pray Eternal Divine Regent. Yuan’er is such a person.”
 
-He grabbed Meng Kongchan with one hand and Hua Fuchen with the other. His flowing long beard framed his slightly flushed face. "The bond between us three is truly unbreakable, even if we tried to break it. Even our successors are one pair of in-laws and one pair of brothers. This is excellent, truly excellent, ho hahahaha!"
+“During the one century he was lost, Yuan’er was rescued by his master and bestowed the name Yun Che. Although he has returned to Dreamweaver, he still hasn’t regained his memories. Naturally, he could not truly acknowledge his identity as Meng Jianyuan. More than that, he could not forget the life and name his master gave him.”
 
-"That's natural," Hua Fuchen smiled. "The three of us swore an oath in our youth to be lifelong close friends. Regardless of our status or grievances, we must never forget this oath."
+Staring straight at Pan Yusheng, Meng Kongchan declared proudly, “Is there any man under the heavens who does not desire to be born as the son of a Divine Regent? To be known as a Divine Son? There is none. However, there is one man who, despite facing the world’s greatest temptations, refuses to commit any act that would violate the sanctity of this favor and bond even a little, and he is My Yuan’er! What a model of loyalty, integrity, and character! As expected of a man of Dreamweaver! As expected of my son!”
 
-His words were sincere. However, his and Meng Kongchan's smiles were far from as unrestrained as Dian Luohou's. All five nations had arrived, with only the Eternal Night Divine Nation remaining, but no one inquired about it. While everyone was exchanging pleasantries and subtle jabs, Yun Che, however, approached the Dragon Clan, which was the most in decline and the most neglected.
+His head held high, he cast an ashen-looking Pan Yusheng a sideways glance and declared, “I do not find anything wrong with Yuan’er’s words and actions. If anything, it is yours that confounds me greatly, Pray Eternal Divine Regent. Do you truly believe that a man is someone who chooses fame and fortune over kindness and loyalty without hesitation?”
 
-"May I ask, Senior Dragon Lord, is there anyone named 'Long Jiang' within the Dragon Clan?"
+“Well said! Well fucking said! Hahahahahaha!”
+
+A boisterous laugh abruptly deafened everyone’s ears to the point where they felt like throwing up blood. At the same time, the Boundless Divine Regent Dian Rahu and the Heart Painter Divine Regent Hua Fuchen arrived shoulder-to-shoulder. Their combined divine pressure instantly dispelled the yin coldness unleashed by the Pray Eternal Divine Regent.
+
+“When did you become so eloquent, Old Meng?”
+
+Dian Rahu arrived next to Meng Kongchan and spoke loudly, “In the past, trying to get more than two sentences out of you was like trying to pry open a clam, but now... as expected, Jianyuan gave you a ton of confidence, didn’t he? Hahahaha!!”
+
+His volume was booming, his words were unrestrained, and his gestures were uncaring. He did not possess the bearing that was expected from a Divine Regent whatsoever.
+
+Despite having his shameful past exposed in public, Meng Kongchan did not appear embarrassed in the slightest. He admitted frankly, “But of course. They say that a father’s pride is his son, don't they? I find nothing wrong with mooching off my son’s successes.”
+
+The two Divine Regents exchanged grins with each other, and Pan Yusheng turned away with a heavy grunt through their nostrils. He said nothing more.
+
+As for Yun Che, he locked eyes with Hua Caili from a distance for an instant before looking away. The young woman was the same. Just like Yun Che, she had received repeated warnings to watch herself from both Hua Fuchen and Hua Qingying prior to coming to Eden’s Crown.
+
+The Divine Regents surrounded them, and the Abyssal Monarch sat above them. For their common future, they must maintain the highest level of restraint and reveal no openings whatsoever.
+
+Yun Che leisurely turned his head and “accidentally” met Dian Sansi’s eyes. His face was amiable, and his eyes were calm. However, Yun Che knew better than anyone that hidden behind those eyes was an inferno that was suppressed by sheer willpower and reason.
+
+The corners of Yun Che’s lips turned up slightly into a small smile. From an outsider’s perspective, smiling when one’s eyes met with another person was just common courtesy. However, Dian Sansi’s hands abruptly clenched under his sleeves. He knew far too well what kind of scorn and disdain were hidden behind Yun Che’s seemingly warm and harmless smile. Even now, his vile words and humiliating insults were stabbing away at his soul like a million poison needles. No matter how well he maintained his facade on the surface, the horrible humiliation stewing inside his soul refused to truly fade.
+
+It was at this moment that Dian Jiuzhi stepped forward of his own accord and smiled at Yun Che. He said, “Brother Yun, Father told me that you tried to pay me a visit earlier. Regretfully, I missed it. I learned much from our previous meeting at Dreamweaver, and I only wish we had gotten to know each other sooner.”
+
+“When this Pure Land Meet is over, I will visit you at Dreamweaver in ten days. When the time comes, I would like to converse with you to my heart’s content. Are you free during that time?”
+
+To be honest, Dian Jiuzhi’s response greatly exceeded Yun Che’s expectations. The Divine Son’s eyes especially... for some reason, he could not find any hatred anywhere. There was only honesty.
+
+Maybe the Divine Son was just that adept at hiding his hatred, maybe Yun Che’s ability to see through the heart was still lacking, or maybe...
+
+Yun Che swiftly put on a smile and said, “What are you saying, Brother Dian? Nothing matters more than your arrival. I look forward to it.”
+
+At the side, Dian Rahu laughed boisterously. “Tsk tsk, I wonder when these two started addressing each other as brothers?”
+
+Grabbing Meng Kongchan’s hand with his left hand and Hua Fuchen’s with his right, the big man declared with a flying beard and a slightly reddened complexion, “It seems that our comradeship is destined to never break. Even our heirs are either marriage partners or brothers. Good. Very good! Huohahahaha!”
+
+“But of course.” Hua Fuchen smiled. “We swore to be friends forever from a young age. No matter our identities or grievances, this is the one oath we will never forget.”
+
+Every word he spoke was true, but his and Meng Konchan’s smiles were not nearly as natural as Dian Rahu’s.
+
+Now, the five kingdoms of god were gathered in one place. Only the Eternal Night Kingdom of God was absent. However, as if having entered a silent agreement beforehand, not a single man or woman breathed a word about them.
+
+The crowd was still conversing with each other when Yun Che walked over to the smallest and most neglected group in the temple: the dragon race.
+
+“If I may dare ask, senior Dragon Lord, is there a woman named ‘Long Jiang’ among your people?”

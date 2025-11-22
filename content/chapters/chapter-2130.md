@@ -1,87 +1,139 @@
 ---
 chapterNumber: 2130
 title: "Abyssal Monarch (2)"
-publishedAt: "2025-11-20"
+publishedAt: "2025-11-22"
 ---
 
-“Brother Yuan, there’s no need to be too shocked or concerned about the Evernight Goddess’s Divine Extinction Realm Level Six¹ cultivation. It’s very likely a rotten, empty shell,” Meng Jianxi² said softly, coming to Yun Che’s³ side.
+“Although the Eternal Night Divine Daughter is at the sixth level of the Divine Extinction Realm, we may not need to be too shocked or concerned about it, BrotherYuan. It’s highly possible that she is just a rotten, empty shell,” Meng Jianxi went over to Yun Che’s side and said in a low voice.
 
-Yun Che glanced sideways. “Why do you say that?”
+Yun Che cast him a sideways glance. “What do you mean?”
 
-Meng Jianxi said seriously, “I just focused on integrating some information about the Evernight Divine Kingdom⁴ from recent years. I found that they have been searching for and exchanging violent Abyss Crystals⁵, which possess immense energy but are extremely difficult to control.”
+Meng Jianxi said seriously, “I took some time to compile some of the intel related to the Eternal Night Kingdom of God just now and noticed something. In recent years, they have been scouring and trading for abyssal crystals containing massive quantities of energy, but they are extremely difficult to control.”
 
-“Because the energy contained within these Abyss Crystals is too difficult to harness, they are almost impossible to use for aiding cultivation. Most are used as energy for forging or for offensive profound formations⁶.”
+“The energy contained within these types of abyssal crystals is so volatile that it’s nigh impossible to use them to accelerate one’s cultivation. Instead, they are normally used to forge energy and offensive-type profound formations.”
 
-“Previously, I was slightly puzzled by the Evernight Divine Kingdom’s actions, but I didn’t pay much attention. But now that I think about it…”
+“I had wondered why the Eternal Night Kingdom of God was scouring these abyssal crystals, and now...”
 
-His gaze indicated the direction of the Evernight Divine Kingdom. “Wuming Divine Venerable⁷ is an extremely deranged woman. Father God once said that what she sought by becoming a Divine Venerable was not to lead the Evernight Divine Kingdom, but to inflict hatred upon all men in the world… For this, she would stop at nothing, sparing no expense.”
+His gaze shifted toward the Eternal Night Kingdom of God’s group. “The Lightless Divine Regent is an unusually crazy woman. Father once said that the reason she became a Divine Regent wasn’t to lead the Eternal Night Kingdom of God, but to vent her hatred upon all men under the heavens... To this end, she could do anything; sacrifice anyone.”
 
-“So…”
+“Therefore...”
 
-Yun Che roughly understood what he was going to say. “You mean…”
+At this point, Yun Che more or less figured out what he was trying to say. “You’re saying...”
 
-“Pulling up seedlings to help them grow⁸.”
+“Overaccelerated growth leads to the end of potential.”
 
-Meng Jianxi’s eyes narrowed slightly, his tone laced with sarcasm. “The Xuanji Palace⁹ records that when Shen Wuyan Ye¹⁰ first became a Divine Venerable, in order to quickly raise the cultivation of the women in her clan, she once used divine power to create a cultivation profound formation that could stimulate profound veins¹¹ and profound orifices¹², thereby forcibly elevating their cultivation in a short period.”
+Meng Jianxi narrowed his eyes slightly and said in a ridiculing voice, “This was recorded in the Xuanji Hall. Right after Shenwu Yanye became a Divine Regent, she invented a profound cultivation formation that could stimulate one’s profound veins and profound entrances and forcefully increase one’s cultivation in just a short time.”
 
-“However, this profound formation was so fierce and violent that it could be called cruel. It violated the laws of the profound way¹³, and even harmed heavenly harmony. Although it could rapidly increase one’s cultivation in the short term, it would also cause permanent damage to the profound veins, thereby harming their lifespan and future. Therefore, this profound formation was later abandoned and prohibited by Wuming Divine Venerable.”
+“However, this profound formation is violent to the point of cruelty. It does not just go against the laws of the profound way; it goes against the natural order itself. Although it can rapidly increase one’s cultivation in just a short time, it deals permanent damage to the profound veins and ruins the profound practitioner’s lifespan and future. That is why the Lightless Divine Regent abandoned the profound formation.”
 
-“According to the records, the formation base¹⁴ of this profound formation required precisely these various violent Abyss Crystals.”
+“It is mentioned in the records that the core necessary to empower the profound formation was none other than all types of volatile abyssal crystals.”
 
 “I understand.”
 
-Yun Che nodded slightly, following his words. “To overtly suppress the Divine Children¹⁵ of other kingdoms, Wuming Divine Venerable would not hesitate to reactivate this profound formation, forcibly boosting Shen Wuyi’s¹⁶ cultivation to such an astonishing level… This is indeed highly probable.”
+Yun Che nodded and drew his own conclusions. “To put on a show of force and prove that her Divine Daughter—in terms of cultivation at least—is superior to all Divine Sons, she went so far as to reactivate the profound formation and forcefully increase Shenwu Yi’s cultivation to this extent... All things considered, your theory is most likely true.”
 
-To other divine kingdoms, Divine Children and Divine Daughters¹⁷ were precious beyond measure, fearing even the slightest harm to them. But for Wuming Divine Venerable, if it meant surpassing the Divine Children and trampling on the dignity of all men from other divine kingdoms, she would absolutely do it. However, Yun Che spoke these words very calmly, without the slightest ripple of worry in his heart.
+To any Kingdom of God, a Divine Son or Daughter was a priceless jewel. They would not want them to suffer even the slightest bit of damage. However, the Lightless Divine Regent was a madwoman who could resort to unimaginable means just to one-up the Divine Sons and step on the faces of the men of the other Kingdoms of God. This was absolutely the kind of atrocity she could commit.
 
-“It’s highly likely to be so.”
+However, the words that came out of Yun Che’s mouth sounded perfectly calm and collected. There wasn’t a speck of worry in his heart either.
 
-Meng Jianxi nodded slowly. “Unless the initial information about Shen Wuyi was entirely false, otherwise… I can’t think of any other possibility.”
+“Yes, I believe it to be the truth.”
 
-To go from the peak of the Divine Master Realm¹⁸ to Divine Extinction Realm Level Six in just twenty years—not to mention this era, throughout the entire history of the Six Divine Kingdoms¹⁹, such a feat has never occurred.
+Meng Jianxi nodded slowly. “Unless the information regarding Shenwu Yi’s beginning was completely false... I simply cannot imagine any other possibility.”
 
-Yun Che echoed with a nod, deeply agreeing. “Indeed, otherwise, it would defy all logic.”
+Forget this era, there has never been a person in the entire history of the Six Kingdoms of God who grew from a peak Divine Master to a sixth-level Divine Extinction Realm profound practitioner in just two decades.
 
-Logic… But my Qingyue²⁰… she, like the Creation Gods²¹ and Devil Emperors²², was personally created by the Progenitor God²³. She was born from the most primordial, most fundamental power of nothingness. Her heart was like glazed glass, and her profound essence was exquisite. She was never within the realm of worldly cognition.
+Yun Che echoed in agreement. “There is common sense, and then there’s fundamental laws of the world.”
 
-At this moment, a wisp of clear breeze swept past, instantly extinguishing all clamor. The world suddenly became incredibly quiet. Yun Che once again heard the sound of his own heartbeat, but this time it was exceptionally steady and peaceful. An indescribable sensation silently enveloped his spiritual perception²⁴, light and ethereal, seemingly present yet absent, like the gentle ripples of a clear spring or the faint mist of dawn. Yet, it caused everyone to instantly fall silent, their movements involuntarily becoming respectful and cautious, and all stirring thoughts settled into tranquility. It was as if any unusual sound, movement, or thought at this moment would be an unforgivable disrespect and blasphemy. Everyone’s gaze, as if drawn by an invisible force, turned towards the same direction. Pure clouds peeled away layer by layer, and a white figure slowly approached… Suddenly, Yun Che’s gaze became dazed, as if his consciousness briefly wandered. When it cleared, the figure was fully reflected in his sight.
+Common sense and fundamental laws apply to most people... but my Qingyue... was created by the Ancestral God herself, just like the Creation Gods and the Devil Emperors. She was born from the most primal and fundamental power of nothing. Her heart resembles glazed glass, and her vessel is uniquely exquisite and profound. She exists beyond common sense and fundamental laws.
 
-His pupils contracted slightly, his gaze fixed for a long time.
+It was at this moment that a cool breeze washed through the area and eliminated all of the noise. The world suddenly became impossibly silent; so silent that Yun Che could hear his heartbeat once more. Unlike the first time, though, it was unusually calm and even.
 
-All the Divine Venerables and Dragon Lords²⁵ stood upright. Even Wuming Divine Venerable, who was in her sedan chair²⁶, respectfully rose, then led the profound practitioners²⁷ of her divine kingdom to bow neatly and reverently. “Greetings, Abyss Emperor²⁸.”
+An unspeakable feeling enveloped his spiritual senses. It was soft and light, existing yet not existing. It reminded Yun Che of the swelling water of a clear spring; the faint mist that accompanied the first glimmer of dawn.
 
-Four incredibly brief words, a single, simple bow. There was no grand welcoming ceremony, no elaborate bowing ritual, no heaven-shaking proclamation, nor world-shining divine radiance. This was the etiquette for an audience with the Supreme Emperor of the Abyss; a single bow was sufficient.
+As ephemeral as the thing was, it silenced everyone instantly. Their gestures unconsciously grew reserved and respectful, and their thoughts settled into tranquility. It was as if any unusual noise, movement, or even thought was an unforgivable act of transgression and blasphemy.
 
-Even in the most barren lands of the Abyss, the kings of the weakest nations would have far more pomp than this. The Abyss Emperor, the supreme ruler of the Abyss world, and moreover, the founder of the Abyss, was the ultimate existence revered by all beings of the Abyss for generations. To the creatures of the Abyss, his existence was like the heavenly light covering the firmament, symbolizing supreme power, status, authority, and majesty. Yet, only those who had personally met the Abyss Emperor knew that he never required elaborate rituals, nor did he possess any imperial majesty. There were no Abyss Knights²⁹ or Pure Land Divine Guards³⁰ forming ranks to clear the way, nor any announcement. The Abyss Emperor simply appeared directly before everyone.
+Everyone looked in the same direction as if their eyes were drawn by an invisible force. The pure white clouds peeled off layer by layer, and a white silhouette slowly approached...
 
-The Abyss Emperor in Yun Che’s sight wore a plain white long robe, unstained by a speck of dust, as white as snow, flawlessly white, without any ornaments. The sash tied around his waist was also pure white without a trace of color. His wide sleeves fell naturally like flowing clouds, so pure and simple that it was hard to believe this was the attire of an emperor. A wisp of faint smoky cloud approached without fear, lingering greedily before the man, then reluctantly brushed past, revealing a handsome and elegant face carved from smooth, lustrous jade. His features were sculpted with a refinement and elegance that even women could not hope for. His eyebrows were like distant mountains painted with ink, and his long lashes cast shallow shadows beneath his eyes, yet they reflected not a hint of imperial majesty. It was him… indeed… it was him… This was Yun Che’s first face-to-face encounter with the Abyss Emperor, yet not his first time seeing him. For long before this, the Heretic God Ni Xuan³¹ had already informed him of the Abyss Emperor’s identity through memory fragments, and had given him an unspoken entrustment. Now, the figure in his sight completely shattered any other already tenuous possibilities. That name, which was also the name of the Abyss Emperor before him, surged chaotically in Yun Che’s soul sea³². The leader of the Four Creation Gods, the son of the Heaven Punishing Divine Emperor Mo’e³³… the Heaven Punishing Crown Prince³⁴ of the ancient divine race, who, according to records, was personally buried by Mo’e in the Abyss of Nothingness³⁵ and should have long perished in nothingness… Mo Su³⁶! His appearance was almost identical to that in Ni Xuan’s memories. Even after so many years, even if they were just faint memory fragments, he remained so clear and distinct in Ni Xuan’s lingering soul. Because this name, this figure, carried the regret and shame that Ni Xuan could not release even in death. But beyond his appearance, he had completely changed.
+Suddenly, Yun Che’s vision blurred as if his subconscious had turned off for an instant. When it cleared, the silhouette was already standing clearly and perfectly before all of them.
 
-His eyes were as clear as a pure pond reflecting countless stars, and so gentle that they seemed capable of holding a pond full of starlight. Yet, there was no trace of his former confusion, yearning, or lively ripples. Faintly, a thin mist seemed to shroud his pupils, as if isolating something… Was it emotion, intention, or everything… He was Mo Su, the Heaven Punishing Crown Prince. No one in the vast God Realm³⁷ knew that in ancient times, in the era before the War of Gods and Devils³⁸ erupted, he did not perish after being personally buried by his Father God in the Abyss of Nothingness. Instead, he survived in the Abyss and founded the era of the Abyss. This led to the current Abyss world, and the current Six Divine Kingdoms. And for the original world, he created this terrifying and unparalleled danger.
+His pupils contracted slightly, and his gaze was glued to the silhouette for a very, very long time.
 
-“There’s no need for formalities, everyone.” He spoke faintly, his voice like the warm sun caressing snow, so gentle and warm that people unconsciously softened their breathing. Everyone complied, ceased their bows, and stood upright again, their heads slightly raised, facing the Emperor of the Abyss with reverence.
+The Divine Regents and the Dragon Lord all stood up straight. Even the Lightless Divine Regent in her palanquin had obediently risen to her feet. Then, they and their entourages all bowed to the white silhouette and said in greeting, “We greet you, Abyssal Monarch.”
 
-“Li Suo³⁹, do you still remember him?” Yun Che asked softly in his soul sea, calming his emotions.
+The greeting was simple, and the salute was simpler. There was no welcoming ceremony, no flamboyant display of courtesy, and definitely no heaven-shaking sounds or world-illuminating lights. This was all the etiquette one needed to perform when having an audience with the supreme Abyssal Monarch—a simple bow.
 
-Li Suo quickly responded, “The Heaven Punishing Crown Prince, Mo Su.”
+Even the weakest king in the smallest nation of the poorest Land of the Living would demand ostentation far greater than this. The Abyssal Monarch wasn’t the highest ruler of the Abyss; he was the person who had created this world and the supreme existence all who lived in the Abyss looked up to. To the denizens of the Abyss, his existence was like the light that filled the sky. He was the symbol of ultimate power, status, influence, and dignity.
 
-“How much more can you recall about him?”
+Those who personally met the Abyssal Monarch would know that he never cared for complex rites or carried himself with any imperial bearing whatsoever. He did not need Abyssal Knights or Pure Land Divine Guards to open a way for him. He did not even need anyone to announce his arrival. He simply showed up.
 
-After a brief silence, she replied, “Only his appearance and name. All other knowledge comes from you.”
-“He is the son of Mo’e, the successor of a Creation God. In ancient times, he already surpassed all gods. In this era, his body, his power, his divine soul⁴⁰, his cognition… everything about him transcends existing planes⁴¹. Is such a person truly someone you can contend with?”
+In Yun Che’s vision, the Abyssal Monarch was dressed in a plain white robe. It was spotlessly clean and white as snow. He did not wear any pendants. His belt was spotlessly white just like his robe, and his wide sleeves hung naturally below his waist like clouds. It was such a plain and pure outfit that one could not believe that it was the clothes of a supreme monarch.
 
-“…”
+A gust of faint mist approached the man without any fear whatsoever and lingered longingly in front of him. It was only then that it reluctantly left his side and revealed a handsome countenance that looked like it had been carved out of mutton fat jade. His facial features were sculpted with grace and refinement that even a girl could not hope to possess, and his eyebrow arches resembled distant mountains with a spot of umber-black dye. His long eyelashes cast faint shadows beneath his eyes, and yet he did not exude the authority or prestige of a supreme monarch whatsoever.
 
-Yun Che did not answer.
+It’s him... As expected, it’s him...
 
-As everyone readjusted their stances, they realized that the Abyss Emperor had not arrived alone.
-Behind him, three figures accompanied him on either side.
+This was the first time Yun Che met the Abyssal Monarch, but this was not the first time he saw him. Long before this, Ni Xuan’s memory fragments already told him who the Abyssal Monarch was and entrusted him with a duty the Heretic God never vocalized.
 
-The foremost figure possessed a divine bearing that oppressed the soul, his might like the firmament. It was precisely the Grand Divine Official⁴² whom Yun Che had just met. Behind him closely followed a person whose demeanor was extremely similar to his. Yun Che knew without asking that this must be the Grand Divine Official’s personal divine attendant, and also the head of the Four Divine Attendants of the Pure Land⁴³—Dong Huang⁴⁴. The Spirit Immortal Divine Official’s⁴⁵ attendant, Su Shang⁴⁶, was as elegant as water, and the Six Smiles Divine Official’s⁴⁷ attendant, Yuan Ying⁴⁸, was playful and carefree, their temperaments similar to their masters… And this Grand Divine Official’s attendant was clearly the same; the cold and oppressive aura in his eyes almost chilled one’s soul and shattered one’s bones. The person accompanying on the other side wore silver armor, and even layers of pure clouds could not conceal its cold, brilliant light. His lips were pressed tightly together, his facial features like sword edges, and his eyes were as sharp as cold stars. A silver greatsword was strapped to his back, and his entire being seemed to be enveloped in a faint silver glow. In just an instant, he could unleash divine might capable of shattering stars. Yun Che immediately thought of one person. The number one ranked Abyss Knight, and also the commander-in-chief of all Abyss Knights in the Pure Land… Dugu Zhuyuan⁴⁹!
+This was just confirmation and the utter annihilation of all other vague and unlikely possibilities.
 
-The Abyss Emperor floated in mid-air, his face like warm jade. He gazed forward, yet everyone clearly felt the Abyss Emperor’s gaze fixed upon themselves. Yun Che’s pupils suddenly trembled.
+Right now, His name—the Abyssal Monarch’s name—was stirring up violent, chaotic waves inside Yun Che’s soul sea. He was the son of the Chief of the Four Creation Gods, the Heaven Punishing Divine Emperor Mo E. He was the Heaven Punishing Crown Prince of the ancient god race. He was the sinner whom Mo E had personally buried in the Abyss of Nothingness. He was the True God who should have long perished to nothingness...
 
-As the wide sleeve of the Abyss Emperor’s left arm slightly lifted, Yun Che’s gaze touched an exceptionally dazzling black color amidst the pure white. It seemed to be a jade bracelet, its material difficult to discern, black as the darkest night, yet dull and lusterless.
+His appearance looked almost identical to the one he saw in Ni Xuan’s memories. Even after countless years had passed, even though the memory fragments were faint and weak, he had left an unforgettable and indistinct mark in Ni Xuan’s soul fragment.
 
-But the moment Yun Che’s eyes touched it, both his heart and soul strings⁵⁰ twitched violently. Within his profound veins, the Darkness Eternal Tribulation⁵¹ stirred with an instant of abnormal ripples. However, it was only for an instant, and then everything returned to calm.
+After all, this name and appearance embodied a kind of regret and guilt that Ni Xuan could not let go of right to the moment he died.
 
-As if everything was merely a fleeting illusion.
+That said, the man’s appearance was the only thing that remained mostly unchanged. Everything else about him was different.
+
+Right now, his eyes were clear and bright like pools of stars. They also seemed warm enough to contain all the stars in the universe. However, the confusion, yearning, and soul ripples that used to plague him were nowhere to be found.
+
+Besides that, Yun Che vaguely sensed a faint mist shrouding his eyes. It seemed to be isolating something. His emotions? His thoughts? Everything?
+
+He was Mo Su, the Heaven Punishing Crown Prince. No one in the entire God Realm knew that he had not perished, even though he was buried in the Abyss of Nothingness by his own Father during the ancient era, before the titanic war between gods and devils broke out. He even survived and created the world that would be known as the Abyss.
+
+It was thanks to him that the Abyss and the Six Kingdoms of God existed.
+
+It was also because of him that his original universe was facing an existential crisis.
+
+“At ease,” the Abyssal Monarch said lightly. His voice resembled a warm sun that tickled the snow. It was so warm and gentle that one could not help but relax their breathing.
+
+The crowd did as he said and straightened their backs. Then, they raised their heads slightly to look up to the Abyssal Monarch.
+
+“Do you remember him, Li Suo?” Yun Che calmed his emotions and asked softly in his soul sea.
+
+Li Suo quickly responded, “He is Mo Su, the Heaven Punishing Crown Prince.”
+
+“How much about him do you still remember?”
+
+A short silence later, she answered, “Only his name and appearance. Everything else I know about him came from you.”
+
+“He is Mo E’s son, heir of the Creation Gods. In ancient times, he was the greatest True God of them all. In this day and age, his body, his strength, his soul, his knowledge and experience... everything about him surpasses what the current plane possesses. Are you sure... he is someone you can defeat?”
+
+Yun Che did not answer her.
+
+It wasn’t until after the crowd readjusted their postures that they realized the Abyssal Monarch had not come alone. Three figures were flanking him.
+
+The foremost figure boasted a divine appearance that oppressed the soul and a pressure that resembled the heavens. It was the Chief Priest Yun Che encountered a while ago. Behind him was another man whose appearance and bearing resembled the Chief Priest greatly.
+
+Yun Che did not even need to ask to know that he was the Chief Priest’s Divine Attendant and the head of the Four Divine Attendants of the Pure Land, Dong Huang.
+
+Su Shang, High Priest Ling Xian’s Divine Attendant, was elegant and refined like water. Yuan Ying, High Priest Liu Xiao’s Divine Attendant, was cheerful and undisciplined.
+
+The Divine Attendants’ personality all resembled their master, and the Chief Priest’s Divine Attendant was no different. Cold, indifferent pressure resided in his eyes. It seemed capable of freezing one’s soul and breaking one's bones apart.
+
+Standing on the other side was a man in silver armor. Not even the pure clouds could conceal its cold, sharp radiance. His lips were tightly pursed, and his facial lines looked like the sharp edge of a sword. His eyes especially looked as sharp as a cold star.
+
+The man carried a silver heavy sword behind his back. His whole being seemed to be enveloped in a sheen of silver light, and he only needed an instant to unleash supernova levels of divine power.
+
+Yun Che immediately recalled someone. He was the highest-ranking abyssal knight on the abyssal knight ranking and the chief commander of all Abyssal Knights in the Pure Land... Dugu Zhuyuan!
+
+The Abyssal Monarch was floating in the air and wearing an expression that resembled warm jade. He was looking ahead, and yet every person felt as if the Abyssal Monarch was staring directly at them.
+
+Suddenly, Yun Che’s eyes shivered.
+
+The Abyssal Monarch raised his left arm slightly, and it was at that moment that Yun Che’s vision caught a flash of piercing black. It was a jade bracelet of indistinguishable material. It was as dark as night, yet dim and lightless.
+
+The moment Yun Che saw the bracelet, both his heart and soulstring twitched violently. Inside his profound veins, an unnatural ripple had appeared in the Eternal Calamity of Darkness as well.
+
+It only lasted an instant though. Everything returned to normal after that.
+
+It was so brief it was like an imagination.

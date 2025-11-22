@@ -1,238 +1,233 @@
 ---
 chapterNumber: 2113
-title: "The Nameless Tower"
-publishedAt: "2025-11-20"
+title: "Nameless Tower"
+publishedAt: "2025-11-22"
 ---
 
-The sound of two divine ships cleaving through the air shook the sea of clouds. The auras and divine presence of the two God Venerables were even more imposing, dominating the heavens and the earth. Yet, each person felt as if the world they inhabited was exceptionally quiet.
+The two profound arks were noisy and shaking the surrounding sea of clouds they were passing through. The two Divine Regent’s forcefield and voice were even more imposing. However, every single person felt like they were in an extraordinarily quiet place right now. Why? Because their eyes, heart and soul were irresistibly drawn toward the young woman next to Hua Fuchen, the Heaven Breaker Divine Daughter.
 
-Their gazes and souls seemed to be torn away by an irresistible, invisible force, drawn to the figure of Zhetian Goddess beside Hua Fuchen.
+Once upon a time, she was the moon in the sky and the snow between clouds, gorgeous yet distant. Still, she gave off the impression that one might be able to reach her one day.
 
-In the past, she was the moon in the sky, the snow among the clouds—beautiful yet distant, giving rise to the illusion that she might be within reach.
+But today, she had become the moon in one’s dreams and the snow beyond the sky.
 
-But now, she was the moon in a dream, the snow beyond the heavens.
+Having shed the final vestiges of her childish innocence, Hua Caili’s magnificence could no longer be covered up. Every glimpse of skin, every line of her countenance was so beautiful, so flawless, that it should have been a luxury beyond mortal reach even within a fantastical dream.
 
-She had shed her last vestiges of naivety, fully releasing the splendor that had once been concealed by it. Every inch of her snow-white skin, every line of her features, was so flawlessly beautiful that it seemed an impossible luxury, even in a realm of fantasy.
+Every flicker of her gaze, every turn of her eyes seemed to draw from the surrounding light, dimming a thousand stars and causing even the bright moon to hide itself in shyness.
 
-Wherever her beautiful eyes landed, every flicker of her gaze seemed to stir the brilliance of the entire sky. Even the stars dimmed, and the bright moon hid in fear.
+Having officially entered her twenties and reforged her determination and her sword art, she was beginning to look divinely aloof, proud, and untouchable like Hua Qingying. As such, when Yun Che and Hua Caili’s eyes finally met, they both felt a degree of unreality in regards to their past.
 
-Having passed the age of twenty and reforged her determined sword heart, she gradually took on the cold, aloof, and otherworldly air of Hua Qingying... to the point that when Yun Che's gaze touched her, he felt a sense of unreality about their past.
+“...” Meng Jianxi was lost in Hua Caili’s beauty for a long time before he finally jolted back to reality and hurriedly lowered his gaze. He sighed a bit raspily, “As expected... of the Heaven Breaker Divine Daughter. She was already astounding back in the day, and now... now she’s even more...”
 
-"..." Meng Jianxi, who had been in a daze for a long time, seemed to awaken from a dream. She hurriedly lowered her gaze, letting out a somewhat strained sigh. "Truly worthy of being... the Zhetian Goddess. When I first saw her years ago, I was already stunned, but now..."
+As intelligent as he was, he could not conjure a single adjective that Heaven Breaker Divine Daughter deserved despite trying for a long time.
 
-As intelligent as he was, he stammered for a long time, unable to find a single word that could adequately describe her.
+It was at this moment Hua Caili stepped forward and bowed to Meng Kongchan. “Caili greets the Dreamless Divine Regent. It’s been too long.”
 
-Hua Caili stepped forward and gracefully bowed. "Caili greets God Venerable Wumeng. It has been a long time..."
+“Ai ai, don’t call me Divine Regent! It’s far too estranged a term.” Meng Kongchan’s eyes were curled to the point where all one could see were thin, long slits. “For now... call me uncle.”
 
-"Aiya, what God Venerable? That's too formal." Meng Kongchan's eyes, those of a God Venerable, smiled into slits that were far too narrow. "For now... just call me Uncle."
+In the past, Meng Kongchan always viewed Hua Caili with unbridled admiration and astonishment, but today it was very different. From Hua Fuchen’s perspective, the look on Meng Kongchan’s face was that of a loving father, and that deeply annoyed him.
 
-In the past, Meng Kongchan's gaze towards Hua Caili was full of admiration and envy. Now, it was naturally quite different. From Hua Fuchen's perspective, he was looking at his own daughter, which greatly displeased him.
+“Of course, Uncle Meng.”
 
-"Yes, Uncle Meng."
+Hua Caili obeyed without hesitation and took another small step forward. She held out what looked like a small and delicate jade inkstone and said, “I heard that you enjoy calligraphy and often practice to refine the heart and cultivate the soul. It so happens that I have a River Green Jade that is said to be the ‘Gentleman of Inkstones’, so I fashioned it into an inkstone as a gift for you. I hope you will like it, Uncle Meng.”
 
-Hua Caili did not refuse, immediately and obediently complying. Then, she took a small step forward, her hands, like fine jade, holding a small, exquisite inkstone. "Caili heard that Uncle Meng enjoys calligraphy and often practices writing to refine the heart and cultivate the soul through ink. Caili happens to have a piece of Taoqing jade, known as the 'king of inkstones,' so I used it to make this inkstone as a gift for Uncle Meng. I hope you like it."
+“Caili sculpted this with her Glazed Cloud Sword, you know~~” Hua Fuchen muttered through gritted teeth... This old fart does not deserve any of this!
 
-"This was personally carved by Caili using the Liyun Sword~" Hua Fuchen's words clearly carried a tone of gritted teeth... He was really letting this old man off easy.
+“Ah... I... Your sincerity moves me, Caili, truly!”
 
-"Ah... Caili is truly thoughtful, so thoughtful."
+Meng Kongchan happily accepted the gift. The Dreamless Divine Regent should look dignified at all times, but right now he was practically grinning from ear to ear.
 
-Meng Kongchan reached out to receive it. The dignified God Venerable Wumeng was practically grinning from ear to ear.
+“Such a flawless and gentle River Green Jade is already one of a kind. For it to be sculpted by Caili’s own hands? It is no exaggeration to say that it is a priceless treasure.”
 
-"Such a complete and smooth Taoqing jade is truly a rare find. And for Caili to have personally carved it, it's a priceless treasure unique in the world." Meng Kongchan praised, using all the flowery language he could muster. He put away the Taoqing jade inkstone and searched his body several times, unable to find a suitable gift in return. He could only awkwardly say, "Look at me, I was in such a hurry that I forgot to prepare a gift for Caili... Caili, this is your Uncle Meng's fault. After this trip to the Pure Land, Uncle will definitely prepare a big surprise for you."
+Meng Kongchan racked his brain for compliments as he put away the River Green Jade and searched around his body for a bit. When he discovered that he did not have a suitable or worthy gift to return the favor, he had no choice but to bear his embarrassment and said, “Look at me! I was so anxious that I forgot to prepare a meeting gift for you! This is my mistake, Caili. When this Pure Land Meet is over, uncle will prepare a big gift for you.”
 
-A gift...
+Meeting gift?
 
-Such obviously unusual words and demeanor...
+The Divine Regent was clearly speaking and acting abnormally?
 
-Meng Jianxi's eyebrows twitched uncontrollably, and then he quickly suppressed the absurd thought that had suddenly surfaced.
+Meng Jianxi felt his eyebrows twitching violently as a ludicrous thought entered his mind. Then, his rationality snuffed it out almost as quickly as it appeared.
 
-Hua Caili lowered her head slightly, a smile blooming on her face. "As long as Uncle Meng likes it. Besides, Uncle Meng has already given Caili the best gift in the world."
+Hua Caili nodded slightly with a blossoming smile. “As long as you like it. Besides, you have already given me the best gift in the entire world, Uncle Meng.”
 
-"Ahem, ahem, ahem!" Hua Fuchen seemed to have choked on the wind. He straightened his expression and said, "God Venerable Wumeng, we have important matters to discuss. Yun Che, you come too."
+“Cough cough cough cough!” Hua Fuchen coughed as if he accidentally choked on a gust of wind and said with a straight face, “There’s something we need to talk about, Dreamless Divine Regent. Yun Che, you come as well.”
 
-"Yes." Yun Che obediently approached. Just as he reached Meng Kongchan's side, Hua Fuchen waved his hand, and an isolation barrier instantly formed.
+“As you command.” Yun Che obediently stepped forward. As soon as he arrived beside Meng Kongchan, Hua Fuchen waved his hand and surrounded them all in an isolation barrier.
 
-It was quite reasonable for God Venerables to create an isolation barrier when discussing important matters.
+It was perfectly normal for a discussion between Divine Regents to be shielded behind a barrier, right?
 
-How could Hua Fuchen not notice that from the moment Hua Caili saw Yun Che, she had been suppressing her emotions... But the fluctuations in her heart and soul were simply too intense. Her so-called sword heart and pure soul were utterly collapsing, gradually becoming so chaotic that it made his scalp tingle.
+Hua Fuchen knew that Hua Caili had been putting a lid on her emotions from the second she saw Yun Che as a matter of course. However, her emotions were such that her so-called sword heart and clear soul might as well be non-existent. As time passed, and the chaos within her soul kept worsening, he seriously worried that his daughter would say fuck it and jump Yun Che in front of everyone.
 
-Sure enough, the moment the isolation barrier formed, Hua Caili's immortal composure completely crumbled. Like a swallow returning to its nest, she threw herself into Yun Che's arms, her jade arms tightly hugging his waist, almost using all her strength.
+As expected, the second the isolation barrier took form, Hua Caili’s perfect show of etiquette until this point instantly collapsed. She leaped toward Yun Che like a young swallow who had returned to her nest and wrapped her arms around his waist with all her might.
 
-"Brother Yun, I... I really missed you so much..."
+“Big Brother Yun, I... I miss you so much... Uu...”
 
-Before she could finish, her words dissolved into sobs.
+She was sobbing even before she could finish what she was trying to say.
 
-"Me too," Yun Che said softly, holding her jade back.
+“Me too,” Yun Che replied softly as he wrapped his arms around her back.
 
-Hua Fuchen turned his back, his face as black as charcoal.
+Hua Fuchen turned away, his face as black as coal.
 
-"Haha, young people's feelings are so direct and passionate, it's truly enviable," Meng Kongchan said with a chuckle.
+“Haha, young love is always so direct and passionate. How envious I am,” Meng Kongchan chuckled.
 
-He walked to Hua Fuchen's side. As he moved, the Brahma Sound Stone¹ at his waist made a clear, calming Brahma sound.
+He walked up to Hua Fuchen. As he did so, the Brahma Sound Stones around his waist collided and emitted a soothing noise.
 
-Hua Fuchen glanced sideways. Before he could speak, Meng Kongchan nodded with a serious expression. "As expected of Brother Fuchen, you recognized at a glance that this is the Brahma Sound Stone that Yuan'er gave me."
+Hua Fuchen turned to look at Meng Kongchan, but before he could say anything, the Dreamless Divine Regent said with a straight face, “As expected of you, Brother Fuchen. You figured out immediately that these are the Brahma Sound Stones gifted to me by Yuan’er.”
 
-Hua Fuchen: "???"
+Hua Fuchen: “??”
 
-"Oh," Hua Fuchen responded faintly, then casually glanced at the tri-colored Brahma Sound Stone at Meng Kongchan's waist.
+“Oh.” Hua Fuchen replied indifferently and cast the tri-colored Brahma Sound Stones on Meng Kongchan’s waist a perfunctory glance.
 
-For a God Venerable, this thing was really not even worth mentioning as "ordinary."
+From the perspective of a Divine Regent, the toy was so ordinary it did not even deserve the word ordinary.
 
-And it was this casual glance that made Meng Kongchan turn around with a "whoosh," his expression lively. "This Brahma Sound Stone is most beneficial for those of us who cultivate the soul. In order to gather these three colors of Brahma Sound Stone for me, Yuan'er spent a full two years searching. Its shape, its form, its texture, were all personally carved by Yuan'er. Every time they collide, what enters the ear is the clear Brahma sound, but what enters the soul is Yuan'er's silent concern. This is the so-called connection between father and son."
+His reaction gave Meng Kongchan the excuse to spin around and say soulfully, “It is said that the Brahma Sound Stone is most beneficial for soul cultivators, and Yuan’er spent two whole years gathering them all for me. It was personally selected and fashioned by Yuan’er’s own hands too. Every time they collide, what I hear is the crisp sound of the Brahma sound, but what enters my soul is Yuan’er’s soundless concern. This is what they call the bond between a father and his son, you know?”
 
-God Venerable Huaxin's eyebrows slowly formed two black lines.
+The Heart Painter Divine Regent’s eyebrows slowly knitted together.
 
-Meng Kongchan continued talking non-stop, "If Brother Fuchen is envious, I can have Yuan'er make one for you someday. After all, you are his future father-in-law. It's just that gathering three colors might be a bit difficult, and this..."
+Meng Kongchan was still ranting, “If you want one, I can ask Yuan’er to make a new one for you. You are his future father-in-law after all. However, gathering the right three colors probably going to be troublesome, and—”
 
-Hua Fuchen finally couldn't take it anymore. He turned around and roared, "Are you two going to separate or not? We're still here! What kind of behavior is this, being so lovey-dovey!"
+Hua Fuchen finally couldn’t hold it in any longer and growled at Yun Che and Hua Caili, “How much longer are you going to stick together? We’re still here! This is unbecoming behavior for a prince and a princess!”
 
-"No!" Hua Caili hugged Yun Che even tighter, almost wishing she could melt into his chest.
+“Don’t wanna!” Hua Caili retorted and hugged Yun Che even tighter. She only wished she could rub herself into his chest.
 
-"Aiya, aiya, Brother Fuchen, I have to say something here," Meng Kongchan said, reaching out to stop him. "The two kids haven't seen each other in years. It's only natural that they can't control their feelings. Just like you and Qu Wanxin back then, you two were much closer than these two juniors every time you met."
+“Brother Fuchen! How can you do this?” Meng Kongchan lifted a hand to stop Hua Fuchen. “It’s been many years since they last met. It’s perfectly normal for them to lose themselves in passion. Besides, isn’t it hypocritical for you to act like this when you and Qu Wanxing were way closer back then?”
 
-Hua Fuchen's mouth twitched, and he flung his sleeve, no longer speaking.
+Hua Fuchen’s lips twitched. He flung his sleeve and stopped talking.
 
-"When will we have the showdown with Old Dian?" Meng Kongchan's voice sounded again, his tone now serious.
+“So, when are we going to confess to Old Dian?”
 
-Hua Fuchen furrowed his brow slightly and said, "After the matter of the Pure Land is settled."
+Meng Kongchan finally turned serious.
 
-"Just as I thought," Meng Kongchan said, standing beside him, looking down at the desolate abyss below. "If this Pure Land meeting doesn't lead to any major complications, let's just resolve it directly... Speaking of which, we've been testing and hinting at Old Dian in various ways these past two years. Has he really not sensed anything?"
+Hua Fuchen furrowed his brow slightly before answering, “After the Pure Land Meet is over.”
 
-Hua Fuchen said, "If it were anyone else, they might have thought deeply about it and thus been mentally prepared. But he is, after all, Old Dian."
+“I’m in agreement.” Meng Kongchan stood next to him and looked down on the barren wasteland below. “Assuming that nothing plagues us during this Pure Land Meet, then it is best we settle this decisively and immediately... say, do you really think Old Dian felt nothing from all the probings and hints we dropped for the past two years?”
 
-"His personality is as straight as iron and as fierce as fire. He always goes straight to the point and despises beating around the bush. Moreover, he may subconsciously never want to believe, nor accept, that the two of us would do something that would..."
+Hua Fuchen replied, “Anyone else would have thought deeper into our words and be mentally prepared, but... Old Dian is Old Dian.”
 
-He paused for a long time, finally uttering those two words, "betray his trust."
+“He is as upright as iron and as fiery as flames. He prefers to deal with things directly and scorns detours above all else. Besides, he may be subconsciously resisting the idea that the two of us would...”
 
-"Betrayal?" Meng Kongchan's expression became somewhat heavy.
+He paused for a long time before saying the damning word, “... Betray his trust.”
 
-He wanted to say that feelings between a man and a woman are difficult to control and shouldn't be bound by a few words, especially since Hua Caili never had romantic feelings for Dian Jiuzhi... But if he switched roles, if he were Dian Luohou and Meng Jianyuan were Dian Jiuzhi, could he truly accept it calmly, without any resentment?
+“Betrayal, huh?” Meng Kongchan’s expression grew severe as well.
 
-He couldn't.
+He wanted to say that the love between a man and a woman was never a controllable thing, and that it definitely wasn’t something that could be bound by mere words. On top of that, Hua Caili had never thought of Dian Jiuzhi that way... but really, if he were to put himself in Dian Rahu’s shoes, and if Dian Jiuzhi had been Meng Jianyuan, could he really, wholeheartedly, accept this outcome?
 
-And the marriage contract between Hua Caili and Dian Jiuzhi was something Hua Fuchen had actively promoted... The pressure he was under was undoubtedly far greater than Meng Kongchan's.
+No, he couldn’t.
 
-"When the time comes, I will go to Senluo alone," Hua Fuchen said calmly, clearly having thought about it. "I will speak frankly."
+As if that wasn’t enough, Hua Fuchen was the one who requested the engagement between Hua Caili and Dian Jiuzhi... Naturally, the mental burden he was facing was far greater than Meng Kongchan’s.
 
-Meng Kongchan said, "I will go with you."
+“When the time comes, I will head to Boundless alone.” Hua Fuchen said with a calmness that meant that he had thought this through over and over again. “I will tell him the truth directly.”
 
-"No," Hua Fuchen refused. "If the two of us go together, Old Dian's emotions will only worsen. Don't worry, I have a plan. The best outcome is that Old Dian goes to the Pure Land with me and we jointly request the Abyss Emperor to dissolve the marriage contract. The worst outcome... I am also prepared for that. After my matter is settled, it will be your turn."
+Meng Kongchan said, “I’ll come with you.”
 
-Meng Kongchan thought for a moment, nodded slightly, and then let out a heavy sigh. "No matter what, we have wronged Old Dian."
+“No,” Hua Fuchen rejected him. “If we head there together, Old Dian will only feel worse. Don’t worry. I have already thought things through. Best case scenario, Old Dian and I will head to the Pure and together and request the Abyssal Monarch to cancel our engagement. Worst case scenario... I am prepared for that as well. In any case, it is not your turn until mine is done and over with.”
 
-Both of them knew very well that after everything was revealed, no matter what happened to their relationship, it could never return to how it was in the past.
+Meng Kongchan thought for a moment and nodded. Then, he let out a heavy sigh. “No matter what happens, it doesn’t change the fact that we have let down Old Dian.”
 
-"Caili, how many soul stars that I left you do you have left? Or did you use them all long ago?"
+They both knew that, when the ugly truth was finally unveiled in full, their relationship would never be the same again.
 
-"Actually, I haven't used a single soul star."
+“How many soul stars do you have left, Caili? Have you used them all already?”
 
-"Huh? Does that mean... you actually didn't miss me that much?"
+“To be honest, I did not use a single star.”
 
-"That's not it. These past three years, although I've been in the sword array, every sword shadow I've wielded reflected your image. When I closed my eyes, my mind was filled with different images of you. So, even without the soul stars, I could always feel your companionship."
+“Huh? Does that mean... you don’t really miss me?”
 
-"And these soul stars, each one carries a part of your soul. Even if it's just a little bit, I couldn't bear to let them dissipate."
+“Of course not. Although I’ve been stuck inside the sword formation for the past three years, I see you every time I swing my sword. When I close my eyes, all that appears in my heart are your many expressions. Therefore, I feel that you’re with me even without your soul stars.”
 
-The scalps of the two God Venerables simultaneously tingled with an unbearable numbness.
+“Moreover, every single star contains a bit of your soul. They may be insignificant, but I am still unwilling to let them disappear.”
 
-Their toes even unconsciously wanted to dig into the ground.
+The two Divine Regents felt their scalps turning unbearably numb at the same time.
 
-"The thing you have tied on your hand... is it the cloth strip I left behind before?"
+Their toes desired nothing more than to dig a hole in the floor.
 
-"That's right! This is the first... gift you ever gave me. Of course, I have to treasure it."
+“That cloth on your arm... is that the belt I left behind for you?”
 
-"But such a crude cloth strip really doesn't suit you..."
+“Yep! It’s the first... gift you gave me. Of course I’m going to treasure it.”
 
-"Hmph! You have the nerve to say that! What 'meeting is the best fortune, why brew longing...' I'm going to keep it with me all the time, to always remind you of the bad thing you did back then, hmph!"
+“But... you deserve better than such a shabby belt...”
 
-"I've already promised you hundreds of times... Alright, alright, I'll promise my Caili one more time..."
+“Hmph! Says the guy who left behind the message that says, ‘Our meeting is already the best possible outcome. Why should our fond memories become a permanent scar?’... This is why I’m going to wear it forever! I’ll forever remind you about the crime you committed against me! Hmph!”
 
-The two God Venerables simultaneously inhaled, then exhaled deeply.
+“I already promised you a couple hundred times that I won’t leave you... fine, I’ll swear it again, my dear Caili...”
 
-Having completed the same action in perfect synchrony, they looked at each other, understanding each other perfectly.
+Both Divine Regents inhaled and exhaled at the exact same time.
 
-"God Venerable Wumeng, let's leave it at that for today," Hua Fuchen said loudly, his voice penetrating the barrier, clear enough for even those outside to hear.
+After the unrehearsed but perfectly identical reaction, they exchanged a glance with each other and nodded.
 
-Meng Kongchan similarly said loudly, "This conversation with God Venerable Huaxin has been enlightening. For this Pure Land meeting, we await the world-dazzling sword prowess of the Zhetian lineage."
+“Dreamless Divine Regent, I guess this is where we leave off our discussion,” Hua Fuchen said loudly, his voice penetrating the barrier so that everyone outside could hear his words.
 
-Yun Che and Hua Caili were simultaneously separated by the power of the two God Venerables. The barrier dissipated, and the two God Venerables each took their children back to their respective ships, completely ignoring the reluctance of the two juniors.
+Meng Kongchan responded just as loudly, “A meeting with you is always enlightening, Heart Painter Divine Regent. I look forward to the Heaven Breaker’s illuminating radiance during the Pure Land Meet.”
 
-"Father is really something."
+At the same time, the power of two Divine Regents forcefully separated Yun Che and Hua Caili from each other. The barrier disintegrated, and they both returned to their ships with their children proverbially tucked under their elbows without a care for their longing and misery.
 
-Back beside her aunt, Hua Caili was still full of resentment, her beautiful eyes frequently turning to the already distant Zhìmeng Divine Ship.
+“Father is terrible.”
 
-Hua Qingying said softly, "Life is long. There is no need to indulge in temporary pleasures. The obstacles between you and Yun Che are gradually weakening. More importantly, your heart is only for him, and his heart is only for you. This is already better than the many fickle, false, negative, indifferent, and infatuated yet unattainable feelings in the world."
+Hua Caili’s resentment did not end even after she had returned to her aunt’s side. Her eyes kept straying to the departing Dreamweaver Divine Ship as she spoke.
 
-"Once all obstacles are removed and you are married, you can be together for tens of thousands of years without anyone stopping you."
+Hua Qingying whispered, “Life is long. There is no need to indulge in a moment’s happiness when the resistance stopping your union is slowly but surely weakening. What’s most important is that your heart only has him, and his heart only has you. This alone puts the two of you far ahead of the fickle ones, the false ones, the betrayers, the indifferent ones, and those who love but could never obtain it.”
 
-The word "marriage" was too beautiful for Hua Caili at this moment. It drifted from Hua Qingying's lips into her heart and lingered there for a long time.
+“When all of the obstacles are gone, and your love is sealed by marriage, you may stick to him for tens of thousands of years like glue, and no one will try to stop you.”
 
-She leaned against Hua Qingying, her hands cupping her fragrant cheeks. Lost in thought, her cheeks gradually turned pink, and she smiled softly.
+The word “marriage” was too much for Hua Caili right now. As soon as the word floated out of Hua Qingying’s mouth, it sat inside her heart and refused to fade.
 
-The young girl's tender thoughts seemed to touch Hua Qingying. Looking at the girl's increasingly infatuated eyes, the corners of her lips also moved, ever so slightly, for a fleeting moment.
+Hua Caili sat beside Hua Qingying with her hands cupping her cheeks, seemingly thinking about something. Over time, her cheeks grew rosier, and a small smile spread across her face.
 
-Wanxin, their beginning filled me with deep worry... But fortunately, your daughter has finally escaped the trials and tribulations you suffered.
+The young woman’s yearning seemed to touch Hua Qingying. As she stared at her niece’s increasingly unfocused eyes, the corner of her lips curled up just a little without her noticing.
 
-Perhaps the heavens want to bestow upon your daughter all the blessings they owed you... She and Yun Che will surely be safe and harmonious, and they will surely make up for the regrets you and your brother had, many times over.
+Wanxing, I was deeply worried about their beginning... but thank goodness your daughter ultimately steered away from the tragedy and hardships you faced back then.
 
-The speed of the Zhìmeng Divine Ship began to slow down.
+Perhaps the heavens are planning to bestow all the blessings they owed you to your daughter instead... She and Yun Che will be safe and sound. They will make up for you and brother’s loss ten thousand times over.
 
-And the concentration of Abyss Dust suddenly decreased dramatically.
+The Dreamweaver Divine Ship began to slow down.
 
-Not only the Abyss Dust, but even the elements quickly became exceptionally pure. Gradually, for the first time since falling into the abyss, Yun Che smelled a sense of freshness in the air of this world.
+The concentration of abyssal dust in the air began decreasing at an astonishing rate as well.
 
-Yun Che opened his eyes, stood up, and looked into the distance... It seemed that the Pure Land was near.
+It wasn’t just abyssal dust either. Even the elements had become extraordinarily pure. Over time, since the first day he fell into the Abyss, Yun Che felt as if the air was refreshing.
 
-The presence of Abyss Dust made visibility in the abyss world very low. To Yun Che's surprise, he saw a huge black mark rising vertically from the ground below, piercing straight through the sky.
+Yun Che opened his eyes and gazed toward the horizon... it looked like the Pure Land was near.
 
-And that sky was not stained with gray, it was pure to the point of being almost luxurious, almost illusory.
+Inside the Abyss, visibility was always poor due to the existence of abyssal dust. But now, Yun Che could see a gigantic black scar reaching out from the earth and pushing all the way through to the sky.
 
-As the Zhìmeng Divine Ship approached, the black mark rapidly magnified in his vision, from a few miles to tens of miles, then to hundreds of miles... And it was at this moment that it finally revealed its true appearance in Yun Che's vision.
+The sky was untainted by grayness or darkness. It was so pure that it was almost luxurious and illusory.
 
-It was actually a gigantic tower reaching the sky.
+As the Dreamweaver Divine Ship got closer, the black scar rapidly grew in size. In his vision, it stretched from several kilometers to a dozen kilometers, then a dozen kilometers to several dozen kilometers... it was only then Yun Che finally realized what it was.
 
-"God Child Xi," Yun Che asked with a frown, "The Pure Land... could it be on top of this tall tower?"
+It was a gigantic tower that connected the sky and the earth.
 
-"Of course," Meng Jianxi said with a strange look. "Brother Yuan didn't know?"
+“Divine Son Xi,” Yun Che asked with a frown, “Does the Pure Land... exist atop this tower?”
 
-Yun Che shrugged. "I always knew that the Supreme Pure Land² was suspended high in the sky, so I naturally assumed it was a floating divine land. I never imagined it was actually on top of a sky-reaching tower."
+“Of course.” Meng Jianxi shot him a strange look. “You don’t know?”
 
-Meng Jianxi also laughed. "It's only natural for Brother Yuan to think so, having never been to the Pure Land. This tower has existed since the beginning of the Abyss Emperor's creation of the world. It is said that the Abyss Emperor built it with his own hands. And it is this tower that has always held the Pure Land high in the sky, looking down upon all worlds."
+Yun Che shrugged. “As far as I know, the Pure Land is suspended above the sky. So, I have always imagined it as a floating paradise. I did not think that it existed atop a tower.”
 
-Yun Che naturally asked, "Even if the Pure Land is large, with its resources and the abilities of the divine officials, it should be easy for it to float eternally. Why is this tower needed?"
+Meng Jianxi smiled. “You’ve never visited the Pure Land before, so it makes sense that you would have such a misconception. This tower has existed since the day the Abyssal Monarch created the world. It is said that the Abyssal Monarch built it with his own two hands. This is the tower that lifts the Pure Land into the tall sky so it may look down upon the entire Abyss.”
 
-Meng Jianxi said, "Does Brother Yuan also want to ask what exists within this giant tower?"
+Yun Che asked a natural question, “No matter how big the Pure Land is, it should be easy to make the Pure Land float permanently in the sky considering their resources and the High Priests’ power. Why do they need this tower?”
+
+Meng Jianxi asked, “Are you trying to ask what exists within this tower, Brother Yuan?”
 
 Yun Che nodded.
 
-"Hahaha," Meng Jianxi laughed. "Actually, I've asked my father these questions before, and my father's answer has always been 'I don't know, and there's no need to know.' After all, it is the Pure Land."
+“Hahaha.” Meng Jianxi laughed. “To be honest with you, I have asked Father that exact question many times. Unfortunately, his answer has never changed, ‘I don’t know, and there is no need to know.’ It is the Pure Land.”
 
-"I understand," Yun Che smiled and nodded, no longer asking.
+“I understand.” Yun Che nodded smilingly and stopped asking.
 
-Floating cities, not to mention in the God Realm, even the lower realms he came from could achieve this. He really hadn't expected that the Pure Land, existing high in the sky, was not floating above the world but was supported by a tall tower.
+Forget the God Realm, even the lower realm where he was born possessed the power to float a city. That was why he never expected the legendary Pure Land to exist on top of a tower when it could simply float eternally in the sky.
 
-Without a doubt... it was extremely incongruous.
+Something was clearly incongruous about this.
 
-"This tower is called the Nameless Tower," Meng Jianxi said, looking into the distance. "Literally. This tall tower has no name. Because the Abyss Emperor never named it. And as a tower built by the Abyss Emperor himself, naturally no one below the Abyss Emperor has the right to name it. So it has always been called the 'Nameless Tower'."
+“This tower is called the Nameless Tower,” Meng Jianxi said while staring ahead. “It’s what it sounds like. This tower doesn’t have a name because the Abyssal Monarch has never named it. Since it was built by the Abyssal Monarch’s own hands, no one has the right to name it either. That is why it's called the ‘Nameless Tower.’”
 
-The Pure Land was getting closer, and the sky and atmosphere were becoming increasingly pure. Gradually, the surroundings began to take on a kind of white vastness that seemed out of place in this world. Within the white glow, faint hints of golden light could be seen.
+As they got closer to the Pure Land, both the sky and the ambient air became increasingly pure. Gradually, the space in front of them began to exude a white light that should not belong in this world at all. A hint of bright gold was mixed within the white as well.
 
-Finally, the Zhìmeng Divine Ship stopped.
+Finally, the Dreamweaver Divine Ship came to a stop.
 
-In front of them, three men in brocade clothes stood side by side.
+Three men wearing silken robes stepped forward at the same time.
 
-"We respectfully welcome God Venerable Wumeng. Welcome, esteemed guests from the Zhìmeng Divine Kingdom. We have been waiting for a long time. Please enter the Pure Land as our guests."
+“Welcome, Dreamless Divine Regent. Welcome, honored guests from the Dreamweaver Kingdom of God. We have been waiting for you. Welcome to the Pure Land.”
 
-The three bowed in salute. Being close to the Pure Land, even in the face of a God Venerable from a Divine Kingdom, they were neither servile nor overbearing.
+The three men bowed, though they were neither obsequious nor supercilious even before a Divine Regent.
 
-"Thank you," Meng Kongchan nodded faintly and stepped forward. "Your Highness, please."
+“Thank you for your service.” Meng Cangji nodded lightly before taking the lead. “This way please, supreme one.”
 
-Stepping out of the Zhìmeng Divine Ship, in front of them was a huge light barrier.
+After they exited the Dreamweaver Divine Ship, they were met with a gigantic light barrier.
 
-Beyond the light barrier was the most revered and exalted place in this world, the Supreme Pure Land in the mouths of the people.
-
-AI Translation Notes:
-1:
-Brahma Sound Stone (梵音石, Fànyīn shí): A fictional stone in this novel, likely inspired by Buddhist prayer beads or similar items used in meditation. The "Brahma sound" refers to the sacred sounds or chants associated with Brahma, a creator god in Hinduism, often linked to Buddhism in Chinese culture.
-
-2:
-Supreme Pure Land (无上净土, Wúshàng Jìngtǔ): This term is likely inspired by the Buddhist concept of "Pure Land" (净土, Jìngtǔ), a realm of bliss and enlightenment. The addition of "Supreme" (无上, Wúshàng) emphasizes its elevated status in this fictional world
+Behind the light barrier was the most venerated and lofty place of the entire Abyss, the place they called the Pure Land.

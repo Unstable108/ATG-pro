@@ -1,384 +1,207 @@
 ---
 chapterNumber: 2124
-title: "Wu Yi's Resolute Determination"
-publishedAt: "2025-11-20"
+title: "Wuyi’s Resolve"
+publishedAt: "2025-11-22"
 ---
 
-A Divine Venerable¹ is so powerful that all living beings under their command are like insignificant ants. Yet, matching their immense power are their supreme majesty, status, and dignity. They would never condescend to easily strike down a weakling, much less tarnish their divine name for the sake of one.
+A Divine Regent was powerful, commanding all living beings like ants beneath their palm. However, they were coupled with equally powerful dignity, status, and bearing. Barring exceptional circumstances, they would never demean themselves by attacking a weakling, much less stain their divine name for a weakling.
 
-But what if that Divine Venerable was a madwoman?
+That was only if the Divine Regent wasn’t crazy, though. Having received all the warnings he received, not to mention that he was alone right now, Yun Che wasn’t going to cause unnecessary trouble right now. So, he stopped in his tracks and slowly withdrew his aura.
 
-With the warning still ringing in his ears, Yun Che², who was alone at the moment, naturally did not wish to stir up trouble. He halted his steps, slowly retracting even his aura.
+This soul-stunning pressure that stood out among all the Kingdoms of God alone was proof of the Eternal Night Kingdom of God’s infamy. It wasn’t until the group of women was completely out of sight that Yun Che finally let out a small sigh of relief and continued along his original way.
 
-This soul-shaking aura³, distinct from that of other divine realms, was enough to reveal the notorious reputation of the Eternal Night Divine Realm⁴.
+When the people of the other five Kingdoms of God set foot on the Pure Land, they were usually half parts respectful and half parts excited. However, the atmosphere of the Eternal Night Kingdom of God was completely different. The group of hundreds carried themselves in a uniform manner and firmly kept their auras in check. Even those who came to the Pure Land for the first time looked nowhere but straight ahead; as if they did not carry even an ounce of the natural excitement or curiosity all other profound practitioners possessed. Even their footsteps were infused with puzzling slowness and caution as if one misstep would plunge them into a bottomless abyss of no return.
 
-Only after they had gone far, completely vanishing from sight, did Yun Che let out a slight breath before continuing in his original direction.
+The extreme silence and oppressiveness they exuded were positively stifling. Even the cool breeze of the Pure Land could not dispel it.
 
-People from the other five divine realms generally stepped into the Pure Land⁵ with a mix of reverence and excitement.
+At the center of the group was a palanquin that had fallen out of usage in the other Kingdoms of God long ago. It was a vehicle that could only be found in a small country of a low-level Land of the Living, and only rarely. All four sides of the palanquin were covered by pitch-black curtains that prevented anyone from looking inside. However, it could not cut off the icy, soul-chilling divine pressure emanating from behind the curtains. If someone were to remove the curtains, they would still find a black veil preventing them from catching even a glimpse of the passenger’s face.
 
-However, the atmosphere of the Eternal Night Divine Realm was entirely different.
+Shenwu Yanye, the Lightless Divine Regent. Too many years had passed since she revealed her true appearance to anyone. No one was foolish enough to probe the true countenance hidden behind the black curtains either.
 
-A group of a hundred people, all stood in perfect formation, their auras contained. Even those among them who were visiting the Pure Land for the first time kept their eyes straight ahead, showing none of the excitement or curiosity naturally displayed by profound practitioners⁶ from other realms.
+Sha Xing and Pan Buwang were currently gazing at the formation from far, far away. Despite the distance, they were unconsciously holding their breath.
 
-Even their footsteps carried an inexplicable lightness and caution, as if a single misstep would send them plummeting into an abyss of eternal damnation.
+If he had a run-in with any other Divine Regent, Sha Xing would have taken the initiative to greet them. It was his duty as a Star Divine Son. Not so for the Eternal Night Kingdom of God. He stayed far away from them like they were plagued.
 
-The extreme silence and oppressive atmosphere made it almost impossible to breathe, a feeling that even the gentle breeze of the Pure Land could not dispel.
+The warning he received as the Star Divine Son was no different from Yun Che’s: Do not make contact with the Eternal Night Kingdom of God. So, it wasn’t until the formation was far away that he finally turned around. He looked at Pan Buwang for a long time before saying in a meaningful tone, “Your growth in recent years is truly astonishing, Brother Buwang.”
 
-Amidst them, surrounded by the group, was a sedan chair⁷, a sight long extinct in other divine realms, only occasionally found in smaller, lower-tier lands.
+Earlier, when Pan Buwang first heard the name “Eternal Night Kingdom of God”, the bloodthirst he exuded was so intense it was shocking. But when the formation was within sight, his expression was indifferent and calm, and the stunning hatred that had seeped into every bit of his marrow did not leak even a little.
 
-The dark drapes hanging on all four sides completely obscured the figure within the sedan chair, yet they could not block the chilling divine pressure that made one's soul tremble.
+Eyes glued to the direction the Eternal Night Kingdom of God formation had disappeared in, Pan Buwang said indifferently, “My will does not stray[1], my hatred is not forgotten.”
 
-Even if the drapes of the sedan chair were lifted, one would still only see a veiled black curtain.
+Sha Xing stared at him for a while longer before exhaling slightly. “I’ll be frank with you, Brother Buwang. You are more of an enigma now than when you were still the Divine Son. Before this, I was hoping to find out why you must come to the Pure Land ‘no matter the cost’, but now I’m actually worried about what you have planned.”
 
-Divine Venerable Wu Ming⁸, Shen Wu Yan Ye⁹, had not shown her true face to anyone for too many years.
+Pan Buwang withdrew his gaze and replied, “I wasn’t expecting to find the one person in the world who still cared about my welfare after I was stripped of my title.”
 
-And no one would ever dare to probe the true appearance of the Divine Venerable beneath that black veil.
+It was impossible to distinguish the emotions behind this sentence, and so it was impossible to tell if he was confessing his sorrows or expressing relief toward Sha Xing’s concern.
 
-Sha Xing¹⁰ and Pan Bu Wang¹¹ watched from afar, unconsciously holding their breath. If they were to encounter Divine Venerables from other divine realms, Sha Xing, as a Star God Child¹², would certainly go forward to pay his respects.
+Sha Xing smiled and said sincerely, “We are friends. What does our bond have to do with our status and identity?”
 
-Only with the Eternal Night Divine Realm did he keep his distance. The instructions he received as a Star God Child were also to avoid close contact.
+“Mm. Friends.” Pan Buwang also smiled and naturally shifted his gaze away from the Star Divine Son.
 
-After the Eternal Night Divine Realm group had moved far away, Sha Xing finally turned his head, his gaze lingering on Pan Bu Wang for a while before he said with deep meaning, "Elder Brother Bu Wang, your growth over these years is truly astonishing."
+At this time, Sha Xing could not understand the complex meaning hidden behind the smile.
 
-Just now, upon hearing the name "Eternal Night Divine Realm," the killing intent he exuded was startlingly strong. But now, as they drew near, his expression was indifferent and calm. The hatred and killing intent, clearly profound to his very bones, did not show even a trace outwardly.
+“The woman flying next to the Lightless Divine Regent’s palanquin is probably the new and mysterious Eternal Night Divine Daughter, Shenwu Yi. Unfortunately, she is too far away and wearing a black veil. There is no way to glimpse her true countenance.”
 
-Pan Bu Wang's gaze followed the direction the Eternal Night Divine Realm had taken, and he said faintly, "My intentions are not reckless, my hatred is not forgotten¹³."
+“That said, the audience with the Abyssal Monarch is near. When the time comes, the Divine Daughter whom the Lightless Divine Regent has hidden for so many years will reveal her true appearance. I look forward to it.”
 
-Sha Xing stared at him for another moment, then let out a slight breath: "Elder Brother Bu Wang, frankly, now that you are no longer a God Child, I find myself unable to understand you. I was originally very much looking forward to the purpose of your 'no-holds-barred' journey to the Pure Land this time, but now, I'm actually a little worried."
+Shenwu Yi’s appearance marked the death of Shenwu Qing. So, Sha Xing thought that Pan Buwang would grow agitated after hearing his words. But to his surprise, Pan Buwang’s expression and aura were utterly unmoved. It was like a pool of dead water that refused to budge.
 
-Pan Bu Wang withdrew his gaze: "I didn't expect that after being stripped of my God Child title, there would still be someone in this world who would genuinely worry about me."
+Sha Xing could not help but frown a little. To have changed so much... Just what on earth did Pan Buwang go through after he left the Owl Butterfly Kingdom of God and spent three years in the Endless Fog?
 
-It was hard to discern the emotion in his words... whether he was expressing sorrow or relief.
+“To break off from one’s heart abyss, one must face the heart abyss head-on. The reason I desire to travel to the Pure Land is because of him.”
 
-Sha Xing smiled, saying sincerely, "We are friends, regardless of status."
+Sha Xing recalled Pan Buwang’s words even as his curiosity and anticipation, worry and unease grew silently in his heart.
 
-"Mm, friends."
+The pitch black palanquin came to a stop, and the entourage of hundreds rose to their feet uniformly. They did not elicit a single sound.
 
-Pan Bu Wang also smiled, his gaze naturally shifting away.
+A hoarse, raspy voice slithered out of the palanquin, stabbing and cutting everyone’s eardrums, heart, and soul.
 
-However, at this moment, Sha Xing could not comprehend the complex, profound meaning hidden within his smile.
+Shenwu Yi stepped forward and performed a respectful salute. “What are your orders, Mother?”
 
-"The woman beside Divine Venerable Wu Ming's sedan chair should be the rather mysterious new Eternal Night Divine Maiden¹⁴, Shen Wu Yi¹⁵. It's a pity she's too far away, and her face is covered by a black veil, so I couldn't glimpse her true appearance."
+“Now that the Pure Land is beneath your feet, tell me again why you have come to the Pure Land!”
 
-"However, the time to meet the Abyss Emperor¹⁶ is approaching. This new Divine Maiden, whom Divine Venerable Wu Ming has deliberately hidden for many years, will soon reveal her true form. It's quite anticipated."
+Her jade-like countenance half-concealed by her veil, Shenwu Yi lifted her eyes and declared firmly, “To trample over all Divine Sons!”
 
-Shen Wu Yi's appearance was accompanied by the demise of Shen Wu Qing¹⁷.
+This was the first Pure Land Meet after an abyssal passage was successfully created. It must be meaningful beyond imagination. As the prelude to the legend of the “Eternal Pure Land”, it could very well decide the trajectory of the fate of the Abyss. Naturally, all the Kingdoms of God were looking forward to this meeting...
 
-After saying these words, Sha Xing had expected Pan Bu Wang to be deeply agitated.
+... All, except the Eternal Night Kingdom of God.
 
-But to his surprise, Pan Bu Wang, from his expression to his aura, remained utterly still and calm, like stagnant water.
+The reason was simple. It was because Shenwu Yanye was a Divine Regent whose behavior and conduct could not be fathomed or predicted by her title, or otherwise. In the eyes of the other Divine Regents, she was closer to a madwoman who had completely lost her mind than a Divine Regent.
 
-Sha Xing frowned slightly... What exactly had Pan Bu Wang experienced during these three years since he left the Owl Butterfly Divine Realm¹⁸ and hid in the Mist Sea¹⁹? His state of mind had changed so drastically.
+The Lightless Divine Regent’s soul-shaking voice came once more. “From the day I changed the kingdom’s name to Eternal Night, the other five Kingdoms of God have isolated us. They address me as Lightless Divine Regent, but they really look down on me, scorn me, call me mad, and shun me like vermin. All men in this world, be it Divine Regents or Divine Sons—their flesh and blood, their lips and tongues, and even their souls—are filthy beyond imagination; so hypocritical and cheap that you can’t help but throw up!”
 
-"To truly escape the abyss of the heart, one must face it directly. My desire to go to the Pure Land this time is because of the Mist Emperor's²⁰ words."
+Her voice only grew raspier and more heart-rending as she spoke.
 
-Recalling Pan Bu Wang's past words, Sha Xing's curiosity, anticipation, worry, and unease all quietly magnified at the same time.
+“Wuyi, today is the reason I spent twenty years nurturing you regardless of the cost!”
 
-The dark sedan chair stopped there, and the hundred accompanying individuals all stood neatly, not making a single sound.
+“In this Pure Land Meet on this so-called highest land, you will rip off all the faces of the Divine Sons; trample all over their dignity until not one speck is left! You will straighten the ugly faces of the filthy idiots who look down upon my Eternal Night Kingdom of God from their high pedestals and witness just how cheap they truly are!”
 
-"Wu Yi."
+She didn’t just want Shenwu Yi to defeat her opponents; she wanted her to crush, trample, and humiliate them utterly. If a member of another Kingdom of God were to hear this, they would be astonished and horrified beyond measure.
 
-A hoarse, obscure voice emerged from the sedan chair, cutting into everyone's eardrums and souls.
+Shenwu Yi had gotten used to this long ago. Expression unperturbed and voice weighed by flawless determination and unhesitating confidence, she declared, “Pan Buzhuo of Owl Butterfly, Meng Jianxi of Dreamweaver, Xing Xuanyue of Star and Moon, Dian Jiuzhi of Boundless... Wuyi will make sure to trample over all of them!”
 
-Shen Wu Yi stepped forward, bowing respectfully: "I await Mother Goddess's²¹ command."
+“When today is done, there won’t ever be a ‘number one Divine Son’ ever again! There will only be Wuyi, the name that Mother bestowed and tramples over all Divine Sons!”
 
-"Now, the Pure Land is beneath your feet. Tell this Venerable again, what is your purpose in coming to the Pure Land this time!"
+The icy, terrifying voice of a god came from the palanquin like the groan of hell, “Failure will not be tolerated.”
 
-Shen Wu Yi looked up, her jade-like face²² half-hidden, her words resolute: "To crush all God Children!"
+Shenwu Yi bowed her head and said softly, “I will tolerate failure less, Mother.”
 
-This was the first Pure Land gathering after successfully opening the Abyss Passage²³, its significance undoubtedly extraordinary. It would likely directly determine the future direction of the Abyss World, serving as a prelude to entering the legendary "Eternal Pure Land²⁴."
+“Very good.” The two low, raspy words sounded uncaring, but it was really the highest praise the Lightless Divine Regent could give anyone.
 
-All the divine realms harbored the same hope... except for the Eternal Night Divine Realm.
+In front of the palanquin, Shenwu Youluan and Shenwu Mingque exchanged a secret look with each other before hiding their worry and anxiety the next instant. However, none dared to cast their gaze in Shenwu Yi’s direction.
 
-Because Shen Wu Yan Ye was a Divine Venerable whose thoughts and actions could absolutely not be judged by the term "Divine Venerable." In the eyes of other Divine Venerables, she was more like a completely deranged and disgraced madwoman.
+When would the Kingdom of God of eternal night finally welcome dawn?
 
-Divine Venerable Wu Ming's soul-shaking voice rang out again: "Since this Venerable changed the realm's name to Eternal Night, my Eternal Night Divine Realm has existed in isolation from the other five divine realms²⁵. They call me Divine Venerable Wu Ming, but in reality, they despise me, mock me, laugh at my madness and obsession, and shun me as if I were a viper. The men of this world, even Divine Venerables and God Children, their flesh and blood, their lips and tongues, their souls, are all utterly filthy, hypocritical, and despicable to the point of being nauseating!"
+Dian Jiuzhi was currently seated on the floor with his eyes closed. He was not surrounded by profound qi.
 
-Her voice grew hoarser, and more heart-wrenching.
+On the surface, he looked calm and collected. Only the occasional twitching of his eyebrows showed that he was nowhere as calm as he projected.
 
-"Wu Yi, this Venerable spared no resources or cost to cultivate you for twenty years, all for today!"
+A silver barrier was isolating this place. Only Dian Sansi was accompanying him. However, Dian Sansi was nowhere near as quiet as Dian Jiuzhi. He was constantly pacing back and forth with twitching, spasming features. Sometimes, he would stop and calm his breath by force, but the irritation brewing within was only growing increasingly out of control.
 
-"At today's Pure Land gathering, you must tear off the masks of all God Children in this so-called supreme place, utterly crush their dignity, and make these filthy fools who deem themselves superior and despise my Eternal Night Divine Realm properly straighten their faces and see their own baseness."
+It was at this moment that the cry, “Divine Regent!” came from outside the barrier. Dian Sansi skidded to a stop, and a kaleidoscope of emotions boiled behind his eyes for a moment. Then, he clenched his teeth and charged toward the exit.
 
-She did not want defeat; she wanted complete crushing, trampling, and humiliation.
+A hand appeared from behind and caught his wrist in a vice grip. Dian Jiuzhi’s voice came next, “Are you really going to ignore my words and report to Father about this?”
 
-If people from other realms heard these words, they would undoubtedly be endlessly astonished and terrified.
+Dian Sansi spun around and stared at his brother with widened eyes. His voice tremored as he said, “Brother Jiuzhi, you are the number one Divine Son of the six Kingdoms of God. You are the future Divine Regent of the Boundless Kingdom of God and the person I admired and respected the most in my life... You do not deserve to tolerate such a terrible stain on your honor!”
 
-But Shen Wu Yi was long accustomed to it. Her expression was unperturbed, her voice carrying flawless resolve and unwavering indifference: "Pan Bu Zhuo²⁶ of Owl Butterfly Divine Realm, Meng Jian Xi²⁷ of Dream Weaving Divine Realm²⁸, Sha Xing Xian Yue²⁹ of Star Moon Divine Realm³⁰, Dian Jiu Zhi³¹ of Sen Luo Divine Realm³²... Wu Yi will step over all of them!"
+Dian Jiuzhi’s expression did not change as he said evenly, “This is my choice. You promised me, re—”
 
-"After today, there will be no more 'First God Child³³' in the world! Only the name 'Wu Yi' bestowed by Mother Goddess will forever reign supreme over all God Children!"
+“I DON’T UNDERSTAND!!”
 
-A cold, chilling divine sound, like a terrifying voice from the depths of hell, came from within the sedan chair: "This Venerable tolerates no failure."
+Dian Sansi had almost never interrupted Dian Jiuzhi in his entire life, much less with such force and volume. His eyes reddened a little as he uttered, “Father and the Heart Painter Divine Regent were the ones who encouraged the engagement between you and the Heaven Breaker Divine Daughter! The Abyssal Monarch himself even acknowledged it! So how could she... and how dare Meng Jianyuan...”
 
-Shen Wu Yi lowered her head and said softly, "Wu Yi will tolerate failure even less than Mother Goddess."
+His chest heaved visibly as his anger grew. “We are absolutely the ones in the right here! Why should you be the one to endure when they are the ones who have committed such an ugly affair?!”
 
-"Very good."
+“Sansi!” Dian Jiuzhi raised his voice slightly, and his profound sound entered Dian Sansi’s soul and scattered most of the irritation and anger boiling in his heart.
 
-The two obscure, low words were the highest praise Divine Venerable Wu Ming could give.
+Dian Jiuzhi let out a quiet sigh. He was the one who was enduring heart-wrenching pain and soul-piercing humiliation, and yet his voice was calm as a stream. “Do you still remember why Father bestowed you the name Sansi (Think Thrice)?”
 
-In front of the sedan chair, Shen Wu You Luan³⁴ and Shen Wu Ming Que³⁵ quietly exchanged glances, then quickly hid the apprehension and worry in their eyes. For a long time, they dared not look at Shen Wu Yi.
+The light in Dian Sansi’s eyes stilled, and his voice ultimately softened. “Of course I remember. I was born with more talent than most, and I became quite arrogant and impulsive because of it. As a result, I have committed countless mistakes, big and small, since I was young. That's why Father changed my name to Sansi. He permitted me to be impulsive in small matters, but demanded that I think thrice and practice self-restraint in big matters.”
 
-When would the eternal night that enveloped the divine realm finally welcome the dawn...?
+“Very good.”
 
-Dian Jiu Zhi sat on the ground, his eyes closed, no profound energy³⁶ circulating around him. His expression was elegant and unperturbed... only the occasional slight movement of his eyebrows revealed that his heart was far from as calm as it appeared.
+Dian Jiuzhi nodded lightly. “Now, I want you to think carefully. What would happen if you were to expose this matter?”
 
-A silver barrier isolated everything in this place. Only Dian San Si³⁷ stood guard nearby. However, he was far from as calm as Dian Jiu Zhi, pacing back and forth, his features sometimes twitching, sometimes forcibly calming, his brows showing increasingly uncontrolled irritation.
+“...” Dian Sansi was unable to answer immediately because his thoughts were still in chaos.
 
-A voice calling "Divine Venerable" sounded from outside the barrier. Dian San Si's steps faltered, his eyes shifting in confusion, then he gritted his teeth and rushed towards the outside of the barrier.
+Dian Jiuzhi continued, “Allow me to tell you. Among the six Kingdoms of God, Boundless, Heaven Breaker, and Dreamweaver are the closest. This bond originates from the friendship between Father, the Heart Painter Divine Regent, and the Dreamweaver Divine Regent, and it has remained unbreakable despite the passage of time and the burden of their titles.”
 
-A hand suddenly reached out and firmly locked his wrist. Dian Jiu Zhi's voice came from behind him: "Are you going to disregard my warning and tell Father God³⁸ about this!?"
+“So long as this bond still exists, if one Kingdom is in danger, the other two will lend them their unreserved aid. This is an invisible protection that the other three Kingdoms of God only wish they could obtain.”
 
-Dian San Si turned around, his eyes wide, his voice trembling slightly: "Elder Brother Jiu Zhi, you are the First God Child of the Six Divine Realms³⁹, the future Divine Venerable of my Sen Luo Divine Realm, the person I admire and respect most in my life... How can you endure such a monstrous humiliation!"
+“However...”
 
-Dian Jiu Zhi's expression remained calm, his voice unruffled: "This is my choice, and you just promised me..."
+Dian Jiuzhi’s voice grew heavy, and he shifted his gaze slightly. “If today’s matter were to be exposed—and during the Pure Land Meet no less—then this precious friendship would be broken in a single day... and this trust that our three kingdoms rely on would collapse irreversibly.”
 
-"I don't understand!" Dian San Si, rarely, forcefully interrupted Dian Jiu Zhi's words, his eyes slightly red: "Elder Brother Jiu Zhi's marriage to Zhe Tian Divine Maiden⁴⁰ was arranged by Father God and Divine Venerable Hua Xin⁴¹ together, and even personally approved by the Abyss Emperor. Why does she, Zhe Tian Divine Maiden... and what is that Meng Jian Yuan⁴²! How dare he... how could he..."
+“Even worse, our bond would become a laughingstock for god-knows-how-many-years.”
 
-His chest heaved, growing angrier as he spoke: "The right is on our side, the fault is his. They dared to commit such a disgraceful act, why must it be Elder Brother Jiu Zhi, why must it be us who endure it!!"
+Dian Sansi’s lips trembled, and his mind buzzed at just the mere thought of that future.
 
-"San Si!!"
+Despite knowing every sentence Dian Jiuzhi spoke was correct beyond measure, he still gritted his teeth and argued, “What about the Heaven Breaker Divine Daughter and Meng Jianyuan then? How could they... Why would they...”
 
-Dian Jiu Zhi let out a soft shout, his profound sound entering the soul⁴³ and dispelling most of the agitation in Dian San Si's eyes.
+Dian Jiuzhi raised a hand and patted Dian Sansi’s shoulder lightly. “Meng Jianyuan is two-sexagenary-years old and has just returned to the Dreamweaver Kingdom of God. Caili... in terms of worldliness, is not even half-a-sexagenary-years old. They are ultimately too young and inexperienced. Their understanding of the word ‘Kingdom of God’ is superficial at best. It's natural that the gaps in their cognition would lead to mistakes.”
 
-He sighed softly. Despite enduring heart-piercing pain and soul-gnawing humiliation, his voice was as gentle as a trickling stream: "Do you still remember why Father God bestowed upon you the name 'San Si'⁴⁴?"
+“However... They can afford to make mistakes, but I cannot...”
 
-Dian San Si's gaze steadied, his voice finally weakening: "How could I forget? Since childhood, I've been exceptionally talented, but also arrogant and impulsive, causing countless troubles, big and small. So Father God renamed me 'San Si,' allowing me to be bold and reckless in minor matters, but absolutely requiring me to think thrice and control myself in major affairs."
+“Brother Jiuzhi!”
 
-"Very good." Dian Jiu Zhi nodded gently: "Then think carefully now. If you expose this matter, what consequences will it bring?"
+Dian Sansi interrupted him once more and stared at Dian Jiuzhi’s seemingly calm expression. “If you really are holding yourself back for the greater cause, if what you say really comes from the heart, then why are you avoiding my eyes when you say all this?!”
 
-Dian San Si's thoughts were still chaotic, unable to answer immediately.
+Dian Jiuzhi’s lips moved, but this time he could not say anything.
 
-Dian Jiu Zhi continued: "Let me tell you. Among the Six Divine Realms, my Sen Luo, Zhe Tian, and Dream Weaving are the closest. This friendship between divine realms stems from the bond forged between Father God, Divine Venerable Hua Xin, and Divine Venerable Wu Meng⁴⁵ since childhood. This friendship has not been eroded by time or their respective titles as Divine Venerables; it has always remained unbreakable."
+Dian Sansi said, “I’m currently three-sexagenary-years old. I’m no longer the bull-headed child who requires your teaching in everything. On the contrary, I have never stopped chasing after your back my whole life, so I dare say that I understand you better than most.”
 
-"With the support of this friendship between Divine Venerables, if one realm were to truly face disaster one day, the other two would certainly lend their full support. This is an invisible blessing that the other three divine realms cannot envy."
+“You... are really doing this to protect the Heaven Breaker Divine Daughter, aren’t you?!” His words were slow and phrased as a question, yet infused with absolute conviction.
 
-"But..." Dian Jiu Zhi's voice grew heavy, and his gaze shifted slightly: "Once this matter is exposed, especially here in the Pure Land where all Six Divine Realms are gathered, the precious and strong friendship between the three divine realms will be severed overnight. The mutual support between the three divine realms will also collapse with a crash... a complete collapse."
+Dian Jiuzhi subconsciously shook his head and opened his mouth, but when his eyes met Dian Sansi’s, when he saw that more pain than anger in his brother’s eyes, whatever he was about to say became lodged in his throat. In the end, he smiled lightly and said, “You grew up before I knew it, Sansi.”
 
-"It might even become a laughingstock that will be recounted for countless years."
+This time, his smile was colored with undisguised bitterness. Dian Jiuzhi’s words more or less validated Dian Sansi’s accusation as well. However, Dian Sansi did not feel the slightest relaxation or relief. On the contrary, he felt more and more aggrieved, his hands clenching unconsciously.
 
-Dian San Si's lips trembled, his mind buzzing. He knew that every word Dian Jiu Zhi said was perfectly correct, yet he still retorted through gritted teeth: "Then what about Zhe Tian Divine Maiden and Meng Jian Yuan? Why did they dare... why did they..."
+Looking up at the sky, Dian Jiuzhi’s vision grew blurry before he knew it. He whispered, “She... can hurt me thousands... even tens of thousands of times, but I will never... ever... hurt her. Not even once.”
 
-Dian Jiu Zhi raised his hand and gently patted Dian San Si's shoulder: "Meng Jian Yuan is two jia zi⁴⁶ old this year and has just returned to the Dream Weaving Divine Realm. Cai Li⁴⁷... her true age in the world is still less than half a jia zi. They are ultimately too young, too inexperienced, and their understanding of the term 'divine realm' only scratches the surface. So they make mistakes due to a lack of understanding."
+Dian Sansi copied his gesture and responded in a tone full of puzzlement and confusion, “I don’t understand.”
 
-"But they can, and I cannot..."
+“You haven’t encountered your ‘Heaven Breaker Divine Daughter’ yet. Of course, you don’t understand.”
 
-"Elder Brother Jiu Zhi!"
+Dian Jiuzhi’s voice became as unclear as his gaze. “Do you still remember what I said to you at Ling Xian’s divine abode?”
 
-Dian San Si interrupted him again. He looked up, staring at Dian Jiu Zhi's seemingly calm face: "If your forbearance is truly for the greater good of the divine realm, if what you say is truly what you think in your heart, then why don't you dare to look me in the eye when you say these things!"
+It took him a while, but Dian Sansi ultimately nodded. “I remember. You said, ‘It’s not really good luck to be admired by someone. The great luck of a lifetime is finding someone you are willing to give up everything for.’”
 
-Dian Jiu Zhi's lips moved, but no sound came out.
+Dian Jiuzhi lowered his head so that Dian Sansi could clearly see the determination residing in his eyes. “I meant every word I said. She can hurt me ten times worse than this, and still I wouldn’t voice half a word of complaint. After all, she is not just a woman I fell in love with. She is also my idol, my savior, and my benefactor.”
 
-Dian San Si said: "I am already three jia zi old. I am no longer the naive child who needed Elder Brother Jiu Zhi's guidance in everything. On the contrary, my gaze and footsteps throughout my life have never stopped following Elder Brother Jiu Zhi. Therefore, I understand you better than most people."
+“Without her, I would not be standing before you, wearing the honor I am wearing today. I may have become a corpse in a pool of forgotten mud long ago.”
 
-"You... are actually protecting Zhe Tian Divine Maiden, aren't you?"
+“So... ignore the talk about the bigger picture. Can you do it for me, Sansi? For the sake of this immature brother of yours, can you please pretend that this matter does not exist until the Pure Land is behind us?”
 
-His words were slow, and though it was a question, each word was firm and undeniable.
+For the first time ever, Dian Jiuzhi looked at Dian Sansi with begging in his eyes. Dian Sansi hurriedly looked away because he could neither endure such a gaze nor say no after receiving it. They both knew all too well what Dian Rahu was like. He was fiery as fire and cherished comradeship and honor above all else. If he were to learn about this, his anger would surely paint even the skies of the Pure Land red.
 
-Dian Jiu Zhi subconsciously shook his head. He opened his mouth, but facing Dian San Si's gaze, which held more pain than anger, the words about to come out were stuck in his throat, then turned into a light smile: "San Si, unknowingly, you have grown up."
+“I... understand.”
 
-His smile carried an undisguised bitterness.
+Dian Sansi’s voice was pained not because the promise was difficult to give, but because he felt terribly, terribly sorry for Dian Jiuzhi. Everyone had their weaknesses, but he never knew that Dian Jiuzhi’s weakness went so deep that it was rooted in the deepest parts of his life vein and soul.
 
-Dian Jiu Zhi's words were undoubtedly an admission. However, Dian San Si's heart did not relax in the slightest; instead, it tightened even more, and his hands involuntarily clenched.
+“Allow me to give you another reason.”
 
-He looked up, his vision unconsciously blurring, and he murmured, "She... can hurt me a thousand times, ten thousand times, but I... will never, can never... will never hurt her once."
+He clapped Dian Sansi’s shoulder once more. He said in a gentle voice, “Although I am called the number one Divine Son of the six Kingdoms of God, everyone knows that the main reason is because I am backed by the strongest Kingdom of God, the Boundless Kingdom of God; that my Father is the number one Divine Regent of the six Kingdoms of God.” 𝒇𝓻𝓮𝓮𝙬𝙚𝒃𝒏𝓸𝙫𝒆𝙡.𝓬𝓸𝒎
 
-Dian San Si also looked up, his heart full of confusion and incomprehension: "I don't understand."
+“Even my so-called highest cultivation is also just the product of age.”
 
-"You haven't met your 'Zhe Tian Divine Maiden' yet, so of course you don't understand." Dian Jiu Zhi's voice became as blurry as his gaze: "Do you still remember what I told you in front of the Ling Xian Divine Abode⁴⁸?"
+“In terms of talent... forget Caili or Meng Jianyuan, both of which are perfect God Bearers, even you are far more talented than I was when I was your age.”
 
-After a brief moment of confusion, Dian San Si nodded: "I remember. Elder Brother Jiu Zhi said: 'Being admired is not fortune; finding someone for whom you are willing to give everything, that is the greatest fortune of a lifetime.'"
+Dian Sansi panicked and hurriedly said, “Do not say that, Brother Jiu Zhi! You possess the one and only Divine Vein of Great Rage in this world! You just started a little later than—”
 
-Dian Jiu Zhi's gaze returned, allowing Dian San Si to see the determination deep within his pupils: "These words are from the bottom of my heart. Even now, even if she hurts me ten times more, there is not a single word of reluctance. Because to me, she is not just someone I admire, but someone etched in my heart, my redeemer, my benefactor."
+“This is a fact. You do not need to argue on my behalf.”
 
-"Without her, I would never be able to stand here adorned with glory as I am now. Perhaps I would have long since died in a puddle of filth that no one would even glance at."
+Dian Jiuzhi smiled. “That is why I don’t dare to grow lax for even a moment. Every day, I am working to prove that I am deserving of my undeserved title. With such a heavy weight on my shoulders, I cannot bear to sustain damage in any form, be it physical, reputation, or dignity... Do you understand?”
 
-"So... San Si, putting aside the greater good of the divine realm, just for my sake, for the sake of this unworthy elder brother, temporarily forget this matter and deal with it slowly after we leave the Pure Land, okay?"
+“I understand.” This time, the words came out much easier than before.
 
-For the first time, Dian Jiu Zhi cast a pleading look at Dian San Si.
+Gritting his teeth and exhaling deeply, Dian Sansi gathered a sufficient amount of determination in his eyes and declared, “Brother Jiuzhi, I hereby swear to you that I will not tell anyone what happened today, including Father, before we leave the Pure... no! I won’t tell anyone unless you expressly give me permission. If I break this promise—”
 
-Dian San Si hastily averted his gaze. He could not bear such a look, nor could he utter words of refusal under such a gaze.
+“Sansi, thank you.”
 
-They both knew Dian Luo Hou's⁴⁹ temperament too well. He was as fiery as a raging inferno, valuing loyalty and integrity above all else. If he were to learn of this matter, even if they were in the Pure Land, he would surely rage to the heavens.
+Dian Jiuzhi smiled and said gratefully, “I am truly honored to have a younger brother like you.”
 
-"I... understand."
+It was at this moment that an unexpected voice came from outside, “Yun Che of Dreamweaver has come to pay a visit to the Boundless Divine Regent and the Boundless Divine Son. I humbly beg your forgiveness if my presence at this time is intrusive.”
 
-Dian San Si's voice carried pain, not from the difficulty of agreeing, but from a deep sorrow for Dian Jiu Zhi.
+The voice was gentle, refined, and harmless like the wind, and yet it struck both Dian Jiuzhi and Dian Sansi like lightning, freezing them in place.
 
-Everyone had a weakness, but Dian Jiu Zhi's weakness seemed to have deeply rooted itself in his very lifeblood and the deepest parts of his soul.
-
-"I'll give you another reason." He patted Dian San Si's shoulder again, his voice softening: "Although I am called the First God Child of the Six Divine Realms by the world, everyone actually knows that the main reason for this title is that I am backed by the most powerful Sen Luo Divine Realm, and my Father God is the First Divine Venerable of the Six Divine Realms."
-
-"And my so-called highest cultivation is merely a accumulation of age. In terms of talent... not to mention Cai Li and Meng Jian Yuan, who possess perfect divine cores, within the divine realm, you are far superior to me at the same age, by far."
-
-Dian San Si's heart fluttered, and he quickly said, "Elder Brother Jiu Zhi, please don't say that! You possess the Great Desolate Divine Veins⁵⁰, unique in this world; it's just that you started a little later..."
-
-"That's a fact, no need to argue for me." Dian Jiu Zhi smiled: "So over these years, to live up to this so-called 'First God Child' title, I have never dared to be negligent in the slightest, nor can I endure any external damage... including reputation, including dignity."
-
-"I understand." The same four words came out, much smoother than before.
-
-He gritted his teeth, let out a heavy breath, and gathered enough determination in his eyes: "Elder Brother Jiu Zhi, I promise you, before leaving the Pure Land... no!! Before I get your permission, I will never tell anyone about today's matter, including Father God. If I break this vow..."
-
-"San Si, thank you." Dian Jiu Zhi smiled, grateful: "Having you as a younger brother is another great fortune in my life."
-
-Just then, an unexpected voice came from outside:
-
-"Yun Che of Dream Weaving Divine Realm, specially comes to visit Divine Venerable Jue Luo⁵¹ and the Sen Luo God Child⁵²." If I have caused any disturbance, please forgive me."
-
-The voice was gentle and elegant, like a breeze brushing the ear, yet it made Dian Jiu Zhi and Dian San Si freeze as if struck by thunder.
-
-AI Translation Notes:
-1:
-Divine Venerable (神尊): A title for a powerful cultivator, often indicating a high level of spiritual attainment and authority within a divine realm.
-
-2:
-Yun Che (云澈): A proper name, romanized using Hanyu Pinyin without tone marks.
-
-3:
-Soul-shaking aura (骇魂气场): A powerful, intimidating spiritual presence that can deeply affect others.
-
-4:
-Eternal Night Divine Realm (永夜神国): The name of a specific divine realm, romanized using Hanyu Pinyin.
-
-5:
-Pure Land (净土): In this context, it refers to a sacred or highly revered place, often implying a place of peace or spiritual significance.
-
-6:
-Profound practitioner (玄者): A general term for someone who cultivates profound energy or profound arts, which are central to the power system in this fictional world.
-
-7:
-Sedan chair (步辇): A covered litter for one person, carried by two or more bearers. Historically used by royalty or high-ranking officials in China.
-
-8:
-Divine Venerable Wu Ming (无明神尊): A title followed by a proper name, romanized using Hanyu Pinyin. "Wu Ming" literally means "no light" or "ignorance."
-
-9:
-Shen Wu Yan Ye (神无厌夜): A proper name, romanized using Hanyu Pinyin.
-
-10:
-Sha Xing (刹星): A proper name, romanized using Hanyu Pinyin.
-
-11:
-Pan Bu Wang (槃不妄): A proper name, romanized using Hanyu Pinyin.
-
-12:
-God Child (神子): A title for a highly talented young individual, often implying a successor or a person of immense potential within a divine realm or sect.
-
-13:
-"My intentions are not reckless, my hatred is not forgotten" (意不妄,恨不忘): This is a wordplay on Pan Bu Wang's name (槃不妄, Pan Bu Wang), where "不妄" (bu wang) means "not reckless" or "not presumptuous," and "不忘" (bu wang) means "not forgotten." It reveals his deep-seated resolve and hidden animosity.
-
-14:
-Divine Maiden (神女): A title for a highly talented young female individual, often implying a successor or a person of immense potential within a divine realm or sect.
-
-15:
-Shen Wu Yi (神无忆): A proper name, romanized using Hanyu Pinyin. "Wu Yi" literally means "no memory."
-
-16:
-Abyss Emperor (渊皇): A title for the supreme ruler of the Abyss.
-
-17:
-Shen Wu Qing (神无情): A proper name, romanized using Hanyu Pinyin. "Wu Qing" literally means "heartless" or "unfeeling."
-
-18:
-Owl Butterfly Divine Realm (枭蝶神国): The name of a specific divine realm, romanized using Hanyu Pinyin.
-
-19:
-Mist Sea (雾海): A geographical location, romanized using Hanyu Pinyin.
-
-20:
-Mist Emperor (雾皇): A title for the ruler of the Mist Sea.
-
-21:
-Mother Goddess (母神): An honorific title used by Shen Wu Yi for Divine Venerable Wu Ming.
-
-22:
-Jade-like face (玉颜): A common Chinese literary expression to describe a beautiful face, often implying fairness and smoothness.
-
-23:
-Abyss通道 (Abyss通道): Refers to a passage or portal leading to the Abyss, a significant and often dangerous realm in this fictional world.
-
-24:
-Eternal Pure Land (永恒净土): A specific, highly revered location, romanized using Hanyu Pinyin.
-
-25:
-Five divine realms (五神国): Refers to the other five major divine realms besides the Eternal Night Divine Realm.
-
-26:
-Pan Bu Zhuo (槃不卓): A proper name, romanized using Hanyu Pinyin.
-
-27:
-Meng Jian Xi (梦见溪): A proper name, romanized using Hanyu Pinyin.
-
-28:
-Dream Weaving Divine Realm (织梦神国): The name of a specific divine realm, romanized using Hanyu Pinyin.
-
-29:
-Sha Xing Xian Yue (刹星弦月): A proper name, romanized using Hanyu Pinyin.
-
-30:
-Star Moon Divine Realm (星月神国): The name of a specific divine realm, romanized using Hanyu Pinyin.
-
-31:
-Dian Jiu Zhi (殿九知): A proper name, romanized using Hanyu Pinyin.
-
-32:
-Sen Luo Divine Realm (森罗神国): The name of a specific divine realm, romanized using Hanyu Pinyin.
-
-33:
-First God Child (第一神子): A title indicating the most outstanding or highest-ranked God Child among all divine realms.
-
-34:
-Shen Wu You Luan (神无幽鸾): A proper name, romanized using Hanyu Pinyin.
-
-35:
-Shen Wu Ming Que (神无冥雀): A proper name, romanized using Hanyu Pinyin.
-
-36:
-Profound energy (玄气): The fundamental energy source for cultivation in this fictional world, often associated with martial arts and spiritual power.
-
-37:
-Dian San Si (殿三思): A proper name, romanized using Hanyu Pinyin.
-
-38:
-Father God (父神): An honorific title used by Dian San Si for his father, the Divine Venerable of Sen Luo Divine Realm.
-
-39:
-Six Divine Realms (六神国): Refers to the collective group of the six major divine realms.
-
-40:
-Zhe Tian Divine Maiden (折天神女): A proper name and title, romanized using Hanyu Pinyin.
-
-41:
-Divine Venerable Hua Xin (画心神尊): A title followed by a proper name, romanized using Hanyu Pinyin.
-
-42:
-Meng Jian Yuan (梦见渊): A proper name, romanized using Hanyu Pinyin.
-
-43:
-Profound sound entering the soul (玄音入魂): A powerful, spiritual sound that can directly affect one's mind and spirit.
-
-44:
-San Si (三思): Dian San Si's name, "San Si," literally means "think thrice." His father gave him this name to encourage him to be more cautious and thoughtful, especially in important matters, due to his impulsive nature.
-
-45:
-Divine Venerable Wu Meng (无梦神尊): A title followed by a proper name, romanized using Hanyu Pinyin. "Wu Meng" literally means "no dream."
-
-46:
-Jia zi (甲子): A traditional Chinese sexagenary cycle, representing a period of sixty years. It's used here to denote age.
-
-47:
-Cai Li (彩璃): A proper name, romanized using Hanyu Pinyin. This is revealed to be the personal name of Zhe Tian Divine Maiden.
-
-48:
-Ling Xian Divine Abode (灵仙神居): A specific location, romanized using Hanyu Pinyin.
-
-49:
-Dian Luo Hou (殿罗睺): A proper name, romanized using Hanyu Pinyin. This is Dian Jiu Zhi's father.
-
-50:
-Great Desolate Divine Veins (大荒神脉): A specific, powerful type of divine cultivation aptitude or lineage.
-
-51:
-Divine Venerable Jue Luo (绝罗神尊): A title followed by a proper name, romanized using Hanyu Pinyin. Given the context, this likely refers to the Divine Venerable of the Sen Luo Divine Realm, who is Dian Luo Hou. It might be a variant name or a specific title used by outsiders.
-
-52:
-Sen Luo God Child (森罗神子): Refers to Dian Jiu Zhi, the God Child of the Sen Luo Divine Realm.
+1. His name, Buwang, means ‘does not stray’. ☜

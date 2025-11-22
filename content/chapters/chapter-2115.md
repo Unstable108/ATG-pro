@@ -1,283 +1,247 @@
 ---
 chapterNumber: 2115
-title: "Right and Wrong"
-publishedAt: "2025-11-20"
+title: "Right And Wrong"
+publishedAt: "2025-11-22"
 ---
 
-Between heaven and earth, there were few things beyond the knowledge of a Creation God.
+There weren’t many things about the universe that the Creation Gods didn’t know. The reason the Heaven Punishing Ancestral Sword and the Evil Infant's Wheel of Myriad Tribulations were named like this was one of them.
 
-However, why the Heaven Smiting Ancestral Sword and the Evil Infant's Wheel of Myriad Tribulations were named "Heaven Smiting" and "Myriad Tribulations" was destined to be unknown to the world, including the Creation Gods and the Devil Emperor. Because the Ancestral God was gone, no one could fathom her heart.
+Creation God or Devil Emperor, no one could possibly know this since the Ancestral God was long dead, and yet Mo E was claiming that...
 
-And Mo E's words...
+“You... know?” Ni Xuan croaked.
 
-"You... actually... know...?"
+Once upon a time, both Mo E and Ni Xuan believed that they were the person who understood the other Creation God the most.
 
-Ni Xuan and Mo E had once thought that they were the people who understood each other the best in this world.
+Ni Xuan once told Mo Su this, “I know exactly what kind of Creation God fart your stubborn old coot is going to eject every time he flaps his mouth... that’s right, Creation God needs to fart as well. By the way, did you know that your old fart farts six times every one hundred thousand years on average?”
 
-Ni Xuan had once said to Mo Su, "Every time that old stubborn mule of yours opens his mouth, I know what kind of creation god fart he's going to let out... Oh right, actually, creation gods also fart. That old stubborn mule of yours farts about six times every one hundred thousand years."
+“Hmm... Hmm!? Li Suo? Screw you! Like an immortal among gods like Li Suo could be compared to the likes of us! Another word, and I will throw you into the Divine Palace of Life this instant!” However, he had never heard even half a word about this since the first day he met Mo E.
 
-"Hmm... Hmm!? You said Li Suo? Fart! How can a celestial above gods like Li Suo be compared to a rough god like me! Do you believe that I'll throw you into the Life God Hall right now?"
+Mo E revealed a truth only he in this entire universe knew in his dead, unflappable voice. “Born from nothingness, the great Ancestral God created profound energy, rules, the shape of the universe, the first appearance of all living beings, and more during her long existence. She did not stop until she had created every aspect of the universe.”
 
-However, he and Mo E had known each other for such a long time, yet he had never heard him mention this matter.
+“Unfortunately, the universe could not be created until she destroyed herself. On top of that, as she was an existence who was born from nothingness, she did not have anything she could refer to when she created the universe, much less predict which direction it was headed in and what its future would be. If the universe was destined for distortion, collapse, and annihilation... then she, someone who was already dead, could not interfere and fix it.”
 
-Mo E still used his deathly still words to speak the truth that only he knew in this world: "The Ancestral God was born from nothingness. In the long years, she created profound strength, created rules, created the outline of the world, created the initial appearance of living beings... until the complete concept of creation."
+“That was why the great Ancestral God left behind two... corrective artifacts before she returned to nothingness.”
 
-"But to create the world, one must first destroy oneself. The Ancestral God, who was born from nothingness, had no reference for her creation, and it was even more impossible to predict its direction and future. If it was twisted, collapsed, destroyed... she, who had already destroyed herself, was also destined to be unable to interfere and change it."
+Corrective...
 
-"Thus, before returning to nothingness, the Ancestral God left behind two... correction devices."
+It was a perfectly mundane word, and yet the fact that it involved the Ancestral God and the beginning of the universe was enough to inflict unease in anyone.
 
-"Correction..."
+“The first corrective artifact was bestowed with the power of absolute yang and an old and wise spirit. It was called the Heaven Punishing Ancestral Sword.”
 
-These were two ordinary words in the mortal world, but when it involved the Ancestral God and the beginning of creation, these two words implicitly caused one's soul to tremble with an invisible unease.
+“The second corrective artifact was bestowed with the power of absolute yin and the purest, most childish spirit. It was called the Evil Infant’s Wheel of Myriad Tribulation.”
 
-"The first correction device, the Ancestral God bestowed upon it extreme yang energy, bestowed upon it the spirit of a wise and profound elder, and named it — the Heaven Smiting Ancestral Sword."
+By now, the storm ravaging the God Realm of Absolute Beginning had subsided. Even the surrounding space had stopped shaking. The disastrous phenomenon and noise had all disappeared.
 
-"The second correction device, the Ancestral God bestowed upon it extreme yin energy, bestowed upon it the purest and cleanest spirit of a child, and named it — the Evil Infant's Wheel of Myriad Tribulations."
+All that was left... was the sound of a heart thumping as loud as thunder.
 
-The storm in the Primordial Divine Realm stopped, and even space stopped trembling.
+“The Heaven Punishing Ancestral Sword’s mission is to monitor the stability and balance of the rules of the universe. It is what people knew as the ‘Heavenly Law’. If the Heavenly Law is in disorder, the laws of the universe will collapse, and the worlds will plunge into infinite disasters until they are ultimately destroyed.”
 
-The signs of calamity and the sounds of calamity all disappeared.
+“Everyone believes that the ‘Heaven Punishing’ in the name refers to ‘power great enough to punish heaven and earth’, when in reality it was the opposite. It is the ‘power to punish the Heavenly Law’... to destroy it.”
 
-Between heaven and earth, the sound of a heart beating violently could be heard, its tremors like thunder.
+“If one day the Heavenly Law falls into disorder, the Heaven Punishing Ancestral Sword will unleash its ultimate power and annihilate the Heavenly Law. This is so that the universe can reform a new Heavenly Law, create new laws, and naturally stop the universe from sliding toward inevitable and utter destruction.”
 
-"The mission of the Heaven Smiting Ancestral Sword is to monitor the stability and balance of the world's rules. It is also the 'Heavenly Dao' in the cognition of the world. If the Heavenly Dao is in chaos, the laws will definitely collapse, and the world will be filled with endless calamities until it finally collapses."
+“But Ni Xuan... you should know what kind of tragedy would occur should the Heavenly Law be destroyed. You and I would not lose even a hair on our persons, but the myriad beings who live in the myriad worlds cannot say the same thing. By the time the Heavenly Law and the natural laws are reformed, the new universe would surely be completely different from the old.”
 
-"The words 'Heaven Smiting' in the Heaven Smiting Ancestral Sword have never meant 'its might can smite the heavens and destroy the earth' as the world thinks, but rather 'smiting the Heavenly Dao'."
+“Right now, the two biggest races holding the Heavenly Law together, supporting it, and maintaining the balance... are the God Race and the Devil Race.”
 
-"If the Heavenly Dao is reversed, the Heaven Smiting Ancestral Sword will release its extreme might to annihilate the Heavenly Dao, allowing the world to reshape the Heavenly Dao and the laws, stopping the world from collapsing."
+Ni Xuan could not say anything for a long time. His heart kept beating faster and louder.
 
-"But... Ni Xuan, you should understand that if the Heavenly Dao is destroyed and the laws collapse, we will be unharmed, but for all the living beings in the world, it will be an endless calamity. When the Heavenly Dao and the laws are reshaped, the world will definitely no longer be the world it once was."
+Mo E continued, “Today, the universe has become infinitely more prosperous than what it was in the beginning. The Ancestral Sword Spirit has long since become attached to this universe as well. However, no amount of attachment can supersede the mission the great Ancestral God engraved into its very existence.”
 
-"And in today's world, the greatest maintainers, supporters, and balancers of the Heavenly Dao... are the god race and the devil race." Ni Xuan was stunned for a long time, unable to speak. Only the beating of his heart became increasingly intense.
+He was looking down on his bronze sword as he spoke. His gaze and face were calm and gentle like he was facing a close, old friend.
 
-Mo E continued, "The world has flourished to an endless extent. Over the long years, the Ancestral Sword Spirit has long developed feelings for the world, but these feelings are destined to be unable to override the mission bestowed upon it by the Ancestral God."
+“The Ancestral Sword Spirit is like a friend and a teacher to me. One day, he finally told me about the reason it existed and the mission it bore. It told me that even the omnipotent Ancestral God could not predict how the universe would develop. If the great Ancestral God’s consciousness was still present, she would not have wanted to reform this wonderful world even if the Heavenly Law were to plunge into disorder.”
 
-He lowered his eyes and looked at the large bronze sword in his hand. His calm gaze and expression were like those of an old friend facing a confidant.
+“The Ancestral Sword Spirit was full of fear when it said this. If one day the Heavenly Law really does fall into disorder, its mission would surely overtake its consciousness. It would surely unleash the power that destroys the Heavenly Law.”
 
-"The Ancestral Sword Spirit is both my teacher and my friend. One day, it told me the reason for its existence and the mission it carried. It told me that even as powerful as the Ancestral God, it was ultimately impossible to predict the development of the world. If the Ancestral God's consciousness still existed, facing such a world, even if the Heavenly Dao was reversed, she would definitely be unwilling to destroy and reshape it."
+“That is why... it chose to kill itself... after telling me everything.”
 
-"When the Ancestral Sword Spirit said these words, it was filled with fear. It was afraid that if one day, the Heavenly Dao was truly reversed, its mission would definitely override its will and unleash the Heaven Smiting Sword."
+His sword was both his mentor and his old friend... but he could speak to it no longer. No one knew except Mo E that the Heaven Punishing Ancestral Sword had long since lost its sword spirit. All that was left within was its final Ancestral Sword power .
 
-"Thus, after telling me everything, it chose... to self-destruct."
+“Once, I asked if there was a possibility for the God Race and the Devil Race to coexist in harmony.”
 
-The sword was his mentor, the sword was his old friend... but they could no longer face each other and speak.
+“It told me that the God Race and the Devil Race are like two sides of a scale, rejecting, controlling, and balancing each other out. Despite having witnessed countless eras, it was always thanks to their rejection and opposition of one another that the two titanic races never fell into internal strife. It is why they were able to stand united indefinitely within their own race.”
 
-Other than Mo E, no one knew. In the Heaven Smiting Ancestral Sword, there was no longer a sword spirit, only the [Last Ancestral Sword Might] that remained within.
+“But if the two races were to combine, then both sides... would lose the one thing that kept them in check.”
 
-"I once asked it, is there a possibility for the god race and the devil race to coexist peacefully?"
+“It's impossible to predict what may arise from this union, but there is no denying that there is a chance that the Heavenly Law may plunge into disorder if the balance were to be broken. An exceedingly huge chance.”
 
-"It told me that the god race and the devil race are like the two ends of a scale. They repel each other, restrain each other, and also balance each other. It has observed countless eras of change. It is precisely because of the mutual hostility and balance of these two heavenly giants that they can each form alliances for a long time, cooperate with each other against external threats, and eliminate internal strife."
+“It's such a chance that the Ancestral Sword Spirit was unable to accept it. So, before it extinguished its own consciousness, it made me promise it one thing... It wanted me to swear that I would never break the balance between the God Race and the Devil Race until the day I die. So long as this foundation is still secure, then the Heavenly Law will never fall into disorder.”
 
-"If the two races merge, it would be equivalent to the two races that support the world both losing their only restraint."
+Ni Xuan’s half-lifted knee hit the ground heavily.
 
-"What will be derived from this cannot be predicted. But... it is undeniable that there is a possibility that the balance will be broken and the Heavenly Dao will be reversed. Moreover, this possibility is too great."
+“How can I not agree to its one and only request of me? How can I not fulfill my promise?”
 
-"So great that the Ancestral Sword Spirit could not accept it."
+Mo E murmured, “After all, ‘Heaven Punishing’ is both its name... and my title.”
 
-"Therefore, before it chose to self-destruct, it had only one request... It wanted me to swear that as long as I exist, I would never break the balance between the god race and the devil race. As long as this foundation exists, the Heavenly Dao can never be in chaos."
+“From the very moment I was created, my mission was engraved into my soul, my blood, and my bones.”
 
-Bang!
+A bleak wind blew, and this time, it kicked up every strand of the Heaven Punishing Divine Emperor’s hair.
 
-Ni Xuan's half-supporting knee heavily knelt down.
+“But why did it have to be my only friend? Why did it have to be the son I loved the most?”
 
-"How could I not agree to this oath, and how could I not do it?" Mo E murmured, "Because the words 'Heaven Smiting' are its sword name, and also my divine name."
+His voice still did not carry even a hint of sorrow. It was because he was so hurt that he could produce no sorrow; so sorrowful that he could produce no tears.
 
-"My mission, from the day I was created, was firmly engraved into my divine soul, my bones, and my blood."
+“And why did it have to be me... the one and only person in this universe that cannot be stopped by you or my son?”
 
-A desolate wind suddenly rose, this time carrying every strand of the Heaven Smiting God Emperor's messy hair.
+His voice softened into a murmur, “Rebellion is engraved into your soul. Stopping you by force would only incite you to rebel harder. That is why I had no choice but to exile the Heaven Smiting Devil Emperor and sever your bond permanently.”
 
-"But why is it my only close friend, why is it my most beloved son?"
+“Mo Su seemed soft and timid on the outside, but he was terrifyingly stubborn on the inside. Once he has made his mind up about something, he would throw everything he had at it, damn the consequences. That is why I had no choice but to execute him by my own hands.”
 
-His voice still did not carry a trace of sorrow.
+He hated himself and Ni Xuan. “Back then, I sent him to your side partially to train him in the Heaven Breaking Swords, but really to change his obsessive ways with your laid-back personality. To think... that would be the biggest mistake of my life.”
 
-Because extreme pain has no sorrow, extreme sorrow has no tears.
+Ni Xuan’s fingers dug deep into the blood-stained soil. He was covered in wounds, but he could not feel even a hint of pain from it. The eyes that were always smiling and full of freedom were now overflowing with sorrow and loss instead.
 
-"And it just had to be me... the only two people in this world who cannot stop it."
+The Heaven Punishing Ancestral Sword and the Evil Infant’s Wheel of Myriad Tribulations’ mission was without a doubt the most terrifying truth of this universe, and Mo E was the only one who knew about it. For countless years, he had borne the burden alone without telling everyone... because not even a Creation God could learn about this truth without feeling bound and burdened by it for eternity, unable to even breathe.
 
-He softly murmured, "Your divine soul is engraved with rebellion. If I forcefully stop you, it will only further stimulate your rebellious soul. Only by banishing the Heaven Smiting Devil Emperor can this connection be eternally severed."
+No wonder. No wonder he, the greatest Creation God of this universe, had stubbornly clung to his rules and never overstepped his boundaries. It was to the point where one could say that he was excessively cautious.
 
-"Mo Su's temperament seems soft and cowardly, but in his bones, he is deeply engraved with an extremely terrifying stubbornness. He will do anything for what he believes in, regardless of the consequences, and there is no possibility of stopping him. I could only personally execute him."
+Finally, Ni Xuan asked in a voice that was countless times drier and raspier than before, “Tell me, if the Heaven Punishing Ancestral Sword’s mission is to reform the Heavenly Law, then what is the mission of the Evil Infant’s Wheel of Myriad Tribulations?”
 
-He hated himself, and he also hated Ni Xuan: "Back then, I let him follow you for a thousand years. Refining the Heaven Breaker Sword was secondary. Using your carefree nature to resolve his stubbornness was the main reason... That was actually the biggest mistake of my life."
+Mo E replied simply yet succinctly, “The purification of all life.”
 
-Ni Xuan's five fingers deeply sank into the blood-stained earth. There were countless wounds on his body, but he could not feel a trace of pain.
+Ni Xuan’s blood came to a complete standstill.
 
-Those divine eyes that were originally always filled with smiles and unrestrainedness were now filled with a desolate blankness.
+“On the spectrum of good and evil, ‘Evil Infant’’s spirit exists in the middle. An infant is the beginning of all living beings and the ultimate symbol of purity, which is why she could directly perceive and accept all the good or evil of the universe.”
 
-The mission of the Heaven Smiting Ancestral Sword and the Evil Infant's Wheel of Myriad Tribulations was undoubtedly the most terrifying truth in this world.
+“If the love and goodness she receives from the universe outweighs the bad, then she would fall in love with the universe and protect it with her life. She would become the wheel that protects the universe.”
 
-And Mo E was the only one who knew. For countless years, he had borne it alone and never told anyone... because even a Creation God, knowing this truth, would be suppressed for a lifetime, unable to breathe.
+“On the other hand, if the hatred and evil she received from the universe outweighs the good, then she would view it as tainted and evil and enact ‘Myriad Tribulations’ to cleanse it all.”
 
-No wonder, as the number one Creation God, he had always adhered to his own path throughout his life, never overstepping his bounds, almost... cautiously.
+Mo E continued woodenly, “Unfortunately, by the time I learned everything from the Ancestral Sword Spirit, the Devil Race had already committed the biggest, most foolish mistake of their existence.”
 
-Finally, Ni Xuan's voice was even drier than before: "Tell me, if the mission of the Heaven Smiting Ancestral Sword is to reshape the Heavenly Dao, then what is the mission of the Evil Infant's Wheel of Myriad Tribulations?"
+“‘Evil Infant’ cannot quite control her childish temper, and her power is so terrifying that she has unwittingly committed many disasters. Still, if the Devil Race could afford her prolonged tolerance, guidance, and love, then it is only a matter of time before she identifies herself as a member of the Devil Race and becomes the wheel that protects them.”
 
-Mo E spoke, just five words: "Purification of the human dao."
+“Unfortunately, she is an uncontrollable power that surpasses even the Devil Emperors, and the Devil Race could not help but feel deeply wary and afraid of her. In the end, they chose to exploit her childish nature, lure her into a formation, and lull her into sleep. Then, they gathered all the powers of the Devil Emperors and the Devil Gods to seal her for eternity.”
 
-"..." Ni Xuan's blood flow suddenly stopped.
+“It better be an eternal seal, because even I cannot imagine what kind of ‘Myriad Tribulations’ she is going to enact upon the world when she breaks out, overflowing with violence and hatred.”
 
-"The 'evil' spirit lies between good and evil, not leaning towards either side. With a child as its initial spirit, pure and clean, it can thus directly receive and perceive the good or evil from the world."
+Mo E slowly lowered the Heaven Punishing Ancestral Sword until it touched the ground with a soft thud. As he turned around and revealed a back as forlorn as the gray sky of Absolute Beginning, he said, “Ni Xuan, you and I fought today to decide the fate of your daughter, a heretic born from the union between a Creation God and a Devil Emperor. That is why I must win even if I must resort to despicable tactics.”
 
-"If she receives mostly love and kindness from the world, she will be attached to the world, protect the world, and become a wheel that protects the world."
+As he slowly walked away, the heavy blade of the Heaven Punishing Ancestral Sword cut a long wound on the ground of Absolute Beginning. His voice heavily resounded throughout this colorless world of Absolute Beginning as well.
 
-"Conversely, if she receives mostly evil and malice from the world, then the world in her eyes will be a world of filth and evil, and she will thus bring down 'myriad tribulations' to cleanse the turbid souls of the world."
+“After all that has happened, I can no longer witness what kind of fruit my labors would bear. However, the union between God and Devil will not happen while I still draw breath.”
 
-Mo E said woodenly, "By the time I learned all of this from the Ancestral Sword Spirit, the devil race had already done the most wrong and foolish thing."
+“I, Heaven Punishing Divine Emperor Mo E, am a disappointment to Mo Su, myself, and you.”
 
-"The 'Evil Infant's' uncontrollable childish temperament, coupled with her terrifying power, caused her to unintentionally create disasters many times. If she could be given long-term tolerance, guidance, and care, she would gradually integrate into the devil race and become a wheel that protects the world."
+“At the very least, I did not bring shame to the title ‘Heaven Punishing Divine Emperor’, did not disobey my promise to the Ancestral Sword Spirit, did not let down the mission the great Ancestral God bestowed on me.”
 
-"But, a power that surpassed the Devil Emperor and was uncontrollable caused the devil race to be extremely wary. In the end, they chose to use her childishness, lure her into a formation, coax her to sleep, and then gather the power of all the Devil Emperors and Devil Gods to seal her eternally."
+Ni Xuan called out to Mo E’s distant back. “You still... owe me a bet!”
 
-"That had better be a truly eternal seal. Otherwise, if she breaks free from the seal, her hatred and malice, even I cannot imagine what kind of terrifying 'myriad tribulations' it will trigger."
+Mo E froze in his tracks, and it was as if the entire world had frozen as well. Finally, the frozen world moved, and Mo E lifted his hand. Space broke, and a golden barrier flew out from within and landed beside Ni Xuan. The barrier was circulating with the divine power of a Creation God. Inside the barrier, the silhouette of a young girl could barely be seen.
 
-The Heaven Smiting Ancestral Sword slowly lowered, making a light thud as it hit the ground.
+“She may live, but her devilish part must be removed... this is my final compromise.”
 
-Mo E turned around, his back as desolate as the gray sky of the primordial era: "Ni Xuan, our battle today determines the fate of your daughter, and she is the anomaly derived from the union of a Creation God and the Devil Emperor. Therefore, no matter what, I must win, even if it is not an honorable victory."
+Ni Xuan’s hands shook like a leaf as he touched the barrier. Tears fell like spring from his grayish, despondent eyes.
 
-He slowly took a step, the heavy sword leaving a gradually extending mark on the primordial earth.
+Suddenly, he realized something and growled, “You said... you can no longer witness what kind of fruit your labor would bear... what do you mean by that?”
 
-His voice also heavily echoed in this colorless primordial world.
+Mo E did not stop walking this time. His voice grew as faint as smoke as he answered, “This isn’t the second time I unleashed the power of the Ancestral Sword.”
 
-"What kind of fruit today's cause will bring, I am destined to be unable to see. But at least, while I am alive, the union of gods and devils is blocked."
+“It is the third.”
 
-"I, Heaven Smiting God Emperor Mo E, have failed Mo Su, failed myself, failed you... But at least, I have not failed the name 'Heaven Smiting God Emperor', have not violated my oath to the Ancestral Sword Spirit, and have not辜负 the destiny bestowed upon me by the Ancestral God."
+Ni Xuan: “!?”
 
-"Wait." Ni Xuan spoke, looking at Mo E's distant back: "You still owe me... a bet!"
+“The time I exiled the Heaven Smiting Devil Emperor and her Devil Clan was in fact, the second time.”
 
-Mo E's footsteps stopped, and the entire world seemed to freeze.
+“The first time...”
 
-Finally, the frozen world moved. Mo E raised his hand, space cracked, and a pale golden barrier flew out from within, landing beside Ni Xuan.
+His emotions should have turned into stone and death, and yet his voice still hitched for an instant. “Was when I executed Mo Su.”
 
-Creation God power flowed on the barrier, and a faint figure of a young girl could be vaguely discerned within.
+“Pan Ming’s daughter had teleported into the God Realm of Absolute Beginning next to Mo Su using the Original Nether Void Breaching Mirror, and I was prepared for this. What I wasn’t prepared for was the Nirvana Devil Wheel Reversing Pearl.”
 
-"She can live. But all traces of devil must be erased... This is my last concession."
+“Even I am unable to break out of the power of two ultimate Devil Artifacts by force; a prison created from both the power of space and time. Seeing that she was on the verge of saving Mo Su, I had no choice but to employ the Heaven Punishing Ancestral Sword.”
 
-Ni Xuan tremblingly reached out and touched the barrier in front of him, tears streaming from his eyes.
+Ni Xuan’s arms hung limply by his sides as he slowly closed his eyes. To use the Ancestral Sword three times... was to use up ninety percent of a Creation God’s lifespan.
 
-Suddenly, he sensed something and roared in a low voice: "You just said... 'destined to be unable to see', what did you mean?"
+“We are all living beings created by the great Ancestral God herself, but I have personally ruined the Heaven Smiting Devil Emperor and destroyed her clan. My sin cannot be forgiven, and I will make up for it by paying with my own life. The Heaven Punishing bloodline will forever end here as well.”
 
-Mo E did not stop, his voice like a faint smoke: "Just now, it was not the second time I used the Ancestral Sword Might."
+“For my obsession, I killed my son by my own hands. I do not deserve to be a father, do not deserve to be a god, do not deserve to be a person, do not deserve to continue living in this world.”
 
-"It was the third time."
+He turned around and cast Ni Xuan one last look. “This is our last goodbye. Take care, my only friend.” 𝗳𝚛𝗲𝕖𝚠𝚎𝚋𝗻𝗼𝕧𝗲𝐥.𝚌𝚘𝐦
 
-Ni Xuan: "!?"
+A cold wind blew as his footsteps resumed, lifting his long hair into the air and revealing the patches of white within. Soon, the only one left in this grayish world was Ni Xuan.
 
-"Banishing the Heaven Smiting Devil Emperor and her devil race was the second time."
+Lover... friend... brother... belief... right and wrong...
 
-"The first time..." Although he was already emotionally numb, his voice still paused for a moment: "Was executing Mo Su."
+He lifted his hands and clutched his face with all his might. He was using so much strength that his finger bones snapped and broke into pieces. Still, he could not suppress the sobs leaking out of his throat.
 
-"Pan Ming's daughter, in order to save Mo Su, used the Pan Ming Void Breaker Mirror to travel through the Primordial Divine Realm and appear beside Mo Su. I was prepared for this, but I never expected that she would also carry the Nirvana Devil Reverse Wheel Pearl."
+The Divine Palace of Life.
 
-"Two supreme devil artifacts, a double seal of space and time, I could not break free with my power. Just as Mo Su was about to be taken away by Pan Ming's daughter, I had no choice but to use the Heaven Smiting Ancestral Sword."
+He once promised Jie Yuan that he would never meet the Creation Goddess of Life Li Suo nor approach the Divine Palace of Life ever again. He broke his promise. Strangely, the Li Suo in Ni Xuan’s memory fragment was a blurry, indistinct silhouette. It was impossible to see the divine countenance that was said to have caused both Gods and Devils to swoon on their feet.
 
-Ni Xuan's arm weakly fell, and he slowly closed his eyes.
+Maybe it was because Ni Xuan was purposely obscuring his vision of Li Suo. It was to keep his oath to the best degree possible.
 
-Three uses of the Ancestral Sword... ninety percent of his lifespan was depleted.
+“Ni... Xuan?”
 
-"As spirits created by the Ancestral God, I destroyed the Heaven Smiting Devil Emperor and her race. My sin is unforgivable. I will repay it with my life, and the Heaven Smiting lineage will also be eternally severed."
+If it wasn’t for the unique aura of the Creation God of Elements, Li Suo could never believe that this dirty, ragged-looking, disheveled hair man was Ni Xuan. This was a man who cared about his appearance so much that he would control even where a single strand of hair was floating, but now...
 
-"Because of my own stubbornness, I personally killed my son. I am not worthy of being a father, not worthy of being a god, not worthy of being a human, not worthy of living in this world."
+Ni Xuan did not answer her. He slowly walked forward with stiff, heavy footsteps. Then, he placed the “ice coffin” in his arms on the floor. Inside the coffin was a sleeping girl who looked as exquisite and beautiful as a doll. Yun Che immediately recognized her as Hong’er.
 
-He looked back and deeply looked at Ni Xuan one last time: "After this farewell, there will be no time to meet again. Take care, my only close friend."
+“The Coffin of Eternity...” Li Suo whispered. “Who’s she?”
 
-He took a step, and a cold wind suddenly rose, carrying strands of snow-white in his long hair.
+“She is... my daughter...”
 
-In the gray world, only Ni Xuan's figure remained.
+It looked like it took an unbelievable amount of effort for Ni Xuan to open his mouth, and his voice was so raspy that it sounded like the screech of metals. Li Suo could not say another word for a very long time.
 
-......
+“I have... reforged the missing portion of her soul, but I cannot make it perfectly compatible... especially... the sword soul that must exist...”
 
-......
+It was because her mother, the Heaven Smiting Devil Emperor, possessed a sword soul. Therefore, the foundation of Hong’er’s soul must have a sword soul as well.
 
-......
+“You’re the only one, who can do it, Li Suo.”
 
-......
+“... I understand.”
 
-He raised his hand and tightly grasped his face. The bones in his five fingers shattered inch by inch, but he still could not suppress the sobbing that continuously overflowed.
+Li Suo did not ask too many questions. She simply nodded.
 
-Life God Hall.
+“Thank... you...”
 
-He had once promised Jie Yuan that he would never see the Life Creation God Li Suo again, and never approach the Life God Hall.
+He murmured the two words and stared blankly at the girl in the Coffin of Eternity for a moment. Then, he turned around and woodenly walked toward the exit, dragging his feet the whole way.
 
-He broke his promise.
+“Ni Xuan!”
 
-However, in the memory fragments, Li Suo was a blurry shadow, and it was impossible to see her celestial appearance that had overwhelmed the god and devil era.
+Li Suo called out to him, “What... happened to you?”
 
-Perhaps, he deliberately blurred his vision when looking at Li Suo, in order to keep the promise of "not seeing" Li Suo to the greatest extent.
+Ni Xuan responded in a voice that did not belong to the Creation God of Elements, “I committed... a grave mistake...”
 
-"... Ni... Xuan?"
+“So what if you did?”
 
-If not for the aura unique to the Creation God of Elements, Li Suo could not believe that this dirty, tattered, and disheveled person was actually Ni Xuan.
+Li Suo replied softly, “You once declared that there exists no living being who can do no wrong. So long as your intention isn’t malicious, there is no need to be bound by it. Instead, one should seek to correct their mistake, remind themselves that they shouldn’t make it again, and make up for that mistake.”
 
-He always cared about his appearance, even the direction of each strand of hair would be quietly controlled.
+Ni Xuan murmured, “That’s because... some mistakes can be forgiven... and some... never can be.”
 
-Ni Xuan did not respond to her. He slowly walked forward, each step so stiff and heavy.
+Li Suo was caught off guard for a moment. She tried to console him, “You have always been, and will always be, the most revered Creation God in the God Realm or the lower realm. The number of races who owe you favors are innumerable. Such is your karma that they are willing to sing your praise for eternity.”
 
-The "ice coffin" in his hand was gently placed on the ground. Inside, a sleeping young girl lay quietly, like an exquisite porcelain doll.
+“Creation... God...”
 
-Yun Che recognized at a glance that it was Hong'er.
+He whispered the title he was most familiar with but without any color in his eyes whatsoever, “I no longer deserve to be a Creation God... there will never be a Creation God of Elements from now on...”
 
-"The Eternal Hub..." Li Suo softly said, "She is?"
+Li Suo: “...”
 
-"My... daughter..." The opening and closing of Ni Xuan's lips were so difficult, and his voice was even drier, like metal scraping.
+Ni Xuan looked ahead with empty eyes. “The grave error I committed is such that I no longer deserve to be orthodox. However, I have never... fallen into evil. If I still deserve a title, then let it be...”
 
-Li Suo was silent for a long time.
+“The Heretic... God...”
 
-"I... reshaped her incomplete soul, but I cannot make her soul perfectly compatible. Especially that... sword soul that must exist..."
+The Creation Goddess of Life felt extreme despair and despondency coming from Ni Xuan. She also sensed extreme regret and extreme hatred... hatred toward himself.
 
-Because her mother... the Heaven Smiting Devil Emperor had a sword soul. It was destined that one of her soul foundations was also a sword soul.
+Suddenly, Ni Xuan’s footsteps came to a stop.
 
-"Li Suo, only you can do it."
+“Li Suo...”
 
-"... I understand." Li Suo did not ask further and slightly nodded.
+He asked, “Do you know... a place that is suitable for sleep? A place... that won’t be disturbed?”
 
-"... Thank... you..."
+Every word he spoke was beyond raspy and fatigued. Even through the ages, Yun Che could clearly sense Ni Xuan’s pain and decision to escape from reality and fate. Li Suo’s perception of his feelings could only be a thousand times, ten thousand times clearer than his.
 
-He softly said two words, staring fixedly at the young girl in the Eternal Hub for a while, then turned around and walked out woodenly.
+She did not try to stop him. She simply said, “The southern region, beneath the Sky Sea Tower... How long do you plan to sleep?”
 
-"Ni Xuan!" Li Suo called out to him, "What... happened to you?"
+Ni Xuan answered, “I don’t know. Maybe a million years. Maybe ten million years... Maybe until I’m willing to wake up... or maybe I’ll never wake up again.”
 
-Ni Xuan's voice, which did not belong to the Creation God of Elements, said, "I made... a big mistake..."
+Li Suo: “...”
 
-"So what if you made a mistake?" Li Suo softly said, "You once said with a smile that there is no living being in the world who does not make mistakes. As long as the heart is not evil, there is no need to be bound by mistakes, but to do one's best to correct and make up for them, to learn from mistakes and correct them."
+“I entrust my daughter to you. Please find her a suitable identity and home. Don’t tell her about her origin. I just want her to enjoy life without worry forever.”
 
-Ni Xuan murmured, "That is because... some mistakes can be forgiven, and some mistakes cannot be forgiven."
+“I’m sorry. I may never be able to repay this favor.”
 
-Li Suo was stunned for a moment, then consoled, "Whether in the God Realm or the Lower Realms, you have always been the most respected Creation God by all living beings. The races that have received your great kindness are countless."
+He turned around and faced Li Suo, the corners of his lips tugging a little... He was doing his best to smile and express his gratitude. He wanted to give Li Suo a proper goodbye. And yet, the man who had smiled his whole life... could no longer do so.
 
-"The kindness you have bestowed upon the world makes them willing to praise you for ten thousand generations."
-
-"Crea... tion... God..."
-
-He softly said these three words that were once so familiar, but there was no color in his eyes: "I am no longer worthy of being a Creation God, and this world no longer has... a Creation God of Elements..."
-
-Li Suo: "..."
-
-Ni Xuan looked ahead, his eyes empty: "I have caused a great disaster, I am not worthy of being righteous, I have never... been trapped in evil, if I am still worthy of a divine name, then call it..."
-
-"Evil... God..."
-
-From his body, the Life Creation God felt extreme grayness, extreme regret, extreme hatred... hatred for himself.
-
-Ni Xuan's heavy footsteps suddenly stopped.
-
-"Li Suo..." He asked, "Is there... a place suitable for a peaceful sleep, undisturbed by anyone?"
-
-Tired.
-
-Every word he spoke was so hoarse and tired.
-
-Separated by dimensions and years, even Yun Che could clearly discern Ni Xuan's pain and avoidance of reality and fate.
-
-Li Suo's feelings were undoubtedly a thousand times stronger than Yun Che's. She did not dissuade him, but only softly said, "In the Southern Region, at the bottom of the Heavenly Netherworld Tower... How long do you want to sleep?"
-
-Ni Xuan said, "I don't know. Perhaps a million years, perhaps ten million years... until my consciousness is willing to wake up, or never wake up."
-
-Li Suo: "..."
-
-"My daughter, I entrust her to you. Find a suitable identity and home for her. Do not tell her about her origins. I only wish for her to live a carefree life and enjoy peace."
-
-"But this kindness is difficult to repay."
-
-He turned his head, the corners of his lips slightly twitching... He was trying to smile, to express gratitude, and to make a decent farewell.
-
-But, after countless years, he who had always been joyful, could no longer smile... as if he had forgotten how to smile.
+It was as if he had forgotten how to smile.

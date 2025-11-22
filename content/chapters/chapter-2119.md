@@ -1,183 +1,175 @@
 ---
 chapterNumber: 2119
 title: "Liu Xiao"
-publishedAt: "2025-11-20"
+publishedAt: "2025-11-22"
 ---
 
-Above the Pure Land, the Star Moon Divine Realm had also arrived.
+The Star and Moon Kingdom of God group had arrived in the Pure Land. Out of everyone in the group, Pan Buwang was the one person who appeared to be completely out of place. To say that his situation was awkward would be an understatement, especially since the younger Star and Moon disciples were all shooting him hostile glares.
 
-Within the ranks of the Star Moon Divine Realm, Pan Buwang's presence seemed out of place. His situation was undoubtedly awkward, especially with the young Star Moon disciples, whose gazes towards him were extremely unfriendly.
+As soon as they arrived in the Pure Land, Sha Xing grabbed Pan Buwang’s arm and stepped out in a timely fashion.
 
-Upon arriving in the Pure Land, Cha Xing appropriately pulled Pan Buwang aside.
+“You’re once again in the Pure Land, Brother Buwang. How do you feel?”
 
-"Brother Buwang, how does it feel to revisit the Pure Land?"
+Pan Buwang said while staring forward, “Everything in the Pure Land feels like it would never change. As I look around, I am surprised to discover that the most unfamiliar thing in this world... is myself.”
 
-Pan Buwang looked ahead and said, "Everything in the Pure Land seems eternally unchanging. Looking around now, I'm shocked to realize that the most unfamiliar thing in this world is myself."
+“Oh?” Sha Xing was a bit surprised by his lamentation.
 
-"Oh?" Cha Xing was somewhat surprised by his sentiment.
+Pan Buwang smiled. “It’s just a bit of pathetic whining is all. You don’t need to pay it any heed, Star Divine Son, I’m sure you’ve encountered quite a bit of resistance to get me where I am today. I, Pan Buwang, will forever—”
 
-Pan Buwang smiled, "Just some idle musings, Star God Child, don't mind it. Your assistance today must have met with considerable resistance. This favor, I, Pan..."
+“Hold it!”
 
-"Stop right there!" Cha Xing interrupted him. "I'm also repaying a favor, no need for extra words. If you're truly grateful, you might as well reveal something to me... about your relationship with 'him'."
+Sha Xing cut him off before he could finish. “I’m just repaying a favor, so you can save it. Also, if you really are grateful, then why don’t you reveal some of your... relationship with ‘him.’”
 
-Pan Buwang's expression remained unchanged. "Externally, there's no relationship. Privately, it's like yours, a relationship between a benefactor and a beneficiary."
+Pan Buwang replied with a straight face, “Officially, there is no relationship. Privately, it is the same as yours, the relationship between a benefactor and a receiver.”
 
-Cha Xing pursed his lips. "Fine, forget I asked." He glanced sideways, staring deeply at Pan Buwang. "Brother Buwang, you've changed a lot. So much so that I feel a bit unfamiliar, but also more curious. What exactly are you doing, going through all this trouble to come to the Pure Land?"
+Sha Xing curled his lips. “Forget what I asked.”
 
-He didn't press further, only saying meaningfully, "I'll be watching."
+He gave the former Owl Butterfly Divine Son a long side-eye and said, “You’ve changed a lot, Brother Buwang. You’ve changed so much I can barely tell you’re the same person. It makes me even more curious though. What on earth drove you to painstakingly attend this Pure Land Meet?”
 
-The air suddenly turned cold, and even the light dimmed slightly.
+He did not demand an answer despite saying this. He simply continued in a meaningful tone, “Whatever it is, I look forward to it.”
 
-This was the approach of a dark aura.
+Suddenly, the air turned chilly, and even the light of the Pure Land dimmed a little. It was a natural sensation when dark energy was near. Sha Xing and Pan Buwang stopped in their tracks at the same time.
 
-Cha Xing and Pan Buwang stopped simultaneously.
+Up ahead was the Pray Eternal Divine Regent Pan Yusheng, and standing next to him was the Owl Butterfly Divine Son Pan Buzhuo. Led by three Pure Land Divine Guards, the duo were slowly walking toward them.
 
-Ahead, Divine Venerable Qiheng, Pan Yusheng, was in the lead, with Owl Butterfly God Child Pan Buzhuo at his side. The Owl Butterfly Divine Realm's group, led by three Pure Land Divine Guards, was slowly approaching them.
+Pray Eternal Divine Regent’s spiritual perception was out of the world as a matter of course. Naturally, he had sensed Pan Buwang’s existence from the beginning. Despite this, he never so much as glanced at the man for even an instant. One would think that he had missed Pan Buwang completely.
 
-Divine Venerable Qiheng's senses were sharp; he had long since noticed Pan Buwang's presence but didn't even glance at him, as if he hadn't seen him at all.
+Sha Xing swiftly greeted Pan Yusheng, “Sha Xing of the Star and Moon Kingdom of God greets the Pray Eternal Divine Regent and all other seniors.”
 
-Cha Xing quickly saluted, "Cha Xing of the Star Moon Divine Realm greets Divine Venerable Qiheng and all the seniors."
+Pan Buwang also bowed a little and whispered, “Father.”
 
-Pan Buwang also bowed slightly, lowering his head and softly calling out, "Father God."
+Pan Yusheng gave Sha Xing a nod but ignored Pan Buwang’s greeting completely. There was a small flash of astonishment in his eyes when Pan Buwang bowed to him, but it only lasted an instant. It was because Pan Buwang’s attitude toward him had become increasingly enraged, disappointed, screechy, and finally insane. Forget treating him with respect, Pan Buwang had strayed to the point that he dared to taunt him, the Divine Regent, to his face.
 
-"Hmm." Pan Yusheng nodded slightly to Cha Xing but ignored Pan Buwang... When Pan Buwang respectfully saluted him, a flicker of surprise flashed in his eyes, but it was gone in an instant.
+It was why this simple and obedient greeting—the word “Father”—felt so unfamiliar and almost like a blast from the past.
 
-In recent years, when Pan Buwang faced him, there was only anger, disappointment, frantic screams, and even senseless mockery, without a trace of respect... But now, he saluted so respectfully, and the words "Father God" carried a long-lost, almost unfamiliar reverence.
+That was all though. He had given up on Pan Buwang a long time ago. He had even declared his utter abandonment of his son; that he would not care if he lived or died.
 
-However, this touch was only momentary. He had long been disappointed to the point of giving up on Pan Buwang, even personally declaring him abandoned, regardless of life or death.
+As the Owl Butterfly group were about to pass by Pan Buwang, Pan Buzhuo stopped in his tracks and looked Pan Buwang up and down curiously. He said, “Yo! Long time no see, stray dog who left our Owl Butterfly wailing at the top of his lungs. I heard you were going to drown yourself in the Sinking Moon Valley of Dreamweave but were chased out like a dog as well. Hah!”
 
-As they were about to pass each other, Pan Buzhuo stopped, looking Pan Buwang up and down with interest.
+“Who would’ve thought that the Owl Butterfly Divine Son would choose to become a cripple who knew nothing but intoxication and dreams? Thank goodness Dreamweaver had the sense to toss you out. Nobody cares if you embarrass yourself, but that action would have brought shame to the Owl Butterfly Kingdom of God as well!”
 
-"Yo! Isn't this the stray dog who howled and fled from my Owl Butterfly? I heard you wanted to enter the Dream Weaver's Sunken Dream Valley but were kicked out. Ha! You were once an Owl Butterfly God Child, yet you willingly became a drunken, dreaming waste! It's one thing to embarrass yourself, but if the Dream Weaver hadn't thrown you out, you almost dragged down the reputation of my Owl Butterfly Divine Realm!"
+Pan Buwang did not say a single word.
 
-Pan Buwang didn't say a word.
+“Oh? It looks like you’ve gotten a little steadier.”
 
-"Oh? Your cultivation has actually improved?" Pan Buzhuo seemed surprised, then sneered, "Could it be that you've changed after these years in the Fog Sea? Did you come to the Pure Land with ulterior motives, hoping to prove yourself before the Abyss Emperor and have Father God accept you again?"
+Pan Buzhuo seemed surprised by Pan Buwang’s lack of response, but he quickly followed up with a disdainful chuckle. “Have you changed after mucking around in the Endless Fog for a few years? I’m surprised to see you in the Pure Land. Are you planning to prove yourself in front of the Abyssal Monarch and convince Father to accept you once more?”
 
-Pan Buzhuo gave a rather malicious smile, lowering his voice, "You embarrassing thing, stop daydreaming. You're only fit to rot outside like a wild dog. I can already smell the pitiful stench of decay on you."
+Pan Buzhuo cracked a rather vile grin and lowered his voice, “Quit dreaming already, you embarrassing piece of shit. Right now, you’re no different from a stray dog who’s halfway being rotted by abyssal dust. I can literally smell the pitiful stench of decay on you.”
 
-"... " Pan Buwang still kept his head down, not saying a word, making it hard to discern any change in his expression.
+Pan Buwang continued to keep his head lowered and stay silent. There was no discernible expression on his face either.
 
-"Brother Buzhuo," Cha Xing said coldly, "Don't lose the demeanor of a God Child."
+“Brother Buzhuo,” it was at this moment Sha Xing spoke up coldly, “a Divine Son should be above such pettiness.”
 
-Pan Buzhuo withdrew his mocking smile and said to Cha Xing, "Pan Buwang achieved nothing as a God Child and has repeatedly damaged my Owl Butterfly's reputation in recent years. Seeing him today, I couldn't suppress my harsh words. I hope the Star God Child will forgive me."
+Pan Buzhuo withdrew his scornful smile and looked at Sha Xing. “Pan Buwang did nothing of note when he was a Divine Son, and he has repeatedly damaged Owl Butterfly’s reputation in recent years. I wasn’t expecting to meet him today, so I simply could not control my outburst. I apologize for making a fool out of myself in front of you, Star Divine Son.”
 
-He smiled faintly and walked away, but his undisguised mocking voice continued, "Star God Child, your status is noble. It's better to stay away from such filthy things, lest you be tainted by bad luck."
+He smiled and finally began to leave. As he walked away though, he did not forget to leave one last scathing remark. “You are an honorable man, Star Divine Son. I would advise you to stay away from such filth. It could cause you bad luck.”
 
-Pan Yusheng, walking at the front, didn't turn back, nor did he stop or reprimand Pan Buzhuo. The gazes of the Owl Butterfly Divine Realm's people towards Pan Buwang were mostly indifferent or pitying... The last time he came to the Pure Land, Pan Buwang was still the center of their attention.
+Walking at the forefront, Pan Yusheng never looked back or stopped Pan Buzhuo from making such remarks. Most of the people of the Owl Butterfly Kingdom of God were shooting Pan Buwang indifferent or sympathetic looks as well.
 
-After they had walked far away, Cha Xing frowned, saying resentfully, "This Pan Buzhuo is really too much!"
+After all, Pan Buwang was still the bright moon in the sky the last time they came to the Pure Land.
 
-Pan Buwang said expressionlessly, "After his mother came to power, she secretly harmed my mother... So, he and I are destined to be irreconcilable. During his years as God Child, his open and hidden suppression and torture of me... the cruelty of his methods is beyond your imagination."
+After the Owl Butterfly group was out of earshot, Sha Xing finally furrowed his brow and said a bit angrily, “Pan Buzhuo is seriously out of control!”
 
-"If not for my agreement with Wuqing, I wouldn't have been able to endure those years."
+Pan Buwang replied expressionlessly, “His mother had my Mother killed not long after she ascended the throne, so there was no way he and I can ever stand on the same side. On top of that, the beatdown and humiliation I suffered overtly and covertly during the years he has been the Divine Son... I’m sure someone with your personality cannot even imagine them.”
 
-These words reached Cha Xing's ears, but he didn't sense a clear enough hatred, which made him secretly alarmed.
+“If not for my promise with Wuqing, I would have crumbled into pieces long ago.”
 
-He patted Pan Buwang's shoulder, saying seriously, "Just wait, before the Abyss Emperor, I will definitely thwart him! Not just to vent for you, but because that Pan Buzhuo is simply repulsive."
+Sha Xing was unable to detect much hatred from Pan Buwang’s voice. Which was precisely why he was surprised, though he did not reveal his emotions on the outside.
 
-"Good." Pan Buwang smiled faintly, his eyes a dark abyss that Cha Xing couldn't fathom. "I look forward to witnessing the Star God Child's Heavenly Wolf divine might again."
+Sha Xing gave Pan Buwang a clap on the shoulder and said seriously, “Just wait. I will put a lid on his flame when we are before the Abyssal Monarch. It’s not just to get one back for you, but also because that guy is just loathsome.”
 
-A buzzing sound came from afar.
+Pan Buwang smiled back, the depths of his eyes a dark abyss Sha Xing could never reach. “I look forward to witnessing the power of your Heavenly Wolf once more.”
 
-The Pure Land's light barrier opened again.
+There was a buzzing noise from the distance, and the light screen of the Pure Land opened once more.
 
-"It seems the Eternal Night Divine Realm has also arrived."
+“It looks like the Eternal Night Kingdom of God has arrived as well.”
 
-As he spoke, Cha Xing looked sideways at Pan Buwang... The hatred and killing intent he had just shown for a few moments were too strong to ignore.
+As soon as he said this, Sha Xing glanced at Pan Buwang out of the corner of his eye.
 
-He had been unmoved by Pan Buzhuo's wanton mockery and provocation, but now, just hearing the words "Eternal Night," his killing intent instantly went out of control.
+The hatred and killing intent he sensed for a few instants were so strong that he could not miss it even if he wanted to. Pan Buwang had faced Pan Buzhuo’s wanton insults without batting an eye, and yet the word “Eternal Night” alone was enough to cause his killing intent to spiral out of control.
 
-Cha Xing looked into the distance, saying expectantly, "The Eternal Night Divine Realm's new Goddess, Shen Wuyi, I can finally see her true face. The Eternal Night Divine Realm has hidden her so well, I hope she won't disappoint."
+Sha Xing gazed toward the distance and said expectantly, “We can finally witness the true countenance of the newly appointed Eternal Night Divine Daughter, Shenwu Yi. It best not be too disappointing considering how much effort they went through to hide her.”
 
-Boom!!
+Yun Che and Hua Caili had just entered the area when they heard a kaboom coming from the stone house in front of them. The next moment, clouds of black smoke began pouring out of the doors and windows of the house. It was unbelievably conspicuous considering that the Pure Land was mostly pure white.
 
-Yun Che and Hua Caili had just arrived when they heard a booming sound from a stone house ahead, followed by plumes of black smoke pouring out of the doors and windows, particularly conspicuous against the pure white backdrop of the Pure Land.
+“No! The heat control is all wrong! Annoying thing, get out get out get out!”
 
-"No!! The heat is wrong! Get out of here, you troublesome thing!"
+A young man walked out of the smoking stone house. As soon as he saw Hua Caili, he said smilingly, “You’re here, little Caili.”
 
-A young man emerged from the stone house with the black smoke. Seeing Hua Caili, he smiled slightly, "Little Caili is here."
+As he spoke, he elegantly brushed off the soot on his sleeve.
 
-As he spoke, he elegantly dusted the soot from his sleeves.
+“Uncle Yuan Ying.”
 
-"Uncle Yuanying," Hua Caili greeted politely, then quickly introduced, "This is Brother Yun, the former God Child of the Dream Weaver Divine Realm, previously named..."
+Hua Caili greeted him politely before launching an introduction, “This is big brother Yun, the previous Divine Son of the Dreamweaver Kingdom of God. His previous name is—”
 
-"Oh! Meng Jianyuan, I've heard of him." Divine Attendant Yuanying¹ smiled warmly, looking like a harmless, benevolent person. "Just as perfect a divine character as little Caili, and in terms of talent... Oh, even in appearance, you two are quite a match. It's a pity that boy Jiuzhi got there first."
+“Oh! Meng Jianyuan, right? I’ve heard about him.”
 
-Yun Che: (He's a good judge of character... and speaks his mind...)
+Divine Attendant Yuan Ying said smilingly and innocently, “You’re a perfect God Bearer just like little Caili over here. The two of you are quite compatible in terms of talent... and even in terms of appearance. It’s too bad Jiuzhi got to Caili first, eh?”
 
-"Yun Che greets Senior Yuanying. Although I've just arrived in the Pure Land, I've long admired Senior Yuanying's name."
+Yun Che thought, "He has a pair of sharp eyes... and an even sharper tongue."
 
-"Enough with the formalities," Yuanying waved his hand, only then noticing that his fair hands were now as black as the bottom of a pot, so he slowly put them behind his back. "His Highness is in high spirits right now, it's best not to disturb him, or else..."
+“Yun Che greets senior Yuan Ying. This is my first time coming to the Pure Land, but not the first time I've heard of your sterling reputation, senior Yuan Ying. I’ve wanted to meet you for a long time.”
 
-Another muffled explosion sounded, accompanied by even thicker black smoke.
+“Ah, such secular words and customs! Save it, save it.”
 
-Then, an excited shout came from the stone house, "Oh ho! It's done, it's done! Little Caili, come in quickly, I have something good!"
+Yuan Ying tried to wave Yun Che off when he realized that his smooth white hand was currently as black as the bottom of a pan. So, he slowly clasped the hand behind his back and said, “Master is currently in the middle of something. I would advise you not to disturb him during this time. Otherwise—”
 
-Yuanying sighed deeply, a helpless look on his face.
+Boom! As if on cue, another muffled boom came from the stone house, followed by even thicker columns of black smoke.
 
-"Brother Yun, Uncle Liu Xiao is calling us, let's go in."
+Right after that, an excited shout boomed from the stone house. “Oh ho! I did it! I did it! Come in quick, little Caili! I have some good stuff to share with you!”
 
-Hua Caili leaped into the stone house, and Yun Che, after nodding politely to Divine Attendant Yuanying, followed her.
+Helplessness colored Yuan Ying’s face as he let out a long sigh.
 
-Divine Attendant Yuanying didn't stop him, only sighing softly, "Another young person's perception is about to be shattered~~"
+“Big brother Yun, uncle Liu Xiao is calling for us. Let’s head inside!”
 
-The stone house wasn't large, but it was filled with a dazzling array of items.
+Hua Caili pushed off the ground and was inside the stone house in a flash.
 
-Amidst the billowing black smoke, an old man in a coarse gray robe, thin and small, was crouched there, his two thin hands rubbing together over a strange aura of red fire, his eyes shining brightly, muttering to himself.
+Yun Che gave Divine Attendant Yuan Ying a polite nod before following suit.
 
-From Yun Che's perspective, he looked like a toad scratching with its front paws.
+Divine Attendant Yuan Ying did not try to stop them. He simply let out a quiet sigh. “That’s another poor youngster’s mind about to explode to smithereens.”
 
-"Uncle Liu Xiao," Hua Caili called out affectionately.
+The stone house wasn’t big, but it was absolutely packed with all sorts of items.
 
-The toad... Oh no, the gray-robed old man suddenly sprang up and scurried over to Hua Caili with quick little steps. "Little Caili, you've come just in time. Quick, have a taste! This is my newly improved recipe. For this, I had to keep pestering that old woman Lingxian for her fire, and it's finally done!"
+Inside the rolling black smoke was a thin, short old man wearing a coarse and shabby gray outfit. Right now, he was crouching on the floor and rubbing his thin, dry hands around a crimson flame boasting unusual energy. His eyes were shiny, and his mouth was muttering something.
 
-"This is definitely my greatest work in the past thousand years! I guarantee it will send you to heaven with just one bite!"
+From Yun Che’s perspective, the old man looked like a toad with its forelimbs raised up into the air.
 
-His face was withered and old, his eye sockets deeply sunken, but now they shone with a bright light, and even his sparse, messy hair stood on end with excitement.
+“Uncle Liu Xiao,” Hua Caili called out to the old man affectionately. The toad... oops, the old man in gray clothes immediately bounced to his feet and strode straight toward Hua Caili. “You came just in time, little Caili! Quick, taste it! This is a recipe I just finished improving! It took begging that old woman, Ling Xian, to lend me her flame periodically for far too long, but I finally finished it!”
 
-In his dirty old hands, he held a similarly dirty-looking dumpling, which emitted a soul-soothing fragrance.
+“This is absolutely my greatest masterpiece in the past one thousand years! I promise that one bite is all you need to fly straight to the heavens!”
 
-"..." Yun Che stood still, the corner of his mouth twitching slightly.
+The old man had a haggard face and sunken eye sockets. However, his eyes were blazing with passion and vitality. Even the loose hair strewn across his head was all standing in excitement. His dirty old hands were palming an equally dirt-looking ball of something that was, despite its appearance, giving off a faint fragrance that stirred the soul.
 
-He had heard Hua Caili call him "Uncle Liu Xiao."
+“...” Yun Che was standing quietly behind Hua Caili, his lips twitching here and there despite his self-control. If he hadn’t heard Hua Caili addressing this poorly dressed, seemingly insane old man as “Uncle Liu Xiao”, he would never have believed that he was a High Priest!
 
-This old man, whose clothes could only be described as tattered and whose demeanor was utterly mad... was actually... a Divine Official!?
+Also, why did Caili address High Priest Ling Xian as “Grandma”, but this shriveled old man as “Uncle”?
 
-And, Divine Official Lingxian was "Grandma," so why was this withered old man "Uncle"?
+“Wow! Really?” Hua Caili’s eyes curled into crescents. She did not hesitate to grab the shabby looking ball from the old man’s dirty hands and eat it.
 
-"Wow, really!"
+Upon taking the first bite, Hua Caili’s eyes widened with pleasant surprise, “Mmh! It’s delicious! It’s the same Liu Xiao Immortal Climbing Flaky Biscuit as before, but a lot tastier... Mmh! Even the number of changes in taste have increased considerably.”
 
-Hua Caili's eyes curved into crescents. She took the dumpling from the old man and, without any hesitation, put it directly into her mouth.
+“Right? Right!? Huohahahahahahahaha!”
 
-With one bite, Hua Caili's eyes lit up. "Mmm! Delicious! It's the same 'Liu Xiao Ascension Cake,' but it's much tastier than before... Mmm! Even the flavor variations are more numerous. Ha!"
+Hua Caili’s acknowledgement and praise nearly caused the old man to combust on the spot, and his crazed laughter was such that it looked like his soul was about to leave his body. “As expected of me!! As expected of the greatest Chef God of the Pure Land—oh no no no, of the entire Abyss!!”
 
-"Right! Right! Ho ho ho ho ho ho!"
+“Oh right!! From now on, I’m going to change its name to ‘Liu Xiao Immortal Soaring Flaky Biscuit’! Anyone, be it true immortals or fake immortals, are going to fly once they eat it! Huohahahaha!”
 
-Hua Caili's approval and praise made the old man's hair stand on end, and his wild laughter seemed as if his soul was about to leave his body. "As expected of me! As expected of the Pure... Oh no no no, the Abyss's number one chef!"
+Hua Caili was still chewing and tasting the Flaky Biscuit when she spoke up in the midst of the old man’s crazed laughter, “It is better than before, but it is just a little inferior compared to big brother Yun’s flaky biscuit.”
 
-"Oh right! From now on, it's renamed Liu Xiao Flying Immortal Cake. No matter who eats it, real immortal or fake, they'll all fly, ho ho ho ho!"
+It was as if someone had cut off the old man’s mad laughter with a saber. The old man’s eyes were originally tiny, but now they were as big as bells.
 
-Hua Caili continued to chew carefully, savoring the taste, and then, amidst the old man's unrestrained laughter, she spoke slowly, "Although it's tastier than before, compared to the pastries Brother Yun makes, it's still a little bit lacking."
+“Y-Y-Y-Y-Y-You... What did you just say? Me? My Liu Xiao Immortal Flying Flaky Biscuit? Is just a bit inferior?!”
 
-The old man's wild laughter stopped abruptly as if cut off by a knife.
+Even as he spoke, his eyes kept widening. It was as if her remark had unintentionally touched on the biggest taboo of his life.
 
-His already small eyes widened to the size of copper bells.
+Hua Caili nodded without any hesitation. Her eyes were as clear as mirror lakes, naive with a hint of innocence. Her words and her expression were so natural, so matter-of-fact, that at that moment, Yun Che swore that he heard the sound of something shattering inside the old man’s heart.
 
-"You you you you you... What did you say? My? My Liu Xiao Flying Immortal Cake? A little bit lacking?"
+The old man then jumped to his feet and screamed, “Impossible!! It took me a thousand years and tens of thousands of times of adjustment to finally create this legendary Liu Xiao Immortal Flying Flaky Biscuit! I only wish I could give myself a kiss !”
 
-He stared wide-eyed, confirming each word, as if these words had touched a great taboo that he absolutely could not tolerate.
+“Who is that Yunonymous? How could an unlucky name like this possibly make a flaky biscuit that beats my masterpiece?!”
 
-"That's right." Hua Caili nodded without the slightest hesitation. Her beautiful eyes were as clear as a mirror lake, pure with a hint of innocence. Whether in words or expression, she was so natural and... matter-of-fact.
+“His name isn’t Yunonymous.”
 
-In that instant, Yun Che seemed to hear something shattering in the old man's chest.
+Hua Caili hurriedly corrected Liu Xiao. “And his flaky biscuit really is better than what you made, Uncle Liu Xiao. It’s not just flaky biscuits either. There are a lot of foods big brother Yun makes that are way better than yours.”
 
-Then, he jumped up and screamed, "Impossible! This Liu Xiao Flying Immortal Cake is the culmination of a thousand years of my hard work, tens of thousands of adjustments, to create this unparalleled delicacy. Even I want to kiss myself after eating it!"
-
-"What is this Yun Gege thing? How dare this unlucky name be worthy of making such a delicacy as mine?"
-
-"It's not 'as yours,'" Hua Caili quickly corrected. "It really is tastier than what Uncle Liu Xiao makes, and not just pastries. Many things Brother Yun makes are much tastier than what Uncle Liu Xiao makes."
-
-"..."
-
-Yun Che again heard the sound of something shattering... into pieces.
+“...” Once again, Yun Che could hear the sound of something shattering into itsy bitsy pieces.

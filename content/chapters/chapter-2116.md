@@ -1,221 +1,211 @@
 ---
 chapterNumber: 2116
-title: "The Shadow of Ni Jie"
-publishedAt: "2025-11-20"
+title: "Unknown Title"
+publishedAt: "2025-11-22"
 ---
 
-The scene vanished, and the fragments dissipated, leaving Yun Che's soul sea in a state of deathly stillness.
+The picture disappeared, the fragments scattered, and Yun Che’s soul sea returned to dead silence.
 
-A deathly stillness he had never experienced before.
+A never-before-experienced dead silence.
 
-Both Yun Che and Li Suo fell into a long silence.
+For a time, neither Yun Che nor Li Suo said a thing.
 
-After an unknown amount of time, Li Suo spoke softly, "If Mo E had revealed the truth about the Ancestral Sword and the Myriad Tribulations Wheel to the world earlier, would the outcome have been different?"
+Finally, Li Suo broke the silence, “If Mo E revealed the truth regarding the Ancestral Sword and Myriad Tribulations sooner, would the course of fate have followed a different trajectory?”
 
-"It wouldn't have." Yun Che responded, his tone drifting, "It's impossible."
+Yun Che replied in a distracted voice, “Impossible.”
 
-"Why?"
+“But why?”
 
-"There are many reasons..." Yun Che's voice was slow, "The true nature of the Ancestral Sword and the Myriad Tribulations Wheel was unknown even to the four Creation Gods and the four Devil Emperors. And their existence as a 'correction' was indeed an ancestral secret that could not be revealed to the world."
+“There are many reasons...” Yun Che explained, “For starters, neither the four Creation Gods nor the four Devil Emperors were aware of the truth regarding the Ancestral Sword or Myriad Tribulations at the beginning. Considering that they exist to ‘correct’, it made sense that the Ancestral God would not reveal this to them.”
 
-"Mo E knew because the Ancestral Sword Spirit told him. It was both a sharing of hearts and a form of entrustment. And with Mo E's extremely upright nature, how could he easily leak the ancestral secret to others?"
+“Mo E only learned about it because the Ancestral Sword Spirit told him. It was both an expression of absolute trust and its final will. Considering how upright Mo E was, he was far more likely to take this secret to the grave than reveal it to anyone.”
 
-"Moreover, this truth is too heavy. Once known, the two ultimate divine weapons in their perception would become instruments of judgment hanging above them. The higher one's position, the more they would bear the eternal, inescapable pressure on their souls. I think, if Mo E could choose again, he would likely choose to remain ignorant."
+“Besides, the fact is this truth is far too heavy. The moment someone learns about it, it is inevitable that they view the two absolute artifacts in a completely different light. Specifically, they would view it as a guillotine that hangs above their necks for as long as they live, and the higher the person, the more they will feel its inescapable pressure.”
 
-"I am even more certain that until he personally buried Mo Su in the abyss of nothingness, he never thought of telling him all the reasons."
+“I’m sure Mo E himself would choose to stay forever ignorant if he was given a second chance. I’m even more certain that he never thought of telling Mo Su the whole truth even until the very moment he plunged him into the Abyss of Nothingness.”
 
-"Why... is that?" Li Suo asked the same two words.
+“But... why?” Li Suo repeated the two words.
 
-Yun Che's soul sea tightened violently. He seemed to take a while to calm down before speaking softly, "In the end, Mo E loved his son. He chose to personally bury him, but he must have also wished to see him die with no regrets, with determination, and with tragic heroism, rather than with confusion and regret... Just like Qingyue, who, until she fell into the abyss, only wished that I would have pure hatred for her."
+Yun Che’s soul sea contracted violently for a bit. It took a good while before Yun Che seemingly mastered his reactions, and he answered in a soft voice, “Mo E ultimately loved his son. He may have chosen to bury him with his own hands, but I am sure he would rather his son pass away believing in his own righteousness and without regrets than otherwise... in fact, he would rather his son hate him single-mindedly.”
 
-He recalled the ancient texts of the Dragon God, the last recorded words about the Heaven Punishing God Emperor Mo E:
+He recalled the final line of the entry regarding the Heaven Punishing Divine Emperor Mo E in the Ancient Records of the Dragon God.
 
-"Atop the Divine Palace, the Heaven Punishing God Emperor looked up at the sky with closed eyes and passed away peacefully. His last divine words were the name 'Mo Su'."
+[The head of the True Gods, the Heaven Punishing Divine Emperor, went to his rest. His lifespan reached its end and the last divine words he uttered were “Mo Su”, his deceased son’s name.]
 
-Back then, when he and Qianye Ying'er read this record, they were shocked, but more than that, they were filled with mockery and doubt. As a father himself, he couldn't imagine what circumstances could make a person so ruthless as to kill their own child... And if he had already done so ruthlessly, why would he still mourn him at the end of his life?
+Back in the day, he and Qianye Ying’er were shocked when he read the entry, but even more scornful and disbelieving of Mo E’s reaction. As a father himself, Yun Che could not imagine any scenario where a parent could be convinced into believing that the murder of one’s child was in any form acceptable. Just the same he could not imagine the gall of a parent who had resolved to murder their own child to cry out their murdered child’s name during their final moments.
 
-Yun Che muttered absentmindedly, "Since I obtained the legacy of the Heretical God, some ancient 'truths' have gradually pieced together in my mind."
+Yun Che murmured listlessly, “Since I obtained the Heretic God’s inheritance, the pieces of these ancient ‘truths’ have been coming together bit by bit like a puzzle.”
 
-"Initially, the Heaven Punishing God Emperor, in my perception, was an upright and almost foolish Creation God. In many fragments of information and various records, it was pointed out that he was the origin of all calamities. It was his arbitrary actions, his cold-bloodedness and ruthlessness, that ultimately led to the destruction of the God and Devil Era, and also led to the 'scarlet calamity' that nearly destroyed the current era."
+“In the beginning, I believed that the Heaven Punishing Divine Emperor was a Creation God who was upright to the point of foolishness. There are countless message fragments and records that pointed toward him being the beginning of all tragedies. It was his arbitrary actions and coldbloodedness that ultimately destroyed the Era of Gods and Devils and nearly damned the current generation to the ‘crimson calamity.’”
 
-"And the Heretical God, in my perception, has always been a savior figure. He single-handedly cleaned up the mess left behind at the end of the God and Devil Era, quelled all the remaining disasters, sealed the Heaven Smiting Devil Emperor and the Evil Infant's Myriad Tribulations Wheel, and left behind a legacy and will, using his successor... me, to stop the Heaven Smiting Devil Emperor and save the present world."
+“Just the same, I’ve always believed the Heretic God to be the savior of the Primal Chaos. He single handedly cleaned up the mess left behind at the end of the Era of Gods and Devils, pacified all of the calamities, and sealed the Moon Slaughter Devil Sovereign and the Evil Infant's Wheel of Myriad Tribulations. Not only that, he also left behind his inheritance and will and entrusted his successor, me, to stop the Heaven Smiting Devil Emperor, indirectly saving the current era.”
 
-"The Heaven Smiting Devil Emperor's anger and hatred towards Mo E also deepened my negative view of the Heaven Punishing God Emperor."
+“The Heaven Smiting Devil Emperor’s hate and anger toward Mo E also increased my loathing for the Heaven Punishing Divine Emperor.”
 
-"But..." Yun Che's voice carried a hint of sorrow, "The shadow of the Heretical God I saw was so desolate and despondent¹. At that time, I asked him if he hated Mo E. He answered, 'I have no right to hate,' which confused me for a long, long time..."
+“But...” Sorrow tinged Yun Che’s voice. “When I saw the shadow of the Heretic God, I could not believe how despondent and horrible he looked. When I asked him if he hated Mo E, he answered that he had ‘no right to hate’. I was confused for so, so long...”
 
-"All the sins are mine, not his..."
+“No, no, no, all of the fault lies with me, not him. I am the one who wronged him.”
 
-"The former name of the Elemental Creation God is not abandoned, but I am no longer worthy... My subsequent seclusion is not because I have lost all hope, but because I have no face to face the world..."
+“I didn’t discard my title because I had lost all hope. It was simply because I no longer deserved the title. Just the same, I went into seclusion later on because I... was too ashamed to face anyone.”
 
-"What built this world is my sin..."
+“I am the reason the world is like this. It is all my fault.”
 
-The words he couldn't understand back then finally had a clear enough answer at this moment.
+He finally had a clear answer as to the words he could not understand back then.
 
-"The Heretical God doesn't hate Mo E, he hates himself. He believes that if not for his union with the Heaven Smiting Devil Emperor, if not for him leading Mo Su step by step to break free from the shackles of convention, and even encouraging him to break through the barrier between gods and devils to fall in love with the daughter of Pan Ming... none of the subsequent events would have happened. He believes that he harmed the Heaven Smiting Devil Emperor, harmed their daughter, harmed Mo Su, harmed Mo E... and ultimately led to the end of the God and Devil Era."
+“The Heretic God did not hate Mo E. He hated himself. If he hadn’t become lovers with the Heaven Smiting Devil Emperor, if he hadn’t led Mo Su into breaking free of his shackles step by step, if he hadn’t encouraged him to fall in love with Pan Ming’s daughter and break the taboo of god and devil... nothing that happened afterward would have happened. That was what he believed. He believed that it was he who damned the Heaven Smiting Devil Emperor, damned their daughter, damned Mo Su, damned Mo E... and the true reason that the Era of the Gods and Devils came to an end.”
 
-"And the Heaven Punishing God Emperor Mo E also hated himself. The Heaven Punishing Ancestral Sword was swung three times in history. And these three ultimate, unparalleled swords..."
+“The Heaven Punishing Divine Emperor Mo E hated himself as well. He swung the Heaven Punishing Ancestral Sword three times in history. The first strike was aimed at his own son, plunging Mo Su into the Abyss of Nothingness and severing his familial bond.”
 
-"His first sword was swung at his own son, severing kinship."
+“The second strike was aimed at the Heaven Smiting Devil Emperor, exiling her from Primal Chaos and severing his friendship.”
 
-"His second sword was swung at the Heaven Smiting Devil Emperor, severing friendship."
+“And his third strike seemed to be aimed at the Heretic God, but was really at himself. It was an act of suicide.”
 
-"His third sword seemed to be swung at the Heretical God, but in reality, it was swung at himself, severing his remaining life."
+Yun Che let out a long sigh. “Mo E abandoned his son and even himself to protect the foundation that preserved the balance of the Era of Gods and Devils. Ni Xuan never stopped worrying about the fate of the universe until he passed away... but why are their lives like this? Why have they all met such tragic endings?”
 
-Yun Che sighed deeply, "Mo E sacrificed his son and himself to maintain the cornerstone of balance in the God and Devil world; Ni Xuan, until his death, was concerned about the safety of future generations... But why did their lives end in such a way..."
+“What is right, and what is wrong... what is truth, and what is false...”
 
-"What is right, what is wrong... what is real, what is fake..."
+“Why are the lines growing increasingly blurred the more truths I learn...”
 
-"Why is it that the more I know, the more I can't see clearly the difference between right and wrong, real and unreal..."
+“If that’s the case, am I really correct in my beliefs... I thought I was doing the right thing, but am I... I thought I knew what was wrong, but do I really... I thought I knew the truth, but do I really... who can say it’s not just my one-sided delusion...”
 
-"Then... everything I'm doing now... the right and wrong I've always believed in... is it really what I think it is... Is what I believe to be real just a hazy bubble of illusion..."
+“If even the Heretic God and the Heaven Punishing Divine Emperor are like this... is my so-called unwavering determination... really pointing toward where I think I’m going...”
 
-"Even the Heretical God and the Heaven Punishing God Emperor were like this... Then my so-called unwavering persistence... is it really pointing in the direction I think it is..."
+“Yun Che...?”
 
-"......?"
+“Yun Che!”
 
-"Yun Che!"
+“Yun Che!!”
 
-"Yun Che!!"
+A dazzling holy light abruptly flashed within Yun Che’s soul sea and finally suppressed the excessive turbulence within.
 
-A holy light, too dazzling for the soul, suddenly arose in his soul sea, finally calming the turmoil of his soul.
+Shrouded by white holy light, Li Suo’s blurry silhouette appeared within Yun Che’s soul sea and emanated a warmth that could have nourished all souls in the universe.
 
-Li Suo's blurred figure, carrying a holy white light, manifested in Yun Che's soul sea, releasing a warmth that could soothe all the souls in the world.
+Her gentle voice slowly yet firmly entered every strand of his soul, “You once said that there might not exist true good or evil, right or wrong in this world. However, what’s more important than these concepts is to know where one is standing and be unfailing firm about it.”
 
-Her gentle voice, from the very center of his soul sea, gently entered every fiber of his soul, "You once said that in this world, perhaps there is no true right or wrong, good or evil. What is more important than upholding right and wrong, good and evil, is upholding one's stance."
+Yun Che: “...”
 
-Yun Che: "..."
+“At first, I could not understand your words. After all, the boundaries between right and wrong, good and evil, have always been perfectly clear to my recognition.”
 
-"At first, I couldn't understand these words. Because the boundaries of right and wrong, good and evil, were incredibly clear in my perception."
+“That is until I see you committing one villainous act after another and feel the pain in your soul.”
 
-"Until I watched you commit evil deeds time and time again, and felt the stinging pain of your soul time and time again."
+“If there is no goodness within you, then why would you be pained by the villainous acts you commit?”
 
-"If there is no good intention, why would the soul be wounded by evil deeds?"
+“If you are good, then why do you ceaselessly step toward the abyss of evil?”
 
-"If the heart is good, why never stop treading the path of evil?"
+Her voice grew even slower and gentler like a soft breeze brushing against the clouds, or a morning dew condensing on leaves. “My cognition is still fragmented, and my thoughts are as slow as you claim them to be. Despite this, I was ultimately able to understand what you said back then through observing your every action and feeling your every emotion.”
 
-Her voice became even gentler, like a light breeze caressing clouds, like morning dew condensing, "My perception is incomplete, and my thoughts are always as slow as you say. But over the years, watching everything you've done, feeling every fluctuation of your soul, I have gradually come to understand your words from back then."
+“The things you stand for, the things you fight for, the things you will give everything to protect. In your eyes, those concepts are more important than good or evil, right or wrong, and even yourself. That is why you never hesitate or stop for even a moment despite treading a thorny path where every step cuts deep into your soul.”
 
-"Your stance, your persistence, everything you must protect, has already surpassed your concept of right and wrong, good and evil, and even surpassed your own existence. Therefore, even if every step is on thorns that pierce the soul, you never hesitate, never stop."
+When she first entered the Abyss, she couldn’t stop doubting, couldn’t stop sighing, couldn’t stop feeling puzzled and helpless again and again.
 
-When she first entered the abyss, she constantly questioned, constantly sighed, with repeated incomprehension and helplessness... Later, she always watched silently, offering reminders, offering comfort, and occasionally, offering suggestions that would never be adopted.
+Later, she spent most of the time watching him in silence and giving the occasional warnings and consolations. Sometimes, she would even provide him with suggestions—even if he never never accepted any of them.
 
-"Even I have gradually come to understand and accept, so why do you doubt your long-held persistence?"
+“If even I am slowly recognizing and accepting what you must do, why should you doubt the belief you have faithfully upheld your whole life?”
 
-The soul sea was silent for a long time before Yun Che's somewhat strange voice sounded, "I never knew you were so good at comforting people."
+There was a long silence inside his soul sea. Finally, Yun Che replied in a rather strange voice, “I never knew you had a talent for consoling others.”
 
-"Is this... considered praise?" Li Suo asked uncertainly.
+“...” Li Suo asked a bit uncertainly, “Does that... count as a compliment?”
 
-Yun Che smiled, his tone very natural, "Don't worry, I've experienced all kinds of troubles. My will is not as fragile as you think. I was just a little lost just now."
+Yun Che let out a natural chuckle. “Don’t worry. I’ve experienced all sorts of bullshit in my life. My willpower is not as weak as you think. I was just a little lost, that’s all.”
 
-In fact, it was far from "just a little."
+He wasn’t just “a little” lost, but Li Suo did not expose his lie.
 
-"A Creation God who symbolizes holiness and ultimate goodness actually agrees that stance transcends good and evil? If your believers from back then knew this, their faith would probably collapse." Yun Che's tone was strange, "I'm a little curious, what is your stance?"
+“Speaking of which, did a Creation God symbolizing holiness and the pinnacle of goodness just acknowledge that standpoints exceed the concept of good and evil? Your worshipers are going to have a faith crisis or even faith collapse if they learn about this.” Yun Che said in a strange voice, “I’m curious. What is your standpoint, exactly?”
 
-Unexpectedly, Li Suo gave him a direct answer, "My stance, naturally, is you."
+To his surprise, Li Suo answered immediately and without hesitation, “My standpoint is you, of course.”
 
-"..." Yun Che was slightly stunned.
+“...” Yun Che was caught off guard by this.
 
-"If the end of the road you are walking on is a huge evil fruit, I will bear it with you. After all, I am the one you call an 'accomplice', and an incomplete Creation God."
+“If the end of your path is a terrible fruit of sin, then I will bear it with you. I am, as you say, your ‘accomplice’ after all, a broken Creation God no less.”
 
-"So, there is no need to be anxious and confused. You are not Ni Xuan, nor Mo E, but the unique Yun Che. I hope, and believe, that you will walk a different path from them."
+“So do not lose yourself to hesitation and confusion. You are neither Ni Xuan nor Mo E. You are the one and only Yun Che. I look forward to and believe that you are walking toward a different fate from them.”
 
-"Hmm..." Yun Che seemed to be thinking, "Your words suddenly have a bit of the divinity of a Creation God... It actually moved me a little."
+“Hmm...” Yun Che pretended to think. “Now you are acting a bit like a true Creation God... You were so divine just now I almost shed a tear.”
 
-Li Suo: "?"
+Li Suo: “...?”
 
-A speck of white light shone slightly in the depths of the soul sea.
+It was at this moment a speck of white light shone from the depths of his soul sea.
 
-It was the last memory fragment left by the Heretical God.
+It was the final memory fragment left behind by the Heretic God.
 
-But when this memory fragment appeared, it released a soul aura completely different from before.
+The soul aura given off by this soul fragment was completely different from before, however.
 
-"This soul aura..." Li Suo expressed deep confusion, "It belongs to... me?"
+“This soul aura...” Li Suo looked deeply confused. “Belongs to... me?”
 
-"Strange!" Yun Che was also stunned, "Why would the Heretical God have a memory fragment belonging to you? Unless you gave it to him."
+“Strange!” Yun Che was surprised as well. “Why would the Heretic God have your memory fragment? Unless you gave it to him?”
 
-"..." Li Suo couldn't recall.
+“...” Li Suo could not recall anything.
 
-The soul aura released by this memory fragment was extremely weak, but it had a heavy sense of incompleteness. Perhaps it was faded by time, or damaged by external forces.
+The soul aura given off by this memory fragment was extremely weak and broken. Maybe it was because time was a merciless eraser, or maybe it was because it was damaged by an outside force.
 
-The white light on the fragment dispersed, spreading out a pure white world in Yun Che's consciousness.
+Regardless, the white light quickly spread and filled Yun Che’s consciousness with pure white light.
 
-As the world gradually became clear, Yun Che once again saw the outline of the Temple of Life.
+When the world slowly grew clear once more, Yun Che once again saw the Divine Palace of Life. However, the image was exceptionally blurry and broken everywhere.
 
-However, the scene was exceptionally blurry, with broken ruins everywhere.
+Inside the image, a white, fairy-like silhouette was slowly walking toward the Coffin of Eternity. She was as blurry as mist just like before, but there was no mistake. She was the Creation Goddess of Life Li Suo.
 
-In the scene, a white, fairy-like figure slowly walked towards the Eternal Hub... Although blurred like mist, that unparalleled divine posture could still be recognized as the Life Creation God, Li Suo.
+She reached out and enveloped the slumbering girl in the Coffin of Eternity, murmuring, “Not mortal, not god, not devil. To think that such a special soul base and soul origin could exist.”
 
-She stretched out her hand, and white light covered the sleeping girl in the Eternal Hub. She spoke softly, "There is such a special soul foundation and soul source in the world, neither human, nor god, nor devil."
+“Is this the outcome of a union between god and devil?”
 
-"Is this... the union of god and devil?"
+It was at this moment the white light surrounding the girl suddenly disappeared.
 
-At this moment, the white light covering the girl suddenly dissipated.
+There was a light distortion in space, and a semi-transparent silhouette actually took form above the girl.
 
-The space distorted slightly, and above the girl, a seemingly illusory shadow slowly appeared.
+Yun Che could not see her appearance clearly, but he could vaguely make out the image of a girl with long hair as dark as the night and skin as fair as snow.
 
-Yun Che couldn't see the full appearance of this shadow, but he could vaguely discern that it was the shadow of a girl with long, night-like hair and snow-white skin... but it wasn't Hong'er's hair color, nor Hong'er's figure.
+It wasn’t Hong’er’s hair color or body shape though.
 
-Facing this suddenly appearing girl's shadow, Li Suo's hand froze in mid-air, not moving for a long time.
+The sudden appearance of the girl caused Li Suo’s hand to freeze in the air. She did not move for a very long time. 𝗳𝚛𝚎𝚎𝘄𝕖𝕓𝕟𝕠𝚟𝚎𝕝.𝗰𝕠𝐦
 
-As the Creation God of Life, she was lost in thought for a long time.
+To think that she, the Creation Goddess of Life, would be lost for words for so long.
 
-The girl spoke, her voice ethereal and illusory, "Hello, Senior Li Suo. It's our first meeting. My name is Ni Jie, and I am the daughter of my father, Ni Xuan, and my mother, Jie Yuan."
+The girl spoke up first, and her voice was as sweet as a fantasy. “Greetings, senior Li Suo. It’s a pleasure to meet you. I am the daughter of my father, Ni Xuan, and my mother, Jie Yuan.”
 
-Li Suo's snow-white hand finally lowered gently, her eyes still fixed on the girl's shadow, "There is... such a beautiful thing in the world..."
+It was only then Li Suo lowered her hand, but she was still staring at the girl fixedly. “To think... that such beauty could possibly exist in this universe...”
 
-She was the Creation God of Life who gathered all the elegance of the ancient world, yet she uttered the same exclamation of being lost in thought that people would only utter when facing her.
+She, the Creation Goddess of Life, was the culmination of all that was beautiful in the ancient era, and yet she was making a remark that others usually made when they faced her.
 
-The girl continued, her voice carrying a hint of urgency, "Before my father separated my devil soul, I secretly hid a wisp of my soul. Fortunately, his mind was too chaotic to notice. However, my existence only has these last few dozen breaths."
+The girl continued with a bit of urgency in her voice, “I secretly hid a wisp of my soul before my father removed the devilish portion of my soul. He was so confused that he did not notice. Even so, I can only exist for a few dozen breaths longer.”
 
-"I request the kindest and most beautiful Senior Li Suo, when you solidify my soul in my new body, do not completely cover my soul foundation and soul source, but leave a gap."
+“I beg you, the kindest and most beautiful senior Li Suo. Please do not replace my soul base and soul origin completely when you reinforce my soul later. Please leave behind a tiny gap.”
 
-Li Suo looked at her, "Why?"
+Li Suo stared at her. “Why?”
 
-"Because my father couldn't bear to annihilate my devil soul and hid it instead. So, as long as my soul foundation is not sealed and my soul source is not extinguished, if one day I can touch my devil soul again, there may be a possibility of returning to completeness."
+“Because my father ultimately did not eliminate my devilish soul in the end. He chose to hide it instead. Therefore, so long as there is still a gap in my soul base, and so long as my soul origin still exists, I may yet one day rejoin with my devilish half and become whole.”
 
-After a brief silence, Li Suo slowly shook her head, "I can't."
+A short pause later, Li Suo slowly shook her head. “No, I cannot do that.”
 
-"Although I don't know the details, Ni Xuan's painful decision likely involves a promise with Mo E. He is not a man to break his promises, and Mo E is even less tolerant of broken promises."
+“I may not know what happened, but the fact Ni Xuan could bear to remove a portion of your soul in the first place is most likely because of a promise he made to Mo E. Ni Xuan isn't a man who breaks his promise, much less Mo E.”
 
-"Senior Li Suo is very smart," the girl praised, seemingly with a smile, as if she had no fear of her imminent eternal dissipation, "But I am just a girl who doesn't understand anything. I don't care about your adult promises. No matter how many promises there are, they are not as important as my father's safety."
+“You’re so smart, senior Li Suo,” the girl praised with what looked like a smile on her face. She did not seem to be afraid even though Li Suo had basically sentenced her to permanent disappearance. “However, I’m just a little girl who doesn’t understand anything. I care nothing for the promises of adults. Besides, no number of promises is more important than father’s safety.”
 
-"Your father's... safety?"
+“Father’s... safety?”
 
-"Didn't Senior Li Suo notice? My father's divine soul is already shattered."
+“Didn’t you notice, senior Li Suo? Father’s soul is broken.”
 
-"..." Li Suo did not deny it.
+“...” Li Suo did not deny this.
 
-"He is in too much pain, too much guilt, too much self-blame. His Creation God soul has cracked open many, many fissures. He just wants to avoid the world and sleep... And if his divine soul continues to crack like this, his sleep will become longer and longer. Perhaps he won't even have a hundred years of clarity in a million years."
+“He is wracked with so much pain, regret, and guilt, that even his Creation God soul is cracked in countless places. All he wants to do now is sleep and avoid facing reality... if his soul continues to break like this, he will slumber for a very, very long time. He may not awaken for even a hundred years for every one million years he sleeps.”
 
-"I... am powerless," Li Suo's voice carried deep helplessness and guilt. She could save all living beings, but she could not save the shattered soul of a Creation God.
+“There... is nothing I can do to help him.” Li Suo’s voice was tinged with deep helplessness and apology. She could save anyone, but not even she could save a Creation God whose soul was broken.
 
-"But I have a way to repair my father's divine soul."
+“But I know a way to repair father’s soul.”
 
-The girl's figure obviously faded a bit, and her voice became even more urgent, "Moreover, I heard Senior Mo E say with his own ears that his promise to the Ancestral Sword Spirit, his intolerance of the fusion of god and devil, will last until the end of his life... That is to say, after his death, all grudges, persistence, and promises will be resolved."
+The girl’s silhouette suddenly became more transparent than before, and she spoke with added haste and urgency, “Besides, I personally heard from senior Mo E’s mouth that his promise to the Ancestral Sword Spirit that gods and devils will never merge will only last until the end of his life... In other words, all the promises, grievances, and stubbornness will be resolved once he passes away.”
 
-"Therefore, I will not make things difficult for my father and Senior Li Suo. Even if I want to return to completeness, it must be after Senior Mo E's death. Senior Li Suo, I beg you, otherwise, my father will really... slowly fall into eternal sleep."
+“I won’t put you or my father in a difficult position. Even if one day I seek to become whole once more, I will wait until senior Mo E has passed away, so please, senior Li Suo. Otherwise... Father really will never awaken.”
 
-"But..." Li Suo said, "If the soul foundation and soul source are not covered, your new body and temperament will never be able to grow, forever remaining in a childish state. And the possibility of restoring completeness is infinitely slim. Even so, do you still insist?"
+“But...” Li Suo hesitated. “If I do not replace your soul base and soul origin completely, then both your new body and your mind will be forever stuck in childhood. Not only that, your chances of becoming whole again are, frankly, extremely small. Do you still want to do this despite knowing this?”
 
-"Yes!" The girl answered without any hesitation, "I can't let my father continue to be so sorrowful. Even if there is only a little hope, I must save him. This is what I must do as his daughter. Otherwise, when Mother returns, she will be very sad and heartbroken..."
+“Mm!” The girl answered without hesitation. “I cannot allow my father to keep suffering like this. If there is even a tiny bit of hope to save him, then I will. This is my natural duty as his daughter. Otherwise, mother would be very sad when she returns...”
 
-Mother... returns?
+She thinks her mother can still return?
 
-Li Suo did not correct the girl's "fantasy" about her mother's return as a daughter.
+Li Suo wisely did not correct her fantasy.
 
-The girl's figure weakened a bit more, leaving only a faint mist.
+The girl’s silhouette grew even blurrier and indistinct. Now, she was no more than a faint sheet of mist.
 
-"Senior Li Suo, please promise me. In return, I can tell Senior Li Suo a big secret. When my father was fighting with Senior Mo E, I found that I could... perceive... 诛 (Punishing)..."
+“You must help me, senior Li Suo. In exchange, I’ll tell you a massive secret. When father was fighting against senior Mo E, I realized I could sense the... Heaven... Punishing...”
 
-The girl's shadow suddenly dissipated along with her voice.
-
-Leaving Li Suo in a long daze.
-
-AI Translation Notes:
-1:
-颓然 (tuí rán): This term describes a state of being dejected, dispirited, or despondent.
-
-Human Editors Notes:
-"Ancestral Gods" to "Creation Gods" by Léo
-Added a missing word (诛) in Ni Jie's final sentence. It could be referring to the Heaven Punishing Ancestral Sword (诛天始祖剑) or something else?... -illusion
+The girl’s silhouette and her voice disappeared then, leaving behind a dazed Li Suo.

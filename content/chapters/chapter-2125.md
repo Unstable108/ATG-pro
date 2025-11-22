@@ -1,292 +1,235 @@
 ---
 chapterNumber: 2125
-title: "Malice "
-publishedAt: "2025-11-20"
+title: "Malice"
+publishedAt: "2025-11-22"
 ---
 
-Dian Sansi’s hands clenched violently. His emotions, which had just barely calmed, were reignited like a sudden blaze of wrathful fire, surging uncontrollably to the top of his head.
+Dian Sansi’s hands abruptly clenched his fists, the emotions he had just suppressed suddenly blazing through the roof of his skull like an explosion. However, a warm, gentle, profound qi enveloped his body and soul sea just in time to quell his rising anger gradually. “I do not wish to see him right now. Please deal with him for me.”
 
-A soft, warm flow of profound energy spread through his body and soul sea, pressing down the storm of hostility that had just erupted.
-“I don’t want to see him right now. Help me deal with it,” came a calm voice.
+Dian Sansi looked up. “I...”
 
-Dian Sansi raised his head. “I…”
-
-“To know self-reflection is only the beginning of growth,” Dian Jiuzhi said evenly. “To truly mature—to stand on your own—you must learn to control your words, your deeds, and your emotions. Your joy and anger should not show on your face; your heart may burn with hellfire, yet your countenance must remain still as a mirror lake. Hate to your very bones if you must—but do so with a smile and steady voice.”
-
-Dian Jiuzhi’s demeanor was composed, his eyes unclouded, like an elder brother patiently teaching a younger one who had not yet come of age.
+“Thinking thrice and maintaining self-awareness are just the beginning of one’s growth. To truly become an independent grown-up, one must learn to control one's emotions, behavior, and conduct. You must have control over both your emotions and your appearance. Hellfire may burn in your heart, but your expression must remain as calm as a mirror lake. Hatred may stew in your very marrow, but you still must speak and smile like nothing is amiss.” Dian Jiuzhi said calmly and collectedly, without any dark spots in his eyes. He was acting like an older brother, gently and patiently educating an immature sibling at the right time.
 
 “I believe you can do it.”
 
-Dian Sansi shook his head, then quickly steadied himself and nodded firmly. “Don’t worry, Brother Jiuzhi. I won’t let you down.”
+Dian Sansi shook his head and quickly calmed himself down. He nodded firmly and said, “Don’t worry, Brother Jiuzhi. I won’t disappoint you.”
 
-Yun Che’s arrival instantly drew the attention of all the powerful beings within the Senluo Divine Kingdom.
+Yun Che’s arrival immediately attracted the gaze of many Boundless Kingdom of God experts.
 
-It was his first time meeting the legendary First Divine Sovereign of the Six Divine Kingdoms. The man’s eyes shone like torches; his beard was that of a lion’s mane. His arms were thick and gleaming like forged steel, and no one would doubt that they contained the power to rend the heavens.
+This was the first time Yun Che saw the legendary number one Divine Regent of the Six Kingdoms of Gods. His eyes blazed like a torch, his beard resembled a lion’s mane, and his arms shimmered in the light like refined metal. No one doubted that they possessed the strength to rip open the sky. When his gaze landed on Yun Che, Yun Che felt like a mountain so tall its peak could not be seen was collapsing on top of him. Despite his mental preparation, his breathing still stalled for an instant, then another.
 
-When his gaze fell upon Yun Che, it felt as if a sky-piercing mountain were collapsing down upon him.
+After casting Yun Che a measuring glance, Dian Rahu let out a bark of laughter containing none of the dignity the number one Divine Regent should possess whatsoever. Then, he personally walked over to Yun Che while declaring, “You’re the boy from Old Meng’s clan, right? I’ve been hearing your name so often my ears are growing calluses!”
 
-Even with mental preparation, Yun Che’s breath still stalled for two fleeting moments.
+His voice boomed like a great bell. Every word he spoke impacted the soul. As he walked, the entire world seemed to be shaking in response.
 
-Glancing at him, Dian Luohu—far from displaying the lofty majesty befitting the First Divine Sovereign—burst into booming laughter as he strode forward himself. “So it’s the young one from Old Meng’s family! I’ve heard your name so often these days, my ears have calluses from it!”
+Yun Che swiftly performed a standard-compliant junior’s salute and spoke with one-third humility and two-thirds composure. “Junior Yun Che greets the Boundless Divine Regent. When I was wandering the world, your title was already as loud as thunder. After I returned to the Dreamweaver Kingdom of God, the Dreamweaver Divine Regent often mentioned you. Now that I finally get to meet you, I find myself excited and fearful beyond words.”
 
-His voice was like thunder, every word shaking the soul.
+Dian Rahu’s gaze roamed around and around Yun Che several times before he let out a peal of laughter. “Hahahaha! You call yourself ‘Yun Che’ and Old Meng ‘Dreamless Divine Regent’, huh? You are definitely as stubborn as he claims. That said, I believe I understand why he just can’t stop praising you to the heavens every time we speak. Forget your perfect divine essence, just this sack of flesh of yours is many times better than the spoiled brat your dad used to be!”
 
-With every step he took, it felt as if the entire world quivered in rhythm.
+“Way back when I was carrying you in my arms, you weighed only four kgs or so and looked as wrinkly as a monkey. You have no idea how much face you’ve won for Old Meng by looking as good as you are today, hahahahahaha!” His laughter was deafening, but it contained not an ounce of superiority or seniority toward a junior. There was only sincere appreciation for the son of his best friend.
 
-Yun Che quickly performed the formal salute of a junior, his tone part modesty and part composure.
-“Junior Yun Che greets the Revered Divine Sovereign Luohu. While wandering abroad, I often heard your name resound through the heavens. After returning to the Dreamweaver Divine Kingdom, the God Sovereign Wumeng often spoke of you as well. To finally behold you today is both an honor and a trembling joy.”
+Yun Che gave him a small smile. “I do not deserve such praise, senior Divine Regent. You are the one whose power is as vast and intimidating as the rumors claim. Anyway... is the Boundless Divine Son available right now? This junior has had the good fortune to speak with him once, and I was quite fond of our conversation. That's why I came to pay him a visit as soon as I could.”
 
-“Hmm…” Dian Luohu’s eyes scanned Yun Che several times before he laughed aloud. “Hahaha! So you’re really as Old Meng described—stubborn as a mule! No wonder he always praises you to the skies. Never mind that perfect divine soul of yours—even your looks outshine your useless father by a wide margin back in the day!”
+It was at this moment that Dian Sansi stepped out of the barrier and declared, “Your timing is unfortunate, Divine Son Yuan. Big Brother Jiu was basking in the divine aura of the Pure Land when suddenly, he sensed the possibility of enlightenment and hurried to capture it. I have been guarding him until now.”
 
-“I still remember when I held you as an infant—you weighed barely eight jin, all wrinkled like a little monkey! Look at you now—you’ve brought no small glory to that old dreamer, hahahaha!”
+Dian Rahu’s eyebrows twitched in surprise. However, he suspected nothing and responded with pride, “How fortunate! Good. Very good!”
 
-His laughter thundered, yet there was not a hint of condescension—only the fond appreciation of an elder for the son of a dear friend.
+Yun Che said smilingly, “As expected of Brother Dian. Fortune comes to him as easily as breathing. I am most envious.”
 
-Yun Che smiled. “The Divine Sovereign flatters me. You are indeed as majestic and awe-inspiring as the stories say. Might I ask if the Senluo Divine Son is present? I once had the fortune of conversing with Brother Dian, and we got along most delightfully. Now that I’ve come to the Pure Lands, I couldn’t resist paying my respects.”
+He looked at Dian Sansi for a moment before asking, “Forgive me if I’m wrong, but are you Brother Sansi?”
 
-Dian Sansi stepped out from the barrier and said aloud, “You’ve come at an unfortunate time, Yun Shenzi. Brother Jiuzhi is currently bathing in the sacred aura of the Pure Lands. He was suddenly struck by inspiration and is now in seclusion within the barrier, comprehending enlightenment. I’ve been standing guard for him.”
+Dian Sansi and Yun Che had never seen each other before, and yet Yun Che had somehow identified him accurately.
 
-“Oh?” Dian Luohu raised his brows, then smiled with satisfaction. “So that’s how it is. Good! Very good!”
+Hiding his astonishment, Dian Sansi responded, “I am Sansi, yes, but you absolutely mustn’t address me as ‘Brother Sansi’, Divine Son Yuan. You are too lofty for that. Just call me Sansi.”
 
-“I see,” Yun Che said with a smile. “As expected of Brother Dian—always seizing fortune with ease. Truly admirable.”
+Yun Che responded with a harmless, graceful smile. “The Divine Son of Dreamweaver is Meng Jianxi. I am just a lost son who recently returned home, and so do not deserve the title. You are one sexagenary year older than me, and your good reputation is like thunder piercing the ears. I find no problems addressing you as a brother whatsoever.”
 
-Turning toward Dian Sansi, he said thoughtfully, “And this must be Brother Sansi?”
+“Hahahaha!”
 
-Though they had never met, Dian Sansi was startled to hear Yun Che address him by name. “I am Dian Sansi,” he replied. “But please, ‘Brother Sansi’ is too much. You are the Divine Son of the Dreamweaver Nation—just call me Sansi.”
+Dian Rahu let out another peak of laughter. “Your skill in the art of conversation, inflexibility in regard to conventions, and dawdling way of speech resemble your dad, alright.”
 
-Yun Che smiled with harmless gentleness. “The Divine Son of Dreamweaver is Meng Jianxi; I’m merely a wanderer returning home—unworthy of such a title. You’re sixty years my senior and famed throughout the realm. To call you ‘Brother’ is only proper.”
+Yun Che gave Dian Sansi a friendly nod before saluting Dian Rahu again. “It is a shame, but this enlightenment is, without a doubt, a good thing for Brother Dian. This junior shan’t take up any more of your time. I will catch up with Brother Dian at another time.”
 
-“Hahahaha!” Dian Luohu laughed again. “You boy—you’ve got quite the tongue! All that polite formality and rule-following—reminds me of your father back in the day!”
+“Yes, the essence of comradeship lies in persistence and endurance. There is no need to shackle oneself to one moment.”
 
-Yun Che gave a friendly nod to Dian Sansi, then saluted Dian Luohu once more. “Though I regret not seeing Brother Dian this time, it is undoubtedly a blessing for him. In that case, I shall not disturb you further. I’ll visit again later to catch up.”
+Dian Rahu did not try to keep Yun Che around. “Sansi, will you please escort Divine Son Yuan out?”
 
-“Hmm. Friendship lies in endurance, not immediacy,” Dian Luohu said, not stopping him. “Sansi, see the Dreamweaver youth off.”
+Clearly, Dian Rahu was facilitating a friendship between Dian Sansi and Yun Che. It didn't matter whether Yun Che was the Dreamweaver Divine Son or prepared to embrace his identity as Meng Jianyuan. His perfect divine essence was an indisputable fact that wowed the entire world. Meng Kongchan’s guilt, regret, and fondness for Yun Che were clear as day to Dian Rahu as well.
 
-It was clear he intended to help Dian Sansi and Yun Che form a bond.
+If Meng Jianyuan (Yun Che) had not encountered a fatal accident when he was young, he would have been the next Dreamweaver Divine Regent for sure.
 
-Whether Yun Che now acknowledged the name Meng Jianyuan or not—whether or not he still bore the title of Dreamweaver Divine Son—mattered little. His perfect divine soul was known and marveled at throughout the world.
+Inside the barrier, Yun Che’s departure caused Dian Jiuzhi to let out a long, long sigh of relief—even though he was the one betrayed, and Yun Che the betrayer.
 
-Meng Kongchan’s guilt and affection toward Yun Che were equally plain to see.
+Alone and isolated, Dian Jiuzhi allowed his pain and dejection to surface in full. His facial features kept spasming even though a long time had passed.
 
-Unless struck down by misfortune, the future Dreamweaver God Sovereign could only be Meng Jianyuan—Yun Che.
+“When a tree is tall, phoenixes will come. When a flower smells nice, butterflies will arrive. You are the flower, but it would appear that I... am not the tree.”
 
-Within the barrier, sensing Yun Che’s departure, Dian Jiuzhi—though the one betrayed and hurt—finally let out a long sigh of relief.
+“The phoenix once granted me its light and painted colors into my gray life... What is there to hate... What is there to resent...”
 
-With no one around, his exhaustion and pain surfaced fully, his facial muscles twitching uncontrollably.
+There was a faint chill on the back of his hand. Through the blurriness of his eyes, he saw a wet mark slowly making its way toward the ground. It was pure and limpid, and yet the faint light it reflected pierced his eyes and stabbed his heart.
 
-“A tall phoenix tree will surely draw the phoenix; a fragrant flower will naturally call the butterfly… So you are the blooming flower—and I, alas, am not the tree.”
+He closed his eyes and whispered to himself, “The great luck of a lifetime is finding someone you are willing to give up everything for... This is fine. If you are certain that he is the one in your life; if you, someone who has never crossed the line, are willing to do so for him...”
 
-“The phoenix once shone its colors and lit my dying heart… What is there for me to hate… or resent…”
+“Then I... will never become an obstacle in your path.”
 
-His hand felt cold. In the haze of grief, he saw a glimmer of moisture slide down.
+“I will only help you... Caili.”
 
-Crystal-clear though it was, the reflected light pierced the heart like a blade.
+The escort was taking longer than Dian Sansi expected. More accurately, Yun Che just would not stop asking him about things everyone should already know about the Boundless Kingdom of God. He never told him to stop, either. So, Dian Sansi had no choice but to keep answering his questions and continue escorting him. Before they knew it, they had gone far, far away from the Boundless Kingdom of God’s area.
 
-Closing his eyes, he murmured softly, “To meet someone willing to give their all for love—is life’s greatest blessing. Very well, Caili… if he is the one your heart has chosen, the one for whom even you—who never cross boundaries—would defy all restraint…”
+Suddenly, Yun Che changed his tune and asked, “You and Dian Jiuzhi saw what happened in front of Ling Xian’s divine abode, didn’t you?”
 
-“I will never stand in your way.”
+Dian Sansi’s footsteps came to an abrupt stop.
 
-“I will only help you.”
+Looking at the faint smirk plastered on Yun Che’s face, Dian Sansi gradually came to a terrible realization. He felt his shock rapidly transforming into stone-cold chillness as he asked, “You... That was on purpose?”
 
-Dian Sansi escorted Yun Che far from the Pure Lands. Yun Che continued asking about various well-known matters of the Senluo Divine Kingdom, never letting him turn back.
+“Of course.”
 
-Patiently answering, Dian Sansi didn’t realize how far they had walked until they were already beyond sight.
+Yun Che’s smirk spread wider and wider with undisguised scorn. “We are in the Pure Land. Did you think I would have acted so recklessly if I hadn’t sensed Dian Jiuzhi’s approach?”
 
-Then Yun Che suddenly shifted his tone, catching him off guard.
-“Back at the Spirit Immortal Hall—you and Dian Jiuzhi both saw it, didn’t you?”
+Dian Sansi had been doing his best to stay cool and calm before Yun Che this whole time, but now, cracks were forming in his expression and composure. He just wasn’t expecting Yun Che, the man who wasn’t the Dreamweaver Divine Son but might as well be better, to suddenly act like this. It was just so unexpected and bare!
 
-Dian Sansi froze mid-step.
+While suppressing his anger by force, Dian Sansi let out a peal of cold laughter. “Should I take this as a taunt against Brother Jiuzhi and the Boundless Kingdom of God!?”
 
-Staring at the faint, knowing smile on Yun Che’s lips, he began to understand—and his expression darkened. “You… did that on purpose?”
+“Oh no no no, I am just a small junior of Dreamweaver. Who am I to taunt a vast and powerful kingdom like the Boundless Kingdom of God? I am simply...”
 
-“Of course,” Yun Che said, the curve of his lips widening into open mockery. “If I hadn’t sensed Dian Jiuzhi’s aura approaching, I wouldn’t have been so unrestrained in the Pure Lands.”
+It sounded like he was backpedaling until his smile suddenly turned malicious. “Looking down on Dian Jiuzhi, that’s all.”
 
-“You…!!”
+“After all, who would have thought that the so-called number one Divine Son of the Six Kingdoms of God... is really just a pitiful and pathetic coward?”
 
-All the calm that Dian Sansi had forced himself to maintain cracked apart.
+Dian Sansi lost control of his aura, and the surrounding air currents abruptly roared with deep anger. There was even a faint but unmistakable wisp of killing intent mixed within them.
 
-Never had he imagined that Yun Che—though not the Dreamweaver Divine Son—would reveal such a face, so suddenly, so brazenly!
+Yun Che crossed his arms in front of his chest and looked at Dian Sansi curiously. “Are you angry, Brother Sansi? Did I say something wrong?”
 
-He forced down his fury and let out a cold laugh. “Are you trying to provoke my Brother Jiuzhi—to provoke the entire Senluo Divine Kingdom!?”
+“Dian Jiuzhi was probably a thousand, no, ten thousand times angrier than you are now when he saw what happened before Ling Xian’s divine abode. Any normal person—any man with even a bit of spine or hot blood in him—would have roused in anger and challenged me with gritted teeth.”
 
-“Oh no, no,” Yun Che said lightly, his tone falsely humble but his smile vicious. “I wouldn’t dare provoke something as grand as the Senluo Divine Kingdom. I just…”—his voice turned sharp—“…look down on Dian Jiuzhi.”
+“Unfortunately... Excuse me, what I mean to say is, as expected of the Boundless Divine Son. Despite being so angry that his skull should have shattered from sheer fury, and despite facing shame so deep it is a miracle his liver and gall are still intact, he still chose to withdraw his head back into his turtle shell, swallow all of that humiliation, and run away with you.”
 
-“After all, this so-called ‘Number One Divine Son of the Six Nations’ is, in truth, nothing but a pitiful coward!”
+“Do you know what’s better? A humiliated dog at least knows to bark a couple of times in defiance before running away. However, forget barking, the so-called number one Divine Son didn’t even dare to stir up the air around him as he ran away! Tsk tsk tsk tsk, hahahaha!”
 
-Boom!
+Crack! Crack! CRACK!!
 
-Dian Sansi’s aura flared out of control, the surrounding air exploding in deafening bursts.
+The sounds of teeth breaking and bone dislocating were mixed within Yun Che’s laughter. They came from Dian Sansi, of course. It took him nearly all of his willpower to push down the urge to punch Yun Che out of existence. His originally pale and handsome face had become so reddened that it looked like he was covered in blood.
 
-A deep fury—tinged faintly with killing intent—seeped from his chaotic breath.
+“Hmm? What’s that noise?”
 
-“Oh?” Yun Che folded his arms, watching him with interest. “Brother Sansi, are you angry? Did I say something wrong?”
+Yun Che remained calm and unruffled as he stared at Dian Sansi. “Are you angry? Are you going to take it out on me on behalf of your Brother Jiuzhi?”
 
-“At the Spirit Immortal Hall, Dian Jiuzhi must have been a thousand times angrier than you are now. Any ordinary man—anyone with a shred of pride or blood—would have stood up and faced it head-on.”
+“I heard that you are a third-level Divine Extinction Realm profound practitioner despite only being three-sexagenary-years old. On the other hand, I am just a Divine Master. It would probably take you no effort whatsoever to crush me in a fit of anger. Oh, I’m so scared...”
 
-“But alas… or rather, fittingly for the Senluo Divine Son, even when his spirit was crushed, when his honor was torn to pieces, he still chose to shrink his head back into his shell—and drag you with him in cowardly retreat.”
+That was what he said, but his eyes were taunting, ridiculing, and not afraid in the slightest. The only reason that a beam of reason still shone through the haze of fury choking Dian Sansi’s mind was Dian Jiuzhi’s advice to him, and his own promise to Dian Jiuzhi.
 
-“What’s even funnier—at least a mangy dog knows how to bark when it’s humiliated. But your noble ‘Number One Divine Son’—he didn’t even dare make a sound as he fled. Tsk, tsk, tsk… hahahahaha!”
+His aura of anger disappeared, and Dian Sansi forced out the trace of a cold sneer. However, before he could mouth a retort, Yun Che suddenly put on a clearly exaggerated look of surprise:
 
-Crack! Crack! Crack!
+“Oh... I get it now. You don’t dare. Your Brother Jiuzhi must have told you repeatedly to keep quiet about this and feign ignorance, no matter what. I can even imagine the reason he gave you. It must be about the bigger picture—the bond between the Kingdoms of God and the dignity of a Divine Son. He probably also told you that appropriate actions can be taken after you leave the Pure Land, didn’t he?”
 
-Yun Che’s laughter mingled with the grinding of teeth and snapping joints from Dian Sansi.
+The insults Dian Sansi was preparing died like someone had struck him in the throat. The redness that just receded from his face—and only barely—immediately swelled into a horrifying bluish purple.
 
-It took every ounce of willpower for Dian Sansi to suppress the urge to strike. His fair face darkened, turning blood-red.
+Yun Che beamed at him. “Ooh, look at that complexion. I must have gotten it right then. What did I expect, really? No one comes up with excuses better than a useless person.”
 
-“Hm? What’s that sound?” Yun Che asked lazily. “Is Brother Sansi angry enough to avenge your Brother Jiuzhi on me?”
+“Yun... Che!”
 
-“I hear you’ve already reached the third level of the God Extinction Realm at just sixty years of age—unmatched among your peers in Senluo. I, on the other hand, am only a mere God Lord. Surely one blow of your righteous fury would reduce me to dust. How terrifying.”
+The murderous glint in Dian Sansi’s eyes was almost tangible at this point. “You may be the Dreamweaver Divine Son, but even you will regret insulting Brother Jiuzhi and the Boundless Kingdom of God for life!”
 
-Despite his words, his eyes gleamed with mockery—without a trace of fear.
+Yun Che’s response to his guttural growl was, “The next best skill of a useless person is barking. They’re useless after all. What else can they do besides bark?”
 
-Dian Jiuzhi’s warnings and his own promise echoed in his ears, carving out a sliver of reason amid the rage.
+Dian Sansi nearly crushed his teeth there and then. It took replaying Dian Jiuzhi’s words and especially his brother’s begging to finally push down the nigh uncontrollable flames of anger scorching his insides.
 
-Slowly, the fury subsided instead of flaring, and Dian Sansi managed a cold, stiff smile.
+“Anyway, what were you talking about? Right, you want me to make me regret for life. That’s easy enough. You simply need to tell your Father word-for-word what happened today. I’m sure the Boundless Divine Regent’s anger could easily burn me to ash. Or...”
 
-He was just about to retort when Yun Che suddenly put on a look of exaggerated realization.
+Yun Che frivolously raised a finger and tapped his own skull. “You can punch me in the head right now.”
 
-“Ohhh~~ I see. You don’t dare. Your Brother Jiuzhi must have ordered you again and again to stay silent, to pretend ignorance—all for the sake of the ‘nation’s dignity,’ the ‘divine son’s face,’ to wait until you’ve left the Pure Lands before acting, am I right?”
+“Although the price of attacking in the Pure Land is severe, and no one, not even a Divine Regent, can get away without severe punishment, you are a man, aren’t you? Nothing is greater to a man than his dignity and the hot blood coursing through his veins, right? What do you think, Brother Sansi?”
 
-The words struck like a hammer to the chest. Dian Sansi’s face, which had barely regained its color, turned a ghastly blue-purple.
+As he spoke, Yun Che actually took two steps closer to Dian Sansi and allowed the man’s anger—so hot and boiling that it was practically tangible—to wash over him unhindered. His smile remained easy, and he showed no fear whatsoever.
 
-Yun Che smiled serenely. “Your face just turned ugly. Looks like I hit the mark. Then again, it’s no surprise—cowards are experts at weaving excuses.”
+Dian Sansi clenched his hands tighter and tighter. Beads of blood were seeping through the gaps. “You... are agitating me on purpose!!”
 
-“Yun… Che!” Dian Sansi’s eyes gleamed with killing intent. “Even if you are the Dreamweaver Divine Son—dare to insult my Brother Jiuzhi and my Senluo Divine Kingdom, and you will pay a price you’ll regret for the rest of your life!”
+“Correct.”
 
-“Oh, that’s simple,” Yun Che said lazily. “You could tell your father god what happened today—Divine Sovereign Luohu’s wrath would surely burn me to ash. Or…”
+Yun Che admitted generously, “I want to see exactly how useless the two most outstanding talents of the Boundless Kingdom of God are with my own eyes, and what do you know? I'm not disappointed.”
 
-He lifted a finger and tapped it lightly against his own temple. “You could just smash my skull right here.”
+“You are the same as that pitiful Boundless Divine Son. You are both spineless wimps through and through!!”
 
-“True, striking within the Pure Lands carries a heavy cost—one that not even your title could escape. But as men, our pride and blood should come before all else, don’t you think, Brother Sansi?”
+Accompanying those toxic words was the most malicious, mocking smile he could muster.
 
-He stepped closer—two deliberate paces—into the seething heat of Dian Sansi’s fury, still wearing that calm, smiling face.
+Yun Che let out a cold chuckle and turned around. He strode away while Dian Sansi’s murderous, devouring gaze was glued to his back. “To think that a useless piece of garbage like this dares to dream of my Caili. I would laugh if it weren’t so pathetic. Return to Dian Jiuzhi and tell him that a toad should remain in the filthy mud where it belongs. No matter how high it jumps, it will never be able to change its filthy and pathetic nature.”
 
-Dian Sansi’s fists tightened until blood oozed between his fingers. “You’re… deliberately goading me!!”
+Crack!! Several beads of blood leaked out of Dian Sansi’s teeth. Still, he restrained himself with all his might. He just stared through the red haze at Yun Che’s back until the monster was completely, utterly gone from his vision.
 
-“Yes,” Yun Che admitted cheerfully. “Because I want to see, with my own eyes, just how worthless the two most ‘brilliant’ men of the Senluo Divine Kingdom can be.”
+After Yun Che was sure he was out of Dian Sansi’s vision and perception, his disdainful expression faded and relaxed into perfect calm.
 
-“As it turns out, you’re no different from that pathetic Senluo Divine Son—both of you are nothing but pure, spineless trash!”
+“Why did you... anger him like that? Weren’t you afraid that he would lose control and attack you without warning?” Li Suo asked with deep worry.
 
-His words dripped with mockery and venom, the derision on his face stretched to its fullest.
+Yun Che replied, “Don’t worry. I know what I’m doing.”
 
-With a faint, cold laugh, Yun Che turned leisurely around. Amid Dian Sansi’s glare—so fierce it seemed ready to strip his bones bare—he walked away at an unhurried, almost casual pace.
+The Devil Queen was most proficient in perceiving emotions and thoughts. Judging if a person’s anger was close to spiraling out of control was just the most basic and straightforward technique of them all.
 
-“Such filth dares to covet my Caili? What a cosmic joke. Go back and tell Dian Jiuzhi this—” his voice grew low and sharp, “a toad belongs in the mud. No matter how high it jumps, it will never change its filthy, pitiful nature.”
+Li Suo asked, “You are that certain that no one would dare to attack another in the Pure Land?”
 
-Crack!
+“Oh no,” Yun Che shook his head, “that is one reason, but it isn't the most significant one. What I truly counted on was Dian Jiuzhi’s single-minded infatuation with Hua Caili.”
 
-A few beads of blood spattered from between Dian Sansi’s clenched teeth.
+The rarest and most precious emotion in the world was infatuation. The easiest emotion to exploit was also infatuation. Therefore, the most despicable and unforgivable crime one could commit under the heavens... was exploiting infatuation.
 
-But even then, he endured—refusing to strike—until Yun Che’s figure vanished completely from his crimson-blurred vision.
+These words were clearly etched in Chi Wuyao’s cognition.
 
-Only when Dian Sansi’s perception could no longer reach him did Yun Che’s mocking expression fade, replaced by utter calm.
+Li Suo could not understand him. “What makes you so sure that Dian Jiuzhi’s infatuation for Hua Caili would push him to stomach even such lows?”
 
-“You provoked him that far,” Li Sou said quietly, her tone edged with concern. “Aren’t you afraid he might lose control and strike in a rage?”
+Yun Che did not try to act mysterious this time. He answered frankly, “Before, I had only heard of his infatuation with Caili. But during our meeting at the Dreamweaver Kingdom of God... everything about him shone with the proud radiance of the number one Divine Son, except when he was asking me how he could win the favor and affection of a beloved. It was during that moment that I saw the terrible, deep shame and self-abasement that are rooted in his very marrow.”
 
-Yun Che replied evenly, “Don’t worry. I know my limits.”
+Despite his words, not a hint of ridicule existed in his eyes. On the contrary, it was shrouded by a hidden layer of gloom.
 
-Sensing fluctuations of emotion—even the subtlest changes of mood—was the Demon Queen’s greatest specialty. Among such skills, judging whether someone’s anger was on the brink of total loss of control was the simplest of all.
+Yun Che’s explanation only puzzled Li Suo even more, but she did not press him about it. It was because she knew that her understanding of the love between a man and a woman was terribly shallow. In this regard, every line of the pitiful sketching that currently formed her canvas of knowledge came from Yun Che only.
 
-Li Sou asked, “So you’re certain no one would dare make a move within the Pure Lands?”
+Yun Che lifted a hand and clenched his fingers slightly. “Right now, Dian Sansi is more or less on the brink of explosion. The pressure is so fierce that it screams for release, and yet he must endure that shame and anger. It is not something one can dispel in a short time.”
 
-“No.” Yun Che shook his head. “That’s only the smallest reason. What I truly exploited… was Dian Jiuzhi’s infatuation with Hua Caili.”
+“When the time comes, when I feel that the timing is right, one poke is all it takes to...”
 
-In this world, few things are rarer—or more precious—than true devotion.
+Yun Che mimicked an eruption with his fingers while wearing a spine-chilling grin on his face.
 
-And nothing is easier to exploit than devotion.
+Li Suo was silent for a long time before she said quietly, “Your current expression is a little scary.”
 
-Therefore, the most despicable sin of all… is to use that devotion.
+Yun Che admitted without guile, “It’s looking more and more like your standard-compliant smile of a devil, isn’t it?”
 
-Those words existed clearly in the awareness of the Demon Queen, Chi Wuyao.
+“Perhaps,” Li Suo answered.
 
-Li Sou couldn’t comprehend. “How can you be so sure that Dian Jiuzhi’s love for Hua Caili could drive him to such extremes?”
+An instant later, she said lightly, “Still, you should tread carefully. Very carefully. This is the highest plane of existence of the Abyss. Any misstep will result in eternal tribulation.”
 
-Yun Che did not pretend to be mysterious; he answered plainly, “Before, I only heard of his obsession with Caili. But when I met him in the Dreamweaver Divine Kingdom, everything about him radiated the brilliance befitting the First Divine Son. Yet when he suddenly asked how he might win the favor and affection of the one he desired most, beneath that shining aura… I saw a self-contempt and inferiority so deep it reached the bone.”
+From the moment they set foot in the Pure Land, Li Suo had tirelessly warned and persuaded him to be careful over and over. Maybe it was because even her exceedingly faint soul of a Creation God sensed something concerning in this supposed land of purity.
 
-As he spoke, not a trace of ridicule appeared in Yun Che’s eyes—only a faint, concealed darkness.
+“Mm. Don't worry.”
 
-His explanation only left Li Sou more puzzled. But she didn’t press further, for she knew her own understanding of love between man and woman was too faint—
-a faintness carved into her by Yun Che himself.
+Once again, Yun Che offered her words of consolation and promise, “To me, the Pure Land is actually the safest place in the entire Abyss.”
 
-Yun Che raised his hand, fingers curling as if grasping something unseen. “Right now, Dian Sansi has been pushed to his limit. The rage and humiliation burning within him—forced to be repressed instead of released—won’t fade anytime soon.”
+Yun Che’s footsteps were slow. Was it on purpose, or was it because he was thinking about something that slowed his footsteps?
 
-“When the time comes, when I decide the moment is right, just one small prick will be enough to make him—”
+Out of nowhere, he asked Li Suo a question she could never answer, “Say, do you think that someone who exploits another’s sincerity... no matter the reason behind their exploitation... deserves forgiveness?”
 
-Bang!
+As expected, he received no answer from Li Suo despite waiting for a long time. She was simply incapable of answering that question.
 
-Yun Che’s fingers opened, the motion bursting with a faint crack of air. A chilling smile crept across his face.
+Clearer than ever before, she could feel a twitch in his soul as he said those words. It was just a twitch; insignificant and expelled from Yun Che’s soul almost the instant it appeared, and yet it pierced Li Suo’s soul and filled her with unfamiliar, never-before-felt pain.
 
-Li Sou watched him silently for a long moment before murmuring, “Your expression… is a little frightening.”
+It was such a pain that it nearly permeated her entire soul.
 
-“Mm.” Yun Che admitted it without hesitation. “The face of a proper demon, isn’t it?”
+It felt like a kind of... soundless breaking that came from the bottom of the soul.
 
-“Perhaps,” Li Sou replied softly. After a pause, she added, “Still, you must be as careful as possible. This is, after all, the highest realm of the Abyss. Even the smallest misstep could mean eternal ruin.”
+Yun Che’s pace did not change, nor did he say anything after the sudden question. This lasted until a certain moment where his spirit suddenly became taut as a wire. It did not relax one bit for several breaths straight.
 
-Ever since stepping into the Pure Lands, Li Sou’s few words had been constant—repeated warnings, reminders to be cautious, again and again.
+Yun Che did not stop moving, but he consciously lightened his footsteps and even his external aura. He seemed to be deliberately reducing his presence. The Pure Land was pure and quiet, so his heartbeat sounded a lot louder than usual.
 
-Perhaps her faint trace of Creation God soul had brushed against something within this Pure Land that filled her with unease.
+Ahead of him, a tall, massive, and formidable figure slowly walked toward him. He was almost three meters tall, and the pressure he carried within him was indescribable. Not even a ten-kilometer-tall giant of a mountain could hope to measure up to even one-ten-thousandth of his pressure. In fact, this pressure seemed greater than even the Boundless Divine Regent’s!
 
-“Mm. You can rest easy,” Yun Che reassured her again. “For me, the Pure Lands are ironically the safest place in the entire Abyss.”
+If the Boundless Divine Regent’s body was like refined steel, then the exposed parts of the man before his eyes resembled ancient bronze that had been tortured by the relentless march of time countless times over. He exuded a kind of extreme divine pressure that heralded from the ancient past and naturally superseded all things.
 
-Yun Che’s pace was unhurried. Whether he slowed deliberately or was simply lost in thought, even he did not seem to know.
+Yun Che angled his feet sideways and chose not to cross paths with the man. However, the man’s footsteps halted all of a sudden, and a terrible gaze struck Yun Che the next instant. Accompanying that gaze was a terrible pressure that nearly snapped his bones and crushed his soul in an instant.
 
-Then, out of nowhere, he spoke—a question that Li Sou could never hope to answer:
+Realizing that there was no avoiding this encounter, Yun Che turned toward the man and bowed respectfully in his direction. “Yun Che of Dreamweaver greets the Chief Priest.”
 
-“Tell me… one who uses another’s true heart, regardless of the reason—can such a person ever be forgiven?”
+Considering his appearance and pressure, there was only one person this oppressive man could be. He was the chief of the Four High Priests and the man who truly answered to one man only and towered above all else, the Chief Priest.
 
-As expected, Li Sou stayed silent for a long time.
+He was also the only man in the Pure Land Hua Caili truly feared.
 
-She could not answer.
+Yun Che’s voluntary offering of his identity failed to shake the man’s gaze in the slightest. Speaking of... his gaze was so scary that it felt like sharp blades piercing through every inch of his flesh, blood, and bone.
 
-But she felt it clearly—when Yun Che uttered that question so casually, his soul twitched in pain.
+The Chief Priest opened his mouth, and his words struck his soul like a divine hammer. “Where did your power of Buddha come from?”
 
-It was fleeting, almost imperceptible—erased by him the instant it appeared.
-Yet it made Li Sou’s spirit ache with a strange, unfamiliar stab—
-a pain that pierced straight through her divine soul.
-
-As though somewhere deep within, something had silently… cracked.
-
-Yun Che kept walking. Receiving no answer, he said nothing more for a long while.
-
-Then suddenly, Li Sou sensed his spirit tighten to an extreme—taut and motionless for several breaths.
-
-He did not stop walking, but his steps grew light, his released aura fading thin—as if deliberately minimizing his presence.
-
-The Pure Lands were serene and silent, amplifying the sound of his heartbeat.
-
-Ahead, a tall figure appeared, slowly approaching.
-
-The figure stood nearly a zhang high, yet the might he carried was immeasurable—greater than mountains, crushing all beneath its weight.
-
-That oppressive power… surpassed even that of the Divine Sovereign Luohu!
-
-The Sovereign’s body was like forged steel, yet this man’s exposed flesh gleamed with an ancient bronze hue, as if tempered through endless eons. From him radiated the supreme divine pressure of something ancient—transcending all beings.
-
-Yun Che shifted his path, choosing to avoid direct encounter.
-
-But the figure suddenly stopped.
-
-A terrifying gaze locked onto him—instantly.
-
-With it came a force so dreadful it nearly shattered his bones and soul in that instant.
-
-Seeing there was no longer any way to avoid it, Yun Che turned slightly and bowed deeply toward the approaching presence.
-“Yun Che of the Dreamweaver Divine Kingdom pays respect to the Grand Priest.”
-
-Such an appearance, such an aura—there could be only one possibility.
-
-The foremost among the Four Priests of the Pure Lands—
-the Grand Priest, second only to the Abyssal Monarch himself, sovereign above all living beings.
-
-He was also the only person within the Pure Lands whom Hua Caili truly feared.
-
-Yun Che’s self-identification did not make the gaze waver in the slightest.
-That stare was terrifying—piercing through his flesh and bone, as though dissecting his very essence.
-
-Then a voice struck out—each word a divine hammer to the soul:
-
-“Your Power of the Pagoda—where did it come from!?”
-
-“—!”
-
-Yun Che’s brow twitched sharply.
+“...!” Yun Che’s brow twitched.

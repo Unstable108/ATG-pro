@@ -1,115 +1,171 @@
 ---
 chapterNumber: 2131
 title: "Rebirth Is Close At Hand"
-publishedAt: "2025-11-20"
+publishedAt: "2025-11-22"
 ---
 
-"I¹ last summoned you Divine Venerables² less than ten years ago. I believe you all already know the reason for this reunion." His voice was very soft, yet it seemed to resonate directly in the deepest parts of the soul, then clearly and irresistibly etched itself into the heart and spirit, never to be forgotten for all eternity.
+“The last time this lone one summoned you for a meeting was less than a decade ago, Divine Regents. Now that we are gathered once more, I’m sure you already know the reason.”
 
-He was clearly right before their eyes, yet he seemed to exist within an ancient painting, beyond the cloud peaks, at the end of a distant dream... It was a feeling of an "untouchable existence," originating from the depths of the soul, from cognition itself. Perhaps, as Li Suo³ had said, he was truly an existence that had completely transcended the existing planes. A true deity, different from the Divine Venerables who inherited the power of true gods. If one had to use words to interpret this untouchable, ethereal feeling, it might be the "divine bearing"⁴ and "divinity"⁵ that all beings knew, yet always remained beyond their comprehension.
+His voice was soft, but it seemed to come from the deepest part of one’s soul. It was also impossibly clear to the point where it resembled an etching on one’s heart and soul, never to be forgotten.
 
-"As you all know, during the last Void-breaking Ritual⁶, our thirty thousand and eleventh attempt, which carried the history, power, and will of our Abyss, we finally opened a spatial passage to the 'Eternal Pure Land'⁷."
+He was standing right in front of them, and yet it felt as if he really existed in an ancient painting, the sky beyond the highest clouds, the end of a dream...
 
-"Stepping through this thirty thousand and eleventh spatial passage, our pioneers have successfully set foot in the 'Eternal Pure Land'." Although they had known this for a while, these words, spoken personally by the Abyss Emperor⁸, left no room for falsehood. For a moment, from the Divine Venerables of the Six Nations⁹ to the young profound practitioners, an unceasing surge of emotion rose in their hearts. They clearly understood what this meant. It would be a dramatic change in destiny, an eternal severance from the Nightmare Abyss Dust¹⁰, and the culmination of millions of years of effort in the Abyss, bearing a dream-like good fruit in their generation.
+It was as if he were an existence everyone recognized as an “untouchable existence” from the bottom of their souls.
 
-Especially Dragon Lord¹¹, Long Zhi Ming¹², his aged features trembled, his lips unconsciously opening and closing, his old eyes so blurry he could barely see. But facing the Abyss Emperor, no matter how their hearts stirred, not one of them uttered a disrespectful sound. Only their pupils glowed with a fiery intensity. The Abyss Emperor's sacred words settled the dust, proclaiming that the era of the Abyss would embark on a true turning point and rebirth. And what this "rebirth" would bring to the "Eternal Pure Land" — no one cared, no one pondered. Except for the Emperor of the "Eternal Pure Land" whom everyone saw, yet no one knew.
+Perhaps this was what Li Suo had meant. In this era, he truly was an existence who stood above all planes in every sense of the word; a true god who was unlike the Divine Regents, who inherited their divine powers. If one must use words to describe this ephemeral feeling of untouchability, then it would be something like the “face of god” and “divinity”. All living beings knew these concepts, but could not actually perceive them.
 
-"Thirty thousand and eleven attempts, the efforts of generations of nations, and one hundred ninety-six thousand and fifty-seven pioneers who perished, have, at this moment, opened a new passage."
+"As you are all aware, we have finally opened a spatial passage to the 'Eternal Pure Land' during the previous Ritual of Void Breaching, also the thirty thousand and eleventh attempt containing the history, power, and will of the Abyss."
 
-The Abyss Emperor raised his hand, his slightly open fingers seeming to cover the entire Abyss: "This glory and reward, this dawn from the 'Eternal Pure Land,' not only shines upon the Pure Land but will also bathe all of you present."
+"Our pioneers have successfully entered the Eternal Pure Land through this thirty thousand and eleventh spatial passage."
 
-The sound of hearts beating grew more intense.
+Although they already knew about this, the infinitesimally small possibility that it was just a fabricated rumor was eliminated when the words came out of the Abyssal Monarch’s own mouth. For a time, tidal waves of emotions were crashing in everyone’s heart, be it the highest Divine Regents or the lowest profound practitioners.
 
-Dian Luo Hou¹³, who was least adept at controlling his emotions, was the first to be unable to suppress himself. He stepped forward, bowed, and asked, "May I ask, Abyss Emperor, does the next Void-breaking Ritual mean that we can enter the 'Eternal Pure Land'?"
+They knew very well what this meant. It meant a dramatic change in the course of fate and an eternal break from the nightmare that was abyssal dust. It meant that their one million years of effort had finally borne fruit.
 
-The Abyss Emperor smiled: "Naturally."
+This was especially true for the Dragon Lord. His ancient features were trembling, his lips were opening and closing unconsciously, and his old eyes were so blurry that he almost couldn’t see anything. However, he was still in the presence of the Abyssal Monarch. They all were. No matter how agitated they felt, not one person lost control of their emotions or reacted in an unsightly manner. The only visible change that could be observed was their eyes; all of them blazing like an inferno.
 
-These two short words were an undeniable divine proclamation to the world.
+The Abyssal Monarch’s holy decree settled the dust and announced an actual turning point and rebirth for the Abyss. What this “rebirth” would mean to the “Eternal Pure Land”... no one cared. No one even thought about it. No one, except for the one true monarch of the “Eternal Pure Land”; the man everyone saw, but no one recognized.
 
-Dian Luo Hou asked again: "Then... when the spatial passage reopens, how many of us can enter at once?"
+“Thirty thousand and eleven attempts, countless generations of contribution and effort from the Kingdoms of God, and the sacrifices of one hundred ninety-six thousand and fifty-seven pioneers. Without them, we could not have excavated the one passage that would lead to rebirth.”
 
-Everyone's spirits tensed up, and all eyes nervously focused on the Abyss Emperor. This was, without a doubt, their most pressing concern.
+The Abyssal Monarch raised his palm; his slightly stretched fingers looked like they encompassed the entire Abyss. “This honor and reciprocation, this ray of dawn that hails from the ‘Eternal Pure Land’, does not just illuminate the Pure Land. It also illuminates all of you.”
 
-The Abyss Emperor's gaze shifted slightly. Instantly, everyone felt a gentle divine light from beyond the heavens brush over their bodies and souls: "For the Six Divine Nations, a thousand people from each nation may enter. For the Dragon Clan¹⁴, a hundred people may enter."
+Everyone’s heartbeat grew louder and louder.
 
-He did not mention the Pure Land, nor did he need to mention it to them. Dian Luo Hou suddenly looked up, momentarily unable to believe his ears. After the initial shock, an uncontrollable ecstasy surged onto everyone's faces. Even the expressions of the Divine Venerables of the various nations showed clear agitation. A thousand people... For the beings contained within a Divine Nation, this was a very small number, yet it far exceeded their expectations.
+Dian Rahu, the Divine Regent who was least adept at controlling his emotions, lost his cool first and stepped forward with a bow. He asked, “If I may be so bold, Your Majesty, does this mean that we will be able to set foot on the ‘Eternal Pure Land’ during the next Ritual of Void Breaching?”
 
-The Void-breaking Ritual, held once every fifty years, gathering the power of the Divine Nations and the Dragon Clan, had always opened spatial passages that could only accommodate a few individuals. The previous thirty thousand and eleven Void-breaking Rituals were all for scouting the way, so naturally, they didn't require full power. Now that the path was set, the spatial passage opened next time would certainly be incomparable to before, but they had never imagined it could be so many. This Pure Land Assembly¹⁵ allowed each Divine Nation to bring a hundred people.
+The Abyssal Monarch replied with a smile, “Naturally.”
 
-They had initially thought this was a hint, informing them in advance that they could choose a hundred people to go to the Eternal Pure Land each time. But the result was that the Abyss Emperor gave them a huge surprise that far exceeded their expectations. Although a thousand people was a small number, for the core members of each Divine Nation, it was entirely sufficient. As long as the core remained, the Divine Nations could safely take root and continue in the Eternal Pure Land. The Void-breaking Ritual occurred once every fifty years, meaning each Divine Nation could migrate a thousand people every fifty years. Even if the Void-breaking Ritual continued indefinitely, a thousand years would be twenty thousand people, and ten thousand years would only be two hundred thousand people. But this was not important, because no matter the class or plane, no one cared about the sacrifice and abandonment of the weak. Even... compared to the strong who were less afraid of Abyss Dust, the weak needed and yearned for the "Eternal Pure Land" more.
+It was just one word, but it was an unquestionable, undeniable truth.
 
-Thump! Dragon Lord Long Zhi Ming knelt heavily to the ground, old tears streaming down his aged face: "This old man, Long Zhi Ming, along with the entire Dragon Clan, bows in gratitude for the Abyss Emperor's great kindness of rebirth!"
+Dian Rahu asked another question, “In that case... how many of us can enter the spatial passage when it opens once more?”
 
-The erosion of Abyss Dust on the Beast Race¹⁶ was far greater than on humans. If they could go to, or return to, the "Eternal Pure Land" where their ancestors resided, the Dragon Clan would no longer need to despairingly await the fate of extinction, and would certainly, in some future era, return to being the venerated of all beings.
+Everyone tensed up and stared at the Abyssal Monarch nervously. This was, without a doubt, the question they were most concerned about.
 
-The "Eternal Pure Land"'s salvation for the Dragon Clan far surpassed that for the Human Race¹⁷. The Dragon Lord's inner excitement also far exceeded that of the Six Divine Nations.
+The Abyssal Monarch’s gaze turned, and everyone felt a ray of divine light that seemed to hail from the beyond brushing gently against their body and soul. “Each Kingdom of God may send up to one thousand people. As for the dragons, they may send a hundred people.”
 
-"Dragon Lord, there's no need for such formality." The Abyss Emperor smiled faintly: "For today's outcome, the Dragon Clan also made indispensable contributions. There's no need to thank My Imperial Self."
+He did not mention how many the Pure Land would be sending. He did not need to.
 
-As Yun Che¹⁸'s heart stirred, a warmth suddenly came from his shoulder.
+Dian Rahu abruptly lifted his head. He looked like he couldn’t believe his ears. When the shock passed, uncontrollable joy flooded into everyone’s expression. Even the Divine Regents were clearly wearing unnatural expressions.
 
-Meng Kong Chan¹⁹'s hand gently pressed on his shoulder. He looked forward and softly said, "How fortunate I am as a father, to have been bathed in the blessings of my ancestors, and now to have my son²⁰ as a successor. Once I send my son to the Eternal Pure Land... this life will be enough for me, with no more regrets."
+One thousand people... was a terribly small number considering how many people the Kingdoms of God harbored. However, it was a number that far exceeded their expectations.
 
-"..." Yun Che did not turn his gaze, and whispered, "I dare not speak lightly of the future. But... if I can safely set foot in the 'Eternal Pure Land,' I will surely protect everything I cherish there... at the cost of my body, at the cost of my soul."
+Every fifty years, the Kingdoms of God and the dragons would come together to execute the Ritual of Void Breaching. The spatial passage they excavated was usually so small that it could only fit a handful of people. However, the previous attempts—all thirty thousand and eleven of them—were also just probing attempts. Naturally, they hadn’t gone all out.
 
-The hand on Yun Che's shoulder gently patted him, and Meng Kong Chan smiled: "Well said. Even without using my divine soul, I can deeply feel the purity in your words. I believe that if it is you, my son, whether in the Abyss or the Eternal Pure Land, everything will go as desired."
+Now that the path had been confirmed, they could, of course, create a spatial passage much bigger than before. Still, they hadn’t expected to be able to bring so many people.
 
-"It will." Yun Che also smiled. In a corner behind the Star Moon Divine Nation²¹, Pan Bu Wang²², slowly raised his head. Unlike the excitement of others, there was still no light in his dark eyes. The Eternal Pure Land, huh... Heh... Mother, heartless... A place without you two, no matter how brilliant like a beautiful dream, is nothing but a hopeless abyss of death.
+For this Pure Land Meet, each Kingdom of God was allowed to bring a hundred people to the Pure Land. They had thought that this was a hint and an early notice. They had thought that this was the Pure Land’s way of saying that they could dispatch one hundred people to the Eternal Pure Land. For once, though, the truth turned out to be far more pleasant than their expectation.
 
-And this body of mine, existing only for revenge... how can I let you have your way! Pan Bu Zhuo²³, Shen Wu Yi²⁴... Before you set foot in your illusory "Eternal Pure Land," I will spare no cost to drag you into an abyss of death deeper, more painful, and more despairing than mine!
+To be fair, a quota of one thousand people was fairly small. However, it was definitely enough to fit the nucleus of a Kingdom of God. So long as their nucleus existed, the Kingdom of God would be able to settle, take root, and propagate without trouble in the Eternal Pure Land.
 
-No one noticed that the Grand Divine Official²⁵ slightly turned his head at this moment, gazing at the Abyss Emperor's back... His eyes showed no change, and no one could capture or understand the ripples in the depths of his pupils, which connected millions of years of karma and resolve.
+The Ritual of Void Breaching took place once every fifty years. This meant that each Kingdom of God could transport one thousand people to the Eternal Pure Land every fifty years. Even if the Ritual of Void Breaching were carried out indefinitely, they could only move twenty thousand people to the Eternal Pure Land in a thousand years, or two hundred thousand people in ten thousand years.
 
-"I have another matter to announce to you all." The Abyss Emperor's voice rang out, instantly silencing all clamor once more.
+This wasn’t important. After all, no matter the plane of existence or status quo, the weak could always be sacrificed and discarded without thought, even if the weak were the ones who had a greater need for the “Eternal Pure Land” compared to the strong, who possessed at least some measure of resistance against abyssal dust.
 
-"To activate a Void-breaking Grand Formation²⁶ capable of transporting thousands of people, the power required for the Void-breaking Ritual will far exceed previous times. This will require all Divine Nations to not stint on resources, and all Divine Venerables to not stint on divine power."
+The Dragon Lord dropped to his knees heavily, while tears streamed down his ancient face like a waterfall. “On behalf of everyone in the dragon race, Long Zhiming[1] thank you for granting us a new lease in life, Your Majesty!”
 
-Hua Fu Chen²⁷ said, "This is a gift of destiny that will benefit our future generations for millennia. Even if we exhaust everything, we will gladly accept it. How can we be stingy?"
+Abyssal dust ate away at Beasts far faster than humans. If they could travel—or more accurately, return to the “Eternal Pure Land” their ancestors once resided in, then the dragon race might not need to wallow in despair in the face of the threat of extinction once more. In the far future, they could even become the sovereign of all races once more.
 
-"Indeed." Meng Kong Chan immediately followed, "Just one word from the Abyss Emperor, and we will spare no effort."
+The “Eternal Pure Land” carried far more meaning to the dragons than the humans. Naturally, his agitation was many, many times more than the Six Kingdoms of God as well.
 
-All the Divine Venerables echoed their agreement. Facing the "Eternal Pure Land," there was simply no possibility of the Divine Nations and the Dragon Clan being stingy with either resources or power.
+“You do not need to act this way, Dragon Lord.”
 
-"It won't be quite that extreme." The Abyss Emperor seemed to smile, but his features appeared to have remained unchanged throughout: "To pave the way to the 'Eternal Pure Land,' the foundation of the Void-breaking Ritual's formation needs to be reshaped. This endeavor requires the combined power of all Divine Venerables."
+The Abyssal Monarch smiled faintly. “Without the dragon race, today’s fruit could not have happened. There is no need to thank this lone one.”
 
-"Divine Venerable Sen Luo Jue Luo²⁸, Divine Venerable Zhe Tian Hua Xin²⁹, Divine Venerable Zhi Meng Wu Meng³⁰, Divine Venerable Xing Yue Tian Xing³¹, and Divine Venerable Qiong Yue³², Divine Venerable Yong Ye Wu Ming³³, Divine Venerable Xiao Die Qi Heng³⁴, and Ancestral Dragon Lord Long Zhi Ming³⁵."
+A million thoughts and emotions were racing inside Yun Che’s head when suddenly, he felt a warmth on his shoulder. It was Meng Kongchan grasping his shoulder lightly while staring ahead. He said quietly, “How lucky I am to benefit from the blessings of my ancestors, and to be succeeded by you, Yuan’er. When I send you to the Eternal Pure Land... this father will have no regrets left in this life.”
 
-He called out the names of the seven Great Divine Venerables and the Dragon Lord one by one, his gaze sweeping over each of them: "Ten years from today, gather here to reshape the Void-breaking Grand Formation. No one may be absent."
+Yun Che did not look at him. Instead, he said in a quiet voice, “I dare not speak of the future lightly, but... if I can set foot on the Eternal Pure Land safely, then I will do everything in my power to protect all that is dear to me... no matter the toll on my body or soul.”
 
-His words were always like a gentle breeze, without even a hint of might or pressure. He was narrating, proclaiming... but the four words at the end, "No one may be absent," were an imperial decree. Absolutely not to be disobeyed!
+Meng Kongchan tapped Yun Che once on the shoulder and broke into a smile. “Well said. Even without executing my soul arts, I can tell just how much you mean what you say. I believe in you, Yuan’er. Be it the Abyss or the Eternal Pure Land, this father believes that everything will go as you wish.”
 
-The seven Divine Venerables and the Dragon Lord all straightened their countenances, bowing respectfully to receive the order: "We respectfully obey the Abyss Emperor's gracious command!"
+“It will.” Yun Che smiled back.
 
-Ten years later... reshaping the Void-breaking Grand Formation... Yun Che's expression remained unchanged as he deeply etched these words into his heart. According to the memories Chi Wu Yao³⁶ had extracted from Mo Bei Chen³⁷, the strange mirror the Abyss Emperor used to break open the Abyss passage would fall into slumber after each use, requiring fifty years to recover its power. And that strange mirror was most likely the spatial demonic artifact mentioned in Ni Xuan³⁸'s memory fragments, which fell into the Abyss with the daughter of Demon Emperor Pan Ming³⁹ — the Pan Ming Void-Breaking Mirror⁴⁰.
+In a corner far behind the Star and Moon Kingdom of God’s entourage, Pan Buwang slowly lifted his head. Everyone else looked excited and overjoyed, but not him. There wasn’t even a hint of light in his eyes.
 
-The names "Void-breaking Ritual" and "Void-breaking Grand Formation" undoubtedly further corroborated this greatest possibility. If all the known information and conjectures were true, then the Pan Ming Void-Breaking Mirror would awaken again in roughly forty-plus years. But reshaping the Void-breaking Grand Formation... why in ten years? Reshaping doesn't mean activating, but rather laying a new foundation for activation. Is that all there is to it...?
+The Eternal Pure Land, huh... heh...
 
-"Divine Venerable Hua Xin," the Abyss Emperor's gentle words floated over the Eden Cloud Summit⁴¹: "Over these ten thousand years, to save Cai Li⁴², you have repeatedly harmed yourself. Your lost lifespan has exceeded two hundred Jiazi cycles⁴³, and the divine power you bear has become increasingly incompatible with your body. The pain derived from it, only you know."
+Mother... Wuqing...
 
-"...!" Hua Cai Li suddenly turned to look at her father, her jade-like countenance instantly turning pale.
+A world without the two of you is just another hopeless abyss of death, no matter how dazzling or wonderful it is...
 
-"Father... Father God... you..." She knew that during her ten thousand years in the "cradle," her father endured immense pain each time he saved her. But she never knew, nor was she ever told, that what Hua Fu Chen endured was not just temporary pain, but such a massive loss of lifespan and body-devouring torment that could erupt at any moment. Hua Fu Chen, however, gave his daughter a gentle smile, reassuring her with his eyes that he was fine and safe.
+Pan Buzhuo, Shenwu Yi...
 
-"During these ten years, you must calm your mind and rest your body, and not use your divine power." Hua Fu Chen bowed in deference: "Yes. Ten years from now, Fu Chen will surely be in his most complete state."
+This body of mine lives for vengeance only... and I will not let you have your wish!
 
-The Abyss Emperor's gaze shifted slightly: "Divine Venerable Yong Ye⁴⁴, to bear divine power, your body and soul are both wounded, and your lifespan has been reduced by a massive seven-tenths. For you, passing on your divine power sooner is the best strategy."
+Before you set foot in the “Eternal Pure Land” of your dreams, I will do everything in my power to drag you into a deeper, more painful, and more despairing abyss of death than the one I’m in!
 
-"If you pass it on immediately, you can still retain two hundred Jiazi cycles of lifespan, and there's a possibility for your vision to recover. If you continue to forcibly bear the divine power, after forty Jiazi cycles⁴⁵, every day could be the day of your sudden death."
+No one noticed this, but the Chief Priest chose this moment to turn his head slightly and stare at the Abyssal Monarch’s back. The light in his eyes did not change, so no one could possibly capture or understand the ripple of determination and karma lasting several million years concealed within them.
 
-From behind the imperial sedan, Divine Venerable Wu Ming⁴⁶'s obscure voice came: "Thank you, Abyss Emperor, for your guidance. Shen Wu Yan Ye⁴⁷ has his own decision."
+“This lone one has another thing to announce.”
 
-Everyone knew that Shen Wu Yan Ye was the least likely person to pass on his divine power prematurely... even if he was in unbearable pain, even if he suffered a heavy loss of lifespan. The Abyss Emperor only mentioned these two Divine Venerables and said no more.
+The Abyssal Monarch spoke up, and all of the noise vanished into nothing once more.
 
-"It seems that with the 'Eternal Pure Land' within reach, the Abyss Emperor is in an excellent mood," Meng Jian Xi⁴⁸ said with a light chuckle.
+“This time, we will be creating a spatial passage big enough to move thousands of people using the Void Breaching Great Formation. Naturally, the energy necessary to fuel the Ritual of Void Breaching will be far greater than before. The Kingdoms of God will need to contribute their resources, and the Divine Regents their power as much as possible.”
 
-"How can you tell?" Yun Che asked, surprised.
+Hua Fuchen replied, “This is a boon of fate that will benefit us and all who come after us for many thousand autumns. Naturally, we will spare no effort to see it done.”
 
-Meng Jian Xi slightly adjusted his wording, conveying through soul sound⁴⁹: "In the history of the Divine Nations, the Abyss Emperor's presence has actually been extremely low. The Void-breaking Ritual, which gathers the power of all Divine Venerables once every fifty years, is almost the only interaction."
+“That’s right.”
 
-"Other than that, the Abyss Emperor never actively interferes with any matters of the Divine Nations, rarely even inquiring. For example, when such a drastic change occurred in the Eternal Night Divine Nation⁵⁰, the Abyss Emperor didn't even cast a glance... Perhaps the only exception was the Owl Butterfly Divine Nation⁵¹, but even that involved very little."
+Meng Kongchan followed next, “Just give us the word, and we will surrender everything we have, Your Majesty.”
 
-"And today, the Abyss Emperor actually gave admonitions and warnings in public." Meng Jian Xi smiled, his eyebrows raised: "I clearly saw the surprised looks on my uncle's⁵² faces just now. I imagine this is probably the first time they've witnessed such a thing."
+The rest of the Divine Regents said more or less the same thing. They were a united front when it came to the “Eternal Pure Land”. No one, be it the Kingdoms of God or the dragon race, would even think of skimping.
 
-"..." Yun Che looked straight ahead, offering no response. For some reason, Meng Jian Xi's casual remark made his heart inexplicably sink a little.
+“There is no need to go that far.”
 
+The Abyssal Monarch seemed to be smiling, but it also looked like his face hadn’t changed a bit since the beginning. “In order to pave the way to the ‘Eternal Pure Land’ and to recreate the base of the Ritual of Void Breaching, I will require the power of all Divine Regents.”
 
+“Boundless End Divine Regent of Boundless, Heart Painter Divine Regent of Heaven Breaker, Dreamless Divine Regent of Dreamweaver, Heavenly Star Divine Regent and Sky Moon Divine Regent of Star and Moon, Lightless Divine Regent of Eternal Night, Pray Eternal Divine Regent of Owl Butterfly, and Long Zhiming, Lord of Ancestral Dragons.”
+
+His gaze swept across each and every person as he addressed the names of the seven Divine Regents and the Dragon Lord. “Ten years from today, you will all gather here and recreate the Void Breaching Great Formation. Your attendance is mandatory.”
+
+His words were exactly the same as before, light and completely devoid of presence or pressure. Most of what he said was an announcement and a confession... but the last four words, “Your attendance is mandatory,” were unquestionably the order of a monarch. It must not be disobeyed!
+
+The seven Divine Regents and the Dragon Lord straightened their expressions and received the command with immeasurable reverence. “As you command, Your Majesty!”
+
+Ten years from today... recreate the Void Breaching Great Formation... Yun Che’s expression did not change, but he engraved these words into his heart. According to the memories Chi Wuyao stole from Mo Beichen, the anomalous mirror the Abyssal Monarch used to create a spatial passage would fall into slumber every time it was used. It could only recover its strength fifty years later.
+
+Besides that, the anomalous mirror was most likely the spatial artifact that had fallen into the Abyss together with the daughter of the Original Nether Devil Emperor, the Original Nether Void Breaching Mirror. It was mentioned in Ni Xuan’s memory fragment. The names “Ritual of Void Breaching” and “Void Breaching Great Formation” were all excellent circumstantial evidence that supported this theory.
+
+If the information he received and his guesses were accurate, then the next time the Original Nether Void Breaching Mirror awakened was over forty years later. So... why was the recreation happening in a decade?
+
+Of course, the Abyssal Monarch was not necessarily planning to create a spatial passage ten years later. He would have just said it outright if that was the case. This was just to recreate the base of the formation... right?
+
+“Heart Painter Divine Regent,” the Abyssal Monarch’s warm words floated across Eden’s Crown once more. “For the past ten thousand years, you have repeatedly damaged yourself in order to rescue Caili. As a result, you have lost over two hundred sexagenary years of lifespan, and your divine power is rejecting your physical body more and more. Only you know how much pain it causes.”
+
+“... !” Hua Caili abruptly turned to look at her father, face turning deathly pale in an instant.
+
+“Father! Y... You...”
+
+She knew that her Father endured a tremendous amount of pain every time he saved her during the ten thousand years she spent in the “Cradle”. However, she never knew—nor did anyone tell her—that acute pain wasn’t the only thing that tormented him. He had also lost a tremendous amount of lifespan and faced mind-numbing torture that could happen at any moment as well.
+
+Hua Fuchen simply gave his daughter a gentle smile and, with his eyes, told her he was safe and well.
+
+“You will rest and recuperate in the coming ten years. You will not use your divine power during this time.”
+
+Hua Fuchen bowed to the Abyssal Monarch and replied, “As you command. Fuchen promises to be in the best condition ten years from now.”
+
+The Abyssal Monarch shifted his gaze slightly. “Eternal Night Divine Regent, the divine power you bear has done great damage to both your body and soul. Already, you have lost seventy percent of your lifespan. In your case, the remedy to save yourself is to pass down your divine power to another as soon as possible.”
+
+“If you pass down your divine power now, you will still have two hundred sexagenary years to live. Your eyesight may recover as well. But if you continue to cling to your divine power, every day could be your last in merely forty sexagenary years.”
+
+Behind the black curtain, Lightless Divine Regent answered in her raspy voice, “Shenwu thank you for your guidance, Your Majesty. Shenwu knows what to do.”
+
+Despite what she said, everyone knew that Shenwu Yanye was the last person to pass down her divine power to an heir, no matter the pain she suffered or the lifespan she lost.
+
+That was all the Abyssal Monarch said before falling silent once more.
+
+“The Abyssal Monarch is in an excellent mood today. The ‘Eternal Pure Land’ really must be close at hand,” Meng Jianxi said smilingly.
+
+“How can you tell?” Yun Che looked surprised.
+
+Meng Jianxi took a moment to organize his words before speaking to Yun Che via his soul voice, “The Abyssal Monarch’s presence is, in fact, quite weak throughout the history of the Kingdoms of God. The Ritual of Void Breaching, where all Divine Regents gather in His presence, might be the only time He interacts with anyone from the Kingdoms of God.”
+
+“Besides that, the Abyssal Monarch has never gotten involved in the matters of the Kingdom of God unless he was requested to. He had almost never even asked about them before. Take the Eternal Night Kingdom of God, for example. The Abyssal Monarch has never cast them a single glance, even though the kingdom practically changed overnight... The only exception might be the Owl Butterfly Kingdom of God, and even then, His involvement was minimal.”
+
+“But today, the Abyssal Monarch had offered not one, but two Divine Regents His personal advice.”
+
+Meng Jianxi’s eyebrows were clearly smiling. “I saw how astonished Uncle and the others looked, you know. This is probably a first time for them as well.”
+
+“...” Yun Che looked straight ahead without giving Meng Jianxi a response. For whatever reason, the Divine Son’s careless remark caused his heart to sink a little.
+
+1. The Dragon Lord’s true name, also means Fate Knowing. ☜

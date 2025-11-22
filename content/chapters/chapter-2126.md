@@ -1,199 +1,223 @@
 ---
 chapterNumber: 2126
-title: "Eden's Crown"
-publishedAt: "2025-11-20"
+title: "Edens Crown"
+publishedAt: "2025-11-22"
 ---
 
-At this moment, a silver figure suddenly descended from the sky, instantly dispelling the oppressive aura that enveloped Yun Che. Meng Kongchan's figure appeared from above, standing in front of Yun Che, and he spoke with a faint smile, "I was just about to pay a visit, but I didn't expect to encounter you here. It's been a long time since we last met, Grand Divine Official, I hope all is well?"
+It was at this moment that a silver shadow descended from above and dispelled the terrible pressure encompassing Yun Che in an instant. The next moment, Meng Kongchan fell from the sky and stood in front of Yun Che. He asked with a light smile on his face, “This one was just about to pay you a visit. I wasn’t expecting to run into you by accident. Long time no see, Chief Priest. How have you been?”
 
-In response to God Venerable Wumeng's words, the Grand Divine Official remained unresponsive, his gaze still fixed on Yun Che.
+The Chief Priest did not react at all despite receiving a greeting from the Dreamless Divine Regent. He continued to stare straight at Yun Che.
 
-Meng Kongchan frowned slightly, then said, "This is my humble son, Jianyuan. He was lost for a hundred years and only recently found, thus he has been neglected in his upbringing. This is also his first time in the Pure Land¹, so he is bound to be ignorant and reckless. If he has offended the Grand Divine Official in any way, I hope the Grand Divine Official will be magnanimous and overlook it for now. Once this matter is settled, I will certainly bring Jianyuan to apologize to the Grand Divine Official."
+Meng Kongchan frowned a little and said, “This clumsy boy here is my son, Jianyuan. He was lost for over a century before I finally found him. As a result, he is lacking in education. This is his first time visiting the Pure Land, so it is inevitable that his ignorance and recklessness may lead to unconscious acts of transgression. If he offended you in any way, I ask that you forgive him and overlook this for now, Chief Priest. When this Pure Land Meet is behind us, I will definitely bring Jianyuan with me to pay you a formal apology.”
 
-The Grand Divine Official, however, remained deaf to his words, his eyes like bottomless black abysses.
+Still, the Chief Priest did not react. His eyes resembled pits of bottomless darkness.
 
-He spoke again, his might and pressure several times greater than before: "Answer me, where did your Buddhic Power² come from!"
+He opened his mouth once more, and his pressure grew severalfold. “Answer me. Where did your power of Buddha come from?”
 
-The space between the Grand Divine Official and God Venerable Wumeng suddenly twisted. As the terrifying divine voice fell, the corner of God Venerable Wumeng's robe was slightly lifted, fluttering erratically.
+The space between the Chief Priest and the Dreamless Divine Regent abruptly grew warped. His terrifying voice also lifted some corners of his clothes and caused them to float aimlessly.
 
-"Buddhic Power?" Meng Kongchan turned to look at Yun Che, his eyes clearly showing shock. Even with God Venerable Wumeng's protection, the overwhelming divine pressure still made Yun Che's head throb. Yet, his mind remained incredibly clear and rapidly processed, re-organizing the answer he had already prepared.
+“The power of Buddha?” Meng Kongchan cast Yun Che a sidelong glance, clear shock residing in his eyes. Despite being protected by the Dreamless Divine Regent, the ungodly divine pressure still gave Yun Che a head-splitting migraine. His mind was ice cold and whirling at top speed as he reorganized the response he had initially prepared.
 
-This answer was originally intended for when he would directly face the Abyss Emperor³. The memory fragments left by the Evil God Ni Xuan⁴ clearly informed him of the Abyss Emperor's true identity. They also clearly told him that the Great Dao Buddhic Art⁵ he cultivated was created by the Abyss Emperor. And the Desolate God⁶ was a god "created" by the Abyss Emperor during the Age of Gods⁷ using the Great Dao Buddhic Art. Therefore, if the Abyss Emperor's identity was correct, he would certainly easily detect the Buddhic Power within Yun Che's body. However, he hadn't expected to encounter the Grand Divine Official before facing the Abyss Emperor. He had to quickly re-evaluate whether this answer would also be "applicable" to the Grand Divine Official within this extremely short time. Yun Che looked up, meeting the Grand Divine Official's gaze, and only then did he clearly see his appearance. His face, and indeed his entire body, were etched with dominance and fortitude, so intense that it almost overshadowed everything else, making it impossible to discern his age.
+He was going to reserve this response for when he faced the Abyssal Monarch directly. Ni Xuan, the Heretic God’s memory, had informed him exactly who the Abyssal Monarch was. It also informed him just as clearly that the Great Way of the Buddha he was practicing was invented by none other than the Abyssal Monarch himself.
 
-The sharpness of his features seemed keen enough to cut through time, and the darkness in his eyes was so profound it seemed capable of devouring the entire Abyss World⁸. The moment before Yun Che spoke, a voice drifted down from beyond the heavens.
+On a side note, the Rage Gods were gods “created” from the Great Way of the Buddha during the Era of Gods. Therefore, assuming he wasn’t wrong about the identity of the Abyssal Monarch, the Abyssal Monarch could surely sense the power of Buddha he carried effortlessly.
 
-"Huang⁹, step down." The voice was like light rain, like a gentle breeze, seemingly real yet dreamlike. Though devoid of any emotion, it brought a sense of peace to the heart, like bathing in a clear spring. The divine pressure covering Yun Che instantly dissipated. The Grand Divine Official's gaze lingered on Yun Che for another moment, then he moved away without hesitation, leaving not a single word.
+However, he had stumbled onto the Chief Priest before he met the Abyssal Monarch. With only a few seconds to spare, he needed to determine if the response he prepared for the Abyssal Monarch was “applicable” to the Chief Priest as well.
 
-Meng Kongchan looked puzzled, but clearly let out a sigh of relief, and said loudly, "Farewell, Grand Divine Official."
+Yun Che looked up and met the Chief Priest’s gaze directly. It was only now that he got a good look at the man’s appearance. His face, no, his whole body was engraved with tyranny and tenacity. These qualities were so powerful that they overwhelmed almost all other features. It was to the point where Yun Che could not even determine his age.
 
-Slowly retracting his external aura, Meng Kongchan turned around and asked in a gentle voice, "Yuan'er, do you truly possess the 'Buddhic Power' that the Grand Divine Official spoke of?"
+His facial features seemed sharp enough to cut apart age itself, and the darkness residing in his eyes seemed deep enough to consume the entire Abyss.
 
-Yun Che hesitated for a moment, but then nodded and explained, "Among the teachings my master imparted, there is a body-tempering profound art called the 'Great Dao Buddhic Art'. The power derived from it, which resides within me, should be what the Grand Divine Official referred to as 'Buddhic Power'."
+Right before Yun Che could open his mouth, a voice came from somewhere.
 
-"My master instructed me not to reveal anything about him to outsiders, and I don't know why the Grand Divine Official was able to perceive it with a single glance..."
+“Rage, withdraw.”
 
-He murmured to himself, "Could it be that my master has some connection with the Grand Divine Official?"
+The voice was as soft as a drizzle and as gentle as a breeze. It felt both real and unreal. It was clearly devoid of any emotion, and yet it instantly soothed the mind like a clear spring.
 
-"..." Meng Kongchan frowned, deep in thought.
+The divine pressure vanished in an instant. The Chief Priest’s gaze seemingly lingered on Yun Che for an instant longer before he turned around and left just like that. He did not say a single word.
 
-"Senior God Venerable, was that voice just now..."
+Meng Kongchan looked puzzled, but his relief was greater. He said loudly, “Farewell, Chief Priest.”
 
-Yun Che's voice faltered slightly, as if he dared not easily utter that supreme name.
+Slowly withdrawing his external aura, Meng Kongchan turned around to face Yun Che and asked gently, “Yuan’er, the power of Buddha the Chief Priest mentioned... Do you actually have it?”
 
-"Voice?? What voice??"
+Yun Che hesitated for an instant but nodded his head. He explained, “Of the many things master taught me, there was a body tempering profound art called the ‘Great Way of the Buddha’. I assume that the power I gained from this art is what the Chief Priest called the ‘power of Buddha’.”
 
-As the question left his lips, Meng Kongchan instantly understood: "No wonder he suddenly left after just making trouble, it was actually..."
+“Master warned me not to leak anything about his existence, so I do not understand how the Chief Priest was able to identify this power in just a glance...”
 
-His gaze became somewhat complex, but being in the Pure Land, he dared not make wild guesses or rash inferences for the time being.
+He muttered under his breath, “Could my master have shared a connection with the Chief Priest in the past?”
 
-"Yuan'er, your master's background is probably far beyond imagination."
+“...” Meng Kongchan frowned, his expression thoughtful.
 
-"Perhaps he doesn't want to be involved with the mortal world anymore, but in the eyes of the Supreme Pure Land, no secret in the world can remain hidden."
+“Senior Divine Regent, that voice just now. Could it be... ?”
 
-Meng Kongchan didn't press further, but instead sighed with emotion, "However, this is by no means a bad thing for you. From what just happened, it might even... bring unimaginable benefits to your future."
+Yun Che did not finish his sentence. It was as if he was afraid of pronouncing that supreme’s name.
 
-"Mm."
+“Voice? What voice?”
 
-Yun Che's eyes reflected emotion: "My master's protection is always with me, in my body and in my heart."
+Meng Kongchan realized the answer as soon as the question left his mouth. He exclaimed in realization, “No wonder he left so suddenly. To think...”
 
-Meng Kongchan smiled, "Come back with me. Although your safety is absolutely assured in the Pure Land, I always feel uneasy when you're not by my side."
+His gaze immediately grew complicated, but he was in the Pure Land right now. For now at least, the Divine Regent did not dare to make a conjecture, much less infer anything from this.
 
-"Yes." Meng Kongchan took Yun Che and had just ascended when a gust of sword wind pierced through the air, followed by that cold and stunningly beautiful immortal figure.
+Yuan’er, that master of yours is probably greater than even your wildest imagination.
 
-Meng Kongchan's originally solemn expression instantly blossomed into a smile as the corners of his mouth curved: "Qingying..."
+“Your master may not wish to be a part of this mortal coil any longer, but here in the supreme Pure Land, all secrets are revealed, no matter how well hidden they are.”
 
-Hua Qingying's gaze swept over Yun Che's entire body in an instant, her voice chilling: "You were just locked onto by the Grand Divine Official's divine sense¹⁰??"
+Meng Kongchan did not press Yun Che. Instead, he said with a sigh, “However, this isn’t a bad thing for you. In fact, judging by what I just saw... it may be beneficial beyond imagination for your future.”
 
-Clearly, she had sensed something and rushed over in worry.
+“Mm.” Yun Che’s eyes shone with emotion. “Master’s protection is with me even now.”
 
-"Thank you for your concern, Aunt."
+Meng Kongchan smiled. “Now, let us return. Although your safety is absolutely guaranteed in the Pure Land, your absence still makes me feel uneasy.”
 
-Yun Che quickly said, "The Grand Divine Official might have sensed something unusual about my aura, so he merely inquired a bit, with no other intentions."
+“Yes, let’s.”
 
-Hua Qingying's tightly furrowed crescent eyebrows, however, did not relax. Yun Che didn't know that outside the Pure Land, Hua Qingying was the one who understood the Grand Divine Official best and had the most frequent contact with him, even more so than the God Venerables of the Six Nations¹¹. The Abyss Emperor's temperament was extremely gentle, while the Grand Divine Official's was extremely cold and indifferent.
+Meng Kongchan carried Yun Che. He had just risen in the sky when a gust of sword wind cut through the air and reached them in an instant. Following right behind it was a cool, celestial-like beauty.
 
-He almost never showed a pleasant expression to anyone outside the Pure Land. Even towards Hua Caili, who possessed world-toppling beauty, a pure heart like jade, and was beloved by everyone in the Pure Land, he would only regard her with cold eyes. In Hua Qingying's memory, the Grand Divine Official had never before focused his divine sense so thoroughly on a junior from a divine nation.
+Meng Kongchan’s expression was serious, but the sight of her caused his lips to split into a wide grin instantly. “Qingying...”
 
-Glancing in the direction where the Grand Divine Official's aura had departed, the coldness in Hua Qingying's eyes finally eased a bit: "That's for the best. Before this, did you go to see Dian Luohou and Dian Jiuzhi?"
+Hua Qingying scanned Yun Che’s whole body in an instant and asked in a frigid voice, “Did the Chief Priest’s divine perception lock onto you just now??”
 
-"I was just about to ask about that myself," Meng Kongchan said.
+Clearly, she had sensed the disturbance and came as soon as she could.
 
-Yun Che honestly replied, "Yes. Caili and I will eventually have to face God Venerable Jueluo and Divine Son Senluo. At a time like this, I felt I should try to understand them as much as possible."
+“Sorry for making you worry, Aunt.”
 
-Meng Kongchan sighed softly, half-relieved and half-admonishing, "Yuan'er, your father knows you have a sense of responsibility far beyond your age and..."
+Yun Che hurriedly said, “The Chief Priest was just asking me a question. Perhaps he sensed something odd with my aura? In any case, he did not mean any harm.”
 
-"Leave this matter to God Venerable Wumeng and God Venerable Huaxin."
+Hua Qingying’s deeply furrowed, crescent-shaped eyebrows did not relax, however. Yun Che did not know this, but she was the outsider with the most contact with the Chief Priest. In fact, she dared to say that she understood him better than even the six Divine Regents.
 
-Hua Qingying stared at Yun Che, her voice icy but not harsh: "Yun Che, with the change in your identity and your perfect divine core revealed to the world, the obstacles between you and Caili are already much smaller than they were initially. I know your heart for Caili is one of deep affection born from unwavering devotion, and you want to do as much as you can with your own strength, but the entanglements involved are not something you can directly face right now."
+If the Abyssal Monarch was kind to a fault, then the Chief Priest was indifferent to the extreme. He had almost never treated anyone from outside the Pure Land favorably. Even Hua Caili, the girl with a world-shattering countenance, a pure and innocent heart and everyone’s favorite, had only ever received a cold stare from him.
 
-"Acting too hastily might backfire."
+In Hua Qingying’s memory, the Chief Libationist had never concentrated his divine perception on a single junior of a Kingdom of God so thoroughly.
 
-Yun Che lowered his head, saying with a hint of guilt, "Aunt's lesson is right; I was indeed a bit too eager, causing Aunt to worry."
+After casting a glance in the direction the Chief Priest’s aura had disappeared to, the cold focus in Hua Qingying’s eyes finally relaxed a little. “This is for the best. Prior to this, you paid Dian Rahu and Dian Jiuzhi a visit, didn’t you?”
 
-"Uh... yes... that's right."
+“I was just about to ask you about this as well,” Meng Kongchan.
 
-God Venerable Wumeng, completely ignored, could only offer an awkward smile, like a simple and taciturn old father.
+Yun Che answered honestly, “I did. This is Caili's and my business. It’s inevitable that I will face down the Boundless Divine Regent and Boundless Divine Son one day. Considering the opportunity, I thought it would be wise to learn about them as best I can.”
 
-"Deep affection is not a fault; there's no need to blame yourself. Just knowing is enough."
+Meng Kongchan let out a quiet sigh and said half-proudly and warningly, “Yuan’er, I know you are far more mature and responsible than your age suggests, but—”
 
-Hua Qingying turned around and continued to instruct, "This Pure Land Assembly¹² is of extraordinary significance, and there will surely be competition among divine sons and divine daughters. It's best to stay close to your father at all times, so you won't be affected by any stray energy."
+“Just leave this to Dreamless and Heart Painter.”
 
-"Yes, I've noted it. Farewell, Aunt."
+Hua Qingying interrupted the Divine Regent. Staring at Yun Che, she said in a cold but not hurtful voice, “Yun Che, the resistance preventing your union with Caili is countless times weaker than it was before your identity underwent a massive change, and your perfect divine essence was made known to the world. I know that your heart for Caili is true. I know you wish to do everything in your power to improve your odds even a little. However, there are tangled messes to this situation that you simply are not capable of dealing with right now.”
 
-Meng Kongchan watched Hua Qingying depart until she was far away, then reluctantly withdrew his gaze. He wasn't jealous of Yun Che's obedience in front of Hua Qingying; instead, he was quite pleased.
+“Overreaching is just as bad as underreaching.”
 
-"Your aunt is right. Just leave the matter between you and Caili to us elders."
+Yun Che bowed his head and said a bit guiltily, “You are right, Aunt. I did let my impatience get to me. I’m sorry for worrying you, Aunt.”
 
-Yun Che suddenly asked, "Senior God Venerable, there's something I've always wanted to ask, but never dared to."
+“Er... yeah... right.”
 
-Meng Kongchan chuckled, "Between us, father and son, there's nothing that can't be said."
+The poor Dreamless Divine Regent, who was ignored by both his son and his unforgotten love, could only smile awkwardly like a simple, reticent father.
 
-"What I want to ask is..."
+“It is not wrong to be driven by emotion. You do not need to blame yourself. As long as you understand the stakes, then all is well.”
 
-Yun Che's gaze showed a hint of worry and apprehension: "If the best outcome is achieved, then how will your relationship with God Venerable Huaxin... and God Venerable Jueluo change?"
+Hua Qingying turned away and gave him one last piece of advice, “This Pure Land Meet is meaningful like no other. There will be conflicts between the Divine Children. You'd best stay out of it and stick close to your Father at all times.”
 
-Meng Kongchan's faint smile showed a momentary crack.
+“I will remember your advice, Aunt. Thank you, and farewell.”
 
-He didn't prevaricate or try to gloss over it, but instead sighed softly: "Huaxin and I understand Dian Luohou¹³ best. Regardless of the final outcome, it will inevitably create an irreparable rift."
+Meng Kongchan would look longingly at Hua Qingying’s back until it was entirely out of sight. Although Yun Che had acted incredibly obedient before Hua Qingying, he did not feel jealous in the slightest. On the contrary, he was glad for it.
 
-"The best outcome is that while a rift forms between us and Dian Luohou, our friendship still remains. However, this outcome requires sufficient patience and careful groundwork, and Huaxin and I will also have to humble ourselves sufficiently before him. Nevertheless, it is true that Huaxin and I were at fault first, and we should do this; Dian Luohou deserves it from us."
+“Your aunt is right. Just leave the matter of Caili and you to your elders. We’ll handle it all.”
 
-"The ordinary outcome is that our friendship with Dian Luohou dissipates, leaving only indifference. Given Dian Luohou's unyielding nature... this is also the most likely outcome Huaxin and I foresee."
+Yun Che suddenly asked, “There is a question I’ve been wanting to ask for the longest time, Senior Divine Regent. However, I could never muster the courage to voice it.”
 
-After a brief pause, he continued, "The difference between these two outcomes only concerns the friendship among the three of us. But you and Caili can then be together without any further obstacles, working hand in hand without hindrance... both are excellent outcomes."
+Meng Kongchan replied smilingly, “We are father and son. There is no need to act reserved.”
 
-Yun Che's face showed emotion, his gaze lowered, and his voice became much softer: "The friendship among you three God Venerables spans over ten thousand years, how precious it is, yet for Caili and me..."
+“My question is...”
 
-"Hahahaha!"
+Yun Che’s gaze grew a tad worried and apprehensive, “Assuming the best case scenario... What will become of your bond with the Heart Painter Divine Regent and the Boundless Divine Regent?”
 
-Meng Kongchan burst into laughter, interrupting his words filled with guilt: "Yuan'er, you and Caili love each other, have gone through life and death together, both possess perfect divine cores, and are both descendants of God Venerables. In the entire history of the Abyss, I doubt there's a 'match made in heaven' like you two."
+Meng Kongchan’s easy smile fractured for just an instant.
 
-"And the most important point..."
+The Divine Regent did not try to give a half-hearted answer or gloss over it. Instead, he let out a quiet sigh and said, “No one understands Dian Rahu better than Hua Fuchen and me, and our conclusion is the same. No matter what happens, a permanent, irreparable scar will appear in our relationship.”
 
-He reached out and gently placed a hand on Yun Che's shoulder: "You are my son, Yuan'er. When it concerns your future and your life, anything your father does for you is right and I do it gladly. Huaxin feels the same way about that girl Caili. You absolutely don't need to feel bothered by this."
+“In the best-case scenario, a crack will appear in our relationship, but our comradeship will still be there. However, it will take a lot of patience and setup to achieve this outcome. It will especially require Hua Fuchen and me to basically throw our faces before his feet. Well, we are in the wrong here. It is only right that we pay our dues. Dian Rahu deserves this much.”
 
-"You'll understand this feeling when you become a father yourself someday."
+“In most other cases, the comradeship between Dian Rahu and us will disappear, leaving behind only cold indifference. Considering Dian Rahu is a man who would rather break than bend... this is the possibility Hua Fuchen and I believe has the highest chance of happening.”
 
-Yun Che's lips quivered, and after a long while, he softly asked, "Then... what about the worst-case scenario?"
+He paused for a second before continuing, “That said, the only difference in these two outcomes is the bond we share. You and Caili will always be together, and your union will no longer face any resistance. All things considered, both are excellent outcomes.”
 
-Meng Kongchan's smile gradually faded, and his gaze turned towards the empty distance: "If we were to have a direct showdown, the consequence would certainly be a complete severing of ties. What kind of repercussions his fury would unleash is hard to predict."
+Yun Che looked almost aghast as he lowered his gaze. His voice was much lower as he said, “But your comradeship survived the passage of ten thousand years. To call it valuable would be the understatement of the era... Is it really worth losing it for just Caili and me?”
 
-"And an even worse outcome would be if Dian Luohou were to learn of it prematurely from elsewhere, before we've had enough time for guidance, groundwork, buffering, and compensation... In his eyes, that would be a complete deception, concealment, betrayal, and even humiliation from Huaxin and me towards him."
+“Hahahaha!”
 
-He slowly closed his eyes: "The consequences then would not be as simple as just anger; there would likely be hatred... bone-deep hatred."
+Meng Kongchan interrupted his guilt-ridden words with a peal of laughter. “Yuan’er, your and Caili’s love was tested and proven true by a trial of life and death. You are also both perfect God Bearers. When the two of you have become Divine Regents, there probably won’t be anyone in the entire history of the Abyss who is as perfectly matched as you two.”
 
-"For the loyal, he would die for them; for traitors, his hatred would surpass that for his enemies, wishing them to suffer rather than die."
+“Most importantly...”
 
-Yun Che whispered, "The rumored temperament of God Venerable Jueluo... is indeed as Senior God Venerable described."
+He reached out and gently rested his hand on Yun Che's shoulder. “You are my son; my Yuan’er. This is your life and future we’re talking about. Is there anything a father wouldn’t do for his son? It is the same for Hua Fuchen and Caili, so you do not need to be concerned with this.”
 
-Noticing Yun Che's worry and apprehension, Meng Kongchan withdrew his gaze, and his expression relaxed: "Heh heh, this is also why Huaxin and I have visited the Senluo Divine Nation¹⁴ multiple times over the past few years, while you and Caili could not meet. However, you can rest assured; Huaxin and I have made multiple plans, and as long as no major accidents occur, that so-called worst outcome is unlikely to happen."
+“You will understand my feelings when you have become a father yourself.”
 
-"It's just that you and Caili must control yourselves as much as possible. After this Pure Land Assembly, you will still have to return to your respective divine nations and must not meet easily before the dust settles. But I imagine someone as intelligent and rational as you doesn't need me to remind you of this."
+Yun Che’s lips trembled for a good while. Finally, he asked softly, “And... What is the worst-case scenario?”
 
-"Furthermore, before leaving the Pure Land, Huaxin and I will take you and Caili to privately meet the Abyss Emperor."
+Meng Kongchan’s smile slowly faded, and his gaze shifted to the emptiness beyond the horizon. “If we confess to him directly without any preparation whatsoever, then it will surely result in a complete severance of our bond. It will be difficult to predict the consequences of his uncontrollable rage.”
 
-Yun Che looked surprised: "Take Caili and me?"
+“Even so, this is still not the worst-case scenario. Worse than this... is Dian Rahu finding out about the truth before we have sufficiently guided, laid the groundwork, buffered, and compensated him... then he would view Hua Fuchen and my actions as an act of utter deception, cover-up, betrayal, and even humiliation.”
 
-Yun Che had fully expected that Meng Kongchan and Huaxin would quietly go to meet the Abyss Emperor during this trip to the Pure Land to confess his and Hua Caili's matter to him beforehand. However, he hadn't expected that they would bring him and Hua Caili along.
+He slowly closed his eyes. “In that case, the consequences would not be as simple as explosive rage. It might very well be accompanied by hatred... bone-deep hatred.”
 
-"Yes."
+“He will die for those he considers comrades; hate a betrayer more than he hates a sworn foe, hate them so much he wishes they would die a thousand times over.”
 
-Meng Kongchan nodded: "Huaxin and I made this decision a year ago. As for the reason..."
+Yun Che said in a low tone, “The Boundless Divine Regent of the rumors... sounds more or less identical to your impression of him.”
 
-"A small part of the reason is that the Abyss Emperor dotes on Caili greatly; when facing him directly, he might calm down a bit of his anger out of reluctance to upset her. The larger part of the reason..."
+Sensing Yun Che’s worry and apprehension, Meng Kongchan withdrew his gaze and grew relaxed. “Hahaha. This is why Hua Fuchen and I have been visiting the Boundless Kingdom of God for the past couple of years, and why we forbade you and Caili from seeing each other. Do not worry though. Hua Fuchen and I have planned thoroughly for this. Barring an exceptionally terrible accident, this so-called worst-case scenario will never come true.”
 
-At this point, his eyes held a smile: "Huaxin and I both feel that you might have the ability to win some favor from the Abyss Emperor."
+“That said, I need you and Caili to control yourself as best you can. When the Pure Land Meet is over, you still need to return to your respective kingdoms and keep your meetings to a minimum before the dust is settled... though I am sure that someone as wise and intelligent as you already understands this.”
 
-"This..."
+“One more thing. Before we leave the Pure Land, Hua Fuchen and I will bring you and Caili to the Abyssal Monarch in secret.”
 
-Yun Che humbly said, "The Abyss Emperor is such a figure; you're truly overestimating me."
+Yun Che looked astonished. “Caili and I?”
 
-"Hahahaha!!"
+Yun Che predicted that Meng Kongchan and Hua Fuchen would secretly meet with the Abyssal Monarch and confess about the matter between him and Hua Caili. However, he did not anticipate that they would bring him and Hua Caili with them.
 
-Meng Kongchan laughed loudly: "That girl Caili is so obedient, never overstepping boundaries, yet for you, she broke off her engagement and even dared to contend with her father, whom she never defied; Jianxi is someone I watched grow up, and I know his capabilities well, yet you completely subdued him in such a short time."
+“That’s correct.”
 
-"Your capabilities are probably far greater than we imagined, hahahaha!" Amidst his laughter, Meng Kongchan had already led Yun Che back to the courtyard. Yun Che did not go out again, but honestly remained by Meng Kongchan's side, quietly meditating and concentrating, awaiting the moment to meet the Abyss Emperor. As his five senses withdrew, the outside world completely fell silent, leaving only countless strands of thought constantly intertwining and calculating various possibilities within his soul sea.
+Meng Kongchan nodded. “In fact, we arrived at this decision a year ago. The reason...”
 
-Until a certain moment, a surge of profound energy¹⁵ descended from the distant sky, accompanied by a dull, majestic hum. Throughout the Weaving Dream Divine Nation¹⁶, everyone opened their eyes, stood up, and assumed a solemn demeanor.
+“A small part of the reason is that the Abyssal Monarch is quite fond of Caili. When the time comes, we hope that her presence will quell his anger at least a little. But the biggest and most important reason...”
 
-"Brother Yuan, the time has come."
+His eyes were smiling as he said this, “Both Hua Fuchen and I believe that you are capable of winning at least some of the Abyssal Monarch’s affection yourself.”
 
-Meng Jianxi's voice sounded in his ear. Yun Che stood up, his face displaying the most appropriate expressions of nervousness, anticipation, and excitement.
+Yun Che replied in a modest tone, “What existence do you think the Abyssal Monarch is? You really think too highly of me.”
 
-"No need to be nervous, just act as usual."
+“Hahahaha!!”
 
-After transmitting a message to Yun Che, Meng Kongchan stood proudly, a divine pressure belonging to a True God surging around him: "The time has come! To Eden Cloud Peak¹⁷!"
+Meng Kongchan laughed uproariously. “Caili is a good, obedient girl who has never broken a rule in her life, and yet she went so far as to break her engagement and even challenge her own Father, the one man she used to obey absolutely and without question, for you. I have watched Jianxi since he was young, so I know very well how competent he is. And yet, you have dominated him thoroughly in an unbelievably short time.”
 
-————Undoubtedly, the Pure Land was the purest place in the Abyss World. And this place was the ultimate purity of the Pure Land. The color was pure, unblemished white; clouds were underfoot, and the sky was connected to the clouds. As far as the eye could see, apart from the figures from outside, there wasn't a single trace of impurity or flaw.
+“You speak modestly, but both of us feel that you are far more capable than we can imagine. Hahaha!”
 
-The aura, moreover, felt as if it had been cleansed by the purest, most immaculate spring water in the world, devoid of the abyss dust of the mist sea, and even the mortal dust of the secular world. Even in the God Realm¹⁸, which Yun Che was most familiar with, such a pure place barely existed. This place was named — Eden Cloud Peak.
+By the time Meng Kongchan laughed, he had already brought Yun Che back to their courtyard. Yun Che did not leave after that. He sat next to Meng Kongchan and meditated quietly, waiting for the audience with the Abyssal Monarch to begin.
 
-It was the highest point of the Pure Land, the supreme land of the Abyss. It was also the residence of the Abyss Emperor. Beyond the layers of clouds lay the place of audience revered by the entire world, which even the God Venerables of the Six Nations dared not look upon directly — the Eden Holy Temple¹⁹.
+As he withdrew his senses, the noises of the outside world faded completely into silence. All that was left in his soul sea was countless streams of thoughts mixing with each other and calculating all kinds of possibilities.
 
-"What a strange place, its purity makes one uncomfortable." This was actually the evaluation given by the Life Creation God²⁰, who symbolized the ultimate sanctity of the world.
+This lasted until a burst of profound qi suddenly descended from the distant sky. A low and intimidating rumble accompanied it. Every Dreamweaver member opened their eyes at the same time and rose to their feet with solemn expressions.
 
-Yun Che, whose contemplation had been interrupted, replied, "Such a space is clearly not naturally formed. Creating such extreme purity and immaculateness... it's as if it reflects a certain obsession in one's heart."
+“It is time, Brother Yuan.”
 
-"Obsession?" Lisuo²¹ asked, puzzled.
+Meng Jianxi’s voice rang in his ears, and Yun Che stood up. He put on a suitable mask of nervousness, anticipation, and excitement.
 
-"This... it's hard to explain clearly to you right now. For now, I need to focus on dealing with this important matter." His gaze swept forward, meeting one gaze after another. Soon, the core forces of the Six Great Divine Nations and the only surviving beast race, the Dragon Clan, would gather here. However, none of these beings who ruled the Abyss World and stood at its apex knew that among them, deeply hidden, was a demon god who had sworn to destroy the Abyss at all costs.
+“No need to be nervous. Just act normally.”
+
+After sending Yun Che a sound transmission, Meng Kongchan proudly rose to his feet while the divine pressure of a True God brimmed around him. “It is time. Let us head to Eden's Crown!”
+
+The Pure Land was unquestionably the purest land in the entire Abyss, and this place was the purest place in the Pure Land.
+
+The only color one could see in this place was pure, flawless white. The clouds beneath their feet, the sky around them. Excluding the people, one could not find even the slightest speck of impurity, no matter where they looked. The air especially felt like it had been cleansed by the purest spring. Forget abyssal dust; one could not even find a speck of ordinary dust in this place. Such a place was exceedingly rare even in the God Realm.
+
+They called it—Eden's Crown.
+
+If the Pure Land was the highest place of the Abyss, then Eden’s Crown was the highest place of the Pure Land. It was also where the Abyssal Monarch resided. Behind the countless cloud layers sat a lofty audience hall that even the six Divine Regents didn’t seem to look at directly—Eden’s Temple.
+
+“What an odd place. It’s so pure it actually feels discomfiting.”
+
+The remark came from the woman who represented the absolute purity of the universe, the Creation Goddess of Life Li Suo.
+
+His thoughts interrupted, Yun Che replied, “It’s obvious that this space wasn’t formed naturally. To go so far as to create such an extreme place of purity... it feels like a reflection of some kind of obsession.”
+
+“Obsession?” Li Suo asked in confusion.
+
+“Er... this is going to be a long and difficult explanation, and right now I have to focus on the important matters in front of me.”
+
+Yun Che cast his gaze forward and encountered many foreign gazes along the way. Soon, the core power of the six Kingdoms of God and the only existing Beasts in the Abyss—the dragons—would be gathered here.
+
+Unfortunately for these lofty, supreme existences who stood at the peak of the Abyss and ruled over all abyssal worlds, they had no idea that a demon god who swore to destroy the Abyss at all costs lurked within their ranks.

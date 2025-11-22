@@ -1,214 +1,279 @@
 ---
 chapterNumber: 2111
 title: "The Night Before"
-publishedAt: "2025-11-16"
+publishedAt: "2025-11-22"
 ---
 
-After leaving the area where Pan Buwang was, Yun Che did not disperse the abyss dust covering his body, but continued to move forward. There, it was the deeper part of the fog sea.
+Yun Che did not dispel his abyssal dust despite leaving Pan Buwang’s area. Instead, he continued toward the deeper areas of the Endless Fog.
 
-"Where are you going?" Li Suo suddenly spoke, with undisguised vigilance.
+“Where are you going?” Li Suo asked suddenly and with undisguised suspicion.
 
-Yun Che looked at the increasingly deep abyss dust in front of him, and his feet did not stop: "It's time to go deeper to have a look."
+Yun Che’s footsteps never slowed even a little as he stared at the deepening abyssal dust ahead of him. “It’s time I check out the deeper regions.”
 
-Li Suo was silent for a while, and said uncertainly: "Could it be that you want to..."
+Li Suo fell silent for a moment before asking uncertainly, “Are you planning to...”
 
-"Yes, it's what you think."
+“That’s right. It’s exactly what you think.” Yun Che lifted his hand and smiled like he was talking about a trivial matter. “It’s time to try controlling a Divine Limit Realm abyssal beast.”
 
-Yun Che raised his hand, with a smile on his face, and his demeanor was calm as if he was narrating a trivial matter: "It's time to try to control the abyss beasts in the extreme realm of God."
+For the past few years, Yun Che’s maximum ability to control abyssal beasts had gone from the early stage of Divine Extinction Realm to the late stage Divine Extinction Realm. It hadn’t even taken him four years to reach this level. His speed of growth was terrifying to say the least.
 
-Yun Che's control of the abyss beasts in recent years has continued from the early stage of God Destruction Realm to the late stage of God Destruction Realm. It took less than four years in total. The speed of growth is terrifying. But it has always been limited to the scope of God Destruction Realm. As for the Abyss Kirin God, it is completely an accident derived from the unextinguished Kirin will.
-"You have been deliberately suppressing your realm. In your current state, it is too dangerous to encounter any God Realm Abyss Beast."
+That was all. The Abyssal Qilin God was an exception born from a happy accident. He hadn’t been able to control a single Divine Limit Realm abyssal beast besides it.
 
-Li Suo dissuaded... Although her dissuasion had never worked on Yun Che.
+“You’ve been suppressing your cultivation level this whole time. At your current level, encountering any Divine Limit Realm abyssal beast is a risk that will put you in grave danger,” Li Suo tried to persuade him, even though her persuasion had not worked even once on Yun Che.
 
-"It's not that dangerous."
+“I wouldn’t go so far,” Yun Che said casually. “Although I’m not too confident that I could master a Divine Limit Realm abyssal beast myself, I am confident that I can make sure that their destructive instincts will not work against me. I am the monarch of the Endless Fog after all.”
 
-Yun Che said lightly: "Although I don't have much confidence in controlling the Abyss Beasts of the God Realm, I am confident that they will not release their destructive instincts on me. After all, I am the Emperor of the Sea of ​​Mist."
+Li Suo was still worried, “That’s a title you gave yourself. The abyssal beasts of the Endless Fog have never acknowledged it. You cannot let your guard down no matter what.”
 
-Li Suo was still worried and said: "You only proclaimed yourself. The Abyss Beasts of the Sea of ​​Mist have not recognized you, so you must not take it lightly."
+“... So, what if they don't acknowledge me?” Yun Che’s eyes grew darker as if Li Suo’s words had provoked him. “How dare you question this monarch’s infinite power, you trivial Creation Goddess of Life! Just you wait, you will see a Divine Limit Realm abyssal beast lick my palm like a pet dog by the end of this little excursion!”
 
-"...It doesn't matter!"
+Li Suo: “...”
 
-Yun Che seemed to be stabbed by Li Suo's words, and his eyes became a little darker: "A small Creator God of Life dares to question the power of this emperor! You wait, I will let you see how the Abyss Beasts of the God Realm bow down to me soon!"
+Twelve hours later... Yun Che emerged from the abyssal fog while covered in dirt. He sat on the ground and panted for a very long time before he barely got a grip on his breathing.
 
-Li Suo: "..."
+If Yun Che could control a Divine Limit Realm abyssal beast, he would surely be in a much better position than he currently was.
 
-Six hours later... Yun Che rushed out of the Abyss Mist with a dusty face, and then sat on the ground and gasped for breath. It took him a long time to barely catch his breath. If Yun Che could control the abyss beasts of the God Realm, it would undoubtedly be a huge help to Yun Che. However, Yun Che's body was too fragile to face the power of the God Realm.
-Even if he lost control a little, it would be a disaster for him now. Li Suo appeared, and the purest light power in the world covered him, making Yun Che feel like he was bathing in a holy spring. The wounds on his body healed at a speed visible to the naked eye, and even his broken hair grew back.
-"If you insist on trying again, you'd better bring the Ancestral Kirin God with you." Li Suo persuaded.
-These words fell into the ears of the Mist Emperor, and were simply a mockery of his "endless power" and his previous arrogant words.
-His eyes were cold, and he said calmly: "I just miscalculated a little. At most one month, before I set foot in the Pure Land, I must at least successfully control it..."
+Unfortunately, Yun Che’s body was just far too frail before the likes of Divine Limit Realm beasts. Even a tiny loss of control could result in absolute disaster.
 
-After a few breaths, his voice was still powerful: "A Divine Abyss Beast!"
+Li Suo appeared and showered Yun Che in the purest, holiest divine power. As if he was taking a bath in a sacred spring, his injuries began healing at a visible rate. Even his severed hair had regrown back to its usual length.
 
-Li Suo thought about it and chose to comfort him: "Well, it will succeed."
+“If you wish to try another time, you should bring the Ancestral Qilin God with you,” Li Suo advised.
 
-Very wisely, he did not continue on this topic. Yun Che sat up straight, and as the scarlet sword light appeared, the Heaven Smiting Demon Slayer Sword was placed in front of him. As his other hand covered, another... "Heaven Smiting Demon Slayer Sword" appeared, fitting tightly with the previous one, with sword light matching and aura blending. The same wide sword body, from the tip of the sword, the sword body to the round bead on the hilt, are exactly the same.
+In the ears of the Fog Monarch, this was practically a barefaced taunt against his arrogant claims of “infinite power” just now. A chill settling in his eyes, he said quietly, “The attempt only failed because of a slight error in judgment. In a month at most, before I enter the Pure Land at least, I will control at least...”
 
-They release almost indistinguishable scarlet sword light, and carry a faint sacred aura. At least, from the appearance and sword aura, it is difficult to distinguish them. Of course, Yun Che can identify them in an instant. When the sword power explodes, the two are even more different.
-After staring at the two "Heaven Smiting Devil Slaying Swords" for a long time, Yun Che suddenly frowned, grabbed the sword on the right side, and slammed down on the other "Heaven Smiting Devil Slaying Sword". The sound of power exploded with a heart-shaking sound of breaking. Under the Heaven Smiting Sword, the vermilion sword body broke in the middle, and fine cracks spread in mid-air. When it fell to the ground, countless vermilion fragments had already been scattered. The Heaven Smiting Sword Aura and the Holy Aura of Light sealed in it also completely dissipated.
-Li Suo looked sideways, very surprised by Yun Che's action: "In order to forge this sword, you spent a lot of effort to find the red crystal, and it took two years to immerse and seal the sword aura of the Heaven Smiting Sword. You also poured the power of light hundreds of times, and finally got the result today. Why did you suddenly destroy it?"
+He paused for a few breaths before continuing with the same confidence and volume, “One Divine Limit Realm abyssal beast!”
 
-Yun Che said: "I spent a lot of effort to simulate a sword with a shape and aura that are completely similar to the Heaven Smiting Sword, in order to leave no flaws. But during this period of time, I have been thinking about it repeatedly... Its existence may become another bigger flaw."
+Li Suo thought for a second before choosing to console him. “Sure. You will succeed.”
 
-"After weighing the pros and cons, I think I should choose another way."
+Wisely keeping his mouth shut, Yun Che sat up and manifested the Heaven Smiting Devil Slayer Sword in front of him in a flash of vermillion. 𝚏𝕣𝐞𝗲𝐰𝕖𝐛𝐧𝕠𝕧𝚎𝚕.𝐜𝚘𝗺
 
-Putting away the Heaven Smiting Demon Slayer Sword and clearing away the red debris on the ground, he whispered to Li Suo: "I am going to find a suitable time to 'abandon' it."
+Then, he lowered his hand and manifested... another “Heaven Smiting Devil Slayer Sword”. He pressed it against the original so that their sword light and aura would merge.
 
-Li Suo sighed faintly... He has endless thoughts every day. Is there really no time when he is exhausted and about to collapse... The Seven-Star Heaven Smiting Formation in the Heaven-Breaking Divine Kingdom. The star formation shines, and endless sword light swirls. Each of these sword beams came from Hua Qingying, and each of them was a cruel test.
-If you can't understand the sword meaning and integrate the sword power, even if you lack one of them, you will never be able to break out of the formation. Now, the sword beams released by this huge sword formation are already as bright as thousands of stars, reflecting a layer of faint light on the sky of the entire Zhetian Divine Kingdom. Finally, the last sword beam suddenly shone, leaving the huge star formation without a single flaw.
-The next moment, thousands of swords rang together, and the entire huge star formation hung upside down and flew straight into the sky. Then it circled around, like the moon surrounded by stars, and a girl's figure was reflected in the center of the star formation. The girl raised her eyes, and the overly bright and beautiful scenery at that moment instantly dimmed the thousands of sword beams.
-The jade sword in her hand also circled with a divine light far brighter than before. Where the sword tip pointed, all the sword beams in the star formation tilted flat and flew straight to Hua Qingying in the distant sky. Hua Qingying did not move, but flicked her jade hand. The sword light stopped obediently in front of her, and then slowly faded like melting ice and snow until it completely disappeared, just like a fleeting dream that had never really existed.
+The tip of the sword, the blade, the handle, and even the round bead on the handle, the second sword looked exactly identical to the first. Both swords were emitting near identical vermillion sword light and faintly discernible holy aura.
 
-"Aunt!"
+Judging from their appearance and sword aura alone, it was extremely difficult to distinguish which was real and which wasn’t.
 
-The girl's figure had already pounced on her, and she threw herself into her arms like a fluttering jade butterfly: "I miss you so much."
+Of course, Yun Che could distinguish them in an instant. In particular, the difference between the sword’s power was like night and day.
 
-Hua Qingying gently held the girl's jade back, her heart was beating, and she whispered: "You have cultivated the third sword of the broken sky. This time, Emperor Yuan will definitely be amazed by you."
+After staring at the two “Heaven Smiting Devil Slayer Swords” for a long time, Yun Che suddenly furrowed his eyebrows and grabbed the sword to the right. Then, he brought it down on the other “Heaven Smiting Devil Slayer Sword”.
 
-The girl raised her eyes in her arms, but she was not happy because of her aunt's praise, but said abruptly: "Is Brother Yun okay now? Has he encountered... frustration or bullying in the Kingdom of Dream Weaving?"
+The explosion of power was followed by the heart-shivering noise of breaking. The vermillion blade was split at the center as the shockwave flung it into the air, cracks appearing across its surface. By the time it landed back on the ground, the sword had disintegrated into countless vermillion fragments.
 
-It was only the second sentence after breaking the star array, and she was so impatient. Hua Qingying was still thinking that three years of practicing breaking the array would definitely make her sword heart more tenacious and solid, and gradually far away from all thoughts and emotions. But the fact is obviously not the case.
-"He's fine, better than you thought. Moreover, he has found his past and his destiny."
+The Heaven Smiting sword aura and sacred aura of light sealed within the blade were gone as well.
 
-The first half of Hua Qingying's words dissipated most of the worry in her eyes, and the second half of the words made her eyes full of doubt: "Brother Yun's... past?"
+Li Suo looked very surprised by Yun Che’s sudden action. “You spent energy to search for the vermillion-colored abyssal crystals necessary to forge this sword. You contaminated and sealed the sword aura of the Heaven Smiting Sword for two years and injected light profound energy into it a couple hundred times before it finally evolved to what it is today. What possessed you to destroy it all?”
 
-"Your father's accidental encounter back then may have been guided by fate."
+Yun Che explained, “The reason I spent all this time and effort to forge a sword that looks exactly the same as the Heaven Smiting Sword in terms of appearance and aura is so to avoid leaving behind holes in my story, but after a long consideration... I believe that its existence itself is a bigger hole.”
 
-Hua Qingying said: "After Yun Che arrived at the Dreamweaver Kingdom, he discovered that his true identity was the Dreamweaver God's son Meng Jianyuan who disappeared that year."
+“After weighing the pros and cons, I ultimately decided that the other option is better.”
 
-"Huh?? Ah?"
+He put away the Heaven Smiting Devil Slayer Sword and cleaned up the vermillion debris on the ground. Then, he said in a hushed tone, “I’m going to ‘abandon’ it at a suitable time.”
 
-Hua Caili was obviously stunned and couldn't come back to her senses for a while.
-"Although this may sound strange at first, it was confirmed by the Dreamless God himself, so it is certain."
-Hua Qingying said calmly: "Moreover, when he was tested for his godhood, he showed a perfect godhood like yours, which shocked the six kingdoms of God."
-"In the three years you have been concentrating on the formation, his name has been resounding throughout the world, and everyone knows it. In the Dreamweaver God Kingdom, not only will he not be bullied, but he can bully anyone he wants. So, you can put all your worries aside."
-Hua Qingying's description was brief and direct, but it took Hua Caili a long time to react. She was a little dazed and said: "In other words, Brother Yun... he is now... the Son of Dreamweaver?"
-Hua Qingying sighed and said: "You know he has no memory before the age of ten, so he can't remember that he was Meng Jianyuan, and he values ​​his teacher too much. Even in front of the Dreamless God, he did not give in and said that he would never give up the name of 'Yun Che' before recovering his memory, and at the same time he would not I wish to become the Son of the Goddess of Dream Weaving. "
+Li Suo sighed quietly. He spent all day every day thinking like this. She truly worried that he would one day scrape the bottom of his mental energy and collapse...
 
-Hua Qingying's words did not surprise Hua Caili at all. Instead, she smiled, her beautiful eyes filled with mist: "Brother Yun has always been this kind of person, the most affectionate, the most intelligent and the most foolish. The title of the Son of God, which others cannot hope for, is far from shaking his sincerity. "
+Heaven Breaker Kingdom of God, the Seven Star Heaven Breaker Formation.
 
-"However, although he is not the Son of the Goddess of Dream Weaving now, with his perfect godhood and the undisguised favor of the God of No Dream, in the eyes of the world, he is also. In addition, I don't know what method Yun Che used. According to the information I know, Meng Jianxi, who was extremely wary and hostile to Yun Che, is now very obedient to him. She has even told her mother clan more than once that she is willing to help Yun Che in the future. "
+The star formation was shining brightly. Infinite sword beams were rotating within.
 
-The girl's beautiful eyes have turned into a beautiful and endless sea of ​​stars, with happy blazing stars, proud bright stars, excited tear stars... filling all her heart and soul, but each of them reflects the name of Yun Che.
-"Aunt... so... between me and Brother Yun..."
+Each and every sword beam came from Hua Qingying herself, and every sword beam represented a cruel trial. If the challenger could not understand its intent and subsume its power, if the challenger was lacking in either area, then they would never be able to breach the formation.
 
-"Yeah."
+Today, the sword light emitted by the massive sword formation was akin to tens of thousands of stars shining at the same time. It was so bright that the pale sky of the Heaven Breaker Kingdom of God looked like it was shimmering.
 
-Hua Qingying patted the girl's shoulder. She felt her endless joy, but this joy also made her feel a little distressed: "The barrier of identity between you no longer exists. If there is no marriage contract granted by the Abyss Emperor, as children of the God, and both of you have perfect godhood, your union will not attract any doubts and criticisms."
+Finally, one last sword beam lit up and filled the last gap in the massive star formation.
 
-"The biggest obstacle still exists, but it is much better than it was three years ago. Your father God His acceptance of Yun Che is much better than before. In the past three years, he has been paying attention to Yun Che's information in the Kingdom of Dreamweaver, and even went to visit him in person. "
+The next moment, tens of thousands of swords rang in unison, and the entire sword formation flipped around and flew into the air. Floating at the center of the sword formation—like the center of the universe surrounded by countless stars and moon—was a young woman.
 
-Hua Caili's eyebrows were curved: "Father God has always been like this, always likes to say heavy words, but in fact he is the softest."
+When the young woman lifted her eyes, the glimpse of beauty was such that it outshone the countless sword lights.
 
-With a light smile, she flew down: "I will go to see Father God first. It's the first time I haven't seen him for so long, I really miss him."
+The divine light circulating in the jade sword in her hand was much brighter than before as well. When she pointed her sword forward, every sword beam in the star formation slanted upward and flew toward Hua Qingying in the sky.
 
-Hua Qingying did not follow her. She silently watched Hua Caili's figure going away, and was a little dazed for a while. She has always believed that the heart of the sword cannot be covered with dust. To achieve the ultimate sword, all desires and unnecessary emotions must be eliminated. Her sword progress is so fast that she surpasses Hua Fuchen and her ancestors from generation to generation, until she stepped on the top of the world, which made the priests amazed... This made her more convinced and determined about the "ruthless" swordsmanship she upholds.
+Hua Qingying did not move. She waved her hand slightly, and the sword beams immediately came to a standstill like obedient children. Then, they all melted away like snow; like a passing dream that had never existed.
 
-Hua Qingying's eyes Hua Caili is a real freak. All her talents are above hers... including her swordsmanship talent. And she clearly realized that her sword cultivation had completely transformed after meeting Yun Che. Hua Caili's dustless sword heart, which was originally isolated from all other thoughts under her guidance, was deeply engraved with Yun Che's shadow... Then, she mastered three swords in three years, the sword of the broken sky, which was difficult to make an inch in a thousand years.
-So... the ruthless sword way that abandons all desires and emotions... is it wrong... "Hahaha! Congratulations to Caili for breaking the eighth star array again! We are really surprised... Eh? Where is Caili?" All seven great sword masters came, without a single one absent, but Hua Caili was not seen. They knew better than anyone what the eighth star array set up by Hua Qingying personally meant.
-Hua Qingying said, "Everyone return to the Sword Pavilion and wait for orders. The God should announce this trip to the Pure Land in the near future."
+The young woman was already flying up to Hua Qingying and jumping into her lap like a jade butterfly. “I missed you so much.”
 
-"Qingying,"
+Hua Qingying gently wrapped an arm around her back and whispered, “To think you have grasped the Third Heaven Breaking Sword. The Abyssal Monarch will most certainly be impressed when he sees this.”
 
-Tianshu Sword Master stroked his white beard and said meaningfully, "Are you going with me on this trip to the Pure Land?"
+The young woman looked up, but it wasn’t because of joy for having received her aunt’s praise. Instead, she asked rather abruptly, “How is big brother Yun doing? Was he... stumped or bullied during his time at the Dreamweaver Kingdom of God?”
 
-After a few breaths, Hua Qingying replied indifferently, "Yes."
+This was the second line she spoke since breaking out of the star formation. To say she couldn’t wait would be an understatement.
 
-...Star Moon Divine Kingdom.
+Ha Qingying was thinking that her sword heart would become firmer and stronger than before after three years of practice. She thought that she might grow distant toward emotions like her.
 
-"Brother Buwang, is it really you?!" Shaxing came to Pan Buwang quickly, looked him up and down, and his eyes were indescribably complicated.
+Clearly, she was wrong.
 
-Pan Buwang not only lost the title of Son of God, but also his mother passed away, his father God despised him, and even the person he loved was abolished and killed. From the Son of the Owl Butterfly God to the abandoned son of the Owl Butterfly, his ups and downs in fate clearly explained to the world what it means to fall from heaven to hell. At this moment, Pan Buwang in front of him no longer had any of the high spirits of the past, and his whole aura was dark and gloomy. Not to mention the majesty of the Son of God, even his outer garments were full of tatters and bloodstains, as if he had just walked out of a dark and bloody quagmire. His pupils were no longer the arrogant black star of the past, but a gray and hazy turbidity that was difficult to distinguish the bright light. Shaxing sighed in his heart... Even if he lost the title of Son of God, his status should be much higher than other emperors, but he actually... fell to this point... After learning that he had gone to Shenmeng Valley and appeared in the fog sea, the Xiaodie Divine Kingdom even publicly announced that it had abandoned him and would never look for him, whether alive or dead. The fundamental reason was that he was unwilling to bow to the newborn Son of God and unwilling to let go of the matter of his mother... Such a temperament can be called stupid, or it can be praised as being willing to break but not bend. But in terms of the result, it is obviously more inclined to the former.
-Pan Buwang smiled: "I am just an abandoned person now, far from being qualified to be on equal footing with the Star God Son. The Star God Son is willing to meet, Buwang is very grateful."
+“He’s doing well. Much better than you imagined. He even found his birthplace, past and home.”
 
-"Brother Buwang, that's not right."
+If the first half of Hua Qingying’s reply extinguished the large majority of the worry in Hua Caili’s heart, then the second half filled it with shock and confusion. “Big brother Yun’s... birthplace and past?”
 
-Shaxing shook his head and said: "I have also personally experienced the pain and helplessness of life's ups and downs. This is not your wish, nor your fault. No one should look down on you for this, especially you."
+“It was a mighty coincidence by your father... or perhaps it was just the attraction of fate.” Hua Qingying said, “After Yun Che arrived in the Dreamweaver Kingdom of God, he discovered that he was none other than the Dreamweaver Divine Son who went missing back then, Meng Jianyuan.”
 
-Pan Buwang was touched and said gratefully: "I am so lucky to be able to make friends with the Star God Son in this life."
+“Huh? What?” Hua Caili was clearly stunned by this.
 
-After experiencing the Abyss Eclipse, Shaxing's state of mind obviously changed subtly. He said directly: "Brother Buwang, you must have something important to come here this time, just speak frankly."
-"Okay, then I won't be polite anymore."
+“I know it sounds unbelievable, but this was confirmed by the Dreamless Divine Regent himself. There can be no mistake,” Hua Qingying said calmly. “Not only that, he displayed perfect divine essence just like you during his divine essence test. The news shook the six Kingdoms of God for a time.”
 
-Pan Buwang said: "I hope to go to the Pure Land with the Star-Moon Divine Kingdom to meet the Abyss Emperor."
+“During the three years you were practicing inside the formation, he has become famous throughout the Abyss. There is no one who hasn’t heard about him. Therefore, not only is he immune to harassment inside the Dreamweaver Kingdom of God, he’s the one doing the harassing without consequences. Therefore, you don’t need to worry about him one bit.”
 
-Sha Xing was surprised, then frowned and shook his head: "Sorry, I can't help you with this matter. Brother Buwang, I believe you should know that the significance of this trip to the Pure Land is far greater than any previous one. And the audience of each Divine Kingdom can only be a hundred people at most."
+Hua Qingying’s reply was short and succinct, but it still took Hua Caili a while to regain her wits. She asked a bit dazedly, “So, big brother Yun... is currently... the Dreamweaver Divine Son?”
 
-"In order to compete for the position of a mere hundred people, the major Star Palaces and Moon Cities have organized several large-scale competitions. If you are brought along, it will be unfair to the Star-Moon disciples who are fighting for it, and the Owl Butterfly Divine Kingdom will also look askance at this matter, If you make unpredictable fantasies and cause a rift between the two countries... even if it is just a slight rift, it is a sin. "
+Hua Qingying sighed. “As you know, he does not possess any memory from before he was ten. To this day, he can’t recall any memories from when he was Meng Jianyuan. Not only that, he values his master’s favor above anything else. That's why he declared before the Dreamless Divine Regent that he would never abandon the name ‘Yun Che’ until he recovered his memories. He was unwilling to become the Dreamweaver Divine Son either.”
 
-Shaxing's words were all well-founded. Pan Buwang nodded slowly, without any disappointment on his face, as if he had never held out hope from the beginning: "Xingshenzi is right. I was too shallow to think and made such an out-of-bounds request."
+This time though, Hua Qingying’s words failed to elicit even a hint of surprise from Hua Caili. She broke into a smile as she replied dreamily, “That’s how Big Brother Yun is. There’s nothing he values more than bonds, which makes him look like both the smartest and most foolish man in the world. Not even a title most people didn’t even dare to dream of could threaten his belief one bit.”
 
-"I'm really sorry that I couldn't help you."
+Hua Qingying continued, “Although he wasn’t the Dreamweaver Divine Son, he still possesses perfect divine essence and the undisguised favoritism from the Dreamless Divine Regent. He might as well be one, just not unofficially. Not only that, I heard that Meng Jianxi, who was originally extremely hostile and wary of Yun Che at the beginning, has done a one-eighty and become subservient to him instead. I’m not sure what he did, but Meng Jianxi has declared more than once to his own clan that he will serve Yun Che with all his might.”
 
-Shaxing apologized again: "If Brother Buwang insists on entering the Pure Land, you can find another way. Or..."
+At this point, the young woman’s eyes had melted into an endless and beautiful sea of stars. Blazing stars of joy, shiny stars of pride, teary stars of excitement... they filled up her heart and soul to the brim. But regardless of her emotions, every single star was reflecting the name Yun Che.
 
-He glanced at Pan Buwang and said: "Excuse me, your thoughts don't seem to be that strong. "
+“Aunt... so... Big Brother Yun and I...”
 
-Pan Buwang laughed at himself: "Star God Son has a keen eye. Now that things have come to this, I have nothing to hide. This trip to the Pure Land is not my wish, but to obey the will of the Mist Emperor."
+“Yes.” Hua Qingying gave Hua Caili a light pat on her shoulder and felt the waves of infinite joy emanating from the young woman. She was happy for her, but at the same time, her heart ached for her a little. “There is no longer any problem between your statuses. If not for the fact that your engagement was bestowed by the Abyssal Monarch Himself, your union would not have garnered any criticism whatsoever. You are both perfect Godbearers after all.”
 
-Sha Xing froze for a moment, and then said in a completely unquestionable tone: "You said... Mist Emperor?"
+“The biggest obstacle still exists, but the situation is far better than what it was three years ago. Your Father’s acceptance of Yun Che is also much, much better than what it was before. Not only has he been paying close attention to Yun Che for the past three years, he even paid him a visit not long ago.”
 
-"Yes."
+Hua Caili’s slender eyebrows curled proudly. “Father has always been like this. He loves saying harsh things even though he’s really a softie inside.”
 
-Pan Buwang said frankly: "Three years ago, I was desperate and thought about giving up my heart and hiding from the world, and sleeping in the Dream Valley. But the Dream Weaving Kingdom may have taken my identity into consideration. After I fell asleep, they did not put me in the dream, but sent me out in the Xuanzhou. When I woke up, , I was already in the sea of ​​fog. ”
-He said with emotion: “To be honest with Star God, I was able to get rid of my heart and live again in the world, all thanks to the Mist Emperor. I have been hiding in the sea of ​​fog for the past three years to repay the Mist Emperor’s kindness.”
-“To truly get rid of the abyss of the heart, you must face it directly. I want to go to the Pure Land this time because of what the Mist Emperor said.”
-He took a step back: “I will not bother Star God anymore, and I will say goodbye.”
-When he turned around, he suddenly remembered the voice of Shaxing, which was obviously a little colder: “Wait!”
-Pan Buwang stopped the steps that he had not really taken.
-Shaxing’s face sank: “You must know the opposition between the Mist Emperor and the Pure Land, but you mentioned the ‘Mist Emperor’ so wantonly in front of me. It seems that you know that I have received the favor of the Mist Emperor.”
-Pan Buwang’s expression was subtle, and he did not say whether it was right or wrong. And silence was already an answer.
-“Are you threatening me?”
-Shaxing’s voice suddenly became cold. "No,"
+Nursing a light giggle between her lips, she descended toward the floor while saying, “I’m going to see Father. It’s been a while since I’ve seen him, and I really miss him.”
 
-Pan Buwang smiled: "It may cause trouble to you to reveal that you have received the favor of the Mist Emperor, but it is of no benefit to me. I am helping you to repay the Mist Emperor's kindness."
+Hua Qingying did not follow her. Instead, she simply watched Hua Caili’s departing back until she almost forgot where she was.
 
-"I believe that as proud as you are, the word 'owe' will always be a thorn in your heart, not to mention such a person, and such a great favor." Shaxing's face was cold and silent, and he did not speak for a long time.
+She had always believed that a sword heart must remain pure at all times. She believed that someone who desires to reach the pinnacle of the sword way must first eliminate all desires and unnecessary emotions from their heart.
 
-Pan Buwang's expression did not change, and his voice was still faint: "Of course, the decision of this matter is up to the Star God. Although I am no longer the Owl Butterfly God, I still can't do anything to harm my old friend, so the Star God can rest assured."
+To be fair, the speed at which she progressed in the way of the sword was faster than even Hua Fuchen. Not only that she gradually surpassed all who came before her until she became the undisputed greatest swordsman in the entire Abyss, winning even the unbridled praise of the High Priests. As a result, she grew even more certain that her “Heartless” Sword was the right way.
 
-Shaxing stared straight at Pan Buwang, and suddenly said: "You have changed."
+In Hua Qingying’s eyes, Hua Caili was a true monster whose talents surpassed her in every way including her talent in the sword.
 
-Pan Buwang returned the same look: "Everyone will change. If you don't change, it can only be because you don't need to change."
+She could also sense that the pivotal point where her way of the sword underwent a complete transformation was after she met Yun Che.
 
-Shaxing's lips trembled, and then he laughed: "I suddenly want to know, you are a person who has been abandoned without any room for mercy, what do you want to do in the Pure Land? Cry to the Abyss Emperor about your experience Unfair? ? Trying to prove your father's mistake in the Pure Land? Or simply to make your father unhappy? "
+Hua Caili’s sword heart was dustless at the beginning due to her guidance. She had isolated all unnecessary thoughts and desires from her heart. But now that Yun Che’s silhouette was engraved on that heart... When before she was barely able to make any progress, she had grasped three Heaven Breaking swords in just the span of three years.
 
-Pan Buwang: "So..."
+Was my Heartless Sword that discards all desires and emotions...
 
-"So, I promise to take you to the Pure Land."
+“Hahahaha! Congratulations for breaching the eighth star formation, Caili! Your achievements truly make us old people look—hmm? Where’s Caili?”
 
-Sha Xing said slowly. As one of the sons of the Star and Moon God, he certainly has the qualifications: "You said something very right. What I hate most is owing favors to others!"
+It was at this moment the Sword Sovereigns showed up, all seven of them. Hua Caili was nowhere to be seen, however.
 
-"But..."
+They knew better than anyone what the eighth star formation created by Hua Qingying herself meant.
 
-"No need to remind me."
+Hua Qingying replied, “Return to your sword pavilions and stand by for orders. The Divine Regent should be announcing the details regarding the Pure Land Meet very soon.”
 
-Pan Buwang had already said before him: "We have never seen the Mist Emperor, let alone any relationship."
+“Qingying,” the Tianshu Sword Sovereign asked in a meaningful tone while stroking his white beard, “are you attending this year’s Pure Land Meet?”
 
-He raised his eyes and looked in the direction of the Pure Land. The dark blood in his body was churning wildly, but there was no dark breath leaking out. ... In the depths of the sea of ​​fog, Yun Che slowly stood up. When he opened his eyes, a terrifying light shone in his eyes.
+A few breaths passed, and Hua Qingying declared in an indifferent voice, “Yes.”
 
-He had been in a state of meditation for the past few days, not for the purpose of achieving a breakthrough, but for the opposite purpose. He suppressed the restless and breaking Xuan Qi again, and this time he suppressed it with great ruthlessness. If it were someone else, suppressing it to this extent would probably seriously damage the Xuan Veins. By now, Li Suo was too lazy to ask him why he had been so determined to suppress his realm. In the three years in the Dreamweaver Divine Kingdom, Yun Che grew from the third level of the Divine Lord Realm to the fourth level of the Divine Lord Realm, with only one small realm improvement.
+Star and Moon Kingdom of God.
 
-With a perfect godhood and the accumulation of top resources in the Dreamweaver Divine Kingdom, "Dream of the Abyss"
+“It’s really you, Brother Buwang!?”
 
-This progress, in the eyes of the world, is considered a "son of God", but it is far less than the perfect godhood of the Zhetian Goddess Hua Caili. However, it is still within a reasonable range. However, only Li Suo knew that he was Yun Che, an outsider who could not be judged by common sense.
+Sha Xing strode up to Pan Buwang and looked him up and down. His eyes were a blend of complex emotions.
 
-"Finally, I will meet that person." Yun Che whispered to himself.
-Li Suo said: "Ni Xuan once specifically reminded you not to get close to him too early, he will easily recognize the evil god inheritance in you."
+Pan Buwang’s life was a tragedy. Not only did he lose his title, it was followed by his Mother’s passing, his Father’s loathing, and even the removal and death of his beloved.
 
-"I haven't forgotten."
+From Owl Butterfly Divine Son to Owl Butterfly the discarded one. The trajectory of his fate perfectly described what a fall from grace was.
 
-Yun Che responded, and then said something strange: "He is the most powerful existence in the world. If he wants to destroy me now, maybe he only needs to snap his fingers."
+Right now, Pan Buwang looked nothing like the young, hopeful, and confident man he used to be. His entire being exuded darkness and loneliness.
 
-"But, in a way, he may be... the easiest person to deal with."
+Forget looking like a Divine Son, his outfit was in tatters and covered in blood. He looked like he had just stepped out of a swamp of darkness and blood stench.
 
-"..."
+His eyes were no longer black stars that looked down on all things from the heavens either. Instead, they were grayish, murky blurs with only spots of light here and there.
 
-Li Suo couldn't understand.
+Sha Xing sighed internally. A prince should be far above most people even without the title of Divine Son, but to think that Buwang... would fall to this extent...
 
-"This meeting with him will determine when I will detonate the storm of the abyss."
+As if to add insult to injury, the Owl Butterfly Kingdom of God openly declared their abandonment of Pan Buwang after learning of his escapade to the Sinking Dream Valley and later the Endless Fog. Dead or alive, they declared that they had given up on all attempts to find him.
 
-Yun Che exhaled lightly: "I hope everything goes well."
+Ultimately, the main reason Pan Buwang was met with tragedy after tragedy was the fact that he refused to bow his head to the new Divine Son, nor could he let go of his Mother’s death. His temperament was either foolish or praiseworthy depending on how you looked at it, but if someone were to judge based on the outcome alone, then it could only be foolish.
 
-I hope that everything about the Abyss Emperor will not be too far away from my own guesses and expectations...especially his personality and his obsession. I hope that the Eternal Night Divine Kingdom, which has never been contacted and has no chance to plant "seeds", will always be dead water as rumored, without any waves. I hope...
+Pan Buwang smiled. “I am beyond grateful that you are still willing to see me even though I am now a discarded pawn and far from having the right to speak with you as equals, Star Divine Son.”
+
+“What are you saying, Brother Buwang?” Sha Xing shook his head. “I have experienced pain, misery, and helplessness before. It is not your wish, much less your fault. No one should look down on you because of this, much less yourself.”
+
+Pan Buwang was moved by this and said gratefully, “It is my great honor to be able to make your acquaintance, Star Divine Son.”
+
+Sha Xing had clearly undergone some changes since his experience with abyssal corruption. He said frankly, “Brother Buwang, I’m sure you came today for important business. Please do not hesitate to speak frankly.”
+
+“Very well then. I shan’t beat around the bush.” Pan Buwang began, “I would like to accompany the Star and Moon Kingdom of God to the Pure Land Meet.”
+
+Sha Xing looked surprised. It quickly turned into a frown and a shake of the head. “I’m sorry, but I can’t help you with this, Brother Buwang. You should know better than anyone that this year’s Pure Land Meet is like no other. As a result, the number of attendants per Kingdom of God is limited to one hundred people only.”
+
+“The Star Halls and Moon Cities have organized multiple large-scale competitions to select these one hundred people. If I bring you with us, it would be unfair to the competing disciples, and the Owl Butterfly Kingdom of God would have opinions as well. If this causes a rift between our two kingdoms... even a small crack is still a sin, you understand?”
+
+Sha Xing’s argument was perfectly logical and reasonable. Pan Buwang nodded slowly without disappointment as if he never expected anything different to begin with. “You are right, Star Divine Son. I was shortsighted to ask something so excessive.”
+
+“I’m really sorry that I can’t help you, brother Buwang,” Sha Xing apologized again. “If you must enter the Pure Land, you would have to find another way. Or perhaps...”
+
+He shot Pan Buwang a glance before continuing, “Forgive me for being blunt, but it doesn’t look like you were very determined to attend to begin with.”
+
+Pan Buwang smiled in a self-derisive fashion. “Your eyes are as sharp as your mind, Star Divine Son. I’ll be frank with you. As you say, it is not my wish to attend the Pure Land Meet. I am simply obeying the Fog Monarch’s will.”
+
+Sha Xing visibly stiffened when he heard this. A full second passed before he finally asked in a completely different tone from before, “Did you say... the Fog Monarch?”
+
+“That’s right.” Pan Buwang answered honestly, “Three years ago, I was in complete despair and was planning to abandon myself in Sinking Moon Valley forever. Perhaps the Dreamweaver Kingdom of God was worried about my status, but they did not put me into Sinking Dream after I fell asleep. When I awoke from my slumber, I found myself in the Endless Fog.”
+
+He said with feelings, “To tell you the truth, Star Divine Son, the reason I was able to pull myself away from utter despair and be ‘reborn’ is all thanks to the Fog Monarch. For the past three years, I’ve been secluding myself in the Endless Fog all to repay the Fog Monarch’s favor.”
+
+“To break off from one’s heart abyss, one must face the heart abyss head on. The reason I desire to travel to the Pure Land is because of him.”
+
+He took a step back after saying this, “Anyway, Buwang shall not occupy your time any longer. May we meet again, Star Divine Son.”
+
+He was turning around when suddenly, Sha Xing’s cold voice came from behind him.
+
+Pan Buwang paused his tracks—not that he truly intended to leave in the first place.
+
+Sha Xing’s face darkened. “There is no way you wouldn’t know that the Fog Monarch and the Pure Land stand opposed against each other, and yet you are speaking of the Fog Monarch openly in front of me. You must know that I have received the Fog Monarch’s boon.”
+
+Pan Buwang wore a strange expression. He neither denied nor confirmed Sha Xing’s accusation, and that in itself was a confirmation.
+
+“Are you threatening me?” Sha Xing’s voice grew even colder.
+
+“No,” Pan Buwang smiled, “revealing the fact that you have received the Fog Monarch’s boon may cause you some problems, but it does me no good whatsoever. I am simply helping you to repay the Fog Monarch’s favor.”
+
+“I’m sure that someone as prideful as you would feel that a favor you need to repay is like a bone that is stuck in your throat, not to mention that the favor you owed and the person you owed the favor to is... well.”
+
+Sha Xing remained cold and silent. He did not say anything for a very long time.
+
+Pan Buwang’s expression remained unchanged as he continued, “Of course, the decision is completely in your hands, Star Divine Son. I may not be the Owl Butterfly Divine Son anymore, but I have not yet fallen so low that I would harm an old friend. You have nothing to worry about.”
+
+Sha Xing stared fixedly at Pan Buwang for a while before saying, “You’ve changed.”
+
+Pan Buwang returned the stare calmly. “Everyone changes. If someone doesn’t change, that’s simply because they don’t need to.”
+
+Sha Xing’s lips trembled for a moment. Then, it spread into a smile. “I’m suddenly curious. What on earth are you, a man who was discarded and abandoned in every way possible, planning to do in the Pure Land? Are you going to cry about the injustices you suffered before the Abyssal Monarch? Are you attempting to prove that your Father chose wrongly at the Pure Land? Or are you simply planning to become an eyesore to your Father?”
+
+Pan Buwang: “So...”
+
+“So yes, I agree. I will take you to the Pure Land with me,” Sha Xing replied slowly. He was one of the Star and Moon Divine Sons, so of course he had the authority to make such a decision. “You are absolutely right about one thing. There is nothing more I loathe than favors owed!”
+
+“However...”
+
+“No need to remind me.” Pan Buwang pre-empted Sha Xing’s words. “We have never met the Fog Monarch before, much less have anything to do with him.”
+
+He looked up where the Pure Land was located.
+
+The blood of darkness inside his body was boiling restlessly, but its activity did not leak outward even a little.
+
+Deep inside the Endless Fog, Yun Che slowly rose to his feet. When he opened his eyes, his eyes were radiating a stunning gleam.
+
+For the past few days, he had fallen into meditation not because he was preparing to condense his profound energy and make a breakthrough, but the complete opposite. He had once again forced down the profound energy that was threatening to break through to the next level. Anyone else would have suffered tremendous damage to their profound veins considering how brutal and ruthless his methods were.
+
+At this point, Li Suo could no longer be bothered to ask him why he kept suppressing his cultivation level.
+
+Three years had passed since he entered the Dreamweaver Kingdom of God, and Yun che had only grown from a level three Divine Master to a level four Divine Master.
+
+He had perfect divine essence and the unreserved investment of the Dreamweaver Kingdom of God. Despite this, “Meng Jianyuan” was progressing at a pace that was “okay” for a Divine Son, but definitely incomparable to his peer in divine essence, the Heaven Breaker Divine Daughter Hua Caili.
+
+It might look reasonable from an outsider’s perspective, but Li Suo knew better than anyone that Yun Che was Yun Che. To judge him by reasonable standards was pure folly.
+
+“I’m finally going to meet him,” Yun Che whispered.
+
+Li Suo said, “Remember that Ni Xuan specifically warned you not to approach him too soon. He will easily recognize the Heretic God inheritance in you.”
+
+“I haven’t forgotten,” Yun Che replied before saying something strange, “He is the strongest existence in this world. At my current level, he can probably eliminate me with just the flick of a finger.”
+
+“However, from a certain perspective, he might also be... the easiest person to deal with out of all of them.”
+
+“...” Li Suo could not understand at all.
+
+“Our meeting will decide what kind of storm I’m going to ignite in the Abyss.” Yun Che exhaled lightly. “I hope that everything will go smoothly.”
+
+He hoped that the Abyssal Monarch would not stray too far from his guesses and predictions. This was doubly true regarding his behavior and his obsession.
+
+He hoped that the Eternal Kingdom of God he had never been able to make contact with, much less plant any “seed” would be as dead and uncaring as the rumors claimed to be.
+
+He hoped...

@@ -1,199 +1,217 @@
 ---
 chapterNumber: 2118
 title: "Break (2)"
-publishedAt: "2025-11-20"
+publishedAt: "2025-11-22"
 ---
 
-The Pure Land was vast and empty, pure and tranquil, as if eternally free of dust and defilement. It was like another independent world completely separated from the Abyssal World. Anyone who came here would inevitably be cautious and trembling, but Hua Caili was clearly an exception.
+The Pure Land was massive and spacious, clean and tranquil. It felt like an independent world that was completely separate from the Abyss, forever free from contaminants and dust.
 
-She smiled sweetly, her figure graceful. She was exceptionally familiar with every place here, and could even directly call out the names and titles of most of the Abyssal Knights and Pure Land Divine Guards she encountered. When the Abyssal Knights and Pure Land Divine Guards saw her, they all respectfully greeted her, some even smiling, and none showed any intention of stopping or questioning her.
+Anyone would conduct themselves with the utmost caution and respect in this world—but clearly, Hua Caili was an exception. Hopping, skipping and jumping across the Pure Land with a sunny smile on her face, she was extraordinarily familiar with every corner of this world. She could even put a name to most of the abyssal knights and Pure Land Divine Guards she ran into.
 
-After passing through an open space, the world in front of them suddenly became colorful, with myriad trees and flowers coming into view, like a fairyland within a fairyland. The elemental aura of the Pure Land was already extremely rich, but here it was several times richer, and mainly consisted of fire, thunder, and wind... At the same time, there was an unusual and somewhat incongruous chill in the air.
+The abyssal knights and Pure Land Divine Guards treated her just as respectfully. Some even broke into smiles. No one tried to stop her or question her about her intention or destination.
 
-Among the myriad trees were several small houses, like the secluded dwellings of recluses. Unfortunately, there were no birds or insects as there should have been.
+They passed through another spacious area when suddenly, the world turned bright, colorful, and full of flora. It was as if they had entered an immortal realm in an immortal realm.
 
-"Could this be the dwelling place of the Divine Official Lingxian?" Yun Che asked, looking ahead.
+The elemental aura in the Pure Land was pretty rich to begin with, but now it had become several times thicker as soon as they entered this place. Specifically, it was the elements of fire, thunder and wind that became richer... Yun Che could sense an unusual, somewhat out-of-place cold air as well.
 
-Hua Caili was surprised. "Brother Yun is so amazing. Even though it's your first time in the Pure Land, you guessed it right away."
+There were a few small houses amidst the jungle of plants. It looked like a little slice of hidden paradise.
 
-At this moment, the space ahead rippled like waves, and a woman's figure emerged from the flowers and trees, smiling at the two of them. "Little Caili is here."
+It was too bad that this world was completely devoid of any beasts or insects.
 
-The woman was dressed in a plain white robe, sparsely adorned with a few light pink autumn plum blossoms. Her complexion was fair, her age indiscernible. Her long hair was tied up with a simple band, her gaze gentle and calm, a faint smile on her lips, like a recluse who had lived in the mountains for a long time, unconcerned with worldly affairs. If one ignored the terrifying and unparalleled invisible spiritual pressure emanating from her...
+“Is this where High Priest Ling Xian is staying?” Yun Che asked while looking straight ahead.
 
-"Aunt Sushang!" Hua Caili called out affectionately and quickly walked up to her.
+Hua Caili exclaimed in surprise, “You’re incredible, big brother Yun! I didn’t think you would figure it out immediately on your first visit!”
 
-As she approached, she sensed the presence of the chill and her eyes narrowed. "This chill... Could it be that Granny Lingxian..."
+It was at this moment the space ahead of them rippled, and a woman stepped out from behind a tree and greeted them with a smile. “You’re here, little Caili.”
 
-"Yes," the woman nodded gently. "The master knew you would be coming these days and has been talking about it, but unfortunately, her old illness suddenly flared up."
+The woman was wearing a plain, long white shirt with spots of light pink plum petals. Her skin was fair and smooth, and her features were such that it was difficult to identify her true age. Her long hair was tied up using a simple ribbon, and her gaze was gentle, refined, and calm. She resembled an ascetic who had long secluded themselves in the mountains and stayed away from all mortal affairs—or at least, she would have, if not for the fact that the spiritual pressure she was giving off was absolutely terrifying.
 
-At this point, her gaze turned to Yun Che. "This is?"
+“Aunt Su Shang!”
 
-Yun Che stepped forward and respectfully bowed. "Yun Che of the Weaving Dream Divine Realm greets Senior Sushang."
+Hua Caili let out an affectionate cry and strode up to her immediately. When she got close, she sensed the cold energy and turned serious. “This cold energy... is Grandma Ling Xian...?”
 
-The four words "Aunt Sushang" that Hua Caili had called out couldn't help but make his heart race. Because this was the ultimate existence beneath the Abyssal God, one of the four strongest Divine Guards of the Pure Land, and the personal attendant of the Divine Official Lingxian!
+“Yes.” The woman nodded. “Master knew that you were coming and was very much looking forward to meeting you again, but alas, her ‘old illness' relapsed...”
 
-With such a plain and elegant appearance, no one would ever imagine that she was such a terrifying existence.
+Once she finished explaining what happened, the woman looked at Yun Che and asked, “And who is this?”
 
-"Yun Che?" Divine Attendant Sushang was faintly surprised, then understood. "So it's the former God Child Meng Jianyuan, who was found by the Weaving Dream Divine Realm. As rumored, he is indeed dignified and handsome. Setting aside your perfect divine persona, which is similar to Caili's, your appearance alone surpasses Meng Jianxi by a lot."
+Yun Che stepped forward and saluted her respectfully. “Yun Che of the Dreamweaver Kingdom of God greets senior Su Shang.”
 
-Her words were exceptionally direct and straightforward, even when referring to the God Child of a Divine Realm.
+He could not help a violent tremor in his heart when he heard Hua Caili calling out the woman’s name.
 
-Yun Che said without any change in expression, "Senior, you flatter me. I came here this time hoping to be introduced by Divine Maiden Caili and have the honor of seeing the divine presence of the Divine Official Lingxian."
+It was because “Aunt Su Shang” was one of the four strongest Divine Guards of the Pure Land below the True Gods of the Abyss, and the divine attendant of High Priest Ling Xian!
 
-Sushang still smiled faintly. "Young Master Yuan won't be able to fulfill his wish this time. The master is not available to see guests at the moment."
+Looking at her appearance alone, no one would think that she was such a terrifying existence.
 
-"It's okay, it's okay," Hua Caili quickly said. "Then we won't disturb her. We'll come to see Granny Lingxian later."
+“Yun Che?” Divine Attendant Su Shang let out a small exclamation of surprise before nodding. “I see, you are the lost son who returned to the Dreamweaver Kingdom of God, Meng Jianyuan. You are as handsome and impressive-looking as the rumors claim you to be. Setting aside the fact that you have perfect divine essence, your appearance alone puts you far above your brother, Meng Jianxi.”
 
-But Yun Che did not move. Instead, he held out a small jade box. "Since that's the case... This is a gift I prepared for the Divine Official Lingxian before coming to the Pure Land. Please, Senior Sushang, accept it on her behalf."
+Her words were shockingly direct considering that she was talking about the Divine Sons of a Kingdom of God.
 
-"Huh?" Hua Caili looked surprised. She hadn't expected Yun Che to have prepared a gift.
+Yun Che replied evenly, “You flatter me, senior. I came today in the hope that Divine Daughter Caili’s recommendation would be enough to earn me a short meeting with High Priest Ling Xian.”
 
-"There's no need," Sushang said faintly. "My master does not touch the dust of the world or accept worldly gifts. I will convey Young Master Yuan's regards to her."
+Su Shang’s smile remained light and indifferent. “Apologies, young master Yuan, but my master is inconvenienced right now.”
 
-But Hua Caili reached out, took the jade box from Yun Che's hand, and directly stuffed it into Divine Attendant Sushang's hand. She said playfully, "Aunt Sushang, this is a gift that Brother Yun specially prepared for Granny Lingxian. He must have put a lot of thought into it. Granny Lingxian is so gentle, she definitely wouldn't have the heart to refuse. Just accept it on her behalf."
+“It’s fine, it’s fine!” Hua Caili hurriedly interrupted, “We shan’t disturb her then! We’ll come and visit Grandma Ling Xian when she’s better!”
 
-Looking at the jade box that had been forced into her hand, Sushang shook her head and smiled, half helplessly and half indulgently. "Alright, then I'll accept it on behalf of the master. Caili, if you have time, you can take Young Master Yuan to see the Lingxian Colorful Cloud Realm nearby, but remember not to get too close to this place."
+Yun Che did not step away, however. He produced a small jade box and said, “In that case... this is the meeting gift this junior has specifically prepared for High Priest Ling Xian before coming to the Pure Land. I ask that you accept it on behalf of her, senior Su Shang.”
 
-"No, it's not good to disturb Granny Lingxian." Hua Caili bowed gracefully. "Aunt Sushang, then we won't disturb you anymore. After we see Uncle Abyss Emperor, we'll come back to visit Granny Lingxian."
+Huh? Hua Caili looked surprised. She did not think that Yun Che had prepared a gift for High Priest Ling Xian.
 
-Yun Che and Hua Caili left. Looking at their departing figures and recalling Hua Caili's words and obviously unusual gaze, Divine Attendant Sushang was thoughtful.
+“You’re welcome, but there is no need.” Su Shang said indifferently, “Master does not involve herself with mortal affairs, nor does she accept mortal gifts. However, I will pass on your kind regards to her.”
 
-She picked up the jade box in her hand and casually opened it.
+Hua Caili reached out, grabbed Yun Che’s gift box, and shoved it into Divine Attendant Su Shang’s hands by force. She said mischievously, “Aunt Su Shang, this is a gift big brother Yun purposely prepared for Grandma Ling Xian. He must have spent a lot of effort preparing it. Grandma Ling Xian is so kind, so I’m sure she couldn’t bear to reject it. Please accept it on Grandma Ling Xian’s behalf, please~”
 
-Spiritual energy overflowed, and her originally calm expression suddenly froze. The jade box between her fingers was immediately raised to her eyes. Immediately, the deep red light reflected in her rapidly dilating pupils due to excessive excitement and disbelief.
+“...” Su Shang looked at the box that was forcefully shoved into her hands and shook her head smilingly in helpless indulgence. “Very well. If you have the time, you may take young master Yun to the Ling Xian Rainbow Cloud Realm for a visit. Just remember not to come too close to this place, okay?”
 
-"..........."
+“It’s fine. I would not want to disturb Grandma Ling Xian.” Hua Caili bowed daintily. “We’ll be taking our leave now, Aunt Su Shang. We’ll come see you after we’re done meeting Uncle Abyssal Monarch!”
 
-She quickly turned around and directly entered the cold barrier she had just been guarding...
+After Yun Che and Hua Caili left, Divine Attendant Su Shang tilted her head thoughtfully as she recalled Hua Caili’s obviously unusual gaze and words. As she thought, she casually opened the jade box she just received.
 
-"I heard from the Dreamless God Venerable that the Divine Official Lingxian often suffers from 'elemental devouring body'¹ due to her special innate constitution. Just now, Divine Attendant Sushang said that her 'old illness flared up'... Could it be referring to 'elemental devouring body'?"
+Spiritual energy seeped out of the box, and her indifferent expression stiffened for a moment. She immediately lifted the box and stared at its contents, eyes coloring red from the light emitted by the gift and dilating rapidly from excitement and disbelief.
 
-"Yes," Hua Caili nodded, her expression showing obvious concern. "Moreover, Granny Lingxian's... the frequency of the attacks seems to be increasing. The last attack was more than four years ago when I just left the Pure Land."
+“This... this is...”
 
-She looked back, her beautiful eyes filled with worry, and said softly, "I've seen what Granny Lingxian looks like when she has an attack. It's really scary. Even someone as powerful as Granny Lingxian shows such a painful expression."
+She immediately turned around and made a beeline for the icy barrier she was guarding...
 
-"She once said something to me. She said... a long life is the desire of countless living beings, but it is a great torment for her."
+“I heard from the Dreamless Divine Regent that Divine Priest Ling Xian often suffered from elemental backlashes due to the unusual constitution she was born with. When Divine Attendant Su Shang said that her ‘old illness relapsed’... is she referring to that?”
 
-"But she can't die, because there is someone who needs her."
+“Yes.” Hua Caili nodded with clear worry. “Not only that, the backlashes seem to be happening more and more frequently... The last time it happened was right before I left the Pure Land a little over four years ago.”
 
-Yun Che: "..."
+She cast a worried look behind her back briefly before saying softly, “I once saw Grandma Ling Xian relapsing with my own eyes, and it was truly terrifying. I could not believe she could make such a painful face considering how strong she is.”
 
-Hua Caili sighed softly. "Granny Lingxian almost never leaves the Pure Land unless she has no other choice. She even said that in the eyes of the world, she is a noble and powerful Divine Official, but in reality, she is just a caged bird plagued by illness."
+“She once told me that a long lifespan might be the desire of countless living beings, but to her, it was nothing more than extended torture. However, she can’t die yet because someone needs her.”
 
-"The gentle and kind Granny Lingxian has been suffering so much pain."
+Yun Che: “...”
 
-Yun Che pondered and said, "She can't easily leave the Pure Land because... is her essence that of a beast?"
+Hua Caili sighed quietly. “Barring exceptional circumstances, Grandma Ling Xian almost never leaves the Pure Land. She even said that she might be a noble and powerful High Priest in everyone’s eyes, but she is really just a perpetually sick bird trapped inside a cage.”
 
-Abyss Dust's erosion of beasts was far greater than that of humans. The Divine Official Lingxian was a descendant of the Vermillion Bird, so she belonged to the beast race and naturally feared Abyss Dust greatly.
+“Grandma Ling Xian is so gentle and kind. Why must she suffer such pain for so long?”
 
-"Huh?" Hua Caili looked surprised. "Brother Yun, you already knew? But..."
+Yun Che hummed. “The reason she couldn’t leave the Pure Land... is it because she is really a beast?”
 
-She moved closer to Yun Che and lowered her voice. "You must never say this outside, especially in front of Granny Lingxian. She actually minds this very much."
+“Huh?” Hua Caili looked surprised. “You knew, big brother Yun?”
 
-"Oh? Why?" Yun Che was puzzled. As descendants of ancient gods, they must have pride in their origins etched in their blood. The Divine Officials of the Pure Land were existences below only one emperor of the abyss and above all other beings, so they should be arrogant. Why would they care about their race?
+She then moved closer to Yun Che and lowered her voice, “You mustn’t say it outside, okay? You especially mustn’t mention it in front of Grandma Ling Xian. She is extremely disturbed by it.”
 
-Unless...
+“Hmm? Why’s that?” Yun Che was puzzled.
 
-Hua Caili looked around, hesitated for a moment, but still didn't speak. Instead, she said softly, "After we leave the Pure Land, I'll tell you secretly."
+She was the descendant of an ancient God. Pride toward her own origin must be engraved to her blood and bone. Besides, she was a High Priest serving the Abyssal Monarch and a supreme existence that existed above all others except one. It would far make sense if she were exceedingly proud and considered all other beings beside herself, her peers, and the Abyssal Monarch to be ants. But to be disturbed by her own origins? That made no sense.
 
-"I see... Alright." Yun Che suddenly stopped at this moment.
+Hua Caili looked left and right and hesitated for a moment. However, she ultimately chose to stay quiet and whispered, “I’ll tell you in secret after we’re out of the Pure Land.”
 
-Hua Caili also stopped and looked at him in confusion. But Yun Che suddenly moved forward, closing the distance they had deliberately kept, close enough to clearly feel each other's warm breath.
+“I see... very well.”
 
-"Brother Yun..." Hua Caili's breathing became disordered, but she didn't have the rationality to retreat.
+It was at this moment Yun Che suddenly stopped in his tracks.
 
-Yun Che lowered his eyes, his soft gaze falling into her beautiful eyes. "Everything else can wait until after we leave the Pure Land. But I have a gift that I've been preparing for three years, and I really want... I can't wait to give it to you."
+Hua Caili followed suit and looked at him in confusion. Then, Yun Che abruptly stepped forward and closed the distance they had purposely maintained until now in an instant. They were so close that they could feel each other’s warm breath.
 
-"What... what is it?" Such a close distance, and the gaze and voice that were only for her, undoubtedly stirred the emotions and longing that Hua Caili had suppressed for three years, making her heart beat faster, her mind more chaotic, and her clarity gradually fading.
+“Big brother Yun...” Hua Caili’s breathing was thrown into disarray immediately, but she unwisely did not step away.
 
-"You... close your eyes first," Yun Che said with a mysterious look and just the right amount of nervousness.
+Yun Che looked down, his soft, warm gaze falling into Hua Caili’s eyes. “Everything can wait until after we leave the Pure Land, but there is a gift that I have prepared for three years, and I... cannot wait to give it to you.”
 
-Hua Caili obediently closed her eyes, her snowy face full of anticipation.
+“What... what is it?” They were so very close, and he was showering her with a voice and look that he afforded her and only her. It was undoubtedly stirring the emotions and longing she had suppressed for three years and causing her heartbeat to race faster and faster. She was slowly but surely losing her sanity.
 
-"Hmm... still not good. You have to withdraw all your spiritual sense. You can't secretly sense it." The mystery and nervousness in Yun Che's voice increased.
+“You... why don’t you close your eyes first?” Yun Che said in a mysterious voice and with just the right dose of nervousness.
 
-"I didn't," she pouted her lips slightly, but immediately obediently withdrew all her spiritual sense and raised her face slightly. "Is this okay now?"
+Hua Caili slowly closed her eyes as he told her too, her fair face full of expectation.
 
-Mystery breeds greater anticipation. Even if she hadn't withdrawn her spiritual sense, Hua Caili could basically only sense her own rapid heartbeat and Yun Che's aura, and had no mind for anything else.
+“Mm... no, this isn’t enough. I want you to withdraw your spiritual perception completely as well. You’re not allowed to probe the gift in secret.” The mystery and nervousness in Yun Che’s voice grew even stronger.
 
-She felt Yun Che's aura getting closer and closer, the warmth spreading from her forehead to her cheeks, and then gently touching her lips.
+“I did not!” She pouted, but she obediently withdrew all of her spiritual perception and slightly bent her head backward. “Surely this is enough?”
 
-She quietly opened her eyes and saw Yun Che, who was very close, with a mischievous look on his face.
+Mystery begets expectation. Even if she hadn’t withdrawn her spiritual perception, Hua Caili’s focus was more or less completely on her rapidly beating heart and Yun Che’s breathing. There was nothing else.
 
-"Did you receive it?" Yun Che tilted his mouth, a smile of success on his face. "I've accumulated three years of longing."
+Yun Che’s breaths grew closer and closer. She could feel his warmth touching her forehead, sliding down to her cheeks, and finally landing lightly on her dainty lips.
 
-The girl's beautiful eyes fully opened, but instead of showing any disappointment or annoyance, she suddenly took a small step forward, wrapped her arms tightly around Yun Che's neck, kissed him back heavily, and her snow-white teeth gently bit his lower lip, not letting him easily break free.
+She sneakily opened her eyes just a tad and found Yun Che staring right back at her with a mischievous smile on his face.
 
-After a while, she released her teeth, her cheeks flushed, but she said defiantly, "See, I clearly have more longing."
+“Did you receive it?” Yun Che smirked triumphantly and mischievously. “The thoughts and wishes I’ve collected for three years straight?”
 
-The girl was immersed in a world that was too beautiful, completely unaware that in the distant space of the Pure Land, two blurry figures were approaching.
+The girl opened her eyes completely, but there wasn’t a sliver of disappointment or frustration on her face whatsoever. Suddenly, she stepped forward, wrapped her arms around his neck, and kissed him back strongly. She even bit his bottom lip lightly with her dainty teeth so that he would not be able to break away from the kiss easily.
 
-"Brother Jiuzhi, you didn't go to visit the Folding Heaven Divine Realm, but came here directly. Are you so sure that Divine Maiden Caili is here?" Dian Sansi asked with great interest while looking around the world of the Pure Land.
+A while later, she finally let go and pulled away from him. Her cheeks were dyed pink, but she declared in a victorious voice, “See? I’m the one who missed you more!”
 
-He was the most outstanding Imperial Son of the Senluo Divine Realm after Dian Jiuzhi. He was not yet three jiazi (60 years?) old, but he already had the cultivation of the third level of the Divine Extinction Realm, surpassing Dian Jiuzhi of the past. His Senluo Myriad Manifestations Art was already initially formed.
+The young woman was so absorbed in romanticism and fantasy that she did not notice that two blurry silhouettes had appeared in the distance and were walking straight toward them.
 
-He was still young and had not experienced the most unbearable period of Dian Jiuzhi's past, so he respected and admired him greatly.
+“Brother Jiuzhi, you came here immediately instead of visiting the Heaven Breaker Kingdom of God’s accommodation. Are you that sure that the Rainbow Glass Divine Daughter is here?”
 
-Dian Jiuzhi smiled, clearly in a very good mood. "Every time Caili comes to the Pure Land, she always goes to see the Divine Official Lingxian first. This time should be no exception."
+Dian Sansi (Three Thoughts) asked excitedly while looking left and right, admiring the Pure Land’s beauty.
 
-Dian Sansi sighed. "Although Brother Jiuzhi and Divine Maiden Caili are often apart, you know everything about her so thoroughly. To have Brother Jiuzhi's affection, Divine Maiden Caili is truly extremely fortunate."
+Out of everyone among the younger generation, Dian Sansi was the most outstanding prince of the Boundless Kingdom of God besides Dian Jiuzhi himself. He wasn’t even a hundred and eighty years old, but he was already a level three Divine Extinction Realm profound practitioner. Strictly speaking, he was better than Dian Jiuzhi when the Divine Son was his age. He had reached the initial stages of the Boundless Manifestation Art as well.
 
-"No, you're wrong." Dian Jiuzhi smiled and shook his head. "The fortunate one has always been me. Without Caili, I wouldn't be where I am today. Moreover... being admired is not fortunate. Finding someone you are willing to give everything for is the greatest fortune of a lifetime."
+Dian Sansi was still young, and he had never gone through the terrible life experiences Dian Jiuzhi had. Dian Sansi respected and admired Dian Jiuzhi deeply.
 
-"Yes!" Dian Sansi nodded. "I will remember all of Brother Jiuzhi's words. However, I don't believe that there is a woman in this world who would make me willing to treat her as Brother Jiuzhi treats Divine Maiden Caili."
+Dian Jiuzhi was smiling with obvious cheer as well. “Caili always visits High Priest Ling Xian as soon as she is able after arriving at the Pure Land. There's no reason she would make an exception this time.”
 
-"Hahahaha!" Dian Jiuzhi laughed loudly. "You are still young. When I was your age, I also would never have believed that such a person could exist in this world."
+Dian Sansi sighed. “Although you and the Rainbow Glass Divine Daughter spend more time apart than you do together, you still know her as well as the back of your hand. She is truly lucky to have a man like you.”
 
-Dian Sansi's eyes were full of anticipation. "Although I have never had the honor of meeting Divine Maiden Caili, I have seen her portraits and projections countless times at Brother Jiuzhi's place. She is truly peerlessly beautiful. I wonder what the real Divine Maiden Caili..."
+“No, you got it the other way around.” But Dian Jiuzhi shook his head smilingly. “I’m the one who was lucky from the beginning until the end. If Caili did not exist, I would not be who I am today. Besides, it’s not really good luck to be admired by someone. The great luck of a lifetime is finding someone you are willing to give up everything for.”
 
-"Portraits and projections can't depict even a ten-thousandth of Caili's beauty," Dian Jiuzhi interrupted him with a smile. "When you see her, you will truly understand what..."
+“Mm!” Dian Sansi nodded. “I will remember everything you say, Brother Jiuzhi. Still, I don’t believe there exists a woman in this world who will make me wholeheartedly treat her the way you treat the Rainbow Glass Divine Daughter.”
 
-His voice suddenly slowed down, until it was stuck in his throat, and his footsteps stopped there uncontrollably.
+“Hahahaha!” Dian Jiuzhi laughed. “You’re still young. I thought the exact same thing when I was your age.”
 
-Dian Sansi also stopped and was about to ask a question when he suddenly saw the two figures in front of him. They were embracing each other, lost in their own world, as if they were so moved by their emotions that they had completely disregarded the fact that this was the supreme Pure Land.
+Dian Sansi looked expectant. “I haven’t had the honor of meeting the Rainbow Glass Divine Daughter in person, but I have seen all the images and projections you have of her. She truly is gorgeous like no other. I wonder if meeting her in person will change that impression.” 𝘧𝓇ℯ𝑒𝓌𝑒𝑏𝓃𝘰𝘷𝘦𝘭.𝒸ℴ𝓂
 
-The man was handsome and elegant, surpassing even Dian Jiuzhi in appearance. And the woman... her beauty made this fairyland of the Pure Land a mere backdrop to her immortal beauty. Her beautiful eyes were fixed on the man in front of her, as if he was the only thing in her world, and nothing else could enter it.
+“It will. You will discover that no portrait or image can measure up to even one-ten-thousandth of the real person.” Dian Jiuzhi chuckled. “When you meet her, you will truly understand what it means to fall... for...”
 
-Dian Sansi's eyes widened in shock. Because the woman's appearance and beauty were clearly... No, it was impossible!
+His voice suddenly slowed down until it became completely stuck inside his throat. His footsteps had come to a complete standstill as well.
 
-He quickly looked at Dian Jiuzhi, only to find that his face was a ghastly pale. His hands were trembling, his whole body was shaking violently, and his eyes, which had been full of gentle light just a moment ago, were now trembling as if they were about to shatter. The rapidly dilating pupils almost filled his entire eyeballs.
+Dian Sansi followed suit and was just about to ask what happened when he saw two silhouettes not far ahead of them.
 
-"Nine... Brother Jiuzhi?" Dian Sansi's throat suddenly felt a little dry.
+The two silhouettes were hugging each other and looking into each other’s eyes. They were so affected by their feelings that they seemed to have forgotten that they were in the supreme Pure Land.
 
-This low call seemed to pull Dian Jiuzhi out of a sudden nightmare. His gaze slowly turned, and then he closed his eyes. When he opened them again, they were still trembling with pain, and even his tightly clenched hands couldn't suppress the trembling that came from the depths of his soul.
+The man was unbelievably handsome, so much so that, in terms of appearance alone, he was actually the better of Dian Jiuzhi. As for the woman... her beauty and radiance were such that even the Pure Land was just a foil to her.
 
-"Let's... go." He made a sound, but it was so hoarse that it was grating. The gaze that had been pulled back did not dare to look in that direction again.
+The woman was staring at the man before her and only him. It was as if she could not see anyone else’s silhouette besides his.
 
-"Brother Jiuzhi!" Dian Sansi stepped forward and grabbed his trembling arm. "That person, she... could it be... could it really be..."
+Dian Sansi’s eyes widened into saucers as astonishment filled him. It was because the woman’s appearance clearly... belonged to...
 
-"...Go!" Dian Jiuzhi's voice was even hoarser, but still very soft, as if he was afraid of disturbing the figures in the distance... even though his heart and soul were already in agony.
+No! It can’t be!
 
-At this point, even if Dian Sansi wanted to deceive himself, he could no longer do so.
+He hurriedly turned to look at Dian Jiuzhi only to discover that his older brother’s face had turned deathly white.
 
-His brows furrowed, and anger surged within him. "How dare she... How dare she! Brother Jiuzhi is so deeply in love with her, and they even have a marriage contract bestowed by the Yuan Emperor. How dare she... how dare she treat Brother Jiuzhi like this!"
+His hands were clenched, and his whole body was trembling uncontrollably. His eyes were filled with gentleness earlier, but now they were trembling so much that they threatened to shatter into pieces. His dilating pupils had nearly spread across the entire eyeballs as well.
 
-"No! We must..."
+“Bro... Brother Jiuzhi?” Dian Sansi’s throat suddenly turned a little dry.
 
-A hand pressed on his shoulder, firmly suppressing his anger and overflowing aura.
+His soft cry seemingly drew Dian Jiuzhi out of the nightmare he was trapped in. He slowly, painstakingly, pulled his gaze away and closed his eyes for a moment... When he reopened them, they continued to shake with indescribable pain. He was clenching his fists with all his might, but it still could not stop the tremblings that were coming from the bottom of his soul.
 
-"Are you not listening to me!?" His voice, his expression, was terrifyingly unfamiliar to Dian Sansi. "Forget what you just saw. Don't tell anyone, especially Father God, do you hear me!?"
+“We’re... leaving,” He uttered with a shockingly dry voice. He did not dare to look in that direction even a little.
 
-Dian Sansi stared at him, at his features that were constantly twisting even though he was trying his best to control them. After a long while, he nodded numbly. "I hear you... Don't worry, Brother Jiuzhi, I won't tell anyone."
+“Brother Jiuzhi!” Dian Sansi stepped forward and grabbed Dian Jiuzhi’s trembling arm. “Is that woman... is she... could she be... could she really be...”
 
-Dian Jiuzhi's chest heaved, and he exhaled a long, trembling breath. Then he pulled Dian Sansi, suppressed his aura, and silently walked away.
+“... We’re leaving!” Dian Jiuzhi’s voice grew even drier, though it was very soft as if he was afraid of alerting the distant figures to their presence... even if his heart and soul were threatening to shatter on the spot.
 
-His footsteps had never been as heavy as they were at this moment... even when he was mired in the mud in the past.
+At this point, Dian Sansi could not deceive himself even if he wanted to. He furrowed his brow and found a hot rage growing inside his heart. “How dare she... how dare she?! You love her so much, your engagement was bestowed by the Abyssal Monarch Himself, and she dares... she dares to treat you like this!”
 
-It wasn't until they were far away that Yun Che gently released Hua Caili, whom he had been holding in his arms.
+“No! We need to—”
 
-Out of the corner of his eye, he caught a glimpse of the position where Dian Jiuzhi had just appeared for a moment, and a gentle smile still hung on his lips.
+A hand grabbed his shoulder with barely suppressed rage and aura.
 
-"Caili, if our behavior just now was accidentally seen by someone from the Pure Land, what would happen?"
+“Will you disobey me!?”
 
-"Hmph, you still have the nerve to say that." Hua Caili drew several circles in Yun Che's palm with her jade finger before reluctantly letting go, and then moved three steps away. "Granny Lingxian's fairyland is the most tranquil, and there are no Divine Guards stationed there, so there's no need to worry about being seen. But it's best not to mess around in other places, otherwise, I'm afraid it might really disrupt Father God and the Dreamless God Venerable's arrangements."
+Dian Sansi had never seen such a face or heard such a voice from Dian Jiuzhi.
 
-"Yes, I know," Yun Che quickly responded with a serious face. "I promise to stay at least three steps away from you."
+“Forget what you just saw. Do not speak of it to anyone... especially Father, do you understand?”
 
-"Come, I'll take you to another place. That person will definitely like you."
+Dian Sansi stared at Dian Jiuzhi’s face, the face that was still contorting uncontrollably despite his best attempts to wrestle his reaction for a long while before he finally nodded. “I've got it... Don’t worry, Brother Jiuzhi. I won’t speak of this to anyone.”
 
-Not knowing what she was thinking, Hua Caili's lips curved up slightly, and she smiled mysteriously.
+Dian Jiuzhi’s chest heaved up and down once before he let out a long, shuddering breath. Then, he grabbed Dian Sansi, suppressed his aura, and soundlessly departed the area.
+
+His footsteps had never felt this heavy... not even when he was drowning at the bottom of the mud.
+
+It wasn’t until they were far, far away that Yun Che finally let go of Hua Caili.
+
+The corner of his eyes brushed the space Dian Jianzhi appeared a moment ago for an instant before he looked away. The small but warm smile on his face never faltered even a little.
+
+“Say, what if someone from the Pure Land saw us just now?”
+
+“Hmph! Says the guy who initiated it in the first place?”
+
+Hua Caili’s finger drew a couple of circles in Yun Che’s palm before she finally, reluctantly, let go of him. She stepped three steps away from him before saying, “Grandma Ling Xian’s immortal realm is the quietest place in the Pure Land, and no guards are posted here, so your worries are unfounded. Still, it’s best if we don’t act like this anywhere else. Otherwise, I’m afraid we will disrupt Father and the Dreamless Divine Regent’s arrangements.”
+
+“Mm, got it,” Yun Che replied with a straight face, “I swear to stay at least three steps away from you.”
+
+“Come, there’s one more place I’d like to take you to. I’m sure he will adore you.”
+
+The corners of Hua Caili’s lips curled up a little into a mysterious smirk.

@@ -1,177 +1,167 @@
 ---
 chapterNumber: 2120
-title: "Chef God From The Beyond "
-publishedAt: "2025-11-20"
+title: "Chef God From The Beyond"
+publishedAt: "2025-11-22"
 ---
 
-The old man's mouth twitched, and then he jumped up again, "You little girl, it's only been a few years, how come you've learned to lie!"
+The corners of the old man’s lips tugged as he leaped to his feet. “You, little girl! It’s only been a few years since we last met. When did you learn how to tell lies?”
 
-"I've been immersed in the culinary arts for over a million years. A million years, do you know what that means? Those so-called culinary masters in your Divine Realm aren't even qualified to be my apprentices!"
+“Do you know how long I’ve devoted myself to the way of cooking? Ah? Over a million years! Do you even grasp how long a million years is? In my eyes, those so-called chef masters serving in the Kingdoms of God don’t even count as initiates in my eyes!”
 
-"There are only a few people in this world who have lived longer than me, and it's impossible for anyone to surpass me in the culinary arts. There's no one who can even touch my heels!"
+“There are only a handful of people in this world who have lived longer than I, and out of all these people, there isn’t a single person whose attainment in the way of cooking is greater than mine! Not even close!”
 
-As he jumped, even his beard almost stood on end... This reaction was as if his reverse scale had been touched.
+His beard nearly stood up in reverse as he jumped. His reaction was such it was like someone had touched his reverse scale.
 
-Yun Che seemed to be lost in thought.
+Yun Che looked thoughtful.
 
-"But..." Hua Caili showed no sign of "being taught a lesson," and said innocently and sincerely, "I respect and like Uncle Liuxiao so much, how could I lie to him? The food Big Brother Yun makes is better than Uncle Liuxiao's."
+“But...” Hua Caili showed no signs of having received her “education”, however. She said both innocently and honestly, “I respect and love you so much, Uncle Liu Xiao. I would never lie to you. It’s simply the truth that Big Brother Yun’s food is tastier than yours.”
 
-After saying that, she didn't wait for the old man to explode again. With a light flash, she stood beside Yun Che, so close that their bodies were almost touching, "Right, Big Brother Yun?"
+Before the old man could puff up like a cat’s tail again, she moved next to Yun Che and stood so close that they were almost pressed up against each other. “Right, big brother Yun?”
 
-The old man looked at Yun Che as if he had just noticed his existence. But with just one glance, his bristling hair fell back down, and then he burst into a wild laugh.
+It was only now that the old man glanced at Yun Che as if he just noticed his existence. One look was all he needed for all of his puffed hair to relax, and him to cackle wildly like a demon:
 
-"You're talking about this kid? Hahahaha! With his youthful aura, he's not even as old as the dirt in my fingernails, and you dare to say he's better than me in the culinary arts?"
+“This boy? Huohahahaha! He’s not even older than a speck of dust under my fingernails, and you dare to say that his cooking skill is greater than mine?”
 
-"You little girl, your cultivation has improved a lot, but why has your brain suddenly become dull? If he can make something more delicious than my 'Liuxiao Flying Immortal Pastry¹,' I'll write my name, Liuxiao, backward from now on!!"
+“Your cultivation has improved by a lot, so why is it that your intelligence seems to have receded instead? If he can make a Liu Xiao Immortal Soaring Flaky Biscuit that’s more delicious than mine, then I’ll write my name in reverse from here on out!”
 
-"Uncle Liuxiao is cheating again!" Hua Caili curved her eyebrows, "Liuxiao written backward is still Liuxiao. Since Uncle Liuxiao is so unconvinced, do you dare to make another bet with me?"
+“You’re trying to cheat again, Uncle Liu Xiao!” Hua Caili’s eyes curled into crescents. “So what if you write your name in reverse? It’s not like your name is going to change, nor is it going to cost you anything! If you’re this unconvinced, then dare you make a real bet with me?”
 
-"Another bet??" The old man's eyes widened a bit.
+“Another bet?” The old man’s eyes clearly widened a little.
 
-"This time, we're betting on Uncle Liuxiao's best skill, the culinary arts." Hua Caili smiled, "We'll bet on whether Big Brother Yun can make something more delicious than Liuxiao Flying Immortal Pastry. Of course, if Uncle Liuxiao doesn't dare, then forget it. How can a junior like me dare to make things difficult for Uncle Liuxiao?"
+“We’ll be betting on your greatest skill, cooking.” Hua Caili smiled. “I bet that big brother Yun will make a Liu Xiao Immortal Soaring Flaky Biscuit that’s tastier than yours. Of course, if you don’t dare, then forget it. I’m just a small junior. I wouldn’t dare to put my senior in a difficult position.”
 
-"Hehehe..." The old man grinned, revealing his yellow teeth, "Trying to provoke me with this... Bet!! We must bet!!"
+“Hahaha...” The old man bared his full mouth of yellow teeth and let out a strange laugh. “You think you can spur me into following your bet?... You’re on!”
 
-"If this kid can surpass me in the culinary arts, I'll call you Uncle... No! I'll call you Grandma!"
+“If this boy can beat my cooking, then I’ll call you uncle—fah! I’ll call you grandma from now on!”
 
-Hua Caili quickly and obediently waved her little hand, "How can that be? Uncle Liuxiao is the senior I respect the most. This absolutely cannot be messed up."
+Hua Caili hurriedly waved her hands. “Oh no no, you are my most respected senior, Uncle Liu Xiao. I cannot make you address me like that. If... I’m just saying... if you really lose to big brother Yun, then all I ask is that you grant a small wish of mine. Hehe.” 𝒇𝓻𝓮𝓮𝙬𝙚𝒃𝒏𝓸𝙫𝒆𝙡.𝓬𝓸𝒎
 
-"If... by any chance... Uncle Liuxiao really loses, just agree to a small request of mine, hehe."
+“You actually think I would lose??”
 
-"I'll lose??"
+He let out another strange cry, but he was no longer laughing. Instead, he looked Yun Che up and down as if recognizing him once more.
 
-He let out a strange cry, but he didn't laugh anymore. Instead, his gaze swept up and down, reassessing Yun Che.
+He knew very well that Hua Caili wasn’t one to talk without thinking, nor was she one to make a baseless lie.
 
-How could he not know that Hua Caili's sudden move was definitely not without reason?
+Still, to say that this brat could beat him in cooking?
 
-But to say that this kid could surpass him in the culinary arts...
+He would rather believe that this boy’s cultivation was strong enough that he could crush him, a High Priest, with one finger.
 
-He would rather believe that this kid could crush him, a Divine Official, with a single finger in terms of cultivation.
+“Boy!” The old man did not ask for Yun Che’s name or origin. He simply side-eyed him and said, “When I was your age, I was still playing with mud. It would be pure bullying if I were to duel against you seriously, so...”
 
-"Kid!" The old man didn't ask for Yun Che's name or origin, and said with a slanted old eye, "When I was your age, I hadn't even figured out how to play with mud. If we're really going to compare culinary skills, I'd be bullying you. How about this..."
+He pointed to the back. “This old man has nothing except the greatest hoard of food ingredients in the entire Abyss! Use them to make a dish, any dish. If you can make a single dish that can earn a passing grade from me, then I’ll judge that the girl has won the bet! Just look at that bratty smile of hers. She must be plotting something nefarious!”
 
-He pointed behind him, "I don't have anything else here, but I have all kinds of rare ingredients from all over the world! If you can use the things here to make any dish that catches my eye, then this little girl wins! Look at her smiling face, she must be holding back some bad fart!"
+The old man’s words were casual and boorish, but it was clear that Hua Caili held a very special place in his heart. He knew that Hua Caili was looking to make a request from him and so gave her the opportunity directly.
 
-The old man's words were casual and vulgar, but they showed his doting and indulgence towards Hua Caili. He knew that Hua Caili was definitely looking for an excuse to ask him for a request, so he directly gave her this opportunity.
+After all, he was the judge and jury in this bet. If he wanted to, Yun Che could give him a rock, and he could still say that it had earned a passing grade.
 
-After all, whether it caught his eye or not was up to him.
+Yun Che bowed but did not respond. Instead, he scanned his surroundings for a bit before lifting his hand and sending out a dozen gentle cyclones. They flew toward the piles of haphazardly placed food ingredients, rummaged around for a few breaths, and brought thirty seven food ingredients of all shapes and colors back to the trio.
 
-Yun Che bowed respectfully but didn't respond. His gaze swept around, and suddenly he reached out.
+“Senior, these are the thirty seven ingredients you used to create the ‘Liu Xiao Immortal Soaring Flaky Biscuit’, am I right?”
 
-More than a dozen gentle wind swirls flew out, heading straight for the messy piles of ingredients.
+The old man, one of the four High Priests of the Pure Land, the one they called High Priest Liu Xiao, did not answer immediately. His ancient eyes kept widening until he looked like he had seen a ghost in broad daylight.
 
-In just a few breaths, thirty-seven ingredients of various colors and shapes were laid out in front of Yun Che.
+Hua Caili’s lips were opened slightly, and her eyes were quivering with deep astonishment as well. It did not take a genius to notice High Priest Liu Xiao’s excessive reaction to know that Yun Che had deduced the ingredients of the “Liu Xiao Immortal Soaring Flaky Biscuit” correctly. There were thirty seven ingredients though! How did he get every single one of them correct!?
 
-"Senior, the 'Liuxiao Flying Immortal Pastry' you made earlier should have used these thirty-seven ingredients. I wonder if my judgment is correct?"
+She only knew that Yun Che was a master at cooking whose food was better than even High Priest Liu Xiao. However, even she did not realize he was this good until now.
 
-The gray-clothed old man... the dignified Liuxiao Divine Official, one of the Four Divine Officials of the Pure Land, didn't answer immediately. His old eyes widened and widened, as if he had seen a ghost in broad daylight.
+High Priest Liu Xiao suddenly turned around and shouted, “Yuanying, get over here!”
 
-Hua Caili's lips also parted slightly, and her beautiful eyes trembled with deep surprise... Judging from Liuxiao Divine Official's exaggerated reaction, Yun Che's judgment was correct. Thirty-seven ingredients, not a single one was wrong!?
+Divine Attendant Yuanying had just finished cleaning up when he answered his master’s call and dashed inside the building. “You asked for me, master—”
 
-She only knew that anything Yun Che made was always heavenly, even better than Liuxiao Divine Official's. But she never imagined that he was so incredibly skilled to such an unbelievable degree.
+"Did you tell him the recipe of the Liu Xiao Immortal Soaring Flaky Biscuit?!”
 
-Liuxiao Divine Official suddenly turned his head and roared, "Yuanying, get in here!"
+“What?” Yuanying looked confused and innocent. “You disparage me, master! I would not dare to leak your recipes even if he has the gall of the heavens... wait a second. Didn’t you finish the Liu Xiao Immortal Soaring Flaky Biscuit like, just now? You also just named it. Where would I find a recipe to give away even if I wanted to?”
 
-Yuanying Divine Envoy, who had just cleaned the smoke and dust from his body, flashed in with a "whoosh," "Master, you called for me..."
+“... Get out.”
 
-"Did you tell this kid the recipe for Liuxiao Flying Immortal Pastry?!"
+Yuanying zipped out of the house as quick as lightning.
 
-"Huh?" Yuanying looked innocent, "I'm wronged, Master. Even if I had the guts of a bear, I wouldn't dare to leak your recipe. Oh, wait, you just made this Liuxiao Flying Immortal Pastry, and even the name was just made up. Where did the recipe come from?"
+After Yuanying was gone, High Priest Liu Xiao looked back and forth between Yun Che and the thirty seven food ingredients, muttering, “Not bad. No wonder the lass dares to taunt me so.”
 
-"...Get out."
+Yun Che hurriedly expressed humility. “You flatter me, senior. I am just exceptionally sensitive toward smell, that’s all. Anyway, I shall now attempt to recreate your Liu Xiao Immortal Soaring Flaky Biscuit using the same ingredients.”
 
-"Yes, sir!"
+With that said, Yun Che took a step back and summoned a cyclone. One by one and following a certain order, the thirty seven ingredients were crushed, refined, and purified.
 
-Yuanying flashed out again with a "whoosh."
+When Cang Shuhe taught Yun Che how to cook, she once praised him saying that his advantage in this way was unparalleled under the heavens.
 
-Liuxiao Divine Official's gaze returned to Yun Che, occasionally sweeping over the thirty-seven ingredients, and he muttered, "Not bad, no wonder this little girl dares to be so cocky."
+It wasn’t flattery. It was an irrefutable truth.
 
-Yun Che quickly and modestly said, "Senior, you flatter me. I'm just particularly sensitive to smells and was lucky enough to identify them. Then I'll use the same ingredients and try to make Senior's Liuxiao Flying Immortal Pastry."
+It was because he possessed the universe’s greatest power of tempering and purification, the Sky Poison Pearl. It could easily process any food ingredient into its ideal, perfect form.
 
-With that, he took a step back. Wind swirls rolled up, and the thirty-seven ingredients passed through his hands in sequence, being crushed, refined, and purified...
+The other important factor of the way of cooking was heat control. As the bearer of the Heretic God Profound Veins, he too possessed an unrivaled advantage in this regard. Anyone else could train for ten lifetimes and still never reach his level.
 
-When Cang Shuhe was teaching Yun Che culinary skills, she praised his talent in this area as unparalleled in the world.
+The Sky Poison Pearl existed at a level where even a High Priest could not possibly perceive its tempering and purifying aura even though it was right in front of him. Therefore, all High Priest Liu Xiao saw was the ingredients being stripped, cut, and blown until only the essence was left by Yun Che’s profound energy.
 
-This was not an exaggeration but an undeniable fact.
+Not only was the process impossibly elaborate and precise, it was happening at an unbelievably fast rate as well.
 
-Because the most ultimate refining and purifying power in this world existed in the Sky Poison Pearl in his hands.
+High Priest Liu Xiao literally did not have the time to catch his breath from the start until the end.
 
-Therefore, any ingredient could be easily handled to the most perfect state in his hands.
+Next, a crimson flame appeared on Yun Che’s palm. As he flipped his palm around and moved his fingers rapidly, the flame split into dozens of fiery snakes—all of them boasting a different size and heat level—and swirled around the food ingredients for a time. At times, they would move closer to the ingredients. At times, it would go away. The fiery snakes burned bright or extinguished themselves from time to time as well.
 
-And another important factor in the culinary arts... the control of fire. With the Evil God's Profound Veins, he was also unparalleled in the world. Even if others cultivated for ten lifetimes, they could never reach his level.
+Finally, the fiery snakes returned to Yun Che’s palm. A few breaths later, they were all gone.
 
-At the level of the Sky Poison Pearl, its refining and purifying aura was undetectable even to a powerful Divine Official. In Liuxiao Divine Official's eyes, the ingredients were being peeled, sliced, and dispersed by Yun Che's profound energy, with the essence retained and the excess removed.
+Yun Che slowly opened his hand. Sitting at the center of his palm was a pair of flaky biscuits that were exactly identical in terms of color, but completely different in terms of shape.
 
-The whole process was precise and ingenious to an unbelievable degree, and it was incredibly fast.
+A faint aroma spread throughout the building. When it reached High Priest Liu Xiao’s nostrils, the old man actually gulped involuntarily.
 
-Liuxiao Divine Official watched for a long time without taking a breath.
+“I'm done.”
 
-Red light shone, and flames ignited in Yun Che's palm. As he turned his palm and moved his fingers, the flames split into dozens of fire snakes of different sizes and even different temperatures. They danced gracefully over the different ingredients, sometimes close, sometimes far, sometimes burning, sometimes extinguished.
+Yun Che passed the first biscuit to Hua Caili. “You first, Caili.”
 
-Finally, all the flames fell into Yun Che's palm and extinguished after a few breaths.
+This flaky biscuit was unbelievably exquisite compared to the dirty, ugly-looking lump High Priest Liu Xiao had fed Hua Caili earlier. It was shaped like a girl holding a moon, and the moon was half hidden behind some clouds. It was both beautiful and meaningful.
 
-Yun Che's palm slowly opened, and in it lay two pastries of the same color but different shapes.
+“Wah! It’s so cute!” Hua Caili’s eyes glittered like stars as she carefully, very carefully held it between her palms. “It’s so cute I don’t even want to eat it anymore.”
 
-A faint fragrance spread out. The fragrance touched his nose, and Liuxiao Divine Official's throat couldn't help but make a "gurgling" sound.
+Yun Che smiled. “Delicious food should be excellent not just in taste and smell, but also appearance. It's a bigger factor than most people think. That's why I decided to go a little overboard.”
 
-"It's done."
+“Although the food ingredients are the same, my methods and combinations are quite different from senior’s. Therefore, I dare not call it the ‘Liu Xiao Immortal Soaring Flaky Biscuit’. Instead, I’ll name it the... ‘Moon Reflects Cloud Flaky Biscuit’.”
 
-Yun Che raised his hand and gave one of the pastries to Hua Caili, "Caili, you try it first."
+While Yun Che was talking, Hua Caili was already taking a small bite. She immediately looked up with a look of wonder, the starlight in her eyes shining so bright it was blinding. “It’s good! It’s so. Good! Not only does it look good, smell good, and have a good name, its taste is... many a bit[1] better than Uncle Liu Xiao’s Soaring Immortal Flaky Biscuit!”
 
-Compared to Liuxiao Divine Official's dirty lump, the pastry Yun Che gave to Hua Caili was exceptionally exquisite. It was shaped like a maiden holding the moon, half-hidden in the clouds, its meaning and imagery captivating.
+It was only now that High Priest Liu Xiao’s bulging eyes slowly slid back into his eye sockets.
 
-"Wow! It's so pretty." Hua Caili held it in her hands, her beautiful eyes shining with a strange light, her movements exceptionally careful, "It's so pretty that I can't bear to eat it."
+As a man who had devoted himself to the way of cooking for over a million years, he knew far more than Hua Caili just how unbelievable Yun Che’s cooking technique was.
 
-Yun Che smiled, "Food should be excellent in color, aroma, and taste. Because its shape and color greatly affect a person's mood when enjoying the food, I made it a little more elaborate."
+Before Yun Che could even say a thing, he grabbed the other biscuit from Yun Che’s palm—his movements stiffening a little when its fragrant aroma hit his nostrils again—and tossed it into his mouth.
 
-"Although the ingredients are the same, I came up with this on the spot. I think the method and combination are quite different from Senior's, so I naturally don't dare to call it 'Liuxiao Flying Immortal Pastry.' Let's call it... 'Moon-Reflecting Cloud Pastry²,' I guess."
+He took a bite... and his old eyes threatened to fall out of his eye sockets once more.
 
-As Yun Che spoke, Hua Caili had already taken a small bite.
+Over a dozen different flavors had exploded inside his mouth and radiated across his taste buds in an instant. He could clearly feel his own soul tingling in response to the wonderful explosion of flavor.
 
-Immediately, she raised her head, her eyes shining like stars, "Delicious! It's really delicious! Not only is it beautiful, but it smells good, the name is nice, and the taste is even... many times better than Uncle Liuxiao's Flying Immortal Pastry!"
+As the man who believed that the title of ‘Greatest Chef God of the World’ was far more important than ‘High Priest’, he of course had the skills to match his self-proclaimed title. He could accurately identify exactly which taste came from which food ingredient, and as far as he could tell, the sensual adjustments Yun Che made could only be described as perfect. The mixture especially made his soul feel intoxicated, and his body numb to the very core.
 
-Liuxiao Divine Official's protruding eyeballs seemed to finally retract at this moment.
+It was a feeling of "immortal soaring" that not even his “Liu Xiao Immortal Soaring Flaky Biscuit” could truly achieve.
 
-As someone who had been immersed in the culinary arts for over a million years, he was far more aware than Hua Caili of how astonishing Yun Che's series of actions had been.
+He was stunned. Well and truly stunned. He stammered as he stared fixedly at Yun Che, “I-Is this really an impromptu creation?”
 
-Without waiting for Yun Che to speak, he grabbed the other pastry from Yun Che's palm with a flick of his hand... The exotic fragrance assailed his nostrils, and his movements paused slightly before he threw it into his mouth.
+He had spent over a thousand years and tens of thousands of attempts to create his perfect “Liu Xiao Immortal Soaring Flaky Biscuit”, and this boy...
 
-He took a bite... In an instant, his old eyes bulged out again.
+Yun Che seemed to have mistaken his words and said, “Junior has spent most of this life wandering and so rarely had a chance to experience this many precious food ingredients. Therefore, I can only do what I can do and hope for the best. I’m sorry to have disappointed you.”
 
-More than a dozen different exotic fragrances exploded in his mouth, instantly radiating to his taste buds. He clearly felt his soul go numb.
+He thinks he disappointed me?
 
-As the number one culinary god in the world, whose importance in his eyes far exceeded his title as a Divine Official, he could accurately distinguish which flavor came from which ingredient. And the "tuning" of these flavors had all reached a perfect level. Their fusion created an ultimate delicacy that intoxicated the soul and numbed the body.
+High Priest Liu Xiao only wished that the boy had disappointed him.
 
-It was a "flying immortal" feeling that his "Liuxiao Flying Immortal Pastry" had not truly achieved.
+Not only was this the boy’s first attempt at his biscuit, he had completed it in an unbelievably short time using whatever method he felt was best. And yet... the flaky biscuit he created had crushed the hard work he had poured over a thousand years to create and even the million years he invested into this way.
 
-He was shocked, completely and utterly shocked. He stared at Yun Che, his voice trembling slightly, "This... Did you really make this on the spot?"
+Who was disappointing who, really?
 
-He had spent thousands of years of effort and tens of thousands of attempts to make the perfect "Liuxiao Flying Immortal Pastry"!
+Before High Priest Liu Xiao could say anything, Hua Caili said, “Big brother Yun, why don’t you make a Four-colored Rainbow Cloud Soup for Uncle Liu Xiao? I bet he’ll be very surprised by it.”
 
-Yun Che seemed to have misunderstood his meaning and quickly said, "Most of my life has been spent wandering the world. It's rare for me to come into contact with such... and so many exotic treasures, so I could only try my best. I'm afraid I've made a fool of myself in front of Senior."
+Yun Che smiled and produced four dark-colored leaves on his palm.
 
-Made... a fool of himself?
+When High Priest Liu Xiao looked, he was surprised to find that it was four Bitter Leaves, one of the most common plants in the Abyss!
 
-Liuxiao Divine Official really wanted to laugh.
+It was impossible to grow the kind of plants found in the Pure Land and the Kingdoms of God anywhere else. Naturally, the few plants that could survive the harsh environment of the Abyss were resistant toward abyssal dust to an extent and boasted extreme resilience. Unfortunately, they were also extremely bitter, and while they could be used to adjust the taste of a food, only the most desperate could bear to eat them as they were.
 
-This kid had just made this on his first try, and in such a short time, he had crushed his thousands of years of effort and even his million years of skill... How could he laugh?
+“Just... four Bitter Leaves?” High Priest Liu Xiao stammered like a student who was just embarking on the way of cooking.
 
-Before Liuxiao Divine Official could speak, Hua Caili said sweetly, "Big Brother Yun, make Uncle Liuxiao a serving of Four-Colored Cloud Soup³, he'll definitely be shocked."
+“Four is enough.”
 
-"Okay."
+Yun Che swiped his fingers across the four leaves repeatedly, tempering and purifying them without a trace. Dozens of profound qi rotations later, the four Bitter Leaves had been ground into four tiny globes of juices of differing color and size.
 
-Yun Che smiled and reached out. Four dull-colored leaves flew into his hand.
+Yun Che summoned the cold into his palm and formed a small and delicate ice bowl. Then, he made a grabbing motion and somehow filled the bowl with half a bowl of clear water. Next, he poured the four globs of leaf juice into the ice bowl one after another, allowing them to scatter and blend naturally. With that, a bowl of four-colored ice soup was complete.
 
-Liuxiao Divine Official looked closely... They were four Bitter Leaves⁴ that could be found everywhere in the abyss!
+He handed the ice bowl to High Priest Liu Xiao and said, “The Four-colored Rainbow Cloud Soup is complete. Please give it a taste, High Priest Liu Xiao.”
 
-The land outside the Pure Land and the Divine Realm could not grow green trees and flowers. The vegetation that could survive must be able to resist the abyss dust to a certain extent and naturally had extremely strong vitality. Their taste was mostly extremely bitter and could be used for seasoning, but they were almost impossible to eat.
-
-"Just... these four Bitter Leaves?" Liuxiao Divine Official now looked like an old student who had just entered the culinary arts, and he asked in a trembling voice.
-
-"That's enough."
-
-Yun Che moved back and forth between the four Bitter Leaves, refining and purifying them silently and invisibly. After dozens of swirls of profound energy, only four juice clusters of different colors and sizes remained.
-
-Yun Che gathered cold energy in his palm and formed a small ice bowl. With another grab, half a bowl of clear water appeared in the bowl. The juice clusters from the four different Bitter Leaves fell into the ice bowl, then naturally dispersed and fused, forming a bowl of four-colored, glassy ice soup.
-
-He held the ice bowl in front of Liuxiao Divine Official, "The Four-Colored Cloud Soup is ready. Please taste it, Senior Liuxiao."
+1. Not a mistake. She didn’t want to say it’s a billion times better so she used ‘a bit’, but put many in front of it. ☜

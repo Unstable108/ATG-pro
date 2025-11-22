@@ -5,10 +5,11 @@ import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
 
+# https://freewebnovel.com/novel/against-the-gods-novel
 # ====================== CONFIG ======================
 # You now set the REAL chapter numbers you want
-START_CHAPTER = 2000
-END_CHAPTER   = 2005
+START_CHAPTER = 2101  # Test with 2103
+END_CHAPTER   = 2133
 
 DELAY = 1.5
 OUTPUT_DIR = "chapters"
@@ -24,12 +25,17 @@ def clean_content(soup):
     # Get all <p> tags with real content
     paragraphs = []
     for p in soup.find_all("p"):
-        text = p.get_text(strip=True)
-        # Skip short lines (ads, nav) or navigation text
-        if len(text) < 30 or "arrow keys" in text.lower() or "prev/next" in text.lower():
+        # Use get_text with separator=' ' to preserve spaces from inline elements (e.g., <em>Boom!</em>)
+        text = p.get_text(separator=' ', strip=False)
+        # Skip very short lines (ads, nav) or navigation text
+        if len(text.strip()) < 10 or "arrow keys" in text.lower() or "prev/next" in text.lower():
             continue
+        # Clean up multiple spaces/newlines from separator
+        text = re.sub(r'\s+', ' ', text).strip()
         # Remove reaction numbers like "text2"
         text = re.sub(r'([.!?])\s*\d+$', r'\1', text)
+        # Fix common mangling: Ensure ellipses (...) have spaces around if needed
+        text = re.sub(r'([a-zA-Z])\.\.\.([a-zA-Z])', r'\1... \2', text)
         paragraphs.append(text)
 
     full_text = "\n\n".join(paragraphs).strip()

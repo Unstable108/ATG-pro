@@ -1,177 +1,145 @@
 ---
 chapterNumber: 2123
-title: "Everlasting Night Descends Upon Yun"
-publishedAt: "2025-11-20"
+title: "Eternal Night Descends"
+publishedAt: "2025-11-22"
 ---
 
-Yun Che's expression froze for a moment, and he quickly said, "Senior Liu Xiao, you flatter me. Cookbooks are, in the end, inanimate objects. The same recipes, the same ingredients, yet in the hands of different people, they can bloom with distinct colors, aromas, and flavors. Although they are gifts from a junior, to be able to fall into Senior's hands is undoubtedly the greatest fortune for them."
+Seemingly surprised, Yun Che hurriedly said, “You are exaggerating, senior Liu Xiao. A recipe is ultimately just an object. The same recipe and food ingredients can produce different appearances, aromas, and flavors in different hands. Although they are my gift to you, I am certain that my recipes are beyond honored to have an owner like you.”
 
-As his words fell, he took a step back and bowed respectfully. "I take my leave."
+With that said, he took one step forward and bowed respectfully. “I bid you goodbye.”
 
-Divine Official Liu Xiao watched the two leave, his gaze complex. Once they were far away, when his gaze fell back onto the jade slip, it once again regained an undeniable fervor.
+High Priest Liu Xiao watched the duo leave with complicated eyes. After they were gone, his gaze returned to the jade strip and burned with barely concealed zeal once more.
 
-Divine Attendant Yuan Ying, neatly dressed, walked in from outside and said with a bitter expression, "Oh, my Master, my liver is still trembling¹. Please, in the future, never do such frightening things again."
+It was at this moment that Divine Attendant Yuan Ying entered the abode in neat attire once more. Wearing a bitter expression on his face, he said, “My master, my liver is still shaking from your latest antics. Can you please sympathize with this poor attendant and not do something this scary ever again?”
 
-Divine Official Liu Xiao completely ignored him, his gaze still fixed solely on the jade slip, as if immersed in a sea of dreams from which he didn't wish to awaken.
+High Priest Liu Xiao ignored him completely. He simply stared at the jade strip as if submerged in a sea of dreams he wasn’t willing to awake from.
 
-"However..." Divine Attendant Yuan Ying was clearly accustomed to this, and he continued on his own, "This matter with Cai Li... it can only be big, not small². Once it's revealed, it will certainly be difficult to end peacefully."
+“That said...”
 
-Divine Official Liu Xiao finally reacted. He finally brought himself to lift his head and murmured, "Yun Che, Meng Jian Yuan... This young man is far from simple."
+Divine Attendant Yuan Ying was clearly used to being ignored. He continued talking to himself, “Caili’s matter... I cannot see any way it will end peacefully and without fanfare. It will be a riot the moment it is revealed.”
 
-"Oh?" Divine Attendant Yuan Ying's interest greatly increased. "It's the first time I've heard Master speak such words of praise about a junior. I imagine... it's not just about his culinary skills, right?"
+This comment finally spurred High Priest Liu Xiao into lifting his head and murmuring, “Yun Che, Meng Jianyuan... this boy is seriously extraordinary.”
 
-"Of course not."
+Divine Attendant Yuan Ying’s interest was piqued. “This is the first time I heard you giving a junior such lavish praise, master. I’m sure you don’t just mean his culinary skills, right?”
 
-"When the Divine Inheritors of the Six Divine Nations first meet a Divine Official, they are all invariably nervous and fearful. To be able to force themselves to be calm, and maintain a humble yet not servile demeanor, is already rare. But this young man, his composure, comes from within. Even every flattering remark he made was perfectly appropriate³."
+“Of course not.”
 
-He raised the jade slip in his hand. "This thing was taken out after I agreed to help, not before... Between the two, the difference is immense."
+“When a God Bearer of the Six Kingdoms of God first meets a High Priest, they usually act reserved, afraid, or excessively respectful. Only a rare few are able to maintain their composure by force, or steer clear from obsequiousness or superciliousness.”
 
-"Just now, I asked him what he wanted me to exchange for it. His reply was humble and polite; every word was filled with respect and flattery towards me, as if my not accepting it would be burying its worth. But in reality, he did not deny the words 'exchange'."
+“This boy though, his confidence and composure came from the heart. Even his flattery, every single word of it, was just right.”
 
-He narrowed his eyes. "One must know that the most expensive things in this world are often those that are 'free of charge'."
+He lifted the jade strip he was holding and said, “He gave me this after I promised to help him, not before... Can you tell how big the difference is between the two?”
 
-Divine Attendant Yuan Ying seemed thoughtful. Then he said, "Since Master already knows this clearly, why didn't you refuse?"
+“When I asked him what he wanted in exchange for this jade strip, his response was both modest and polite. Every single line he spoke was a show of respect and flattery to me. He made it sound like I would be burying it in obscurity if I dared to reject it. However... he never said he didn’t want something in exchange, did he?”
 
-Divine Official Liu Xiao, however, glared at him. "Refuse my ass⁴! You've followed me for so many years, yet you're not even as clear-sighted as that young Yun. Is this something I could refuse?! This is a divine object, a truly divine object!"
+High Priest Liu Xiao narrowed his eyes. “And there is nothing more expensive than ‘free’, is there?”
 
-Divine Attendant Yuan Ying pressed his nose, speechless.
+Divine Attendant Yuan Ying looked thoughtful. “If you know the game he’s playing, then why didn’t you turn him down?”
 
-"I don't know what kind of old monster his master is, to actually teach such a little monster in just a mere hundred years. And then that rascal Meng Kong Chan picked him up. This generation of the Weaving Dream Divine Nation has truly hit the jackpot⁵, tsk tsk."
+High Priest Liu Xiao rolled his eyes at him. “Like hell I would! You’ve been my attendant for countless years, so how is it that a boy who only met me today understands me better than you? Do you think it’s even possible for me to turn this down?! This is a priceless treasure! A true priceless treasure!”
 
-"Not necessarily, oh." Divine Attendant Yuan Ying slowly said, "Cai Li's engagement to Dian Jiu Zhi was personally sanctioned by His Highness Abyss Emperor, and it is known and witnessed by all under heaven. Dian Luo Hou's fierce temperament is also known to everyone. And most seriously... Lord Abyss Emperor possesses a profound magnanimity, but his greatest, perhaps his only taboo, is betrayal of affection."
+Divine Attendant Yuan Ying pressed the tip of his nose. What could he even say to that?
 
-He shook his head. "It's difficult, ah. Could this be what they call 'fortune and misfortune are intertwined'⁶?"
+“I wonder who the old monster who taught him is. To think he’s capable of creating a little monster like him in just a century. Even better, this little monster was picked up by Meng Kongchan of all people. This is easily the biggest dogshit luck the Dreamweaver of this generation had stumbled upon, tsk tsk.”
 
-"None of your damn business⁷, scram, scram, scram!" Divine Official Liu Xiao couldn't be bothered to listen to him any further. He directly waved him away with a slap. "Don't delay me from studying this divine object."
+“I wouldn’t say that just yet.”
 
-"Uh, there's one more thing." Divine Attendant Yuan Ying quickly said, "Master must have also noticed that Yun Che's ability to control flames is extremely strange. Such an anomaly, even for Lord Ling Xian..."
+Divine Attendant Yuan Ying said leisurely, “His Majesty is the one who confirmed the engagement between Caili and Dian Jiuzhi. The entire world knows and has witnessed this. Equally as famous is Dian Rahu’s fiery temper. But worst of all... His Majesty is normally magnanimous to fit the entire Abyss in his chest, but if there is one thing that one may consider His absolute taboo, it would be unfaithfulness.”
 
-"Get out, now!!"
+He shook his head. “Oh, this is going to be so difficult. Is this what they mean by ‘fortune and misfortune are two sides of the same coin’?”
 
-Divine Official Liu Xiao impatiently kicked out. Divine Attendant Yuan Ying's vision blurred, and he was instantly sent flying a thousand zhang⁸ away. His scolding voice poured into his ears: "How many times have I told you, don't bother with worldly affairs, keep your mind free from the dust of the world⁹! No matter how strange he is, even if he's a reincarnated Creation God, it has nothing to do with you!!"
+“What the fart does it have to do with you? Get lost!”
 
-Divine Attendant Yuan Ying got up. The first thing he did was still meticulously brush off the dust from his clothes. Only then did he slowly say, "Yes, yes, yes, I respectfully obey Master's teachings."
+High Priest Liu Xiao could not be bothered to listen to his ramblings any longer and slapped him aside. “Do not delay me from researching this treasure any longer.”
 
-He looked in the direction Yun Che and Hua Cai Li had departed, sensing the changes in the aura of the Pure Land, and leisurely murmured to himself, "This time's Pure Land gathering, I'm afraid there's going to be a big show to watch¹⁰."
+“Er, there’s just one more thing.”
 
-Inside the divine dwelling, Divine Official Liu Xiao, hunched over, read the jade slip in his hand again and again, murmuring to himself.
+Divine Attendant Yuan Ying hurriedly added, “I’m sure you noticed that Yun Che’s ability to control flames was beyond unusual. It’s on the level where even Lady Ling Xian—”
 
-"This young man, his name is actually so flashy. It's more like a woman's preference."
+“I said, get lost! ”
 
-"This young man's eyes are like a deep abyss, his heart like a bright flame. But I was wrong about one thing: imprisoned in this illusory world, how can one speak of being unrestrained...? Only delicious food will never betray me. Huo ha ha ha ha... hic!"
+An impatient High Priest Liu Xiao launched a kick at Divine Attendant Yuan Ying’s butt. The next thing he knew, he had landed several kilometers away from his original spot. At the same time, High Priest Liu Xiao’s scolding drilled into his ears, “How many times have I told you that one should not bother or be caught up in worldly affairs? Who gives a shit if he’s unusual? You would ignore him even if he were the reincarnation of a Creation God!”
 
-"Elder Brother Yun, you're truly amazing. I originally thought you only surpassed Uncle Liu Xiao by a little. I didn't expect Uncle Liu Xiao to be so shocked he almost turned silly! He even wants to take you as his master, hee hee hee!"
+Divine Attendant Yuan Ying climbed to his feet and carefully brushed away the dust on his clothes. Only then did he say slowly, “Yes, yes, this servant will obey your teaching.”
 
-Her joyful laughter was even more refreshing and flawless than the dome light of the Pure Land. Even the gentle breeze seemed softened by her smile, quietly brushing past the curve of her lips.
+After he said this, the divine attendant’s gaze shifted toward the direction Yun Che and Hua Caili had disappeared into. While perceiving the changes in the air of the Pure Land, he mumbled to himself, “I have a feeling that this Pure Land Meet is going to be a riotous one.”
 
-Yun Che's gaze unconsciously avoided her smiling face. He looked ahead and said, "So, you brought me to visit the various Divine Officials for this purpose. Aren't you worried that our matter will be revealed too early because of this, and instead catch your Divine Father and Divine Venerable Wu Meng off guard?"
+Inside his divine abode, High Priest Liu Xiao was bending his back and reading the jade strip again and again. His mouth muttered things from time to time.
 
-Hua Cai Li said without any worry, "Uncle Liu Xiao is obsessed with the culinary arts. He absolutely refuses to interfere in any external affairs. Even if it's a secret ten times bigger, he wouldn't bother to say a single word more. And the only thing that can move him is the culinary arts. It just so happens that Elder Brother is most skilled in this art, so I definitely had to try. Even if it failed, he would absolutely not want to meddle."
+“The names this boy came up with are surprisingly flamboyant. This is the one part where he’s like a woman.”
 
-"Grandma Ling Xian dotes on me the most; she definitely wouldn't do anything bad to me. And besides..." She secretly glanced at Yun Che, her voice dropping a few notches. "Actually, back then, after Uncle Abyss Emperor bestowed the engagement, Grandma Ling Xian once said that I was too young to be engaged when I knew nothing about romantic love. It was hard to say whether it would be a blessing or a curse, and she worried that I would have a day of regret. And once that regret arose, it would likely bind me for life."
+“This boy has eyes as deep as the abyss, and a heart as bright as a flame. He got one thing wrong, though. Who could live freely when they are trapped in a false world... still, delicious food is the one thing that never betrays, huohahahaha—burp!”
 
-Yun Che: "..."
+“You’re amazing, Big Brother Yun. I thought you were just a tiny bit better than Uncle Liu Xiao, but to think you would shock him so much his jaw almost hit the floor! He even wanted to become your disciple, hehehe!”
 
-"Back then, I was ignorant and naive. Only after meeting Elder Brother Yun did I truly understand Grandma Ling Xian's words. I think, since Grandma Ling Xian already had foresight and worries, she will definitely be the one who understands my feelings and current situation the most, and will definitely be the most willing to help us. Unfortunately, she just happened to have a relapse of an old illness... I hope Grandma Ling Xian can recover safely soon."
+Her joyous laughter was purer and more soothing than even the skylight of the Pure Land. Even the clear wind seemed to be mellowed out by the smile as it sneakily brushed past the curves of the corners of her lips.
 
-Yun Che smiled, his face filled with emotion. "This misfortune arose because of me; this matter, in fact, should be handled by me..."
+Yun Che unconsciously avoided her smiling face and looked straight ahead. He said, “So this is why you took me to visit the High Priests. Aren’t you worried that our affair will be revealed overly early, and your Father and Dreamless Divine Regent will be caught off guard as a result?”
 
-"Between us, there's no need to distinguish between 'yours' and 'mine'," Hua Cai Li interrupted him, half-joking, half-serious, she said.
+Hua Caili replied without any worry whatsoever, “Uncle Liu Xiao is obsessed with culinary arts and absolutely refuses to get involved in any matter that doesn’t concern his own. Our secret could be a thousand times bigger, and he still couldn’t be bothered to say a single word. The one thing that could move him is culinary art, and it so happens that this is one of your best skills. That's why I decided that the attempt is worth it. Even if the attempt had ended in failure, he would not have stuck his nose where it doesn’t belong.”
 
-Yun Che stopped speaking. Then he also nodded firmly. "Mm! Between us, there's long been no distinction. Plus, we have the backing of your Divine Father and Divine Venerable Wu Meng, and Divine Official Liu Xiao has also promised to lend his aid. The future will definitely be smoother than we anticipated."
+“As for Grandma Ling Xian, there is no one she pampers more than me. She will never do something detrimental to me. Also...”
 
-"Of course." The young girl smiled brightly, her eyes shimmering like flowing rosy clouds¹³. Her body unconsciously leaned a little closer to Yun Che, but then she rationally moved slightly away. For her, compared to worries about the future, the joy and lack of regret from meeting and falling in love with Yun Che far outweighed them.
+She snuck a glance at Yun Che and lowered her voice slightly, “In fact, after Uncle Abyssal Monarch bestowed the engagement, Grandpa Ling Xian remarked that the engagement should not have been set before I understood what romance is. She declared that it is difficult to determine if the engagement would be a good or bad thing. She was worried that I may come to regret the engagement, and that the regret may plague my whole life.”
 
-Divine Official Wan Dao managed the core resources of the Pure Land. He was extremely cautious and upright, so Hua Cai Li naturally wouldn't try to seek his help.
+Yun Che: “...”
 
-The Grand Divine Official, needless to say, was the only being Hua Cai Li feared in the Pure Land.
+“As she said, I understood nothing back then. It wasn't until I encountered Big Brother Yun that I truly understood her words. In my opinion, if Grandma Ling Xian predicted my future and worried about me that long ago, then she must understand my feelings and current situation better than anyone. Out of everyone, she must be the one who is most willing to help us as well.”
 
-To be able to receive Divine Official Liu Xiao's promise of aid, she was already overjoyed. She walked alongside Yun Che, lingering for a long time, only then did she reluctantly part with him and returned to Hua Fu Chen's side.
+“Unfortunately, she just happened to fall ill during our visit... I hope she will recover soon.”
 
-Yun Che's steps remained slow. His gaze was calm, sensing the changes in every wisp of aura around him. The direction he was heading, however, was not towards the Weaving Dream Divine Nation.
+Yun Che smiled and put on a touched expression, “This problem came from me. Honestly, I should be the one to—”
 
-"What are you thinking about?" Li Suo, sensing Yun Che's thoughts, suddenly spoke.
+“There is no you and me anymore. There is only us,” Hua Caili interrupted him and declared half-jokingly and seriously.
 
-Yun Che's steps did not stop. He murmured softly, "Laugh at others, laugh at oneself, laugh at ancient and modern times; laugh at heaven, laugh at earth, laugh at the stupa¹¹."
+Yun Che fell silent before nodding his head firmly. “Mm! There is only us now. Besides, we have your Father and the Dreamless Divine Regent to rely on, and High Priest Liu Xiao just agreed to lend us his aid. The future must go smoother than we imagine.”
 
-"Laughing at others, laughing at oneself, laughing at heaven and earth, laughing at ancient and modern times—all convey a carefree and unrestrained attitude that dismisses everything. Only 'laughing at the stupa'... when Cai Li first mentioned it to me, I felt an indescribable strangeness, or rather, a mismatch."
+“Of course it will.” The girl broke into a light smile and looked at him with flowing eyes. There was a moment where she unconsciously stepped closer to him, though her reason immediately took over and pulled her away. To her, the joy of having met and fallen in love with Yun Che and the remorseless resolve to see it fulfilled far exceeded her worries of the future.
 
-"Today, having met Divine Official Liu Xiao, I somewhat understand what 'laughing at the stupa' means."
+High Priest Wan Dao was the supervisor of the core resources of the Pure Land. He was extremely cautious, upright, and plainspoken. Naturally, Hua Caili wasn’t dumb enough to ask for his help.
 
-Li Suo listened quietly for the answer.
+The Chief Priest was even less of a question. He was the only person Hua Caili feared in the Pure Land. The fact that she could wrangle a promise out of High Priest Liu Xiao was already delightful.
 
-Yun Che, however, did not explain directly. Instead, he spoke words with a hidden meaning: "Laughing at the worldly dust¹² perhaps isn't necessarily the unrestrained freedom after seeing through everything. It could also be... extreme despondency and reclusion after seeing through everything."
+The two of them walked together for a long time before finally, inevitably, Hua Caili reluctantly parted ways with Yun Che. She then returned to Hua Fuchen’s side.
 
-Li Suo pondered for a long time, then softly said, "Are you saying that Divine Official Liu Xiao's temperament isn't unrestrained and free, but rather despondent and reclusive? As a Divine Official, looking down upon heaven and scorning the world, there seems to be no reason for him to be like this... And how does this relate to the three words 'laughing at the stupa'?"
+Yun Che was still walking slowly. His eyes were calm as he perceived every wisp of aura and its changes around him. Although the direction he was headed was not the Dreamweave Kingdom of God.
 
-Yun Che smiled faintly. "The three words 'laughing at the stupa,' which sound the most profound and mysterious, could actually be the most straightforward three words; their meaning is exactly what they say. Of course, it's more likely that I'm wrong. After all, it was just a very superficial encounter; how dare I make a rash judgment."
+“What are you thinking about?” Li Suo asked suddenly while perceiving his emotions.
 
-Li Suo, however, said, "If it truly were a 'rash judgment' made without any certainty, your mind wouldn't be so deeply immersed in it. Clearly, you have a strong grasp of this conjecture, and there's a high probability that it can be used by you."
+His footsteps never stopped as Yun Che muttered in a low tone, “Laugh at others, laugh at yourself, laugh at the past and present; laugh at the heavens, laugh at the earth, laugh at the Buddha.”
 
-"Oh..." Yun Che slightly narrowed his eyes, not quite praising. "Little Li Suo, should I say you're getting smarter, or that you understand me better and better?"
+The first few lines all bespoke a kind of freedom and unruliness that disdains all things equally, but the last line, ‘laugh at the Buddha’...”
 
-Li Suo faintly let out a very faint sigh, offering no response. After a while, she once again emitted her ethereal, dream-like celestial voice: "At the very least, do not try to exploit beings like True Gods too early. Playing with fire easily leads to self-immolation¹⁴. For people at the level of Divine Officials, you are merely a wisp of insignificant grass dust. No flame is even needed; a single spark carelessly splashed out could burn you into ashes with no return."
+“When Caili and I first met, I already felt that something was off with the quote. Incompatible, to be more accurate.”
 
-"Don't worry, I understand." Yun Che's voice carried a seriousness that Li Suo could clearly perceive. "To reiterate... and to assure you once more, I cherish my life very much."
+“But now that I’ve met High Priest Liu Xiao, I think I’m beginning to understand why he said, ‘Laugh at the Buddha.’”
 
-At this moment, the gentle breeze of the Pure Land suddenly stagnated. The world ahead suddenly dimmed by a fraction.
+Li Suo quietly awaited his answer.
 
-That was not the fading of light, but a sudden obstruction of perception.
+Yun Che did not give her a direct explanation. Instead, he gave her an answer with hidden meanings. “A person who looks askance at the vicissitudes of life may not necessarily do so because he has seen through everything and so attained enlightenment and become unfettered from them. It can also be because... the truth is so bleak that he became utterly discouraged and decided to hide from it all.”
 
-Yun Che raised his head and fixed his gaze, looking at a line of figures slowly passing by in the distant sky.
+Li Suo thought for a long time before whispering, “You’re saying that High Priest Liu Xiao is the way he is not because he has attained freedom of self, but because he is disheartened to the point that he doesn’t want to interact with the world at all? He is a lofty High Priest. He naturally towers over the heavens and disdains the world. There seems to be no reason for him to act like this...”
 
-That was a divine might aura unique to a Divine Nation, yet it cast down a heavy oppression that the Heaven-Folding Divine Nation and Weaving Dream Divine Nation had absolutely never possessed.
+“Even if there is, how does it correlate with the phrase, ‘Laugh at the Buddha’?”
 
-Although they were far away, Yun Che still recognized at a glance that this group of a hundred people were all women.
+Yun Che let out a light chuckle. “What sounds like the most profound words of the sentence may actually be the most blunt. It is exactly what it sounds like. But of course, I could be wrong. This is just our first, terribly shallow meeting after all. I dare not infer anything from it.”
 
-The name of a Divine Nation instantly appeared in Yun Che's mind.
+However, Li Suo said, “If your inference is really that baseless, then your heart would not be so heavy. Clearly, you are very confident in your guess, and you are very likely going to use it to your advantage.”
 
-That Divine Nation, which could be called the most special, most mysterious, and most infamous among the Six Divine Nations, and was also the Divine Nation that Meng Kong Chan, Hua Cai Li, and Hua Qing Ying had all warned him never to approach lightly:
+Yun Che narrowed his eyes slightly before showering her with unreserved praise. “Are you getting smarter, or are you understanding me better, Little Li Suo?”
 
-The Everlasting Night Divine Nation!
+“...” Li Suo let out a hushed sigh and refused to respond
 
-AI Translation Notes:
-1:
-Liver is still trembling (肝颤 - gān chàn): An idiom in Chinese meaning to be extremely scared, nervous, or terrified.
+A long while later, she spoke in her fairy-like, dreamlike voice once more, “At the very least, please do not try to manipulate a True God too soon. It is easy to burn yourself. To a High Priest, you are but an insignificant blade of grass or speck of dust. They don’t even need to use fire. A single spark is enough to burn you into irreversible ash.”
 
-2:
-Can only be big, not small (只可大, 不可小 - zhǐ kě dà, bù kě xiǎo): An idiomatic expression indicating that a matter is of great importance and cannot be downplayed, ignored, or handled lightly. It implies serious consequences if not treated with the gravity it deserves.
+“Don’t worry. I understand.”
 
-3:
-Flattering remark (拍马屁 - pāi mǎ pì): Literally "patting a horse's butt," this is a common Chinese idiom for flattery or sycophancy.
+Yun Che’s voice was packed with clearly discernible seriousness. “Allow me to emphasize again... and make you a promise, I suppose. I cherish my life a lot.”
 
-4:
-Refuse my ass (拒个屁 - jù ge pì): A very colloquial and somewhat rude expression used to strongly dismiss or reject an idea, often with indignation or disbelief. It conveys a sense of "no way!" or "that's ridiculous!"
+It was at this moment that the gentle breeze of the Pure Land suddenly came to a halt, and the world before Yun Che’s eyes dimmed a little. It wasn’t because light had suddenly diminished; it was because his senses had run into a sudden obstacle.
 
-5:
-Hit the jackpot (走了天大的狗屎运 - zǒu le tiān dà de gǒu shǐ yùn): Literally "stepped on a huge pile of dog shit luck," this is a vivid and common Chinese idiom for having incredibly good fortune or luck, often unexpectedly.
+When Yun Che looked up, he saw a row of figures passing through the sky.
 
-6:
-Fortune and misfortune are intertwined (福祸相依 - fú huò xiāng yī): A philosophical idiom meaning that good fortune and bad fortune are interdependent and often come together. What seems like a blessing might contain a hidden curse, and vice versa.
+It was the unique divine pressure of a Kingdom of God, but it was heavy and oppressive in a way that the Heaven Breaker Kingdom of God and Dreamweaver Kingdom of God could never be. Although they were far, far away, Yun Che could still tell at first glance that the group of a hundred were all women. A single name appeared in his mind in an instant.
 
-7:
-None of your damn business (关你屁事 - guān nǐ pì shì): A very rude and dismissive colloquial phrase meaning "none of your business" or "it has nothing to do with you."
-
-8:
-Zhang (丈 - zhàng): A traditional Chinese unit of length, approximately 3.33 meters or 10 feet. A "thousand zhang" would be roughly 3.33 kilometers or 2 miles.
-
-9:
-Keep your mind free from the dust of the world (意不入风尘 - yì bù rù fēng chén): An expression meaning to be detached from worldly concerns, desires, and distractions; to live a pure, unburdened, and often reclusive life. "Wind and dust" (风尘) often metaphorically refers to the mundane, corrupt, or distracting aspects of the world.
-
-10:
-Big show to watch (大热闹 - dà rè nao): Literally "big lively scene," this phrase implies a significant event, a big commotion, excitement, or a spectacle that will attract a lot of attention.
-
-11:
-Laugh at the stupa (笑浮屠 - xiào fú tú): "浮屠" (fú tú) can refer to a stupa (a Buddhist monument), a pagoda, or sometimes metaphorically to Buddhism or Buddhist monks. In this context, it's part of a poetic line. Yun Che is pondering its deeper meaning, especially in contrast to the other lines that convey a sense of detachment from the world.
-
-12:
-Laughing at the worldly dust (笑脾风尘 - xiào pí fēng chén): The original Chinese phrase "笑脾风尘" appears to be a slight variation or potential typo. Given the context of "意不入风尘" (mind not entering worldly dust) mentioned earlier and the theme of detachment, it is likely intended to be "笑看风尘" (xiào kàn fēng chén - laughing at/watching the worldly dust) or "笑对风尘" (xiào duì fēng chén - laughing in the face of worldly dust), conveying a similar meaning of detached amusement or disdain for worldly affairs.
-
-13:
-Eyes shimmering like flowing rosy clouds (眼波流霞 - yǎn bō liú xiá): A poetic and beautiful description of a woman's eyes, suggesting they are bright, expressive, and captivating, like the shimmering, colorful glow of sunset clouds.
-
-14:
-Playing with fire easily leads to self-immolation (玩火易自焚 - wán huǒ yì zì fén): A common Chinese idiom meaning that engaging in dangerous or risky behavior will inevitably lead to harm or destruction for oneself.
-
-Human Editors Notes:
-"Yuan Huang" to "Abyss Emperor"
+It was the name of the most unique, mysterious, and infamous Kingdom of God. It was the one Kingdom of God, Meng Kongchan, Hua Caili, and Hua Qingying all warned him to stay away from: The Eternal Night Kingdom of God!
