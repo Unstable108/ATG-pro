@@ -1,6 +1,4 @@
----
 
-```md
 # 📚 Against the God  — Lightning-Fast Web Novel Reader (Next.js)
 
 ATG-Pro is a **high-performance, mobile-optimized web novel reader** built using **Next.js + GitHub-based chapter storage**. It delivers a smooth, app-like reading experience with chapter navigation, bookmarks, reader customization, and lightning-fast statically generated pages.
@@ -196,7 +194,3 @@ MIT — free to modify and build upon.
 
 ---
 
-```
-
-
-```
