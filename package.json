@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@upstash/redis": "^1.35.6",
     "formidable": "^3.5.4",
     "gray-matter": "^4.0.3",
     "next": "^13.5.0",

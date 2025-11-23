@@ -127,12 +127,39 @@ export default function Chapter({
     } catch (e) {}
   }
 
+  // --- analytics: small helper to track clicks
+  function trackClick(event, path, meta) {
+    if (typeof window === "undefined") return;
+    fetch("/api/track", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ event, path, meta }),
+    }).catch(() => {});
+  }
+
   // helper for client-side navigation: scroll to top after pushing route
   function navTo(slug) {
     router.push(`/chapters/${slug}`).then(() => {
       if (typeof window !== "undefined")
         window.scrollTo({ top: 0, behavior: "smooth" });
     });
+  }
+
+  // --- analytics: wrappers for tracked nav actions
+  function handlePrev() {
+    if (!prevSlug) return;
+    trackClick("prev_click", `/chapters/${prevSlug}`, {
+      fromChapter: chapter.slug,
+    });
+    navTo(prevSlug);
+  }
+
+  function handleNext() {
+    if (!nextSlug) return;
+    trackClick("next_click", `/chapters/${nextSlug}`, {
+      fromChapter: chapter.slug,
+    });
+    navTo(nextSlug);
   }
 
   return (
@@ -167,7 +194,7 @@ export default function Chapter({
           <div className="flex items-center justify-center gap-4 mb-4">
             {prevSlug ? (
               <button
-                onClick={() => navTo(prevSlug)}
+                onClick={handlePrev} // --- analytics: tracked
                 className="px-3 py-2 rounded border btn"
               >
                 ← Prev
@@ -179,7 +206,7 @@ export default function Chapter({
             )}
             {nextSlug ? (
               <button
-                onClick={() => navTo(nextSlug)}
+                onClick={handleNext} // --- analytics: tracked
                 className="px-3 py-2 rounded border btn"
               >
                 Next →
@@ -210,7 +237,7 @@ export default function Chapter({
             <div className="flex items-center justify-center gap-6">
               {prevSlug ? (
                 <button
-                  onClick={() => navTo(prevSlug)}
+                  onClick={handlePrev} // --- analytics: tracked
                   className="px-4 py-2 rounded border btn"
                 >
                   ← Previous Chapter
@@ -223,7 +250,7 @@ export default function Chapter({
 
               {nextSlug ? (
                 <button
-                  onClick={() => navTo(nextSlug)}
+                  onClick={handleNext} // --- analytics: tracked
                   className="px-4 py-2 rounded border btn"
                 >
                   Next Chapter →
@@ -237,7 +264,9 @@ export default function Chapter({
 
             <div className="mt-3">
               <button
-                onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
+                onClick={() =>
+                  window.scrollTo({ top: 0, behavior: "smooth" })
+                }
                 className="text-sm underline"
               >
                 Jump to top
@@ -258,9 +287,7 @@ export async function getStaticPaths() {
 
 export async function getStaticProps({ params }) {
   const chapter = getChapterBySlug(params.slug);
-  const processed = await remark()
-    .use(html)
-    .process(chapter.content || "");
+  const processed = await remark().use(html).process(chapter.content || "");
   const chapterHtml = processed.toString();
   const allChapters = getAllChapters().map((c) => ({
     slug: c.slug,
