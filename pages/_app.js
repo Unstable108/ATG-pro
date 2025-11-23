@@ -1,4 +1,5 @@
 // pages/_app.js
+import { Analytics } from '@vercel/analytics/react'
 import Head from 'next/head'
 import '../styles/globals.css'
 import { useEffect } from 'react'
@@ -93,6 +94,7 @@ export default function App({ Component, pageProps }) {
         />
       </Head>
       <Component {...pageProps} />
+      <Analytics /> 
     </>
   )
 }
