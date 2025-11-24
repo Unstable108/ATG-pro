@@ -7,6 +7,7 @@ import { getAllChapters } from "../lib/chapters";
 import fs from "fs";
 import path from "path";
 import { useEffect, useState } from "react";
+import Head from "next/head";
 
 export default function Home({ novel, chapters }) {
   const latest = [...chapters].slice(-2).reverse(); // latest 2, newest first
@@ -14,10 +15,10 @@ export default function Home({ novel, chapters }) {
   // Client-side state for continue reading
   const [continueItem, setContinueItem] = useState(null);
 
-  // NEW: sort order state (true = ascending, false = descending)
+  // sort order state (true = ascending, false = descending)
   const [sortAsc, setSortAsc] = useState(true);
 
-  // NEW: derive sorted chapters for the "All Chapters" list
+  // derive sorted chapters for the "All Chapters" list
   const sortedChapters = [...chapters].sort((a, b) => {
     const aNum = Number(a.chapterNumber) || 0;
     const bNum = Number(b.chapterNumber) || 0;
@@ -57,8 +58,71 @@ export default function Home({ novel, chapters }) {
     }
   }, [chapters]);
 
+  // --- SEO bits ---
+  const siteUrl =
+    (typeof window === "undefined"
+      ? process.env.NEXT_PUBLIC_SITE_URL
+      : window.location.origin) || "http://localhost:3000";
+
+  const siteTitle = novel?.title || "Against The Gods";
+  const metaTitle = `${siteTitle} Webnovel | Read Latest Chapters Online`;
+  const metaDesc =
+    novel?.description ||
+    `${siteTitle} webnovel – read the latest translated chapters of Against The Gods online, including high chapter numbers and recent releases.`;
+
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebSite",
+        "@id": `${siteUrl}#website`,
+        url: siteUrl,
+        name: siteTitle,
+        potentialAction: {
+          "@type": "SearchAction",
+          target: `${siteUrl}/search?q={search_term_string}`,
+          "query-input": "required name=search_term_string",
+        },
+      },
+      {
+        "@type": "Book",
+        "@id": `${siteUrl}#book`,
+        name: siteTitle,
+        url: siteUrl,
+        author: {
+          "@type": "Person",
+          name: novel?.author || "Author",
+        },
+        image: novel?.cover ? `${siteUrl}${novel.cover}` : undefined,
+        description: novel?.description || metaDesc,
+      },
+    ],
+  };
+
   return (
     <div className="min-h-screen bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100">
+      <Head>
+        <title>{metaTitle}</title>
+        <meta name="description" content={metaDesc} />
+        <meta
+          name="keywords"
+          content="Against the Gods, ATG, webnovel, latest chapter, Against the Gods chapter list, Against the Gods English translation"
+        />
+        <meta property="og:title" content={metaTitle} />
+        <meta property="og:description" content={metaDesc} />
+        {novel?.cover && (
+          <meta property="og:image" content={`${siteUrl}${novel.cover}`} />
+        )}
+        <meta property="og:url" content={siteUrl} />
+        <meta name="twitter:card" content="summary_large_image" />
+        <meta name="robots" content="index,follow" />
+
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
+        />
+      </Head>
+
       <TopBar onOpenChapters={() => {}} />
 
       <main className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -72,6 +136,7 @@ export default function Home({ novel, chapters }) {
                 width={640}
                 height={900}
                 style={{ width: "100%", height: "auto" }}
+                priority
               />
             </div>
 
@@ -186,8 +251,8 @@ export default function Home({ novel, chapters }) {
                     {ch.title || `Chapter ${ch.chapterNumber}`}
                   </div>
                   <div className="mt-2 text-xs text-gray-500 line-clamp-3">
-                    {(ch.content || "").slice(0, 160)}
-                    {(ch.content || "").length > 160 ? "..." : ""}
+                    {(ch.excerpt || "").slice(0, 160)}
+                    {(ch.excerpt || "").length > 160 ? "..." : ""}
                   </div>
                 </Link>
                 <div className="mt-3">
@@ -205,7 +270,6 @@ export default function Home({ novel, chapters }) {
 
         {/* CHAPTER LIST */}
         <section>
-          {/* NEW: header + sort toggle on opposite corner */}
           <div className="flex items-center justify-between mb-4">
             <h2 className="text-xl font-semibold">All Chapters</h2>
             <button
@@ -232,8 +296,8 @@ export default function Home({ novel, chapters }) {
                       {ch.title ? ` — ${ch.title}` : ""}
                     </div>
                     <div className="text-sm text-gray-500 mt-1">
-                      {(ch.content || "").slice(0, 140)}
-                      {(ch.content || "").length > 140 ? "..." : ""}
+                      {(ch.excerpt || "").slice(0, 140)}
+                      {(ch.excerpt || "").length > 140 ? "..." : ""}
                     </div>
                   </Link>
                 </div>
@@ -256,9 +320,9 @@ export default function Home({ novel, chapters }) {
 
 export async function getStaticProps() {
   let novel = {
-    title: "My Novel",
+    title: "Against The Gods",
     subtitle: "",
-    cover: "/covers/cover.jpg",
+    cover: "/covers/against-the-gods-novel.jpg",
     author: "Author",
     description: "",
     longDescription: "",
@@ -273,11 +337,13 @@ export async function getStaticProps() {
     console.error("Failed to read novel.json", e);
   }
 
+  // IMPORTANT: only send a short excerpt, not full content
   const chapters = getAllChapters().map((c) => ({
     slug: c.slug,
     chapterNumber: c.chapterNumber,
     title: c.title,
-    content: c.content,
+    excerpt: (c.content || "").slice(0, 400),
   }));
+
   return { props: { novel, chapters } };
 }

@@ -16,6 +16,7 @@ export default function Chapter({
   allChapters,
   prevSlug,
   nextSlug,
+  novel,
 }) {
   const [bookmarked, setBookmarked] = useState(false);
   const [chapOpen, setChapOpen] = useState(false);
@@ -26,6 +27,7 @@ export default function Chapter({
   const [chromeHidden, setChromeHidden] = useState(false);
   const lastScrollYRef = useRef(0);
 
+  // load bookmarked state
   useEffect(() => {
     try {
       const raw =
@@ -38,8 +40,8 @@ export default function Chapter({
     } catch (e) {}
   }, [chapter.slug]);
 
+  // restore scroll position for this chapter
   useEffect(() => {
-    // restore scroll position for this chapter
     try {
       const key = `progress:${chapter.slug}`;
       const raw = localStorage.getItem(key);
@@ -70,6 +72,8 @@ export default function Chapter({
       } catch (e) {}
     }
     window.addEventListener("scroll", onScroll, { passive: true });
+    // set initial bar width
+    onScroll();
     return () => window.removeEventListener("scroll", onScroll);
   }, [chapter.slug]);
 
@@ -162,8 +166,75 @@ export default function Chapter({
     navTo(nextSlug);
   }
 
+  // ---------------- SEO bits ----------------
+  const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "";
+  const canonicalPath = `/chapters/${chapter.slug}`;
+  const fullUrl = `${siteUrl}${canonicalPath}`;
+
+  const baseTitle = novel?.title || "Against The Gods";
+  const metaTitle = `${baseTitle} - Chapter ${
+    chapter.chapterNumber
+  }${chapter.title ? `: ${chapter.title}` : ""} | Webnovel Reader`;
+
+  const excerpt =
+    (chapter.excerpt && chapter.excerpt.slice(0, 155)) ||
+    (chapterHtml
+      ? chapterHtml.replace(/<[^>]+>/g, "").slice(0, 155)
+      : novel?.description || "");
+
+  const structuredData = {
+    "@context": "https://schema.org",
+    "@type": "Chapter",
+    "@id": `${fullUrl}#chapter`,
+    url: fullUrl,
+    name: `${baseTitle} - Chapter ${chapter.chapterNumber}${
+      chapter.title ? `: ${chapter.title}` : ""
+    }`,
+    position: chapter.chapterNumber,
+    description: excerpt,
+    isPartOf: {
+      "@type": "Book",
+      "@id": `${siteUrl}#book`,
+      name: baseTitle,
+    },
+    author: {
+      "@type": "Person",
+      name: novel?.author || "Author",
+    },
+  };
+  // ------------------------------------------
+
   return (
     <div className="min-h-screen">
+      <Head>
+        <title>{metaTitle}</title>
+        <meta name="description" content={excerpt} />
+        <meta
+          name="keywords"
+          content={`Against the Gods chapter ${chapter.chapterNumber}, ATG chapter ${chapter.chapterNumber}, ${baseTitle} latest chapter, ${baseTitle} webnovel`}
+        />
+
+        <meta property="og:title" content={metaTitle} />
+        <meta property="og:description" content={excerpt} />
+        {novel?.cover && (
+          <meta property="og:image" content={novel.cover} />
+        )}
+        <meta property="og:type" content="article" />
+        <meta property="og:url" content={fullUrl} />
+
+        <meta name="twitter:card" content="summary_large_image" />
+
+        <link rel="canonical" href={fullUrl} />
+
+        <script
+          type="application/ld+json"
+          // safe because it's just structured data
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(structuredData),
+          }}
+        />
+      </Head>
+
       <div id="read-progress-bar" className="read-progress-bar" />
 
       <TopBar
@@ -182,7 +253,13 @@ export default function Chapter({
         <main className="flex-1">
           {/* Chapter header */}
           <div className="chapter-meta">
-            <div className="novel-title">Against The Gods</div>
+            {/* NOVEL TITLE AS LINK TO HOMEPAGE */}
+            <div className="novel-title">
+              <Link href="/" className="hover:underline font-semibold">
+                {novel?.title || "Against The God"}
+              </Link>
+            </div>
+
             <div className="chapter-title">
               Chapter {chapter.chapterNumber}
               {chapter.title ? ` — ${chapter.title}` : ""}
@@ -289,16 +366,42 @@ export async function getStaticProps({ params }) {
   const chapter = getChapterBySlug(params.slug);
   const processed = await remark().use(html).process(chapter.content || "");
   const chapterHtml = processed.toString();
+
   const allChapters = getAllChapters().map((c) => ({
     slug: c.slug,
     chapterNumber: c.chapterNumber,
     title: c.title,
     content: c.content,
   }));
+
   const idx = allChapters.findIndex((c) => c.slug === chapter.slug);
   let prevSlug = null,
     nextSlug = null;
   if (idx > 0) prevSlug = allChapters[idx - 1].slug;
   if (idx < allChapters.length - 1) nextSlug = allChapters[idx + 1].slug;
-  return { props: { chapterHtml, chapter, allChapters, prevSlug, nextSlug } };
+
+  // SERVER-ONLY: load novel.json using fs/path
+  let novel = {
+    title: "Against The God",
+    subtitle: "",
+    cover: "/covers/against-the-gods-novel.jpg",
+    author: "Author",
+    description: "",
+    longDescription: "",
+  };
+  try {
+    const fs = require("fs");
+    const path = require("path");
+    const file = path.join(process.cwd(), "content", "novel.json");
+    if (fs.existsSync(file)) {
+      const raw = fs.readFileSync(file, "utf8");
+      novel = JSON.parse(raw);
+    }
+  } catch (e) {
+    // ignore
+  }
+
+  return {
+    props: { chapterHtml, chapter, allChapters, prevSlug, nextSlug, novel },
+  };
 }

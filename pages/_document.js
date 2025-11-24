@@ -5,6 +5,9 @@ export default function Document() {
   return (
     <Html>
       <Head>
+        <link rel="icon" href="/favicon.ico" sizes="any" />
+        <link rel="icon" type="image/png" href="/favicon.png" />
+        <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         {/* Load Open Sans from Google Fonts */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link
