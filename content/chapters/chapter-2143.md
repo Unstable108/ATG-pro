@@ -1,149 +1,164 @@
 ---
 chapterNumber: 2143
-title: "God's Daughter showdown"
+title: "Showdown of the Divine Daughters"
 publishedAt: "2025-11-19"
 ---
 
-"Your thoughts are in turmoil..." Li Suo's reminder came.
-
-"Mm."
-
-Yun Che did not deny it. "I can't help but wonder what happened to her during all these years in the Abyss."
-
-Li Suo sighed softly. "I know too little about her. But regarding the Daughter of Glazed Glass... as I said before, although she can conjure Glazed Glass Ice, she completely lacks the limpid aura a Daughter of Glazed Glass should possess. At the very least, the Daughters of Glazed Glass I have known would never exhibit an emotion like 'indifference'."
-
-"However, these abnormalities are not something we can find answers to by investigating now. Moreover... a flicker of killing intent arose in you just now, and Meng Kongchan was right beside you. If everyone's attention hadn't been focused on Shen Wuyi and Shen Wuyanye, it's highly likely he would have noticed... This is the first time you've made such a lapse since entering the Abyss."
-
-"Don't worry," Yun Che said. "Even if it were discovered, I have plenty of excuses to explain it away."
-
-At this, he calmed his emotions once more, no longer trying to argue or make excuses. He admitted, "Alright, you're right. I was indeed a bit... unseemly today."
-
-"Not unseemly. On the contrary, the you of today is more like Yun Che, rather than the 'Emperor Yun' you force yourself to be countless times every day."
-
-Li Suo's voice was as gentle as an immortal's cloud, no different from usual, yet it left Yun Che stunned for a moment before he shook his head and chuckled.
-
-"Those are certainly heartwarming words, probably very effective for coaxing a girl new to the world. A pity... with the burdens I carry, indulging in my own feelings in this world is an unforgivable sin. I will be more vigilant."
-
-Li Suo fell silent for a long while before speaking again. "There is one more thing I must remind you of. While you were gazing at Shen Wuyi, Hua Caili was gazing at you."
-
-Yun Che's heart skipped a beat... Damn it! No matter how much he admonished himself or fortified his mental defenses, he was not a soulless Abyssal Beast. In this world, there were always things that could create a breach in his willpower... such as Xia Qingyue. Fortunately, Hua Caili's disposition was exceedingly simple. To Yun Che, she was one of the easiest types of people to handle in the Abyss.
-
-He closed his eyes for a moment, as if pondering something, then suddenly opened them. His gaze, as if by instinct, turned first toward Hua Caili, meeting hers at that exact moment. A faint, hazy mist seemed to veil her eyes, reflecting a young girl's chaotic, unspoken emotions and hesitation. Yun Che blinked, the corners of his lips tilting up ever so slightly. Then, his gaze shifted away naturally, moving toward Dian Jiuzhi.
-
-That single, fleeting glance and faint smile were enough to involuntarily disperse the turbulent currents coiling in Hua Caili's heart. The icy mist in her beautiful eyes melted away, returning them to their flawless, starry brilliance.
-
-Hua Qingying, who had been sensing the changes in Hua Caili's emotions, turned her lovely eyes and said softly, "The abnormalities Shen Wuyi has displayed are far too shocking. Neither your Royal Father nor I could help but be shaken. It is perfectly normal for Yun Che to fix his gaze on her. There is no need to be so sensitive or concerned."
-
-Caught off guard, Hua Caili's snowy face flushed with embarrassment. She quickly retorted, "Th-that's not it! I... I know best how Big Brother Yun feels about me. I wasn't concerned at all. Auntie, you're talking nonsense."
-
-"...It seems my senses were mistaken."
-
-"They were!"
-
+"Your state of mind is already in turmoil..." Li Suo issued a reminder.
+ 
+"Mn."
+ 
+Yun Che did not deny it. "I cannot help but wonder exactly what has happened to her during these years in the Abyss."
+ 
+Li Suo sighed lightly. "I know too little about her. But regarding the Glazed Glass Woman... as I stated previously, although she can condense Glazed Glass Ice, she is completely devoid of the crystalline aura that a Glazed Glass Woman ought to possess. At the very least, the Glazed Glass Women in my memories would never possess an emotion such as 'indifference'."
+ 
+"But these anomalies are not answers that can be found by probing at this moment. Moreover... you just gave rise to a flicker of killing intent, and Meng Kongchan was right beside you. If not for everyone's attention being concentrated on Shenwu Yi and Shenwu Yanye, there is a high probability he would have sensed it... Since entering the Abyss, this is the first time you have shown such a lapse."
+ 
+"Rest assured," Yun Che said. "Even if I were discovered, I have a multitude of excuses I can use to smooth it over."
+ 
+Speaking to this point, he once again calmed his state of mind, no longer attempting to argue forcefully or make up justifications, and admitted, "Alright, you are right. Today, I was indeed somewhat... disgraceful."
+ 
+"Not disgraceful. On the contrary, the 'you' of today is more like Yun Che, rather than the 'Emperor Yun' whom you must forcefully remind yourself to be countless times every day."
+ 
+Li Suo's voice remained as soft as celestial clouds, no different from usual, yet it caused Yun Che to be briefly stunned, followed by a shake of his head and a helpless laugh.
+ 
+"Your words are actually quite heartwarming; they should be very effective for coaxing a young woman who has not yet stepped deeply into the world. What a pity... given what I shoulder, to indulge in my true self in this world is an unforgivable, capital sin. I will be more introspective."
+ 
+Li Suo fell silent for a good while before speaking again. "There is one more matter I need to remind you of. While you were gazing at Shenwu Yi, Hua Caili has been gazing at you."
+ 
+Yun Che's heart missed a beat... *Bad!*
+ 
+No matter how repeatedly Yun Che introspected, no matter how firmly he guarded the defenses of his heart, he was ultimately not a soulless Abyssal Beast. In this world, there were always things that could cause a void to appear in his will... such as Xia Qingyue.
+ 
+But fortunately, Hua Caili's disposition was far too pure. To Yun Che, she was the easiest sort of person to handle in the Abyss.
+ 
+He closed his eyes for a brief moment, seemingly pondering something, and then suddenly opened them. His line of sight immediately—as if by instinct—turned toward Hua Caili's location, colliding exactly with her gaze.
+ 
+Hua Caili's eyes were veiled in a faint, hazy mist, refracting the young girl's chaotic, unspeakable emotions and hesitation.
+ 
+Yun Che blinked slightly, and the corners of his mouth tilted upward ever so faintly. Then, his line of sight naturally shifted away, looking toward the direction of Dian Jiuzhi.
+ 
+It was only a fleeting glance and a shallow smile, yet it caused the tumultuous currents winding through Hua Caili's heart to involuntarily disperse. The icy mist within her beautiful eyes melted away, returning them to the flawlessness of bright stars.
+ 
+Hua Qingying, who had been perceiving the changes in Hua Caili's mood the whole time, turned her beautiful eyes and only then whispered, "The anomalies Shenwu Yi presented are too shocking to the world. Neither I nor your Father God could keep our hearts from trembling. That Yun Che would fix his eyes upon her is truly as normal as can be; there is no need to be so sensitive or mindful of it."
+ 
+Caught off guard and having her thoughts exposed, Hua Caili's snowy face flushed slightly, and she hurriedly refuted, "Wh... What? Big Brother Yun treats me... I know best, I didn't take it to heart or anything. Auntie, you're speaking nonsense."
+ 
+"...It seems my perception was in error."
+ 
+"Exactly!"
+ 
 "..."
-
-Beside them, Hua Fuchen shook his head with a helpless smile. The corner of his eye caught sight of Dian Luohou dispelling the cold energy for Dian Jiuzhi, and he sighed inwardly again.
-
-As the foremost God-Venerate of the Six God Kingdoms, Dian Luohou's Samsara¹ power was immensely formidable. The cold energy on Dian Jiuzhi's body had already been completely dispelled. Though his face was still a bit pale, he had managed to recover his ability to move. With Dian Jiuzhi's cultivation, it wouldn't take long for his frostbitten body to heal, but Dian Sansi was still supporting him carefully.
-
-Just then, Dian Sansi suddenly felt a gaze pierce him like a needle. This gaze made no attempt to hide its aggression; in fact, it didn't mind at all... rather, it seemed intentional that he should notice it. As the second strongest of the Samsara God Kingdom's younger generation, second only to Dian Jiuzhi, how could Dian Sansi tolerate such a provocation? His eyes sharpened instantly, and he shot a glare back toward the source, his gaze colliding with Yun Che's in mid-air.
-
-Yun Che narrowed his eyes slightly, the corner of his mouth twitching almost imperceptibly, before he casually looked away.
-
-Dian Sansi's hands suddenly clenched... He had clearly seen the mockery in Yun Che's eyes and, even more clearly, the words his lips formed in silence: Useless... trash...
-
-Dian Jiuzhi, still weak from his injuries, felt a sharp pain from Dian Sansi's tightening grip. He turned his head and asked, "Sansi, what's wrong?"
-
-Dian Sansi hastily loosened his fingers and forced a smile. "It's nothing. It's just... I just... can't accept this."
-
-As he spoke the last few words, he couldn't stop himself from gritting his teeth.
-
-Dian Jiuzhi, however, thought Dian Sansi was referring to his defeat. He smiled and comforted him, "When your skills are inferior, you must accept defeat. As for the insults... that was the Unnamed God-Venerate. Pay her no mind."
-
-Dian Sansi opened his mouth... On the Pure Land, before the Abyssal Emperor, with all the God-Venerates present, he could not explain. But that heart-stabbing gaze fell upon him once more.
-
-Dian Sansi's eyes filled with fury as he stared straight at Yun Che. But faced with his terrifying glare, Yun Che was neither startled nor afraid. Instead, the curve of his lips widened... Though no words were spoken, the disdain, mockery, and contempt crashed into the depths of his soul like a surging tide.
-
-Look, I stole Hua Caili, the one betrothed to Dian Jiuzhi, and he doesn't even dare to act out... Useless trash!
-
-Look, the so-called number one God-Child was beaten into a "frozen dead dog"... Useless trash!
-
-Look, you know everything, yet you don't even dare to let out a fart... Useless trash!
-
-The number one God-Child, hahahaha... In my eyes, you're just a massive joke! The biggest coward in the God Kingdoms!
-
-You're seething with impotent rage... Oh, but trash like you is only capable of impotent rage! You're worse than a stray dog that can at least still bark!
-
-...Darkness swam before Dian Sansi's eyes. Though it was only a momentary exchange of glances, the look from Yun Che was too soul-piercing, too derisive... It wasn't even the look of someone gazing down on the weak, but more like pity for a pathetic, miserable bug... The fire of hatred that had always been coiled in his heart, suppressed with nearly all his willpower, was agitated to the brink of boiling over once more.
-
-"Hm?" Dian Luohou suddenly turned his head, his gaze falling on Dian Sansi, whose aura was clearly in disarray.
-
-Dian Sansi took a deep breath and lowered his head. "Royal Father, no one has ever dared to humiliate Brother Jiuzhi like this. I... I really..."
-
-Dian Luohou looked away and said in a deep voice, "The defeated should have the awareness of the defeated. If you cannot accept it, then use it as motivation and repay it tenfold in the future. As for that madwoman from Eternal Night, ignore her."
-
-Dian Sansi acknowledged him, then kept his head bowed for a long time without another word, his jaw clenched so tightly it could not relax.
-
-Why... On what grounds... My Samsara God Kingdom is clearly the strongest... Even though Brother Jiuzhi was defeated, he was once the number one God-Child... He did nothing wrong... He was the one being tolerant, the one enduring, the one considering the bigger picture... That was a betrothal personally bestowed by the Abyssal Emperor... The fault clearly lies with Yun Che, with Hua Caili, with the Dream-Weaving and Heaven-Rending God Kingdoms... Why is it Brother Jiuzhi, why is it us who must suffer this humiliation...
-
-Crrk... crrk... He could faintly hear the sound of his own teeth cracking.
-
-At this moment, Shen Wuyi's figure had returned to the center of the barrier, but for a long time, no one challenged her.
-
-Her eyes, like tranquil pools in the darkest night, fell directly upon the Dream-Weaving God Kingdom.
-
-"Dream-Weaving God-Child, Meng Jianxi, please enlighten me."
-
-As expected, Meng Jianxi was neither surprised nor flustered. He took a step forward and announced frankly, "Though I have always considered myself extraordinary, in a battle between peers, I am no match for the Samsara God-Child. Thus, I am even less likely to be a match for the Eternal Night Divine Maiden."
-
-"Therefore, I can only shamelessly admit defeat."
-
-Meng Jianxi's response truly surprised no one. That unsolvable Exquisite Profound Realm, that perception-shattering, bizarre ice... not fighting was the most rational choice, and not one that would invite ridicule.
-
-"Hahahahaha!"
-
-That ear-piercing laughter rang out, just as expected. "Is this the God-Child of the Dream-Weaving God Kingdom? He doesn't even have the guts to accept a challenge. Are you all prepared to hand the next generation of your God Kingdoms over to this bunch of useless trash?"
-
-Meng Kongchan spoke coolly, "For a God-Venerate to publicly utter such humiliating words to a junior, one must say... you truly live up to your title as the Unnamed God-Venerate! With your guidance, the Eternal Night God Kingdom must surely be flourishing and prosperous, a source of pride for all its people."
-
-Shen Wuyanye sneered. "A God Kingdom whose very dreams are rotten and foul, a successor who doesn't even dare to fight. Your Dream-Weaving God Kingdom is destined only to grovel at the feet of my Eternal Night. What right do you have to comment on my God Kingdom!"
-
-Meng Kongchan gave a faint, cold snort and did not reply, showing no anger whatsoever.
-
-With Meng Jianxi choosing to forfeit directly, the only God Kingdom that had not yet entered the field was Heaven-Rending. Just as everyone thought Hua Caili would also choose to avoid the battle, a beautiful white light streaked across the air. The young woman's figure had already landed gracefully within the barrier, directly facing Shen Wuyi.
-
-"..." Hua Fuchen subconsciously raised a hand.
-
-"Let her try," Hua Qingying said calmly. "Caili's sword is enough to deal with the Exquisite Profound Realm."
-
-Hua Fuchen frowned slightly, then, as if suddenly realizing something, his eyes revealed an undisguisable shock. "You mean, Caili... she..."
-
-Meeting Hua Fuchen's clearly turbulent gaze, Hua Qingying nodded slightly. "This was the surprise she had prepared for you, and the trump card she painstakingly practiced to earn a reward from the Abyssal Emperor."
-
-She suddenly let out a soft sigh, looking at the two in the barrier with a touch of melancholy. "She was originally almost certain she could defeat a Dian Jiuzhi of the same realm. She just never expected such a dazzling and bizarre Eternal Night Divine Maiden to appear. Caili is already fated not to get her wish."
-
-"Since she is fated not to get her wish, why still..." Hua Fuchen stopped mid-sentence, understanding dawning on him. He sighed, half amused and half helpless. "In the end, it is still the whim of a young girl."
-
-"Heaven-Rending Divine Maiden, Hua Caili. It is a pleasure to meet you. Please enlighten me!"
-
-In the center of the barrier, the two women stood a hundred paces apart. Before a single move was made, the entire audience held its breath, mesmerized. Even the gentle breeze and thin clouds seemed to pause for them.
-
-Shen Wuyi was clad in ink-black robes, a cold mist seeming to linger around the hems as they fell. Her battle with Dian Jiuzhi had left her hair slightly disheveled, a few strands falling beside her cheeks, which only served to accentuate the jade-white translucence of her exquisite face.
-
-Her eyes were like frozen pools, beautiful as an immortal's dream, yet devoid of any gentle charm, holding only a distancing indifference. The Glazed Glass Ice aura circulating slowly around her bestowed upon her a halo of sacred, aloof light, making her seem like a goddess of ice and snow descended from the nine heavens—beautiful in her sharp, solitary pride.
-
-Hua Caili wore the snow-white cloud robes unique to the Heaven-Rending Divine Maiden. Embroidered upon her skirt were seven distinctly different sword radiances, interwoven with complex and magnificent divine star patterns: Dubhe, Merak, Phecda, Megrez, Alioth, Mizar, and Alkaid... The seven stars of the Dipper shone together, symbolizing not only the adoration of the Seven Heaven-Rending Sword-Venerates, but also their eternally present protection. As she moved, her skirt swayed, instantly resembling a cascading river of stars, shimmering with brilliant light.
-
-Her beauty was a heaven-sent treasure, long famed throughout the Abyss and known to all. Her skin was as fair and smooth as fine jade, her cheeks naturally blushed with a faint rosy hue, as if untouched by the Abyssal dust of the Fog Sea or the vanities of the mortal world. Her brows were slender and curved like a rising crescent moon, and her beautiful eyes still reflected the brightest stars of the Abyss, carrying with them the fragile purity unique to a young maiden.
-
-Two peerlessly beautiful women, each with a completely different temperament, appeared in the same frame. It was a magnificent tableau that no one in the Six God Kingdoms had ever been fortunate enough to witness.
-
-Outside the barrier, some stared blankly, others were lost in a daze, and some struggled to maintain their composure... but the sound of their collective breathing was almost inaudibly low. Every pair of eyes seemed to have forgotten how to reflect the light, as if the world atop the Eden Cloud Summit had suddenly lost all its color.
-
-AI Translation Notes:
-1:
-Samsara (森罗 - Sēnluó): The original term means "all-encompassing" or "myriad things," often used in Buddhist contexts to describe the vastness of the universe or the cycle of reincarnation (samsara). "Samsara" is chosen here to maintain consistency with established translations for this series and to give the God Kingdom a suitably grand and profound name.
-
-2:
-
-Dubhe, Merak, Phecda, Megrez, Alioth, Mizar, and Alkaid (天枢、天璇、天玑、天权、玉衡、开阳、摇光 - Tiānshū, Tiānxuán, Tiānjī, Tiānquán, Yùhéng, Kāiyáng, Yáoguāng): These are the Chinese names for the seven stars of the Big Dipper constellation. The English translation uses their internationally recognized astronomical names to convey the celestial theme.
+ 
+Beside them, Hua Fuchen shook his head with a suppressed laugh. The corner of his eye caught sight of Dian Luohou, who was currently dispelling the cold energy for Dian Jiuzhi, and he sighed inwardly once more.
+ 
+As the Foremost Divine Regent of the six Kingdoms of God, Dian Luohou's Boundless power was incredibly mighty. At this moment, the cold energy on Dian Jiuzhi's body had been fully dispelled. Although his face was still somewhat pale, he had barely managed to recover his ability to move. With Dian Jiuzhi's cultivation, it would not take too long to recover his frostbitten body, but right now he was still being carefully supported by Dian Sansi.
+ 
+And just then, Dian Sansi suddenly felt a line of sight stabbing toward him like a needle. This gaze did not conceal its aggression in the slightest, and furthermore, it did not mind at all... or rather, it should be said that it deliberately wanted him to notice.
+ 
+As the second strongest of the Boundless Kingdom of God's younger generation, second only to Dian Jiuzhi, how could Dian Sansi tolerate such provocation? His gaze instantly turned sharp, shooting back along the source of the stare, colliding with Yun Che's gaze in mid-air.
+ 
+Yun Che narrowed his eyes slightly, and the corners of his mouth moved almost imperceptibly. Then, he very lackadaisically shifted his gaze away.
+ 
+Dian Sansi's hands abruptly tightened... He saw the mockery in Yun Che's eyes clearly, and even more clearly saw the words his mouth formed without sound: *Tra... sh...*
+ 
+Dian Jiuzhi was currently frail after his injury and felt intense pain from Dian Sansi's fingers tightening their grip. He looked sideways and asked, "Sansi, what is it?"
+ 
+Dian Sansi hurriedly loosened his fingers and forced a smile. "Nothing, just... just... I am truly unwilling to accept this."
+ 
+Speaking the last few words, he was already unable to control the gritting of his teeth.
+ 
+Dian Jiuzhi, however, thought that what Dian Sansi was unwilling to accept was his defeat. Instead, he smiled and comforted him, "My skill was inferior to others, so I should accept this defeat. As for the verbal insults... that was the Lightless Divine Regent. There is no need to take it to heart."
+ 
+Dian Sansi opened his mouth... Upon the Pure Land, before the Abyssal Monarch, with all the Regents present, he could not explain.
+ 
+But that heart-stabbing gaze assaulted him once again.
+ 
+Dian Sansi's eyes condensed with hostility, his gaze shooting straight at Yun Che. But facing this terrifying stare, Yun Che was not only not startled or afraid, but the corners of his mouth actually split open into a wider arc... Although there was no sound and no words, that contempt, ridicule, and disdain... blasted straight into the depths of his soul like a surging tide.
+ 
+*Look, I snatched Hua Caili who had a marriage contract with Dian Jiuzhi, yet Dian Jiuzhi doesn't even dare to flare up... Trash!*
+ 
+*Look, the so-called Foremost Divine Son was beaten into a 'frozen dead dog'... Trash!*
+ 
+*Look, you who know everything, yet you don't even dare to let out a fart... Trash!*
+ 
+*The Foremost Divine Son, hahahaha... in my eyes, he is just a colossal joke! The number one spineless wretch of the Kingdoms of God!*
+ 
+*You are raging incompetently... Oh, trash like you, like all of you, can only seethe in impotent rage! You aren't even as good as a wild dog that can still bark!*
+ 
+...Bursts of darkness blackened Dian Sansi's vision.
+ 
+Although it was only a moment of eye contact, that gaze coming from Yun Che was simply too piercing to the soul, too mocking... It wasn't even a gaze looking down on a weakling, but more like pitying a sorrowful, pathetic bedbug... The fire of hatred that had always been coiled in his heart, which he had nearly exhausted his entire will to firmly suppress, was agitated to the point of almost boiling over again.
+ 
+"Mn?" Dian Luohou suddenly looked sideways, glancing at Dian Sansi whose aura was obviously disordered.
+ 
+Dian Sansi took a massive breath of air and lowered his head. "Father God, there has never been anyone who dared to humiliate Brother Jiuzhi like this. I... I truly..."
+ 
+Dian Luohou withdrew his gaze and said in a deep voice, "The defeated should possess the self-awareness of the defeated. If you are unwilling, then take this as encouragement to repay it tenfold in the future. As for that madwoman from Eternal Night, there is no need to pay her any heed."
+ 
+Dian Sansi gave an affirmative response, then kept his head lowered for a long time, speaking no further. Only his jaw was clenched deadly tight, unable to relax.
+ 
+*Why... on what grounds... My Boundless Kingdom of God is clearly the strongest Kingdom of God... Even though Brother Jiuzhi was defeated, he was once the Foremost Divine Son... He clearly has no faults... Clearly, it is he who is being tolerant, he who is forbearing, he who is considering the overall situation... Clearly, that was a marriage contract personally bestowed by the Abyssal Monarch... Clearly, the fault lies with Yun Che, with Hua Caili, with the Dreamweaver Kingdom of God and the Heaven Breaker Kingdom of God... Why is it Brother Jiuzhi, why is it us who suffer this humiliation...*
+ 
+*Cr... ack...* He faintly heard the sound of cracks appearing in his own teeth.
+ 
+At this moment, Shenwu Yi's figure had already returned to the center of the barrier, but for a long time, no one challenged her.
+ 
+Her eyes, like the cold pools of a dark night, fell straight onto the Dreamweaver Kingdom of God.
+ 
+"Dreamweaver Divine Son Meng Jianxi, please grant me instruction."
+ 
+In a scene that was only natural, Meng Jianxi was neither startled nor flustered. He stepped forward, his voice clear and frank, "Although this humble one has always prided himself on being extraordinary, in a contest of the same realm, I am absolutely not the opponent of the Boundless Divine Son. Thus, it is even less possible for me to be the opponent of the Eternal Night Divine Daughter."
+ 
+"Therefore, this humble one can only shamelessly admit defeat."
+ 
+Meng Jianxi's response truly surprised no one. That unsolvable Exquisite Profound Realm, that strange ice that overturned common sense... not accepting the battle was actually the most rational choice, and one that would not attract ridicule.
+ 
+"Hahahahahaha!"
+ 
+That extremely ear-piercing laughter also sounded without surprise. "This is the Divine Son of the Dreamweaver Kingdom of God? To actually not even have the guts to accept a battle. Are you preparing to hand over the next generation of these Kingdoms of God to this flock of useless trash?"
+ 
+Meng Kongchan spoke indifferently, "To speak such words of humiliation to a junior in public with the status of a Divine Regent, one must say... you are truly worthy of being the Lightless Divine Regent! Presumably, under the guidance of the Lightless Divine Regent, the Eternal Night Kingdom of God must be flourishing and vigorous, with all spirits joyous and proud."
+ 
+Shenwu Yanye let out a cold laugh. "A Kingdom of God where even the dreams are rotten and foul, a God Bearer who dares not even accept a battle. Your Dreamweaver Kingdom of God is only fit to prostrate beneath the feet of my Eternal Night in the future; what qualifications do you have to comment on my Eternal Night Kingdom of God!"
+ 
+Meng Kongchan gave a faint, cold snort and did not respond again, nor was he angry in the slightest.
+ 
+Since Meng Jianxi chose to directly admit defeat, the only Kingdom of God that had not entered the arena was Heaven Breaker. Just as everyone thought that Hua Caili would also choose to avoid battle, they saw a beam of clear, beautiful white light sweep past, and the young girl's figure had already fluttered into the barrier, directly facing Shenwu Yi.
+ 
+"..."
+ 
+Hua Fuchen subconsciously raised his hand.
+ 
+"Let her try."
+ 
+Hua Qingying, however, spoke faintly, "Caili's sword is sufficient to deal with the Exquisite Profound Realm."
+ 
+Hua Fuchen frowned slightly, then suddenly seemed to think of something, his eyes revealing an astonishment that was hard to conceal. "Are you saying that Caili, she..."
+ 
+Meeting Hua Fuchen's clearly turbulent gaze, Hua Qingying nodded slightly. "This was originally a surprise she prepared to give you, and also a trump card she strove to master to use to beg a reward from the Abyssal Monarch."
+ 
+She suddenly sighed faintly, looking at the two people within the barrier, speaking with a touch of regret, "She originally had a near-absolute assurance of defeating Dian Jiuzhi in the same realm. It is just unexpected that such a dazzling and strange Eternal Night Divine Daughter would appear; Caili is already destined to be unable to fulfill her wish."
+ 
+"Since she is destined to be unable to fulfill her wish, why still..."
+ 
+Hua Fuchen stopped halfway, having already understood. He let out a sigh that was half amused and half helpless. "In the end, it is still the whims of a little girl."
+ 
+"Heaven Breaker Divine Daughter, Hua Caili. This is our first time meeting, please grant me instruction!"
+ 
+In the center of the barrier, the two women faced each other head-on across a distance of a hundred paces. Although they had not yet exchanged blows, they had already caused the entire venue to hold its breath in a daze; even the light breeze and thin clouds stopped for them.
+ 
+Shenwu Yi was dressed entirely in black like ink, and between the drooping of her sleeves and hem, there seemed to be a cold mist lingering. The battle with Dian Jiuzhi had caused her hair to be slightly messy; a few strands of broken hair hung down by her cheeks, yet this only set off that peerless face to be even more jade-white and translucent.
+ 
+Her eyes were like the condensed ice of a cold pool, beautiful as a celestial dream, yet without a distinct shred of softness or charm, containing only an indifference that rejected people from a thousand miles away. The Glazed Glass Ice aura slowly circulating around her whole body endowed her with a halo that was holy yet aloof, making her seem like a goddess of Ice and snow banished from the Nine Heavens, her beauty biting and solitary.
+ 
+Hua Caili was dressed in snowy white cloud raiment unique to the Heaven Breaker Divine Daughter. Embroidered upon her skirt were seven distinct types of sword brilliance, interwoven with the complex and magnificent divine patterns of the stars. Tianshu, Tianxuan, Tianji, Tianquan, Yuheng, Kaiyang, Yaoguang... the Seven Stars shone in unison, symbolizing the Seven Sword Sovereigns of Heaven Breaker circling the moon, and even more so hiding a guardianship that would never be severed. When she moved her body, her skirt swayed, instantly appearing like a galaxy pouring down, flowing with light and iridescent colors.
+[TN: These names (Tianshu, Tianxuan, etc.) correspond to the seven stars of the Big Dipper (Northern Dipper) in traditional Chinese astronomy.]
+ 
+Her appearance was a heaven-bestowed treasure whose fame had long since spread throughout the entire the Abyss, known to all.
+ 
+Her skin was lustrous white like that of a jade, her cheeks naturally blooming with a faint rosy dawn, as if she had never been stained by half a speck of the Abyss dust of the Endless Fog or the turbid dust of the mortal world. Her brows were curved and shallow like the newly risen crescent moon, and her beautiful eyes still refracted the brightest stars of the Abyss, carrying a fragile purity unique to a maiden.
+ 
+Two peerless beauties, equally stunning to the world yet with temperaments that were completely distinct, appeared in the same field of vision. This was a beautiful and enchanting scroll painting that no one, from the top to the bottom of the six Kingdoms of God, had ever had the fortune to witness.
+ 
+Outside the barrier, gazes were either dazed, or infatuated and unaware, or forcefully maintaining their composure... but the sounds of overlapping breathing were so low as to be almost inaudible, and pair after pair of eyes forgot to refract the bright light, as if the heaven and earth of Eden's Crown had suddenly lost their color.
