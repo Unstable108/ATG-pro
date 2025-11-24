@@ -1,173 +1,212 @@
 ---
 chapterNumber: 2145
-title: ""
-publishedAt: "2025-11-20"
+title: "Forbidden Realm of Divine Slumber?"
+publishedAt: "2025-11-21"
 ---
 
-No one dared to defy the rules of the Pure Land, not even the God Sovereigns of the Six God Realms. But there was one exception, for his very existence transcended all rules of the current age.
-
-The Abyssal Emperor.
-
-Hua Caili's Heaven-Sundering Sword, into which she had poured her entire will, and Shen Wuyi's Glazed Frostlight that had defeated Dian Jiuzhi, were like fragile bubbles before him, vanishing without a sound or trace at the slightest touch.
-
-He slowly lowered his hands and spoke faintly amidst the crowd's stunned silence, "A body that holds Exquisiteness, a heart that manifests Glaze. Such a thing has never been seen in this world since ancient times. It is a heaven-sent miracle."
-
-"Caili, at the tender age of just over twenty, you have already glimpsed the true meaning of the fourth Heaven-Sundering Sword. In terms of talent for the Way of the Sword alone, you have not only surpassed your aunt, but you are not far off from where I¹ was at your age."
-
-The Abyssal Emperor's intervention shocked not only the Six God Realms, but even the Grand Divine Official. And his praise for Shen Wuyi and Hua Caili undoubtedly struck their hearts like thunder. For Shen Wuyi, he had uttered the word "miracle." For Hua Caili, he had even compared her to himself!
-
-"For either of you to suffer the slightest injury would be a great loss to this world. Therefore, let this battle end here. What say you?" Though the Abyssal Emperor posed it as a question, his words were a heavenly decree.
-
-Shen Wuyi calmly sheathed her sword and bowed. "Wuyi shall respectfully obey the Abyssal Emperor's command."
-
-Hua Caili's ability to react was ultimately a bit slower. Furthermore, she lacked the same reverence for the Abyssal Emperor that others held. After a long, dazed moment, she finally stammered, "But... what about... Uncle Emperor's boon...?"
-
-The Abyssal Emperor's gaze seemed to soften slightly toward Hua Caili, a hint of a smile in his eyes. "The prowess you have both displayed is naturally enough for me to make an exception and grant a boon to you both."
-
-The Abyssal Emperor's words did not stir Shen Wuyi in the slightest, but they caused endless, brilliant starlight to erupt in Hua Caili's eyes. "R-Really? Thank you, Uncle Emperor! I knew you were the best!"
-
-On the Cloud Crest of Eden, beside the Abyssal Emperor, in the midst of the battlefield... her elation was displayed so openly, so intensely, so genuinely.
-
-"..." Dian Jiuzhi closed his eyes, hiding the disappointment within them as he sighed silently in his heart. At this moment, he suddenly understood why Hua Caili's actions had been so contrary to common sense and her usual temperament. She was willing to reveal such a resolute side, to grievously injure herself, to risk everything... all to obtain the Abyssal Emperor's boon.
-
-Because this boon was tied to her future with Yun Che.
-
-Hua Fuchen let out a long sigh of relief, only then realizing his back was cold and completely drenched in a cold sweat.
-
-Hua Caili's joy had yet to fade. Her entire aura was that of a completely different person from when she held her sword, transforming from a little sword fairy² radiating a chilling might into a breathtakingly beautiful, pampered young lady.
-
-She turned to Shen Wuyi and said frankly, "There's no need to halt this battle with the Eternal Night Divine Maiden. I concede. Because even if I used all my strength, I would only have a one-percent chance of victory. The other ninety-nine percent belongs to you."
-
-The Abyssal Emperor smiled but offered no comment.
-
-The Grand Divine Official wasted no words and announced, "Heaven-Sundering Hua Caili concedes. Eternal Night Shen Wuyi is victorious!"
-
-"In this Divine Son Tournament, both Eternal Night Shen Wuyi and Heaven-Sundering Hua Caili displayed such exceptional, stunning prowess that they earned the Abyssal Emperor's personal praise. An exception is hereby made: both Shen Wuyi and Hua Caili may ask for a boon from the Abyssal Emperor."
-
-With the Abyssal Emperor's promise and the Grand Divine Official's declaration, the outcome of the Divine Son Tournament was settled. In this tournament, including the unexpected Pan Buwang, a total of six Divine Sons and two Divine Maidens had appeared. In the end, however, both maidens were victorious, and the six Divine Sons were all reduced to mere foils. This was especially true for the former First Divine Son, Dian Jiuzhi, whose past glory had been all but extinguished by Shen Wuyi's icy light.
-
-This result left the various God Realms sighing in lament.
-
-Hua Caili put away her Glazed Cloud Sword. As she turned, her vision suddenly blurred, and she nearly collapsed on the spot. A cyan shadow flickered, and she fell into Hua Qingying's arms. Only then did she realize her entire body was devoid of strength; even lifting an arm was a struggle.
-
-Hua Fuchen also came over. He looked at his daughter's pale yet satisfied and smiling face, and the reprimand he had prepared died on his lips. He could only mutter fiercely, "It's all that brat's fault!"
-
-Hua Qingying's profound energy circulated meticulously through Hua Caili's body, and only then did she feel completely at ease. The Abyssal Emperor's timely intervention had prevented the sword's might from being fully released, so naturally, there was no backlash. However, the cost of condensing that sword strike was immense. Right now, Hua Caili was in a state of severe exhaustion, both physically and mentally.
-
-One could only imagine the consequences if she had suffered a backlash in such a state... Hua Qingying dared not think about it. She helped Hua Caili up and returned to the Heaven-Sundering God Realm's area. The Seven Heaven-Sundering Sword Sovereigns quickly gathered around, and seven gentle streams of sword energy converged on Hua Caili, allowing her aura to recover at an astonishing rate.
-
-"Don't you ever do something like this again." Hua Fuchen finally managed to scold her.
-
-"I know, Father God. I promise it won't happen again." Hua Caili put on a docile expression of one who had learned her lesson, then added proudly, "But, because of that sword strike, I succeeded."
-
-Apologizing one moment and undermining him the next, Hua Fuchen covered his face with his hand and could only shoot another fierce glare at the distant Yun Che.
-
-Hua Qingying said coolly, "To be so reckless... was it truly just to win the Abyssal Emperor's boon? Were there no other thoughts in your mind?"
-
-"None!" Hua Caili averted her gaze, refusing to admit it.
-
-Just then, Cha Xing returned. Seeing the situation before him, he was momentarily stunned.
-
-Xian Yue explained in a measured tone, "The Divine Son Tournament is over. Dian Jiuzhi was defeated by Shen Wuyi. Meng Jianxi avoided battle and conceded. The match between Shen Wuyi and Hua Caili was personally stopped by the Abyssal Emperor, who granted them both a boon. Afterward, Hua Caili conceded."
-
-Each part of the explanation layered more shock onto Cha Xing's face, and he couldn't recover for a long time.
-
-Only then did Xian Yue unhurriedly take out a Profound Shadow Stone. "I've recorded everything that happened after you left. See? I have great foresight. Otherwise, you would have regrettably missed so many world-shocking sights."
-
-Over in the Forest of Luo God Realm, Dian Luohou stroked his long beard, his face filled with praise and smiles, seemingly having forgotten all his anger over Dian Jiuzhi's humiliating defeat.
-
-"That girl Caili... she usually seems so gentle and frail. I never expected she had such a fierce side to her, all for Jiuzhi's sake. And with that sword talent that surpasses even Qingying's... Truly worthy of being my daughter-in-law, hohahahaha!" By the end, he was laughing heartily. He failed to notice, however, that behind him, Dian Sansi's face was dark as thunder.
-
-"Brother Jiuzhi..." he said cautiously, looking at Dian Jiuzhi. He wanted to offer comfort but didn't know what to say.
-
-Dian Jiuzhi, however, shook his head and then revealed a faint smile. That smile... seemed to be one of relief. But the more he acted this way, the more Dian Sansi's heart ached with an unbearable pain.
-
-Involuntarily, he turned his gaze to Yun Che, and his eyes "happened" to meet the other's once again.
-
-Yun Che's eyebrows curved down and the corners of his mouth tilted up. He was smiling—a smile of ridicule, of triumph, and above all, of contempt. Then, he casually turned his head away, as if even looking at him for another moment was beneath him.
-
-The instant his gaze shifted, Dian Sansi clearly saw Yun Che's lips move slightly.
-
-Pa... the... tic...
-
-"~！@#￥%..."
-
-The blood rushed to his head in an instant. Dian Sansi's face and neck turned crimson, as if stained with blood, and even his vision blurred. The desire to expose everything—to incur his father's wrath, to bring down the Abyssal Emperor's judgment, to ruin the reputations of Yun Che and Hua Caili—roiled madly in his heart. But it was immediately followed by fear of the consequences and Dian Jiuzhi's almost pleading warning... For several long breaths, he clenched his jaw and forced the surging humiliation, rage, hatred, and unwillingness down, bit by agonizing bit.
-
-But with all his willpower, he could only suppress it as far as his throat. Though he held back from erupting, he could not swallow it completely. It remained stuck there, making every breath an agony of rage and humiliation that threatened to make him explode.
-
-This was a torment he had never imagined he would suffer in his entire life.
-
-"Mm, he's just about at the breaking point of his breaking point," Yun Che mused to himself in his soul.
-
+No one dared to defy the rules of the Pure Land, including the Divine Regents of the six Kingdoms of God.
+ 
+But there was one exception, for his very existence stood above all the rules of this world.
+ 
+The Abyssal Monarch.
+ 
+The Heaven Breaker sword into which Hua Caili had poured her entire will, and the glazed cold light with which Shenwu Yi had utterly defeated Dian Jiuzhi... before him, they were like fragile bubbles that shattered at a touch, vanishing without a sound or trace.
+ 
+His hands slowly lowered, and amidst the stunned daze of the crowd, he spoke faintly: "A body harboring the Exquisite, a heart deriving the Glazed Glass... this is unprecedented in all of eternity, truly a divine miracle bestowed by the heavens."
+ 
+"Caili, though merely just past the age of twenty, you have already glimpsed the true meaning of the fourth sword of Heaven Breaker. In terms of talent in the Sword Dao alone, you have not only surpassed your aunt, but are also not far from Us in Our youth."
+ 
+The Abyssal Monarch’s intervention not only astonished the six great Kingdoms of God, but even the Chief High Priest was surprised.
+ 
+And the evaluations he gave Shenwu Yi and Hua Caili undoubtedly shook their hearts like thunderclaps.
+ 
+To Shenwu Yi, from the mouth of the Abyssal Monarch, came the two words "Divine Miracle."
+ 
+To Hua Caili, he actually compared her to himself!
+ 
+"If either of you were to suffer even the slightest injury, it would be a colossal loss to this world. Therefore, let this battle cease here. How about it?"
+ 
+Though the Abyssal Monarch phrased it as a question, once the words left his mouth, they were a Divine Decree.
+ 
+Shenwu Yi calmly sheathed her sword, bowing in respect: "Wu Yi strictly obeys the Abyssal Monarch’s command."
+ 
+Hua Caili’s ability to adapt was ultimately slightly weaker, and she did not harbor the same reverence for the Abyssal Monarch in her heart as others did. After being dazed for a good while, she stammered, "But... then... Uncle Abyssal Monarch’s promised favor..."
+ 
+The Abyssal Monarch’s gaze seemed to tilt slightly toward Hua Caili, containing a hint of a smile: "The grace and elegance of you two are naturally enough for Us to make an exception and grant a favor to both."
+ 
+The Abyssal Monarch’s words did not move Shenwu Yi in the slightest, yet they caused infinite, brilliant starlight to suddenly flare in Hua Caili’s eyes: "Re... really!? Thank you, Uncle Abyssal Monarch! Uncle Abyssal Monarch is truly the best!"
+ 
+Atop Eden’s Crown, beside the Abyssal Monarch, amidst the battlefield... her jubilation was displayed so plainly, intensely, and genuinely.
+ 
+"..."
+ 
+Dian Jiuzhi closed his eyes, concealing the loss within them, and sighed faintly in his heart.
+ 
+At this moment, he suddenly understood why Hua Caili’s actions had been so contrary to common sense and her temperament.
+ 
+She did not hesitate to reveal such a decisive side, did not hesitate to heavily injure herself, did not hesitate to give her all... all to obtain the Abyssal Monarch’s favor. Only because this favor concerned her and Yun Che’s future.
+ 
+Hua Fuchen let out a long sigh of relief, only then realizing that his back was cold, completely soaked in cold sweat.
+ 
+Hua Caili’s joy still did not recede. Her entire aura was completely different from when she held the sword; she had transformed completely from a little Sword Immortal releasing biting might into a peerlessly beautiful young girl who had been spoiled and pampered.
+ 
+She turned her eyes to look at Shenwu Yi and said very frankly, "As for this battle with the Eternal Night Divine Daughter, there’s no need to just stop it. I concede. Because even if I used my full strength, I would only have a one‑in‑a‑hundred chance of victory. The remaining ninety‑nine parts belong to the Eternal Night Divine Daughter."
+ 
+The Abyssal Monarch smiled and offered no comment.
+ 
+The Chief High Priest wasted no words and immediately announced: "Heaven Breaker's Hua Caili concedes. Eternal Night's Shenwu Yi wins!"
+ 
+"And in this Battle of the Divine Sons, both Eternal Night's Shenwu Yi and Heaven Breaker's Hua Caili displayed outstanding grace, truly stunning. Having gained the Abyssal Monarch’s favor and praise, a special exception is granted: both Shenwu Yi and Hua Caili may request a boon from the Abyssal Monarch."
+ 
+With the Abyssal Monarch’s promise and the Chief High Priest’s proclamation, the dust settled on the results of this Battle of the Divine Children.
+ 
+In this Battle of the Divine Children, counting the unexpected Pan Buwang, a total of six Divine Sons and two Divine Daughters took the field. In the end, however, both Divine Daughters emerged victorious, while the six great Divine Sons were all reduced to foils. Especially Dian Jiuzhi, who was once the Foremost Divine Son; all his former glory was almost completely eclipsed by Shenwu Yi’s icy radiance.
+ 
+This result caused the multitude of Kingdoms of God to sigh endlessly.
+ 
+Hua Caili put away the Glazed Cloud Sword. As she turned around, her vision suddenly blurred, and she nearly collapsed softly to the ground on the spot.
+ 
+Amidst a flash of green shadow, she had already fallen onto Hua Qingying’s body. Only then did she realize she had completely lost her strength; even lifting her arm was quite a struggle.
+ 
+Hua Fuchen also hurried over. Looking at his daughter’s pale cheeks that were nonetheless filled with a satisfied smile, the words of reprimand he had prepared were ultimately too harsh to speak. He could only fiercely mutter: "It’s all that brat’s fault!"
+ 
+Hua Qingying’s profound energy meticulously flowed through Hua Caili’s entire body before she completely set her mind at ease. The Abyssal Monarch’s timely intervention meant the might of that sword was ultimately not released, so naturally, there was no backlash.
+ 
+But the consumption to condense that sword was truly too great. At this moment, Hua Caili was in a state of severe exhaustion in both body and spirit.
+ 
+One could imagine that if she had suffered a backlash in such a state, the consequences would have been simply...
+ 
+Hua Qingying did not dare to think about it. She lifted Hua Caili and returned to the Heaven Breaker Kingdom of God’s location.
+ 
+The Seven Sword Sovereigns of Heaven Breaker quickly approached, and seven gentle sword auras immediately gathered around Hua Caili, allowing her aura to recover at an astonishing speed.
+ 
+"In the future, you are forbidden from doing this," Hua Fuchen finally reprimanded her with a sentence.
+ 
+"I know, Father God. I promise I won’t do it again." Hua Caili put on an obedient appearance of humbly accepting the lesson, then said without losing her pride, "But, precisely because of this sword, I succeeded."
+ 
+First admitting her mistake, then undermining him in the next breath... Hua Fuchen raised his hand to cover his face, and could only glare fiercely at Yun Che in the distance again.
+ 
+Hua Qingying said faintly, "Acting so recklessly regardless of the consequences... other than winning the Abyssal Monarch’s favor, did you have no other thoughts?"
+ 
+"None!" Hua Caili looked away, absolutely refusing to admit it.
+ 
+Sha Xing returned at this precise moment, looking at the situation before him, momentarily dumbfounded.
+ 
+Xian Yue said methodically: "The Battle of the Divine Children has ended. Dian Jiuzhi was defeated by Shenwu Yi. Meng Jianxi avoided battle and conceded. The battle between Shenwu Yi and Hua Caili was personally stopped by the Abyssal Monarch, who specially granted favors to both, after which Hua Caili voluntarily conceded."
+ 
+These words caused layers of shock to stack upon Sha Xing’s face, leaving him unable to recover for a long time.
+ 
+Only then did Xian Yue unhurriedly take out a Profound Imagery Stone: "I have engraved all the scenes from after you left for you. As expected, I have foresight; otherwise, you would have regrettably missed too many wondrous sights that could be called world-shocking."
+ 
+Over at the Boundless Kingdom of God, Dian Luohou stroked his long beard, wearing a smile of approval, appearing to have completely forgotten the anger of Dian Jiuzhi’s defeat and humiliation.
+ 
+"That girl Caili usually looks delicate and weak. I never expected that for Jiuzhi’s sake, she would have such a fierce side. Coupled with this Sword Dao talent that even surpasses Qingying... she is truly worthy of being my daughter-in-law! Hwahahahaha!"
+ 
+Speaking to the end, he laughed heartily in satisfaction.
+ 
+However, he failed to notice that behind him, Dian Sansi’s face was pitch black.
+ 
+"Brother Jiuzhi..." He looked at Dian Jiuzhi cautiously, wanting to offer comfort but not knowing what to say.
+ 
+Dian Jiuzhi, however, shook his head, then revealed a faint smile. That smile... seemed to be a kind of relief.
+ 
+But the more he acted like this, the more Dian Sansi’s heart twitched with uncontrollable pain.
+ 
+Involuntarily, he turned his gaze toward Yun Che, only to once again "coincidentally" meet the other party’s gaze.
+ 
+Their gazes collided.
+ 
+Yun Che’s eyebrows curved downward, the corners of his mouth hooked up. He was smiling—it was mockery, it was smugness, and even more so, it was contempt.
+ 
+Immediately following that, he listlessly turned his face away, as if he felt disdain even looking at him for one more second.
+ 
+And the moment he turned his gaze, Dian Sansi clearly saw the slight movement of Yun Che’s mouth.
+ 
+*Pa... thetic...*
+ 
+"~！@#￥%……"
+ 
+All the blood in his body rushed to the top of his head in an instant. Dian Sansi turned crimson from his neck to his face as if dyed in blood, and even his vision blurred.
+ 
+The urge to explode and let everything out, to make his Father God furious, to make the Abyssal Monarch send down punishment, to make Yun Che and Hua Caili ruined and shamed... rolled frantically in his heart like madness. But following closely behind was the dread of the consequences and Dian Jiuzhi’s almost pleading admonition...
+ 
+It took a full several breaths before he clenched his teeth, forcefully suppressing the surging humiliation, rage, hatred, and unwillingness... bit by bit.
+ 
+But even exhausting his entire will, he could only suppress it to his throat. Although he forcibly endured not exploding, he could not swallow it completely no matter what. It was stuck raw in his throat, and every breath was so filled with anger, humiliation, and discomfort that he felt he would burst.
+ 
+This was a torturous suffering he had never imagined in his life.
+ 
+"Mn, it’s just about the critical point of the critical point," Yun Che muttered leisurely in his soul.
+ 
 "Dian Sansi?" Li Suo asked.
-
-"Yes," Yun Che replied. "Right now, even a random poke could make him explode. And if he's given another major stimulus... his reason will be completely destroyed. He'll detonate for sure, no matter the circumstances."
-
-Li Suo said softly, "The Divine Son Tournament is over. The opportunity you need..."
-
-"The Abyssal Emperor himself will give me that opportunity. Perhaps he's even more eager for it than I am."
-
-Li Suo: "...??"
-
-Only after Hua Caili had recovered sufficiently did the Abyssal Emperor speak again. "Caili, what reward do you desire?"
-
-Hua Caili bowed with a radiant smile, speaking without a trace of fear. "The reward Caili wants is a bit special. I'd like to tell Uncle Emperor in private. Is that okay?"
-
-The Abyssal Emperor smiled. "Of course. But with no one to bear witness, are you not afraid that I will go back on my word?"
-
-"Uncle Emperor would never. Thank you in advance, Uncle Emperor." Hua Caili bowed again, then retreated behind Hua Qingying with a smile.
-
-The Abyssal Emperor's gaze turned to Shen Wuyi. "Shen Wuyi, what reward do you seek?"
-
-Shen Wuyi's response was concise and clear. "Your Majesty, Wuyi wishes to enter the God-Slumbering Forbidden Domain."
-
-Her words stunned everyone. From within the pitch-black palanquin where the Nameless God Sovereign resided, an abnormal fluctuation of profound energy suddenly erupted, carrying an all-too-obvious anger. Clearly, Shen Wuyi's request went against her expectations.
-
-"The God-Slumbering Forbidden Domain? What is that place?" Yun Che muttered with a frown. He had spent three years in the Weaving Dream God Realm, and while his information gathering had focused on the Divine Sons of the various realms, he knew a fair amount about the important places in the Abyss. Yet this was the first time he had heard this name.
-
-Meng Jianxi also lowered her voice to answer, "Before the Abyssal World was formed, it was the place where the ancient gods fell after descending into the Abyss. It is also... where the Abyssal Emperor fell into the Abyss."
-
-"It is rumored that a large portion of the True Gods and Devil Gods who first fell were eroded by the Primordial Abyssal Dust and became Abyssal Ghosts... Later, when the Abyssal Emperor established the Abyssal World, that land of buried gods was sealed off and became the 'God-Slumbering Forbidden Domain.'"
-
-"I have never been to the God-Slumbering Forbidden Domain, so I know very little. But according to the records of the Hall of Heavenly Secrets, although the domain is not located in the Sea of Fog, the concentration of Abyssal Dust within it is comparable to the depths of the Sea of Fog. The number of Abyssal Ghosts wandering inside far exceeds that of Abyssal Beasts, and every ghost one encounters could potentially be an ancestral god of the people of this age."
-
-"It was likely out of respect for these ancestral gods that the Abyssal Emperor sealed the area and designated it a forbidden domain. I recall that since it became a forbidden domain, it has only been opened a dozen or so times according to records."
-
-Yun Che asked, "If that's the case, why would Shen Wuyi use such a precious opportunity to go to a place like that?"
-
-Meng Jianxi thought for a moment. "Too many ancient True Gods once lingered in that area. With their divine bodies, they would not have perished immediately, even under the Primordial Abyssal Dust. So perhaps they left behind some inheritances or rare treasures before they died... That might be the reason?"
-
-Her answer was hesitant and uncertain, clearly just a guess.
-
-The Abyssal Emperor fell silent.
-
-But only for two breaths before he nodded slightly. "Very well. As you wish."
-
-"However," his tone shifted, "it is a rare occasion for the God-Slumbering Forbidden Domain to be opened. Would it not be a pity for only one person to enter?"
-
+ 
+"Yes." Yun Che said: "Now, just a casual poke and there’s a possibility he'll explode. And if he’s given another big stimulus... his clear-headedness will be completely destroyed. No matter what situation he is in, he will undoubtedly explode."
+ 
+Li Suo whispered softly: "The Battle of the Divine Children has ended. The opportunity you need..."
+ 
+"This opportunity, the Abyssal Monarch will naturally give to me. Perhaps, he is even more anxious than I am."
+ 
+Li Suo: "......??"
+ 
+Waiting until Hua Caili had recovered to a sufficient condition, the Abyssal Monarch slowly spoke: "Caili, what reward do you desire?"
+ 
+Hua Caili bowed with a graceful smile, speaking without the slightest timidity: "The reward Caili wants is rather special. I wish to tell Uncle Abyssal Monarch privately, may I?"
+ 
+The Abyssal Monarch smiled: "Naturally, there is no objection. It is just that with no one to witness it then, are you not afraid that We will go back on Our word?"
+ 
+"Uncle Abyssal Monarch wouldn’t do that. Thank you in advance, Uncle Abyssal Monarch." Hua Caili bowed again, then retreated behind Hua Qingying with a smile.
+ 
+The Abyssal Monarch’s gaze shifted to Shenwu Yi: "Shenwu Yi, what reward do you seek?"
+ 
+Shenwu Yi’s response was concise and clear: "Answering the Abyssal Monarch: Wuyi wishes to enter the **Forbidden Realm of Divine Slumber**."
+ 
+As soon as these words came out, everyone was astonished.
+ 
+From the pitch-black palanquin where the Lightless Divine Regent sat, a burst of abnormal profound energy fluctuation suddenly transmitted out, wrapped in all-too-obvious anger.
+ 
+Clearly, what Shenwu Yi sought deviated from her expectations.
+ 
+"The Forbidden Realm of Divine Slumber? What is that place?" Yun Che frowned and whispered.
+ 
+During his three years in the Dreamweaver Kingdom of God, although his focus in gathering information was on the Divine Sons of the various Kingdoms of God, he knew about seventy to eighty percent of the important information regarding the Abyss. Yet, this was the first time he had heard this name.
+ 
+Meng Jianxi also lowered his voice to answer: "Before the Abyssal World was formed, it was the place where the ancient gods fell after dropping into the Abyss. It is also... the place where the Abyssal Monarch fell into the Abyss."
+ 
+"It is rumored that a large portion of those True Gods and Devil Gods who first fell transformed into Abyssal Ghosts under the erosion of the primordial abyssal dust... Later, when the Abyssal Monarch pioneered the Abyssal World, that land of buried gods was sealed off, becoming the 'Forbidden Realm of Divine Slumber'."
+ 
+"I have never been to the Forbidden Realm of Divine Slumber, so I know very little about it. But according to the records of Xuanji Hall, although the Forbidden Realm of Divine Slumber is not located in the Endless Fog, the concentration of abyssal dust inside is comparable to the depths of the Endless Fog. The number of Abyssal Ghosts wandering within far exceeds that of Abyssal Beasts, and every Abyssal Ghost encountered could possibly be the ancestral deity of people of this era."
+ 
+"Likely out of respect for the multitude of ancestral deities, the Abyssal Monarch sealed that area and listed it as a forbidden realm. I remember that since it became a forbidden realm until now, the recorded number of openings has not exceeded a dozen times."
+ 
+Yun Che asked: "Since that is the case, why would Shenwu Yi waste the opportunity of such a precious reward to go to such a place?"
+ 
+Meng Jianxi thought for a moment and said: "Too many ancient True Gods once stayed in that area. With their divine bodies, even under the primordial abyssal dust, they wouldn’t perish immediately. Thus, perhaps they left behind some legacies, extraordinary treasures, or the like before they died... Perhaps that is the reason?"
+ 
+Meng Jianxi’s answer was full of hesitation and doubt; clearly, it was just a guess.
+ 
+The Abyssal Monarch fell silent.
+ 
+But he was only silent for two breaths before nodding slightly: "Good. As you wish."
+ 
+"However," his tone shifted: "Since the Forbidden Realm of Divine Slumber is rarely opened, would it not be a pity for only one person to enter?"
+ 
 "Zhuyuan."
+ 
+The First Knight, Dugu Zhuyuan, stepped forward, bowing to receive the order.
+ 
+"Ten hours from now, open the Void-Breaking Formation leading to the 'Forbidden Realm of Divine Slumber'. The six great Kingdoms of God may each select one junior to enter."
+ 
+This order from the Abyssal Monarch caused the other five Kingdoms of God to be jolted in spirit, overjoyed.
+ 
+This was not only the Abyssal Monarch’s grace extending to the five kingdoms, but it also made the five Kingdoms of God invisibly owe Shenwu Yi a favor.
+ 
+"Wu Yi thanks the Abyssal Monarch for his grace."
+ 
+Shenwu Yi naturally had no objection, nor did she show joy, retreating indifferently.
+ 
+The Abyssal Monarch had announced the major events. The "Eternal Pure Land" was close at hand, and the Battle of the Divine Children had concluded. At this moment, it should have been time for the Abyssal Monarch to depart and for the Chief High Priest to announce the end of this Pure Land Conference.
+ 
+But at this moment, the Abyssal Monarch cast his gaze toward the Dreamweaver Kingdom of God.
+ 
+"Kongchan, We heard that after Caili, another Perfect Divine Essence descended from the heavens into the Dreamweaver Kingdom of God. Is there such a thing?"
 
-The First Knight, Dugu Zhuyuan, stepped forward and bowed to receive his orders.
-
-"In ten hours, open the Void-Shattering Formation to the 'God-Slumbering Forbidden Domain.' The Six God Realms may each choose one member of the younger generation to enter."
-
-The Abyssal Emperor's command sent a jolt of delighted surprise through the other five God Realms. This was both a grace bestowed upon them by the Abyssal Emperor and a way of making them implicitly indebted to Shen Wuyi.
-
-"Wuyi thanks the Abyssal Emperor for his grace." Shen Wuyi naturally had no objections, nor did she show any joy as she calmly withdrew.
-
-The Abyssal Emperor had made his great announcement, the "Eternal Pure Land" was close at hand, and the Divine Son Tournament had concluded. This should have been the moment for the Abyssal Emperor to depart and for the Grand Divine Official to declare the end of the Pure Land Assembly.
-
-But at this moment, the Abyssal Emperor turned his gaze toward the Weaving Dream God Realm.
-
-"Kong Chan, I have heard that after Caili, another perfect divine vessel³ has descended upon the Perfect God Realm. Is this true?"
-
-AI Translation Notes:
-1:
-I (孤 - gū): The royal "I," used exclusively by emperors and kings in ancient China to signify their unique status.
-
-2:
-Little sword fairy (小剑仙 - xiǎo jiàn xiān): A common term in Chinese fantasy genres for a young, exceptionally talented, and often ethereal-looking sword user. It conveys both power and beauty.
-
-3:
-Perfect divine vessel (完美神格 - wánměi shéngé): A specific term referring to an individual with a flawless and exceptionally high-grade innate spiritual constitution or talent, making them destined for greatness in cultivation.
