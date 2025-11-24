@@ -102,8 +102,8 @@ export default function ChaptersPage({ chapters }) {
                     {ch.title ? ` — ${ch.title}` : ''}
                   </div>
                   <div className="text-sm text-gray-500 mt-1">
-                    {(ch.content || '').slice(0, 140)}
-                    {(ch.content || '').length > 140 ? '...' : ''}
+                    {(ch.excerpt || '').slice(0, 140)}
+                    {(ch.excerpt || '').length > 140 ? '...' : ''}
                   </div>
                 </Link>
               </div>
@@ -128,8 +128,9 @@ export async function getStaticProps() {
     slug: c.slug,
     chapterNumber: c.chapterNumber,
     title: c.title,
-    content: c.content,
-  }))
+    excerpt: (c.content || "").slice(0, 140),
+  }));
 
-  return { props: { chapters } }
+  return { props: { chapters }, revalidate: 60 };
 }
+

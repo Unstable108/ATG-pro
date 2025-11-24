@@ -359,8 +359,9 @@ export default function Chapter({
 export async function getStaticPaths() {
   const chapters = getAllChapters();
   const paths = chapters.map((c) => ({ params: { slug: c.slug } }));
-  return { paths, fallback: false };
+  return { paths, fallback: "blocking" };
 }
+
 
 export async function getStaticProps({ params }) {
   const chapter = getChapterBySlug(params.slug);
@@ -368,11 +369,11 @@ export async function getStaticProps({ params }) {
   const chapterHtml = processed.toString();
 
   const allChapters = getAllChapters().map((c) => ({
-    slug: c.slug,
-    chapterNumber: c.chapterNumber,
-    title: c.title,
-    content: c.content,
-  }));
+  slug: c.slug,
+  chapterNumber: c.chapterNumber,
+  title: c.title,
+}));
+
 
   const idx = allChapters.findIndex((c) => c.slug === chapter.slug);
   let prevSlug = null,
@@ -402,6 +403,7 @@ export async function getStaticProps({ params }) {
   }
 
   return {
-    props: { chapterHtml, chapter, allChapters, prevSlug, nextSlug, novel },
-  };
+  props: { chapterHtml, chapter, allChapters, prevSlug, nextSlug, novel },
+  revalidate: 60,
+};
 }

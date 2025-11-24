@@ -5,9 +5,21 @@ import Head from "next/head";
 import { useMemo, useState, useEffect } from "react";
 
 export async function getServerSideProps() {
-  // For a small site, KEYS is okay; if it grows we can switch to SCAN.
-  const keys = await redis.keys("stats:*");
-  const entries = await Promise.all(keys.map(async (k) => [k, await redis.get(k)]));
+  // If Redis isn't configured (e.g. local dev), return empty stats instead of crashing.
+  if (!redis) {
+    console.warn("[track] Redis not configured; returning empty stats");
+    return { props: { stats: {} } };
+  }
+
+  // Use SCAN via scanIterator so we don't block Redis with KEYS on large datasets.
+  const keys = [];
+  for await (const key of redis.scanIterator({ match: "stats:*" })) {
+    keys.push(key);
+  }
+
+  const entries = await Promise.all(
+    keys.map(async (k) => [k, await redis.get(k)])
+  );
   const raw = Object.fromEntries(entries);
 
   // Normalize: try parse JSON values, fallback to number/string
@@ -25,6 +37,7 @@ export async function getServerSideProps() {
 
   return { props: { stats } };
 }
+
 
 // safe numeric getter
 function toNumber(v) {

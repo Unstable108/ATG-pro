@@ -3,17 +3,36 @@ import { Analytics } from "@vercel/analytics/react";
 import Head from "next/head";
 import "../styles/globals.css";
 import { useEffect } from "react";
-import { useRouter } from "next/router"; // --- analytics: added
+import { useRouter } from "next/router"; 
 
-// --- analytics: small helper to send events to /api/track
+
+// analytics: small helper to send events to /api/track
 function track(event = "view", path = "/", meta) {
   if (typeof window === "undefined") return;
+
+  try {
+    if (
+      typeof window.sessionStorage !== "undefined" &&
+      event === "view" &&
+      path
+    ) {
+      const lastPath = window.sessionStorage.getItem("lastTrackedPath");
+      if (lastPath === path) {
+        return;
+      }
+      window.sessionStorage.setItem("lastTrackedPath", path);
+    }
+  } catch (e) {
+    // ignore storage errors and still try to send the event
+  }
+
   fetch("/api/track", {
     method: "POST",
     headers: { "Content-Type": "application/json" },
     body: JSON.stringify({ event, path, meta }),
   }).catch(() => {});
 }
+
 
 export default function App({ Component, pageProps }) {
   const router = useRouter(); // --- analytics: added
