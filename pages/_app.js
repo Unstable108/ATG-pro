@@ -93,7 +93,6 @@ export default function App({ Component, pageProps }) {
           content="width=device-width,initial-scale=1,viewport-fit=cover"
         />
         <meta name="theme-color" content="#0f172a" />
-        {/* ✅ Favicon support */}
         <link rel="icon" href="/favicon.ico" sizes="any" />
         <link rel="icon" type="image/png" href="/favicon.png" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
