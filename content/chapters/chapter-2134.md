@@ -1,211 +1,221 @@
 ---
 chapterNumber: 2134
-title: "It is not absurd, all absurd (Last Part)   "
-publishedAt: "2025-11-20"
+title: "Stray Not, Most Strayed (2)"
+publishedAt: "2025-11-24"
 ---
 
-Facing Sha Xing's gaze, Pan Bu Wang's vision did not flinch in the slightest. His expression was cold, and his voice was even calmer, without a ripple: "Star God Child¹, to openly disparage my Owl Butterfly God Child² like this, are you not afraid that your own arrogance will backfire and wound your prestige!"
+Stray Not, Most Strayed (2)
 
-He repeated the words from moments ago, not missing a single one, as if afraid the Star God Child still "hadn't heard clearly." His tone was even several degrees heavier. In just a single breath, Sha Xing's eyes churned with the most complex changes he had ever experienced in his life... astonishment, bewilderment, blankness, shock, disbelief, incomprehension, unacceptability... all emotions chaotically intertwined, then finally settled, transforming into layers of disappointment, sarcasm, and... indignation.
+Pan Buwang did not look away from Sha Xing’s eyes even a little. His expression was indifferent, and his voice was perfectly calm and collected. “You dare humiliate my Owl Butterfly Divine Son so, Star Divine Son? Aren’t you worried that your arrogance could backfire on you?”
 
-"Heh... heheh."
+He repeated every word he said as if afraid that the Star Divine Son hadn’t heard him clearly. He even stressed the words so that there could be no doubt as to his meaning.
 
-He let out a strained laugh, three parts mocking others, seven parts mocking himself. The look he cast at Pan Bu Wang no longer held its previous clarity: "So? Pan Bu Wang, what do you intend to do? Could it be..."
+In just the span of a short breath, Sha Xing’s eyes experienced the most complicated change of emotions ever in its existence: astonishment, puzzlement, befuddlement, shock, disbelief, incomprehension, denial...
 
-Pan Bu Wang raised his right arm, and a pitch-black demonic spear instantly appeared in his hand, striking the ground heavily. Bang! A muffled thud, demonic light erupted, accompanied by an eerie hiss of dark profound energy³.
+All sorts of emotions mixed haphazardly until they ultimately settled and transformed into overlapping layers of disappointment, derision, and... anger.
 
-"Though our friendship runs deep, I am ultimately a God Child of the Owl Butterfly Divine Kingdom⁴! To me, the dignity of the Divine Kingdom transcends all else. Therefore, since you have disparaged my Owl Butterfly God Child, it is destined that I must raise my spear against you."
+“Heh... hehe.”
 
-"Oh dear, oh dear."
+Sha Xing let out a raspy laugh. One-third of it was aimed at Pan Buwang, but the other two-thirds was aimed at himself. His eyes no longer looked clear as he met Pan Buwang’s eyes, “So? What will you do, Pan Buwang? Could it be...”
 
-Wu Shen Yue⁵ shook her head regretfully, slowly saying, "What a good show. It's a pity my Xing'er's⁶ sincere loyalty was misplaced on a jackal with a blackened soul."
+Pan Buwang raised his right arm and summoned a pitch black demonic spear. He slammed it against the ground with a dull bang, causing a burst of demonic light and an eerie howl unique to dark profound energy.
 
-Wu Shen Xing⁷ snorted indifferently, saying, "Indeed, two kinds of rats cannot emerge from the same hole⁸. But isn't this also a good thing for Xing? The sooner one sees through human nature, the sooner one grows."
+“You and I may share a deep bond, but I am ultimately still a son of the Owl Butterfly Kingdom of God! To me, a Kingdom of God’s honor and pride surpass everything else. Since you humiliated my Owl Butterfly Divine Son, you leave me no choice but to point my spear at you.”
 
-"This Venerable One should actually thank this pathetic and pitiful Pan Bu Wang for giving Xing such a good lesson. This sudden stab in the back⁹ is worth more than thousands of my own guidance and teachings."
+“Aiya, aiya.”
 
-"Indeed."
+Wushen Yue shook his head regretfully while saying slowly, “What a good performance this is. A pity that my Xing’er’s sincere loyalty was misplaced on a wolf with a blackened soul.”
 
-Wu Shen Yue deeply agreed.
+Wushen Xing let out a light harrumph and said uncaringly, “As expected, you cannot find two types of rats from the same rathole. Still, this is a good thing for Xing. The sooner he understands what human nature is, the sooner he will grow.”
 
-"Heheh... hahahaha!"
+“In fact, this regent should thank this pitiful Pan Buwang for teaching Xing a good lesson. This one stab from the back alone is far more effective than thousands of my lessons.”
 
-Facing Pan Bu Wang's words, Sha Xing scoffed, then allowed himself to laugh out loud, losing his composure: "I once regarded you as a close friend, because I respected your genuine love and hate, your actions matching your words... I was indeed too naive, not even realizing my eyes had been blind for so long."
+“That is true.” Wushen Yue nodded in agreement.
 
-"Constantly speaking of aversion, hatred, and then a heart as desolate as an abyss, yet in reality... deep down, you were desperate to find a pole to climb back up¹⁰."
+“Hehe... hahahaha!”
 
-His gaze no longer held respect, and his words no longer concealed his mockery: "What a pity, what a pity. This battle is a contest between God Children, and you don't even have the qualification to enter the arena and face me! Oh no, no, I almost forgot, you've already been expelled from the Owl Butterfly Divine Kingdom. Let alone an Owl Butterfly God Child, you aren't even considered an Owl Butterfly citizen!"
+Sha Xing allowed himself a cold chuckle, but it quickly devolved into uncontrollable laughter. “I viewed you as a close friend because I respected the fact that you loved and hated without disguise, that your actions and words are one... I guess I really am too naive. I was blind this whole time, and I didn’t even recognize it.”
 
-Pan Bu Wang's expression remained unchanged. He said coldly, "Star God Child, your words are mistaken. My Father God's annulment of my God Child title was merely declared verbally, without the formal annulment ceremony¹¹ ever being performed."
+“You claimed that you loathed them to the core and hated them so much that your heart is gray like the abyss... but in reality, you can’t wait to crawl back under their feet, can you?”
 
-Amidst the slightly astonished gazes of the crowd, he calmly continued, "If strictly adhering to the rules, I, Pan Bu Wang, still count as an Owl Butterfly God Child!"
+Whatever respect that once resided in his eyes vanished completely, and he stopped veiling his insults any longer. “What a shame that this is a fight between Divine Sons, meaning that you do not have the right to fight against me! Oh no, no, I almost forgot. You were exiled from the Owl Butterfly Kingdom of God, weren’t you? Forget the Owl Butterfly Divine Son, you are not even a citizen of Owl Butterfly anymore!”
 
-These words, however, caused many present to忍不住 (couldn't help but) snicker. A newly established God Child naturally requires a grand ceremony to announce it to the world. But to discard a God Child, why bother with an annulment ceremony?
+Pan Buwang’s expression didn’t change. He said coldly, “You are wrong, Star Divine Son. Father’s deposition of my title is only verbal. He has never carried out a deposition ceremony.”
 
-"Pan Bu Wang, get down! Stop making a fool of yourself here!" Divine Venerable Qi Heng¹² finally spoke, his words laced with disgust and impatience, not even sparing Pan Bu Wang a glance from the corner of his eye. Pan Bu Wang did not move.
+Everyone stared at him with a bit of astonishment as he said calmly, “Assuming that the rules are followed to the letter, I, Pan Buwang, am still the Owl Butterfly Divine Son!”
 
-At this moment, the Grand Official's¹³ voice boomed like a great bell: "Pan Bu Wang's name is still recorded in the Six Kingdoms' God Child Register and has not been erased."
+His declaration caused a good number of people to burst out laughing. It was natural to hold a conferral ceremony to announce to the world that a Kingdom of God had appointed a new Divine Son. Just the same, it was natural not to hold a deposition ceremony to depose a Divine Son. What would even be the point?
 
-"If Pan Bu Wang no longer holds the title of God Child, his name can be removed by the Myriad Dao Divine Official¹⁴ after this assembly. But at this moment, he indeed has the qualification to participate in this battle." The Grand Official's words were final. Pan Yu Sheng¹⁵ showed a helpless expression. For a completely discarded waste, one who had even given up on himself, how could the Owl Butterfly Divine Kingdom specially travel to the Pure Land¹⁶ to visit the Myriad Dao Divine Official for him? And this minor oversight, which wasn't even a flaw, had become the reason for this abandoned child to cause trouble. Pan Bu Wang's challenge to Sha Xing would not elevate the Owl Butterfly God Child in anyone's eyes; it would only invite more ridicule. It was foreseeable that after Pan Bu Zhuo's¹⁷ crushing defeat, facing the enraged Sha Xing, Pan Bu Wang would only suffer an even more humiliating defeat, adding further disgrace to the already shamed Owl Butterfly Divine Kingdom.
+“Get lost and stop being an embarrassment even more than you already are, Pan Buwang!” The Pray Eternal Divine Regent finally spoke up, but every word he spoke was infused with disgust and impatience. He did not even favor Pan Buwang with a side-eye.
 
-Pan Yu Sheng could not refute the Grand Official. He spoke again, "Pan Bu Wang, I'll say it one more time, get~ down~!"
+Pan Buwang did not move.
 
-His last three words carried the wrath of a Divine Venerable.
+It was at this moment that the Chief Priest spoke loudly like a gong, “Pan Buwang’s name is still recorded in the Six Kingdoms Divine Children Record. His name has not been removed.”
 
-Sha Xing, however, spoke before Pan Bu Wang, loudly, "God Child Bu Wang¹⁸ has stepped forward to defend the honor of the Owl Butterfly God Child. Divine Venerable Qi Heng should commend him, why obstruct and get angry?"
+“If Pan Buwang is no longer the Divine Son, then High Priest Wan Dao shall remove his name from the record after this meeting. But as of now, he is qualified to partake in this battle.”
 
-The four words "God Child Bu Wang" carried an overflowing intensity of mockery.
+The Chief Priest’s word was the deciding factor, and Pan Yushen was helpless to change it, no matter how much he wanted to. Pan Buwang was a useless piece of trash who was abandoned not just by everyone around him, but also by himself. Naturally, there was zero reason the Owl Butterfly Kingdom of God would dispatch someone all the way to High Priest Wan Dao at the Pure Land just to depose him. It was a mistake that didn’t really count as a mistake, and yet the castaway had seized it with both hands and used it to stir up trouble.
 
-"Good, very good."
+Pan Buwang’s counter-challenge against Sha Xing in defense of Pan Buzhuo would not make anyone think better of the Owl Butterfly Divine Son. On the contrary, it would only earn him greater scorn. He could already predict what was going to happen. Having bestowed Pan Buzhuo a humiliating defeat only to be betrayed by his close friend, Sha Xing was naturally going to dish out an even more humiliating defeat to Pan Buwang. This was going to humiliate the Owl Butterfly Kingdom of God even more than it already was.
 
-The Heavenly Wolf Greatsword¹⁹, which had just been lowered, was raised again by Sha Xing, its tip pointing at his former close friend: "This battle, I accept. I hope God Child Bu Wang... will not~ be~ stingy~ with~ your~ guidance!"
+Pan Yusheng could not refute the Chief Priest, so he said again, “I’m going to say this one more time, Pan Buwang. Get. Lost!”
 
-Pan Bu Wang looked up, speaking faintly, "Star God Child seems to have misunderstood. The one I wish to challenge is not you, Star God Child, but... the Star-Moon Twin Jades²⁰!"
+His last two words were imbued with the fury of a Divine Regent.
 
-"..."
+However, Sha Xing spoke up before Pan Buwang. “Divine Son Buwang stood up in order to defend the honor of the Owl Butterfly Divine Son. You should be praising him, not stopping him or getting angry with him, Pray Eternal Divine Regent.”
 
-Sha Xing was momentarily stunned, his face suddenly darkening: "What... did you say!?"
+His scorn was positively dripping when he said the words “Divine Son Buwang”.
 
-Moon God Child Xian Yue's²¹ expression also changed slightly.
+“Anyway, let’s get this over with.”
 
-As if completely unaware of Sha Xing's sudden surge of anger, Pan Bu Wang continued to explain with a detached demeanor: "It is known to all that the perfect combination of the Star God Child and Moon God Child of the Star-Moon Divine Kingdom is the true form of the Star-Moon God Children. Fighting only one of them, for me, holds no meaning."
+Sha Xing raised the Heavenly Wolf greatsword he had just lowered a short while ago and pointed it at his former close friend. “I accept your challenge. Do give me your guidance , Divine Son Buwang.”
 
-A commotion immediately arose, with sneers and low laughter echoing incessantly. The gazes directed at Pan Bu Wang changed again, as if looking at a clown displaying countless disgraceful behaviors.
+Pan Buwang looked up and said indifferently, “You seem to be misunderstanding something, Star Divine Son. I do not intend to challenge you. I intend... to challenge the Twin Stars!”
 
-"Oh, now I'm a bit confused."
+Sha Xing was speechless for an instant. Then, a dark storm brewed on his face. “What... did you say!?”
 
-Wu Shen Yue's demeanor instantly showed keen interest: "Such peculiar words don't seem like an act of allegiance to the Owl Butterfly Divine Kingdom; rather, it's like deliberately provoking Xing'er? Or perhaps using such a self-damaging cost to wound the Owl Butterfly's prestige?"
+Xian Yue, the Moon Divine Son, wasn’t looking too good himself.
 
-Wu Shen Xing narrowed her eyes: "Probably the latter... oh no, it should be both. After all, by provoking the Heavenly Wolf, the latter can be achieved more thoroughly. Regardless, it's very interesting, isn't it?"
+As if he could not feel Sha Xing’s erupting anger, Pan Buwang continued in an indifferent tone, “Everyone knows that the Star Divine Son and the Moon Divine Son of the Star and Moon Kingdom of God are not unleashing at their full strength unless they fight as one. To me, fighting one of you alone carries no meaning whatsoever.”
 
-"Extremely interesting." Wu Shen Yue's eyes narrowed into two long slits, hiding a seductive glint.
+A commotion immediately broke out throughout Eden’s Crown. Scoffs and low chuckles were everywhere. The crowd was already looking down on Pan Buwang before, but now it looked as if they were looking at a clown. An ugly and pathetic clown.
 
-Pan Bu Zhuo, clutching his right cheek, moved to Pan Yu Sheng's side and hissed, "Father God, he's not disgusting Star-Moon; he's disgusting us..."
+“Aiya, your actions are really starting to intrigue me.”
 
-Pan Yu Sheng said coldly, "Shut up."
+Wushen Yue’s curiosity was clearly piqued. “It’s starting to seem like you’re not capitulating to the Owl Butterfly Kingdom of God after all. It looks more like you’re trying to anger Xing’er... or is this an attempt to humiliate Owl Butterfly further at the cost of yourself?”
 
-Pan Bu Zhuo immediately fell silent.
+Wushen Xing narrowed his eyes. “It’s probably the latter... no, it’s probably both. After all, angering the Heavenly Wolf would allow the latter objective to be fulfilled more thoroughly. Well, whatever the truth is, this is quite interesting, isn’t it?”
 
-"Heh... heheheheh!"
+“Oh yes, it is most interesting.” Wushen Yue’s eyes were narrowed into a pair of seductive slits.
 
-Sha Xing laughed... and at this moment, he truly experienced what it meant to laugh out of extreme anger.
+While clutching his right face, Pan Buzhuo walked over to Pan Yusheng and said hoarsely, “He’s not trying to repulse the Star and Moon, father. He’s repulsing us—”
 
-"Challenge the Star-Moon Twin Jades? Do you even deserve it?"
+Pan Yusheng said coldly, “Shut up.”
 
-His gaze at Pan Bu Wang was unfamiliar and icy: "However, since God Child Bu Wang has such courage, how... can I be stingy?"
+Pan Buzhuo immediately fell silent.
 
-Bang! The Heavenly Wolf Holding Star²² slammed heavily onto the ground, and a terrifying wave of energy, carrying the Star God Child's wrath, vibrated in all directions, violently whipping Pan Bu Wang's black hair and clothes, making them flap loudly.
+“Heh... hehehehe!”
 
-"Today, if you have the ability to defeat me, I will bring Moon God Child along and graciously allow you to witness what the Star-Moon Twin Jades are. Is God Child Bu Wang satisfied?"
+Sha Xing laughed... For the first time, he understood why some people laughed when their rage had reached its peak.
 
-The words "ability" and "graciously allow" were equally overflowing with mockery.
+“Challenge the Twin Stars, you say? Who do you think you are?”
 
-"Good."
+The way he looked at Pan Buwang was unfamiliar and icy. “Still, if you dare to issue us the challenge... how could we bear to turn you down?”
 
-Pan Bu Wang agreed without a trace of hesitation, saying cheerfully, "Above the Pure Land, beside the Abyss Emperor²³, you cannot go back on your word!"
+Bang! The Heavenly Wolf Holds A Star struck the ground hard, causing a stunning shockwave imbued with the fury of the Star Divine Son to wash out to the surroundings. Pan Buwang’s black hair and black clothes fluttered wildly because of it.
 
-As his words fell, he transformed into a shadow, entering the barrier, facing Sha Xing a hundred zhang²⁴ apart. A moment ago, they were close friends walking side by side; now, their eyes met, separated as if by a thousand ravines.
+“If you are able to defeat me first, then I will invite the Moon Divine Son onto the battlefield and graciously show you the true power of the Twin Stars. Is this term acceptable to you, Divine Son Buwang?”
 
-"Pan Bu Wang, do you know what you look like in my eyes now?"
+“Defeat me first.” “Graciously.” Both words were stressed with dripping scorn.
 
-Sha Xing chuckled lowly: "A stray dog²⁵, stripped of its fur, its spine broken, thrown out the main gate, yet still wagging its tail and clamoring for its master²⁶, willing to lose all dignity and shame just to crawl back over the threshold."
+“Accepted.”
 
-Sha Xing had never deigned to utter such insulting words... nor had he ever imagined that Pan Bu Wang would be on the receiving end of such words. Pan Bu Wang showed no anger or annoyance; his eyes were like a pool of stagnant water. And his emotions were as calm as his expression.
+Pan Buwang agreed to it without any hesitation whatsoever. “This is the Pure Land, and the Abyssal Monarch is watching. You will not go against your promise!”
 
-What resonated in his Soul Sea²⁷ were the Mist Emperor's²⁸ words from that day.
+As soon as he finished, he morphed into a shadow and entered the barrier. He stopped about three hundred meters away from Sha Xing and met his eyes. One moment ago, they were still close friends. Now, it was as if a million chasms were standing between the two of them.
 
-...
+“Do you know what you look like to me right now, Pan Buwang?”
 
-"Master, what exactly should this disciple do when going to the Pure Land this time?"
+Sha Xing let out a low chuckle. “You look like an ousted dog whose skin has been stripped and whose back was broken before it was tossed out of the front door, but it still barked and wagged its tail for its master in hopes of crawling back to its former home one day.”
 
-Mist Emperor: "Wait! Wait until the God Child Battle, when Sha Xing, to vent your hatred, publicly defeats Pan Bu Zhuo, shattering his God Child dignity."
+Before this, Sha Xing never thought that he would one day voice such horrifying insults to anyone... much less imagine that he would aim them at Pan Buwang.
 
-Bu Wang: "But... allowing Sha Xing to bring me into the Pure Land is already a great favor. Why would he risk offending the Owl Butterfly Divine Kingdom for this disciple?"
+Pan Buwang did not grow angry or annoyed, however. His eyes resembled pools of dead water, and his heart was just as calm as his expression. Buoyed within his soul were the Fog Monarch’s words to him many days ago.
 
-Mist Emperor: "Actively inform him of your 'Mist Emperor's disciple' identity. He will. Because at that time, you will not only be a friend who trusts him and actively seeks his help, but you will also share a common secret about the 'Mist Emperor'."
+Buwang: “What should this disciple do after I go to the Pure Land, master?”
 
-"The most invisible bond that deepens a relationship is a shared secret. The bigger the secret, the more unbreakable the bond."
+Fog Monarch: “Wait! You will wait until the battle of Divine Children begins, and Sha Xing dishes out a humiliating defeat to Pan Buzhuo and breaks his divine dignity for your sake.”
 
-"Coupled with his eagerness to repay and clear the Mist Emperor's kindness... with his character, he will definitely do what he believes is right."
+Buwang: “But... I already owe Sha Xing a huge favor by asking him to bring me into the Pure Land. Why would he take it further and offend the Owl Butterfly Kingdom of God for me?”
 
-Bu Wang: "Since it is Master's judgment, it must be correct. What should this disciple do then?"
+Fog Monarch: “If you tell him that you are the Fog Monarch’s disciple, then he will. After all, you won’t just be a friend who trusted him and asked him for help anymore. You would be accomplices who share a secret called the ‘Fog Monarch’.”
 
-Mist Emperor: "After Pan Bu Zhuo's defeat, you, in the guise of an Owl Butterfly God Child, using the justification of restoring the Owl Butterfly God Child's name, declare war on Sha Xing!"
+“Nothing improves a person’s bond in an invisible manner better than a shared secret. The bigger the secret, the stronger the bond.”
 
-Bu Wang: "Uh?"
+“Combined with the fact that he is desperate to repay his debt and favor to the Fog Monarch... Sha Xing is a man who will do what he believes is right.”
 
-"But... but this disciple is so down and out, only Sha Xing treats me as before. This friendship is precious, and he is this disciple's only true friend in this world."
+Buwang: “Your judgment is never wrong, so I believe you, master. So, what should this disciple do after that?”
 
-"If, as Master says, he would risk offending the Owl Butterfly Divine Kingdom for this disciple, his righteousness is as heavy as a mountain. How can this disciple commit such an act of betrayal and disloyalty..."
+Fog Monarch: “After Pan Buzhuo is defeated, you will challenge Sha Xing to a fight as an Owl Butterfly Divine Son! You will claim that your reason for doing so is to defend the Owl Butterfly Divine Son’s honor!”
 
-Mist Emperor: "Shut up!! Pan Bu Wang, your own blood brother can trample and humiliate you into the mud to secure his position, and even cause your mother's death! Your own father, who once doted on you, can throw you out of the Owl Butterfly Divine Kingdom like trash to protect him. Even blood relatives are like this, yet you, who now have nothing, are still so cowardly and pedantic for the sake of so-called friendship!!"
+Buwang: “What? But... But Sha Xing is the only one who treated me like he used to, despite my fall from grace. Such loyalty is beyond precious, not to mention that he is my one and only true friend in this world.”
 
-"It seems I was mistaken! You are destined to be a useless waste your entire life! Take your 'friendship' that you refuse to let go of, and get out of here!"
+“If he really would go so far as to offend the Owl Butterfly Kingdom of God for me, then his spirit of loyalty truly is as heavy as a mountain. How can I possibly betray such—”
 
-Bu Wang: "...Master, please calm your anger! Master's words are like a sudden enlightenment²⁹; this disciple knows his mistake and will never repeat it. I beg Master's forgiveness! On the Pure Land, this disciple will do his utmost to defeat Sha Xing!"
+Fog Monarch: “Silence! For the sake of solidifying his position, your own brother went so far as to trample your dignity into the mud and kill your mother! To protect your brother, the father who once protected and cherished you, tossed you out of the Owl Butterfly Kingdom of God like trash! After what your own blood relative did to you, you, someone who has lost absolutely everything, dares to act so weak and pedantic for so-called friendship?!”
 
-...
+“It would seem that I was mistaken about you after all! A useless piece of trash is all you are destined to be! Now get out of my face with that so-called ‘spirit of loyalty’ of yours!”
 
-Pan Bu Wang held his spear, its shaft swirling with faint dark ripples, slowly leveling it in front of him with the movement of his arm. In the Mist Sea, he grew every day. Among them, the slowest growth was his profound energy, while the fastest was his dark talent and temperament... both completely transformed. And this unexpected battle, in the eyes of others, was not part of the God Child Battle, but a complete joke.
+Buwang: “... Please calm down, master! Your words are a wake-up call to me. I understand my mistake, and I promise I will never do it again. I beg for your forgiveness, master! I promise I will do my utmost to defeat Sha Xing at the Pure Land!”
 
-Pan Bu Zhuo had already suffered a crushing defeat at Sha Xing's hands, so how could Pan Bu Wang, whose divine essence and dark talent were inferior to Pan Bu Zhuo's, be Sha Xing's opponent... The so-called "witnessing the Star-Moon Twin Jades" was an even greater joke.
+Pan Buwang slowly crossed his spear in front of him while ripples of darkness slowly circled his body. In the Endless Fog, he was growing every day. Out of everything, his profound strength grew the slowest, and his talent for darkness and mentality grew the fastest. It would not be an exaggeration to say that he was a completely different man from before.
 
-Looking at the spear in Pan Bu Wang's hand, Sha Xing let out another sneer: "This spear, I'm afraid, doesn't suit your status as an Owl Butterfly God Child. Or, perhaps borrow the Cold Crow³⁰ of another Owl Butterfly God Child? Lest you say I won unfairly. As fellow Owl Butterfly God Children, and blood relatives, how could he bear to refuse... right?"
+To the spectators, this unexpected duel wasn’t a part of the battle of Divine Children. This was just a comedic interlude.
 
-"No need."
+Even Pan Buzhuo had suffered a horrible defeat in the hands of Sha Xing, so how could Pan Buwang, someone whose divine essence and talent for darkness were all inferior to his brother, possibly defeat Sha Xing?
 
-Pan Bu Wang replied indifferently, speaking softly, "This spear is named 'Silent Night Everlasting Star'³¹. It was used by my mother during her lifetime. When she gave it to me, my mother said that the Everlasting Star is the Morning Star³². Even if I lose everything and fall into the silent night, as long as the spear is here, she will always be by my side, guiding me."
+His desire to witness the Twin Stars in action was an even bigger joke.
 
-As he spoke, the dark, eerie glow flowing around the spear's shaft seemed to be tinged with a faint warmth. Pan Yu Sheng averted his gaze, not a trace of shame in his eyes.
+Seeing Pan Buwang’s spear, Sha Xing let out another disdainful laugh. “This spear is probably undeserving of your identity as an Owl Butterfly Divine Son. Perhaps you should borrow Cold Crow from your other Divine Son. I do not want to hear complaints that you lost because your weapon isn’t up to snuff later. He will lend it to you, right? You are both Owl Butterfly Divine Sons, and you are brothers who are connected by blood. Surely he won’t turn you down... right?”
 
-"..." Sha Xing did not mock him further. With a low roar, the shadow of the Heavenly Wolf suddenly revealed its fangs, its power and might even surpassing when it faced Pan Bu Zhuo.
+“There is no need.”
 
-"Considering our past friendship, I'll give you one last dignity... granting you the most direct and tragic defeat!" Howl! The Heavenly Wolf howled at the moon, its furious roar shaking the sky. The greatsword, swirling with destructive aura, crashed down upon Pan Bu Wang. The hundred zhang space instantly shrunk under the terrifying Heavenly Wolf divine light. The dreadful Heavenly Wolf pressure had not even reached his body, yet it forced Pan Bu Wang to retreat half a step. He stared at the rapidly expanding shadow of the Heavenly Wolf in his pupils, a deep, dark, unusual glint shining in his eyes.
+Pan Buwang said indifferently and softly, “This spear is called ‘Chang Geng[1] of the Silent Night’. It was the spear my mother used when she was still alive. When she entrusted it to me, she once said that Chang Geng is the light-bringing star. Even if I lose everything, even if I plummet into the silent night, so long as her spear is with me, she will always be with me and illuminate my path for me.”
 
-...
+The eerie, black light circulating the spear seemed to gain a warm color as he spoke of his mother. Pan Yusheng looked away without a shred of guilt or regret in his eyes whatsoever.
 
-Bu Wang: "...On the Pure Land, this disciple will do his utmost to defeat Sha Xing!"
+“...” Sha Xing did not taunt Pan Buwang further. He still let out a low shout and summoned the Heavenly Wolf’s shadow. The shadow bared its fangs and displayed power and pressure greater than when he was facing Pan Buzhuo.
 
-Mist Emperor: "No, what you need to do is not defeat, but crush!"
+“For the sake of our old friendship, I will grant you one last dignity... the most terrible defeat you shall ever receive in your life!”
 
-Bu Wang: "Crush? Please enlighten me, Master."
+“ROAAAAARRR!!!”
 
-Mist Emperor: "Crush him within three exchanges!"
+The Heavenly Wolf looked up at the moon and shook the skies with its howls. The next moment, a greatsword wreathed in destructive energies crashed down on Pan Buwang.
 
-Bu Wang: "Master, it's not that this disciple underestimates himself³³. This disciple has full confidence in defeating Sha Xing, but three exchanges... this disciple truly cannot achieve."
+The stunning divine light of the Heavenly Wolf crossed the three hundred meters between the two combatants in just an instant. The Heavenly Wolf’s pressure hadn’t approached yet, and already Pan Buwang was forced back a small step. A deep, dark glint smoldered behind his pupils as the reflection of the Heavenly Wolf’s shadow rapidly grew bigger in his eyes.
 
-Mist Emperor: "In a direct confrontation, you naturally cannot. But don't forget, when you fight Sha Xing, you have a huge advantage. That is..."
+Buwang: “... I promise I will do my utmost to defeat Sha Xing at the Pure Land!”
 
-"Cognitive bias!"
+Fog Monarch: “No, you will not defeat him. You will crush him!”
 
-"Your current body has achieved perfect affinity with dark profound energy. Such affinity is unprecedented in the history of the Abyss; even your Father God cannot hope for it. This means that anyone who fights you for the first time will definitely misjudge your control over dark power."
+Buwang: “Crush? Can you be more specific, master?”
 
-Bu Wang: "Master means... to win by surprise³⁴??"
+Fog Monarch: “You will defeat him utterly in the span of three exchanges!”
 
-Mist Emperor: "Exactly. You must utilize this advantage, which can basically only be used once, to its absolute maximum!"
+Buwang: “Master, please believe that I am not denigrating myself when I say this. I am fully confident that I can defeat Sha Xing, but three exchanges... this disciple simply cannot do it.”
 
-"The God Child Battle is not entirely equivalent to an ordinary battle of victory and defeat. According to past conventions, it will be limited to a barrier only ten thousand zhang wide."
+Fog Monarch: “In a fair fight, of course you cannot do it. But don’t forget that you hold a huge advantage over Sha Xing in the duel. It's called information!”
 
-"The first thing you need to do is to anger Sha Xing. Your public betrayal is the first layer of anger. The second layer of anger is to declare a direct challenge to the Star-Moon Twin Jades."
+“Right now, your body is perfectly compatible with dark profound energy. Such an affinity has never appeared in the Abyss before and is something even your Father can only dream of. Therefore, anyone who fights you for the first time will sorely misjudge your control over darkness.”
 
-"Anger will devour sobriety. A mature expert will try to extinguish anger as much as possible during a fight, but the Heavenly Wolf is different. Because anger will boost the power of the Heavenly Wolf, Sha Xing will not suppress his anger; instead, he will let it burn within him."
+Buwang: “You’re saying... I should win by a surprise move?”
 
-"Under anger, he will inevitably want to give you a crushing defeat in the shortest possible time. Then, the sword stance he uses next will follow his burning anger."
+Fog Monarch: “Correct. This is an advantage that will only work once. Naturally, you should maximize what you can gain from it!”
 
-"He will strike before you. The first sword will be two parts 'Heavenly Wolf Slash,' seven parts 'Savage Fang'³⁵, and one part 'Instant Prison Calamity'... I will now teach you how to identify the starting stances of these sword moves..."
+“The duel between Divine Children is not entirely the same as a common duel. According to past regulations, you will be fighting within a barrier that’s only thirty kilometers wide.”
 
-...
+“The first thing you should do is to anger Sha Xing. Your open betrayal will apply the first layer of anger on him, and your wish to challenge the Twin Stars will add the second layer.”
 
-Everything unfolded exactly as if following a script pre-written by his Master, with almost no difference.
+“Anger consumes the mind. A mature champion will do their best to appease their anger during combat, but a Heavenly Wolf is different. Anger fuels a Heavenly Wolf’s strength, so not only would he not appease his anger, he would allow it to burn him freely.”
 
-The very first moment Sha Xing raised his sword, he recognized it: it was the second sword of the Heavenly Wolf Prison God Canon³⁶ — Savage Fang!
+“In his anger, he will try to grant you the most terrible defeat in the shortest amount of time possible. Therefore, his chosen sword style will be one that fits his rage.”
 
-He couldn't understand, nor did he dare to ask, why his Master knew the Star-Moon Divine Kingdom's Heavenly Wolf sword techniques to such a terrifying extent.
+“He will attack you first. His first attack will be one-fifth ‘Heavenly Wolf Slash’, two-thirds ‘Wild Fang’, and one-tenth ‘Instantaneous Hell Calamity’... I will now teach you how to identify the cues of these sword techniques.”
 
-...
+Everything was going exactly to the script his master wrote.
 
-"If his opening sword move is 'Savage Fang,' you must retreat half a step to the left, and when receiving the move, show three parts of a losing stance... When 'Savage Fang' forms such a suppressive posture, Sha Xing will have over ninety percent chance of unleashing 'Heavenly Star Lament'³⁷."
+From the instant Sha Xing raised his sword, Pan Buwang immediately recognized that he was using the Second Sword Style of the Heavenly Wolf Hell God’s Tome, Wild Fang!
 
-"'Heavenly Star Lament' has immense power and immense flaws. However, once the preceding move creates enough suppression, one can disregard the flaws during the execution of 'Heavenly Star Lament'... In Sha Xing's perception, and in the perception of everyone in the Abyss, even if you completely abandon defense and fight with your life on the line³⁸, you cannot, while suppressed, unleash enough dark profound energy to seize the flaw."
+Pan Buwang had no idea how his master was familiar with the Star and Moon Kingdom of God’s Heavenly Wolf Style to a degree that could only be described as horrifying. He didn’t dare to ask about it either.
 
-"Then, when his Heavenly Star faintly glows, strike the spot three fingers below his right shoulder bone with an instantaneous burst of dark power. In that instant, the newly surging Heavenly Star power will completely dissipate, backfiring and devouring him!"
+“If his cues indicate that he is unleashing ‘Wild Fang’, you should take half a step to the left and pretend to be pushed back somewhat when you receive the attack.”
+
+“Seeing that Wild Fang is able to press you to this extent, there is over a ninety percent chance that Sha Xing would follow up with ‘Heavenly Star Lamentation’.”
+
+“‘Heavenly Star Lamentation’ is as powerful as it is full of openings. However, this flaw doesn’t matter assuming that the opponent is sufficiently suppressed by the previous technique.”
+
+“As far as Sha Xing knows—as far as everyone in the Abyss knows—even if you give up on defense completely and throw yourself into an utterly reckless offensive, you still cannot unleash enough dark profound energy to take advantage of an opening while in a suppressed state.”
+
+“So, as soon as his Heavenly Star glimmers a little, you will strike the spot three fingers below his right shoulder bone with an explosion of dark energy. This one explosion is enough to collapse his building Heavenly Star power completely and create a massive backlash!”
+
+1. classical Chinese name for planet Venus in the west after dusk. ☜
