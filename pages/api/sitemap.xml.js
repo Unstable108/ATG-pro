@@ -5,7 +5,7 @@ export default function handler(req, res) {
   const host = process.env.NEXT_PUBLIC_SITE_URL || `https://${req.headers.host}`;
   const chapters = getAllChapters();
   // basic static pages
-  const staticPages = ["/", "/chapters", "/admin", "/track"];
+  const staticPages = ["/", "/chapters", ];
 
   const urls = [
     ...staticPages.map((p) => `${host}${p}`),

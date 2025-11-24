@@ -5,9 +5,27 @@ import Head from "next/head";
 import { useMemo, useState, useEffect } from "react";
 
 export async function getServerSideProps() {
-  // For a small site, KEYS is okay; if it grows we can switch to SCAN.
-  const keys = await redis.keys("stats:*");
-  const entries = await Promise.all(keys.map(async (k) => [k, await redis.get(k)]));
+  // If Redis isn't configured (e.g. local dev), return empty stats instead of crashing.
+  if (!redis) {
+    console.warn("[track] Redis not configured; returning empty stats");
+    return { props: { stats: {} } };
+  }
+
+  // Use SCAN via scanIterator so we don't block Redis with KEYS on large datasets.
+  const keys = [];
+  if (typeof redis.scanIterator === "function") {
+    for await (const key of redis.scanIterator({ match: "stats:*" })) {
+      keys.push(key);
+    }
+  } else if (typeof redis.keys === "function") {
+    // Fallback for old versions
+    const ks = await redis.keys("stats:*");
+    keys.push(...ks);
+  }
+
+  const entries = await Promise.all(
+    keys.map(async (k) => [k, await redis.get(k)])
+  );
   const raw = Object.fromEntries(entries);
 
   // Normalize: try parse JSON values, fallback to number/string
@@ -97,8 +115,7 @@ export default function Track({ stats }) {
       const q = pathQuery.toLowerCase();
       rows = rows.filter(
         (r) =>
-          r.path.toLowerCase().includes(q) ||
-          r.key.toLowerCase().includes(q)
+          r.path.toLowerCase().includes(q) || r.key.toLowerCase().includes(q)
       );
     }
 
@@ -171,7 +188,10 @@ export default function Track({ stats }) {
               >
                 Download CSV
               </button>
-              <Link href="/" className="px-3 py-1 rounded border bg-transparent">
+              <Link
+                href="/"
+                className="px-3 py-1 rounded border bg-transparent"
+              >
                 Open site
               </Link>
             </div>
@@ -184,9 +204,7 @@ export default function Track({ stats }) {
                 Total events
               </div>
               <div className="mt-2 text-2xl font-semibold">{totalEvents}</div>
-              <div className="mt-1 text-xs text-slate-500">
-                Sum of all keys
-              </div>
+              <div className="mt-1 text-xs text-slate-500">Sum of all keys</div>
             </div>
 
             <div className="p-4 rounded bg-slate-800">
@@ -343,9 +361,8 @@ export default function Track({ stats }) {
           </section>
 
           <div className="mt-4 text-xs text-slate-500">
-            Tip: stats keys follow this pattern:{" "}
-            <code>stats:path:/...</code>, <code>stats:country:IN</code>,{" "}
-            <code>stats:total:view</code>, etc.
+            Tip: stats keys follow this pattern: <code>stats:path:/...</code>,{" "}
+            <code>stats:country:IN</code>, <code>stats:total:view</code>, etc.
           </div>
         </div>
       </div>
