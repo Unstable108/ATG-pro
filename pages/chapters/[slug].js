@@ -182,7 +182,7 @@ export default function Chapter({
         <main className="flex-1">
           {/* Chapter header */}
           <div className="chapter-meta">
-            <div className="novel-title">Against The God</div>
+            <div className="novel-title">Against The Gods</div>
             <div className="chapter-title">
               Chapter {chapter.chapterNumber}
               {chapter.title ? ` — ${chapter.title}` : ""}
