@@ -13,8 +13,14 @@ export async function getServerSideProps() {
 
   // Use SCAN via scanIterator so we don't block Redis with KEYS on large datasets.
   const keys = [];
-  for await (const key of redis.scanIterator({ match: "stats:*" })) {
-    keys.push(key);
+  if (typeof redis.scanIterator === "function") {
+    for await (const key of redis.scanIterator({ match: "stats:*" })) {
+      keys.push(key);
+    }
+  } else if (typeof redis.keys === "function") {
+    // Fallback for old versions
+    const ks = await redis.keys("stats:*");
+    keys.push(...ks);
   }
 
   const entries = await Promise.all(
@@ -37,7 +43,6 @@ export async function getServerSideProps() {
 
   return { props: { stats } };
 }
-
 
 // safe numeric getter
 function toNumber(v) {
@@ -110,8 +115,7 @@ export default function Track({ stats }) {
       const q = pathQuery.toLowerCase();
       rows = rows.filter(
         (r) =>
-          r.path.toLowerCase().includes(q) ||
-          r.key.toLowerCase().includes(q)
+          r.path.toLowerCase().includes(q) || r.key.toLowerCase().includes(q)
       );
     }
 
@@ -184,7 +188,10 @@ export default function Track({ stats }) {
               >
                 Download CSV
               </button>
-              <Link href="/" className="px-3 py-1 rounded border bg-transparent">
+              <Link
+                href="/"
+                className="px-3 py-1 rounded border bg-transparent"
+              >
                 Open site
               </Link>
             </div>
@@ -197,9 +204,7 @@ export default function Track({ stats }) {
                 Total events
               </div>
               <div className="mt-2 text-2xl font-semibold">{totalEvents}</div>
-              <div className="mt-1 text-xs text-slate-500">
-                Sum of all keys
-              </div>
+              <div className="mt-1 text-xs text-slate-500">Sum of all keys</div>
             </div>
 
             <div className="p-4 rounded bg-slate-800">
@@ -356,9 +361,8 @@ export default function Track({ stats }) {
           </section>
 
           <div className="mt-4 text-xs text-slate-500">
-            Tip: stats keys follow this pattern:{" "}
-            <code>stats:path:/...</code>, <code>stats:country:IN</code>,{" "}
-            <code>stats:total:view</code>, etc.
+            Tip: stats keys follow this pattern: <code>stats:path:/...</code>,{" "}
+            <code>stats:country:IN</code>, <code>stats:total:view</code>, etc.
           </div>
         </div>
       </div>

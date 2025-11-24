@@ -9,7 +9,7 @@ export default async function handler(req, res) {
   const { event = "view", path = "/", meta } = req.body || {};
   const country = req.headers["x-vercel-ip-country"] || "UNKNOWN";
 
-  // If Redis is not configured (e.g. local dev), just no-op.
+  // If Redis is not configured (e.g. local dev / some preview env), just no-op.
   if (!redis) {
     console.warn("[track] Redis not configured, skipping track for", path);
     return res
@@ -20,7 +20,7 @@ export default async function handler(req, res) {
   try {
     // Example keys:
     // stats:total:view
-    // stats:path:/chapters/01-introduction
+    // stats:path:/chapters/xxx
     // stats:country:IN
     const ops = [
       redis.incr(`stats:total:${event}`),
