@@ -1,11 +1,28 @@
 {
-  "name": "Against The Gods Webnovel Reader",
-  "short_name": "ATG Reader",
+  "name": "Against The Gods Webnovel",
+  "short_name": "ATG",
   "start_url": "/",
   "scope": "/",
   "display": "standalone",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
   "description": "Read Against The Gods webnovel chapters online free, mobile-friendly reader and latest chapter updates.",
-  "icons": []
+  "icons": [
+    {
+      "src": "/icon1.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/icon2.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "/icon3.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "maskable"
+    }
+  ]
 }
