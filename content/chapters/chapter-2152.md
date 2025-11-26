@@ -1,6 +1,6 @@
 ---
 chapterNumber: 2152
-title: "A Heart Unwavering and Flawless"
+title: ""
 publishedAt: "2025-11-26"
 ---
 
