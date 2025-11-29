@@ -19,7 +19,10 @@ const FONT_FAMILIES = [
   },
 ];
 
-export default function ReaderControls({ showMobileControls = true }) {
+export default function ReaderControls({ 
+  showMobileControls = true, 
+  onToggleChapters,  // NEW: Prop for mobile hamburger to toggle sidebar
+}) {
   const [fontSize, setFontSize] = useState(18);
   const [fontFamily, setFontFamily] = useState(FONT_FAMILIES[0].css);
   const [sepiaOn, setSepiaOn] = useState(false);
@@ -72,7 +75,7 @@ export default function ReaderControls({ showMobileControls = true }) {
 
   return (
     <>
-      {/* Desktop toolbar */}
+      {/* Desktop toolbar - Keeps sepia */}
       <div className="hidden sm:block p-3 bg-gray-50 dark:bg-slate-800 border border-gray-200 dark:border-slate-700 rounded-md shadow-sm mb-3 text-slate-900 dark:text-slate-100">
         <div className="flex gap-3 items-center flex-wrap">
           {/* Font family */}
@@ -132,7 +135,7 @@ export default function ReaderControls({ showMobileControls = true }) {
         </div>
       </div>
 
-      {/* Mobile bottom toolbar */}
+      {/* Mobile bottom toolbar - Replaces sepia with hamburger for sidebar */}
       {showMobileControls && (
         <div className="sm:hidden fixed bottom-3 left-1/2 transform -translate-x-1/2 z-50 w-[92%]">
           <div className="bg-white dark:bg-slate-800 rounded-xl p-2 shadow-lg flex items-center justify-between border border-slate-200 dark:border-slate-700">
@@ -156,14 +159,16 @@ export default function ReaderControls({ showMobileControls = true }) {
               </button>
             </div>
 
-            {/* Sepia toggle (mobile) */}
+            {/* Hamburger for sidebar (mobile only, replaces sepia) */}
             <button
               type="button"
-              aria-label="Toggle sepia mode"
-              onClick={() => setSepiaOn((v) => !v)}
-              className="px-3 py-1 rounded border text-lg bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 border-slate-200 dark:border-slate-600"
+              aria-label="Open chapter list"
+              onClick={() => onToggleChapters?.()}  // Calls parent toggle
+              className="px-3 py-1 rounded border text-lg bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100 border-slate-200 dark:border-slate-600 flex items-center"
             >
-              {getMobileThemeIcon()}
+              <svg className="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M4 6h16M4 12h16M4 18h16" />
+              </svg>
             </button>
 
             {/* Reset */}

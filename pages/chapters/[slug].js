@@ -1,4 +1,4 @@
-// pages/chapters/[slug].js
+// pages/chapters/[slug].js (Minimal update: Pass prop to ReaderControls)
 import { getAllChapters, getChapterBySlug } from "../../lib/chapters";
 import ReaderControls from "../../components/ReaderControls";
 import Head from "next/head";
@@ -20,6 +20,7 @@ export default function Chapter({
 }) {
   const [bookmarked, setBookmarked] = useState(false);
   const [chapOpen, setChapOpen] = useState(false);
+  const [isMenuOpen, setIsMenuOpen] = useState(false);  // Track from TopBar
   const router = useRouter();
   const articleRef = useRef(null);
 
@@ -80,6 +81,8 @@ export default function Chapter({
   // chrome hide/show on scroll direction
   useEffect(() => {
     function handleScrollDirection() {
+      if (isMenuOpen) return;  // Ignore scrolls when menu open—no hiding!
+
       const current = window.scrollY || 0;
       const last = lastScrollYRef.current;
       const delta = current - last;
@@ -96,7 +99,20 @@ export default function Chapter({
 
     window.addEventListener("scroll", handleScrollDirection, { passive: true });
     return () => window.removeEventListener("scroll", handleScrollDirection);
-  }, []);
+  }, [isMenuOpen]);  // Depend on isMenuOpen
+
+  // Callback for TopBar
+  const handleMenuToggle = (open) => {
+    setIsMenuOpen(open);
+    if (open) {
+      setChromeHidden(false);  // Force-show topbar on menu open (bonus smoothness)
+    }
+  };
+
+  // NEW: Toggle for mobile hamburger in ReaderControls
+  const handleToggleChapters = () => {
+    setChapOpen((prev) => !prev);
+  };
 
   // keyboard navigation
   useEffect(() => {
@@ -238,8 +254,9 @@ export default function Chapter({
       <div id="read-progress-bar" className="read-progress-bar" />
 
       <TopBar
-        onOpenChapters={() => setChapOpen(true)}
+        // REMOVED: onOpenChapters (no longer needed, handled via ReaderControls)
         isHidden={chromeHidden}
+        onMenuToggle={handleMenuToggle}
       />
 
       <div className="max-w-6xl mx-auto flex gap-6 px-1 sm:px-6 lg:px-8 py-6">
@@ -296,7 +313,10 @@ export default function Chapter({
           </div>
 
           <div className="mb-4">
-            <ReaderControls showMobileControls={!chromeHidden} />
+            <ReaderControls 
+              showMobileControls={!chromeHidden}
+              onToggleChapters={handleToggleChapters}  // NEW: Pass toggle handler
+            />
           </div>
 
           {/* Article */}
