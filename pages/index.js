@@ -8,8 +8,12 @@ import fs from "fs";
 import path from "path";
 import { useEffect, useState } from "react";
 import Head from "next/head";
+import { useRouter } from "next/router";
+import ChapterSearchToggle from "../components/ChapterSearchToggle";
+import { ArrowUp, ArrowDown } from "lucide-react";
 
 export default function Home({ novel, chapters }) {
+  const router = useRouter();
   const latest = [...chapters].slice(-2).reverse(); // latest 2, newest first
 
   // Client-side state for continue reading
@@ -99,6 +103,18 @@ export default function Home({ novel, chapters }) {
     ],
   };
 
+  // called when user presses Enter in home-page search box
+  const handleHomeSearchSubmit = (term) => {
+    if (!term) {
+      router.push("/chapters");
+    } else {
+      router.push({
+        pathname: "/chapters",
+        query: { q: term },
+      });
+    }
+  };
+
   return (
     <div className="min-h-screen bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100">
       <Head>
@@ -106,7 +122,7 @@ export default function Home({ novel, chapters }) {
         <meta name="description" content={metaDesc} />
         <meta
           name="keywords"
-          content="Against the Gods, ATG, webnovel, latest chapter, Against the Gods chapter list, Against the Gods English translation"
+          content="Against the Gods, ATG,against the god chapter 2000, against the god new chapters, Against the God novel new chapter, Against the God novel chapters , webnovel, latest chapter, Against the Gods chapter list, Against the Gods English translation"
         />
         <meta property="og:title" content={metaTitle} />
         <meta property="og:description" content={metaDesc} />
@@ -153,9 +169,7 @@ export default function Home({ novel, chapters }) {
                       className="font-medium"
                     >
                       Chapter {continueItem.chapterNumber}
-                      {continueItem.title
-                        ? ` — ${continueItem.title}`
-                        : ""}
+                      {continueItem.title ? ` — ${continueItem.title}` : ""}
                     </Link>
                   </div>
                   <div className="text-sm text-gray-600">
@@ -172,9 +186,7 @@ export default function Home({ novel, chapters }) {
                   <button
                     className="ml-2 text-xs text-red-600"
                     onClick={() => {
-                      localStorage.removeItem(
-                        `progress:${continueItem.slug}`
-                      );
+                      localStorage.removeItem(`progress:${continueItem.slug}`);
                       setContinueItem(null);
                     }}
                   >
@@ -270,17 +282,34 @@ export default function Home({ novel, chapters }) {
 
         {/* CHAPTER LIST */}
         <section>
-          <div className="flex items-center justify-between mb-4">
+          <div className="flex items-center justify-between mb-4 gap-3">
             <h2 className="text-xl font-semibold">All Chapters</h2>
-            <button
-              type="button"
-              onClick={() => setSortAsc((prev) => !prev)}
-              className="inline-flex items-center gap-1 text-sm border px-3 py-1 rounded-md text-blue-600 border-blue-200 hover:bg-blue-50 dark:hover:bg-slate-800"
-              aria-label="Toggle chapter sort order"
-            >
-              <span>{sortAsc ? "Ascending" : "Descending"}</span>
-              <span className="text-xs">{sortAsc ? "↑" : "↓"}</span>
-            </button>
+
+            <div className="flex items-center gap-2">
+              {/* 👉 Search icon + expanding box, LEFT of Asc/Desc button */}
+              <ChapterSearchToggle
+                onSubmit={handleHomeSearchSubmit}
+                placeholder="Jump by number or title..."
+              />
+
+              <button
+                type="button"
+                onClick={() => setSortAsc((prev) => !prev)}
+                className="inline-flex items-center justify-center gap-1 rounded-full border border-blue-200 px-3 py-2 text-sm font-medium text-blue-600 hover:bg-blue-50 hover:border-blue-300 dark:border-blue-800 dark:text-blue-400 dark:hover:bg-slate-800 transition-all duration-200"
+                aria-label={
+                  sortAsc
+                    ? "Sorted ascending – click to sort descending"
+                    : "Sorted descending – click to sort ascending"
+                }
+              >
+                {sortAsc ? (
+                  <ArrowUp className="h-4 w-4" strokeWidth={2.5} />
+                ) : (
+                  <ArrowDown className="h-4 w-4" strokeWidth={2.5} />
+                )}
+                {/* <span className="hidden sm:inline">Chapters</span> */}
+              </button>
+            </div>
           </div>
 
           <ul className="space-y-3">

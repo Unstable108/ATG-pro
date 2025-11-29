@@ -1,92 +1,128 @@
 // pages/chapters/index.js
-import Link from 'next/link'
-import TopBar from '../../components/TopBar'
-import { getAllChapters } from '../../lib/chapters'
-import { useRouter } from 'next/router'
-import { useEffect, useState } from 'react'
+import Link from "next/link";
+import TopBar from "../../components/TopBar";
+import { getAllChapters } from "../../lib/chapters";
+import { useRouter } from "next/router";
+import { useEffect, useState } from "react";
+import ChapterSearchToggle from "../../components/ChapterSearchToggle";
 
 export default function ChaptersPage({ chapters }) {
-  const router = useRouter()
-  const [filtered, setFiltered] = useState(chapters)
-  const [searchInfo, setSearchInfo] = useState('')
-  const [searchQuery, setSearchQuery] = useState('')
+  const router = useRouter();
+  const [filtered, setFiltered] = useState(chapters);
+  const [searchInfo, setSearchInfo] = useState("");
+  const [searchQuery, setSearchQuery] = useState("");
 
   useEffect(() => {
-    if (!router.isReady) return
+    if (!router.isReady) return;
 
-    const qParam = router.query.q
+    const qParam = router.query.q;
     if (!qParam) {
       // no query: show all chapters
-      setFiltered(chapters)
-      setSearchInfo('')
-      setSearchQuery('')
-      return
+      setFiltered(chapters);
+      setSearchInfo("");
+      setSearchQuery("");
+      return;
     }
 
-    const q = Array.isArray(qParam) ? qParam[0] : qParam
-    const trimmed = q.trim()
+    const q = Array.isArray(qParam) ? qParam[0] : qParam;
+    const trimmed = q.trim();
     if (!trimmed) {
-      setFiltered(chapters)
-      setSearchInfo('')
-      setSearchQuery('')
-      return
+      setFiltered(chapters);
+      setSearchInfo("");
+      setSearchQuery("");
+      return;
     }
 
     // Try numeric search first (chapter number)
-    const num = Number(trimmed)
+    const num = Number(trimmed);
     if (!Number.isNaN(num) && Number.isInteger(num) && num > 0) {
       const target = chapters.find(
         (c) => Number(c.chapterNumber) === num
-      )
+      );
       const maxChapter = chapters.reduce(
-        (max, c) => (Number(c.chapterNumber) > max ? Number(c.chapterNumber) : max),
+        (max, c) =>
+          Number(c.chapterNumber) > max ? Number(c.chapterNumber) : max,
         0
-      )
+      );
 
       if (target) {
         // go directly to that chapter page
-        router.replace(`/chapters/${target.slug}`)
-        return
+        router.replace(`/chapters/${target.slug}`);
+        return;
       } else {
         // go to the highest chapter available
         const last = chapters.reduce(
           (best, c) =>
-            Number(c.chapterNumber) > Number(best.chapterNumber) ? c : best,
+            Number(c.chapterNumber) > Number(best.chapterNumber)
+              ? c
+              : best,
           chapters[0]
-        )
-        router.replace(`/chapters/${last.slug}`)
-        return
+        );
+        router.replace(`/chapters/${last.slug}`);
+        return;
       }
     }
 
     // Text search: match in title (and optionally chapterNumber as string)
-    const lower = trimmed.toLowerCase()
+    const lower = trimmed.toLowerCase();
     const list = chapters.filter((c) => {
-      const title = (c.title || '').toLowerCase()
+      const title = (c.title || "").toLowerCase();
       return (
         title.includes(lower) || String(c.chapterNumber).includes(lower)
-      )
-    })
+      );
+    });
 
-    setSearchQuery(trimmed)
-    setFiltered(list)
-    setSearchInfo(`Found ${list.length} chapter(s) for "${trimmed}"`)
-  }, [router.isReady, router.query.q, chapters])
+    setSearchQuery(trimmed);
+    setFiltered(list);
+    setSearchInfo(`Found ${list.length} chapter(s) for "${trimmed}"`);
+  }, [router.isReady, router.query.q, chapters]);
+
+  // current query string (for pre-filling the toggle input)
+  const qParam = router.query.q;
+  const currentQuery =
+    typeof qParam === "string"
+      ? qParam
+      : Array.isArray(qParam)
+      ? qParam[0]
+      : "";
+
+  // called when user presses Enter in the search box
+  const handleSearchSubmit = (term) => {
+    if (!term) {
+      router.push("/chapters");
+    } else {
+      router.push({
+        pathname: "/chapters",
+        query: { q: term },
+      });
+    }
+  };
 
   return (
     <div className="min-h-screen bg-white dark:bg-slate-900 text-slate-900 dark:text-slate-100">
       <TopBar onOpenChapters={() => {}} />
 
       <main className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <header className="mb-6">
-          <h1 className="text-2xl md:text-3xl font-bold mb-1">All Chapters</h1>
-          <p className="text-sm text-gray-600 dark:text-slate-400">
-            Browse every chapter, or use the search box to jump by number or
-            search by title.
-          </p>
-          {searchQuery && (
-            <p className="mt-2 text-sm text-blue-600">{searchInfo}</p>
-          )}
+        <header className="mb-6 flex flex-col gap-3 sm:flex-row sm:items-center sm:justify-between">
+          <div>
+            <h1 className="text-2xl md:text-3xl font-bold mb-1">
+              All Chapters
+            </h1>
+            <p className="text-sm text-gray-600 dark:text-slate-400">
+              Browse every chapter, or use the search icon to jump by number
+              or search by title.
+            </p>
+            {searchQuery && (
+              <p className="mt-2 text-sm text-blue-600">{searchInfo}</p>
+            )}
+          </div>
+
+          {/* 👉 Right-side search icon + expandable input */}
+          <ChapterSearchToggle
+            initialValue={currentQuery || ""}
+            onSubmit={handleSearchSubmit}
+            placeholder="Search by number or title..."
+          />
         </header>
 
         <ul className="space-y-3">
@@ -99,11 +135,11 @@ export default function ChaptersPage({ chapters }) {
                 <Link href={`/chapters/${ch.slug}`} className="block">
                   <div className="text-lg font-medium">
                     Chapter {ch.chapterNumber}
-                    {ch.title ? ` — ${ch.title}` : ''}
+                    {ch.title ? ` — ${ch.title}` : ""}
                   </div>
                   <div className="text-sm text-gray-500 mt-1">
-                    {(ch.excerpt || '').slice(0, 140)}
-                    {(ch.excerpt || '').length > 140 ? '...' : ''}
+                    {(ch.excerpt || "").slice(0, 140)}
+                    {(ch.excerpt || "").length > 140 ? "..." : ""}
                   </div>
                 </Link>
               </div>
@@ -120,7 +156,7 @@ export default function ChaptersPage({ chapters }) {
         </ul>
       </main>
     </div>
-  )
+  );
 }
 
 export async function getStaticProps() {
@@ -133,4 +169,3 @@ export async function getStaticProps() {
 
   return { props: { chapters }, revalidate: 60 };
 }
-
