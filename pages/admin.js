@@ -21,6 +21,7 @@ export default function AdminPage() {
   const [downloadUrl, setDownloadUrl] = useState(null);
   const [downloadName, setDownloadName] = useState(null);
   const [commitUrl, setCommitUrl] = useState(null);
+  const novelSlug = 'atg'; // Hardcoded for ATG-only
 
   useEffect(() => {
     try {
@@ -91,6 +92,7 @@ export default function AdminPage() {
       fd.append("chapterNumber", chapterNumber);
       fd.append("title", title);
       fd.append("content", content);
+      fd.append("novelSlug", novelSlug); // New: Pass ATG slug
 
       const file =
         fileInputRef.current &&
@@ -164,7 +166,7 @@ export default function AdminPage() {
       setDownloadName(suggestedName);
       setStatus({
         type: "info",
-        msg: "No GitHub configured — markdown prepared for download (save into content/chapters/ and push).",
+        msg: `No GitHub configured — markdown prepared for download (save into content/novels/${novelSlug}/chapters/ and push).`,
       });
 
       // Save token
@@ -367,15 +369,17 @@ export default function AdminPage() {
           <h2 className="font-semibold">Notes</h2>
           <ul className="list-disc ml-5 mt-2">
             <li>
+              Uploads to <code>content/novels/atg/chapters/{filename}.md</code>.
+            </li>
+            <li>
               If your deployment has <code>GITHUB_TOKEN</code>,{" "}
               <code>REPO_OWNER</code>, and <code>REPO_NAME</code> env vars set,
-              this endpoint will commit the markdown into{" "}
-              <code>content/chapters/{"{filename}.md"}</code> on the configured
+              this endpoint will commit the markdown into the ATG chapters folder on the configured
               branch.
             </li>
             <li>
               Otherwise the API returns a generated markdown file — download it
-              and add it into <code>content/chapters/</code>, then push to your
+              and add it into <code>content/novels/atg/chapters/</code>, then push to your
               repo.
             </li>
             <li>

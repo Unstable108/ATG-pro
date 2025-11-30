@@ -198,6 +198,7 @@ export default async function handler(req, res) {
   let chapterNumber = fields.chapterNumber || fields.chapter || "";
   let title = fields.title || "";
   let textContentField = fields.content || "";
+  let novelSlug = fields.novelSlug || 'atg'; // New: Default to ATG
   let fileText = "";
 
   // Handle uploaded file present in `files` (robust extraction for different formidable shapes)
@@ -308,7 +309,7 @@ export default async function handler(req, res) {
 
   if (GITHUB_TOKEN && REPO_OWNER && REPO_NAME) {
     try {
-      const pathInRepo = `content/chapters/${filename}.md`;
+      const pathInRepo = `content/novels/${novelSlug}/chapters/${filename}.md`; // Updated: Nested path
       const url = `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${encodeURIComponent(
         pathInRepo
       )}`;
@@ -326,7 +327,7 @@ export default async function handler(req, res) {
       }
 
       const putBody = {
-        message: `Add/Update chapter ${chapterNumber} - ${title || filename}`,
+        message: `Add/Update chapter ${chapterNumber} - ${title || filename} (Novel: ${novelSlug})`, // Minor log tweak
         content: Buffer.from(md).toString("base64"),
         branch: BRANCH,
       };
@@ -344,7 +345,8 @@ export default async function handler(req, res) {
       const putJson = await putRes.json();
       if (putRes.status >= 200 && putRes.status < 300) {
         console.log(
-          "[upload] commit success",
+          "[upload] commit success to",
+          pathInRepo,
           putJson.content && putJson.content.path
         );
         return res.status(200).json({ success: true, github: putJson });
@@ -364,6 +366,12 @@ export default async function handler(req, res) {
         });
     }
   }
+
+  // Fallback: No GitHub, return md for download
+  // Optional: Write locally for dev (uncomment if needed)
+  // const chaptersDir = path.join(process.cwd(), 'content', 'novels', novelSlug, 'chapters');
+  // if (!fs.existsSync(chaptersDir)) fs.mkdirSync(chaptersDir, { recursive: true });
+  // await fs.promises.writeFile(path.join(chaptersDir, `${filename}.md`), md);
 
   res.setHeader("Content-Disposition", `attachment; filename=${filename}.md`);
   res.setHeader("Content-Type", "text/markdown");

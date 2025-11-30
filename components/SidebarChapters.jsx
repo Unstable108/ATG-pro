@@ -8,6 +8,7 @@ export default function SidebarChapters({
   open,
   onClose,
   currentSlug,
+  basePath = '', // NEW: Prop for dynamic prefix ('' for ATG, '/lee-gwak' for others)
 }) {
   const router = useRouter();
 
@@ -24,6 +25,9 @@ export default function SidebarChapters({
       };
     }
   }, [open]);
+
+  // Helper for chapter link
+  const getChapterLink = (slug) => `${basePath}/chapters/${slug}`;
 
   return (
     <>
@@ -42,7 +46,7 @@ export default function SidebarChapters({
               return (
                 <li key={ch.slug}>
                   <Link
-                    href={`/chapters/${ch.slug}`}
+                    href={getChapterLink(ch.slug)}
                     className={
                       "block px-3 py-2 rounded text-sm transition-colors " +
                       (isActive
@@ -87,6 +91,7 @@ export default function SidebarChapters({
               <button
                 onClick={onClose}
                 className="p-1 rounded hover:bg-slate-100 dark:hover:bg-slate-800"
+                aria-label="Close chapter list"
               >
                 ✕
               </button>
@@ -100,7 +105,7 @@ export default function SidebarChapters({
                   return (
                     <li key={ch.slug}>
                       <Link
-                        href={`/chapters/${ch.slug}`}
+                        href={getChapterLink(ch.slug)}
                         onClick={onClose}
                         className={
                           "block px-3 py-2 rounded text-sm transition-colors " +

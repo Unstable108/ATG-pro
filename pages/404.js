@@ -97,10 +97,20 @@ export default function Custom404({ latestChapter }) {
 }
 
 export async function getStaticProps() {
-  const chapters = getAllChapters();
+  const allChaps = await getAllChapters('atg'); // Await + slug
+  const chapters = allChaps.map((c) => ({ // Or whatever your map does
+    slug: c.slug,
+    chapterNumber: c.chapterNumber,
+    title: c.title,
+  }));
   if (!chapters || chapters.length === 0) {
     return { props: { latestChapter: null }, revalidate: 60 };
   }
+  // Your reduce logic here (e.g., grouping or summary)
+  const chapterSummary = chapters.reduce((acc, ch) => {
+    // Example: acc.total += 1; etc.
+    return acc;
+  }, { total: 0 });
 
   // pick the chapter with the highest chapterNumber
   const latest = chapters.reduce((best, c) => {
@@ -116,5 +126,5 @@ export async function getStaticProps() {
     title: latest.title || "",
   };
 
-  return { props: { latestChapter }, revalidate: 60 };
+  return { props: { chapters, chapterSummary, latestChapter }, revalidate: 60 };
 }
