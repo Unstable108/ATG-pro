@@ -1,0 +1,14 @@
+{
+  "novels": [
+    {
+      "slug": "atg",
+      "title": "Against The Gods",
+      "path": "/novels/atg"
+    },
+    {
+      "slug": "lee-gwak",
+      "title": "Martial Master Lee Gwak",
+      "path": "/novels/lee-gwak"
+    }
+  ]
+}
