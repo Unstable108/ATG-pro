@@ -17,7 +17,7 @@ export default function TopBar({
   // Exact-match only: No highlight on /chapters/[slug] (reading) or other subpaths
   let currentView = null
   if (pathname === '/') currentView = 'home'
-  else if (pathname === '/chapters') currentView = 'library'  // Assuming /chapters is your list page
+  else if (pathname === '/library') currentView = 'library'  // Assuming /chapters is your list page
   else if (pathname === '/feedback') currentView = 'feedback'
 
   useEffect(() => {
@@ -98,7 +98,7 @@ export default function TopBar({
             <div className="hidden md:block ml-10">
               <div className="flex items-baseline space-x-4">
                 <Link href="/" className={getLinkClass('home')}>Home</Link>
-                <Link href="/chapters" className={getLinkClass('library')}>Library</Link>
+                <Link href="/library" className={getLinkClass('library')}>Library</Link>
                 <Link href="/feedback" className={getLinkClass('feedback')}>Feedback</Link>
               </div>
             </div>
@@ -182,7 +182,7 @@ export default function TopBar({
           <Link href="/" onClick={() => { setIsMenuOpen(false); onMenuToggle?.(false); }} className={`${getLinkClass('home')} block w-full text-left py-2`}>
             Home
           </Link>
-          <Link href="/chapters" onClick={() => { setIsMenuOpen(false); onMenuToggle?.(false); }} className={`${getLinkClass('library')} block w-full text-left py-2`}>
+          <Link href="/library" onClick={() => { setIsMenuOpen(false); onMenuToggle?.(false); }} className={`${getLinkClass('library')} block w-full text-left py-2`}>
             Library
           </Link>
           <Link href="/feedback" onClick={() => { setIsMenuOpen(false); onMenuToggle?.(false); }} className={`${getLinkClass('feedback')} block w-full text-left py-2`}>
