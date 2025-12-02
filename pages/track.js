@@ -11,24 +11,51 @@ export async function getServerSideProps() {
     return { props: { stats: {} } };
   }
 
-  // Use SCAN via scanIterator so we don't block Redis with KEYS on large datasets.
-  const keys = [];
-  if (typeof redis.scanIterator === "function") {
-    for await (const key of redis.scanIterator({ match: "stats:*" })) {
-      keys.push(key);
+  // 1) Try SMEMBERS on our known-keys set
+  let knownMembers = [];
+  try {
+    if (typeof redis.smembers === "function") {
+      const members = await redis.smembers("stats:known_keys");
+      if (Array.isArray(members)) knownMembers = members;
+    } else {
+      // fallback: if smembers not available, try scanIterator for keys and derive members
+      if (typeof redis.scanIterator === "function") {
+        for await (const fullKey of redis.scanIterator({ match: "stats:*" })) {
+          const member = fullKey.replace(/^stats:/, "");
+          knownMembers.push(member);
+        }
+      } else if (typeof redis.keys === "function") {
+        const keys = await redis.keys("stats:*");
+        knownMembers = (keys || []).map((k) => k.replace(/^stats:/, ""));
+      }
     }
-  } else if (typeof redis.keys === "function") {
-    // Fallback for old versions
-    const ks = await redis.keys("stats:*");
-    keys.push(...ks);
+  } catch (e) {
+    console.warn(
+      "[track] failed to read stats:known_keys — returning empty stats",
+      e?.message || e
+    );
+    return { props: { stats: {} } };
   }
 
+  if (!Array.isArray(knownMembers) || knownMembers.length === 0) {
+    return { props: { stats: {} } };
+  }
+
+  const redisKeys = knownMembers.map((m) => `stats:${m}`);
+
   const entries = await Promise.all(
-    keys.map(async (k) => [k, await redis.get(k)])
+    redisKeys.map(async (k) => {
+      try {
+        const v = await redis.get(k);
+        return [k, v];
+      } catch (e) {
+        return [k, null];
+      }
+    })
   );
+
   const raw = Object.fromEntries(entries);
 
-  // Normalize: try parse JSON values, fallback to number/string
   const stats = {};
   for (const [k, v] of Object.entries(raw)) {
     let value = v;
@@ -37,7 +64,6 @@ export async function getServerSideProps() {
     } catch (e) {
       if (!Number.isNaN(Number(v))) value = Number(v);
     }
-    // strip leading "stats:" so keys look like "path:/", "country:IN", "total:view"
     stats[k.replace(/^stats:/, "")] = value;
   }
 
@@ -64,7 +90,6 @@ export default function Track({ stats }) {
   const [pathDir, setPathDir] = useState("desc"); // desc | asc
 
   useEffect(() => {
-    // client-only timestamp to avoid hydration mismatch
     setSnapshotTime(new Date().toLocaleString());
   }, []);
 
@@ -72,7 +97,7 @@ export default function Track({ stats }) {
   const allRows = useMemo(
     () =>
       Object.entries(stats).map(([k, v]) => ({
-        key: k, // e.g. "path:/", "country:IN", "total:view"
+        key: k, // e.g. "path:/", "country:IN", "total:view", "daily:2025-01-18"
         raw: v,
         views: toNumber(v),
       })),
@@ -101,10 +126,25 @@ export default function Track({ stats }) {
     [allRows]
   );
 
+  const dailyRows = useMemo(
+    () =>
+      allRows
+        .filter((r) => r.key.startsWith("daily:"))
+        .map((r) => {
+          const dateStr = r.key.replace(/^daily:/, ""); // YYYY-MM-DD
+          return { ...r, date: dateStr };
+        })
+        .sort((a, b) => a.date.localeCompare(b.date)),
+    [allRows]
+  );
+
   const otherRows = useMemo(
     () =>
       allRows.filter(
-        (r) => !r.key.startsWith("path:") && !r.key.startsWith("country:")
+        (r) =>
+          !r.key.startsWith("path:") &&
+          !r.key.startsWith("country:") &&
+          !r.key.startsWith("daily:")
       ),
     [allRows]
   );
@@ -141,6 +181,18 @@ export default function Track({ stats }) {
 
   const totalEvents = allRows.reduce((sum, r) => sum + r.views, 0);
   const totalKeys = allRows.length;
+
+  // for daily graph: last 14 days & max value
+  const lastDaily = useMemo(() => {
+    if (!dailyRows.length) return [];
+    const n = 14;
+    return dailyRows.slice(-n);
+  }, [dailyRows]);
+
+  const maxDailyViews = useMemo(() => {
+    if (!lastDaily.length) return 0;
+    return lastDaily.reduce((max, r) => (r.views > max ? r.views : max), 0);
+  }, [lastDaily]);
 
   function downloadCSV() {
     const header = ["key", "views", "raw"];
@@ -188,10 +240,7 @@ export default function Track({ stats }) {
               >
                 Download CSV
               </button>
-              <Link
-                href="/"
-                className="px-3 py-1 rounded border bg-transparent"
-              >
+              <Link href="/" className="px-3 py-1 rounded border bg-transparent">
                 Open site
               </Link>
             </div>
@@ -227,6 +276,51 @@ export default function Track({ stats }) {
               <div className="mt-1 text-xs text-slate-500">Client time</div>
             </div>
           </div>
+
+          {/* Daily views chart */}
+          <section className="mb-8">
+            <div className="flex items-center justify-between mb-3">
+              <h2 className="text-sm font-semibold text-slate-100">
+                Daily views (last {lastDaily.length || 0} days)
+              </h2>
+              <span className="text-xs text-slate-500">
+                key pattern: <code>stats:daily:YYYY-MM-DD</code>
+              </span>
+            </div>
+
+            {lastDaily.length === 0 ? (
+              <p className="text-sm text-slate-500">
+                No daily data yet. New views will start populating this chart.
+              </p>
+            ) : (
+              <div className="space-y-2">
+                {lastDaily.map((row) => {
+                  const ratio =
+                    maxDailyViews > 0 ? row.views / maxDailyViews : 0;
+                  const widthPercent = Math.max(5, ratio * 100); // min 5% so tiny days are still visible
+
+                  return (
+                    <div key={row.date} className="flex items-center gap-3">
+                      <div className="w-24 text-xs text-slate-400 font-mono">
+                        {row.date}
+                      </div>
+                      <div className="flex-1">
+                        <div className="h-2 rounded bg-slate-800 overflow-hidden">
+                          <div
+                            className="h-2 rounded bg-blue-500"
+                            style={{ width: `${widthPercent}%` }}
+                          />
+                        </div>
+                      </div>
+                      <div className="w-10 text-right text-xs text-slate-200">
+                        {row.views}
+                      </div>
+                    </div>
+                  );
+                })}
+              </div>
+            )}
+          </section>
 
           {/* Views by page */}
           <section className="mb-8">
@@ -362,7 +456,8 @@ export default function Track({ stats }) {
 
           <div className="mt-4 text-xs text-slate-500">
             Tip: stats keys follow this pattern: <code>stats:path:/...</code>,{" "}
-            <code>stats:country:IN</code>, <code>stats:total:view</code>, etc.
+            <code>stats:country:IN</code>, <code>stats:total:view</code>,{" "}
+            <code>stats:daily:YYYY-MM-DD</code>, etc.
           </div>
         </div>
       </div>

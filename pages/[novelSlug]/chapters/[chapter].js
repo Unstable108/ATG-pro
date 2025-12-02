@@ -22,10 +22,10 @@ export default function Chapter({
 }) {
   const [bookmarked, setBookmarked] = useState(false);
   const [chapOpen, setChapOpen] = useState(false);
-  const [isMenuOpen, setIsMenuOpen] = useState(false);  // Track from TopBar
+  const [isMenuOpen, setIsMenuOpen] = useState(false); // Track from TopBar
   const router = useRouter();
-  const currentSlug = router.query.novelSlug || 'atg';
-  const basePath = currentSlug === 'atg' ? '' : `/${currentSlug}`;
+  const currentSlug = router.query.novelSlug || "atg";
+  const basePath = currentSlug === "atg" ? "" : `/${currentSlug}`;
   const articleRef = useRef(null);
 
   // Hide/show top & bottom chrome on scroll
@@ -40,7 +40,11 @@ export default function Chapter({
         window.localStorage.getItem("novelBookmarks");
       if (raw) {
         const items = JSON.parse(raw);
-        setBookmarked(items.some((b) => b.slug === chapter.slug && b.novelSlug === currentSlug));
+        setBookmarked(
+          items.some(
+            (b) => b.slug === chapter.slug && b.novelSlug === currentSlug
+          )
+        );
       }
     } catch (e) {}
   }, [chapter.slug, currentSlug]);
@@ -73,7 +77,10 @@ export default function Chapter({
       const bar = document.getElementById("read-progress-bar");
       if (bar) bar.style.width = `${Math.round(pct * 100)}%`;
       try {
-        localStorage.setItem(`progress:${currentSlug}:${chapter.slug}`, String(pct));
+        localStorage.setItem(
+          `progress:${currentSlug}:${chapter.slug}`,
+          String(pct)
+        );
       } catch (e) {}
     }
     window.addEventListener("scroll", onScroll, { passive: true });
@@ -85,7 +92,7 @@ export default function Chapter({
   // chrome hide/show on scroll direction
   useEffect(() => {
     function handleScrollDirection() {
-      if (isMenuOpen) return;  // Ignore scrolls when menu open—no hiding!
+      if (isMenuOpen) return; // Ignore scrolls when menu open—no hiding!
 
       const current = window.scrollY || 0;
       const last = lastScrollYRef.current;
@@ -103,13 +110,13 @@ export default function Chapter({
 
     window.addEventListener("scroll", handleScrollDirection, { passive: true });
     return () => window.removeEventListener("scroll", handleScrollDirection);
-  }, [isMenuOpen]);  // Depend on isMenuOpen
+  }, [isMenuOpen]); // Depend on isMenuOpen
 
   // Callback for TopBar
   const handleMenuToggle = (open) => {
     setIsMenuOpen(open);
     if (open) {
-      setChromeHidden(false);  // Force-show topbar on menu open (bonus smoothness)
+      setChromeHidden(false); // Force-show topbar on menu open (bonus smoothness)
     }
   };
 
@@ -118,17 +125,45 @@ export default function Chapter({
     setChapOpen((prev) => !prev);
   };
 
-  // keyboard navigation
+  // keyboard navigation (ArrowLeft/ArrowRight + J/K) — ignore when typing in inputs
   useEffect(() => {
-    function onKey(e) {
-      if (e.key === "ArrowLeft" && prevSlug)
-        router.push(`${basePath}/chapters/${prevSlug}`).then(() => window.scrollTo(0, 0));
-      if (e.key === "ArrowRight" && nextSlug)
-        router.push(`${basePath}/chapters/${nextSlug}`).then(() => window.scrollTo(0, 0));
+    function isTypingTarget(el) {
+      if (!el) return false;
+      const tag = el.tagName?.toLowerCase();
+      if (!tag) return false;
+      if (tag === "input" || tag === "textarea" || tag === "select")
+        return true;
+      if (el.isContentEditable) return true;
+      return false;
     }
+
+    function onKey(e) {
+      // ignore when modifier held (ctrl/meta/alt) or typing into an input
+      if (e.ctrlKey || e.metaKey || e.altKey) return;
+      const active = document.activeElement;
+      if (isTypingTarget(active)) return;
+
+      const key = e.key.toLowerCase();
+      if ((key === "arrowleft" || key === "arrowleft") && prevSlug) {
+        e.preventDefault();
+        navTo(prevSlug);
+      } else if ((key === "arrowright" || key === "arrowright") && nextSlug) {
+        e.preventDefault();
+        navTo(nextSlug);
+      } else if (key === "j" && prevSlug) {
+        // J = previous (like vim-style reverse)
+        e.preventDefault();
+        navTo(prevSlug);
+      } else if (key === "k" && nextSlug) {
+        // K = next
+        e.preventDefault();
+        navTo(nextSlug);
+      }
+    }
+
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [prevSlug, nextSlug, router, basePath]);
+  }, [prevSlug, nextSlug, basePath /* navTo is stable in-file */]);
 
   function toggleBookmark() {
     try {
@@ -136,8 +171,14 @@ export default function Chapter({
         typeof window !== "undefined" &&
         window.localStorage.getItem("novelBookmarks");
       let items = raw ? JSON.parse(raw) : [];
-      if (items.some((b) => b.slug === chapter.slug && b.novelSlug === currentSlug)) {
-        items = items.filter((b) => !(b.slug === chapter.slug && b.novelSlug === currentSlug));
+      if (
+        items.some(
+          (b) => b.slug === chapter.slug && b.novelSlug === currentSlug
+        )
+      ) {
+        items = items.filter(
+          (b) => !(b.slug === chapter.slug && b.novelSlug === currentSlug)
+        );
         setBookmarked(false);
       } else {
         items.push({
@@ -195,9 +236,9 @@ export default function Chapter({
   const fullUrl = `${siteUrl}${canonicalPath}`;
 
   const baseTitle = novel?.title || "Against The Gods";
-  const metaTitle = `${baseTitle} - Chapter ${
-    chapter.chapterNumber
-  }${chapter.title ? `: ${chapter.title}` : ""} | Webnovel Reader`;
+  const metaTitle = `${baseTitle} - Chapter ${chapter.chapterNumber}${
+    chapter.title ? `: ${chapter.title}` : ""
+  } | Webnovel Reader`;
 
   const excerpt =
     (chapter.excerpt && chapter.excerpt.slice(0, 155)) ||
@@ -259,10 +300,7 @@ export default function Chapter({
 
       <div id="read-progress-bar" className="read-progress-bar" />
 
-      <TopBar
-        isHidden={chromeHidden}
-        onMenuToggle={handleMenuToggle}
-      />
+      <TopBar isHidden={chromeHidden} onMenuToggle={handleMenuToggle} />
 
       <div className="max-w-6xl mx-auto flex gap-6 px-1 sm:px-6 lg:px-8 py-6">
         <SidebarChapters
@@ -278,7 +316,10 @@ export default function Chapter({
           <div className="chapter-meta">
             {/* NOVEL TITLE AS LINK TO HOMEPAGE */}
             <div className="novel-title">
-              <Link href={basePath || '/'} className="hover:underline font-semibold">
+              <Link
+                href={basePath || "/"}
+                className="hover:underline font-semibold"
+              >
                 {novel?.title || "Against The Gods"}
               </Link>
             </div>
@@ -319,9 +360,13 @@ export default function Chapter({
           </div>
 
           <div className="mb-4">
-            <ReaderControls 
+            <ReaderControls
               showMobileControls={!chromeHidden}
               onToggleChapters={handleToggleChapters}
+              onPrevChapter={handlePrev}
+              onNextChapter={handleNext}
+              hasPrev={!!prevSlug}
+              hasNext={!!nextSlug}
             />
           </div>
 
@@ -367,9 +412,7 @@ export default function Chapter({
 
             <div className="mt-3">
               <button
-                onClick={() =>
-                  window.scrollTo({ top: 0, behavior: "smooth" })
-                }
+                onClick={() => window.scrollTo({ top: 0, behavior: "smooth" })}
                 className="text-sm underline"
               >
                 Jump to top
@@ -383,27 +426,31 @@ export default function Chapter({
 }
 
 export async function getStaticPaths() {
-  const { getNovels } = await import('../../../lib/novels');
+  const { getNovels } = await import("../../../lib/novels");
   const novels = await getNovels();
   const paths = [];
   for (const novel of novels) {
     const chaps = await getAllChapters(novel.slug);
-    paths.push(...chaps.map(ch => ({
-      params: { novelSlug: novel.slug, chapter: ch.slug }
-    })));
+    paths.push(
+      ...chaps.map((ch) => ({
+        params: { novelSlug: novel.slug, chapter: ch.slug },
+      }))
+    );
   }
-  return { paths, fallback: 'blocking' };
+  return { paths, fallback: "blocking" };
 }
 
 export async function getStaticProps({ params }) {
-  const { novelSlug = 'atg', chapter: chapterSlug } = params;
+  const { novelSlug = "atg", chapter: chapterSlug } = params;
   const novel = await getNovel(novelSlug);
   if (!novel) return { notFound: true };
 
   const chapter = await getChapterBySlug(novelSlug, chapterSlug);
   if (!chapter) return { notFound: true };
 
-  const processed = await remark().use(html).process(chapter.content || "");
+  const processed = await remark()
+    .use(html)
+    .process(chapter.content || "");
   const chapterHtml = processed.toString();
 
   const allChaps = (await getAllChapters(novelSlug)).map((c) => ({
@@ -413,12 +460,21 @@ export async function getStaticProps({ params }) {
   }));
 
   const idx = allChaps.findIndex((c) => c.slug === chapterSlug);
-  let prevSlug = null, nextSlug = null;
+  let prevSlug = null,
+    nextSlug = null;
   if (idx > 0) prevSlug = allChaps[idx - 1].slug;
   if (idx < allChaps.length - 1) nextSlug = allChaps[idx + 1].slug;
 
   return {
-    props: { chapterHtml, chapter, allChapters: allChaps, prevSlug, nextSlug, novel, novelSlug },
+    props: {
+      chapterHtml,
+      chapter,
+      allChapters: allChaps,
+      prevSlug,
+      nextSlug,
+      novel,
+      novelSlug,
+    },
     revalidate: 60,
   };
 }
