@@ -238,7 +238,7 @@ export default function Chapter({
   const baseTitle = novel?.title || "Against The Gods";
   const metaTitle = `${baseTitle} - Chapter ${chapter.chapterNumber}${
     chapter.title ? `: ${chapter.title}` : ""
-  } | Webnovel Reader`;
+  } | ATG Novel`;
 
   const excerpt =
     (chapter.excerpt && chapter.excerpt.slice(0, 155)) ||
