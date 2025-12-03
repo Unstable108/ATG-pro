@@ -4,186 +4,186 @@ title: ""
 publishedAt: "2025-12-03"
 ---
 
-“However, the information about this Abyssal Master¹ is not entirely useless to me. His existence, in fact, has resolved my greatest long-standing doubt.”
+"However, this information about the Lord of the Abyss isn't entirely useless to me. In fact, his existence has resolved my greatest doubt."
 
-“Greatest... doubt?” In her memory, Li Sa² had never heard Yun Che³ mention it.
+"Your greatest... doubt?" In her memories, Li Suo had never heard Yun Che mention it.
 
-“Li Sa,” Yun Che said very seriously, “With all the Creation God⁴ knowledge you’ve recovered so far, try your best to ponder a question... Do you, or any Creation God you know, possess a method to allow a True God’s⁵ divine power to be inherited without any loss by a non-divine body?”
+"Li Suo," Yun Che said with great earnestness, "based on all the Creation God knowledge you've recovered so far, think hard about this question... do you, or any of the Creation Gods you know of, have a method to allow a True God's divine power to be inherited without any loss?"
 
-Li Sa’s contemplation didn’t last long before she gave the most direct answer: “No.”
+Li Suo's contemplation did not last long before she gave the most direct response: "No."
 
-“Exactly, no. From the simplest and clearest common sense, if a True God’s divine power could be inherited by a non-divine body without loss, then the True Gods of the Ancient Era would never truly ‘die.’ The deities who stood at the pinnacle of the world would only grow in number, the Divine Race would expand, eventually surpassing the Mortal Race, and it might even shake the order of the Heavenly Way.”
+"Right, no. By the simplest logic, if a True God's divine power could be passed down without loss to a non-divine body, then the True Gods of the primordial era would never have truly 'died.' The number of deities standing at the world's apex would have only grown, and the God Race would have expanded until it surpassed the mortal races, possibly even shaking the very order of the Heavenly Dao."
 
-Hearing this, Li Sa finally understood what Yun Che’s “greatest doubt” was. Indeed, it was a contradiction so alarming that it became terrifying upon closer thought.
+Hearing this, Li Suo finally understood what Yun Che meant by his "greatest doubt." Indeed, upon closer thought, it was a discrepancy so jarring it was terrifying.
 
-“Even with your Creation God knowledge, you answered ‘no.’ Then Mo Su⁶... how was he able to create six Inheritance Artifacts that could transmit the power of True Gods?”
+"Even with your knowledge as a Creation God, your answer is 'no.' Then Mo Su... how could he have created six Artifacts of Inheritance capable of passing on the power of a True God?"
 
-“Unless... the Inheritance Artifacts of the Divine Realm were not created by him at all!”
+"Unless... the God Kingdoms' Artifacts of Inheritance were not created by him at all!"
 
 Clang!
 
-Yun Che, who was concentrating on communicating with Li Sa, bumped his head against Dugu Zhuyuan’s⁷ silver armor.
+Deep in conversation with Li Suo, Yun Che walked headfirst into Dugu Zhuyuan's silver armor. Yun Che quickly looked up to see Dugu Zhuyuan had stopped and turned, bowing toward the distance.
 
-Yun Che quickly looked up, only to see Dugu Zhuyuan stop and turn, then bow towards the distance.
+Far in the sky, a streak of red flashed past. A fleeting, scorching aura seemed to brush over Yun Che, and then the red shadow vanished into the layered, thin clouds. In that instant, Yun Che felt both the Phoenix and Golden Crow bloodlines within him stir.
 
-In the distant sky, a red silhouette swiftly streaked past, and a fleeting, scorching aura seemed to brush lightly over Yun Che’s body. Then, the red silhouette vanished into the layered thin clouds.
+Was that... the Spirit Immortal Divine Officer?
 
-In that instant, Yun Che felt both his Phoenix bloodline and Golden Crow bloodline stir simultaneously.
+Dugu Zhuyuan straightened up and turned his gaze. "Abyssal God Child, why were you so distracted?"
 
-Was that... a Spirit Immortal Divine Official?
+Unflustered, Yun Che asked, "Senior Dugu, where is this 'God-Slumbering Forbidden Domain' located, roughly?"
 
-Dugu Zhuyuan straightened up and turned his gaze: “Abyssal Divine Son⁸, why are you distracted?”
+It wasn't a secret question, but Dugu Zhuyuan didn't give a precise answer. "It is in a remote location, connected by a Grand Void-Breaking Formation."
 
-Yun Che unhurriedly replied, “Senior Dugu, where exactly is that ‘God-Slumber Forbidden Zone’⁹?”
+"Oh... In that case, if I were to enter, could the seniors from my Dream-Weaving God Kingdom follow me inside with their divine sense? That way, if I encounter danger, they could rescue me at any time and prevent any accidents."
 
-It wasn’t a particularly secret question, but Dugu Zhuyuan didn’t give a precise answer: “A remote place, connected by a Void-Breaking Grand Array¹⁰.”
+"Impossible." Dugu Zhuyuan's reply was blunt. "The Abyssal Dust within the God-Slumbering Forbidden Domain is extremely dense, making it difficult for divine sense to extend. Furthermore, it is sealed by a barrier personally erected by the Abyssal Emperor, which prevents any divine sense from the outside from penetrating. If the Abyssal God Child has reservations, you may simply choose not to enter."
 
-“Oh... then if I enter, can my Weaving Dream seniors follow with their divine sense? That way, if I encounter danger inside, they can rescue me at any time and prevent accidents.”
+Yun Che: In that case, I can rest easy.
 
-“No,” Dugu Zhuyuan answered directly. “The Abyssal Dust¹¹ in the God-Slumber Forbidden Zone is extremely dense, making it difficult for divine sense to extend. Furthermore, there’s a barrier personally erected by the Abyssal Emperor¹², which inherently prevents divine sense from outside the barrier from probing in. If the Abyssal Divine Son has any concerns, you don’t have to enter.”
+"I see." Yun Che nodded, feigning seriousness. "Doesn't that make the God-Slumbering Forbidden Domain an extremely dangerous place? Why is the Eternal Night Divine Maiden so insistent on entering... Could it be that great risks are accompanied by great opportunities?"
 
-Yun Che: “Then I can rest assured.”
+Dugu Zhuyuan remained noncommittal, stating coolly, "While there are dangers, those entering are primarily the God Children and Divine Maidens of the various kingdoms, so precautions are paramount. The Pure Land will naturally provide a method to preserve your life upon entry."
 
-“I see,” Yun Che nodded gravely. “Then isn’t this God-Slumber Forbidden Zone an extremely dangerous place? Why would the Evernight Divine Daughter¹³ insist on entering... Could it be that great risks are accompanied by great opportunities?”
+"Oh?"
 
-Dugu Zhuyuan neither confirmed nor denied, merely saying, “While there is danger, those who enter are generally Divine Sons and Daughters from various realms, so safety is paramount. Upon entry, the Pure Land¹⁴ will naturally provide life-saving measures.”
+"The Abyssal God Child will know when the time comes."
 
-As he finished speaking, he cast a very complex glance at Yun Che.
+Just then, an ethereal voice tinged with urgency called from afar, "Brother Yun!! Brother Yun!!!"
 
-That was more than just not making things difficult...
+The sound still lingered in the air as a beautiful figure arrived.
 
-“That’s good!” Hua Caili¹⁵ gripped Yun Che’s hands even tighter, seemingly completely relieved, a sweet smile gracing her brows. “Then I’ll also give Uncle Dugu some good news. Aunt said she agreed to fight you.”
+Hua Caili grabbed Yun Che's hand, her star-like eyes anxiously scanning him from head to toe. "Brother Yun, are you alright? Did Uncle Abyssal Emperor make things difficult for you?"
 
-Dugu Zhuyuan, whose temperament was as steady as a mountain, suddenly heard these words. His body instantly tensed, and then a fervent excitement and battle intent uncontrollably surged from him.
+"Of course not," Yun Che said with a smile. "If the Abyssal Emperor truly wanted to make things difficult for me, a single word from afar would suffice. Why would he go to such trouble?"
 
-He said gratefully, “Thank you, Caili. This favor...”
+Worried that Yun Che was just trying to comfort her, Hua Caili turned her gaze to Dugu Zhuyuan. "Uncle Dugu, the Abyssal Emperor really didn't make things difficult for Brother Yun, right? You are the Strongest Knight, noble and upright in character, a man who never lies."
 
-Hua Caili quickly interrupted him: “No need for talk of favors for now. Aunt said she has a condition.”
+Dugu Zhuyuan replied, "Rest assured, little Caili. I swear on the name of Dugu that the Abyssal Emperor did not make things difficult for the Abyssal God Child in the slightest."
 
-Dugu Zhuyuan immediately said, “Just speak, there’s no harm.”
+As he finished, he cast a deeply complicated look at Yun Che. It was far more than just 'not making things difficult'...
 
-“Aunt said that the loser of this battle must agree to one request from the winner, and it must be within the bounds of the Heavenly Way and human ethics, with no refusal allowed. If you don’t agree... she won’t accept the challenge.”
+"That's wonderful!" Hua Caili squeezed Yun Che's hands even tighter, seemingly completely relieved, a charming smile gracing her features. "Then I have good news for you too, Uncle Dugu. Aunt said she agrees to fight you."
 
-“Good!” Dugu Zhuyuan didn’t hesitate for even a moment, and his already burning battle intent didn’t cool down in the slightest. “The loser shall naturally bear the loser’s fate. Please trouble Caili to inform the Sword Immortal¹⁶ that after I open the gate to the God-Slumber Forbidden Zone, I will await her esteemed presence at ‘Yuan Shang Tian’¹⁷ at any time!”
+Dugu Zhuyuan, a man as steady as a mountain, suddenly went rigid upon hearing this. A scorching excitement and battle intent uncontrollably surged from his body.
 
-With the task of escorting Yun Che complete, Dugu Zhuyuan vanished in an instant. However, his formidable aura remained embedded in this space, lingering for a long time, making Yun Che sigh involuntarily: How wonderful it would be if he could become my Abyssal Ghost¹⁸.
+"Thank you, Caili," he said gratefully. "This favor..."
 
-“What are you thinking about?” Hua Caili floated up, her jade arms wrapping around Yun Che’s neck, making their gazes meet directly.
+Hua Caili quickly interrupted him. "Don't worry about favors just yet. Aunt said she has one condition."
 
-Yun Che sighed, “I was thinking... Aunt is truly wonderful.”
+"Please, state it," Dugu Zhuyuan immediately replied.
 
-“Huh? Aunt?”
+"Aunt said that the loser of this battle must agree to one request from the victor, and so long as it does not violate the Heavenly Dao or human ethics, they cannot refuse. If you don't agree... she won't accept the fight."
 
-“That’s right,” Yun Che gathered her closer with an arm, pressing her soft, boneless jade body tightly against his. “Aunt chose to accept the challenge because she’s trying to pave the way for our future in various ways.”
+"Fine!"
 
-Hua Caili’s beautiful eyes paused, and she immediately understood. She pressed her body even closer, completely clinging to Yun Che. “Aunt has always been this good. Now I have my father god who dotes on me the most, my aunt who spoils me the most, and the best Yun Gege¹⁹ in the world... Now, I just feel like heaven has given me all the good things.”
+"Fine!" Without a moment's hesitation, Dugu Zhuyuan's already burning battle intent didn't cool in the slightest. "The loser must naturally accept the loser's fate. Please trouble Caili to inform the Sword Immortal that after I open the gates to the God-Slumbering Forbidden Domain, I will await her esteemed presence at 'Heaven Above the Abyss'!"
 
-Yun Che didn’t speak, the arm around her slender waist unconsciously tightened, then slightly loosened.
+His task of escorting Yun Che complete, Dugu Zhuyuan departed in a flash. Yet, his terrifying aura remained embedded in the space, lingering for a long time, prompting a sigh from Yun Che. How great would it be if he could become one of my Abyssal Ghosts.
 
-In the distance, Hua Fuchen²⁰ didn’t know whether to approach or leave, and could only shake his head with a helpless expression: “This is the Pure Land, what kind of decorum is this, what kind of decorum!”
+"What are you thinking about?" Hua Caili floated up, her jade-like arms wrapping around Yun Che's neck, forcing their gazes to lock onto each other's.
 
-Hua Qingying²¹ was unconcerned: “They were forced apart when their feelings were strongest. Now that they can finally be unafraid of the light of day, why should they suppress themselves?”
+Yun Che sighed. "I was thinking... Aunt is truly wonderful."
 
-“Even so, they should consider the occasion, this place is...” Hua Fuchen secretly took a breath, then waved his hand dismissively: “Never mind, never mind, let them be. As long as that boy is fine.”
+"Huh? Aunt?"
 
-Hua Fuchen left, but Hua Qingying remained in place, watching the inseparable pair from afar. Unconsciously, she felt a strange twitch at the corners of her lips.
+"That's right." Yun Che's arms tightened, pulling her soft, pliant body close. "Aunt chose to accept the challenge because she is trying to pave the way for our future in every way she can."
 
-She instinctively raised a long finger and touched her light cherry-colored lips.
+Hua Caili's beautiful eyes paused for a moment, and she instantly understood.
 
-Was that a smile just now?
+She pressed herself even closer until her entire body was hanging on him. "Aunt has always been this wonderful. I now have a Father God who dotes on me the most, an Aunt who spoils me the most, and the best Brother Yun in the world... Right now, I feel as if heaven has given me all the good things in existence."
 
-Returning to the courtyard where the Weaving Dream Divine Realm was located, Yun Che immediately sought out Meng Jianxi²².
+"..." Yun Che said nothing, the arm around her slender waist unconsciously tightening, then slightly relaxing.
 
-“Divine Son Xi, I have a request.”
+In the distance, Hua Fuchen was in a dilemma, unsure whether to approach or leave. He could only shake his head with a helpless expression. "This is the Pure Land! What a disgrace! What a disgrace¹"
 
-Meng Jianxi said earnestly, “Brother Yuan, you can simply command whatever you need; there’s absolutely no need for the word ‘request’.”
+Hua Qingying was unconcerned. "They were forced apart when their feelings were at their most intense. Now that they can finally be together without fear of the daylight, why should they have to suppress themselves?"
 
-Yun Che immediately stated directly, “I wish to enter the ‘God-Slumber Forbidden Zone’ for a look.”
+"They should still consider the occasion! This place is..." Hua Fuchen took a deep breath, then waved his hand dismissively. "Forget it, forget it. Let them be. As long as that boy is alright."
 
-The original chosen person for the Weaving Dream Divine Realm was, naturally, Meng Jianxi.
+Hua Fuchen left, but Hua Qingying remained, watching the inseparable pair from afar. Unconsciously, she felt an unfamiliar twitch at the corners of her lips. She instinctively raised her long fingers to touch her pale cherry-colored lips.
 
-“Ah?” As soon as these words were spoken, not only Meng Jianxi but Hua Caili was also startled.
+Was that... a smile?
 
-“This...” Meng Jianxi pondered briefly, not asking for the reason, but candidly said, “The matter itself is not impossible, but the Abyssal Dust in the God-Slumber Forbidden Zone is comparable to the deep fog sea, and there are countless unpredictable risks. And your current state...”
+...
 
-“Don’t worry,” Yun Che smiled. “The Desolate Devour Punishment²³ only caused a temporary collapse of my body and soul, not a severe injury. I still have several hours, which is enough for me to recover.”
+Returning to the courtyard residence of the Dream-Weaving God Kingdom, Yun Che immediately sought out Meng Jianxi.
 
-“Then... I want to go too!” Hua Caili said with eager eyes.
+"God Child Xi, I have a favor to ask."
 
-Yun Che knew this would happen and said with some helplessness, “Your father god probably won’t agree to you taking such a risk.”
+Meng Jianxi's expression turned serious. "Younger Brother Yuan, if you need anything, just give the order. There is absolutely no need for the word 'ask'."
 
-“He must agree!”
+Yun Che got straight to the point. "I wish to enter the 'God-Slumbering Forbidden Domain' to have a look."
 
-Hua Caili let go of Yun Che and hurriedly flew away: “I’m going to find Father God right now... Yun Gege, wait for me for a little while, I’ll be right back to accompany you.”
+The person originally chosen by the Dream-Weaving God Kingdom was, naturally, Meng Jianxi.
 
-Meng Jianxi smiled: “How enviable. If the two of you were to marry and have children soon, you would surely be the greatest treasures of both our Weaving Dream and Heaven-Folding Divine Realms.”
+"Ah?" Not only was Meng Jianxi taken aback, but Hua Caili was also startled.
 
-Yun Che said with a smile, “Divine Son Xi has no children yet, so why should I be in a hurry?”
+"This..." Meng Jianxi pondered for a moment. Without asking for a reason, he said frankly, "There is no issue with the matter itself, but the Abyssal Dust in the God-Slumbering Forbidden Domain is comparable to the depths of the Sea of Fog, and it holds countless unforeseeable risks. And in your current state..."
 
-Meng Jianxi shook his head: “Don’t laugh at me, Brother Yuan, though I am already married, my talent cannot compare to yours. I haven’t yet mastered the Weaving Dream Divine Canon, so I truly dare not easily lose my virgin body.”
+"Don't worry," Yun Che said with a smile. "The Punishment of Desolate Gnawing only caused a temporary collapse of my body and soul, not a grievous injury. There are still several hours left, which is enough time for me to recover."
 
-Yun Che: “Uh...?”
+"Then... I want to go too!" Hua Caili declared, her eyes filled with urgency.
 
-Meng Jianxi waved his hand with a smile: “It’s a small matter, no need to mind it. I’ll go inform Father God and the Dream Masters now. Brother Yuan, please recover as much as you can here. When the gate to the God-Slumber Forbidden Zone opens, I will come and inform you in due course.”
+Yun Che knew this would happen and said with some resignation, "Your Father God probably won't agree to you taking such a risk."
 
-It took a full half-hour for Hua Caili to float back. Clearly, she had gone through a lot of trouble, most likely enlisting Hua Qingying as a helper, before finally managing to get Hua Fuchen’s reluctant permission.
+"He has to agree!" Hua Caili let go of Yun Che and flew off in a hurry. "I'll go find Father God right now... Brother Yun, wait for me for a little while. I'll be right back to keep you company."
 
-Then, she quietly stayed by Yun Che’s side, gazing at him blankly and infatuatedly as he closed his eyes to recover amidst a white glow. For several hours, she couldn’t bear to look away.
+Meng Jianxi smiled. "It's truly enviable. If the two of you were to marry and have a child soon, they would surely be the greatest treasure of our Dream-Weaving and Heaven-Folding Kingdoms."
 
-In her world, after today, they would truly and completely belong to each other.
+Yun Che chuckled. "God Child Xi doesn't have any children yet, so why should I be in a hurry?"
 
-They had walked the edge of death together, broken through the immense obstruction from the Abyssal Emperor, and the double Desolate Devour Punishment, which filled Yun Che’s entire body with pain, also etched Yun Che’s image and the promise she shouted on the Cloud Summit of Eden deeply into every corner of Hua Caili’s soul... leaving no room for anyone else, and no one could ever erase or replace him.
+Meng Jianxi shook his head. "I hope Younger Brother Yuan won't laugh, but although I am married... my innate talent cannot compare to yours. I have yet to master the Dream-Weaving Divine Canon, so I dare not rashly lose my virginity.²"
 
-She quietly extended her slender jade fingers, gently tracing Yun Che’s body, her gaze sometimes smiling, sometimes hazy, sometimes filled with longing... All converging in her eyes, reflecting only an unwavering devotion until death.
+Yun Che: "Uh...?"
 
-At the edge of the Pure Land, all the realms gathered... except for the Senluo Divine Realm.
+Meng Jianxi smiled and waved his hand. "It's a trivial matter, pay it no mind. I will go inform my father and the Dream Masters now. Younger Brother Yuan, please focus on your recovery here. I will come to inform you when the gates to the God-Slumbering Forbidden Domain are about to open."
 
-As Dugu Zhuyuan changed his hand gestures, the profound array that had been silent for a long time suddenly glowed with a rich spatial divine light... but it was a slightly strange gray color.
+A full half-hour passed before Hua Caili floated back. It was clear she had gone through a lot of trouble, most likely pulling Hua Qingying in as reinforcement again, to finally secure Hua Fuchen's reluctant permission.
 
-Shen Wuyi²⁴ of the Evernight Divine Realm was at the forefront. The God-Slumber Forbidden Zone was opened because of her, so she was naturally qualified to be the first to step in.
+Afterward, she quietly stayed by Yun Che's side, watching him with a dazed, infatuated gaze as he recovered within a white glow. For several hours, she couldn't bear to look away. In her world, after today, they would truly and completely belong to each other.
 
-Xian Yue²⁵ represented the Star-Moon Divine Realm, and Pan Buzhuo²⁶ represented the Owl-Butterfly Divine Realm...
+They had walked the edge of death together and overcome the immense obstacle of the Abyssal Emperor. The doubled Punishment of Desolate Gnawing had filled Yun Che's body with agony, but it had also etched his figure, along with the promise she had shouted atop Eden's Cloud Crest, deeply into every corner of her soul... There was no longer room for anyone else, and no one could ever erase or replace him.
 
-When Hua Caili and Yun Che stepped forward side-by-side, it undoubtedly drew a multitude of astonished gazes.
+She quietly extended a slender, jade-like finger, gently tracing the outline of Yun Che's body. Her gaze at times held a smile, at times was hazy with emotion, at times filled with deep affection... all of it converging in her eyes, reflecting only a love that was unwavering until death.³
 
-Hua Caili’s sword dao cultivation was evident to all... but Hua Fuchen had never been willing to let her take risks.
+...
 
-Dugu Zhuyuan’s gaze swept over everyone, and he spoke calmly: “Stepping into this array will allow you to enter the God-Slumber Forbidden Zone. If you gain anything within, it will all be yours; there’s no need to report it to the Pure Land. However, I must remind everyone that through this Void-Breaking Grand Array, your teleportation location within the God-Slumber Forbidden Zone is not fixed.”
+At the edge of the Pure Land, the various kingdoms gathered... all except for the Samsara God Kingdom.
 
-“In other words, from the very beginning, you are highly likely to be isolated and without aid.”
+As Dugu Zhuyuan's hand gestures changed, the long-dormant profound formation before them suddenly flared with a dense, spatial divine light... but it was a strangely gray color.
 
-Hua Fuchen’s eyebrows visibly sank a fraction.
+Shen Wuyi of the Eternal Night God Kingdom stood at the front. The God-Slumbering Forbidden Domain was being opened because of her, so she had the right to be the first to enter. The Star Moon God Kingdom was represented by Xian Yue, and the Owl Butterfly God Kingdom by Pan Buzhuo... When Hua Caili and Yun Che stepped forward together, they undoubtedly drew a host of astonished looks. Hua Caili's mastery of the sword was plain for all to see... but Hua Fuchen had never been willing to let her face danger.
 
-Dugu Zhuyuan shifted his gaze, and after confirming that no one showed fear or retreated, he said, “However, considering that the entrants this time are all Divine Inheritors from various realms, the Abyssal Emperor has specially bestowed a comprehensive gift.”
+Dugu Zhuyuan's eyes swept over the group as he spoke coolly, "Step into this formation, and you will enter the God-Slumbering Forbidden Domain. Anything you gain within belongs to you; there is no need to report it to the Pure Land. However, I must remind you all that through this Grand Void-Breaking Formation, your teleportation points within the domain will not be fixed."
 
-As he finished speaking, he waved a finger, and five faint starlights flew towards the five individuals, then condensed into a jade bead on their shoulders, circulating with a faint gray glow.
+"In other words, from the very beginning, you will most likely be isolated and without aid."
 
-“This is a special Void-Breaking Divine Jade²⁷. At the seventy-second hour after you enter the God-Slumber Forbidden Zone, it will forcibly shatter and return you to this place. And if, within these seventy-two hours, you encounter an irresistible danger, you can actively destroy this bead and retreat safely.”
+Hua Fuchen's brow visibly furrowed.
 
-As these words were spoken, the elders of the various Divine Realms all felt their heartstrings greatly relieved, and their tension vanished. Hua Fuchen and Meng Kongchan’s expressions brightened even further, and they exchanged surprised glances.
+Dugu Zhuyuan's gaze shifted. Seeing that no one was retreating in fear, he continued, "However, considering that those entering this time are all the divine inheritors of their respective kingdoms, the Abyssal Emperor has specially granted a considerate gift."
 
-A boon.
+With a flick of his finger, five faint stars of light flew toward the five individuals, coalescing beside their shoulders into jade orbs that pulsed with a faint gray light.
 
-Given the Abyssal Emperor’s temperament... he would never specifically grant such a thing.
+"This is a special Void-Breaking Divine Jade. Seventy-two hours after you enter the God-Slumbering Forbidden Domain, it will forcibly shatter and return you to this place. If, during these seventy-two hours, you encounter an irresistible danger, you can actively destroy this orb to retreat unharmed."
 
-Xian Yue immediately said gratefully, “In that case, please Senior Dugu, convey our thanks to the Abyssal Emperor for his grace. We are immensely grateful.”
+At these words, the elders of the God Kingdoms all felt a great sense of relief, their tension vanishing completely. Hua Fuchen and Meng Kongchan's expressions brightened, and they exchanged a look of surprise. Given the Abyssal Emperor's temperament... he would never have intentionally bestowed such a grace.
 
-Dugu Zhuyuan neither confirmed nor denied, turning sideways: “Consider this journey a trial. Do not push forward recklessly when faced with difficulty, nor be overly greedy. Otherwise, if you fall into a desperate situation and fail to destroy the Void-Breaking Divine Jade in time, no one will be able to save you.”
+Xian Yue immediately expressed his gratitude. "In that case, please convey our deepest thanks to the Abyssal Emperor for his gift, Senior Dugu. We are endlessly grateful."
 
-“Everyone, please proceed.”
+Dugu Zhuyuan remained noncommittal and turned to the side. "Consider this journey a trial. Do not press on recklessly when faced with difficulties, nor let greed consume you. Otherwise, if you fall into a desperate situation and cannot destroy the Void-Breaking Divine Jade in time, no one will be able to save you."
 
-Before his voice faded, Shen Wuyi’s figure had already darted directly into the array, without a moment’s hesitation.
+"Everyone, please proceed."
 
-Pan Buzhuo glanced at the Void-Breaking Divine Jade on his shoulder, gave a faint smile, and stepped into the array with a proud demeanor.
+Before his voice had faded, Shen Wuyi's figure flickered and shot straight into the formation without a moment's hesitation.
 
-“Abyssal Divine Son, Heaven-Folding Divine Daughter, please,” Xian Yue said, turning sideways with a very friendly expression. Clearly, he intended to befriend Yun Che.
+Pan Buzhuo glanced at the Void-Breaking Divine Jade on his shoulder, gave a faint smile, and stepped into the formation with a proud posture.
 
-Yun Che also responded, “Alright, then we won’t be polite. If we are fortunate enough to meet Divine Son Yue in the Forbidden Zone, perhaps we can fight side-by-side.”
+"Abyssal God Child, Heaven-Folding Divine Maiden, please." Xian Yue turned to the side, his expression quite friendly. It was clear he intended to befriend Yun Che.
 
-Xian Yue smiled, “Xian Yue greatly anticipates it.”
+Yun Che responded in kind, "Alright, then we won't be polite. If we are fortunate enough to meet in the forbidden domain, Moon God Child, perhaps we can fight side by side."
 
-Yun Che and Hua Caili stepped into the Void-Breaking Grand Array side-by-side. The moment their figures were engulfed by the spatial divine light, Hua Caili’s shout reached his ears:
+Xian Yue smiled. "I would look forward to it immensely."
 
-“Yun Gege, you absolutely must not take risks alone, wait for me... I will definitely find you as soon as possible.”
+Yun Che and Hua Caili stepped into the Grand Void-Breaking Formation together. The moment their figures were engulfed by the spatial divine light, Hua Caili's call echoed in his ears: "Brother Yun, you must not face danger alone! Wait for me... I will find you as soon as I can!"
 
-Gray light flashed, and light and sound vanished simultaneously. Yun Che slowly closed his eyes. When he opened them again, the space before him would no longer be that of the Pure Land.
+The gray light flared, and both light and sound vanished. Yun Che slowly closed his eyes. When he opened them again, he would no longer be in the Pure Land.
