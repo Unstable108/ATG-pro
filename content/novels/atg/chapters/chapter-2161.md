@@ -1,7 +1,7 @@
 ---
 chapterNumber: 2161
 title: ""
-publishedAt: "2025-12-04"
+publishedAt: "2025-12-05"
 ---
 
 After the five had stepped into the Void-Shattering Grand Formation one after another, the gray spatial profound light instantly condensed but did not completely vanish. The entire formation continued to operate slowly in a hazy, gray glimmer. As its profound patterns flowed, they faintly exuded the supreme divine aura of the Abyssal Emperor. This was originally a gift bestowed by the Abyssal Emperor upon the six great God Kingdoms, yet the most powerful Asura God Kingdom was conspicuously absent—a fact that was undoubtedly lamentable.
@@ -161,4 +161,27 @@ Li Suo’s soul rippled slightly, her voice as soft as faint smoke. “But the p
 “Yes, I know,” Yun Che replied, completely unfazed.
 
 Li Suo said no more. “It seems you have already decided what to do… I will wait and see if your wish comes true.”
+
+Yun Che's spiritual sense had already reached the area where Shen Wuyi was before his body did, but her current state left him quite surprised. The Abyss Emperor’s favor was unimaginably rare, yet she had used it to exchange for entry into this Divine Slumber Forbidden Domain. Anyone would assume that something she greatly desired must be inside.
+
+After entering, she would undoubtedly search with full effort immediately, not wasting even a single moment. After all, one could stay in the Divine Slumber Forbidden Domain for at most seventy-two hours. But according to Yun Che’s perception, Shen Wuyi had completely suppressed her aura, hiding under a massive gray boulder, unmoving for a long time. She showed no sign of searching, nor did she provoke any Abyssal Ghosts.
+What… was she doing?
+
+The lunar aura he sensed earlier was moving rapidly, fighting fiercely, carrying a bit of heat… After all, this was once the place of a fallen god. Anyone entering for the first time would certainly feel excitement and curiosity. Yet she, who had shown such strong desire to enter this place… was so silent?
+
+At that moment, Shen Wuyi suddenly turned her eyes, and Yun Che’s spiritual sense was instantly touched by a gaze as cold as the moon.
+She sensed me?!
+
+Yun Che quickly withdrew his spiritual sense, and the Abyssal Dust trembled in his palm. Instantly, an Abyssal Ghost hidden within the dust mist let out a shrill cry and suddenly leapt out, its long sharp claws stabbing directly toward Yun Che’s heart.
+
+Puh!
+Yun Che neither dodged nor retreated. Suppressing his profound energy completely, the Abyssal Ghost’s claws pierced through his chest, tearing open several bloody holes and exploding a terrifying mist of blood.
+
+Li Suo screamed in shock:
+“Yun Che, you—!”
+
+“Don’t worry.”
+
+Yun Che’s face grew pale from pain, but the blood-stained corner of his lips lifted slightly:
+“Did you forget? I told you before… being injured is the easiest way to make someone lower their guard… the more serious the injury, the better… hiss!”
 
