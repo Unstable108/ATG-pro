@@ -116,6 +116,7 @@ export default function App({ Component, pageProps }) {
         <link rel="icon" type="image/png" href="/favicon.png" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/site.webmanifest" />
+        <script defer src="https://umami-delta-amber.vercel.app/script.js" data-website-id="20971589-8fde-483d-97dd-1792d3a2a1f3"></script>
       </Head>
       <Component {...pageProps} />
       <Analytics />

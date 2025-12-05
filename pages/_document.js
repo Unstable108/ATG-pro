@@ -19,6 +19,7 @@ export default function Document() {
           href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;600;700&display=swap"
           rel="stylesheet"
         />
+        <script defer src="https://umami-delta-amber.vercel.app/script.js" data-website-id="20971589-8fde-483d-97dd-1792d3a2a1f3"></script>
       </Head>
       <body>
         <Main />
