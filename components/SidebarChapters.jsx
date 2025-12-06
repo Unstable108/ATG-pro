@@ -1,5 +1,5 @@
 // components/SidebarChapters.jsx
-import { useEffect } from "react";
+import { useEffect, useRef } from "react";
 import Link from "next/link";
 import { useRouter } from "next/router";
 
@@ -11,20 +11,56 @@ export default function SidebarChapters({
   basePath = '', // NEW: Prop for dynamic prefix ('' for ATG, '/lee-gwak' for others)
 }) {
   const router = useRouter();
+  const desktopScrollRef = useRef(null); // Ref for desktop scroll container
+  const mobileScrollRef = useRef(null); // Ref for mobile scroll container
 
   // Prevent body scrolling when sidebar is open (mobile)
   useEffect(() => {
     if (typeof document === "undefined") return;
-
     if (open) {
       const original = document.body.style.overflow;
       document.body.style.overflow = "hidden";
-
       return () => {
         document.body.style.overflow = original;
       };
     }
   }, [open]);
+
+  // Auto-scroll to current chapter on desktop when currentSlug changes
+  useEffect(() => {
+    if (desktopScrollRef.current) {
+      // Small delay to ensure DOM is updated
+      const timer = setTimeout(() => {
+        const activeEl = desktopScrollRef.current.querySelector('[data-active="true"]');
+        if (activeEl) {
+          activeEl.scrollIntoView({ 
+            behavior: 'smooth', 
+            block: 'center',
+            inline: 'nearest'
+          });
+        }
+      }, 100);
+      return () => clearTimeout(timer);
+    }
+  }, [currentSlug]); // Re-run when currentSlug changes
+
+  // Auto-scroll to current chapter on mobile when sidebar opens
+  useEffect(() => {
+    if (open && mobileScrollRef.current) {
+      // Small delay to ensure DOM is rendered
+      const timer = setTimeout(() => {
+        const activeEl = mobileScrollRef.current.querySelector('[data-active="true"]');
+        if (activeEl) {
+          activeEl.scrollIntoView({ 
+            behavior: 'smooth', 
+            block: 'center',
+            inline: 'nearest'
+          });
+        }
+      }, 100);
+      return () => clearTimeout(timer);
+    }
+  }, [open, currentSlug]); // Re-run if currentSlug changes while open
 
   // Helper for chapter link
   const getChapterLink = (slug) => `${basePath}/chapters/${slug}`;
@@ -35,16 +71,15 @@ export default function SidebarChapters({
           DESKTOP SIDEBAR
       ─────────────────────────────────────── */}
       <aside className="hidden md:block w-64 shrink-0">
-        <div className="sticky top-16 h-[calc(100vh-4rem)] overflow-y-auto overscroll-contain border-r border-slate-200 dark:border-slate-700 pr-2">
+        <div ref={desktopScrollRef} className="sticky top-16 h-[calc(100vh-4rem)] overflow-y-auto overscroll-contain border-r border-slate-200 dark:border-slate-700 pr-2">
           <h2 className="px-3 pt-3 pb-2 text-xs font-semibold uppercase tracking-wide text-slate-500 dark:text-slate-400">
             Chapters
           </h2>
-
           <ul className="space-y-1 pb-4">
             {chapters.map((ch) => {
               const isActive = currentSlug === ch.slug;
               return (
-                <li key={ch.slug}>
+                <li key={ch.slug} data-active={isActive ? 'true' : 'false'}>
                   <Link
                     href={getChapterLink(ch.slug)}
                     className={
@@ -57,7 +92,6 @@ export default function SidebarChapters({
                     <div className="text-xs text-slate-500 dark:text-slate-400">
                       Chapter {ch.chapterNumber}
                     </div>
-
                     <div>
                       {ch.title || `Chapter ${ch.chapterNumber}`}
                     </div>
@@ -68,23 +102,19 @@ export default function SidebarChapters({
           </ul>
         </div>
       </aside>
-
       {/* ───────────────────────────────────────
           MOBILE DRAWER SIDEBAR
       ─────────────────────────────────────── */}
       {open && (
         <div className="fixed inset-0 z-40 md:hidden">
-
           {/* Backdrop */}
           <div
             className="absolute inset-0 bg-black/40"
             onClick={onClose}
             aria-hidden="true"
           />
-
           {/* Sliding drawer */}
           <div className="absolute left-0 top-0 bottom-0 w-72 max-w-[80%] bg-white dark:bg-slate-900 shadow-xl flex flex-col">
-
             {/* Header */}
             <div className="flex items-center justify-between px-4 py-3 border-b border-slate-200 dark:border-slate-700">
               <h2 className="text-sm font-semibold">Chapters</h2>
@@ -96,14 +126,13 @@ export default function SidebarChapters({
                 ✕
               </button>
             </div>
-
-            {/* Scrollable chapter list */}
-            <div className="flex-1 overflow-y-auto overscroll-contain">
+            {/* Scrollable chapter list - With ref */}
+            <div ref={mobileScrollRef} className="flex-1 overflow-y-auto overscroll-contain">
               <ul className="space-y-1 p-2">
                 {chapters.map((ch) => {
                   const isActive = currentSlug === ch.slug;
                   return (
-                    <li key={ch.slug}>
+                    <li key={ch.slug} data-active={isActive ? 'true' : 'false'}>
                       <Link
                         href={getChapterLink(ch.slug)}
                         onClick={onClose}
@@ -117,7 +146,6 @@ export default function SidebarChapters({
                         <div className="text-xs text-slate-500 dark:text-slate-400">
                           Chapter {ch.chapterNumber}
                         </div>
-
                         <div>
                           {ch.title || `Chapter ${ch.chapterNumber}`}
                         </div>
@@ -127,7 +155,6 @@ export default function SidebarChapters({
                 })}
               </ul>
             </div>
-
           </div>
         </div>
       )}

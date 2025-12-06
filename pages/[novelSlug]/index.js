@@ -9,7 +9,7 @@ import { useEffect, useState } from "react";
 import Head from "next/head";
 import { useRouter } from "next/router";
 import ChapterSearchToggle from "../../components/ChapterSearchToggle";
-import { ArrowUp, ArrowDown } from "lucide-react";
+import ChapterList from "../../components/ChapterList"; // NEW: Import the component
 
 export default function Home({ novel, chapters, novelSlug }) {
   const router = useRouter();
@@ -241,106 +241,52 @@ export default function Home({ novel, chapters, novelSlug }) {
           </div>
         </section>
 
-        {/* LATEST CHAPTERS */}
-        <section className="mb-10">
-          <div className="flex items-center justify-between mb-4">
-            <h2 className="text-xl font-semibold">Latest Chapters</h2>
-            <Link href={`${basePath}/chapters`} className="text-sm text-blue-600">
-              See all chapters
-            </Link>
-          </div>
-
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-            {latest.map((ch) => (
-              <article
-                key={ch.slug}
-                className="p-4 border rounded hover:shadow-sm bg-white dark:bg-slate-800"
+        {/* NEW RELEASE CARD (Replaces "Latest Chapters") - Highlighted & Gap Closed */}
+        {latest.length > 0 && (
+          <section className="mb-2"> {/* Reduced from mb-10 */}
+            <div className="bg-blue-100 dark:bg-blue-900/30 border border-blue-200 dark:border-blue-800 rounded-lg p-4 flex items-center justify-between shadow-md"> {/* Fuller bg + shadow */}
+              <div>
+                <span className="text-xs font-bold text-blue-600 dark:text-blue-400 uppercase tracking-wider">New Release</span>
+                <h3 className="mt-1 text-slate-900 dark:text-slate-100 font-semibold">
+                  Chapter {latest[0].chapterNumber}: {latest[0].title || `Chapter ${latest[0].chapterNumber}`}
+                </h3>
+              </div>
+              <Link
+                href={`${basePath}/chapters/${latest[0].slug}`}
+                className="bg-blue-600 hover:bg-blue-500 text-white text-sm px-4 py-2 rounded transition-colors whitespace-nowrap"
               >
-                <div className="text-sm text-gray-500 mb-1">
-                  Chapter {ch.chapterNumber}
-                </div>
-                <Link href={`${basePath}/chapters/${ch.slug}`} className="block">
-                  <div className="font-medium">
-                    {ch.title || `Chapter ${ch.chapterNumber}`}
-                  </div>
-                  <div className="mt-2 text-xs text-gray-500 line-clamp-3">
-                    {(ch.excerpt || "").slice(0, 160)}
-                    {(ch.excerpt || "").length > 160 ? "..." : ""}
-                  </div>
-                </Link>
-                <div className="mt-3">
-                  <Link
-                    href={`${basePath}/chapters/${ch.slug}`}
-                    className="text-sm text-blue-600"
-                  >
-                    Read →
-                  </Link>
-                </div>
-              </article>
-            ))}
-          </div>
-        </section>
+                Read Now
+              </Link>
+            </div>
+            {/* <div className="mt-4 text-right">
+              <Link href={`${basePath}/chapters`} className="text-sm text-blue-600 hover:underline">
+                See all chapters →
+              </Link>
+            </div> */}
+          </section>
+        )}
 
-        {/* CHAPTER LIST */}
+        {/* PAGINATED CHAPTER LIST (Replaces old "All Chapters" ul) */}
         <section>
           <div className="flex items-center justify-between mb-4 gap-3">
-            <h2 className="text-xl font-semibold">All Chapters</h2>
+            {/* <h2 className="text-xl font-semibold">All Chapters</h2> */}
 
-            <div className="flex items-center gap-2">
-              {/* 👉 Search icon + expanding box, LEFT of Asc/Desc button */}
+            {/* 👉 Search icon + expanding box */}
+            {/* <div className="flex items-center gap-2">
               <ChapterSearchToggle
                 onSubmit={handleHomeSearchSubmit}
                 placeholder="Jump by number or title..."
               />
-
-              <button
-                type="button"
-                onClick={() => setSortAsc((prev) => !prev)}
-                className="inline-flex items-center justify-center gap-1 rounded-full border border-blue-200 px-3 py-2 text-sm font-medium text-blue-600 hover:bg-blue-50 hover:border-blue-300 dark:border-blue-800 dark:text-blue-400 dark:hover:bg-slate-800 transition-all duration-200"
-                aria-label={
-                  sortAsc
-                    ? "Sorted ascending – click to sort descending"
-                    : "Sorted descending – click to sort ascending"
-                }
-              >
-                {sortAsc ? (
-                  <ArrowUp className="h-4 w-4" strokeWidth={2.5} />
-                ) : (
-                  <ArrowDown className="h-4 w-4" strokeWidth={2.5} />
-                )}
-              </button>
-            </div>
+            </div> */}
           </div>
 
-          <ul className="space-y-3">
-            {sortedChapters.map((ch) => (
-              <li
-                key={ch.slug}
-                className="p-3 border rounded flex justify-between items-start bg-white dark:bg-slate-900"
-              >
-                <div>
-                  <Link href={`${basePath}/chapters/${ch.slug}`} className="block">
-                    <div className="text-lg font-medium">
-                      Chapter {ch.chapterNumber}
-                      {ch.title ? ` — ${ch.title}` : ""}
-                    </div>
-                    <div className="text-sm text-gray-500 mt-1">
-                      {(ch.excerpt || "").slice(0, 140)}
-                      {(ch.excerpt || "").length > 140 ? "..." : ""}
-                    </div>
-                  </Link>
-                </div>
-                <div className="flex flex-col items-end">
-                  <Link
-                    href={`${basePath}/chapters/${ch.slug}`}
-                    className="text-sm text-blue-600"
-                  >
-                    Read →
-                  </Link>
-                </div>
-              </li>
-            ))}
-          </ul>
+          {/* NEW: Paginated List */}
+          <ChapterList
+            chapters={sortedChapters}
+            sortAsc={sortAsc}
+            basePath={basePath}
+            onSortToggle={() => setSortAsc((prev) => !prev)}
+          />
         </section>
       </main>
     </div>
