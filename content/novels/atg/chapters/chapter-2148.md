@@ -1,311 +1,257 @@
 ---
 chapterNumber: 2148
-title: "Boundless Rage in the Abyss"
-publishedAt: "2025-11-23"
+title: "Boundless Fury"
+publishedAt: "2025-12-09"
 ---
 
-Yun Che was in a wretched state. In order to crush Dian Sansi in an instant, thereby making his soul thoroughly collapse in the most unsightly posture of defeat, he had no choice but to activate **God Ash** for a split second. Though it was only an instant, the immense load still made his vision go black, his tendons and bones nearly snapping apart; a stream of blood surged up his throat, only to be ruthlessly swallowed back down.
- 
-But when Dian Sansi's maniacal roar resounded through the entire venue, even the agonizing pain racking his body instantly became immensely gratifying.
- 
-In this Abyssal chess game, the most crucial piece of the early stage had finally fallen.
- 
-Like a giant cauldron capping the sky, the development instantly annihilated the tide of exclamations that was surging wildly through the crowd.
- 
-Everyone's expression froze dead on their faces. Atop Eden's Crown, there was a deathly silence so oppressive it was terrifying; only the clouds rolled with the gradually fading, hoarse echoes of Dian Sansi.
- 
-How powerful were the True God Divine Souls of Meng Kongchan and Hua Fuchen? Yet at this moment, their minds buzzed with a dull roar, and they could only barely maintain a facade of calmness.
- 
-Dian Luohou's raised palm froze in mid-air. Then, he jerked his head around, his gaze turning fierce, and lashed out.
- 
-*PA!!*
- 
-A vicious slap sent Dian Sansi... this son he loved most besides Dian Jiuzhi, flying over a hundred meters away in public, accompanied by a furious curse: "Bastard thing! You dare utter such beastly words!"
- 
-Over at the Heaven Breaker Kingdom of God, the head of the Seven Sword Sovereigns—Sword Sovereign Tianshu—said angrily: "Simply ridiculous! Boundless brat, how can my Heaven Breaker Kingdom of God's Divine Daughter tolerate such slander from you!"
- 
-Sword Sovereign Yaoguang followed up in rage: "The name of Meng Jianyuan has only returned for three years. And in these three years, Caili has always been within the Seven Stars Heaven Breaker Formation, never leaving for even half a moment; where does this 'affair' come from! Boundless brat, this is the Pure Land. You dare to utter such slanderous words; if you do not give an explanation, my Heaven Breaker will absolutely not let this go."
- 
-"Correct!!"
- 
-Dreamweaver Kingdom of God's Chief Hall Master Meng Cangji said in a deep voice: "Since Meng Jianyuan's return, he has always been within the Divine Region. Before coming to the Pure Land this time, aside from personally sending Pan Buwang out of the Divine Region midway, he has never taken half a step away; countless people in my Divine Region can testify! Where is the opportunity to commit your so-called 'affair'!"
- 
-"Such absurd words are not only ridiculous but can be pierced with a single poke; it is simply the greatest joke in the world!"
- 
-The severe pain on his face, the reprimands in his ears, and the endless humiliation did not restore a shred of calm to Dian Sansi, but instead stimulated his madness even more. He lay on the ground, letting out a roar that almost tore his throat: "I didn't! Outside the Ling Xian's Divine Dwelling, I saw with my own eyes..."
- 
-His subsequent words were ruthlessly crushed by a palm. Dian Jiuzhi pounced on his body, his right hand firmly seizing his jaw; his five trembling fingers gripped with such force they contorted, almost crushing Dian Sansi's jaw.
- 
-"Shut up... SHUT UP!!" He roared... but what responded to him was a long, deathly silence in his ears.
- 
-Suddenly, he woke up as if from a dream, weakly loosening his fingers, his entire person frozen there soullessly.
- 
-As Hua Caili's betrothed, he should have wanted to know the truth or falsehood more than anyone, and absolutely shouldn't have had this reaction. His panicked attempt at prevention not only failed to cover it up... but instead served as evidence that only made it more conspicuous.
- 
-The rage on Dian Luohou's face froze. He stared at Dian Sansi, stared at Dian Jiuzhi, his lion-like beard clearly beginning to tremble violently.
- 
-Dian Sansi's body shifted forward; since the words were spoken, he no longer needed to endure. The anger, humiliation, and unwillingness that had been squeezed in his chest for so long vented madly along with his voice: "Abyssal Monarch... Father God... Not only me... Brother Jiuzhi also saw it with his own eyes!"
- 
-"Brother Jiuzhi's engagement to the Heaven Breaker Divine Daughter was personally bestowed by the Abyssal Monarch... known to all under heaven! Yun Che’s conduct like this... is contempt for the Abyssal Monarch!! Contempt for the Pure Land! Insulting my Boundless! How is such a shameless and despicable person worthy of the Abyssal Monarch's praise... worthy of standing on the Pure Land!"
- 
-"If there is half a word of falsehood, I am willing to be devoured by abyssal dust... abandoned by heaven and man..."
- 
-"Cough... *Cough cough cough*..."
- 
-Dian Sansi's throat tore completely, coughing up large patches of scorched blood.
- 
-But this time, Dian Luohou did not stop his roaring throughout the entire process.
- 
-Aside from Dian Sansi's painful coughing sounds, the surroundings remained silent for a long time...
- 
-It concerned Boundless, Heaven Breaker, Dreamweaver, and even more so the Abyssal Monarch; they knew incomparably well that if this matter were true, the implications would be enormous. Who dared to make a sound lightly?
- 
-Even the Sword Sovereigns of the Heaven Breaker Kingdom of God and the Soul Hall Masters of the Dreamweaver Kingdom of God suddenly fell silent, no one scolding for a long time.
- 
-Because they all sensed the abnormality in the Divine Regents.
- 
-The anger on their faces, in this terrible silence, gradually turned into an increasingly terrible unease in their hearts.
- 
-Dian Luohou's head was turning, but it turned so sluggishly and stiffly, like a hunchbacked old man with a broken neck.
- 
-It took a full several breaths, a full several jerks of his neck bones, before he turned his gaze toward the Heaven Breaker Kingdom of God.
- 
-In the first instant, his line of sight did not fall on Hua Fuchen, but on Hua Caili.
- 
-Such a drastic change, such a fright, was simply not something Hua Caili's mental defenses could withstand. Although she was hidden behind Hua Qingying, the sliver of cheek that was revealed was sickly pale.
- 
-His gaze turned again, looking at Hua Fuchen.
- 
-This close friend whom he had known since childhood, who was inseparable from him, avoided his gaze; on his face were waves of twitching pain and struggle.
- 
-"Brother Fuchen,"
- 
-Dian Luohou spoke; his voice seemed calm as usual, only carrying a hint of hoarseness: "Is this matter... true, or false?"
- 
-How fiery was Dian Luohou's temperament? Yet at this moment, he was so calm.
- 
-He suppressed his emotions so strongly because he hoped more than anyone that everything was false, he hoped more than anyone that Hua Fuchen would give him a negative answer.
- 
-Hua Fuchen opened his mouth, finally emitting an exceptionally difficult voice: "Old Dian, this matter..."
- 
-"Tell me, TRUE, OR FALSE!" Dian Luohou's voice rose, carrying extreme suppression, yet a rage that still shook the soul.
- 
-Hua Fuchen looked up and closed his eyes; things had come to this point, trying to conceal it any further was futile.
- 
-"...True."
- 
-*Whoosh—*
- 
-A single word, yet it was earth-shattering.
- 
-It was as if a ten-thousand-ton boulder had been hurled into a still lake; the gasps that rang out were deafening, and everyone’s expressions became… incredibly vivid.
- 
-“Your Majesty… this… this…”
- 
-The Seven Sword Sovereigns of Heaven Breaker, and in fact everyone from Heaven Breaker present, stood dumbfounded on the spot. The Dreamweaver side was also stunned; they kept glancing between Meng Kongchan and Yun Che, who still stood at the center of the battlefield, their expressions and emotions more tangled and complicated than anything they had ever experienced in their lives.
- 
-Meng Jianxi took two steps forward, standing beside Meng Kongchan, trying hard to steady his breathing.
- 
-Before arriving at the Pure Land, back when the profound arks of the two kingdoms had connected, he had briefly entertained such a conjecture. But that conjecture was too terrifying, too absurd, and he had instantly suppressed it.
- 
-Yet he never expected that it would actually... be true.
- 
-But when, by what chance, for what reason had all of this happened...?
- 
-“Alas, this is truly an... unexpected grand drama,” Wu Shenxing sighed deeply.
- 
-Wu Shenyue said, “This… I fear the rock-solid alliance of Boundless, Heaven Breaker, and Dreamweaver will crumble overnight.”
- 
-“No, perhaps it’s even more serious.”
- 
-Wu Shenxing said, “All of this is happening upon the Pure Land, under the very eyes of the Abyssal Monarch.”
- 
-“So that means…”
- 
-Wu Shenyue’s eyes narrowed, a strange light flickering within: “That Heaven Breaker Divine Daughter’s earlier sword strike—casting aside all consequences—was not to vent anger for Dian Jiuzhi at all, but rather… to use the favor bestowed by the Abyssal Monarch to dissolve her engagement with Dian Jiuzhi.”
- 
-“What a pity... it's too late.”
- 
-After speaking, he shook his head and repeated those two words, “What a pity…”
- 
-“Hahahahaha! Hahahahahahaha!”
- 
-Shenwu Yanye suddenly let out a wild, manic laugh, laughing so hard her entire palanquin trembled.
- 
-“This is what romantic love is… how filthy… how tragic… hahahahaha… a joke… truly a monumental joke… hahahahaha!”
- 
-She laughed without end, even more madly than when Shenwu Yi had brushed Dian Jiuzhi aside… but the lingering echo of her laughter carried a faint trace of sorrow.
- 
-Yun Che stood quietly in place, his face presenting the pallor after forcibly activating **God Ash**... but in the eyes of others, it was undoubtedly a state of huge panic.
- 
-Dian Luohou's gaze, at this time, was cast toward Meng Kongchan.
- 
-He seemed to try to find confusion, anger... on Meng Kongchan's face. But there wasn't any, only painful struggle like Hua Fuchen.
- 
-"So,"
- 
-He spoke: "You also... knew long ago?"
- 
-All gazes fell on Meng Kongchan.
- 
-"Yes." He answered.
- 
-Dian Luohou's face turned ashen at a terrible speed. The muscles on his face twitched, his lion-like body swaying, teetering several times.
- 
-"Heh... Hehehe..." He laughed, laughing exceptionally hoarsely, then big laughter, wild laughter... "Haha... Hahaha... Hahahahahaha!"
- 
-His big laughter was still so ear-shaking, but it no longer had a shred of his usual majesty and boldness, instead carrying a bone-piercing sorrow.
- 
-Hua Fuchen clenched his hands tight, speaking painfully: "Old Dian..."
- 
-"SHUT UP!!"
- 
-A heaven-shaking angry shout drowned out Hua Fuchen's voice: "Is 'Old Dian' something you are worthy of saying!? Are you worthy!? ARE YOU WORTHY!!!"
- 
-Dian Luohou's eyes were red like blood, his eyeballs covered with countless shocking blood streaks.
- 
-Hua Fuchen moved his lips, closing his eyes painfully again.
- 
-He and Meng Kongchan had anticipated many outcomes, good or bad... and the worst outcome among them was being known by Dian Luohou in advance before all preparations were made.
- 
-To avoid this evil result, Yun Che and Hua Caili were in different countries these years, unable to meet. After the Pure Land, no matter how reluctant, they had to be forcibly separated.
- 
-But they didn't expect that such an omission would occur in this short Pure Land Conference.
- 
-Even less did they expect... the situation was actually a thousand, ten thousand times worse than the worst outcome they anticipated.
- 
-If Dian Luohou learned about it privately, although he would be furious, he would absolutely seal the news, preserving the dignity of the Boundless Kingdom of God and the Boundless Divine Son Dian Jiuzhi to the greatest extent. The matters afterwards would be the internal affairs of their three people and three Kingdoms of God.
- 
-But at this moment... when all this was caught off guard and revealed, the six kingdoms and the Dragon Clan were all present, and it was even before the Abyssal Monarch and the Chief High Priest.
- 
-What was inflicted on Dian Luohou was undoubtedly betrayal and humiliation magnified to the extreme.
- 
-"Hua Fuchen, Meng Kongchan!"
- 
-He called the names of his former close friends directly, yet every sound was shrill, every word gnashing teeth: "One daughter, betraying my son's affection; one son, stealing my son's wife!"
- 
-"You clearly knew... YOU CLEARLY KNEW!! Yet not only did you not stop it, but you treated me like a stupid pig, played me like a clay dog!
- 
-Hehe... Hahahaha... You truly are my good brothers, GOOD BROTHERS! Hahahahaha!"
- 
-How glorious was Dian Luohou's life? He was incredibly noble from birth; his innate Divine Essence made him the Boundless Divine Son, unmatched by any male of his generation. After succeeding as the Divine Regent, he became the Foremost Divine Regent of the six Kingdoms of God, shaking the Abyss, the number one person under the Pure Land of the Abyssal World.
- 
-But what he was most proud of in this life was not the title of the Foremost Divine Regent, but the two close friends he made since childhood and who eventually became Divine Regents together. Such friendship, such close connection, a fate that relied on each other even after becoming Divine Regents, how precious, how inconceivable.
- 
-But, it just had to be the two of them who gave him the greatest betrayal and shame in this life.
- 
-Hua Caili's small hand tightly grasped Hua Qingying's lapel, panicked to the point of tears. She bit her lip, daring not look at her Father God's eyes, only emitting low sobs time and again: "Father God... I'm sorry... I'm sorry..."
- 
-Traveling the Pure Land with Yun Che was her active invitation because she really couldn't suppress her longing.
- 
-They maintained distance and restraint the whole time, only that short few breaths of uncontrollability in front of Ling Xian's Divine Dwelling...
- 
-Hua Qingying raised her hand to protect her, comforting softly: "Things have come to this, no need to blame yourself."
- 
-"HUA CAILI!!" Dian Luohou's furious roar actually fell directly on Hua Caili.
- 
-He pointed at Hua Caili, his fingertip trembling violently: "What a Heaven Breaker Divine Daughter, what a daughter of Hua Fuchen! My son Jiuzhi's deep affection for you, treating you so well, is known to the world, visible to the heavens!"
- 
-"For you, for a full three thousand one hundred and twenty years, he didn't let half a woman near him! For you, he swore that even as the Boundless Divine Regent in this life, he would only have you alone! Even more for you..."
- 
-"Father God."
- 
-Dian Jiuzhi walked over, gently pressing down the palm Dian Luohou extended: "I know Father God must be angry at this moment, but... please listen to a word from your child for now."
- 
-He took a deep breath, using an extremely peaceful, extremely sincere voice to say: "Actually, between Caili and me, we have long severed the engagement."
- 
-Hua Fuchen and Meng Kongchan looked sideways simultaneously, their expressions astonished.
- 
-"..."
- 
-Dian Luohou slowly turned his eyes: "What did you say!?"
- 
-Facing Dian Luohou's unprecedentedly terrible gaze, Dian Jiuzhi still maintained a calm demeanor: "I originally thought my feelings for Caili were romantic love, but as time passed, suddenly one day, I was startled to realize that what I have for Caili is actually the sibling friendship formed in our youth."
- 
-"And Caili is innocent and naive, never knowing what romantic love is, merely simply obeying the engagement set for her by the Heart Painter Divine Regent in her ignorance. Therefore, whether for me or Caili, we have long hoped to break this engagement, just never had the chance to say it."
- 
-"Originally, meeting the Abyssal Monarch at this Pure Land Assembly was the most appropriate time, but I didn't expect..."
- 
-**PA!!!!**
- 
-An incredibly heavy slap ruthlessly struck Dian Jiuzhi's face; that terrible cracking sound clearly meant his frontal bone was shattered.
- 
-Dian Jiuzhi tumbled far away onto the ground, his body twitching in pain.
- 
-A group of Boundless elders turned pale with fright, rushing forward in panic: "Your Reverence, quell your anger..."
- 
-"SCRAM!!"
- 
-With a furious roar from Dian Luohou, all those approaching were ruthlessly blasted away, vomiting blood.
- 
-In everyone's horrified gazes, Dian Luohou walked to Dian Jiuzhi who was paralyzed on the ground, his eyes filled with terrifying gloom: "Although I am strict with you, I have never beaten you. Today, do you know why!?"
- 
-Dian Jiuzhi opened his mouth, but only gushed out large patches of bloody froth.
- 
-"Do you believe your own words! Do you take me for a fool, or take the Abyssal Monarch, take everyone in the world for fools!"
- 
-"I... I..."
- 
-Dian Jiuzhi dared not get up, dared not even look up.
- 
-"Tell me,"
- 
-Dian Luohou's chest heaved as if about to split: "What is a man's greatest hatred, what is a man's greatest shame!"
- 
-Dian Jiuzhi's gaze lost focus, speaking with difficulty: "A man's greatest hatred is the hatred of killing his father; a man's greatest shame is... the shame of having his wife stolen."
- 
-"Heh... Hehehe..."
- 
-Dian Luohou emitted a sorrowful and angry sneer: "Do you know that starting from today, everyone in this world will know that you, the dignified Boundless Divine Son, had your betrothed wife stolen by someone!"
- 
-"Everyone will sneer at you, pity you! Even the lowliest person in this world can treat you as conversation fodder, as a huge joke!"
- 
-"Even if you become a Divine Regent in the future, even if your future achievements surpass mine ten times over, this brand of shame will always exist, never fading! Everyone seeing you will first think that you are a pitiful worm whose wife was stolen... dragging the Boundless Kingdom of God down into humiliation with you!"
- 
-"And that Meng Jianyuan... even if he accomplishes nothing in the future, before him, you will forever be a loser, forever a joke, do you understand! UNDERSTAND!!"
- 
-Dian Jiuzhi buried his head deeply, only panting extremely heavily.
- 
-"And you, are actually still trying to exonerate them, actually still trying to defend them! I... Heh, I, Dian Luohou, am a joke, and my son, Dian Luohou's son, is an even bigger joke... Hahahaha, HAHAHAHAHA!"
- 
-"Old Dian..."
- 
-Meng Kongchan could no longer remain silent, speaking with difficulty: "You are not a joke, the fault lies with us..."
- 
-Dian Luohou jerked his head around; that excessively terrible gaze was like a poisoned steel needle, stabbing Meng Kongchan into speechlessness instantly.
- 
-"Meng Kongchan, Hua Fuchen,"
- 
-His gaze trembled, his lips opening and closing, every word sorrowful: "I, Dian Luohou, what exactly did I do wrong, where exactly did I let you down, for you to treat me like this..."
- 
-Meng Kongchan and Hua Fuchen's lips moved, but both were speechless facing him, even more ashamed to face him.
- 
-**BOOM!!!**
- 
-With a loud explosion, Dian Luohou's figure appeared before Hua Fuchen; that terrible aura forced the Seven Sword Sovereigns away in an instant.
- 
-He suddenly reached out, firmly grabbing Hua Fuchen's collar, hauling his Divine Regent body off the ground, his glaring eyes nearly exploding: "What exactly did I do wrong, to make you treat me like this... SPEAK! SPEAK!!"
- 
-Hua Fuchen did not resist in the slightest, allowing Dian Luohou's furious aura to seep into his flesh and bones, his heart filled only with endless guilt and defeat.
- 
-"Release His Reverence!" The Seven Sword Sovereigns shouted in unison, but before they could act, a bronze profound light descended from the sky.
- 
-*Clang!*
- 
-An irresistible force repelled Dian Luohou far away. The bronze profound light did not dissipate but lay across between Dian Luohou and Hua Fuchen, as if completely isolating the space they were in.
- 
-The Chief High Priest's voice of judgment also rang out at this time: "Above the Pure Land, private fights are forbidden. Boundless Divine Regent, considering your soul is trapped in an abyss of rage and you didn't truly attack, I will not pursue it for now; reflect and control yourself. No matter what grievances, wait until leaving the Pure Land to deal with them!"
- 
-Dian Luohou looked up at the Abyssal Monarch, forcibly suppressing the anger about to lose control, only his clenched hands were still trembling uncontrollably.
- 
-And at this time, the Abyssal Monarch's voice rang out atop Eden's Crown: "Rage, breaking This Monarch's command, what punishment should be bestowed?"
- 
-The Chief High Priest responded faintly: "The Punishment of Desolate Devouring."
- 
-"The Punishment of Desolate Devouring."
- 
-As soon as these five extremely short words came out, the incomparably powerful Heart Painter and Dreamless Divine Regents instantly had all the blood in their faces drain, their features presenting a terror that absolutely shouldn't appear on a Divine Regent.
- 
-"Donghuang."
- 
-The Chief High Priest raised his eyes to give the order: "Take down Yun Che and Hua Caili!"
+Yun Che’s condition was pretty bad right now. In order to defeat Dian Sansi in an instant, in order to completely destroy his soul while he suffered the ugliest possible defeat, Yun Che had no choice but to activate God Ash for an instant. Although it was just an instant, the terrible burden still caused his vision to darken around the edges. His muscles had nearly snapped, and his bones were almost broken. Blood threatened to flow over his throat, only for him to swallow it back with all his might.
+
+When Dian Sansi’s maddened roars echoed throughout Eden’s Crown, though, the wracking pain suddenly became oh-so-soothing. Finally, the most crucial move he could possibly play at this early stage of the board was played.
+
+The inferno of noises currently ravaging Eden’s Crown was wiped out like someone had dropped a giant lid on the entire venue. What followed next was a horrifyingly suffocating silence that was only disturbed by Dian Sansi’s fading scream.
+
+Meng Kongchan and Hua Fuchen were True Gods. Their souls were greater than almost everyone present at the scene. However, Dian Sansi’s outburst had struck them like an explosion that took place right inside their skulls. It was all they could do to maintain their calm—at least on the surface.
+
+Dian Rahu’s raised hand froze in the air. Then, he abruptly turned around with a harsh expression and slapped Dian Sansi across the face.
+
+It was a harsh and painful slap. Dian Sansi was his second most favorite son after Dian Jiuzhi, and he had sent him flying a hundred meters away with this one slap. At the same time, an angry rebuke echoed through the air, “You bastard! How dare you utter such beastly words!”
+
+On the Heaven Breaker Kingdom of God’s side, the head of the seven Sword Sovereigns, the Tianshu Sword Sovereign, erupted, “Unbelievable! You dare to slander our Divine Daughter, boy?!”
+
+Yaoguang Sword Sovereign followed up, “It had only been three years since Meng Jianyuan returned, and Caili was practicing in the Seven Star Heaven Breaker Formation this whole time! How could they even begin to have an affair? This is the Pure Land, and you dare make such a scandalous statement, Boundless Boy?! Heaven Breaker will not forget this if you don’t give us a proper explanation!”
+
+“That’s right!!”
+
+The Chief Lord of the Dreamweaver Kingdom of God, Meng Cangji said heavily, “Meng Jianyuan has not left the kingdom since returning. Before coming to the Pure Land, he had not taken a single step past the borders, besides that one time he sent Pan Buwang out of the kingdom. Everyone in the kingdom can testify to this, so how could they possibly have the opportunity or time to have the ‘affair’ you speak of?!”
+
+“It’s such a ludicrous, terrible lie that even a child can see it for what it is in an instant! Utterly laughable!”
+
+The violent pain wracking his face, the rebukes that pierced through his ears, and the endless flood of humiliation did not restore Dian Sansi’s cool. On the contrary, it pushed him to greater heights of madness. He lay on the ground and screamed so loudly that his throat nearly ripped itself apart, “I did not! I was outside High Priest Ling Xian’s abode when I saw it with my own eyes—”
+
+Whatever else he was going to say was silenced when a hand clamped around his mouth. It was Dian Jiuzhi jumping onto the man and grabbing his lower jaw with all his might. His fingers were straining to the point of shaking, and he nearly crushed Dian Sansi’s lower jaw to pieces.
+
+“You shut up... Shut up!!” He roared. It took him a while to notice that the response he got... was long, deathly silence.
+
+Dian Jiuzhi abruptly realized what he had just done and loosened his grip limply. For a time, he just stood there numbly like he had lost his soul.
+
+As the partner Hua Caili was engaged to, he, of all people, should desire to learn the truth more than anyone else. Whatever his reactions might be, it definitely shouldn’t be this. Not only did his panicked attempt to stop Dian Sansi from speaking not help to conceal this in any way, it actively made matters worse... it circumstantially proved that what the man said wasn’t a lie.
+
+Dian Rahu’s fury froze on his face as he stared at both Dian Sansi and Dian Jiuzhi. Slowly but surely, the lion’s mane on his face began shaking violently.
+
+Dian Sansi pushed himself forward. It was far too late to take back his words at this point, so there was no need to hold himself back any longer. The anger, humiliation, and defiance that he had been accumulating in his chest for all this time exploded out in a craze-filled voice, “Your Majesty... Father... It’s not just me who saw it... Brother Jiuzhi saw it as well!”
+
+“His Majesty Himself bestowed the engagement between Brother Jiuzhi and the Heaven Breaker Divine Daughter... Everyone under the heavens knows about this! What Yun Che did... is akin to looking down on His Majesty!! The Pure Land! The Boundless Kingdom of God! Such a shameless and despicable man could not possibly deserve His Majesty’s praise... much less stand on this sacred soil!”
+
+“I swear that every word I said is the truth! If even one word of what I said is a lie, may abyssal dust consume me where I stand... and all under the heavens abandon me...”
+
+“Cough... Cough cough cough...”
+
+At this point, Dian Sansi’s throat was fully ripped open, and he coughed out large chunks of charred blood. Dian Rahu did not stop him from shouting this time, though. Not even once.
+
+For a time, Dian Sansi’s bloody coughs were the only sounds echoing in the temple... This matter didn’t just involve Boundless, Heaven Breaker, and Dreamweaver. This matter involved the Abyssal Monarch Himself. Assuming Dian Sansi’s accusation was actually true, to say that this was an earthshaking matter would be an understatement. With that said, who would dare to say a word at this time?
+
+The Sword Sovereigns of the Heaven Breaker Kingdom of God and the Dream Lords of the Dreamweaver Kingdom of God were silent as well. It was because both groups noticed that their Divine Regents were reacting strangely. Their faces were still angry, but it was slowly but surely giving way to terrible unease.
+
+Dian Rahu’s head finally turned. It was such a stiff and sluggish turn that it was as if he were an old hunchback with a broken neck, not the Boundless Divine Regent.
+
+A few breaths later, a few times of clear pauses later, Dian Rahu finally cast his gaze at the Heaven Breaker Kingdom of God’s formation. The first person who got his stare wasn’t Hua Fuchen, however. It was Hua Caili.
+
+The incident was so sudden, the man’s face was so terrifying, that Hua Caili could not withstand it at all. Although Hua Qingying was blocking in front of her, the exposed edges of her face were a sickly white that could only be described as terrifying.
+
+Dian Rahu’s gaze shifted, and this time it settled on Hua Fuchen’s face. In response, the best friend he had known since childhood and shared an unbreakable bond for countless years avoided his gaze while his face spasmed repeatedly with pain and struggle.
+
+“Brother Fuchen,” Dian Rahu said in a seemingly calm voice that was slightly hoarser than normal. “Is this... true?”
+
+Dian Rahu was so fiery, and yet he was acting so calm, it was unreal. The reason he was suppressing his emotions to this extent was that he hoped more than anyone else that this was fake; that Hua Fuchen would tell him no, this was completely untrue.
+
+Hua Fuchen opened his mouth. It took him a good few seconds to finally speak up in a hoarse voice, “Old Dian, this is—”
+
+“Just tell me if it’s true or false!” Dian Rahu raised his voice. As much as he suppressed his emotions, the anger contained behind the demand was still enough to shake one’s soul.
+
+Hua Fuchen looked up and closed his eyes. At this point, it was impossible to conceal it any longer.
+
+“... It is the truth.”
+
+Four words. It was just four words, and yet it was like someone had chucked a mountain into a dead lake. The cries of shock and horror that ensued were positively explosive, and the expressions on everyone’s face... were diverse to put it mildly.
+
+“Supreme one, this... this...”
+
+The seven Sword Sovereigns of Heaven Breaker—no, everyone in the Heaven Breaker Kingdom of God’s entourage was stunned. It was the same for the Dreamweaver side. They glanced back and forth between Meng Kongchan and Yun Che—who was still standing at the center of the battlefield—while wearing the most complicated expressions of their lives.
+
+Meng Jianxi took two steps forward and stood next to Meng Kongchan. He was doing his best to adjust his breathing. Prior to coming to the Pure Land, and when their profound ships had temporarily linked up on the way, he had already guessed that something existed between Yun Che and Hua Caili. However, the guess was so terrifying, so ludicrous, that he had snuffed it out the very next instant. To think... to think...
+
+But when did it happen? How did this come to be? For what reason did they...
+
+“Ai... this truly has been... a surprising show from the start until the end,” Wushen Xing remarked with a deep sigh.
+
+Wushen Yue said, “With this... the once unbreakable alliance between Boundless, Heaven Breaker, and Dreamless.... is going to crumble to dust in a single day.”
+
+“No, it may be worse than that.”
+
+Wushen Xing replied, “This is happening on the Pure Land right before His Majesty’s eyes.”
+
+“Now that I think about it...”
+
+Wushen Yue narrowed his eyes. “The reason the Heaven Breaker Divine Daughter put her life at risk to unleash that sword isn’t to take revenge for Dian Jiuzhi, but... to earn the Abyssal Monarch’s favor and use it to annul her engagement with Dian Jiuzhi.”
+
+“How unfortunate that it’s too late...”
+
+He shook his head and repeated the words, “How unfortunate...”
+
+“Hahahaha! Hahahahahaha!”
+
+On the Eternal Night Kingdom of God’s side, Shenwu Yanye abruptly burst out laughing. It was such a terrible, mad laugh that the entire palanquin was shaking.
+
+“So this is the love between man and woman... how filthy... how sorrowful... hahahaha... a joke... what a terrible joke this is... hahahaha!”
+
+She was laughing even more wantonly than when Shenwu Yi had wiped the floor with Dian Jiuzhi... but when her mad laughter was reaching the end, one could hear that it was tinged with deep sorrow.
+
+Yun Che remained standing where he was. His face was deathly pale after activating God Ash by force... but from everyone else’s perspective, his face was white because he was terrified for his life.
+
+Dian Rahu shifted his gaze next to Meng Kongchan. He tried to find some sort of confusion or anger on his old friend’s face... but just like Hua Fuchen, there was only pain and struggle.
+
+“So,” he said, “You... knew too? For a long time?”
+
+The full weight of his gaze rested on Meng Kongchan’s body.
+
+That was Meng Kongchan’s answer.
+
+Dian Rahu’s complexion immediately started withering at a terrifying rate. His facial muscles were twitching involuntarily, and his lion-like body was wobbling uncontrollably. He looked like he might collapse to the floor at any moment.
+
+“Heh... hehe...”
+
+He started laughing. It was a low, unbelievably raspy laugh at first. Then, it grew louder and louder. “Haha... hahaha... hahahahahaha!”
+
+His laughter was as booming and deafening as ever, and yet it did not contain an ounce of its usual pressure, boldness, or freedom. Instead, it was infused with bone-deep sorrow.
+
+Clenching his fists tightly, Hua Fuchen spoke up painfully. “Old Dian—”
+
+“Silence!!”
+
+A deafening, angry roar overwhelmed Hua Fuchen’s voice. “Who are you to call me Old Dian? Who?? Who???”
+
+Dian Rahu’s pupils looked as red as blood right now. His eyeballs especially were covered in countless terrifying blood vessels.
+
+Hua Fuchen tried to move his lips, but in the end, he could only close his eyes in pain.
+
+He and Meng Kongchan had envisioned countless good or bad outcomes... and the worst possible outcome was Dian Rahu finding out the truth before their preparations were complete.
+
+In order to avoid this worst-case scenario, they made sure to “confine” Yun Che and Hua Caili to their respective kingdoms and forbid them from seeing each other for the past couple of years. Even after they arrived at the Pure Land, they kept them separate as much as possible, no matter how much the two lovebirds were reluctant to be apart from one another.
+
+But to think... to think the slip-up would happen during the Pure Land Meet... the Pure Land Meet that barely even lasted a couple hours...
+
+And to think... that the situation would be a hundred times... no, a thousand times worse than even the worst case scenario they had envisioned...
+
+If Dian Rahu had found out about this in private, he would be no less enraged, but he would do everything in his power to block the news from spreading and preserve the Boundless Kingdom of God and Dian Jiuzhi’s dignity to the utmost degree. Whatever happened afterward would be between the three of them and the three Kingdoms of God as well. In fact, only a small subset of the Kingdoms of God would even be allowed to know about this.
+
+But now... not only was this matter ripped wide outside of their control or expectations, it was exposed in front of the six Kingdoms of God, the dragon race, and especially the Chief Priest and the Abyssal Monarch. To say that Dian Rahu was currently enduring the greatest betrayal and humiliation he could endure would be an understatement.
+
+“Hua Fuchen, Meng Kongchan!”
+
+He addressed his former best friends by their full names, but his voice was sad and shrill, and his words were wrathful beyond imagination. “One daughter betrayed my son’s love, and one son stole my son’s wife!”
+
+“You knew... You knew for a long time, but not only did you do nothing to stop this, you both treated me like a pig and toyed with me like a dog! Hehe... hahahaha... Truly, you are the greatest brothers I have ever had! Hahahahaha!”
+
+Dian Rahu’s whole life was grand and magnificent, to put it mildly. From the moment he was born, his status was that of boundless nobility. His innate divine essence had elevated him to the status of Boundless Divine Son and made him unequalled among his male peers. After he ascended the throne, he even became the greatest Divine Regent of all six Kingdoms of God, feared throughout the Abyss and inferior only to the Pure Land.
+
+However, the thing he took the greatest pride in his life wasn’t his unrivaled fame or power, but the priceless friendship he had made since childhood and continued to maintain even thousands and thousands of years later. He and his two best friends were so close that they could trust each other to watch their backs even after they became Divine Regents. Priceless and miraculous did not even begin to describe the bond they shared.
+
+To think... that it would be these two who gave him the biggest betrayal and humiliation of his life.
+
+Hua Caili was clutching Hua Qingying’s clothes tightly. She was so panicked that tears were streaming down her face uncontrollably. Biting her lips and too afraid to even look her Father in the eye, she could only sob out again and again, “Father... I’m sorry... I’m sorry...”
+
+In fact, she was the one who lost control and invited Yun Che to explore the Pure Land together. To be fair, they had maintained a suitable amount of distance and restraint throughout their mini adventure... except for those few breaths in front of Ling Xian’s divine abode. To think...
+
+Hua Qingying raised a protective hand and comforted her quietly, “At this point, it is too late for self-blame.”
+
+“HUA CAILI!!”
+
+To everyone’s surprise, Dian Rahu’s roar was directed at Hua Caili next. Pointing a shaky finger at the girl, he growled furiously, “Heaven Breaker Divine Daughter, daughter of Hua Fuchen! My son loves you so much and treats you so well that everyone under the heavens knows about it, and the heavens can testify to his devotion!”
+
+“For you, he did not allow a single woman to approach him for fifty-two sexagenary years! For you, he swore that you would become his one and only partner even after he became the Boundless Divine Regent! For you, he—!”
+
+It was at this moment that Dian Jiuzhi walked up to his Father and gently pushed down his palm. “I knew you would be angry about this, but... can you please listen to me for a moment?”
+
+The Boundless Divine Son sucked in a deep breath before continuing in the most even and sincere voice he could muster, “To be honest, Caili and I broke off our engagement a long time ago.”
+
+The moment they heard this, Hua Fuchen and Meng Kongchan both side-eyed him with astonishment.
+
+Dian Rahu slowly turned around and erupted, “What did you say!?”
+
+Dian Rahu’s glare was scarier than it had ever been, but Dian Jiuzhi’s expression remained calm. “I initially thought that my love for Caili was one of romance, but one day, I suddenly realized that it wasn’t. It’s just a close friendship between brothers and sisters.”
+
+“Caili is innocent and guileless. She knows even less about romantic love between a man and a woman. She did not know what she was thinking when she agreed to the engagement, or rather, she was just obeying the Heart Painter Divine Regent’s wish. Therefore, both Caili and I wish to break off this engagement from a long time ago. It’s just that we haven’t had the opportunity to say it.”
+
+“This Pure Land Meet would have been a perfect opportunity to do so, but—”
+
+SLAAAAAAAAAAAPPPPPPP!!!
+
+An unbelievably heavy palm struck Dian Jiuzhi’s face so hard that a terrifying crack could be heard. Judging from the sheer volume of the sound, the slap had shattered even his skull. Dian Jiuzhi rolled far, far away before he came to a stop, twitching and spasming in pain.
+
+The Boundless elders were stunned by this reaction. They hurriedly rushed forward to speak to Dian Rahu, “Please calm down, supreme—”
+
+“Get out of my sight!!” Dian Rahu roared, and everyone close to him was sent flying with blood pouring through their lips.
+
+While everyone was staring at him in shock, Dian Rahu walked all the way to the slumped Dian Jiuzhi with terrifyingly cold and violent eyes. “I’ve always been strict with you, but I have never hit you once. Today, I made an exception. Do you know why?!”
+
+Dian Jiuzhi opened his mouth, but the only thing that came out was large globs of blood and spittle.
+
+“Do you even believe what you just said? Do you think that your father is an idiot? Do you think that the Abyssal Monarch and everyone under the heavens are idiots?!”
+
+“I... I...”
+
+Dian Jiuzhi did not dare to get up, much less lift his head.
+
+“Tell me,” Dian Rahu growled while his chest heaved up and down like it would burst apart. “What is the greatest hatred and humiliation a man can suffer?”
+
+Eyes unfocused, Dian Jiuzhi responded with difficulty, “The greatest hatred a man can suffer... is losing his parents to murder... and the greatest humiliation a man can suffer... is losing their wife to another.”
+
+“Heh... hehe...”
+
+Dian Rahu let out a cold laugh full of sorrow and fury. “Do you know what’s going to happen after today? Every person in the entire Abyss will learn that you, the Boundless Divine Son, lost your fiancée to another man!”
+
+“Everyone in the world will laugh at you and pity you! Even the lowliest, scummiest person in the world can use you as a conversation topic and treat you as the biggest laughingstock of the century!”
+
+“Even when you become a Divine Regent in the future, even if you become ten times greater than I ever was, this brand of shame will follow you for the rest of your life! It will never fade away! From now on, whenever someone sets their eyes on you, the first thing they will think of is that you are a pathetic worm whose wife was stolen by another man... and by association, the entire Boundless Kingdom of God will suffer the same humiliation as you!”
+
+“On the other hand, Yun Che... even if he turns out to be a total failure in the future, you will never be victorious in front of him! You will always be a joke compared to him! Do you understand this? Do you understand this?!!”
+
+Dian Jiuzhi bowed his head deeply. Only the sounds of his impossibly heavy breathing could be heard.
+
+“And you, you were trying to justify their actions; trying to defend them?! I... heh... I, Dian Rahu, am a joke. My son... is an even bigger joke! Hahahaha, hahahahaha!”
+
+“Old Dian...”
+
+Meng Kongchan could not stay silent at this point. He said with great difficulty, “You are not a joke. This is our fault—” 𝒇𝙧𝙚𝓮𝙬𝙚𝓫𝒏𝓸𝓿𝓮𝒍.𝓬𝙤𝓶
+
+Dian Rahu abruptly turned around and stabbed Meng Kongchan with a gaze so terrifying, so venomous, that the Dreamless Divine Regent forgot what he was going to say.
+
+“Meng Kongchan. Hua Fuchen.”
+
+His eyes were shuddering, and every word that tumbled out of his lips was infused with unspeakable sorrow. “Did I do you both wrong somewhere somehow? What on earth did I do to earn such treatment from you? Just what...”
+
+Meng Kongchan and Hua Fuchen’s lips moved, but neither could say a single word, much less bear to face Dian Rahu.
+
+There was a terrible boom, and Dian Rahu appeared in front of Hua Fuchen. His terrifying force field pushed away the seven Sword Sovereigns in an instant.
+
+He reached out and seized Hua Fuchen by the collar. Eyes widening so much that they nearly ripped apart at the edges, he lifted the man into the air while his eyes and asked again, “What on earth did I do wrong to earn this from you... Speak! Speak!!”
+
+Hua Fuchen did not resist in the least. He allowed Dian Rahu’s enraged energies to invade his flesh, blood, and marrow without resistance. There was only infinite guilt, regret, and ash inside his heart.
+
+“Release our Divine Regent!” The seven Sword Sovereigns cried out at the same time, but before they could make a move, an irresistible ray of antique bronze descended from the sky and repelled Dian Rahu.
+
+The profound light did not fade even after separating the two Divine Regents. It lingered between the duo, keeping them completely separate.
+
+It was at this moment that the Chief Priest’s authoritative voice came from above, “Unsanctioned fighting is not allowed in the Pure Land. Boundless Divine Regent, as your soul is drowning in an abyss of rage, and you have not truly attacked the Heart Painter Divine Regent, I am willing to overlook your transgression for the moment. However, you will master your temper and restrain yourself. No matter the grievances, you will settle them outside the Pure Land!”
+
+Dian Rahu looked up at the Abyssal Monarch and forced himself to suppress his nigh uncontrollable rage. His tightly clenched fists were still shaking violently, though.
+
+It was at this moment that the Abyssal Monarch spoke. “Rage, what is the punishment for disobeying the monarch’s order?”
+
+The Chief Priest replied indifferently, “Punishment by devouring rage.”
+
+“Punishment by devouring rage”
+
+The four words were short and succinct, and yet the powerful Heart Painter and Dreamless Divine Regent turned as white as a sheet when they heard this. Their faces wore expressions of shock and horror that should never belong to a Divine Regent.
+
+“Dong Huang,” the Chief Priest looked up and ordered, “Seize Yun Che and Hua Caili!”

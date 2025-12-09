@@ -1,175 +1,173 @@
 ---
 chapterNumber: 2144
-title: "Renounces Sword Heart"
-publishedAt: "2025-11-19"
+title: "Ruthless Determination of a Sword Heart"
+publishedAt: "2025-12-09"
 ---
 
-"It is somewhat strange. Why did she choose to accept the challenge? It is a battle destined for defeat, and with Meng Jianxi as a precedent, I cannot think of any significance in her accepting." Li Suo voiced her doubts.
- 
-Yun Che's lips curled slightly as he sidestepped the question. "To a certain extent, Caili's Heaven Breaker Sword Intent actually counters... or rather, it does not particularly fear the Exquisite Profound Realm. But with the addition of Glazed Glass Ice, Caili has no chance of victory."
- 
-He looked at the two women standing far apart within the battlefield barrier, his state of mind a tangle of unspeakable complexity. One in black, one in white. One cold and aloof like an Ice goddess of the frozen moon; the other spiritual and ethereal, beautiful as an epiphyllum in an ancient painting. Perhaps in the eyes of the world, to obtain just one of them would be the supreme fortune of a lifetime for any man, an absurd delusion that the myriad spirits would not even dare to dream of. Yet no one knew—not even Shenwu Yi and Hua Caili, who were facing each other directly for the first time—that one was his lawfully wedded wife, and the other had devoted her body and heart to him, unwavering in this life.
- 
-Yun Che forcefully dispelled the chaotic thoughts tangling in his mind and said with focused attention, "This battle is destined not to last very long. Next..."
- 
-"It should be my turn." He was not worried that Shenwu Yi would deal a heavy hand against Hua Caili. After all, the Lightless Divine Regent's malice had always been directed only at men.
- 
-"You?"
- 
-Li Suo was puzzled. "Although your name has already spread through the Abyss, you are ultimately not the Dreamweaver Divine Son. On what grounds will you participate in this Battle of the Divine Sons?"
- 
-"Furthermore, why would you want to... fight her?"
- 
-"You're overthinking it; of course, it is not to fight *her*."
- 
-From the corner of his eye, Yun Che's gaze silently brushed past the Abyssal Monarch's location for an instant.
- 
-"I once experienced true loneliness. That feeling of having people by your side, yet your heart remaining utterly empty—it is extremely terrifying. And the Abyssal Monarch... the loneliness he endures is likely who knows how many times heavier than mine was back then."
- 
-"It is like walking alone in an endless dark night, year after year, until a million years have passed... If a brilliant light that tears through the loneliness were to suddenly appear in this endless dark night, it would be absolutely impossible for him to ignore it or remain silent."
- 
-Li Suo seemed to fall into thought.
- 
-"Shenwu Yi of the Eternal Night Kingdom of God, cultivation at the Divine Extinction Realm Level Six. Hua Caili of the Heaven Breaker Kingdom of God, cultivation at the Divine Extinction Realm Level Two. For this battle, Shenwu Yi must be granted the Profound Desolation Seal to balance her profound energy realm to be equivalent to Hua Caili's."
- 
-Within the Chief High Priest's palm, that bronze-colored profound light shone once again. Following that, this streak of profound light shot forth, passing through the barrier and landing upon Shenwu Yi's body.
- 
-At the instant of contact, the profound light suffered a momentary, inexplicable stagnation, causing the Chief High Priest's brows to furrow slightly. But this sort of stagnation lasted only for an imperceptible instant before blooming upon Shenwu Yi's body, transforming into a small sealing profound formation, then quietly vanishing. Immediately, Shenwu Yi's profound energy aura weakened with extreme speed; in just three short breaths, it had plummeted straight to the Divine Extinction Realm Level Two, achieving a near-perfect balance with the profound energy Hua Caili was releasing externally.
- 
-"Begin!"
- 
-With a clear and soaring sword cry, Glazed Cloud was unsheathed. Sword brilliance resembling flowing fireflies poured out, reflecting upon Hua Caili's body. It was also in this instant that the young girl's temperament changed abruptly.
- 
-The faint trace of childishness at the bottom of her eyes quietly retracted, and her spirit-clear, moon-like eyes condensed into cold stars that one almost dared not look at directly. Her posture remained slender and soft, yet she was wreathed in a stern sword intent that warned all living things not to approach. Her snow-white cloud robes danced without wind, and the **Seven Stars Sword Crest** and **Divine Star Crest** on her skirt flowed along with the sword intent, bursting forth with fine, fragmented magnificent light. At this moment, a wave of inexplicable trance washed over everyone's eyes... The Heaven Breaker Divine Daughter, who in their memories was peerlessly beautiful like a star from the heavens but had never fully grown up, actually faintly possessed the Sword Immortal bearing of Hua Qingying.
- 
-"..." The light in the Abyssal Monarch's eyes underwent a slight shift for a single instant.
- 
-Shenwu Yi raised her hand, the Heartless Sword pointing diagonally at the ground beneath her feet. But she did not release an offensive stance, nor did she condense the Glazed Glass Ice; clearly, she wanted Hua Caili to attack first.
- 
-The sword intent in Hua Caili's eyes had already condensed into even more soul-piercing cold stars. The fingers gripping her sword were long, slender, and fair; the qi glow winding around her fingers and the sword glow of the Glazed Cloud Sword had already merged without gaps, spreading out into an invisible field of cold, transcendent energy around her.
- 
-Seven pale sword lights circled silently around her body... More than half the people present had not even noticed when these seven sword lights had condensed.
- 
-Hua Caili slightly raised her eyes. Wherever her gaze fell, it was as if the very air was severed by the sword's momentum, rippling with fine undulations. Without seeing any movement or change in her aura, one sword light suddenly shot out, carrying a slender white trail as it stabbed directly at Shenwu Yi.
- 
-Shenwu Yi did not move a muscle. The sword light passed through her body... yet in the instant it passed through, it suddenly stagnated. The afterimage dissipated, and Shenwu Yi's true body was already on Hua Caili's left side... close enough to touch. A spatial shift of the Exquisite Profound Realm!
- 
-But, in the very instant Shenwu Yi's true body appeared, a sword light abruptly reflected in her pupils, barely half a foot away from the center of her brows. Clearly, it was an unpredictable spatial shift completed in an instant, one that should have made it impossible for the opponent to re-lock onto her with spiritual perception in the first moment. Yet this sword light seemed to have been lying in wait, stabbing straight toward her almost at the same time she revealed herself.
- 
-At such a close distance, with the sword light arriving so abruptly, it was Shenwu Yi who was caught off guard. Unable to evade, she could only execute a second spatial shift.
- 
-*Chi!!*
- 
-The sword light stabbed empty air, leaving behind a pale sword scar that did not disperse for a long time. Shenwu Yi's true body appeared in the sky above and to the right of Hua Caili... Similarly, the instant she appeared, two sword lights arrived head-on from the left and right.
- 
-Shenwu Yi's sword momentum had not yet risen; she barely managed to twist her body, letting the two sword lights graze past her. But immediately, two more sword lights followed closely... The sword lights that had grazed past her from behind also suddenly turned, two in front and two behind, sealing off all her routes of retreat.
- 
-*Chi——*
- 
-Shenwu Yi's afterimage shattered. The four sword lights all struck empty air, leaving only the screeching sound of tearing space. A thousand *zhang*(~3.33 kilometers) away, Shenwu Yi's true body emerged. She glanced sideways at her right arm.
- 
-A severed tear, several inches long, had appeared on the black clothing of her right shoulder, revealing jade skin that surpassed snow, as well as a bleeding sword wound.
- 
-A brief silence, followed by an uproar.
- 
-No one had expected that in the first exchange of blows between the two women, it would be Shenwu Yi who suffered injury. Even Dian Jiuzhi, up until his defeat, had failed to inflict even an external wound upon Shenwu Yi.
- 
-"Could that be... the legendary Heaven Breaker Sword Intent??"
- 
-Meng Jianxi said with no small amount of surprise, "I heard that three years ago, when the Heaven Breaker Divine Daughter finished her training, she not only completed a breakthrough in her realm but also comprehended the Heaven Breaker Sword Intent. But Uncle firmly believed that to be a false rumor, because not even Senior Sword Immortal was able to comprehend the Heaven Breaker Sword at that age."
- 
-"I never thought... that not only is it true, but it appears... she wields it so naturally and skillfully. It does not look like she has just glimpsed the doorway at all."
- 
-"..." Yun Che watched the barrier, not uttering a word.
- 
-Meng Kongchan said faintly, "The world only knows that the Heaven Breaker Sword Intent of the Heaven Breaker Kingdom of God can make an opponent's profound energy as brittle as thin paper, easily broken. But few know that the most powerful aspect of the Heaven Breaker Sword Intent is that the sword lights it condenses possess their own spiritual consciousness."
- 
-As someone who had fought Hua Fuchen many times, Meng Kongchan naturally counted as one of the people in the world who understood the Heaven Breaker Sword Intent best. "Ordinary profound practitioners perceive enemies with spiritual perception, but the Sword of Heaven Breaker—its sword consciousness pursues the heart and locks onto the soul... This situation was within expectations."
- 
-Around Hua Caili, the seven sword lights had all returned. She had not moved an inch under her feet, yet the hearts of every profound practitioner present trembled. As people of the Six Kingdoms of God, no one could forget the shocking evaluation the cold and strict Chief High Priest had once given Hua Qingying... the number one person in history regarding sword dao talent across the Six Kingdoms of God, and the only person in the current era with the potential to achieve the True God realm through her own self, without inheritance. Even such a peerless Sword Immortal took seventy-seven years to comprehend the first wisp of Heaven Breaker Sword Intent.
- 
-And Hua Caili...
- 
-*Ding!*
- 
-A soft chime rang out, carrying a bone-chilling coldness that instantly dispelled the stray thoughts in everyone's hearts. On Shenwu Yi's hand, the Heartless Sword had already condensed a faint icy glow. Around her, that layer of Glazed Barrier, bizarre and nearing the demonic, also appeared. Even when facing Dian Jiuzhi, she had not condensed the Glazed Glass Ice this early.
- 
-The tide of noise completely extinguished. Everyone held their breath and focused their minds, waiting to witness whether the Heaven Breaker Divine Daughter's Heaven Breaker Sword Intent, at the same cultivation realm, could sever the Glazed Barrier that Dian Jiuzhi could not forcibly break even when surpassing her by two realms.
- 
-But Hua Caili spoke softly at this moment, "I am not your match."
- 
-She seemed to be speaking words of surrender, but her voice was as cold and clear as a spring, without a trace of shame or weakness. On the contrary, her demeanor and field of aura suddenly surged with an intense resolve... one that bordered on finality.
- 
-"My chance of victory... lies in only one sword!"
- 
-"If you take this sword, I will concede."
- 
-*Zheng... Zheng!!*
- 
-The Glazed Cloud Sword suddenly began to tremble lightly, bringing forth bursts of slightly frenzied sword hums. Hua Fuchen's gaze solidified; he wanted to witness with his own eyes the great surprise Hua Caili had prepared for him... the Heaven Breaker Third Sword she had comprehended within the Seven Stars Heaven Breaker Formation. What kind of magnificent sword brilliance could it release in her hands?
- 
-Shenwu Yi remained expressionless and did not attack immediately.
- 
-*Zheng!!!*
- 
-The Glazed Cloud Sword trembled violently, emitting a heavy cry sufficient to pierce metal and crack stone. Hua Caili's snowy face tensed, and the sword light in her eyes grew strong and prosperous like exploding stars, dyed with a resolve that seemed to sever all existence. The profound energy and sword qi around her body also began to roil and oscillate. Her snow-white cloud robes fluttered wildly, and the **Seven Stars Sword Crest** and **Divine Star Crest** on her skirt all lit up with strange radiance, flickering in and out of existence—magnificent, yet seeming to carry a few distinct strands of unease.
- 
-"...?!?"
- 
-Shenwu Yi's brows furrowed abruptly. She suddenly felt as if a sword was pressed against her heart and soul, carrying an indescribable, almost absurd sensation of soul-binding. It made her feel inexplicably, yet incomparably clearly, that under this sword, her heart was pursued and her soul locked onto; there was nowhere to flee. And the sword light of this sword was becoming more blazing with each passing breath, the sword might skyrocketing madly with every instant, gradually growing so strong that a deepening chill began to manifest within her heart and soul.
- 
-She raised her sword horizontally, and layer upon layer of Glazed Glass Ice rapidly condensed upon the body of the Heartless Sword.
- 
-"...?" Hua Qingying's brows furrowed in confusion, followed by a sudden, drastic change in expression.
- 
-"Caili, stop!!"
- 
-This sudden cry of alarm caused everyone to turn their eyes instantly, shockingly discovering that it was the Sword Immortal, Hua Qingying.
- 
-A streak of azure light rushed over; Hua Qingying had already shifted her body to the front of the battlefield's barrier. Her voice carried an urgency unfamiliar to everyone: "Caili, you must not be willful. Stop immediately! Caili!!"
- 
-Everyone stared with widened eyes. Those who knew the name of the Sword Immortal also knew that Hua Caili was her only reverse scale; the only thing that could make her, who had been as cold and aloof as a distant immortal her entire life, lose her composure like this was Hua Caili's safety.
- 
-Hua Fuchen had also realized something. He likewise disregarded where he was and instant-shifted to Hua Qingying's side, his pupils constricting violently along with the intensifying of Hua Caili's sword light.
- 
-That was not the momentum of the Heaven Breaker Third Sword. It was clearly... the Heaven Breaker Fourth Sword!
- 
-If they were outside the battlefield, knowing that Hua Caili had actually gained a glimpse into the Heaven Breaker Fourth Sword would have made him overjoyed to the extreme. But at this moment, sensing the trembling of Hua Caili's sword aura and the abnormally violent nature of her sword intent, only terror was born from his shock. She had not yet mastered the Heaven Breaker Fourth Sword; otherwise, she would have excitedly told Hua Qingying long ago. Furthermore, the sword might of the Heaven Breaker Fourth Sword required an immense expenditure of profound energy. With her cultivation of only Divine Extinction Realm Level Two, even a single sword strike was extremely forced. To forcibly unleash it, the result would likely be injuring the enemy by ten, but damaging herself by twelve!!
- 
-To her aunt's shouting, Hua Caili gave no reaction... It was not that she turned a deaf ear, but that currently her heart, will, and soul were all condensed into the sword intent; she had no attention spare whatsoever.
- 
-The Chief High Priest raised his head. A tyrannical, peerless barrier instantly appeared before Hua Qingying and Hua Fuchen, and that warning voice which allowed no violation resounded through Eden's Crown, "Stand down! No one is permitted to interfere with the battlefield!"
- 
-The white light blooming from the Glazed Cloud Sword grew increasingly blazing, gradually stirring up flakes of fragmented, crystalline white light, which then converged into a sky full of light-stars resembling fireflies. Driven by the violent sword aura, the light-stars slowly and arduously condensed... gradually transforming into a pale white sword beam, seven feet in length, upon the Glazed Cloud Sword.
- 
-At the instant the sword beam formed, the surrounding space twisted violently, followed by the rapid surfacing of fine, dense cracks.
- 
-This scene caused the crowd of profound practitioners to suck in a breath of cold air. How tough and durable was the space at Eden's Crown? Yet Hua Caili, with profound energy at the Divine Extinction Realm Level Two, had caused clearly visible spatial tears. One could imagine that the might of this sword had completely and utterly transcended the boundaries of the realm she was in.
- 
-But the shocked states of Hua Fuchen and Hua Qingying made the current situation clear to even those with the shallowest knowledge... Although this sword of Hua Caili's was extremely terrifying, the moment she swung it, it would inevitably be accompanied by a massive price. Their hearts shook, and they were astonished and puzzled... In the Pure Land Conferences of the past, the Heaven Breaker Divine Daughter had always disliked fighting most of all.
- 
-Today was her first meeting with Shenwu Yi; there was no possibility of any grudge between them. The Battle of the Divine Sons ultimately only concerned a bit of the Kingdom of God's face and the Abyssal Monarch's promise; it did not involve any core interests of the Kingdoms of God or the Divine Bearers at all. Why... did she have to be so persistent and resolved!?
- 
-Dian Jiuzhi's demeanor presented a panic that was difficult to conceal. He broke free from Dian Sansi's support, his lips opening and closing, several times on the verge of shouting out of control.
- 
-"..." Yun Che's face was calm and placid, but his chest heaved with slightly evident urgency.
- 
-On Shenwu Yi's sword, Glazed Glass Ice was also condensing rapidly. By the time the Heartless Sword pointed forward, the slender sword body was already dotted with dozens of small, exquisite ice lotuses... releasing a terrifying icy breath that seemed to want to freeze even the vision cast upon it.
- 
-Amidst the dazzling and chaotic sword lights, Hua Caili's beautiful eyes finally opened slowly. Within her eyes was a young girl's pure, flawless, translucent magnificence, yet they also carried a pure resolve that others could not understand. Countless sword lights and sword stars intertwined, beautiful to the point of suffocation, yet carrying a stern chill that could destroy heaven and earth.
- 
-The Glazed Cloud Sword, carrying the sword beam, stabbed out. In that instant, heaven and earth lost their sound.
- 
-Hua Qingying sighed in anguish... She knew deeply that the instant the sword might erupted, Hua Caili would inevitably suffer heavy injuries. But this was Eden's Crown. She was destined to be unable to stop it; she could only wait for the moment the victory and defeat were concluded to rush and protect her at the first opportunity.
- 
-Shenwu Yi's sword stabbed out at the same instant. Following the straight and flat trajectory of the sword body, blossom after blossom of ice lotuses bloomed with endless, brilliant, and tragically beautiful ice radiance.
- 
-The world became completely quiet. Everyone forgot to breathe. The flow of time also seemed to become slow. In pairs of pupils dilated to their limits, the figures of the two women were clearly reflected, along with the sword beam and ice radiance drawing closer and closer... until, at a certain moment, they finally collided and overlapped.
- 
-Yet the world remained a patch of dead silence. There was no explosion of ice crystals, no sword beam severing the sky, not even a single shred of sound from profound energy breaking through the air.
- 
-Between Hua Caili and Shenwu Yi, a white figure had appeared.
- 
-He stretched out both hands, a single finger of his left hand touching the Glazed Cloud Sword, a single finger of his right hand tapping upon the Heartless Sword... The sword beam and the ice radiance, and even all the profound energy they were releasing externally, vanished completely.
- 
-It was as if they had been instantly erased from the world by an invisible hand, leaving not a single trace of their obliteration.
+“It is a little strange. Why is she entering the battlefield of her own accord? She is destined to lose, and Meng Jianxi has already surrendered. I cannot imagine that there is any meaning to her response,” Li Suo expressed her doubts.
+
+Yun Che tilted the corners of his lips before avoiding the question, “Caili’s Heaven Breaker Sword Intent counters... or should I say, is not afraid of the Exquisite Profound Worlds to a certain extent. However, the Glazed Glass Ice makes it so that she has no chance of winning.”
+
+Looking at the two women facing each other inside the barrier, Yun Che felt a myriad of complicated emotions. One of them wore black, and the other white. One of them was cold and lofty like an icy fairy of the cold moon, and the other as pure and beautiful as a night-blooming flower in an ancient painting.
+
+In the eyes of others, obtaining even one of them was probably the greatest fortune a man could receive; a delusion that countless beings didn’t even dare to entertain in their dreams. However, no one—not even Shenwu Yi or Hua Caili themselves—knew that one of them was his wife, and the other his lover who had devoted her body and heart to him for eternity.
+
+Yun Che forcefully pushed aside the tangled mess in his head and focused on the present. “This battle will not last long. When it is over...”
+
+“It will be my turn to enter the battlefield.”
+
+He wasn’t worried that Shenwu Yi would go to excessive lengths to harm Hua Caili. After all, the Lightless Divine Regent’s malice was aimed at men only[1].
+
+Li Suo looked confused. “Although your name is known throughout the Abyss, you are ultimately not the Dreamweaver Divine Son. How are you planning to participate?”
+
+“And... Why would you want to fight against her?”
+
+“You are overthinking this. I’m not planning to fight her.”
+
+Out of the corner of his eye, Yun Che glanced at the Abyssal Monarch one time before looking away.
+
+“I’ve experienced true loneliness before; that horrible feeling where there is absolutely nothing inside your heart, even though you are in the presence of others. And the Abyssal Monarch... his loneliness is probably countless times greater than what I experienced back then.”
+
+“Imagine a ghost walking alone in the endless dark year after year, a million years straight... If a beam of light suddenly pierces through the darkness and loneliness and appears before him, there is no way he can ignore it or keep quiet, no?”
+
+Li Suo looked thoughtful.
+
+“Shenwu Yi of the Eternal Night Kingdom of God is at the sixth level of the Divine Extinction Realm. Hua Caili of the Heaven Breaker Kingdom of God is at the second level of the Divine Extinction Realm. For this reason, Shenwu Yi must receive the Profound Rage Seal and equalize her cultivation level and profound energy to the level of Hua Caili.”
+
+The antique bronze-colored profound light from before appeared on the Chief Priest’s palm once more. It flew past the barrier and landed on Shenwu Yi.
+
+The profound light stalled for an inexplicable instant the moment it made contact with Shenwu Yi. This caused the Chief Priest to furrow his brow a little. However, the moment passed so quickly that no one but the Chief Priest noticed it. The profound light bloomed into a small sealing profound formation. A beat later, it vanished without a trace.
+
+Shenwu Yi’s profound energy and aura began to weaken rapidly. Just three breaths later, they had declined all the way to the second level of the Divine Extinction Realm. They were almost perfectly balanced with the profound energy surrounding Hua Caili.
+
+The Glass Cloud Sword rang crisply as it left its sheath, and a torrent of sword radiance resembling fireflies poured out and illuminated Hua Caili.
+
+The next moment, the girl's air changed dramatically. The faint childishness residing at the bottom of her eyes quietly faded away, and a pair of cold stars gathered at the center of her pure, moonlike eyes. They were so sharp that one almost could not bear to look at them directly. Her appearance was as delicate as ever, but now it was entangled by a sharp sword intent that kept anything and everything at bay. Her snow white outfit fluttered in a breeze even though it was windless inside the barrier, and the patterns on her skirt—both the sword patterns of the Seven Stars, and the divine patterns of celestial bodies—emitted fine powders of radiance.
+
+For a brief moment, everyone was dazed by the transformation... The Heaven Breaker Divine Daughter had always been beautiful like a star from the Beyond, but just the same, it felt like she would never mature. Now, her appearance—if ever so slightly—reminded them of the Sword Fairy, Hua Qingying.
+
+“...” The light in the Abyssal Monarch’s eyes flickered just a bit.
+
+Shenwu Yi raised her sword and kept the Heartless Sword pointed diagonally at her feet. However, she did not make a move, much less summon the Glazed Glass Ice. Clearly, she was planning to give Hua Caili the first move.
+
+The sword intent in Hua Caili’s eyes condensed into even sharper, colder stars. The fingers wrapped around the handle of the sword looked fair, slender, and long. When the energy around her fingers merged seamlessly with the light of the Glass Cloud Sword, a pure, formless, and ethereal force field unfolded around her.
+
+Seven pale sword beams circled soundlessly around her person... The large majority of the spectators did not even notice when the sword beams had appeared. When Hua Caili lifted her eyes slightly, delicate ripples suddenly appeared in the air, almost as if her gaze was cutting a path toward Shenwu Yi.
+
+She did not make a move, nor did her aura change in any way. However, a thin, white sword beam was already flying toward Shenwu Yi before most people noticed.
+
+Shenwu Yi did not move. The sword beam passed right through her... and stopped suddenly right as it was passing through her. The afterimage disappeared, and the real Shenwu Yi appeared to Hua Caili’s left. She was so close that Hua Caili could literally touch her with her hand.
+
+Her anomalous appearance was, of course, the work of the Exquisite Profound World. However, the instant Shenwu Yi appeared, another sword beam shone into her eyes. It was just a sixth of a meter away from her brow.
+
+Her appearance was unpredictable and instantaneous. Hua Caili shouldn’t have had the time to lock onto her with her spiritual sense after the spatial curve. And yet, the sword beam had taken flight almost immediately after she appeared beside the young woman. It was virtually as if the sword beam had been waiting for her.
+
+The attack was sudden, and there was almost no distance between them. Shenwu Yi was the one who was caught off guard. Unable to dodge it normally, Shenwu Yi had no choice but to perform a second spatial curve.
+
+The sword beam pierced empty air and left behind a pale scar that refused to fade even after a long, long time later. This time, the real Shenwu Yi appeared above Hua Caili to her right... But as if on cue, a pair of sword beams pincered her from two sides.
+
+Shenwu Yi had no time to raise her own sword. She just barely twisted out of the way of the two sword beams with inches to spare. However, another pair of sword beams followed right behind the attack, and the two sword beams she just dodged abruptly did a U-turn and flew toward her once more. Now, she was facing a pair of sword beams, both from the front and the back.
+
+Shenwu Yi’s afterimage was cut into pieces as the four sword beams shot through the air with ear-piercing shrieks. Alas, they had missed their mark.
+
+Three kilometers away, Shenwu Yi reappeared and looked down at her right arm out of the corner of her eye. A shallow cut several inches long had split the fabric covering her right shoulder, exposing the skin that was fairer than snow beneath. At the same time, a bit of blood was seeping out of the small wound.
+
+There was a short silence. Then, the crowd erupted into a cacophony of noise.
+
+No one thought that the first exchange between the two women would result in Shenwu Yi’s injury. After all, not even Dian Jiuzhi was able to inflict any external injury to the woman until the moment he lost.
+
+“Is that the fabled Heaven Breaker Sword Intent??”
+
+Meng Jianxi could not help but exclaim in surprise, “I heard that the Heaven Breaker Divine Daughter both completed her breakthrough and grasped the Heaven Breaker Sword Intent at the end of her journey three years ago. However, Uncle was sure it was just a false rumor because not even Senior Sword Fairy was able to grasp the Heaven Breaker Sword Intent at the same age.”
+
+“To think... that the outlandish rumor is true, and from the looks of it... she is already very familiar with it. She doesn’t look like a beginner at all.”
+
+Yun Che stared straight ahead without a word.
+
+Meng Kongchan said in an indifferent voice, “Most people in the Abyss know that the Heaven Breaker Sword Intent of the Heaven Breaker Kingdom of God could turn an opponent’s profound energy as fragile and breakable as paper, but few know that its greatest strength lies in the fact that the sword beam it creates automatically gains its own spiritual perception.”
+
+As someone who had fought Hua Fuchen many times in the past, Meng Kongchan was among the few who had the deepest understanding of the Heaven Breaker Sword Intent. “An ordinary profound practitioner perceives their enemy using their spiritual perception, but a Heaven Breaker profound practitioner produces swords that will automatically lock onto their opponent... Therefore, this outcome is unsurprising.”
+
+Meanwhile, the seven sword beams had returned to Hua Caili’s side. Throughout the exchange, the young woman’s feet had not moved a single inch. This scene stunned most of the spectators as a matter of course. As members of the Six Kingdoms of God, they still remembered the stunning evaluation the cold and strict Chief Priest had afforded Hua Qingying to this day. He had called her the most talented person in the way of the sword in the history of the Six Kingdoms of God, and perhaps the only one in the current Abyss who could become a True God without an inheritance.
+
+Hua Qingying was a one-of-a-kind Sword Fairy, and yet even she took seventy-seven years to grasp the first wisp of Heaven Breaker Sword Intent.
+
+On the other hand, Hua Caili...
+
+Ding! There was a soft ring, and a burst of piercing cold chased away all of the distractions. When the crowd looked, they saw that Shenwu Yi had encased the Heartless Sword in a thin layer of icy light. The anomalous, practically demonic[2] glazed glass barrier had appeared around her person as well.
+
+Shenwu Yi had not summoned the Glazed Glass Ice this early when Dian Jiuzhi was her opponent.
+
+At this point, the noises died completely. Everyone was holding their breath and waiting to see if the Heaven Breaker Divine Daughter’s Heaven Breaker Sword Intent could cut through the glazed glass barrier that even Dian Jiuzhi, with his two-level advantage, was unable to break until the last moment.
+
+To everyone’s surprise, Hua Caili declared, “I am no match for you.”
+
+Her words sounded like surrender, but her voice was bitingly cold like spring water. There was none of the self-abasement or weakness one might expect from a declaration of surrender either. On the contrary, unyielding determination suddenly flooded into her demeanor and bearing... so much so that it almost felt ruthless.
+
+“My only chance in victory... lies with this sword!”
+
+“If you manage to withstand it, then I will surrender.”
+
+Shiing... shiing!!
+
+The Glass Cloud Sword suddenly started shaking slightly and ringing, as if it were holding back something. Hua Fuchen’s eyes grew focused. He wanted to witness the “massive pleasant surprise” Hua Caili had prepared for him with his own eyes... to know just how brilliant the Heaven Breaker Third Sword she had picked up from the Seven Star Heaven Breaker Formation could shine.
+
+Shenwu Yi was expressionless. She did not act immediately either.
+
+The Glass Cloud Sword suddenly vibrated much more violently than before and emitted a terrible ringing that could pierce even metal and stone. Hua Caili’s snow white face was scrunched up with concentration, and the sword light in her eyes shone so bright they resembled supernovas. Above all, it was dyed with a kind of ruthless determination that would sever it all.
+
+The profound energy and sword energy around her person began shaking. Her snow white clothes began fluttering in the air. The seven-star sword patterns and starry divine patterns on her skirt were all shining brightly as well. The way they flickered erratically looked both gorgeous and unsettling.
+
+A deep frown suddenly appeared on Shenwu Yi’s face. It was because she suddenly felt as if a sword was pressed against her heart and soul. It was a soul-restricting sensation that no words could describe and seemed almost ludicrous, except that she could clearly feel that this sword had locked onto her very heart and soul. There would be no escape, no matter what she did.
+
+For every passing breath, the sword’s light was growing brighter. For every passing instant, its power was swelling at an unbelievable rate. It eventually got to the point where her heart and soul were growing colder with every passing second. In response, she crossed her sword in front of herself and stacked up multiple layers of Glazed Glass Ice.
+
+“...?” Hua Qingying frowned in confusion at first. Then, the blood suddenly drained from her face.
+
+“Caili stop !!” The sudden cry made everyone look to the side. To their shock, it had come from the Sword Fairy Hua Qingying.
+
+A cyan figure dashed forward, and Hua Qingying was standing right in front of the barrier. They had never heard her sound so urgent before. “Do not be reckless, Caili! Stop now! Caili!! ”
+
+At this point, everyone was wide-eyed with shock. Anyone who heard of the Sword Fairy automatically knew that Hua Caili was her one and only reverse scale, and the only thing that could cause her to lose her cool like this was a threat to her life.
+
+Hua Fuchen must have sensed something as well, for he too appeared beside Hua Qingying in an instant without any regard for time and place. His pupils were contracting at the same rate as Hua Caili’s sword beam was strengthening.
+
+He initially thought that Hua Caili was preparing the Heaven Breaker Third Sword, but he was wrong. It was the fourth! If she had shown this to him outside a battlefield, then he would be beyond delighted that Hua Caili had glimpsed the path to the Heaven Breaker Fourth Sword. But right here and now, sensing her shaky sword aura and unnaturally violent sword intent, all he felt was indescribable shock and terror.
+
+She obviously hadn’t mastered the Heaven Breaker Fourth Sword, or she would have informed Hua Qingying about it in excitement. Not only that, but the skill burns a tremendous amount of profound energy. Considering that she was only at the second level of the Divine Extinction Realm, she would barely be able to unleash one strike, if at all. If she ignored the consequences and pushed herself to the limit, her opponent would suffer a terrible blow, but she would hurt herself worse!!
+
+Hua Caili did not respond to her aunt’s cries at all, but not because she chose to ignore her warning. It was because her heart, will, and soul were focused entirely on creating the sword intent, and she could not spare any of it for her surroundings.
+
+The Chief Priest lifted his head and summoned an impossibly powerful barrier that blocked Hua Qingying and Hua Fuchen’s path. At the same time, a warning that would not accept defiance as an answer boomed, “Withdraw! No one is to interfere with the battle!”
+
+As the white light of the Glass Cloud Sword kept growing stronger, bits and pieces of white light gradually took form. They slowly and painstakingly fought through the rampaging sword aura and gathered around the sword like fireflies.
+
+Slowly, a pale white sword projection about twenty-three meters long took form. The instant it appeared, the surrounding space distorted violently, and fine cracks began spreading rapidly.
+
+This sight caused countless profound practitioners to gasp. The space of Eden’s Crown was unbelievably tough, and yet Hua Caili’s level two Divine Extinction Realm profound energy had clearly damaged it. It did not take a genius to know that the power of this sword completely exceeded what she should be able to dish out at her level.
+
+However, Hua Fuchen and Hua Qingying’s panicked states made it clear to even the most inexperienced and ignorant person in this room that Hua Caili’s sword, as terrifyingly powerful as it was, also came with an equally terrible cost.
+
+Everyone was stunned, shocked, and confused. Out of everyone present, the Heaven Breaker Divine Daughter was easily the most averse to combat of them all. This was her first meeting with Shenwu Yi, so there was no possibility that a grudge existed between the two of them. The battle of Divine Children, while important, only concerned the face of some Kingdoms of God and the promise of the Abyssal Monarch. It did not involve the Kingdoms of God or even the Godbearers’ core interests at all, so... why was she going so far!?
+
+Right now, Dian Jiuzhi could barely conceal his panic. He had struggled out of Dian Sansi’s arms and staggered forward. Eyes staring at Hua Caili, his mouth opened and closed unconsciously like a fish. More than once, he had nearly lost control and cried out to her.
+
+Yun Che’s face remained calm and unruffled, but his chest was clearly inflating and deflating a tad faster than before.
+
+Shenwu Yi’s sword was swiftly gathering Glazed Glass Ice as well. By the time she pointed the Ruthless Sword forward, dozens of small, delicate, and translucent ice lotuses were covering the thin, long blade... though the icy auras they gave off were anything but harmless, seemingly cold enough to freeze even gazes.
+
+Amidst the dazzling sword lights, Hua Caili finally and slowly opened her beautiful eyes. Shining out of her eyes was the pure and translucent radiance of a young girl and a kind of pure determination that no one could understand. The mixture and entanglement of countless sword lights and sword stars were suffocatingly gorgeous, and yet they were also bitingly destructive.
+
+Wreathed in the sword projection, Hua Caili thrust the Glass Cloud Sword forward. At that moment, all sound ceased to exist, and Hua Qingying let out a painful sigh.
+
+She knew very well that Hua Caili would suffer severe injuries the second the power was unleashed. However, this was Eden’s Crown, and there was nothing she could do to stop this from happening. She could only protect her when instant victory and defeat were decided.
+
+Shenwu Yi also thrust out her sword at the same time, her blade following a perfectly straight trajectory, and the ice lotuses blooming with dazzling yet bleak radiance. The world fell completely silent, and everyone forgot to breathe. Time seemed to flow slowly as countless pupils dilated to the max. The two women’s reflections were clearly imprinted in their eyes as the sword projection and the icy radiance moved closer and closer... and finally overlapped with each other at a certain point in time.
+
+The world was still deathly silent. There was no icy explosion, no spatial cut, not even the ear-piercing clash of profound energy. Instead, a white figure appeared between Hua Caili and Shenwu Yi. With his left finger, he touched the Glass Cloud Sword. With his right finger, he tapped the Heartless Sword.
+
+The sword projection, icy lotuses, and even the profound energies gushing out of the girls’ bodies vanished in an instant. It was as if an invisible hand had erased everything from existence, but left no traces behind.
+
+1. Fool. ☜
+
+2. To be honest I really wanted to use, “What sorcery is this?” during the previous chapters, and here I wanted to use “sorcerous”. However, ATG is one of those books where the natural-sound translation almost always comes back to bite you in the ass, which is why I try to stay as literally accurate as possible for some terms. Just a little insight to how I translate this novel. ☜

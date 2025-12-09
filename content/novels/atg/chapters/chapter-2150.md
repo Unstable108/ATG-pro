@@ -1,163 +1,177 @@
 ---
 chapterNumber: 2150
-title: ""
-publishedAt: "2025-11-25"
+title: "Punishment By Devouring Rage (1)"
+publishedAt: "2025-12-09"
 ---
 
-Yun Che's words left everyone dumbfounded, stunned into a long silence. To Meng Kongchan's ears, they were nothing short of earth-shattering. This was a response no one could have possibly anticipated.
+Everyone was dumbstruck for a very, very long time. Meng Kongchan especially felt like his world had just been shattered.
 
-Even the Divine Attendant Su Shang, who was as elegant as a cloud and always unruffled, and the Divine Attendant Yuan Ying, who was as carefree as the wind and let nothing bother him, showed clear astonishment. The color drained from Hua Caili's jade-like face at a speed visible to the naked eye. She seized Yun Che's hand and cried out in panic, "Brother Yun, what are you saying... No! No! Absolutely not! Whether it's punishment or pardon, I'll face it with you. Don't even think about casting me aside!"
+This was a response no one had anticipated. Be it the calm and refined Divine Attendant Su Shang or the casual and careless Divine Attendant Yuan Ying, both were wearing clear expressions of surprise.
 
-Her every jade-like finger was locked tightly with his, terrified that he would let her go again.
+The color on Hua Caili’s beautiful face began to fade visibly. She abruptly grabbed Yun Che’s hand and said panickedly, “What are you saying, Big Brother Yun? No way! No way! Absolutely not! Punishment or pardon, we’ll always be together! Don’t even think of throwing me away!”
 
-"Yuan'er, you... take back those words at once!"
+Every single one of her jade fingers were gripping his tightly. She was afraid that Yun Che would let her go a second time.
 
-Meng Kongchan roared in alarm, "You cannot speak such nonsense!"
+“Yuan’er, you... take back what you just said this instant!”
 
-He had never imagined that Yun Che would turn a blessing from the heavens into a double torture for himself... transforming a chance at life into an even deeper abyss of despair.
+Meng Kongchan roared hurriedly, “This is not the time and place for such nonsense!”
 
-At this moment, Meng Jianxi could no longer hold back. He took several steps forward and screamed with all his might, "Brother Yuan! While the Wilderness Devouring Punishment is not a death sentence, its horror far exceeds your imagination! The punishment penetrates the blood, the flesh, the tendons, the bones, the marrow, the very soul... Every last fiber of your body will suffer an agony millions of times more terrifying than ten thousand nightmares. There is no defense against it, only the wish for death!"
+He never imagined that Yun Che would turn what should have been a gift from the heavens into an absolute nightmare. For whatever reason, he had pushed himself into even more profound despair and danger.
 
-"According to the records of the Revolving Jade Hall, a total of one hundred and seventy-six people have undergone the Wilderness Devouring Punishment... yet only nine survived to its completion."
+Meng Jianxi was beyond caring as well. He took a couple of steps forward and roared at the top of his lungs, “Brother Yuan! Although the punishment of devouring rage is not a death sentence, it is far scarier than you know! It is a punishment that seeps into your blood, flesh, muscles, bones, marrow, and even your soul... every speck of your existence will suffer pain and torment ten thousand times worse than even ten thousand nightmares! It cannot be defended against, and you will desire the sweet release of death long before you reach the end of it!”
 
-"The rest were unable to bear it and took their own lives during the ordeal!"
+“The Xuanji Hall recorded one hundred and seventy six people who received the punishment of devouring rage... but only nine of them survived.”
 
-"And of the nine who endured the full punishment, six were in the late-stage Divine Extinction Realm, and three were in the Divine Sovereign Realm. This is simply not a torture you can withstand! A double Wilderness Devouring Punishment... is utterly impossible! Absolutely not!"
+“Everyone else committed suicide because they couldn’t stand the torture!”
 
-"Take back what you just said! You must take it back, no matter what! Do not, under any circumstances, try to be a hero!"
+“Of the nine people who survived the punishment, six are at the late-stage Divine Extinction Realm, and the remaining three are at the Divine Limit Realm. This is not the kind of punishment someone like you is meant to endure! Twice the amount... that is just impossible! You absolutely mustn’t!”
 
-"Even if it's for Father God, for the Dreamweaving Divine Kingdom!!"
+“This is the last place and time to put on a brave front, so take back your words right now! You must take it back, if only for Father and the Dreamweaver Kingdom of God’s sake!”
 
-By the end, every word of Meng Jianxi's roar was tragic and intense. In his three years in the Dreamweaving Divine Kingdom, he had never told Yun Che a single thing about the Wilderness Devouring Punishment. He figured Yun Che could only make such a decision because he was completely ignorant of its terror.
+Meng Jianxi’s shout sounded positively tragic by the time it passed the halfway point. He hadn’t told Yun Che anything about the punishment of devouring rage in the past three years. Therefore, he thought that Yun Che had made his decision out of ignorance.
 
-"Yun Che," Hua Qingying, who was always cold and taciturn in public, spoke faintly, causing many of her infatuated admirers to quietly turn their ears and eyes. "I know your feelings for Caili, but the horror of the Wilderness Devouring Punishment is beyond your comprehension. Listen to your Father God and retract your words. With two Divine Officers pleading for you, the Abyss Emperor and the Grand Divine Officer will not be overly harsh."
+“Yun Che.”
 
-Yun Che's gaze did not waver. It remained fixed on the Abyss Emperor. "My mind is made up. I implore the Abyss Emperor, for the sake of the two senior Divine Officers, to grant my request."
+Hua Qingying was a woman of few words, but this time, she broke her silence of her own accord. Countless admirers were sneaking glances at her and listening intently as she said, “I know how much you love Caili, but the punishment of devouring rage is not something you can understand until you’ve experienced it yourself. Listen to your Father and take back your words. With two High Priests pleading on your behalf, I am sure that His Majesty and the High Priest would not punish you too severely.”
 
-Despite being repeatedly told how terrifying the Wilderness Devouring Punishment was, his response still held not the slightest trace of apprehension or hesitation.
+Yun Che’s gaze did not waver, however. He continued to look the Abyssal Monarch in the eye and declared, “My mind is made up. I humbly request His Majesty to give face to the two High Priests and fulfill my wish.”
 
-"Yuan'er, you..."
+Despite being warned and informed repeatedly about the horror that was the punishment of devouring rage, forget changing his mind, the man hadn’t even hesitated to respond.
 
-"Brother Yuan!!!"
+“Yuan’er, you...”
 
-"..." Hua Qingying's eyes rippled, and for a moment, she was speechless.
+“Brother Yuan!!!”
 
-"Brother Yun, I won't allow it!" Hua Caili shook her head forcefully, her fingers, already intertwined with his, squeezing so hard they lost all color. In that short time, her initial panic had transformed into profound determination. "I told you, I will never let you endure this alone... Never."
+Ripples of emotions washed across Hua Qingying’s eyes. She could not say anything.
 
-The profound practitioners from other kingdoms wore ever-changing expressions. They could no longer make sense of the situation, much less this junior who had just returned to his divine kingdom. They didn't know whether to mock his ignorance of the Wilderness Devouring Punishment or to praise his fearlessness in taking it on alone.
+“I don’t want this, Big Brother Yun!”
 
-"Yun Che," Divine Attendant Su Shang spoke, offering a word of caution that was beyond her station. "I advise you against this. The horror of the Wilderness Devouring Punishment is not something an ordinary will can endure. If you do this... I will not be able to answer to my master."
+Hua Caili shook her head vigorously. She was grabbing Yun Che’s fingers so hard that her own fingers had become completely bloodless. All of her panic transformed into deep determination as she declared, “I told you already. I won’t let you bear this alone... never.”
 
-"I concur," Divine Attendant Yuan Ying immediately added. "This act is indeed incredibly bold, enough to surprise even a desireless person like myself, but I truly have no way of explaining this to my master either. You should plead for more mercy. The worst outcome would be both of you receiving half the punishment, and you might both emerge safely."
+The expressions of the profound practitioners of the other Kingdoms of God kept changing. At this point, they found themselves unable to understand what was going on, much less the junior who had just returned to his Kingdom of God, Yun Che. Should they laugh at him for his ignorance? Or should they compliment him for his fearlessness?
 
-Yun Che turned his gaze and gave them a grateful smile. "Please forgive this junior for being unable to bow due to my restraints. I must also trouble you both to convey my thanks to the two senior Divine Officers."
+“Yun Che.”
 
-Su Shang sighed softly, gave Yun Che a deep look, then bowed slightly to the Abyss Emperor and the Grand Divine Officer before departing into the distance. Yuan Ying let out a long breath and also rode the clouds away.
+She should not have spoken up, considering her standpoint, but Divine Attendant Su Shang said, “I would advise you to change your mind. The punishment of devouring rage is not something one can withstand with ordinary willpower. If you insist on acting like this... I won’t be able to face my master later.” 𝚏𝗿𝗲𝐞𝐰𝚎𝕓𝐧𝚘𝘃𝗲𝐥.𝐜𝚘𝕞
 
-However, as he left, his voice drifted back, seemingly a murmur, seemingly a sigh, "No wonder little Caili fell so hard for him. Whether this kid is a fool is another matter, but he really has guts¹."
+“I agree.”
 
-The Abyss Emperor suddenly spoke, his voice faint. "Tell me, why?"
+Divine Attendant Yuan Ying concurred, “Your decision is extraordinarily courageous, so much so that a desireless man like me feels amazement and curiosity, but I really won’t be able to face my master if you act like this. You should plead to receive only half the punishment, or a full pardon for both of you.”
 
-Even the Abyss Emperor, a man of few words, seemed to have grown curious about Yun Che's astonishing response.
+Yun Che turned around and gave them a grateful smile. “I am currently bound, so forgive me for not offering you the courtesy you deserve. Also, please convey my thanks to the two High Priests.”
 
-Yun Che's posture was unchanged, his every word clear, neither servile nor overbearing. "I have indeed committed a grave error. No amount of hidden reasons or helplessness can excuse it. I deserve this punishment, without regret or complaint."
+Su Shang let out a small sigh and gave Yun Che a long look. Then, she lightly bowed in the Abyssal Monarch and the Chief Priest’s direction before departing the scene. Yuan Ying also exhaled before leaving on his cloud.
 
-"Only by enduring this punishment in its entirety can I truly atone for this crime, be worthy of the Abyss Emperor's forgiveness, and satisfy the world... so that Dreamweaving will not be overly shamed because of me."
+On his way out, what sounded like a murmur to himself or an exclamation came from Yuan Ying. “No wonder lil Caili fell for him so hard. Dumb or not, this boy has guts in spades.”
 
-The people of Dreamweaving were all frozen in place. Even the few Masters of the Dream Halls who had always resented Yun Che for usurping Meng Jianxi's position found their eyes misting over in that instant.
+The Abyssal Monarch suddenly spoke up, “Tell this lone one. Why are you doing this?”
 
-"Yuan'er," Meng Kongchan shook his head gently. "Dreamweaving only owes you a debt... How could there be any shame? Your well-being is the greatest blessing for me, and for Dreamweaving."
+The Abyssal Monarch never wasted his breath, but right here and now, even he was curious about the reasoning behind the young man’s astonishing decision.
 
-Meng Jianxi choked up, only managing to speak with difficulty after a long moment. "Brother Yuan, you truly... don't have to do this..."
+His posture unchanging, Yun Che answered clearly and evenly, “I did commit a grave mistake. No matter what kind of circumstances and helplessness culminated in today’s karma, this is a fact that cannot be changed. Therefore, I neither regret nor resent the punishment I will soon receive.”
 
-The nine Masters of the Dream Halls exchanged glances, endless emotions tangling chaotically in their eyes and hearts.
+“Only by receiving this punishment in full can I truly make up for my crime. Only then can I deserve your mercy, appease the masses, and... reduce the amount of shame Dreamweaver receives because of me.”
 
-The Abyss Emperor spoke again. "In that case, you could have asked me to pardon Caili. Why insist on bearing a double punishment alone?"
+Everyone from Dreamweaver was speechless. Even the few Dream Lords who disliked Yun Che for stealing Meng Jianxi’s position before instantly grew teary-eyed when they heard this.
 
-Yun Che's gaze softened, and his voice grew gentle. "Caili is the most wonderful woman in the world. She erred because of me. Even if I had to endure ten times the Wilderness Devouring Punishment, I would never allow her to suffer the slightest pain, much less the world's censure... I only pray that this double punishment can also atone for Caili's crime."
+“Yuan’er,” Meng Kongchan shook his head lightly, “Dreamweaver has only ever owed you... There is nothing you can do that can bring shame to us. The biggest fortune I and Dreamweaver can possibly receive is your safety.”
 
-Hua Fuchen tilted his head back slightly, letting out a slow breath only after a long while.
+Meng Jianxi was holding back sobs. It took him a while before he was finally able to force out the words, “Brother Yuan, you... you really don’t need to do this...”
 
-Hua Caili was still shaking her head. By now, her expression had become unnaturally calm, her gaze growing ever more resolute. "Brother Yun, we have walked the edge of life and death side by side. How could I let you face this alone... Be it the Wilderness Devouring Punishment or anything else, as long as you are here, I will fear nothing."
+All nine Dream Lords were exchanging glances with each other. An endless sea of emotions mixed chaotically inside their eyes and their hearts.
 
-But the Abyss Emperor's response mercilessly shattered her resolve.
+The Abyssal Monarch spoke again, “In that case, you could have asked this lone one to pardon Hua Caili. Why did you choose to bear twice the punishment of devouring rage?”
 
-"Good."
+Yun Che’s eyes grew gentle, and his voice turned soft. “Caili is the most beautiful woman in the world. She erred only because of me. The punishment could be ten times worse, and still I won’t allow her to suffer even the tiniest bit of pain, much less be criticized by the world... That is why I request to receive twice the punishment. Only then can her crime be properly absolved.”
 
-The Abyss Emperor averted his gaze. His words were devoid of emotion, containing only the indifferent weight of an imperial command. "Since this is to repay the favor to Ling Xian and Liu Xiao, I shall grant your wish."
+Hua Fuchen lifted his head slightly. It took him a while before he slowly let out a long breath.
 
-Hua Caili's expression instantly turned to horror. "Uncle Abyss Emperor², no..."
+Hua Caili continued to shake her head. At this point, her face looked unusually calm, and the light residing in her pupils looked firmer than ever. “Big brother Yun, we have walked even the fine line of death side by side. How can I possibly allow you to endure this alone? It doesn’t matter what punishment it is. I fear nothing with you by my side.”
 
-The Grand Divine Officer had already received the order. Without any visible movement, a strange light flashed in his eyes. In an instant, the profound light binding Hua Caili shattered, and an irresistible force violently repelled her body. Yet, unexpectedly, it failed to push her far... her fingers remained deathly gripped around Yun Che's, producing a heart-rending sound of breaking bones.
+However, the Abyssal Monarch’s response cruelly snuffed out her wish.
 
-"Uncle Abyss Emperor," she pleaded, her face streaked with tears. "You always doted on me the most... I beg you, let me accompany him... Uncle Abyss Emperor!"
+“Very well.”
 
-Crack! Crack! All five of her jade-like fingers were twisted out of shape, the sound of breaking bones continuing, yet she stubbornly refused to let go.
+The Abyssal Monarch looked away and issued his order in an emotionless voice, “Since you are making this request using Ling Xian and Liu Xiao’s favor, this lone one has no reason to turn it down.”
 
-The Grand Divine Officer's voice deepened. "If you do not withdraw, your crime will be compounded!"
+Hua Caili’s expression instantly turned into one of shock and horror. “Uncle Abyssal Monarch, no—”
 
-Hua Qingying's figure flickered, and she appeared beside Hua Caili. Her snow-white hand, like cold jade, reached out and gently clasped their intertwined fingers.
+The Chief Priest was already carrying out His order. He did not move. Only his eyes flashed with an odd light. The next second, the profound light binding Hua Caili crumbled, and a terrible, irresistible force pushed her away... or at least tried to. It was because she was clinging onto Yun Che’s hand with all her might, even though there was the clear, heartbreaking sound of breaking bones.
 
-"Caili," her voice was a gentle tone completely unfamiliar to others, one she only ever used with Hua Caili. "The imperial command has been given and cannot be changed. Do not... go against his wishes."
+“Uncle Abyssal Monarch,” she begged with tears streaming down her cheeks. “You’ve always spoiled me... so please, I ask that you let me endure this punishment with him... Uncle Abyssal Monarch!”
 
-"..." Hua Caili's expression froze. Her pale, jade-like fingers finally lost all strength and were gently separated from Yun Che's by Hua Qingying. A cyan shadow flashed, and the limp body of Hua Caili was brought to Hua Fuchen's side. A gentle profound energy covered her fingers, mending her injuries.
+Crack! Crack! All five of her dainty fingers were warped at this point. Even now, her finger bones were breaking one by one. Still, she refused to let go.
 
-Over with the Owl Butterfly Divine Kingdom, Pan Buzhuo sneered under his breath, "Tch! Such pretty words! He has no idea how terrifying the Wilderness Devouring Punishment is. He sounds so noble now, but in a moment, his screams will be just as pathetic. He'll be wailing and crying for mercy... Just thinking about it is pathetic."
+The Chief Priest issued a heavy warning, “Leave now, or your resistance will be treated as an aggravating circumstance!”
 
-He had no personal grudge against Yun Che. But... Yun Che's profound talent was world-shocking, he had won the affection of the Heaven-Folding Divine Maiden, and he was even more handsome... How could he not be jealous of such a peer? And now, this person who inspired such immense jealousy was about to suffer the Wilderness Devouring Punishment. The thought of the agony he was about to face and the pathetic state he would be in filled him with an irrepressible, surging delight.
+Hua Qingying disappeared and reappeared beside Hua Caili. Gently, she grabbed their intertwined fingers with her snow white, jade-like hand and said, “Caili.”
 
-At that moment, the cruel sentence rang out: "Yun Che, receive your punishment!"
+Her voice sounded completely unfamiliar to most people. It was a gentle voice that she only ever used in front of Hua Caili. “The monarch’s order cannot be changed once given. Do not... waste his feelings.”
 
-The Grand Divine Officer spread his five fingers. A beam of withered-yellow profound light shot from his palm, transforming in mid-air into countless light needles as fine as hair, which descended upon Yun Che's entire body. The moment they touched his flesh, it was as if innumerable withered-yellow steel needles were piercing him from every limb, every pore, every seam in his bones, penetrating skin, flesh, blood, meridians, marrow... and the very depths of his soul. In an instant, all of Yun Che's consciousness was completely submerged in an indescribable agony.
+“...” Hua Caili’s expression froze for a moment. In the end, Hua Qingying was able to peel her bloodless, now powerless fingers away from Yun Che’s and carry her back to Hua Fuchen. The young woman looked numb and limp as warm, profound energy wrapped around her injured fingers and healed her injuries.
 
-An extreme itch, as if myriads of venomous ants were gnawing on every inch of his bones... An extreme pain, as if myriads of red-hot poison needles were frantically stabbing every part of his body... A torture that would make a demigod choose to end their own life midway through—its cruelty surpassed an ordinary person's understanding and imagination of the word "pain" by countless times. It was like magma incinerating his bones... like poisonous vines corroding his heart... like red-hot iron branding and stirring his marrow... like his soul being pressed onto barren gravel and repeatedly plowed, rubbed, and crushed...
+On the Owl Butterfly Kingdom of God’s side, Pan Buzhuo was scoffing under his breath, “Tsk!! The guy has no idea what he’s dealing with! He’s going to scream and beg as ugly as he charmed the Heaven Breaker Divine Daughter in a moment... It’s going to be oh-so-ugly.”
 
-Yun Che's features twisted violently. Every joint in his body spasmed and dislocated, and his veins bulged grotesquely as they tensed... Then, the flesh all over his body began to ripple and tremble, as if countless abyssal ticks were crawling and gnawing beneath his skin... It was every single cell in his body contorting and spasming in ultimate agony.
+Did Pan Buzhuo hold a grudge against Yun Che? Not at all. However, not only was Yun Che’s talent in the profound way one-of-a-kind, the Heaven Breaker Divine Daughter loved him and was even more handsome than he was. As his peer, how could he not be jealous of Yun Che? Dark pleasure naturally coursed through his veins the moment he imagined how ugly the man he was intensely jealous of would look when the punishment of devouring rage began.
 
-In a near-instant, cold sweat had soaked through Yun Che's outer robes, splashing down with his wildly trembling body, messily striking the ground of Eden's Cloud Summit and quickly spreading into a shocking wet patch.
+Finally, the cruel declaration took place. “Receive your punishment, Yun Che!”
 
-Around him, the bodies and souls of the divine kingdom profound practitioners began to tremble as well. Then, one by one, they averted their gazes, unable to bear watching any longer. The horrifying physical reaction was a testament to the inhuman cruelty of the pain Yun Che was enduring.
+The Chief Priest opened his palm and fired a beam of withering, yellow, profound light at Yun Che. Halfway, it split into countless tiny needles that were as thin as human hair before piercing Yun Che’s limbs, bones, pores, the gap between his bones, and more. The needles would penetrate his skin, flesh, blood, bones, veins, marrow... and even the depths of his soul.
 
-And this pain had to last for a full one hundred breaths! No, for a double Wilderness Devouring Punishment... it had to be endured for a full two hundred breaths.
+In just an instant, Yun Che’s entire consciousness was consumed by indescribable pain. Impossible itchiness tortured him like a million venomous ants were biting every inch of his bones. Unimaginable pain was skewering every inch of his body like a million poisonous and red-hot needles repeatedly. This was a torturous punishment that could drive even a Half-God to suicide before it was completed. Its cruelty naturally exceeded the ordinary person’s understanding and imagination of pain countless times over.
 
-"Brother Yun..." Tears already stained Hua Caili's cheeks, her snowy face as pale as paper. If not for Hua Qingying supporting her, she would have collapsed the moment the punishment was inflicted upon Yun Che. From her bloodless lips came heart-shattering sobs.
+It felt like lava burning one’s bones into ash... it felt like poisonous vines slowly corroding the heart... it felt like hot branding irons stirring inside his marrow... It felt like his soul was being dragged across a savage wilderness filled with countless pieces of gravel...
 
-Meng Kongchan pressed a hand to his chest, barely able to breathe. But he focused his soul, striving to maintain his composure as he called out, "Yuan'er, hold on... try to listen to my voice... Yuan'er, Yuan'er..."
+Yun Che’s facial features contorted violently, and every joint in his body was spasming so hard that it displaced itself. Horrid-looking blue veins were bulging everywhere as well...
 
-One breath. Two breaths. Three breaths... Ten breaths!
+This was just the beginning, though. Soon, every piece of skin and flesh on his body was trembling and undulating like countless abyssal worms were squirming or feeding underneath it... It was every cell in his body contorting and spasming in abject torment.
 
-Even the air seemed to be stained with a painful tremor, and the flawless, thin clouds were scattered by a sudden, cold wind... Yet, people began to realize with astonishment that Yun Che, whose body was being repeatedly flayed in a ten-thousand-fold purgatory, had not made a single sound.
+Barely an instant had passed since the punishment began, but cold sweat had already drenched every inch of Yun Che’s clothes. It then splashed haphazardly on the floor of Eden’s Crown and swiftly spread toward the surroundings like it was raining.
 
-Unseen by anyone, a strange light flickered in the depths of the Grand Divine Officer's eyes. He was present for every execution of the Wilderness Devouring Punishment, and occasionally administered it himself. But never had anyone... not even those few Divine Sovereign experts, managed to endure ten breaths without a sound.
+All around him, the bodies and souls of the profound practitioners of the Kingdoms of God began trembling as well. One by one, they looked away from Yun Che. His tortured appearance was such that they could not even bear to look at him.
+
+The terrifyingly visceral physical reactions showed just how painful and torturous the punishment was, and the young man was going to have to endure it for a hundred breaths! No, that wasn’t right. He asked to withstand twice the punishment... so he was going to have to endure this for two hundred breaths!
+
+“Big Brother Yun...”
+
+Tears were streaming endlessly down Hua Caili’s cheeks, and her face was as white as a sheet. If Hua Qingying hadn’t been supporting her, she would have collapsed to the floor the instant the punishment of devouring rage took place. Soul-crushing sobs escaped her bloodless lips again and again.
+
+Meng Kongchan was clutching his heart and feeling as if he could barely breathe, but he gathered his wits, maintained his cool as best he could, and called out to Yun Che again and again. “Hold on, Yuan’er... try listening to my voice... Yuan’er, Yuan’er...”
+
+One breath, two breaths, three breaths, ten breaths! At this point, even the air seemed to be trembling in pain, and the thin, flawless clouds floating in the sky were destroyed by the chilly wind emanated by Yun Che...
+
+It was at this moment that the crowd noticed something astonishing. Despite looking like he was being tortured in the ten thousandth level of purgatory[1], Yun Che... had not cried out even once.
+
+No one noticed this, but a layer of astonishment had colored the Chief Priest’s eyes. He was present for every punishment by devouring rage. Sometimes, he personally carried out the punishment. However, no one... not even the handful of Divine Limit Realm experts who suffered the punishment... was able to withstand ten breaths without uttering a single sound.
 
 Eleven breaths, twelve breaths... fifteen breaths...
 
-The crowd's expressions shifted from initial horror to surprise, then to a deepening shock and disbelief.
+At first, everyone wore horrified expressions. However, that horror slowly turned into astonishment, then from astonishment into growing shock and disbelief.
 
-Meng Kongchan suppressed the pain in his heart and called out in a gentle tone, "Yuan'er, you don't have to hold it in. Scream it out. Screaming can lessen the pain a little... It's alright, just scream, Yuan'er!"
+While enduring a terrible heartache, Meng Kongchan continued to call out to Yun Che in an even voice, “There is no need to endure the pain by force, Yuan’er. Feel free to scream all you want. Screaming can decrease the pain a little... It’s really fine, Yuan’er. Just scream as much as you want.
 
-He called out continuously, trying to stimulate and distract Yun Che's mind and soul, praying that he would not suffer a soul collapse. Too many who underwent this punishment had died by their own hand after their souls shattered.
+The reason Meng Kongchan was calling out to Yun Che non-stop was in hopes that he could distract Yun Che from the pain and prevent him from suffering a soul collapse. Countless criminals had committed suicide during the punishment because they suffered a total soul collapse.
 
-Meng Jianxi was also shouting, "Brother Yuan, no one has ever lasted this long under the Wilderness Devouring Punishment without screaming in agony. You are truly worthy of your name... You are not only the pride of Dreamweaving; perhaps no one in the entire Abyss can match you. So, you can definitely endure... Even a double punishment will be powerless against you!!"
+Meng Jianxi was also shouting, “No one has ever been able to withstand the punishment of devouring rage for so long without uttering a sound, Brother Yuan! As expected of you! You are not only the pride of Dreamweaver. There may not be another person in the entire Abyss who can rival you. So you can endure this... not even twice the punishment of devouring rage can defeat you! I am sure of it!”
 
-Crack! Crack! Crack...
+Crack! Crack! Crack... The sounds of breaking bones kept coming from Yun Che, but it wasn’t because of the punishment. To be accurate, the punishment of devouring rage did not break one’s body or snap one's bones. However, it could inflict so much pain that the one being tormented would break their bones without noticing. That was what was happening right now. Yun Che was clenching his fists so hard that his fingers were breaking, and bits and pieces of bone were piercing his palm. Blood mixed with sweat dripped on the floor before turning into bloody-smelling white vapor that eventually disappeared into the air.
 
-A series of crisp, ear-piercing sounds of bone breaking rang out.
+Hua Qingying reached out and covered Hua Caili’s eyes. “Don’t look, Caili... it will be over soon.”
 
-The Wilderness Devouring Punishment did not break the body or bones; that was the sound of Yun Che snapping his own knuckles. The shattered bone fragments pierced the flesh of his palms. Blood mixed with sweat dripped from between his fingers, and upon hitting the ground, it evaporated into a white mist with the stench of blood, silently dispersing into the air.
+Hua Caili was trembling almost as hard as Yun Che. The horrifying torture that was being applied to Yun Che was also carving up her heart and soul like ten thousand blades. However, she raised her hands and, despite the tremors wracking her hands, stubbornly pulled her aunt’s hand away. Although her eyes were completely covered in tears, she never stopped looking at Yun Che for even an instant.
 
-Hua Qingying reached out and covered Hua Caili's eyes. "Caili, don't look... It will be over soon."
+“I... want... to... see...” She whispered each word like she was talking in her sleep. This was easily the cruelest picture she had ever seen in her life, and yet she desired to imprint each and every instant into her soul.
 
-Hua Caili's body was trembling almost as violently as Yun Che's. The horrifying torture inflicted upon his body was like ten thousand blades carving and gouging her own heart and soul. Yet she reached up, her hand trembling but resolute, and moved her aunt's³ hand away from her eyes. Her vision, completely blurred by a fog of tears, remained fixed on Yun Che's body without blinking.
+Twenty breaths... twenty-five breaths... thirty breaths!
 
-"I... must... watch..." she murmured, each word like she was talking in her sleep. For her, this was perhaps the cruelest sight of her life, yet she was determined to burn every single moment of it into her eyes, to carve it into her soul.
+Yun Che’s facial features had completely lost their human shape at this point. Blood and spittle kept pouring out from his tightly clenched teeth. Despite this... he never allowed even a muffled grunt to spill through his nose.
 
-Twenty breaths... Twenty-five breaths... Thirty breaths!
+“What stunning willpower,” Sha Xing whispered absentmindedly. With every passing second, Yun Che’s silence was stacking up more and more layers of shock in his heart.
 
-Yun Che's features were so distorted he no longer looked human. Blood foamed and sprayed from between his clenched teeth, yet still... not even a single muffled groan escaped him.
+Sha Xing’s voice jolted Xian Yue out of his own reverie and reminded him to breathe. After sucking in a deep breath and exhaling it all, he said from the bottom of his heart, “If this man manages to survive this tribulation... I must make his acquaintance no matter what.”
 
-"What astonishing willpower," Cha Xing muttered, somewhat lost in a daze. His shock grew with every silent moment Yun Che endured.
+At a different corner of Eden’s Crown, Shenwu Yi suddenly pressed a hand to her solar plexus and frowned deeply.
 
-Cha Xing's voice startled Xian Yue as if from a dream. He finally remembered to breathe, letting out a long sigh of heartfelt admiration. "If he can survive this ordeal, then this man... is someone I must befriend, no matter what."
+What’s going on... why is my heart aching like it’s being stabbed repeatedly... why can’t I stop it or suppress it... did I suffer some internal injuries during my fight against Dian Jiuzhi...
 
-Shen Wuyi suddenly reached out and pressed a hand hard against her chest, her crescent brows knitting together tightly. What's going on... Why is there a recurring sharp pain that I can neither suppress nor stop... Is it an internal injury left from my battle with Dian Jiuzhi...?
+1. There are only eighteen levels of hell in Chinese folklore, so you can imagine what the ten thousandth level looks like. ☜

@@ -1,217 +1,229 @@
 ---
 chapterNumber: 2149
-title: ""
-publishedAt: "2025-11-25"
+title: "Small Grass, Father’s Love"
+publishedAt: "2025-12-09"
 ---
 
-The Eastern Sovereign Divine Attendant acknowledged the command and raised his hand. Two beams of profound light, condensed like rainbows, shot down and fell directly upon Yun Che and Hua Caili.
+Divine Attendant Dong Huang received his order and raised his hand. A pair of profound lights that looked as compact as rainbows immediately descended on top of Yun Che and Hua Caili. Hua Qingying subconsciously raised a hand to stop this, but Hua Fuchen immediately pushed it back down. The duo could only watch as the profound lights bound Hua Caili like shackles and dragged her toward the Chief Priest together with Yun Che.
 
-Hua Qingying subconsciously raised a hand to block them but was instantly pushed down by Hua Fuchen. The two could only watch helplessly as Hua Caili was bound by the chain-like profound light and brought before the High Divine Officer along with Yun Che. Under the authority of the Abyss Monarch and the High Divine Officer, they were powerless to stop it.
+There was no way they could challenge the authority of the Abyssal Monarch and the Chief Priest, and to do so would only anger the Chief Priest and trigger a worse consequence. The binding profound lights not only sealed off their movements but also suppressed their profound energies completely. They could not put up even the slightest bit of resistance, much less attempt an escape.
 
-Moreover, forceful resistance would only enrage the High Divine Officer and lead to even more terrifying consequences. The profound light binding their bodies not only sealed their movements but also completely suppressed their profound energy, leaving them unable to muster the slightest struggle, much less escape.
+The four words “punishment by devouring rage” caused half-limp Dian Jiuzhi to bounce back to his feet instantly. His expression was one of abject horror as he stared at the bound girl kneeling in front of the Chief Priest. It was almost as if he were the one who was about to be punished, not Hua Caili and Yun Che.
 
-The words "Punishment of Desolate Gnawing" nearly made the half-paralyzed Dian Jiuzhi leap to his feet. He stared at Hua Caili, who had been bound and brought before the High Divine Officer, his face a mask of extreme terror, as if he were the one about to be punished.
+“Punishment by devouring rage... punishment by devouring rage! Good... good... this is karma... haha... Hahahaha!”
 
-"The Punishment of Desolate Gnawing... it's the Punishment of Desolate Gnawing... Good... good... This is retribution... Haha... Hahahaha!" Dian Sansi let out a gleeful laugh, but it died in his throat the moment he met Dian Jiuzhi's gaze. His eyes were filled with a soul-corroding agony... and beyond the pain, only a terrifying emptiness.
+Dian Sansi let out an exhilarated laugh, but that laughter died almost immediately after it appeared. It was because he saw the look in Dian Jiuzhi’s eyes. It was filled with heart-consuming pain... and a kind of emptiness that could only be described as terrifying.
 
-Dian Jiuzhi's words of warning and pleading suddenly surfaced in his mind... He could no longer laugh, standing frozen in place as if his soul had completely left him.
+Dian Jiuzhi’s instructions and pleading words abruptly surfaced in his soul sea... and Dian Sansi completely lost the ability to laugh. He simply stood there blankly as if he had lost his soul.
 
-An aura of dread and panic spread rapidly. Although the punishment was not for them, the four words "Punishment of Desolate Gnawing" awakened the deep-seated brand of fear in everyone's heart. Even some seasoned, elderly profound practitioners felt their bodies tremble uncontrollably for several breaths.
+Emotions of shock, horror, and panic were swiftly spreading throughout Eden’s Crown... they were not the ones who were about to be punished, and yet the four words still awakened the brand of fear deeply rooted in everyone’s heart. Even the older, weathered, profound practitioners could not help but shudder uncontrollably for a few breaths.
 
-Yun Che and Hua Caili's bodies were pressed together, bound by the same profound light. They looked at each other, their gazes meeting. A thousand words condensed in their eyes, yet for a moment, none could be spoken.
+Yun Che and Hua Caili’s limbs were touching. They were both bound by the profound light, looking at each other. Countless words swam inside their eyes, but they were unable to voice any of them at the moment.
 
-The High Divine Officer stared at them, his voice thundering through the clouds, "Zhetian Hua Caili, Zhimeng Yun Che. The marriage bestowed by the Abyss Monarch himself was a supreme grace, yet you two engaged in a clandestine affair, treating the imperial decree as nothing. This act has brought shame upon the Senluo¹ and is a contemptuous disregard for the Abyss Monarch and the Pure Land. Your crime is unforgivable and shall be met with the Punishment of Desolate Gnawing!"
+Staring at the duo, the Chief Priest declared in a voice that shook the highest clouds, “Hua Caili of Heaven Breaker, Yun Che of Dreamweaver. The Abyssal Monarch Himself bestowed this engagement, and it was an unparalleled honor and favor from Him. However, the two of you dare to treat His order like nothing and engage in adultery. Your action deeply wounded the Boundless and belittled the Abyssal Monarch and the Pure Land even more. Your crime is unforgivable. Hence, you shall be punished by devouring rage!”
 
-"Eastern Sovereign, carry out the sentence!"
+“Dong Huang, you may begin the punishment!”
 
-"Wait! High Divine Officer, please hear me out."
+“Wait! Please allow me a moment to speak, Chief Priest.”
 
-Meng Kongchan threw all caution to the wind. Despite his status as a Divine Sovereign, he stumbled as he rushed forward. "The matter between Jian Yuan and Caili was by no means an intentional violation of the marriage bestowed by the Abyss Monarch. There are many hidden difficulties and helpless circumstances behind it. When Jian Yuan and Caili first met, he didn't even know she was the Zhetian Divine Maiden. Their subsequent..."
+Meng Kongchan was beside himself at this point. He was a Divine Regent, and yet he nearly tripped over his own feet as he rushed up to the Chief Priest. “Jianyuan and Caili absolutely did not mean to break the engagement bestowed by the Abyssal Monarch Himself. This unfortunate outcome is the culmination of many stories I can’t say here, and helpless circumstances. Back when Jianyuan first met Caili, he did not even know that she was the Heaven Breaker Divine Daughter. Later—”
 
-"Wumeng Divine Sovereign," the High Divine Officer's voice was not loud, but its heavy authority cut Meng Kongchan's words short. "Considering your status as a Divine Sovereign, I will permit you to answer three questions."
+“Dreamless Divine Regent.”
 
-Meng Kongchan could not resist and could only comply. "Very well."
+The Chief Priest’s voice wasn’t loud, but it contained such pressure that Meng Kongchan’s words were cut off in an instant. “You are a Divine Regent, so I will afford you three questions.”
 
-The High Divine Officer asked the first question: "Is it true that there was a private affair between them?"
+Meng Kongchan could not disobey him, so he could only say, “Understood.”
 
-Meng Kongchan's lips moved as he struggled to organize his thoughts. "Their feelings for each other began in the Sea of Fog..."
+The Chief Priest asked his first question, “Do Hua Caili and Yun Che have an affair with each other?”
 
-"Answer the question!" the High Divine Officer's voice turned sharp.
+Meng Kongchan’s lips trembled as he tried his best to sort out his thoughts, “The starting point of their relationship is the Endless Fog—”
 
-"..." Meng Kongchan sighed inwardly, his voice weakening. "Yes."
+“Answer the question!”
 
-The High Divine Officer asked the second question: "Have they consummated their relationship as man and woman?"
+The Chief Priest’s voice turned harsh.
 
-Meng Kongchan slowly closed his eyes, his voice growing fainter still. "Yes."
+Meng Kongchan hid a sigh and answered in a powerless voice, “Yes.”
 
-A clamor arose from the surroundings, and many gazes shifted secretly toward the stunned Dian Jiuzhi... some mocking, some pitying, some lamenting his misfortune.
+The Chief Priest moved on to his second question. “Have they consummated their love?”
 
-The High Divine Officer asked the third question: "When did you and the Huaxin Divine Sovereign learn of their affair?"
+Meng Kongchan slowly closed his eyes, and his voice weakened further. “Yes.”
 
-Before the High Divine Officer, any attempt at concealment would only make matters worse. He could only answer truthfully, "Three years ago."
+A commotion immediately broke out in the surroundings. Even more people were sneaking glances at the numb-looking Dian Jiuzhi, filled with ridicule, pity, sympathy, indignation, and more.
 
-"Hmph!" Dian Luohou sneered, his expression beyond "ugly."
+The Chief Priest asked his third question, “When did you and the Heart Painter Divine Regent learn about this?”
 
-The High Divine Officer said gravely, "In that case, as the Divine Sovereign of a nation, you should know how absurd the words 'hidden difficulties' are!"
+Meng Kongchan knew that attempting to hide this before the Chief Priest would only make matters worse, so he could only answer honestly, “Three years ago.”
 
-Meng Kongchan knew the High Divine Officer was right. No matter how great the hidden difficulties were, they could not change what had already happened, nor could they excuse the established "wrong" and "crime."
+“Hmph!” Dian Rahu let out a cold snort. At this point, his complexion was so ugly that the adjective was no longer good enough to describe it.
 
-Meng Kongchan turned to face the Abyss Monarch, his expression pleading. "Abyss Monarch, Kongchan knows that Jian Yuan has committed a monstrous crime, but... as his father, I lost him for a full hundred years due to a moment of negligence. Every time I thought of it during those hundred years, I was consumed by bone-deep regret and unbearable pain."
+The Chief Priest said heavily, “In that case, you, a Divine Regent, should understand just how laughable your attempts to excuse their behavior are!”
 
-"Now, by the heavens' mercy, he has been returned to my side... In just three short years, I have not been able to remedy even a fraction of my immense guilt and debt to him. How can I bear the pain of losing him again?"
+Meng Kongchan knew that the Chief Priest was right. No matter the circumstances that had led to this situation, there was no changing what had already happened, much less redressing the “crime” and “wrong” that had already been set in stone.
 
-"Even if Jian Yuan is exceptionally talented, he is ultimately only a Divine Master. He cannot possibly withstand the Punishment of Desolate Gnawing! To inflict it upon him is no different from a death sentence!"
+Meng Kongchan turned to face the Abyssal Monarch and said pleadingly, “Your Majesty, Kongchan knows full well the scale of the crime Jianyuan has committed, but... as a father, I once lost him for an entire century because of a moment’s mistake. During that time, every time I recalled my mistake, regret and hatred would fill my bones, and pain would torment me so that I wished I were dead.”
 
-Thud!
+“Thankfully, the heavens took pity on me and saw fit to return him to me... but it has only been three years since we reunited. I haven’t yet made up for a speck of my ten thousand mountains of mistakes and failures yet, so how can I possibly bear to lose him again?”
 
-He fell heavily to his knees, his face etched with a pitiable plea that should never appear on a Divine Sovereign. "A son's misdeeds are the father's fault. I beg the Abyss Monarch for mercy! Allow Kongchan to take my son's place and endure a double portion of the Punishment of Desolate Gnawing! I beg for your mercy, Abyss Monarch! Kongchan will repay Your Majesty's grace in this life and the next, even if it means serving you as a loyal steed²!"
+“No matter how extraordinary Jianyuan’s talent is, his body is ultimately just that of a Divine Master. There is no way he could possibly endure the punishment of devouring rage! To subject him to this punishment is the same as executing him!”
 
-Bang!
+His knees hit the floor with a resounding thud, and his face wore a meek and pleading expression that should never appear on a Divine Regent’s face. “It is the father’s fault if his son is not well-behaved. Therefore, I humbly beg you to allow Kongchan to withstand double the amount of punishment on behalf of Yuan’er! Please, Your Majesty! Kongchan swears that he will devote his whole life to repay this favor if you show mercy this once! Please!!”
 
-He kowtowed heavily, his head cracking the ground of the Eden Cloud Summit and sending pale fissures spreading outward, which were then filled with streams of fresh blood. In that instant, he cast aside all the pride and dignity of a Divine Sovereign. His body curled into the most humble posture, his proud head, smeared with a Divine Sovereign's blood, ground against the earth, and he did not raise it for a long time.
+His skull slammed against the floor so hard that pale white cracks split across the ground of Eden’s Crown. Not a moment too soon, bright red blood immediately filled them up.
 
-"..." Yun Che drew a slow breath and closed his eyes. His slightly clenched knuckles had turned an unnatural, deathly white.
+At that moment, Meng Kongchan had discarded his pride and dignity as a Divine Regent completely. Curling into the meekest possible posture a person could assume, he buried his blood-stained head into the ground and did not lift it even after a long, long time later.
 
-"Father... God..." Meng Jianxi let out a low, trembling cry, his eyes already misted with tears. He had never seen, never even imagined, that his father, who stood as tall as a celestial mountain, would one day assume such a humble posture.
+“...” Yun Che slowly drew his breath and closed his eyes, his lightly clenched fingers subtly exuding a deathly pale color that should not be. 𝒇𝒓𝙚𝒆𝔀𝓮𝓫𝒏𝓸𝙫𝓮𝓵.𝓬𝙤𝙢
 
-He stepped forward and fell to his knees with a thud behind his father, slamming his head to the ground and crying out in anguish, "I beg the Abyss Monarch for mercy!"
+“Fa... ther...” Meng Jianxi let out a low, trembling cry while tears blurred his vision... He never once saw or even envisioned that his tall and mighty Father would one day look this meek.
 
-Thud! Thud! Thud...
+Meng Jianxi stepped forward and dropped to his knees behind his Father. Then, he smashed his head against the floor and shouted sorrowfully, “I beg your mercy, Your Majesty!”
 
-The sound of kneeling continued unabated. Before the dazed eyes of the crowd, everyone from the Zhimeng Divine Kingdom knelt on both knees and kowtowed heavily.
+Thump! Thump! Thump...
 
-"We beg the Abyss Monarch for mercy!" The anguished cries were deafening and struck the soul. The varied expressions on the faces of the crowd grew complicated at this moment.
+For a time, it felt like the sounds of knees and heads hitting the floor would never end. Amidst everyone’s somewhat blurry vision, every man and woman in the Dreamweaver Kingdom of God’s formation had prostrated themselves before the Abyssal Monarch.
 
-"..." The fury in Dian Luohou's eyes froze for a moment, but then he whipped his head away with a heavy snort, refusing to look again.
+“We beg your mercy, Your Majesty!!”
 
-"Alas," Hua Fuchen sighed softly. He did not plead for Hua Caili as Meng Kongchan had, even though the Abyss Monarch doted on her, and even though Hua Qingying held more weight in the High Divine Officer's eyes than the seven Divine Sovereigns.
+Sorrowful cries deafened the ears and touched the soul heavily. Everyone’s odd expressions turned a little complicated as well.
 
-He knew that the Abyss Monarch's decree could not be defied, much less broken in public. It was impossible that Meng Kongchan did not know this. And as the Wumeng Divine Sovereign, the one with the strongest soul among the seven Divine Sovereigns of the six kingdoms, his spirit was undoubtedly the most resilient and clear-headed... yet at this moment, it had crumbled so completely.
+“...” The anger in Dian Rahu’s eyes froze for a moment, but in the end, he turned his head away and let out a heavy grunt, refusing to look at them.
 
-As expected, the Abyss Monarch said nothing. He did not even spare them a single glance.
+Hua Fuchen let out a quiet sigh. He did not try to beg for Hua Caili like Meng Kongchan was begging for Yun Che, even though the Abyssal Monarch was very fond of Hua Caili and Hua Qingying, in the Chief Priest’s eyes, carried more weight than all seven Divine Regents.
 
-The High Divine Officer's cold eyes narrowed as he spoke gravely, "Meng Kongchan, all of you will withdraw within three breaths. Otherwise, your crimes will be compounded!"
+It was because he knew that the Abyssal Monarch’s command could never be disobeyed. Even if He were to make an unprecedented exception, He would never do so in front of everyone.
 
-Meng Kongchan remained prostrate, his body wracked with painful tremors.
+Meng Kongchan must know this. As the Dreamless Divine Regent, as the one possessing the strongest soul out of every Divine Regent present, no one was clearer-headed and mentally tougher than him. However, he did it anyway. That was how far his soul had collapsed.
 
-Hua Fuchen stepped forward and forcibly pulled him up, sighing, "Since the Abyss Monarch has given the order, it cannot be changed. Things have come to this; there is no other way. We can only... leave it to the children. They cannot afford any more complications now."
+The outcome... did not surprise anyone. Forget saying a word, the Abyssal Monarch had not even cast His gaze in Meng Kongchan's or his people’s direction.
 
-Those last words jolted Meng Kongchan back to his senses. He had no choice but to rise and say weakly, "Everyone... withdraw."
+Glaring down on Meng Kongchan coldly, the Chief Priest declared, “You have three breaths to command all of your people to withdraw, Meng Kongchan. Otherwise, the crime will escalate in severity!”
 
-"Senior."
+Meng Kongchan remained curled up on the floor. His whole body was shaking in abject torment.
 
-Yun Che's voice sounded by Meng Kongchan's ear. Meng Kongchan, Meng Jianxi... everyone from Zhimeng turned their heads, their gazes trembling as they looked at Yun Che. His voice was calm, no different from usual, without a hint of tremor or fear.
+This time, Hua Fuchen stepped forward and forcefully dragged him to his feet. He said with a sigh, “The Abyssal Monarch has given His order. It can not be rescinded. There is no other way at this point. We can... only leave it to our children, now. There have been enough unpleasant surprises already. They cannot endure anymore, right?”
 
-"Regardless of any 'hidden difficulties,' we ultimately violated the marriage bestowed by the Abyss Monarch himself. It is an irrefutable crime. Since it is a crime, we must accept the punishment. Caili and I have no regrets or complaints."
+It was Hua Fuchen’s final sentence that snapped Meng Kongchan out of his stupor. He had no choice but to climb to his feet and breathe out helplessly, “With... Withdraw, all of you.”
 
-He turned his head slightly, a gentle smile on his face as usual. "Senior, a few days ago, I thought of a rather fancy way to make soup, one that can give it a dreamy, picturesque appearance. I just haven't had the chance to make it yet."
+It was at this moment that Yun Che’s voice entered Meng Kongchan’s ears once more. Meng Kongchan, Meng Jianxi... everyone in Dreamweaver turned around to look at Yun Che with shaky eyes.
 
-"When we return, I will make it for you. I believe you will certainly like it."
+His voice was very calm, as calm as he usually sounded. There was no fear or tremor in his voice whatsoever.
 
-"..." Meng Kongchan's lips trembled, and then he began to laugh, though his eyes were filled with tears. "Good... A man of my Zhimeng must not break his promise."
+“No matter what kind of ‘circumstances’ were involved, we ultimately ruined the engagement that was bestowed by the Abyssal Monarch by our own hands. This is an undeniable, irrefutable crime. Since we have committed a crime, it is only right that we are punished for it. Neither Caili nor I feel any regret or resentment.”
 
-Yun Che nodded heavily, then reached out and grasped Hua Caili's cold, fair wrist. Hua Caili squeezed his hand back and moved even closer to him, no longer caring where they were or who was around them.
+He turned his head slightly and wore his usual heartwarming smile. “Senior, I recently figured out a rather frivolous method of making soup. It could give the soup a dreamlike appearance. Unfortunately, I wasn’t able to make it before...”
 
-"Caili, are you afraid?" Yun Che asked softly.
+“Anyway, I’ll cook it for you when we get back to Dreamweaver. I’m sure you’ll love it.”
 
-Hua Caili nodded, then shook her head. "I was so scared just now, but when you're by my side, I'm not scared at all... When I think that after today, we can be together openly, without needing to worry or be afraid anymore, I'm even less scared."
+Meng Kongchan’s lips quivered for a moment. Then, he broke into a smile; a tearful smile. “Of course... a man of Dreamweaver mustn’t break his promise.”
 
-In her pure and beautiful world, the gazes, words, and judgments of others meant nothing when it came to her feelings for Yun Che. They clung to each other as if no one else existed, whispering softly... and the crowd truly could not detect the slightest trace of fear from them.
+Yun Che returned a heavy nod before reaching out to grab Hua Caili’s ice-cold wrist. In response, Hua Caili grabbed his hand tightly and moved even closer to him... At this point, she no longer cared where they were or who was watching.
 
-In the distance, Dian Jiuzhi's empty eyes flickered slightly. Then, a faint smile slowly bloomed on his face as he murmured in a daze, "This is her... This is what she's like when she loves someone..."
+“Are you afraid, Caili?” Yun Che asked softly.
 
-"This is how... she was always meant to be..."
+Hua Caili nodded at first, but then shook her head right after. “I was, but with you by my side? I’m not even a little afraid... In fact, the thought that we could be together openly and not worry about anything after today fills me with greater courage.”
 
-"Eastern Sovereign, carry out the sentence!"
+In her pure, beautiful world, and when it came to her feelings for Yun Che, another person’s look, words, and criticism truly did not matter one bit. For a moment, the duo just kept whispering to each other and leaning against one another as if no one else existed... in fact, no one could sense even a hint of fear from them.
 
-The High Divine Officer gave the order again... only to be interrupted by another voice. This time, it was the Abyss Monarch.
+Far away, Dian Jiuzhi’s empty eyes twitched once. Then, he actually cracked a small smile and whispered unconsciously, “So this... is what she looks like... when she's in love...’
 
-"Huang³, you will carry out the sentence personally."
+“This... is how she should always be...”
 
-The Eastern Sovereign Divine Attendant, whose hand was just raised, immediately retracted it and stepped back without hesitation. The High Divine Officer was puzzled but would not ask a single question. He strode forward, and the moment he raised his arm, the divine pressure crushing down on Yun Che and Hua Caili was countless times more terrifying than the Eastern Sovereign's.
+“Dong Huang, begin the punishment!”
 
-A gentle breeze suddenly rose, carrying with it the clear, elegant voice of a woman. "High Divine Officer, please stay your hand for a moment."
+The Chief Priest repeated his order... but he was interrupted by another voice. This one... came from the Abyssal Monarch Himself.
 
-This woman's voice actually made the strict, almost heartless High Divine Officer pause his actions. The woman was dressed in a plain white robe adorned with autumn plums. Her eyes were like autumn pools, her skin fair. She had an air of refined elegance that transcended the mortal world, making her age difficult to guess. It was Su Shang, the personal divine attendant of the Lingxian Divine Officer.
+“Rage, I want you to carry out the punishment yourself.”
 
-"Aunt Su Shang..." Hua Caili subconsciously murmured.
+Divine Attendant Dong Huang immediately withdrew his palm and stepped down without hesitation. The Chief Priest was puzzled, but as usual, he did not question his monarch even a little. Instead, he stepped forward and raised his hand, enveloping Yun Che and Hua Caili in divine pressure that was countless times greater than Divine Attendant Dong Huang’s.
 
-"What is it?" the High Divine Officer asked gravely.
+Suddenly, a clear breeze blew, and a feminine, refined voice spoke up. “May I request a moment, Chief Priest?”
 
-Divine Attendant Su Shang curtsied gracefully to the Abyss Monarch and the High Divine Officer before smiling faintly. "Su Shang has come on my master's orders to request a boon from the Abyss Monarch for Yun Che, to have his punishment waived or lightened."
+The Chief Priest was a man so strict that it bordered on heartlessness. However, the feminine voice actually caused him to stop. The woman wore a long, plain white dress adorned with dots of autumn plum. Her eyes looked like autumn pools, her skin was fair and soft, and her presence was subtle and ethereal, as if she did not belong in this world. Her age was difficult to discern. She was none other than High Priest Ling Xian’s Divine Attendant, Su Shang.
 
-At these words, the High Divine Officer's brow furrowed deeply, and everyone else exchanged bewildered glances, their eyes filled with astonishment. The esteemed Lingxian Divine Officer... was pleading for Yun Che?!
+“Aunt Su Shang...” Hua Caili subconsciously called out.
 
-The most surprised of all was Meng Kongchan, and after the surprise came an overwhelming joy, as if a gift had fallen from the heavens.
+“What is the matter?” The Chief Priest asked solemnly.
 
-He bowed deeply, his voice trembling with excitement. "On behalf of my unworthy son Jian Yuan, I, Meng, thank the Lingxian Divine Officer for her great kindness."
+Divine Attendant Su Shang gave him a bow before replying smilingly, “Su Shang appeared now to convey my master’s order. She would like to request a blessing from His Majesty. Specifically, she would like His Majesty to pardon Yun Che—and if not that, at least reduce the degree of his sentence.”
 
-"There is no need for thanks," Su Shang replied with calm elegance. "Yun Che did our master a favor, so it is only right that our master repays him."
+The moment she finished her sentence, the Chief Priest frowned deeply as a matter of course. Everyone was exchanging stunned, confused looks with each other as well. Did they hear her right? High Priest Ling Xian... was pleading on Yun Che’s behalf!?
 
-Meng Kongchan suppressed the excitement in his heart. He now realized it must have been the Primordial Flame Crystal! He never expected that Yun Che would act on his reminder so quickly after arriving in the Pure Land, and that it would yield such a surprising result at this crucial moment.
+No one was more astonished than Meng Kongchan. It was immediately followed by wild, uncontrollable joy. The man bowed deeply in Su Shang’s direction and said agitatedly, “On behalf of my clumsy son, this one thanks High Priest Ling Xian deeply for her favor.”
 
-The High Divine Officer asked, "What kind of favor?"
+“No need.”
 
-The four Divine Officers understood each other well, and the Lingxian Divine Officer was the one among them least willing to ask the Abyss Monarch for anything. For her to do so meant this was no ordinary favor.
+Su Shang replied indifferently, “My master owes Yun Che a favor. It is only natural that she would repay it.”
 
-Su Shang was silent for a moment, then smiled faintly. "Since the High Divine Officer asks, Su Shang will naturally tell all she knows."
+It took Meng Kongchan a great deal of effort to keep his emotions in check. At this point, he already figured out that this was thanks to the Primal Flame Crystal. He did not think that Yun Che would follow his advice so quickly, or that it would pay dividends here and now.
 
-Her answer was four short, direct words: "Primordial Flame Crystal."
+The Chief Priest asked, ‘What favor?”
 
-The doubt in the High Divine Officer's eyes immediately turned to understanding. In a corner of the Eden Cloud Summit, the Dragon Lord's aged body trembled slightly, a look of shock that others could not comprehend flashing in his eyes. Behind him, Long Chixin and Long Qianxin's expressions also changed drastically.
+The four High Priests knew each other well. Out of all of them, High Priest Ling Xian was the one who desired a favor from the Abyssal Monarch the least. Therefore, whatever favor Yun Che had done for her could not be insignificant.
 
-"The Primordial Flame Crystal... it has actually appeared in the world again," the Dragon Lord murmured, his heart in turmoil.
+Su Shang fell silent for a moment before breaking into a small smile. “Su Shang will answer your question, Chief Priest. The Primal Flame Crystal.”
 
-Long Chixin took half a step forward and lowered his voice to a whisper. "The events of today will surely spread. If word reaches Long Xi's ears... the consequences will be unpredictable."
+Four simple words were all it took to melt the doubt in the Chief Priest’s eyes into understanding completely.
 
-Long Qianxin's brow was deeply furrowed. He then said, "Dragon Lord, there is no need to worry. This Primordial Flame Crystal is being used by the Lingxian Divine Officer. Long Xi cannot possibly come to the Pure Land to seize it by force. When this news spreads, it will serve as proof that the Primordial Flame Crystal is not extinct, which might prevent her from falling into despair too quickly and leaving the Dragon Clan... In that sense, it might be a good thing."
+At a corner of Eden’s Crown, the ancient, wizened figure that was the Dragon Lord shook a little, and shock no one could comprehend rose from behind his eyes. Behind him, Long Chixin and Long Qianxin blanched at the same time as well.
 
-The Dragon Lord took a deep breath. "What I worry about is that since the Primordial Flame Crystal is not extinct, she might actually find one... If that happens, she will have found all the so-called Five Spirit Anomalies. At that point... her leaving would be a small matter. But after discovering she was deceived, given her temperament... she will surely become a great disaster for our clan."
+“The Primal Flame Crystal... to think it would actually reappear once more.” The Dragon Lord murmured while hiding a tidal wave of shock and panic in his heart.
 
-"Rest assured, Dragon Lord," Long Chixin said with a grim and determined expression. "I will keep a close watch on her in secret... I guarantee that even if another Primordial Flame Crystal truly appears in this world, she will never be able to obtain it."
+Long Chixin took half a step forward and lowered his voice as best he could. “Today’s incident will be known to the public. If Long Xi were to hear about this... the consequences could be unpredictable.”
 
-Just then, another gentle breeze swept by, carrying a lazy, languid voice. "Well now, what a coincidence."
+Long Qianxin frowned deeply for a moment before speaking up. “There is nothing to worry about, Dragon Lord. This Primal Flame Crystal is meant for High Priest Ling Xian. Long Xi could hardly come to the Pure Land and take it by force, could she? If anything, this news would prove that the Primal Flame Crystal isn’t extinct yet and keep her from falling into despair too quickly... meaning that the date she leaves the dragon race permanently will be postponed. This is a good thing.”
 
-A young man, treading on thin clouds, sauntered over. His posture was lazy, his voice soft, completely out of place with the solemn atmosphere of the Eden Cloud Summit. Yet he seemed utterly oblivious, a wide grin on his face. Even with the Abyss Monarch and the High Divine Officer present, he did not restrain his extremely discourteous, carefree demeanor.
+The Dragon Lord sucked in a deep breath and replied, “What I’m worried about is the fact that the Primal Fame Crystal isn’t extinct yet. What if she actually finds one? If she gathers all five spirit treasures... Her departure is of little consequence. It is her wrath upon discovering that she had been fooled that worries me. Knowing her temperament... she will surely become a terrible threat to our race.”
 
-In the entire Pure Land, besides the four Divine Officers, there was only one person who dared to act this way before the Abyss Monarch: the personal divine attendant of the Liuxiao Divine Officer, Yuan Ying.
+Long Chixin replied solemnly, “Do not worry, Dragon Lord. I will watch her closely from the shadows... I promise that she will never obtain the Primal Flame Crystal even if it does resurface.”
 
-"What are you doing here?" The High Divine Officer clearly disliked this person. "Could it be..."
+It was at this moment that another gust of clear wind carrying a leisurely and lethargic voice blew over. “Aiya aiya, what a coincidence.”
 
-"The High Divine Officer's guess is correct," Divine Attendant Yuan Ying said, giving the Abyss Monarch a distant bow. "Yuan Ying has come on my master's orders to ask the Abyss Monarch for a big favor on Yun Che's behalf. I ask that the Abyss Monarch consider his youth and ignorance, his youthful vigor, his youthful recklessness, his youthful... uh, and that this is his first offense, and grant him a lenient sentence."
+The next moment, a young man, stepping on a thin cloud, made his leisurely appearance. His posture was languid, and his voice was soft. It was very out of place with Eden’s Crown’s heavy atmosphere right now. The young man continued to smile as if he could not sense the incongruity. In fact, he did not straighten himself even though he was in the presence of the Abyssal Monarch and the Chief Priest. Besides the four High Priests, the only one in the entire Pure Land who dared to act like this was High Priest Liu Xiao’s Divine Attendant, Yuan Ying.
 
-This time, everyone present was utterly stunned. What virtue or ability did this Yun Che possess to make two of the Pure Land's Divine Officers personally plead for him to the Abyss Monarch in such a short time? Since ancient times, it was likely that not even the Divine Sovereigns of the various kingdoms had ever received such an honor.
+“Why have you come?”
 
-The excitement in Meng Kongchan's heart was beyond words. He bowed deeply once more. "I, Meng, thank the Liuxiao Divine Officer for his great kindness."
+It was clear from the get-go that the Chief Priest did not like this man. “Could it be...”
 
-"No thanks needed, no thanks needed," Divine Attendant Yuan Ying waved his hands hastily. "To be able to repay this kid's favor, my master couldn't be happier."
+“It is exactly what you think, Chief Priest.”
 
-These words left everyone dumbfounded. Who didn't know that the Liuxiao Divine Officer was the most unconventional and unyielding person in the Pure Land... no, in the entire Abyssal World? It was one thing for the Lingxian Divine Officer to owe Yun Che a favor for a Primordial Flame Crystal, but what method had he used to make the Liuxiao Divine Officer owe him one?
+Divine Attendant Yuan Ying bowed toward the Abyssal Monarch from a distance and said, “Yuan Ying has come bearing his master’s orders. He wishes to beg for leniency toward Yun Che. He says that Yun Che is a young, ignorant, young, red-blooded, young, frivolous, young[2]... er, the point is, he’s pleading for a lighter sentence on account that this is his first offense, Your Majesty.”
 
-Even the High Divine Officer was curious enough to ask, "And what favor does Liuxiao owe?"
+This time, there wasn’t a single man or woman at the scene who wasn’t flabbergasted. Who on earth was Yun Che that not one, but two High Priests had purposely dispatched their divine attendants to beg for leniency on his behalf!? There was probably no one, not even the Divine Regents, who ever enjoyed such an honor.
 
-"Well..." Yuan Ying looked troubled and bowed apologetically. "My master said that this matter concerns a treasure of heaven and earth, and he is not to speak of it, even if the Heavenly King himself asks."
+Meng Kongchan was beside himself as a matter of course. Once again, he bowed deeply to Divine Attendant Yuan Ying. “This one thanks High Priest Liu Xiao deeply for his favor.”
 
-"Hmph!" The High Divine Officer looked away, no longer bothering to ask.
+“There’s no need, no need!”
 
-The six great divine kingdoms could never defy the Abyss Monarch's decree. But outside the divine kingdoms, exceptions like the four Divine Officers existed. With two Divine Officers pleading in unison, it was impossible for the Abyss Monarch to ignore them.
+Divine Attendant Yuan Ying hurriedly waved his hands. “If anything, my master is all too happy to repay at least some of the favor he owed this lad.”
 
-He finally responded, his gaze falling upon Yun Che. All eyes also focused on him. The terror had faded from Meng Kongchan's expression, and the gloom in Hua Fuchen's eyes had mostly dissipated. Even the chilling darkness in Hua Qingying's azure eyes had receded.
+Once again, his words shocked everyone present. Everybody knew that High Priest Liu Xiao was the most independent, stubborn, and unique personality in the entire Pure Land... no, the entire Abyss. They could understand why High Priest Ling Xian had chosen to repay the favor—they all understood what the Primal Flame Crystal meant to her—but how on earth did he make High Priest Liu Xiao of all people owe him a favor?
 
-The Abyss Monarch spoke faintly, "Yun Che, since Lingxian and Liuxiao plead for you, I naturally cannot disregard it. Do you have anything to say?"
+This was such an abnormal occurrence that even the Chief Priest was curious. He asked, “What on earth is this favor Liu Xiao owed?”
 
-Yun Che showed his gratitude and said solemnly, "Yun Che will engrave the great kindness of the two senior Divine Officers in his heart. I boldly wish to borrow the grace of the two senior Divine Officers to ask the Abyss Monarch for a boon."
+Yuan Ying hesitated for a moment before apologizing with a bow. “Master only said that a priceless treasure of the world is involved, and that he ain’t telling even if the heavens themselves were to question him about it.”
 
-"Speak," the Abyss Monarch's eyes were like a bottomless abyss; no one could discern any true emotion from his pupils.
+“Hmph!” The Chief Priest withdrew his gaze then. He could not be bothered to ask again.
 
-At this point, Meng Kongchan heaved a heavy sigh of relief. A plea from one Divine Officer might only lighten Yun Che's Punishment of Desolate Gnawing. But a plea from two was definitely enough to have him exempted from it.
+The six Kingdoms of God could never disobey the Abyssal Monarch’s order, but there were exceptional existences such as the Four High Priests. There was no way the Abyssal Monarch could ignore the combined pleading of two High Priests. So, he finally reacted and set his gaze on Yun Che. All of it.
 
-However, given Yun Che's character, he would never abandon Hua Caili to save himself. Therefore, he would surely use the favors from the two Divine Officers to request a reduction... or even a pardon for both of them. Things having come to this, there could be no better outcome.
+By now, Meng Kongchan’s fear and panic had diminished considerably, and the gloominess in Hua Fuchen’s eyes had mostly faded. Even the stunning cold that froze Hua Qingying’s blue eyes had receded completely.
 
-Everyone believed that Yun Che could now lead Hua Caili away with a greatly reduced sentence... or even escape the Punishment of Desolate Gnawing, which was tantamount to death, completely unscathed.
+The Abyssal Monarch began lightly, “Ling Xian and Liu Xiao are pleading on your behalf, so this lone one cannot overlook this any longer. What do you have to say for yourself, Yun Che?”
 
-Yun Che gently squeezed Hua Caili's palm with the hand holding hers, then slowly let go.
+Wearing a grateful look on his face, Yun Che said seriously, “Yun Che will not soon forget the favor he owes the two High Priests. Now, Yun Che must ask this: Is it too presumptuous to borrow their favors to make a request?”
 
-He looked up, meeting the Abyss Monarch's gaze directly, and spoke, each word slow and resonant, "I ask for the Abyss Monarch's grace to transfer Caili's crime onto myself alone."
+“Speak.” The Abyssal Monarch’s eyes resembled pits of abysses. No one could read any genuine emotion in his eyes. Despite this, Meng Kongchan let out a heavy sigh of relief... One High Priest’s favor might only be enough to reduce the severity of the punishment, but two? That was absolutely enough to pardon him.
 
-"I am willing to bear a double portion of the Punishment of Desolate Gnawing!"
+However, knowing Yun Che’s personality, he would never abandon Hua Caili to her fate. So, he would definitely use the favors to request that both of their sentences be reduced... if not annulled outright.
+
+There was no better outcome than this. Everyone thought that Yun Che would use this opportunity to greatly lessen... or even escape what was no different from a death sentence for both him and Hua Caili.
+
+Holding Hua Caili’s hand, Yun Che gently poked her palm once. Then, he slowly let her go.
+
+Lifting his head and staring the Abyssal Monarch in the eyes, he said slowly and firmly, “Your Majesty, with the favors that have been bestowed upon me, I ask that you transfer Caili’s crime to me and me alone.”
+
+“I am willing to endure twice the amount of punishment by myself!”
+
+1. The actual poem the title is referring to goes something like this (and doesn’t have the word father in it, but you get the meaning): How can a small grass repay the sunshine of spring? ☜
+
+2. This repetition is intentional. ☜

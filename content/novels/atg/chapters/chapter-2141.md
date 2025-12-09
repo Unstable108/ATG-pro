@@ -1,192 +1,175 @@
 ---
 chapterNumber: 2141
-title: "The Ice of Glazed Glass"
-publishedAt: "2025-11-20"
+title: "Glazed Glass Ice"
+publishedAt: "2025-12-09"
 ---
 
-The Chief High Priest shifted his gaze toward the Abyssal Monarch and sent a sound transmission of inquiry: “Lord Monarch, colorless and flawless, utterly pure and utterly clean—only Glazed Glass Ice can be such a thing.
- 
-“But Glazed Glass Ice perished long ago and can never appear again. Has my judgment… been in error?” The Chief High Priest was questioning his own knowledge, which far surpassed the imagination of any living being in this era.
- 
-The Abyssal Monarch replied, “This woman possesses both the Nine Profound Exquisite Body and the Heart of Snow Glazed Glass. Now that the Nine Profound has fully matured and the Glazed Glass Heart has bloomed, they have given rise to the Exquisite Profound Realm and Glazed Glass Ice.”
- 
-The Chief High Priest fell silent for a long while before slowly speaking: “This woman… why is she like this?”
- 
-“I do not know, and there is no need to know.” Faced with the world-shaking anomalies surrounding Shenwu Yi, the Abyssal Monarch’s response was filled instead with an incomprehensible indifference. The Chief High Priest did not ask further.
- 
-A causeless person…
- 
-The thought briefly surfaced, but was then calmly wiped away by the Abyssal Monarch and allowed to fade into irrelevance.
- 
-More and more people were beginning to sense the strange icy radiance around Shenwu Yi. As the light constantly refracted, they finally made out that it was a barrier isolating and protecting Shenwu Yi within it. It released a very faint icy aura, yet there was none of the icy glow they recognized—only a transparent clarity, colorless and formless.
- 
-“Ice?”
- 
-Meng Jianxi’s face was full of doubt. “None of the profound arts of the Eternal Night Kingdom of God involve controlling ice. And besides… whenever ice aura is released, it always blooms with blue profound light of varying intensity. How could it be completely transparent?”
- 
-Meng Kongchan did not answer, because he too had never seen such an icy aura. All the more could he not understand how an ice barrier with such a weak aura could possibly withstand Dian Jiuzhi’s power of the Great Rage God Veins.
- 
-Yun Che gazed into the sky, his brows knitted for a long time.
- 
-Ice… is it the Ice Phoenix God Investiture Canon she cultivates?
- 
-No, it is nothing like that.
- 
-And besides, why would the icy aura be colorless?
- 
-Naturally occurring ice between heaven and earth is indeed colorless, but ice profound energy condensed from profound power always emits a blue icy radiance. This is basic knowledge known to all on the profound path.
- 
-As the person most proficient in controlling ice profound energy in the current world, Yun Che understood this better than anyone. Even the very phrase “ice-blue” in the profound world’s vocabulary arose because of the radiance of ice profound energy. In all that he had known or seen, and in any recorded text, there had never once been such a thing as colorless profound ice.
- 
-“Pale Flame… Glazed Glass Ice…” From within Yun Che’s soul sea suddenly came a faint, long-drawn murmur.
- 
-Yun Che calmed his mind and asked, “What was it you just mentioned…?”
- 
-Li Suo was sorting through fragments of memory that had only just been stirred. Her voice was especially slow and gentle as she said, “When the Ancestral Goddess first created the world, she left behind the Three Tribulations and Three Bestowals.”
- 
-“One of the Three Tribulations was the supreme blazing fire—the Pale Flame; one of the Three Bestowals was the utmost pure water—Glazed Glass Ice.”
- 
-The Three Tribulations and Three Bestowals—this was a concept Yun Che had never heard of, one that did not exist in any known record. Their existence was simply too ancient, so ancient that even the God race and Devil race had yet to fully take shape at that time.
- 
-“One of the Three Tribulations, the supreme blazing fire, could burn through the void and sear apart divine bodies. Its flame was pale; all who touched it returned to ash. In the end that tribulation was extinguished by Ni Xuan, leaving behind only an undying source core.
- 
-“Ni Xuan once tried to control it, but failed. In the end he could only use the most extreme elemental Creation God power to shatter it, breaking it into three fragments. He bestowed these three fragments upon three beast clans. Their names: Vermilion Bird, Phoenix, Golden Crow.”
- 
-Yun Che’s heart was stirred… Vermilion Bird, Phoenix, Golden Crow—these were precisely the three supreme fire lineages that had shaken the Era of the Gods. No wonder those three clans revered Ni Xuan so greatly.
- 
-“And in the world’s primordial balance of cause and effect, that which stood opposite the supreme blazing tribulation was the utmost pure bestowal—Glazed Glass Ice.”
- 
-“Glazed Glass Ice is utterly pure and utterly clean, colorless and flawless. It was the utmost pure substance the Ancestral Goddess bestowed upon the world at the time of creation, capable of reflecting and purifying all filth and defilement under heaven.”
- 
-“The source of Glazed Glass Ice was the Glazed Glass Divine Aura wandering through the world. It could bestow its blessing upon the body of a newborn girl, giving rise to a Heart of Snow Glazed Glass. When that heart matured, it could condense Glazed Glass Ice.”
- 
-“Such a Glazed Glass Maiden—her heart could sense good and evil, her eyes could see truth and falsehood, and her body, her soul, and her breath were all without stain or flaw. When the Heavenly Way drew near, it would wish to protect her; profound power that drew near could not bear to harm her; sin that drew near would be flooded with shame…”
- 
-“But…”
- 
-Li Suo’s tone turned slightly, tinged with regret. “This bestowal of the Ancestral Goddess vanished from the world even before the blazing tribulation.”
- 
-“Why?”
- 
-Li Suo said slowly, “When the gods created life, the world became full of myriad living beings, and in the same instant endless malice, greed, desire, and slaughter arose, turning into filthy dust that layered over heaven and earth.”
- 
-“These filth and grime—things even the Ancestral God had not foreseen—made the world’s aura grow ever more defiled, and caused the Glazed Glass Divine Aura that had once filled the world to be corrupted and foul. It gradually dispersed and vanished, leaving only the faintest stray remnants, deeply hidden within the primordial chaos of origin aura.”
- 
-“Once the world became a turbid world, it could never return. Girls blessed with the Divine Aura and thus awakening a Heart of Snow Glazed Glass would still appear on rare occasions, but they could no longer condense Glazed Glass Ice, and therefore there were no true Glazed Glass Maidens anymore. And as these girls grew up in a turbid world, in the end even their Hearts of Snow Glazed Glass would be lost beneath layer after layer of dust and grime, and they would return to being ordinary women.”
- 
-Yun Che quietly listened all the while. Only when Li Suo’s voice finally ceased did he speak: “You’re saying… the colorless ice she is using right now is Glazed Glass Ice?”
- 
-Li Suo said, “Its color, its form, its aura—they all match what I know. Yet at the same time there is an immense sense of dissonance.”
- 
-“Where is that dissonance?”
- 
-“The ice may indeed be Glazed Glass Ice, but her aura is entirely unlike that of a Glazed Glass Maiden.”
- 
-This answer was something Yun Che naturally could not fully understand.
- 
-He urgently asked, “She truly does possess the only Heart of Snow Glazed Glass in the present world. But didn’t you say that Glazed Glass Ice could never appear again?”
- 
-“No matter what the world was back then, it could not possibly have been more foul than the Abyss.”
- 
-Li Suo fell silent. She searched through those blurry fragments of memory that had only recently awakened, and then truly gave Yun Che a rather definite answer. “Perhaps… there is one other possibility.”
- 
-“The Ancestral sacred aura on her body… and the fact that she is a causeless person.”
-[TN: 无因之人, literal "person without cause," here **causeless person**, meaning one whose existence has been severed from all prior causes within the world's causal web.
- 
-Yun Che said, “What does it mean… to be causeless?”
- 
-Li Suo replied, “She is no ordinary existence, but—aside from the Four Creation Gods and the Four Devil Emperors—the ninth living being personally created by the Ancestral God. The creation of each Creation God and each Devil Emperor had its reason, and so did she.”
- 
-“…”
- 
-Yun Che’s heartstrings trembled uncontrollably for several breaths.
- 
-“The God Realm and the Abyss are two mutually isolated worlds. When she fell into the Abyss, the thread of causality between the two of you was completely severed. Add to that her loss of memory, and her existence… no longer has a prior cause.”
- 
-“She has become an existence of utmost purity, a causeless person who by all concepts and laws of the world ought not to appear.”
- 
-“Perhaps it is precisely this purity, transcending concept and law, that caused the Heart of Snow Glazed Glass she bears to bloom, thereby condensing Glazed Glass Ice.”
- 
-This was her conjecture, and also the only possibility she could find after gathering all the Creation God–level knowledge she currently possessed.
- 
-The scene was full of cries of shock and doubt, yet no one shouted the name “Glazed Glass Ice.” Because this concept simply did not exist within the knowledge of the six Kingdoms of God.
- 
-Dian Jiuzhi gazed up at the black immortal shadow in the sky. The instant his line of sight touched her, that inexplicable feeling of shame and worthlessness once more sprouted within him, flooding his mind like a tide.
- 
-He could only force his gaze away and forcibly suppress his stray thoughts. The silver radiance that had only just dimmed flashed forth again, condensing in his hand into a silver greatbow.
- 
-The bowstring was drawn into a full moon. When it was released, countless silver light-arrows tore through the air, like an upside-down Milky Way pouring down, covering the entire battlefield without leaving even half an inch of blind spot.
- 
-Shenwu Yi’s figure did not move. The Heartless Sword gave a light sweep, like flowing clouds brushing a sleeve… This time, everyone clearly saw a layer of colorless ice crystals coat the sword’s blade, refracting a crystalline, biting cold light.
- 
-Just when everyone thought she would use the Exquisite Profound Realm to retreat with all her strength, she instead raised the ice-coated sword and faced the sky-filling silver light-arrows head-on.
- 
-Ding!!
- 
-When the ice crystals met the first light-arrow, what rang out was not the explosive roar of the Great Rage God Veins bursting forth, but a crisp sound like jade striking jade.
- 
-Ice light flashed. That silver light-arrow, which had been incomparably violent and aimed straight at Shenwu Yi’s heart, suddenly deviated from its path, whistling past her side and shooting into the barrier at the edge of the battlefield—only then erupting into a devastating boom and a surge of profound light.
- 
-Dian Luohou’s eyes went as wide as copper bells… he had never particularly bothered to conceal his emotions, and at this moment the shock on his face was revealed in every corner of his features.
- 
-He inherited the ultimate Boundless divine power and had bitterly cultivated the Boundless Myriad Manifestations Art for twenty thousand years, yet he had never even imagined that the incomparably domineering Boundless divine power could actually… be this docile?
- 
-!?
- 
-The second light-arrow followed right after. It too collided with the ice-coated sword, the same ice crystals flashing, the same soft chime ringing out. Its trajectory curved and slanted away, flying off askew.
- 
-Then the third, the fourth… the tenth… the hundredth…
- 
-Ding ding ding ding ding ding…
- 
-Her figure was like that of a celestial, her swordwork fluttering and gliding. Silver radiance and ice-light interwove and flashed, cloaking her in a layer of light as beautiful as an immortal illusion, causing the countless shocked gazes to gradually be tinged with dreamlike, dazed enchantment.
- 
-Boom boom boom boom boom—
- 
-In the end, all the light-arrows crashed down upon the barrier, detonating into a sky-filling silver radiance of destruction that clearly illuminated Shenwu Yi’s dust-free robes and utterly unruffled immortal face.
- 
-Dian Jiuzhi’s hands still maintained their earlier posture. Even after all the silver radiance had vanished, he did not attack again.
- 
-Everything that had happened today was too unreal, too absurd. Shock after shock, collapse after collapse of what he knew… the turmoil in his heart was no longer something reason could calm.
- 
-“What… kind of… demonic art is this…?” a Boundless elder muttered.
- 
-For someone of his power and status to actually cry out the words “demonic art” showed just how deeply he had been frightened.
- 
-But Shenwu Yi did not give Dian Jiuzhi time to recover his wits. Her long sword slashed through the air, carving a foot-wide profound seal into the void. As the seal took form, an awe-inspiring pressure spread swiftly outward with it.
- 
-“God-Cleansing Seal!”
- 
-Meng Jianxi cried out softly.
- 
-Yun Che naturally already knew the name God-Cleansing Seal. It was the strongest and most core profound art of the Eternal Night Kingdom of God. As one progressed, it could condense seven profound seals: Delusion-Breaking, Calamity-Crossing, Dust-Washing, Heart-Cleansing, Soul-Silencing, Light-Reversing, and, only after attaining Divine Regent, the Shenwu Pure-World Seal!
- 
-“Shenwu Qing, even to her death, never had the qualification to cultivate the God-Cleansing Seal. Shenwu Yi has only had twenty years, and she actually…” He hissed through his teeth.
- 
-At this point, Meng Jianxi drew in a cold breath. “But compared to that Exquisite Profound Realm, and this bizarre ice, this instead doesn’t even seem that shocking. I just wonder—how many levels of the art has she cultivated already?”
- 
-“Wait!! Why is her God-Cleansing Seal… colorless!?”
- 
-The profound seal Shenwu Qing carved had originally been red, yet as icy light now flickered over this seal, the red gradually faded. When it fully took form, it was flowing with a crystal-clear ice radiance, so pure it did not contain the slightest trace of other color.
- 
-The Heartless Sword swept, and the glazed glass profound seal flew down toward Dian Jiuzhi… Most people recognized it at a glance as the first God-Cleansing Seal—the Delusion-Breaking Seal. Yet it was also vastly different from what they knew. That colorless ice-light actually completely concealed the powerful Shenwu power that should have been present.
- 
-The ice-crystal profound seal exuded the aura of level six of the Divine Extinction Realm. To Dian Jiuzhi, it posed no threat at all. But after the “lesson” he had just received, he neither dodged nor evaded. He outright ignored it. He split his Great Rage power—two parts to guard his body, eight parts to attack. The instant his arm lifted, the silver radiance transformed into a thousand-foot-long whip, which, the moment it swept out, could raise ten-thousand-zhang (roughly 33.3 kilometers) storms.
- 
-That storm of destruction would sweep across the entire battlefield without remainder. He was very eager to know: this time, how could Shenwu Yi possibly avoid it?
- 
-The ice-crystal profound seal was exceedingly fast. When it neared, it was only slightly slowed by Dian Jiuzhi’s aura field before slamming down heavily onto the body of Dian Jiuzhi, who had completely ignored it.
- 
-Dian Jiuzhi’s protective power flared—but in the very instant it lit up, it suddenly dimmed by more than half.
- 
-Boom!
- 
-The ice seal shattered. Dian Jiuzhi’s movements abruptly froze, his face changing drastically.
- 
-A bone-piercing cold exploded in the right of chest, then invaded inward, as if billions of needles of extreme cold were stabbing into his flesh and meridians, causing his right arm to go numb in an instant. Nearly half the profound power surging there was sealed solid.
- 
-The whip of silver light never swung out. Dian Jiuzhi slowly lowered his head, blankly staring at his right-side chest… The protective profound light there was still faintly shining; it had not been broken at all.
- 
-In that instant of stupefaction, cold aura struck again from above. The second God-Cleansing Seal—the Calamity-Crossing Seal—descended toward his head, carrying a might and ice-light doubled from before.
- 
-“When the Heavenly Way draws near, it will wish to protect her; profound power that draws near cannot bear to harm her; sin that draws near is flooded with shame…” Li Suo’s earlier words echoed within Yun Che’s soul sea. And at this moment, he was watching with his own eyes as, under Glazed Glass Ice, both destructive and defensive profound power displayed an incomparably strange “docility.”
+The Chief Priest eventually shifted his gaze away and looked at the Abyssal Monarch. He asked him via sound transmission, “Monarch, it is colorless and flawless, pure and clean to the extreme. It can only be the Glazed Glass Ice.”
+
+“However, the Glazed Glass Ice disappeared a long time ago. It can never reappear. Could I be wrong?” The Chief Priest was questioning himself, a man whose knowledge and experience were unfathomable.
+
+The Abyssal Monarch replied, “This woman possesses the Nine Profound Exquisite Body and the Heart of Snow Glazed Glass. Her Nine Profound has matured, and her Glazed Glass has bloomed. That is how her Exquisite Profound Worlds and Glazed Glass Ice came to be.”
+
+The Chief Priest fell silent for a long time before asking, “But... how?”
+
+“I do not know. There is no need to know.” The oddities regarding Shenwu Yi were world-shattering to put it mildly, and yet the Abyssal Monarch’s reply was overflowing with inexplicable indifference. Still, the Chief Priest did not ask further.
+
+A causeless person... The thought surfaced in the Abyssal Monarch’s mind before he carelessly wiped it away and returned to indifference.
+
+More and more people noticed the strange, icy light shining around Shenwu Yi. As the light kept refracting, they eventually realized that it was a protective barrier of some sort. It gave off a faint trace of ice, but the icy light it exuded looked like nothing they had ever seen. Instead, it was transparent to the point of being colorless and invisible.
+
+Meng Jianxi looked completely confused. “None of the profound arts practiced by the Eternal Night Kingdom of God involves ice, and... the profound light emitted by an icy aura is varying degrees of blue, right? Why is this ice completely transparent?”
+
+Meng Kongchan did not answer because he had never seen such an icy aura himself. He especially did not understand how such a weak ice barrier was able to block Dian Jiuzhi’s power of Great Rage.
+
+Yun Che looked up into the sky with a deep frown on his face. Ice... is it the Ice Phoenix God Investiture Canon she used to practice?
+
+No, that’s completely wrong. Besides, why is it colorless?
+
+Natural ice was colorless, but the ice energy created from profound energy emitted a blue light. This was common knowledge.
+
+As the greatest master of ice profound energy of the universe, Yun Che knew this better than anyone. The ice blue color that everyone knew about in the profound way was the natural effect of ice profound energy. That was why there had never been any record of a colorless profound ice.
+
+“Pale Flame... Glazed Glass Ice...”
+
+Suddenly, a whisper appeared in Yun Che’s soul sea.
+
+Yun Che withdrew his thoughts and asked, “What did you say?”
+
+Li Suo took her time to tidy the memory fragments that were triggered before answering very, very slowly, “When the Ancestral God created the universe, she left behind Three Tribulations and Three Boons.”
+
+“One of the Three Tribulations is the fiercest fire, the Pale Flame, and one of the Three Boons is the cleanest water, the Glazed Glass Ice.”
+
+Three Tribulations and Three Boons? It was something Yun Che had never heard, and a concept that no longer existed in any known record. It was because their existences dated back to a time when the god race and the devil race weren’t fully formed yet.
+
+“The Pale Flame, the fiercest fire in the universe, could burn through space and scorch a god’s body until it broke. Pale white in color, anyone who touches it would turn to ash. Ni Xuan ultimately extinguished this tribulation, and an indestructible origin seed was left behind.”
+
+“At first, Ni Xuan tried to master the power. However, his efforts ended in failure. So, he had no choice but to break it down into three fragments using the most extreme power of the Creation God of Elements. He later gifted these three fragments to the three Beast races, and they are the Vermillion Bird, the Phoenix, and the Golden Crow.”
+
+The revelation struck a chord with Yun Che. The Vermillion Bird, the Phoenix, and the Golden Crow. They were the names of the famous Three Supreme Fire Attribute Beasts of the Era of Gods. No wonder the three Beast races respected Ni Xuan so much.
+
+“During the karmic balancing at the very beginning of the universe, the cleanest Boon that stands opposed to the fiercest Tribulation is the Glazed Glass Ice.”
+
+“The Glazed Glass Ice is absolutely clean, pure, colorless, and flawless. It is the Ancestral God’s gift to the universe when she first created it. It could illuminate and purify all filthy and tainted objects in the universe.”
+
+“The source of the Glazed Glass Ice is the Glazed Glass Divine Aura that roams the universe. It can bless a newborn girl with the Heart of Snow Glazed Glass. When the heart has reached full maturity, it will form the Glazed Glass Ice.”
+
+A woman of Glazed Glass could perceive good or evil with their heart, and discern truth and falsehoods with their eyes. Their body, soul, and aura are all flawless and pure. If she is near the heavenly law, it would grant her its protection. If she is near profound energy, it could not bear to harm her. If she is near sin, sin would naturally feel guilty and ashamed...”
+
+“However...”
+
+Li Suo’s tone changed into one of regret. “This particular Boon had permanently disappeared before the fiercest Tribulation.”
+
+“Why’s that?”
+
+Li Suo explained, “The gods created life, and life filled countless worlds. However, this also gave rise to endless malice, greed, desire, and slaughter. It all turned into countless layers of dirty dust that enveloped heaven and earth.”
+
+“The filth and dust that even the Ancestral God failed to predict contaminated the universe’s aura layer by layer. Over time, more and more of the Glazed Glass Divine Aura was eroded and destroyed until only wisps of it remained. Today, they could only be found deep within the primordial energy where all things began.”
+
+“The universe could not return to what it was before once the contamination passed a certain threshold. Although women with the Heart of Snow Glazed Glass still appeared every once in a while thanks to the divine aura’s blessing, they could no longer form the Glazed Glass Ice and become true women of Glazed Glass. As they grew up in a contaminated universe, they would lose even their Heart of Snow Glazed Glass and revert to mundane women.”
+
+Yun Che patiently and quietly listened to Li Suo’s explanation until the end. It was only now he asked, “So... you’re saying that the colorless ice she’s using is the Glazed Glass Ice?”
+
+Li Suo answered, “Its color, shape, and aura all match what I know... but there is a huge discrepancy.”
+
+“The ice may be Glazed Glass Ice, but her aura does not belong to that of a woman of Glazed Glass at all.”
+
+Naturally, Yun Che could not fully understand her words.
+
+He asked urgently, “She does possess the one and only Heart of Snow Glazed Glass in the entire world, but didn’t you say that the Glazed Glass Ice cannot reappear anymore??”
+
+“Besides, the world back then cannot possibly be more filthy and tainted than the Abyss.”
+
+Li Suo fell silent for a moment. She was searching for the blurry memory fragments she had recently awakened. To Yun Che’s surprise, she was able to give him a somewhat clear answer, “There is one possibility.”
+
+“She has the Ancestral God’s sacred aura on her... and she is a causeless person.”
+
+Yun Che: “What do you mean by... causeless?”
+
+Li Suo replied, “She did not come to be naturally. Excluding the four Creation Gods and four Devil Emperors, she is the ninth living being to be created by the Ancestral God herself. The Creation Gods and the Devil Emperors were all created for a reason, and she is no exception.”
+
+Yun Che’s heartstrings shook uncontrollably for a few breaths.
+
+“The God Realm and the Abyss were two isolated universes. When she fell into the Abyss, the karmic bond between you two was completely severed. Combined with the fact that she lost her memories, her existence... no longer as a cause.”
+
+“As a result, she became a pure ‘causeless person’ who should not exist in the universe’s concept or laws.”
+
+“Perhaps this purity that transcends even concepts and laws is why her Heart of Snow Glazed Glass is able to bloom and form the Glazed Glass Ice.”
+
+This was her guess. This was also the only possibility she could think of after searching through everything she knew as a Creation God.
+
+Cries of surprise and puzzlement rang out here and there, but no one could say the name “Glazed Glass Ice”. It was because this concept did not exist among the Six Kingdoms of Gods.
+
+Looking up at the black, fairy-like figure, Dian Jiuzhi once again felt an inexplicable sense of shame and self-abasement. The emotions were rapidly flooding over his mind like tidal water, so he had no choice but to look away, push away the stray thoughts, and resummon the silver radiance that had just waned.
+
+This time, he created a giant silver bow and drew it. It looked like a full moon at full draw. When he released the bowstring, silver arrows filled the sky and enveloped the entire battlefield like a hanging river, covering every inch of blind spot.
+
+Shenwu Yi did not move from her position. She simply swung the Heartless Sword like a cloud brushing against the sleeve.
+
+This time, everyone saw as clear as day that a layer of colorless ice had encompassed her blade. Its crystalline light was pure, cold, and sharp.
+
+Just when everyone thought that Shenwu Yi would evade at full force using her Exquisite Profound Worlds, she swung her ice-encased sword at the sea of silver light arrows shooting toward her.
+
+Ding!! The icy crystal made contact with the first light arrow, but instead of the devastating explosion of the Divine Vein of Great Rage, it clinked like jadeites smacking into one another. When the icy light flashed, the exceedingly volatile arrow aimed at her heart actually shifted off course and flew past her torso. It wasn’t until it struck the barrier at the edge of the battlefield that it finally unleashed its destructive light and power.
+
+Dian Rahu’s eyes were as wide as bells at this point. He cared little about controlling his expression in the first place, and right now every inch of his face was arranged into a look of utter shock.
+
+He was the bearer of the greatest Boundless Divine Power in the world, and he had practiced the Boundless Manifestation Art for over twenty thousand years. However, he never knew that the power could be so... tame?!
+
+The second arrow followed right after the first and clashed against the ice-encased blade once more. Just like before, the contact only elicited a soft clink, and the light arrow was parried just like that.
+
+The third, fourth... tenth... hundredth... thousandth arrow came, and still Shenwu Yi parried them all.
+
+Clink clink clink clink clink clink...
+
+Her form was divine, and her sword dance was exquisite. The mixture of silver and icy lights looked like a phantasmal cloud that naturally surrounded her person. It was such that the stunned gazes of the crowd gradually transformed into dreamlike infatuation.
+
+BOOM BOOM BOOM BOOM BOOM—
+
+In the end, the last light arrow too struck the barrier and unleashed a devastating silver explosion that scorched the sky. It clearly illuminated Shenwu Yi’s spotless clothes and unblemished face.
+
+Throughout the attack, Dian Jiuzhi’s arms remained exactly where they were. He did not move even after the silver light had faded entirely.
+
+Everything that had happened today was too illusory and ludicrous. Again and again, shock had overwhelmed him, and his common sense was crushed to smithereens. At this point, his shock and confusion could no longer be quelled by mere reason.
+
+“What... demonic art... is this?” A Boundless elder murmured unconsciously.
+
+This was a man of unimaginable power and influence, and yet he had said something utterly ridiculous. That was just how shocked he was.
+
+Shenwu Yi did not give Dian Jiuzhi any time to recover his senses. After she was done parrying the attack, she drew what looked like a profound seal with her sword. It was only about one-third of a meter long, but it gave off an intimidating aura as it rapidly took form.
+
+“The Purify God Seal!” Meng Jianxi let out a low cry.
+
+Yun Che was well aware of the Purify God Seal. It was the Eternal Night Kingdom of God’s strongest and most critical profound art. The profound practitioner would be able to create seven great profound seals in total as they progressed through the profound art. They were Break the Delusion, Overcome the Misfortune, Remove the Dust, Cleanse the Heart, Still the Soul, Trace the Light, and finally, the seal that only a Divine Regent could manifest, the Shenwu World Purifying Seal!
+
+“Shenwu Qing never earned the qualification to cultivate the Purify God Seal until she died, and Shenwu Yi did it in just twenty years? Sss!”
+
+Meng Jianxi sucked in a cold breath before continuing, “Then again, compared to the Exquisite Profound World and the strange ice, this much is nothing. I wonder which level she’s at though?”
+
+“Wait a second!! Why is her Purify God Seal... colorless!?”
+
+The profound seal Shenwu Yi was carving was crimson at first, but the color gradually faded away as the icy light flickered. When the seal was fully formed, it looked pure, limpid, and perfectly transparent.
+
+The Heartless Sword swung, and the transparent profound seal descended toward Dian Jiuzhi. Most people recognized it as the first seal, Break The Delusion. However, it was also massively different from the one they knew. It was because the colorless, icy light had completely overwritten Shenwu's powerful energy.
+
+The icy profound crystal emitted the presence of a sixth-level Divine Extinction Realm. Normally, it was of no threat to Dian Jiuzhi. However, after all the “lessons” he had received, Dian Jiuzhi decided to take the attack seriously. He split his power of Great Rage into two. One-fifth of his power was used for defense, while four-fifths was used for offense.
+
+The moment he lifted his arm, his silver light transformed into a massive, three-hundred-meter-long whip. The moment he swung it, it would whip up a titanic storm that engulfed dozens of kilometers at once. In other words, the storm of destruction would envelop the entire battlefield. He really wanted to know how Shenwu Yi would dodge this one.
+
+The icy profound seal moved really, really fast. Dian Jiuzhi’s forcefield slowed it down a little, but that was all it did before it struck him directly.
+
+Dian Jiuzhi trusted his defenses to hold as he prepared to unleash his own attack. However, his protective profound energy had just burst into life when it suddenly dimmed without warning.
+
+The icy seal exploded, and Dian Jiuzhi’s movement stiffened. His complexion had changed dramatically as well.
+
+He felt a piercing cold exploding across his right chest before invading his body. He felt as if billions of icy needles had stabbed into his flesh, blood, and veins. It instantly numbed his right arm and froze nearly half of his surging profound energy.
+
+Dian Jiuzhi did not swing the long whip he conjured. Instead, he slowly looked down at his right chest with a stupefied expression.
+
+His protective, profound energy was still shimmering on his torso. It hadn’t crumbled at all.
+
+During that brief instant of shock, cold air hit him from above. Then, the second seal—Overcome the Misfortune—crashed against his head with twice as much power and light as before.
+
+“If she is near the heavenly law, it would grant her its protection. If she is near profound energy, it could not bear to harm her. If she is near sin, sin would naturally feel guilty and ashamed...”
+
+Li Suo’s words reverberated inside Yun Che’s soul sea. He was watching it right now. Be it destructive or defensive, profound energy, the Glazed Glass Ice had “tamed” them all.

@@ -1,293 +1,207 @@
 ---
 chapterNumber: 2147
-title: "Collapse of Heart and Soul"
-publishedAt: "2025-11-22"
+title: "Heart Collapsed, Soul Crushed"
+publishedAt: "2025-12-09"
 ---
 
-As Dian Sansi’s initial shock faded, the flames of fury in his eyes actually dimmed slightly. The corners of his mouth even twitched, pulling into a warped, twisted smile.
- 
-Absurd. Far too absurd.
- 
-The Yun Che before him actually intended to face him—a Half-God in peak condition—with the cultivation of a mere fourth-level Divine Master. In his entire life, he had never heard such a preposterous joke.
- 
-A thread of suspicion crept into his heart... Could it be that Yun Che’s earlier behavior wasn't calculated provocation or malice, but that his brain simply wasn't working?
- 
-His lips moved slightly. Mimicking Yun Che’s earlier manner, he shaped his mouth to silently spit out four words:
- 
-*Id... iot... court... ing... death.*
- 
-Unfortunately, he possessed neither Yun Che’s sharpness nor his scheming depth. He thought he was being subtle, but given the caliber of the figures present, at least thirty percent saw it clearly.
- 
-In a battlefield exchange—and on the sacred Eden’s Crown no less—for the second strongest of the Boundless Kingdom’s younger generation to sneak in such unprovoked, petty insults was undoubtedly low-class. It made people look down on him.
- 
-Quite a few gazes directed towards turned strange. Dian Luohou’s brows furrowed deeply.
- 
-“This bastard!” Dian Luohou could not hold it in; he cursed in a low voice, hating iron for failing to become steel. “No matter how intense your anger, you absolutely do not vent it on others. Once this fight is over, I’ll have to drag him over to apologize.”
- 
-“...” Dian Jiuzhi maintained a surface calm and nodded in agreement.
- 
-Just then, Dian Sansi made a move that caused everyone to stare.
- 
-He placed his right hand behind his back, slowly raised his left hand, and held it horizontally in front of him.
- 
-It was the exact posture of the ten-breath “concession” Dian Jiuzhi had made when fighting Shenwu Yi.
- 
-The difference was that he took it to a greater extreme than Dian Jiuzhi. On that raised left hand, only a single little finger was slowly extended open.
- 
-Although Dian Jiuzhi had ultimately lost to Shenwu Yi, his ten breaths of pure defense were displayed when he knew he held the absolute advantage; it was a gentlemanly bearing without flaw.
- 
-But Dian Sansi mimicking it now only drew deep frowns.
- 
-That single extended little finger was nothing short of naked contempt.
- 
-Veins bulged on Dian Luohou’s forehead. “This bastard! Did a donkey kick his head today!? This is simply... a clumsy, ugly display!”
- 
-He was furious, wishing he could rush onto the battlefield, grab his son by the collar, and slap him senseless.
- 
-“Divine Regent, please quell your anger.” A Boundless Elder offered comfort. “Sansi’s character is absolutely not like this. It is just that... with Jiuzhi’s defeat, he is the most distressed. He is young, after all, and prone to losing emotional control. It is somewhat excusable; just discipline him strictly upon return.”
- 
-Dian Sansi believed himself calm, but in truth, he was half-out of control. When rationality is drowned by surging negativity that must be forcibly suppressed, doing anything contrary to one's nature is not surprising.
- 
-He stared at Yun Che, his voice still fairly cool. “My Boundless Kingdom disdains bullying the weak. I will grant you ten breaths. I will only defend, not attack!”
- 
-Yun Che smiled. “Brother Sansi’s generosity, I appreciate deeply. Since that is the case, I naturally prefer compliance to deference.”
- 
-The moment the words fell, he leapt into the air, charging straight at Dian Sansi. His profound energy surged violently, and he threw a plain, mediocre punch.
- 
-The aura of a fourth-level Divine Master. No tricks, no flukes. It greatly disappointed those secretly hoping for an “accident,” leaving them with no illusions.
- 
-How could the power of a mere Divine Master pose even a shred of threat to Dian Sansi? He stared straight at Yun Che’s approach, the contempt and disdain on his face unconcealed.
- 
-That raised little finger curled down halfway; only then did it leisurely move to meet Yun Che’s seemingly full-powered right punch.
- 
-The profound energy flowing over his body did not even amount to ten percent.
- 
-But the instant finger and fist touched, Dian Sansi caught a trace of mockery in Yun Che’s eyes.
- 
-**Rumbling Heaven!**
- 
-In that single instant, Yun Che’s aura exploded with a magnitude that no one had anticipated, nor could even imagine. The surging blast waves instantly displaced the air within the entire battlefield barrier, whipping up sky-filling ripples of sonic force.
- 
-Dian Sansi’s pupils dilated tenfold. Within them, he saw his own little finger snap at a horrifying angle.
- 
-That fist, carrying colossal force, did not lose a shred of momentum after shattering the finger; it smashed straight into his chest. Half the fist sank deep into his flesh.
- 
-BOOM!!
- 
-A profound energy detonation far exceeding expectations rang out, accompanied by Dian Sansi’s instinctive, throat-tearing scream.
- 
-His body flipped and flew backward, soaring a full hundred meters before he finally regained his senses. He hastily released his profound energy and crashed heavily to the ground.
- 
-He clutched his violently trembling left hand; the broken little finger dangled limply, while his face displayed bewildered panic... and a terrifying hideousness.
- 
-A deathly silence filled the surroundings, followed abruptly by an eruption of noise.
- 
-One by one, powerhouses who looked down upon the Abyss gaped, mouths open and eyes bulging; the extreme shock distorted their features.
- 
-The Boundless Divine Regent’s eyes widened into saucers; the Star Moon Divine Regent’s gaze remained frozen; the Pray Eternal Divine Regent leaned forward; even the Dreamless Divine Regent’s eyes twitched violently.
- 
-“This... this... this...” Meng Jianxi had prepared himself mentally, yet he still stammered in speechlessness.
- 
-Behind the Chief High Priest, Divine Attendant Dong Juang could not dispel the astonishment in his heart. “Master, his cultivation... is it concealed?”
- 
-The Chief High Priest spoke in a heavy voice, “Even the most brilliant concealment cannot escape my eyes. He is indeed at the fourth level of the Divine Master Realm. But in that instant just now... he unleashed a might comparable to the first level of the Divine Extinction Realm.”
- 
-This scene completely shattered his cognition, even as the Chief High Priest.
- 
-Divine Attendant Dong Huang opened his mouth but found himself speechless.
- 
-The Chief High Priest seemed to mutter to himself, “I just do not know if that was only a momentary burst of strength, or perhaps...”
- 
-His gaze locked onto Yun Che. Even during the Battle of the Divine Sons, his focus had never been this sharp.
- 
-Gasps filled the air, but Dian Sansi presented nothing but wretchedness—in both expression and physique.
- 
-“You...” Shock, fury, and humiliation overlapped chaotically within him. Responding to him was Yun Che’s figure, surging close once more.
- 
-This time, how would Dian Sansi dare to be arrogant? The **Boundless Myriad Manifestations Art** circulated at extreme speed, coating his body in a layer of heavy silver radiance... directly releasing fifty percent of his profound strength.
- 
-Three breaths ago, he never would have dreamed he would need half his strength to deal with a fourth-level Divine Master.
- 
-*Bang!*
- 
-With a dull thud, Yun Che’s fist smashed onto Dian Sansi’s chest once again. But this time, the tyrannical Boundless force completely resisted the power, refusing to let him be forced back even half a step.
- 
-However, this stalemate lasted only for a single instant before Dian Sansi once again saw a deeper mockery in Yun Che’s eyes.
- 
-**Hell Monarch!**
- 
-BOOM!
- 
-Like a slumbering volcano suddenly awakening and erupting in his chest, the silver radiance flowing on Dian Sansi’s body collapsed. His chest caved in even more dramatically than before, and the sound of shattering ribs cracked as loud as a collapsing mountain.
- 
-“Wh... What!?” Countless composed powerhouses lost their voices on the spot.
- 
-Some young profound practitioners nearly smashed their chins on the ground.
- 
-Amidst the sickening sound of crushing bones, Dian Sansi—who had clearly released fifty percent of his power—was blasted away again. Yun Che’s figure followed like a shadow, relentless.
- 
-Dian Sansi did not wait to stabilize his body mid-flight. With a violent, venting roar, the scattered silver radiance suddenly blazed around him, carrying an endless, manic pressure. This time, the **Boundless Myriad Manifestations Art** operated at full force without reservation.
- 
-The alarming shockwaves and spiritual pressure visibly slowed Yun Che’s momentum. At this moment, Dian Sansi had already flipped upright in mid-air. Silver radiance transformed into a blade in his hand, stabbing straight toward Yun Che’s heart.
- 
-“Brother Yuan!” Meng Jianxi cried out in alarm; the entire Dreamweaver faction erupted in panic, faces pale with horror.
- 
-Dian Sansi, who had proudly declared a ten-breath concession, had suddenly counterattacked... and in a state of full, explosive power.
- 
-Even if Yun Che’s explosive force transcended the Divine Master Realm, his body was still that of a Divine Master. How could he endure the full-force strike of a Half-God?
- 
-*Riiip!*
- 
-The light blade carved continuous spatial ripples, but it only tore apart Yun Che’s afterimage. However, Dian Sansi’s momentum did not stagnate; the silver radiance instantly transformed into a blade three thousand meters long, slashing horizontally with no mercy.
- 
-Cries of alarm overlapped with the terrifying sound of rending. A massive silver scar, three kilometers long, was gouged into the battlefield. Yun Che, however, trod the steps of **Moon Splitting Cascade**; with several consecutive ghost-like flickers, he appeared at the other end of the battlefield, completely unscathed.
- 
-“Phew...” Only then did Meng Jianxi let out a long breath, followed by a gnashing of his teeth. “Dian Sansi has gone crazy!”
- 
-“Hah!” Dian Luohou exhaled sharply and roared, “Bastard! Have you gone mad!?”
- 
-The violent roar was like a bucket of ice water dumped over Dian Sansi’s head, shocking him partially awake. He froze.
- 
-If he had been careless just now and killed Yun Che in public, the consequences...
- 
-The thought turned his blood to ice.
- 
-But how could Yun Che let him regain his cool?
- 
-The smile on Yun Che’s face, previously quite genial, had turned into a cold sneer—three parts ice, seven parts mockery. “I have often heard that Boundless practitioners value honor and promises above all, their words carrying an enormous weight. Brother Sansi swore just now to concede ten breaths, purely defending. Not even three breaths have passed, yet you shattered your promise... and even launched a sneak attack! Heh, Brother Sansi’s integrity is truly eye-opening!”
- 
-No one found Yun Che’s change of face strange, nor would anyone criticize his merciless shouting.
- 
-Dian Sansi’s various faces were on display; he had volunteered the ten-breath concession himself. That near-manic, vicious counterattack was seen clearly by everyone. Even a saint would explode in fury on the spot.
- 
-“This bastard thing!” Veins crawled across Dian Luohou’s forehead. He was not angry at Yun Che, but at Dian Sansi... In his shame, he could not even meet the Dreamless Divine Regent’s gaze.
- 
-Dian Sansi turned his head, meeting a field full of disdain.
- 
-The emotions that had just cooled by thirty percent were instantly swallowed by humiliation ten times greater.
- 
-His breathing became rough, his chest heaving as if about to explode.
- 
-*Clearly, everything is Yun Che’s fault... clearly, Yun Che’s face and words in private were so ugly and venomous...*
- 
-*Why is it I who bears such gazes? Why have I become the villain looked down upon!*
- 
-*Why is such a despicable person the Dreamweaver Divine Son? How could he make the Heaven Breaker Divine Daughter abandon Brother Jiuzhi? How can he explode with such impossible power at the Divine Master Realm...*
- 
-*Why... On what basis...*
- 
-Meeting his chaotic gaze, Yun Che slowly raised his hand, his voice cold and hard. “Brother Sansi could have gone all out from the start. Since I, Yun Che, dare to fight, then victory or defeat... even life and death, depend entirely on my own fate. But acting like this... Brother Sansi is simply too low-class. It is contemptible.”
- 
-“Heh... Hehehe.” Dian Sansi began to laugh, a sound strange even to his own ears. “Good... very good. All out, entirely on one’s own fate. This is what... *you* said yourself!”
- 
-The instant his voice fell, the five fingers of his right hand clawed the void. Five silver light arrows shrieked through the air, shooting straight at Yun Che.
- 
-At the same time, the silver radiance on his body gathered toward his right arm, blossoming into a sphere of profound silver light.
- 
-The five arrows of light arrived in a sequence of different speeds. Yun Che swayed slightly, leaving behind five afterimages that evaded every arrow... But the instant the last afterimage dissipated, Dian Sansi pounced, carrying pressure as heavy as a collapsing mountain.
- 
-“Boundless Myriad Manifestations... **Great Rage Swallows the Stars**!”
- 
-The tyrannical Boundless power condensed in his right arm, blasting straight toward Yun Che’s heart. Clearly, he intended to pay back a hundredfold the two punches Yun Che had landed earlier.
- 
-The might Dian Sansi released seemed to pin Yun Che in place. He did not attempt to retreat; instead, he swung his right hand. Golden flames exploded in his palm, meeting the attack head-on.
- 
-RUMBLE!!
- 
-Like a thousand thunderclaps detonating on Eden’s Crown, the Boundless power and the golden flames exploded simultaneously. Dense silver radiance and blazing fire submerged both figures.
- 
-Everyone’s pupils were filled by silver and gold. Eyes already wide expanded further, on the verge of bursting from horror.
- 
-This was Dian Sansi’s full strength, without a shred of reservation. Yet it was completely withstood from the front by Yun Che... with the power and body of a fourth-level Divine Master... without retreating half a step!
- 
-The impact of this image was beyond the description of any language.
- 
-Shenwu Yi defeating Dian Jiuzhi across two minor realms had shocked the Divine Regents. But at this moment, they were enduring a total collapse of their understanding of reality.
- 
-*Gulp!*
- 
-Sha Xing and Xian Yue swallowed violently at the same time.
- 
-Dian Jiuzhi stood dazed. He had witnessed Yun Che’s action personally and estimated his limits. Yet at this moment, he was shocked beyond words.
- 
-“This... this can’t be real, right?” Pan Buzhuo murmured, his soul lost.
- 
-In Shenwu Yi’s moon-like eyes, there was only golden fire, no silver radiance.
- 
-Her gaze fell into that strange haziness again... taking a full breath before returning to clarity.
- 
-The Chief High Priest whispered, “Golden Crow Flame...”
- 
-Within the silver radiance and golden flames, Dian Sansi and Yun Che’s fists were locked, their gazes inches apart.
- 
-One face was hideous, veins bulging; the other smiled faintly, composed and idle.
- 
-Dian Sansi’s pupils were covered in terrifying bloodshot lines. His arm trembled, Boundless Divine Power surging madly, yet he could not force Yun Che back by a single inch.
- 
-Then, Yun Che’s pupils flickered with a strange silver brilliance.
- 
-This ripple of soul power was easily captured by the powerhouses. They instantly recognized it as the core art of the Dreamweaver Kingdom, the first realm of the “Dreamweaver Divine Canon”—**Splendid Dream of Youth**.
- 
-As the Dreamweaver Divine Son, using the Dreamweaver Divine Canon during battle was perfectly normal.
- 
-But this first-realm soul skill was weak. It was difficult to suppress a practitioner of the same realm, let alone a mere Divine Master soul trying to suppress a Half-God.
- 
-Unless... his soul, like his impossible strength and body, could also release might comparable to the Divine Extinction Realm?
- 
-Under normal circumstances, Dian Sansi would have guarded against the Dreamweaver Divine Canon immediately.
- 
-But right now, he could barely control himself; how could he mount a defense?
- 
-The “Splendid Dream of Youth” entered his soul sea like a spark dropped silently into a cauldron of boiling oil.
- 
-Under the cover of the Golden Crow flames, Yun Che’s lips moved slightly:
- 
-*Idiot. Go back to being a spineless coward.*
- 
-Dian Sansi’s pupils detonated.
- 
-And the flames on Yun Che’s body erupted.
- 
-**God... Ash!**
- 
-BOOM-HUM!
- 
-The Golden Crow shrieked to the heavens; flames blanketed the sky.
- 
-In an instant, the silver radiance was devoured by fire. A burning figure flew out of the conflagration at extreme speed, trailing a wretched scream that filled the sky.
- 
-“WAAAAAAAHHHHHHH!!”
- 
-The scream was so shrill that the hearts of the young profound practitioners convulsed. The burning figure streaked across thousands of meters of sky in a flash, smashing through the barrier.
- 
-Dian Luohou raised his hand; a stream of profound energy swept his son down from mid-air, slamming him heavily onto the ground. The golden flames were extinguished instantly.
- 
-His movements were rough, his anger heavy. But as the flames vanished, the wretched state of Dian Sansi choked the curses in Dian Luohou’s throat.
- 
-His clothes had turned to ash. His skin was scorched black, half his hair was gone, and his face was unbearably tragic.
- 
-Though not a fatal injury, presenting such an ugly state in public—added to today’s performance—meant his reputation was not just destroyed; it was stained forever.
- 
-“Fa... cough... cough cough...”
- 
-He opened his mouth, but coughed out mouthfuls of black smoke. Ugly and comical; clearly, even his windpipe had been scorched.
- 
-He felt the gazes from the surroundings change from disdain to... a pity a thousand times more terrifying than disdain.
- 
-At this moment, the Chief High Priest’s proclamation rang out:
- 
-“Dian Sansi of the Boundless Kingdom has left the barrier. Meng Jianyuan of the Dreamweaver Kingdom wins.”
- 
-A tide of sound rose. Shouts of shock and gasps of admiration rose and fell, a cruel contrast to his misery.
- 
-The world spun before Dian Sansi’s eyes. He heard the sound of his soul snapping.
- 
-He propped his body up. All his conviction and will turned into a heart-tearing, lung-splitting roar:
- 
-“Abyssal Monarch! Father God! Yun Che, he—”
- 
-“Sansi!” Dian Jiuzhi paled in shock, pouncing to clamp a hand over his mouth.
- 
-But Dian Sansi, who usually obeyed Dian Jiuzhi, exploded with shocking strength. He violently threw off the hand and continued to roar, his voice hoarse as a despairing ghost:
- 
-“Yun Che and Heaven Breaker Divine Daughter Hua Caili are illicitly entangled! I saw it with my own eyes! With my own eyes!!”
+When Dian Sansi’s initial astonishment faded, the flames of anger burning in his eyes actually extinguished a little. The corners of his mouth even curled into a somewhat twisted smile.
+
+Ridiculous. How ridiculous! Yun Che, a fourth-level Divine Master, was actually planning to fight him at his full strength? He had never heard of such a ridiculous joke in his life! For a second, he even wondered if Yun Che had done what he had done not out of malice or the intention to taunt him, but because he was simply crazy.
+
+The corners of his mouth tugged, and he did what Yun Che had done earlier. He spoke wordlessly with just his lips: Suicidal... idiot.
+
+Unfortunately, he did not possess Yun Che’s level of shrewdness and craftiness. He thought he had concealed his movements sufficiently, but who did he think the people gathered in Eden’s Crown were? At least one-third of the crowd had noticed his odd lip movement and correctly deciphered his hidden message.
+
+This was a duel taking place in an arena of the sacred Eden’s Crown, and the number two junior of the Boundless Kingdom of God had taunted his opponent seemingly without reason. Such a despicable action naturally earned the disdain of those who saw it.
+
+It wasn’t just the people’s gazes that turned strange. Dian Rahu was furrowing his brow deeply as well.
+
+“This little shit!”
+
+Dian Rahu was not the type to suppress his reactions, so he cursed in disappointment and anger, “No matter how angry he is, he should not take it out on another person. Now I have to get him to apologize to Yun Che after this fight is over!”
+
+“...” Dian Jiuzhi maintained his facade of calmness and nodded in agreement.
+
+It was at this moment that Dian Sansi did something unbelievable. He rested his left hand behind his back and lifted his right hand in front of him. It was the same gesture of “humility” Dian Jiuzhi had displayed when fighting against Shenwu Yi. But unlike Dian Jiuzhi, his gesture was even more extreme. Only his little finger was raised. The rest of his fingers were curled up into a ball.
+
+Although Dian Jiuzhi ultimately lost to Shenwu Yi, he had given Shenwu Yi ten breaths to attack freely because he thought he held all the advantage. It did not damage his gentlemanly reputation in any way. However, Dian Sansi was anything but a gentleman, so for him to pull off such a gesture only elicited deep frowns on everyone’s face.
+
+As if his meaning couldn’t be clearer, the little finger he raised was practically screaming of naked disdain.
+
+Dian Rahu’s forehead was covered in bulging veins at this point. “What is this brat thinking?! Did a donkey kick his head earlier? Such... clumsy ugliness!”
+
+He was actually angry at this point. He could not wait to wring the guy out of the battlefield and give him a few big slaps to the face.
+
+“Please calm down, Your Majesty,” A Boundless elder advised. “It is not in Sansi’s nature to act like this. The reason he’s acting out... is probably because Jiuzhi’s defeat is too harsh a blow for him. He's still young. Understandably, he would sometimes lose himself to his emotions. We simply need to educate him better when he returns.”
+
+In fact, his judgment was spot on. Dian Sansi thought he was fairly calm. In reality, he was half out of control. When a tsunami of negative emotions attacked someone’s reason, but they could only bottle it all up without being able to vent it in any way, any strange behavior they demonstrated during this time was entirely normal.
+
+Staring at Yun Che, he said in a relatively indifferent voice, “Boundless does not bully the weak. I’ll give you ten breaths to attack as you wish. I will only defend during this time.”
+
+Yun Che smiled. “This one is most grateful for your generosity, Brother Sansi. I will happily accept your offer.”
+
+Yun Che leaped into the air and charged Dian Sansi as soon as he finished speaking. His profound energy surged violently as he threw a perfectly ordinary punch at Dian Sansi.
+
+His profound energy marked him as a fourth-level Divine Master, and there was nothing special about it whatsoever. Everyone expecting some sort of “pleasant surprise” to occur was immediately let down by this display.
+
+The power of a Divine Master was of no threat to Dian Sansi as a matter of course. Staring at the approaching Yun Che with undisguised scorn and disdain, he curled his little finger slightly before slowly, very slowly meeting Yun Che’s seemingly full-powered punch at the center. Such was his contempt that he was cycling less than ten percent of his profound energy.
+
+Their eyes met the instant finger clashed against fist. It was at this moment that Dian Sansi caught a flicker of ridicule in Yun Che’s eyes.
+
+Rumbling Heaven!
+
+At that moment, Yun Che’s aura ballooned at an unexpected, unimaginable rate. The resulting shockwave was so violent that every speck of air on the battlefield was pushed out of the barrier in an instant, and invisible ripples filled the sky. Dian Sansi’s pupils dilated tenfold as he watched his little finger breaking at a terrifying angle. Unfortunately for him, this was just the beginning. Not stopping in the slightest, the fist, carrying great strength, moved past his broken finger and struck him directly in the solar plexus. At least half of Yun Che’s fist had sunk into his chest.
+
+A profound energy explosion far greater than anyone had anticipated broke out, and a bloodcurdling scream escaped Dian Sansi’s throat before he knew it. Rolling backward like a tumbleweed, he flew across the air at least a hundred meters before he finally recovered his senses and unleashed his profound energy. Then, he landed heavily on his feet.
+
+Dian Sansi clutched his violently shaking left hand. His broken little finger was hanging limply, and his face looked utterly dazed... and vicious. The venue was deathly silent for a good few seconds before exploding into an uproar.
+
+Every single person here was an expert who possessed the right to look down on most of the Abyss, and yet they were currently wearing gaping mouths or bulging eyeballs on their faces. Such was their shock that every feature on their faces looked warped or out of place. The Boundless Divine Regent was wide-eyed, the Star and Moon Divine Regents were staring blankly into the battlefield, the Pray Eternal Divine Regent was leaning forward, and even the Dreamless Divine Regent’s eyeballs had twitched once.
+
+“This... this... this...”
+
+Meng Jianxi had plenty of time to mentally prepare. Even so, he was so shocked that he could do nothing but stammer.
+
+Behind the Chief Priest, Divine Attendant Dong Huang could barely conceal his shock. He asked softly, “Master, is he... hiding his cultivation?”
+
+The Chief Priest replied heavily, “No concealment art can hide from my eyes. He is a fourth-level Divine Master, but the power he displayed during that instant rivals that of a first-level Divine Extinction Realm profound practitioner.”
+
+To say that this was utterly beyond his understanding of the profound way would be an understatement. Divine Attendant Dong Huang opened his mouth but could not find the words.
+
+The Chief Priest muttered seemingly to himself, “Is it something he can only use for an instant, or...”
+
+The Chief Priest’s gaze settled heavily on Yun Che. It had never been so solid, even during the most exciting moments of the battle of the Divine Children.
+
+While cries of shock and disbelief filled the air, Dian Sansi felt like utter shit, both in expression and body language.
+
+Dian Sansi blurted out as shock, anger, and humiliation mixed haphazardly inside him. Yun Che’s response was to close the distance once more. This time, Dian Sansi did not dare to underestimate Yun Che. The Boundless Manifestation Art cycled rapidly and was covered in a thick layer of silver radiance. He had also unleashed fifty percent of his profound energy.
+
+Three breaths ago, he could never have imagined that he would need to use fifty percent of his power to withstand the attack of a fourth-level Divine Master.
+
+Bang! There was a dull thud, and Yun Che’s fist struck Dian Sansi’s solar plexus once more. This time, though, his power was entirely blocked by the tyrannical power of Boundless. It had failed to push Dian Sansi back even a single step.
+
+However, this stalemate only lasted an instant before Dian Sansi saw a deeper look of ridicule in Yun Che’s eyes once more.
+
+Hell Monarch!
+
+Yun Che’s fist exploded across Dian Sansi’s chest as if a volcano had suddenly awakened from its slumber. It instantly crushed the silver light circulating Dian Sansi, causing his solar plexus to collapse even deeper than before. The sound of ribs breaking, especially, was as loud as an avalanche.
+
+“Wh... what!?” At that moment, countless experts possessing mental fortitudes rivaling that of mountains blurt out unconsciously, and the jaws of some younger profound practitioners nearly hit the floor with an audible thud.
+
+This time, Yun Che did not wait for Dian Sansi to recover. Like a phantom, he closed the distance a third time and prepared to launch an attack. Sailing through the air, Dian Sansi let out a furious, venting roar before his crumbling silver light reignited and surrounded his whole person in impetuous, infinite power.
+
+This time, he cycled the Boundless Manifestation Art with all his might, and the sudden outburst of shockwave and spiritual pressure visibly slowed down Yun Che. At the same time, Dian Sansi leaped into the air, conjured a blade with his silver light, and thrust it straight at Yun Che’s solar plexus.
+
+“Brother Yuan!”
+
+Meng Jianyuan cried out subconsciously. Everyone in the Dreamweaver formation was crying out in shock as well. Just a short while ago, Dian Sansi had put on airs and declared that he would give Yun Che ten breaths to attack freely. But now, he was suddenly launching a counterattack... and with all his might as well!
+
+Although the power Yun Che unleashed went absolutely beyond the boundaries of a Divine Master... the same thing could not be said for his body. How could he possibly survive a full-powered attack from a Half-God?
+
+Shred! The light blade elicited spatial ripples in the air, but it only ripped Yun Che’s afterimage to shreds. Dian Sansi did not stop his assault, though. His silver light quickly transformed into a three-thousand-meter-long blade, cutting everything in front of him without reservation.
+
+Horrified cries of shock became mixed with even horrifying noises of tearing space and material. The next moment, a three-thousand-meter-long silver scar appeared on the battlefield.
+
+Yun Che executed Moon Splitting Cascade and seemingly teleported multiple times like a phantom. When he finally came to a stop, he was already on the opposite side of the battlefield. He was completely unharmed.
+
+It was only now that Meng Jianxi let out a long, long sigh of relief before uttering through gritted teeth, “Has Dian Sansi gone mad?!”
+
+Dian Rahu also let out a massive sigh of relief before roaring, “Bastard! Have you gone mad?!”
+
+Dian Rahu’s roar hit Dian Sansi like a bucket of cold water and shook him out of his violent outburst. He froze when he realized what he had almost done. If he had actually killed Yun Che just now, then the consequences... The mere thought of the consequences was enough to chill him to his core.
+
+However, Yun Che wasn’t going to let him recover his cool. The warm, friendly smile on his face transformed into a cold sneer that was one-third icy and two-thirds scornful as he remarked, “I was told that the profound practitioners of the Boundless Kingdom of God valued loyalty and oath above all else. You promised to give me ten breaths to attack as I please, and that you will only defend. It hasn’t even been three breaths, and not only did you break your word, you have tried to ambush me! Heh! Your moral integrity is truly an eye-opener, Brother Sansi!”
+
+No one was surprised by Yun Che’s change of attitude, much less thought worse of him for insulting Dian Sansi to his face. After all, even ignoring all the weird behavior he had displayed earlier, the man had promised courtesy only to go against his word and launch an insane and vicious counterattack with all his might. Not even the most self-possessed man could keep his cool in this situation.
+
+“This bastard!”
+
+Dian Rahu’s head was positively covered in bulging veins, but he wasn’t angry with Yun Che. No, it was Dian Sansi he was furious with. He didn’t even dare to meet Meng Kongchan’s stare directly.
+
+Dian Sansi turned his head sideways. He immediately noticed that the entire venue was showering him with scorn and disdain.
+
+The sliver of composure he just regained was instantly engulfed by many times of humiliation. His breathing grew impossibly heavy, and his chest was heaving so violently it looked like it would explode.
+
+This is all Yun Che’s fault... Yun Che’s the one who hides a face that is beyond ugly and vile... So why am I the one who’s enduring these gazes? Why have I become the villain whom everyone reviles?!
+
+How could such a despicable person be the Dreamweaver Divine Son... How did he convince the Heaven Breaker Divine Daughter to abandon even Brother Jiuzhi for him... how could he unleash such power at the Divine Master Realm...
+
+Why is this happening... How is this fair...
+
+Looking straight into his muddled eyes, Yun Che slowly raised his hand and said stiffly, “You can go all out, Brother Sansi. From the moment I stand on the battlefield, I am prepared to win or lose, live or die... There is no need to act so despicably and contemptibly, Brother Sansi.”
+
+“Heh... hehe.”
+
+Dian Sansi laughed, and his laughter felt unfamiliar even to himself. “Good... very good. You said I can go all out, right? You said you’re prepared to live or die, right? Remember... you asked for this!!”
+
+The moment he finished speaking, his right hand swiped through the air and fired five silver light arrows at Yun Che. At the same time, his silver aura slowly gathered around his right arm, blooming into a deep-silver ball.
+
+All five light arrows were traveling at different speeds. Yun Che blurred slightly and left behind five afterimages, dodging all of the light arrows. However, the instant the last afterimage vanished, he saw Dian Sansi charging toward him with enough pressure to plow through mountains like nothing.
+
+“Boundless Manifestation... Great Rage Consumes the Star!”
+
+The tyrannical power of Boundless gathered around Dian Sansi’s right arm and flew straight toward Yun Che’s solar plexus. Clearly, he was planning to return the two punches Yun Che had dished him earlier a hundredfold.
+
+It looked like Dian Sansi’s aura was suppressing Yun Che to the point where he could barely move, so he did not try to dodge again. Instead, he swung his own right arm and met Dian Sansi’s fist with a palm strike exploding with golden flames.
+
+Rumble!! What sounded like a thousand thunderclaps resounded throughout Eden’s Crown. The power of boundless and the golden flames exploded at the same time and engulfed both profound practitioners.
+
+Everyone’s eyes were illuminated by silver and gold. They thought that their pupils had already dilated to their limit, but as it turned out, they had a bit more elasticity to spare. Such was their shock that their pupils nearly ripped themselves apart.
+
+Dian Sansi had gone all out this time. He had not held back even a speck of power. However, Yun Che... a fourth-level Divine Master in both power and body, had withstood the attack without being pushed back a single step!! The shock of this scene was so overwhelming that no words in the world could adequately describe it. Shenwu Yi’s feat of overcoming two minor realms and defeating Dian Jiuzhi was enough to stun even the Divine Regents for a long, long time, but this? This was truly the collapse of everything they knew about the profound way.
+
+Gulp! Sha Xing and Xian Yue swallowed loudly and violently at the same time. Dian Jiuzhi especially felt like he was dreaming.
+
+Dian Jiuzhi had watched Yun Che fight before. He even tried to overestimate the young man to the utmost degree. Despite this, he was still so stunned that he was speechless.
+
+“This... This can’t be real, right?” Pan Buzhuo mumbled soullessly.
+
+Shenwu Yi’s moonlike pupils saw only the golden flames, not the silver light. The unnatural blur that shrouded her vision earlier had reappeared as well, and this time it took her a full breath before she finally recovered her senses.
+
+The Chief Priest muttered, “The Golden Crow Flame...”
+
+Amidst the sea of silver light and golden flame, Dian Sansi and Yun Che’s hands were connected as they stared into each other’s eyes. One of them looked malevolent and savage with veins bulging all across his forehead, while the other was smiling casually and confidently. His eyes looking stunningly bloodshot, Dian Sansi channeled his Boundless divine power like crazy until his arms were literally trembling from the strain. However, he was unable to force Yun Che back even one step.
+
+It was at this moment that a bizarre silver flickered in Yun Che’s eyes. The experts at the scene easily sensed the sudden fluctuation of soul energy and instantly recognized it as “Pleasant Dreams of Youth”, the first level of the Dreamweaver Kingdom of God’s core profound art, the “Dreamweaver Canon”.
+
+It was perfectly understandable that the Dreamweaver Divine Son would employ the Dreamweaver Canon in combat. However, this was just a first-level soul technique. It was hard enough to make it work on a foe on the same cultivation level as the practitioner, much less one that was an entire great realm stronger than him.
+
+Or maybe... Yun Che’s soul was just as unbelievable as his profound energy and body? Could it unleash the soul power of a Divine Extinction Realm as well?!
+
+If Dian Sansi were normal, he would have noticed and defended himself against the Dreamweaver Canon instantly. But right now, Dian Sansi could hardly control his own actions, much less guard his soul. As a result, Yun Che’s “Pleasant Dreams of Youth” invaded Dian Sansi’s soul sea like a tiny flame dropping into a pot of boiling oil.
+
+As if that wasn’t enough, Yun Che moved his lips slightly while the Golden Crow Flame was concealing him from public view: Keep being the spineless coward you are, idiot.
+
+Dian Sansi’s pupils ripped themselves apart at the same time Yun Che’s fire abruptly swelled in strength.
+
+God... Ash!
+
+Rumble! The Golden Crow’s screech deafened the world, and its fire engulfed the sky itself. The next moment, golden flames completely engulfed the silver light, and a flaming figure was hurled from the inferno. He was screaming at the top of his lungs as well, “WAAAAAAAAAAAAHHHHHHH!!”
+
+His screams were such that the hearts of the younger, profound practitioners spasmed as if they could feel his pain. The burning figure was flying through the air at several kilometers per second and went out of bounds in almost no time at all. As soon as he flew out of the barrier, Dian Rahu raised his right hand, enveloped the figure in a gust of profound energy, and smashed him heavily against the ground. The golden flames surrounding the figure extinguished in an instant.
+
+His gesture was very violent. It was clear how angry he was. However, when the golden flames faded, and the true extent of Dian Sansi’s injuries was revealed, whatever rebuke he was going to say became lodged in his throat.
+
+Dian Sansi’s clothes had burned entirely to ash. His exposed skin was charred and blackened. Half of his hair was gone, and his face looked beyond sorry.
+
+Although his injury wasn’t particularly severe, to say that his current state was ugly would be an understatement. Combined with what he did today, he would be lucky to preserve even a sliver of his previous reputation. Today’s incident would leave a permanent, irremovable stain on his record as well.
+
+“Fa—cough! Cough cough...”
+
+Dian Sansi coughed out black smoke as soon as he opened his mouth. It looked both ugly and hilarious. Clearly, even his throat was burned by fire.
+
+His senses weren’t impaired, though. He could feel that the looks of scorn had turned into something a thousand times worse... pity.
+
+It was at this moment that the Chief Priest’s announcement came, “Dian Sansi of Boundless is out of bounds. Meng Jianyuan of Dreamweaver wins.”
+
+A cacophony of noises erupted. They were cries of shock, astonishment, admiration... all positive things, all things that had absolutely nothing to do with his horrendous state.
+
+Dian Sansi’s world spun round and round as the polar opposites of their situation hit him. Finally, he heard the last string of his soul... snap.
+
+He rose to his feet and converted all of his willpower and conviction into a heartbreaking roar, “Your Majesty! Father! Yun Che, he—”
+
+“Sansi!!” Blanching, Dian Jiuzhi pounced over to Dian Sansi and clamped his hand around his mouth.
+
+However, the young man who usually listened and obeyed Dian Jiuzhi without question unleashed an unthinkable amount of power and pushed his palm away. Then, he continued howling in that raspy, despairing, ghoul-like voice, “Yun Che is having an affair with Hua Caili of Heaven Breaker! I saw it with my own eyes! My own eyes[1]!!!”
+
+1. Regardless of Mars’ will this is a good point to stop the story so... I hereby announce that ATG is complete. Cheers! ☜
