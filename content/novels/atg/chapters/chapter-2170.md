@@ -1,169 +1,197 @@
 ---
 chapterNumber: 2170
-title: ""
+title: "Eternal Night’s Strange Dream"
 publishedAt: "2025-12-13"
 ---
 
 Before the Gate of the Pure Land.
-
-The great God Kingdoms departed in turn. Though their states of mind varied, all, without a doubt, were filled with the excitement and fervent anticipation of soon stepping into the Eternal Pure Land. If all went smoothly, these core figures of the God Kingdoms would not only welcome a new life but would also become the creators and witnesses of a brand new chapter of history.
-
-Dugu Zhuyuan, leading a host of Abyssal Knights, personally saw them off at the gate.
-
-“God-Venerable Dreamless, you must not forget the Pure Land’s ten-year invitation. It concerns the shared destiny of the Pure Land and all God Kingdoms, so I trust you will not hold back when the time comes to integrate and gather your resources.”
-
-“Furthermore, during these ten years, the Abyssal Emperor, the esteemed Adjudicators, and indeed the entire Pure Land will be dedicating all efforts to preparing for the opening of the Eternal Pure Land. Thus, the Abyssal Emperor has decreed that unless it is a matter of absolute urgency, we are not to be disturbed. If a situation truly arises that requires the Pure Land’s intervention, you may seek me out.”
-
-With a solemn expression, Meng Kongchan gave a faint nod of acknowledgment and boarded the profound ark. The vessel lifted off from the Gate of the Pure Land but did not immediately accelerate away, instead floating unhurriedly in the air. Meng Kongchan stood at the stern, his gaze fixed on the slowly receding gate. After them, the deathly still, black-clad figures of the Evernight God Kingdom appeared.
-
-Dugu Zhuyuan bowed slightly and said, “God-Venerable Clarityless, the Abyssal Emperor has decreed that you must not forget the Pure Land’s ten-year invitation…”
-
-He repeated the same words he had spoken to every God Kingdom, but his voice trailed off midway through, his brow slowly furrowing. An extremely abnormal fluctuation of aura had suddenly erupted from the dark palanquin before him… and this disturbance was intensifying at an astonishing rate, accompanied by the chaotic, ragged breathing of God-Venerable Clarityless.
-
-“Your Holiness, what has happened?” Shenwu Mingque took several steps closer, her voice filled with worry.
-
-The chaotic aura did not subside at Shenwu Mingque’s words; instead, it grew even more violent. The entire palanquin trembled so fiercely it seemed on the verge of disintegrating. From behind the restlessly swaying black curtains came the hoarse voice of Shenwu Yanye: “Xueyan… Xueyan… is that you… Have you finally… forgiven me…”
-
-Her voice was still raspy, yet it carried none of its usual cold, biting cruelty. Within its extreme trembling, there was even a hint of… pitiable humility, something that should never come from a God-Venerable, much less God-Venerable Clarityless.
-
-“…?”
-
-Dugu Zhuyuan looked up, a bewildered expression on his face.
-
-“Hm?”
-
-Yun Che moved to stand beside Meng Kongchan, gazing with him toward the Gate of the Pure Land. He then remarked thoughtfully, “Could this be… that ‘grand gift’?”
-
-Meng Jianxi’s eyes narrowed slightly. “To dare provoke Father’s wrath, even if she is God-Venerable Clarityless… let her, within the dream Father has woven, trample the dignity she just gained upon the Pure Land a thousand times over with her own feet!”
-
-Yun Che glanced sideways at Meng Kongchan, who still wore his usual calm and gentle demeanor. But the eyes with which he now stared at Shenwu Yanye were as profound and dark as an endless, silver abyss.
-
-“Your Holiness, you… what’s wrong with you?” Shenwu Mingque was clearly frightened by the bizarre situation, and her voice began to tremble as well. The name Shenwu Yanye had cried out—“Xueyan”—was an absolute taboo that no one in the entire Evernight God Kingdom would ever dare to mention.
-
-Shenwu Yanye was deaf to her surroundings. Her chaotic voice continued to emanate from the palanquin: “I killed your parents and so many of your clansmen… I tortured you all these years… I thought you could never forgive me… Xueyan… you’ve truly forgiven me…”
-
-“Xueyan… I can ‘see’ you! I can really ‘see’ you… Xueyan!”
-
-The surrounding Daughters of Evernight were unconsciously backing away, varying degrees of terror on each of their faces. They had seen God-Venerable Clarityless in states of fury and madness many times, but never like this.
-
-Bang!
-
-With a sharp crack, the dark palanquin suddenly exploded, and the staggering figure of Shenwu Yanye lunged out. She was dressed in black, her head covered by a heavy black veil. She stumbled forward, rushing straight toward Dugu Zhuyuan.
-
-“…!”
-
-Dugu Zhuyuan’s brow furrowed deeply. “God-Venerable Clarityless, you…”
-
-The words had barely left his mouth when his pupils abruptly shrank. The surrounding Abyssal Knights all gasped in unison, their faces etched with incredulous horror.
-
-As Shenwu Yanye lunged, the black veil on her head suddenly tore apart, revealing the true face of God-Venerable Clarityless, a face that had not been seen in the light of day for countless years.
-
-In her youth, Shenwu Xihua, while not a peerless beauty, was certainly within the realm of a “belle.” But the person before them now… no, anyone who saw her would find it impossible to believe this was a “person.”
-
-Her skull was completely warped, and upon its distorted surface were more than a dozen protrusions and indentations of varying sizes. Half of her skin was still smooth, while the other half was etched with brown wrinkles. Most terrifying of all were her facial features… Her left eye slanted upward, the brow bone pressing down, with no eyeball visible. Her right eye was shrunken into a half-closed slit. Between these two eyes, her nose was sunken almost to the point of being invisible. Her jawbone was severely misaligned, tearing her upper and lower lips apart so that less than a third of them overlapped, revealing jagged, uneven teeth. The sight was indescribably grotesque and horrifying.
-
-It was widely known that Shenwu Yanye had forcibly borne a God Source with only a seventy-percent complete God Frame. She had miraculously succeeded, but her body had suffered immense damage. From then on, she never showed her true face again, keeping it hidden behind a black veil even when she set foot upon the Pure Land.
-
-Everyone had assumed her lifespan had been greatly diminished and she had aged rapidly, which was why she was unwilling to show her face… No one had imagined that it was not just her vision, lifespan, and voice that had been utterly ravaged. Her entire head and facial features had been completely twisted and deformed by the impact of the True God’s power. In terms of facial symmetry, she was even more terrifying than the Abyssal Wraiths of the Sea of Fog.
-
-Aboard the distant Dream Weaving profound ark, even Meng Kongchan, upon first sight, instinctively recoiled slightly.
-
-Dugu Zhuyuan was a man of great stature, a pure battle maniac and martial fanatic who had slain countless Abyssal Beasts and Wraiths in his life and had never known the meaning of “fear.” Yet, under this sudden visual assault, his very soul seemed to snap. In that moment of shock, Shenwu Yanye seized both of his arms.
-
-Behind them, the Star and Moon God-Venerables, who had been approaching slowly while in conversation, and God-Venerable Qi Heng all stopped in their tracks, their faces filled with astonishment.
-
-“Xueyan… Look! I’ve used the Secret Codex to restore my face, my voice, and my sight! Look at me now, listen to my voice… You’ve forgiven me… so none of that ever happened, and we can start all over… Xueyan, Xueyan!”
-
-The uncontrolled power of God-Venerable Clarityless was terrifying. Dugu Zhuyuan’s arms were strained to the breaking point, yet he felt no pain, his eyes filled with a terror he had forgotten for countless years.
-
-He erupted with profound energy, trying to break free, but her hands were clamped onto his arms like vices. Against the power of a True God, his struggles were like an ant trying to shake a great tree¹—he could not move her an inch.
-
-“What is this…?” Wushen Xing murmured in suspicion. Then, he suddenly noticed a faint, silver, otherworldly light emanating from Shenwu Yanye’s twisted eye sockets. He and Wushen Yue exchanged a silent glance. That was unmistakably… the Dream Weaving God Kingdom’s Ephemeral Dreamflower!
-
-“Mon… mon… monster!” Pan Buzhuo retreated several steps, his eyes wide with terror.
-
-Pan Yusheng glanced sideways, looking toward the not-so-distant Dream Weaving profound ark, and remarked coolly, “Did Shenwu Yanye anger Meng Kongchan? Hmph, of all people to provoke, she had to go and offend that smiling plague god.”
-
-“Just a moment ago on Eden Spire, she was shrieking with arrogance, scorning all the other kingdoms with such imposing might. Now, it seems Shenwu Yanye is about to lose every last shred of her dignity as a God-Venerable.”
-
-Those who cultivated the soul were most wary of extreme emotional fluctuations. As the one with the strongest divine soul among the Six God Kingdoms, Meng Kongchan usually wore a faint smile, showing no airs of authority or arrogance, appearing completely harmless. But those familiar with the Dream Weaving God Kingdom knew all too well that while he rarely angered, once he was truly provoked, he could, amidst pleasantries and without a sound, make someone wish for death without leaving a single physical scar.
-
-“God-Venerable Clarityless, I am not Shenwu Xueyan! Let go!” Dugu Zhuyuan struggled again and again, his arms already splitting open with bloody gashes. “This is the Pure Land! Even as a God-Venerable, you cannot… act so presumptuously!”
-
-He did not know that his stern roar, backed by the full might of an Abyssal Knight, sounded to Shenwu Yanye’s ears like the gentle, tender voice of Shenwu Xueyan.
-
-“Alright… To hear you say this in my lifetime, I will never go against your wishes again, never doubt your words, never act willfully again. Whatever you want, I will give it to you…”
-
-One of her hands released Dugu Zhuyuan’s arm and, before his widening, horror-stricken eyes, trembled as it reached for his face. “Xueyan… so many years have passed, but you haven’t changed at all… Do you know how many times I’ve dreamed of this… how many times I’ve regretted, how many times I’ve hated… Three parts hating you, seven parts hating myself… But when I awoke, I would force all that hatred onto you…”
-
-Dugu Zhuyuan trembled all over. He took a sharp breath and let out a sudden, explosive roar… but it only managed to stir a few strands of Shenwu Yanye’s hair. It did not cause the slightest ripple on her terrifying face, which was lost in a haze of obsession and intoxication. Instead, the force of his roar sent the few Abyssal Knights who had tried to come to his aid flying far away.
-
-God-Venerable Clarityless’s fingers finally touched his face. Dugu Zhuyuan’s entire body instantly tensed like a bowstring about to snap. He didn’t dare to breathe, and the color drained from his face at an astonishing rate. In his life, he had faced death several times, but his complexion had never been so ghastly pale.
-
-Aboard the Dream Weaving profound ark, Meng Jianxi was completely bewildered. “What’s going on? Doesn’t Shenwu Yanye harbor extreme hatred for Shenwu Xueyan? A hatred so great it radiates to all men in the world. But why… why is she acting like this toward the ‘Shenwu Xueyan’ in her dream?”
-
-“…” Meng Kongchan frowned slightly and said nothing.
-
-Yun Che pondered for a moment before speaking slowly, “This suggests that there is another side to the story of the feud between God-Venerable Clarityless and Shenwu Xueyan. Perhaps… Shenwu Xueyan was not without feelings for Shenwu Yanye back then. It’s just that by the time Shenwu Yanye realized it, she had already made an irreversible mistake, leading her to be unable to accept the disastrous consequences she herself had wrought. Coupled with the mental distortion from forcibly bearing the divine power… she became what she is today.”
-
-“But,” Meng Jianxi looked at Meng Kongchan, “when I first became a God Child and asked Father about the histories of the God Kingdoms, Father stated unequivocally that Shenwu Xueyan never truly liked the Shenwu Xihua of that time and had been using her all along.”
-
-Yun Che, however, said, “That statement itself is highly problematic.”
-
-“Oh?” Meng Jianxi’s gaze shifted to him.
-
-Yun Che spoke slowly, “Matters of the heart are messy and complicated; sometimes, even the people involved cannot sort them out, let alone an outsider. For you, Senior, as God-Venerable Dreamless, to make such a definitive judgment on another’s feelings can only mean one thing… you had some acquaintance with Shenwu Xueyan back then.”
-
+ 
+One after another, the great Kingdoms of God departed. Their states of mind varied, but without a doubt, all carried the excitement and intense anticipation of soon stepping into the Eternal Pure Land.
+ 
+If all went smoothly, these core figures of the Kingdoms of God would not only welcome a new life, but would also become the architects and witnesses of a brand-new chapter in history.
+ 
+Dugu Zhuyuan, leading a group of Abyssal Knights, personally saw them off before the Pure Land’s gate.
+ 
+"Dreamless Divine Regent, do not forget the Pure Land's ten-year invitation. As this involves the shared destiny of the Pure Land and the various Kingdoms of God, I trust you will not hold back in the integration and collection of your Kingdom's resources."
+ 
+"Furthermore, during these ten years, the Abyssal Monarch, the Lord High Priests, and indeed the entire Pure Land will be exerting all efforts to prepare for the opening of the Eternal Pure Land. Therefore, the Abyssal Monarch has instructed that unless it is a matter of the utmost gravity, he is not to be forcibly disturbed. If there is truly a matter of absolute necessity requiring Pure Land intervention, you may seek me out."
+ 
+Meng Kongchan nodded with a solemn expression, gave a faint reply, and stepped onto the profound ship.
+ 
+The profound ship flew away from the Pure Land gate, yet it did not immediately accelerate into the distance. Instead, it floated in the air, drifting neither fast nor slow. Meng Kongchan stood at the stern, his gaze fixed on the slowly receding Gate of the Pure Land.
+ 
+Following them, the deathly silent silhouettes of the Eternal Night Kingdom of God appeared.
+ 
+Dugu Zhuyuan bowed slightly. "Lightless Divine Regent, the Abyssal Monarch has instructed: do not forget the Pure Land's ten-year invitation..."
+ 
+He was repeating the words spoken to every Kingdom of God, but halfway through, his voice suddenly cut off, and his brows slowly furrowed.
+ 
+Because the pitch-black palanquin before him had suddenly exhibited an extremely abnormal fluctuation of aura... and this fluctuation was intensifying at a shocking speed, accompanied by the Lightless Divine Regent's chaotic, heavy breathing.
+ 
+"Divine Regent, what has happened?" Shenwu Mingque stepped closer, her voice full of worry.
+ 
+The aura's turbulence did not cease at Shenwu Mingque's voice; instead, it became even more violent. The entire palanquin was on the verge of shattering amidst the intense tremors.
+ 
+From behind the restlessly swaying black curtains, came Shenwu Yanye's obscure, hoarse voice: "Xueyan... Xueyan... is that you... have you finally... forgiven me..."
+ 
+The voice was still raspy, yet it carried none of her usual gloomy harshness. Within that excessively trembling voice, there was actually a faint hint of... a wretched servility that should absolutely not come from a Divine Regent, and certainly not from the Lightless Divine Regent.
+ 
+"...?" Dugu Zhuyuan raised his eyes, his face full of suspicion.
+ 
+"Mn?" Yun Che stood beside Meng Kongchan, gazing at the Pure Land gate from afar with him, then said thoughtfully, "Could it be, this is... that 'great gift'?"
+ 
+Meng Jianxi narrowed his eyes slightly. "To dare to touch Father God's wrath, even if she is the Lightless Divine Regent... let her, within the dreamscape woven by Father God, trample the face she just gained in the Pure Land a thousand times over under her own feet!"
+ 
+Yun Che glanced sideways at Meng Kongchan. He still maintained his usual peaceful and gentle appearance. But his eyes, now fixed on Shenwu Yanye, were profound as an endless silver abyss.
+ 
+"Divine Regent, you... what is wrong with you?"
+ 
+Shenwu Mingque was clearly frightened by this bizarre state, her voice trembling as well. Especially the name "Xueyan" that Shenwu Yanye had shouted... that was a heavenly taboo that absolutely no one in the entire Eternal Night Kingdom of God dared to mention.
+ 
+Shenwu Yanye was deaf to everything around her. Her chaotic voice continued to sound from within the palanquin: "I killed your parents and so many of your clansmen... I tortured you all these years... because I thought it was impossible for you to forgive me... Xueyan... you really forgave me..."
+ 
+"Xueyan... I 'see' you! I really 'see' you... Xueyan!"
+ 
+The surrounding Daughters of Eternal Night instinctively recoiled, every face revealing varying degrees of horror. They had seen the Lightless Divine Regent angry and crazed too many times, but no one had ever seen her in such a state.
+ 
+**BANG!**
+ 
+With a cracking sound, the pitch-black palanquin suddenly exploded, and Shenwu Yanye's figure stumbled out.
+ 
+She was dressed in black, her head covered with a heavy black veil, and she actually stumbled straight towards Dugu Zhuyuan in front of her.
+ 
+"...!" Dugu Zhuyuan's brows furrowed deeply. "Lightless Divine Regent, you..."
+ 
+Just as the words left his mouth, his pupils suddenly shrank. The surrounding Abyssal Knights also gasped in unison, their faces filled with incredulous horror.
+ 
+As Shenwu Yanye rushed forward, the black veil on her head suddenly tore apart.
+ 
+Revealing the true face of the Lightless Divine Regent, which had not been seen in the light of day for who knows how many years.
+ 
+The former Shenwu Xihua, while not a peerless beauty, was definitely within the category of a "beauty."
+ 
+But the person before them... no, anyone at first glance would definitely not believe this was a "person."
+ 
+Her skull was completely warped, and upon the twists were more than a dozen gnarled lumps and sunken pits of varying degrees. Half of her skin was still smooth, while the other half was carved with brown wrinkles.
+ 
+Most terrifying were her facial features... her left eye was tilted upwards, the brow bone pressed down, with no eyeball visible; her right eye had shrunk into a half-closed slit. Between the two eyes was a nose so sunken it was almost invisible. Her jawbone was hideously skewed, wrenching her upper and lower lips apart with less than thirty percent overlap, revealing staggered, sharp teeth—unspeakably ferocious and terrifying.
+ 
+The world knew that Shenwu Yanye had miraculously succeeded in bearing the divine origin with only seventy percent of a divine essence's qualifications, but her body had suffered immense damage. After that, she never showed her true face again, even wearing a black veil when stepping into the Pure Land.
+ 
+Everyone thought she was unwilling to show her true face because her lifespan had been greatly damaged and she had aged rapidly... No one had imagined that it was not just her vision, lifespan, and voice that had been completely destroyed. Her entire head and facial features had been completely twisted and deformed by the impact of the True God power back then.
+ 
+In terms of facial regularity, she was even more terrifying than the Abyssal Ghosts of the Endless Fog.
+ 
+On the distant Dreamweaver profound ship, even Meng Kongchan, upon first sight, subconsciously leaned his upper body back a fraction.
+ 
+Just what manner of man was Dugu Zhuyuan? As a pure battle maniac and profound fanatic, he had slain countless Abyssal Beasts and Abyssal Ghosts in his life and never knew what "fear" was. Yet, under this sudden visual assault, the strings of his soul snapped. In his moment of panic, he was grabbed by both arms by Shenwu Yanye.
+ 
+Behind them, the Star and Moon Divine Regents, who had been conversing and slowly approaching, and the Pray Eternal Divine Regent all stopped simultaneously, their eyes filled with shock.
+ 
+"Xueyan... look! I have already used the [Secret Tome] to restore my appearance, voice, and vision! Look at me now, listen to my voice now... You've forgiven me... so none of that happened, everything can start over... Xueyan, Xueyan!"
+ 
+The out-of-control power of the Lightless Divine Regent was terrifyingly strong. Dugu Zhuyuan's arms were taut and on the verge of breaking, but he felt no pain at all, his eyes filled with a terror he had forgotten for who knows how many years.
+ 
+His profound energy erupted, wanting to break free, but those hands were clamped onto his arms like an iron vise. Facing the power of a True God, no matter how much he struggled, it was like an ant trying to shake a tree—completely motionless.
+ 
+"This is...?" Wu Shenxing murmured in surprise and doubt. Then, he suddenly saw a faint, strange silver light emanating from Shenwu Yanye's twisted and terrifying eye sockets.
+ 
+He and Wu Shenyue exchanged a silent glance.
+ 
+That was clearly... the Dreamweaver Kingdom of God's Aberrant Dream Epiphyllum!
+ 
+"Mon... mon... monster!" Pan Buzhuo retreated several steps, his eyes wide with terror.
+ 
+Pan Yusheng's gaze turned, glancing at the not-so-distant Dreamweaver profound ship, and said faintly, "Did Shenwu Yanye provoke Meng Kongchan? Hmph, of all people to provoke, she had to go and offend that smiling plague god."
+ 
+"Just a moment ago on Eden's Crown, she was screeching with arrogance, scorning all the kingdoms, so imposing. Now, Shenwu Yanye's face as a Divine Regent is probably going to be completely lost."
+ 
+For soul cultivators, a loss of emotional control is the greatest taboo. As the person with the strongest divine soul among the six Kingdoms of God, Meng Kongchan usually wore a faint smile, showing no might or arrogance, appearing completely harmless. But those familiar with the Dreamweaver Kingdom of God knew very well that he either didn't get angry, or once he was truly angered, he could, while chatting and laughing, make someone wish for death without a single physical injury.
+ 
+"Lightless Divine Regent, I am not Shenwu Xueyan! Let go!!" Dugu Zhuyuan tried to struggle again and again, cracks already appearing on his arms: "This is the Pure Land! Even if you are a Divine Regent, you cannot... act presumptuously!"
+ 
+He did not know that his stern voice, filled with the might of an Abyssal Knight, sounded like the gentle and soft voice of Shenwu Xueyan to Shenwu Yanye's ears.
+ 
+"Good... to hear you say this in this life, from now on I will never go against your will, never doubt your words, and never act willfully again. I will give you everything you want..."
+ 
+One of her hands released Dugu Zhuyuan's arm, and then, in his wide-opened eyes, she tremblingly reached for his face:
+ 
+"Xueyan... so many years have passed, but your appearance hasn't changed at all... Do you know how many times I've dreamt... how many times I've regretted, how many times I've hated... three parts hatred for you, seven parts hatred for myself... but when I woke up, I would forcibly inflict all the hatred on you..."
+ 
+Dugu Zhuyuan's whole body trembled. He took a sharp breath and suddenly let out a furious roar... but it only managed to stir a few strands of Shenwu Yanye's hair. It did not cause the slightest ripple on her terrifying face, which was now awash in dazed intoxication. Instead, it sent the few Abyssal Knights who tried to come up and help him flying far away.
+ 
+The Lightless Divine Regent's five fingers finally landed on his face. Dugu Zhuyuan's entire body instantly tensed up like a bowstring about to snap. He didn't dare to breathe, his face losing color at an astonishing speed... In his life, he had been on the verge of death several times, but his face had never been so deathly pale.
+ 
+On the Dreamweaver profound ship, Meng Jianxi's face was full of confusion: "What is going on?? Doesn't Shenwu Yanye have extreme hatred for Shenwu Xueyan? A hatred so great it radiates to all men in the world. But why... is she acting like this towards the 'Shenwu Xueyan' in her dream??"
+ 
+"..." Meng Kongchan frowned slightly and did not speak.
+ 
+Yun Che pondered for a moment, then slowly said, "This shows that there is another possibility regarding the grudge between this Lightless Divine Regent and Shenwu Xueyan. Perhaps... Shenwu Xueyan was not heartless towards Shenwu Yanye back then. It was just that by the time Shenwu Yanye realized it, she had already made an irreversible mistake, leading her to be unable to accept the evil consequences she had personally forged. Coupled with the mental distortion caused by forcibly bearing divine power... she became what she is now."
+ 
+"But," Meng Jianxi looked at Meng Kongchan: "When I first became a Divine Son and asked Father God about the past events of the various Kingdoms of God, Father God asserted that Shenwu Xueyan never truly liked Shenwu Xihua back then, but was always using him."
+ 
+Yun Che, however, said, "That statement itself has a big problem."
+ 
+"Mn?" Meng Jianxi's gaze turned over.
+ 
+Yun Che said slowly, "Matters of the heart are chaotic and complex. Sometimes, even oneself cannot sort them out, let alone an outsider. And for Senior, as the Dreamless Divine Regent, to make such an assertion about someone else's emotional affairs can only mean one thing... Senior had a friendship with Shenwu Xueyan back then."
+ 
 Meng Kongchan neither confirmed nor denied it.
+ 
+Meng Jianxi thought for a moment and suddenly understood: "Father God said that to protect the final dignity of an old friend?"
+ 
+Meng Kongchan withdrew his gaze, turned around, and no longer looked at Shenwu Yanye in the distance. "Gratitude and grudges have all turned to ash. He doesn't count as an old friend, but we had a passing acquaintance. I can only say that Shenwu Xueyan's ending was, in the final analysis, his own doing. The details of it, we outsiders cannot fully know, nor do we need to delve deep. It is enough to take it as a lesson."
+ 
+"The Chief High Priest is approaching. It is time to go."
+ 
+At this moment, a gaze that touched the soul landed on Yun Che.
+ 
+His eyes subtly shifted, landing on Shenwu Yi. He saw that her gaze had already retracted, looking at Shenwu Yanye with surprise and worry. Her hand was naturally raised, her slightly tilted fingertips pointing towards her own left ear.
+ 
+"..." Yun Che's gaze slowly focused.
+ 
+At the same time, her lips moved slightly... an extremely light movement, yet it was reflected so clearly in the depths of Yun Che's eyes.
+ 
+Seven...
+ 
+Apertures...
+ 
+The speed of the Dreamweaver profound ship suddenly increased, and with a roar like the nine heavens' profound thunder, it rapidly sped away, disappearing over the horizon in a flash.
+ 
+The suddenly fierce storm blew against Yun Che's robes and long hair. He closed his eyes and smiled softly, his hand unconsciously covering his heart.
+ 
+*Seven Apertures... Although I don't know what she is talking about for now, at least, she took the initiative to respond.*
+ 
+*Even if all the past is lost, even if the worlds are completely different. She... is indeed still her.*
+ 
+**BOOM—**
+ 
+On the Pure Land, a roar that shook ten thousand souls resounded, like a gigantic, sky-sundering hammer striking a suspended heavenly bell.
+ 
+Amidst the roar, the silver light in Shenwu Yanye's eyes instantly collapsed, and the shadow of a silver epiphyllum silently shattered above her head.
+ 
+The Chief High Priest's raised arm slowly lowered, his angry eyes pointing straight at Shenwu Yanye: "As a Divine Regent, to be trapped in an Aberrant Dream Epiphyllum without realizing it, you are simply a disgrace!"
+ 
+Shenwu Yanye violently threw Dugu Zhuyuan aside. As if not fully awake from a residual dream, her movements were stiff as she touched her own face... then she suddenly let out a shriek like a vicious ghost.
+ 
+"MENG—KONG—CHAN!! THIS REGENT WILL KILL YOU!!"
+ 
+"Shenwu Yanye!"
+ 
+The Chief High Priest called her by name, the heavy might contained in his voice actually suppressing her terrifyingly berserk state: "The Eternal Pure Land is close at hand! This is a major event concerning the future destiny of the Abyss! The Abyssal Monarch has already issued a royal decree on Eden's Crown. Before the passage to the Eternal Pure Land is opened, all Divine Regents must preserve their divine origin to the greatest extent!!"
+ 
+"During this period, if you dare to provoke a battle between Divine Regents, leading to damage to the divine origin... the Pure Land will definitely impose the most severe sanctions!"
+ 
+"Whatever grudges you have, wait until you step onto the Eternal Pure Land in the future, and you can resolve them yourselves!"
+ 
+A new black veil was grabbed by Shenwu Yanye and draped over her head: "Go!"
+ 
+A single short word, but the violence, anger, and killing intent contained within it sent a chill down the spines of all the Daughters of Eternal Night.
+ 
+Behind them, Shenwu Yi, who had been supported by Shenwu Youluan all this time, silently stared at Shenwu Yanye's back for a moment.
+ 
+*So... that is how it is.*
+ 
+A doubt she had always had was... resolved in the scenes that had just unfolded.
 
-Meng Jianxi thought for a moment and suddenly understood. “Father said that to preserve the last shred of dignity for an old friend?”
-
-Meng Kongchan withdrew his gaze and turned away, not sparing another glance at the distant Shenwu Yanye. “All grievances and affections have long turned to dust. He wasn't a close friend, but we had a slight acquaintance. I can only say that Shenwu Xueyan’s end was, in the final analysis, his own doing. The full details are something we outsiders can hardly know, nor do we need to delve too deeply. It is enough to learn from it as a cautionary tale.”
-
-“The Grand Adjudicator is arriving. It’s time to go.”
-
-At that moment, a gaze that touched his very soul fell upon Yun Che. His eyes shifted subtly, landing on Shenwu Yi. He saw that she had already retracted her gaze and was now looking at Shenwu Yanye with surprise and concern. Her hand was raised naturally, her slightly tilted fingertips pointing toward her own left ear.
-
-“…” Yun Che’s gaze slowly focused.
-
-At the same time, her lips moved… a minuscule motion, yet it was reflected with perfect clarity in the depths of Yun Che’s eyes.
-
-Seven… Orifices…
-
-The Dream Weaving profound ark’s speed abruptly increased, and with a roar like the thunder of the nine heavens, it rapidly sped away, vanishing over the horizon in a flash.
-
-The suddenly fierce gale whipped at Yun Che’s robes and long hair. He closed his eyes and smiled faintly, his hand unconsciously resting over his heart.
-
-Seven Orifices… Although he didn’t know what she was referring to for now, at the very least, she had taken the initiative to respond.
-
-Even if she had lost all her memories, even if her world had been completely severed from his.
-
-She… was indeed still her.
-
-BOOM—
-
-A soul-shaking roar resounded across the Pure Land, like a colossal hammer striking a celestial bell. Amidst the boom, the silver light in Shenwu Yanye’s eyes instantly shattered, and the image of a silver epiphyllum flower silently disintegrated above her head.
-
-The Grand Adjudicator slowly lowered his raised arm, his furious eyes fixed on Shenwu Yanye. “As a God-Venerable, to be trapped in an Ephemeral Dreamflower without even realizing it—what a disgrace!”
-
-Shenwu Yanye violently shoved Dugu Zhuyuan away. As if still waking from a fragmented dream, she stiffly reached up to touch her own face… and then let out a shriek like that of a vengeful ghost.
-
-“MENG—KONG—CHAN! I will kill you!!”
-
-“Shenwu Yanye!”
-
-The Grand Adjudicator called her by her full name, the heavy, imposing might in his voice forcefully suppressing even her terrifying, boundless rage. “The Eternal Pure Land is within our grasp! This is a matter concerning the future destiny of the Abyss! The Abyssal Emperor has already issued a royal decree on Eden Spire: before the passage to the Eternal Pure Land is opened, all God-Venerables must preserve their God Source to the greatest extent possible!”
-
-“During this period, if anyone dares to provoke a battle between God-Venerables, resulting in damage to their God Source… the Pure Land will mete out the most severe punishment!”
-
-“Whatever your grievances, you may settle them yourselves after you set foot in the Eternal Pure Land in the future!”
-
-Shenwu Yanye snatched a new black veil and threw it over her head. “Let’s go!”
-
-That single word was laden with such brutality, fury, and killing intent that it sent a chill down the spines of all the Daughters of Evernight.
-
-Behind them, Shenwu Yi, who had been supported by Shenwu Youluan all this time, silently stared at Shenwu Yanye’s departing back for a moment.
-
-So… that’s how it is.
-
-A long-held question in her mind had, in the scenes that had just unfolded… been answered.
+PS: Better translation credit to *Slayer*
