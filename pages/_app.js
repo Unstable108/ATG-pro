@@ -1,4 +1,5 @@
 // pages/_app.js
+import Script from "next/script";
 import { Analytics } from "@vercel/analytics/react";
 import Head from "next/head";
 import "../styles/globals.css";
@@ -116,8 +117,13 @@ export default function App({ Component, pageProps }) {
         <link rel="icon" type="image/png" href="/favicon.png" />
         <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
         <link rel="manifest" href="/site.webmanifest" />
-        <script defer src="https://umami-delta-amber.vercel.app/script.js" data-website-id="20971589-8fde-483d-97dd-1792d3a2a1f3"></script>
+        {/* <script defer src="https://umami-delta-amber.vercel.app/script.js" data-website-id="20971589-8fde-483d-97dd-1792d3a2a1f3"></script> */}
       </Head>
+       <Script
+        src="https://umami-delta-amber.vercel.app/script.js"
+        data-website-id="20971589-8fde-483d-97dd-1792d3a2a1f3"
+        strategy="afterInteractive"
+      />
       <Component {...pageProps} />
       <Analytics />
     </>

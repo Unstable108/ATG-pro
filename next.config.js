@@ -12,6 +12,40 @@ const nextConfig = {
       { source: '/chapters/:path*', destination: '/atg/chapters/:path*' },
     ];
   },
+  async headers() {
+    return [
+      // Cache all pages/API with ISR-friendly headers (1hr shared cache, revalidate in bg)
+      {
+        source: '/(.*)',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 's-maxage=3600, stale-while-revalidate',
+          },
+        ],
+      },
+      // Long cache for JS/CSS bundles (immutable)
+      {
+        source: '/_next/static/:path*',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=31536000, immutable',
+          },
+        ],
+      },
+      // Long cache for images/public assets (adjust if you add /public/images)
+      {
+        source: '/images/:path*',
+        headers: [
+          {
+            key: 'Cache-Control',
+            value: 'public, max-age=31536000, immutable',
+          },
+        ],
+      },
+    ];
+  },
 };
 
 module.exports = nextConfig;
