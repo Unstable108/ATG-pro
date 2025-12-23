@@ -1,5 +1,5 @@
 // pages/track.js
-import { redis } from "../lib/redis";
+// import { redis } from "../lib/redis";
 import Link from "next/link";
 import Head from "next/head";
 import { useMemo, useState, useEffect } from "react";
