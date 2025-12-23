@@ -2,7 +2,6 @@
 import fs from "fs";
 import path from "path";
 import formidablePkg from "formidable";
-import { redis } from "../../lib/redis";
 
 export const config = {
   api: {
@@ -144,41 +143,6 @@ export default async function handler(req, res) {
     });
   }
 
-  // Basic rate limit: per-IP attempts window using Redis.
-  // This helps prevent brute-force guessing of the ADMIN_TOKEN.
-  try {
-    const ipHeader = req.headers["x-forwarded-for"] || "";
-    const ip =
-      (Array.isArray(ipHeader) ? ipHeader[0] : ipHeader).split(",")[0].trim() ||
-      (req.socket && req.socket.remoteAddress) ||
-      "unknown";
-
-    if (redis && typeof redis.incr === "function") {
-      const key = `upload:ip:${ip}`;
-      const attempts = await redis.incr(key);
-      // Expire the counter after 60 seconds on first hit
-      if (attempts === 1 && typeof redis.expire === "function") {
-        await redis.expire(key, 60);
-      }
-      // Max 10 attempts per minute
-      if (attempts > 10) {
-        console.warn(
-          "[upload] rate limit exceeded for ip",
-          ip,
-          "attempts=",
-          attempts
-        );
-        return res
-          .status(429)
-          .json({ error: "Too many requests, please wait a bit." });
-      }
-    }
-  } catch (rateErr) {
-    console.warn(
-      "[upload] rate limit check failed (continuing anyway):",
-      rateErr && (rateErr.message || rateErr)
-    );
-  }
   const adminToken =
     req.headers["x-admin-token"] ||
     fields.adminToken ||
