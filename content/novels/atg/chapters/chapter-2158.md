@@ -1,191 +1,203 @@
 ---
 chapterNumber: 2158
-title: ""
-publishedAt: "2025-12-02"
+title: "Obsession Like The Abyss"
+publishedAt: "2025-12-23"
 ---
 
-When his abyss-like obsession subsided and a cold clarity brought his reason back into focus, Yun Che immediately noticed something that made no sense. He rested his chin on his hand, and after a moment of contemplation, he asked with a look of surprise, “Since that ‘Mist Emperor’ is so powerful, his premature awakening would undoubtedly pose a colossal threat. Why are you so… unconcerned?”
+When his spirit relaxed and his coolheadedness and rationality returned, Yun Che immediately noticed something that made very little sense. He rested his chin on his knuckle and pretended to think for a bit before asking suddenly, “If the ‘Fog Monarch’ is so powerful, and their premature awakening undoubtedly constitutes a huge threat... why are you so unconcerned?”
 
-The “Mist Emperor” was the true master of the Abyss, powerful enough to create the Sea of Mist and to repair, even “transform,” two mighty devil artifacts. For such a terrifying existence to awaken from his slumber, the Yuan Emperor should not be this dismissive, no matter the circumstances… especially since they had made a promise to each other three million years ago.
+The “Fog Monarch” was the true lord of the Abyss. They were powerful enough to create the Endless Fog and even repair, no, modify two powerful devil artifacts. Assuming that an existence this terrible had awakened, it didn’t make sense for the Abyssal Monarch to act so nonchalantly... not to mention that they exchanged promises three million years ago.
 
-Under Yun Che’s steady gaze, Mo Su’s expression remained unchanged, clearly aware that Yun Che would have such doubts.
+Mo Su appeared completely unperturbed in Yun Che’s eyes. The man obviously knew that the question would occur to him sooner or later.
 
-He did not answer directly, instead saying slowly, “Gathering the Abyssal Dust¹ and repairing the devil artifacts were not tasks that could be completed overnight. Before everything was finished, I had numerous contacts with him. I gradually discovered that as the Abyssal Dust receded, the distance between us grew greater each time he appeared.”
+Instead of answering the question directly, Mo Su explained, “Neither gathering the abyssal dust nor repairing the devil artifacts were things that can be completed in a single day. Before the tasks were complete, I had made repeated contact with the Fog Monarch.”
 
-“Later, after the Sea of Mist was formed, he would only ever appear within it. From this, I confirmed one thing—he can only exist where the Abyssal Dust is sufficiently dense. He cannot exist where it is thin, much less in a space devoid of it.”
+“Over time, I discovered that they were distancing themselves from me in tandem with the receding abyssal dust. After the Endless Fog was complete, they only ever appeared in the Endless Fog. I confirmed one thing from this observation—the Fog Monarch could only exist in areas with a thick enough concentration of abyssal dust. It could not exist in places where abyssal dust is thin, much less a space where abyssal dust does not exist.”
 
-He tilted his head back slightly, his voice long and drawn out. “And so, this world gained a ‘Pure Land.’”
+He lifted his head slightly and said in a distant voice, “From then on, the ‘Pure Land’ came to be.”
 
-Yun Che’s gaze froze for a moment before he said with a hint of realization, “So, your initial reason for creating this Pure Land was to deal with the ‘Mist Emperor’?”
+Yun Che’s gaze froze for a short while before he exclaimed in realization, “So, the fundamental reason you created the Pure Land is to tackle the ‘Fog Monarch’?”
 
-The Yuan Emperor neither confirmed nor denied it, continuing, “He does indeed possess a powerful and bizarre strength, but that power seems to be limited by the form of his existence. Otherwise, why would he need to borrow the hand of an otherworldly being like me to achieve his goals?”
+The Abyssal Monarch neither approved nor denied his statement. He continued, “There is no doubt that the ‘Fog Monarch’ is terribly powerful and anomalous, but their strength also seems to be limited in some fashion. Otherwise, they would not need to borrow the hands of a living being from beyond to achieve their goals.”
 
-“Later, he created the Sea of Mist, repaired the devil artifacts, and fell into a long slumber. But the world did not freeze just because its Abyssal Master was sleeping; instead, it continued to undergo tremendous changes.”
+“Later, they fell into a deep slumber after they created the Endless Fog and repaired the devil artifacts. However, the world did not stand still simply because the lord of the abyss had fallen asleep. Instead, it continuously made dramatic changes over the years.”
 
-He raised a hand, his fingertips gently touching the air. “Back then, the Abyssal Dust in the Abyss, whether in the Sea of Mist or the lands of the living, was far more terrifying than it is now. But after surviving in the Abyss, I could faintly sense the surrounding Abyssal Dust slowly thinning.”
+He lifted a hand and touched the air with his fingertips. “Back in the day, both the Endless Fog and the Lands of the Living were far scarier than they are now. But after surviving in the Abyss for so long, I could vaguely sense that the ambient abyssal dust is diminishing.”
 
-“Although a discernible change only occurred every ten thousand years, it was indeed a constant process.”
+“It only happens once every ten thousand years, and the change is so minor that most would not even notice. However, it was definitely real.”
 
-“Only later did I understand that it was the ‘aura of life’ slowly seeping in from another world, something the Heaven Punishing Divine Emperor mentioned when he told me of the Primal Chaos’s origin.”
+“Later, I realized that this change was happening due to the influx of something from the other world called the ‘essence of existence’. I learned about it when the Heaven Punishing Divine Emperor taught me about the origin of Primal Chaos.”
 
-He called him the “Heaven Punishing Divine Emperor,” not “Father God.” His tone betrayed no trace of intimacy or distance, as if speaking the name of a stranger.
+He had addressed his father as the “Heaven Punishing Divine Emperor," not "Father”. There was neither estrangement nor affection in his tone either. It was like he was talking about a random stranger.
 
-“Later, around my first millionth year in the Abyss, the influx of the ‘aura of life’ suddenly intensified, becoming several times, then dozens, then hundreds of times greater than before. It was also accompanied by Primordial Chaos Qi and Elemental Divine Auras… Clearly, a cataclysmic event had occurred in the other world.”
+“Later still—it’s around one million years after I arrived in the Abyss—the influx of ‘essence of existence’ suddenly increased dramatically. At first, its volume increased severalfold. Then dozens. Then hundreds. They were even mixed with primordial energy and the divine essence of various elements... Clearly, something dramatic was happening in the other world.”
 
-“I later learned from the beings who fell into the Abyss that the God and Devil races had finally erupted into a vicious war, leading to the burial of both gods and devils, the shattering of the heavens and earth, and the collapse of order.”
+“I eventually learned from someone who fell into the Abyss that the god race and devil race had finally gone to war against each other. Gods and devils died, heaven and earth shattered, and law and order crumbled in their wake.”
 
-Yun Che: “…”
+Yun Che: “...”
 
-“The cataclysm in the other world brought a corresponding cataclysm to the Abyss. The massive influx of the aura of life ‘neutralized’ the Abyssal Dust, while the Primordial Chaos Qi and Elemental Divine Auras enriched the world’s spiritual energy, greatly increasing the speed and power of elemental profound energy² cultivation.”
+“The changes happening in the other world were also changing the Abyss. The massive influx of essence of existence had ‘neutralized’ the abyssal dust, and the primordial energy and the divine essence of various elements had both enriched the Abyss’ natural energies and dramatically increased the cultivation speed and strength of elemental profound energies.”
 
-“This change lasted for five hundred thousand years before it began to gradually weaken, and it only mostly ceased after a million years.”
+“These changes only began to decrease five hundred thousand years later, and more or less halted completely a million years later.”
 
-Yun Che knew that this was when the war between the gods and devils had ended.
+Yun Che knew that was around the time the war between the gods and the devils had come to an end.
 
-“The aura of life continues to seep in slowly even now, but it has returned to its former subtlety. The Abyss of today is a far cry from the Abyss of three million years ago.”
+“Even now, the essence of existence is still flowing into the Abyss, but it has become as weak as it was at the very beginning. Today, the Abyss is nothing like what it was three million years ago, and I...”
 
-“And the me of today is not the me of three million years ago.”
+“I am not who I was three million years ago either.”
 
-“So…”
+“I see...” Yun Che seemed to get what he was saying. “You’re saying that the Fog Monarch is no longer a threat to you, even if they had awakened?”
 
-Yun Che seemed to understand slightly. “Are you saying that even if the Mist Emperor awakens, he no longer poses a threat to you?”
+Mo Su still did not answer him directly. Perhaps he did not care if the ‘Fog Monarch’ could threaten him at all. He said slowly, “Even if the current them were to relinquish their control over the Endless Fog and fill the Abyss with abyssal dust once more, they could no longer truly interfere with me.”
 
-Mo Su still did not answer directly, or perhaps he simply did not care whether the “Mist Emperor” was a threat to him. He said slowly, “Even if he were to unleash the Sea of Mist now and cover the Abyss in Abyssal Dust once more, he could no longer truly interfere with me.”
+“Moreover, they had awakened earlier than expected, so their power must be lacking in some ways[1]. In fact, that is the truth. Despite detecting an ‘abnormality’ and awakening prematurely, they chose to curl up in the Endless Fog and hoot instead of punishing me as they said they would. For the past couple of years, they were not able to take a step out of the Endless Fog either, much less approach the Pure Land.”
 
-“Moreover, having awakened prematurely, his power is certainly incomplete. As the facts have shown, although he sensed an ‘abnormality’ and broke his slumber early, he can only cower and roar within the Sea of Mist. Several years have passed, yet he has not taken a single step out of it, let alone approached the Pure Land.”
+“Every time they appeared, every time they hooted, they were simply expressing their impotence and helplessness. Since the Eternal Pure Land is near, why would I need to spare them my attention? Do they even deserve my attention in their current state?”
 
-“Every appearance he makes, every roar he lets out, is nothing but a vent for his own incompetence and powerlessness. Since that is the case, and with the Eternal Pure Land so close at hand, why should I divert my attention to him? In his current state, is he even worthy of it?”
+Yun Che’s heartstrings were turning cold like they were slowly sinking into an ice-cold ocean. When Mo Su said, “relinquish their control over the Endless Fog and fill the Abyss with abyssal dust”, his expression was calm, collected, and utterly devoid of pity.
 
-Yun Che felt his heart slowly sinking into a cold, deep sea. When Mo Su spoke of “unleashing the Sea of Mist and covering the Abyss in Abyssal Dust once more,” his expression was so calm and indifferent, without a shred of pity… not even coldness. It was as if the countless lives in the Abyss who would surely face annihilation were nothing in his eyes.
+There wasn’t even indifference, for indifference at least acknowledged that there was an existence to feel indifferent about. It was as if the countless lives that would definitely be met with a tragic end amounted to absolutely nothing to him.
 
-He wanted to ask: Are you certain that the ‘Mist Emperor’ who has appeared now is the same Abyssal Master from back then? And what is this so-called ‘abnormality’? But after a brief moment of consideration, he held his tongue.
+Yun Che wanted to ask: Are you sure the current Fog Monarch is the lord of the Abyss you encountered back then? And what was this so-called ‘abnormality’?
+
+He chose not to after weighing the pros and cons.
 
 “I understand.”
 
-Yun Che nodded slightly. “Just as you said before, your life now has room for only one thing.”
+Yun Che nodded slightly. “You mentioned it before. Right now, you can only bear to carry one thing in your life.”
 
-Mo Su glanced at him, a faint smile on his lips. “That’s right.”
+Mo Su cast him a sideways glance and curled his lips into a small smile. “Correct.”
 
-All his thoughts were now focused on a single matter. As for everything else… even if the “Mist Emperor” awakened, even if the heavens collapsed and the earth sundered, even if the Abyss was annihilated… as long as it did not interfere with him, he cared not at all.
+Right now, all of his thoughts were focused on that one thing. Everything else... Even if the “Fog Monarch” had awakened, even if the world was going to collapse, even if the entire Abyss would cease to exist... as long as it did not interfere with his work, he did not care one bit.
 
-His faint reply was directed at Yun Che, his eyes looking straight into Yun Che’s.
+Mo Su had looked Yun Che directly in the eye when he gave him the affirmative reply. He was telling Yun Che frankly that he would never surpass that one and only in his heart, even if he was Ni Xuan’s successor, even if he was the brother he acknowledged and the most wonderful pleasant surprise he had received in ages.
 
-He was telling him, without any attempt to conceal it, that although he was Nixuan’s successor, although he was a brother he was willing to acknowledge and a heaven-sent surprise, he… could never surpass the one and only thing in his heart.
+He could be Ni Xuan’s reincarnation, and he still would not surpass that one in his heart.
 
-Not even if Nixuan himself were reborn.
+For several breaths, the duo just stared into each other’s eyes. Then, Yun Che opened his mouth and said with perfectly serious eyes, “When you were able to create a small but complete world with the specks of the Creation God's divine power you wielded, you must have understood that you have touched on the boundary of the Creation God.”
 
-The two stared at each other for several breaths before Yun Che spoke, his eyes filled with sincerity. “When you successfully created a complete small world with a sliver of Creation God³ power, you must have understood that you had already touched the boundary of the Creation God level.”
+“Although the Creation Gods were special existences crafted by the Ancestral God herself, and no living being could ever hope to become them, only approach them, the fact that you are able to make contact proves that your strength and level far surpass all living beings in the current world, including the eleven True Gods of the Abyss. Obviously, there is even less of a chance that there exists a living being in the ‘Eternal Pure Land’ who can surpass you.”
 
-“Although Creation Gods are special beings personally created by the Ancestral God⁴, and worldly beings can only approach that level but never achieve it, the fact that you could touch the boundary of Creation God power means your strength and your standing far surpass all other living beings in this era, including the other eleven True Gods of the Abyss. In the ‘Eternal Pure Land’ you wish to step into, there could not possibly be any being who could match you.”
+“In other words, you are unquestionably the most powerful existence in Primal Chaos right now. You are so powerful that even the awakened ‘Fog Monarch’ did not deserve to receive a sideways glance from you.”
 
-“In other words, in the entire Primal Chaos, you are without a doubt the most powerful existence, so powerful that you don’t even spare a glance for the awakened ‘Mist Emperor.’ A person as mighty as you should be the most unrestrained person in the world. No matter what you wish to do, no one could stop you, no one would dare defy you. There is nothing you cannot obtain, nothing you cannot achieve.”
+“Given your strength, you should have been the freest man in the entire world. No matter what you set out to do, no one can stop you; no one would dare to defy you. There is nothing you cannot obtain, nothing you cannot achieve.”
 
-“But why… are you so stubbornly imprisoning yourself in a cage, denying yourself freedom, or even a moment’s respite, when you clearly stand at the pinnacle of the world?”
+“So... why do you insist on locking yourself up inside a cage? Why do you refuse to give yourself, the absolute champion of the world, any freedom, or even the room to breathe?”
 
-“I believe you must know that with your power, you are more than capable of sparing some attention for other things while pursuing your goal.”
+“I’m sure you’re well aware that an absolute champion like you possessed the leeway to be distracted even while you were pursuing a certain goal with all your might.”
 
-People pursued power, but those who were purely obsessed with the profound way were few and far between. The vast majority sought great power to stand on higher ground, to proudly enjoy the admiration of others, to look down upon and manipulate the fates of the weak, and to wantonly satisfy their own desires. Yet Mo Su, the most powerful being in the entire Primal Chaos, an existence who approached the level of a Creation God, had woven for himself a cage of endless misery and loneliness, never straying a single step from it.
+Only a tiny minority of people actually pursued power purely to advance the way of the profound. The far larger majority pursued power to stand in a higher place, to receive the admiration of others in arrogance, to look down on weaklings and toy with their fates, and to satisfy their desires to their heart’s content.
 
-Mo Su smiled, then averted his gaze, continuing to stare into the emptiness before him.
+Mo Su was literally the most powerful existence in Primal Chaos right now, so much so that he was close to the level of the Creation Gods. Despite this, he had woven himself a cage of endless loneliness and infinite sorrow, never leaving for even an instant.
 
-“If Elder Brother Nixuan saw me today, he would surely try to persuade me just as you have. But… only one’s own heart knows its measure. I… am not worthy.”
+Mo Su smiled, turned away from Yun Che, and resumed watching the emptiness in front of him.
 
-“What do you mean, not worthy?” Yun Che asked.
+“If Big Brother Ni Xuan saw me right now, I am sure he would give me the same advice. However, only I know that I have no right to.”
 
-Mo Su slowly closed his eyes, concealing the divine light within them. He opened them a moment later and spoke faintly, “Back then, if Xiao Die had not shielded me with her body, I would have been annihilated in both body and soul three million years ago. There would be no Mo Su today, no Yuan Emperor, no Abyssal World.”
+“What do you mean?” Yun Che asked.
 
-“The protection of the two devil artifacts left Xiao Die with a sliver of life, but that sliver was far outweighed by her will to die.”
+Mo Su slowly closed his eyes, blocking their divine light for a moment. Then, he reopened them and said, “Back then, if Xiaodie had not blocked in front of me with her body, I would have perished in body and soul three million years ago. Today’s Mo Su, Abyssal Monarch, and the abyssal world would not have existed without her.”
 
-“Because she could not forgive herself.”
+“The combined protection of two devil artifacts managed to preserve the last wisp of Xiaodie’s life, but this sliver is nothing compared to her death wish.”
 
-Speaking of the past, Mo Su’s words and expression were so calm, with no tremor in his voice, no ripple of emotion. But an indescribable sorrow spontaneously arose from the depths of Yun Che’s soul, spreading silently through his sea of consciousness, lingering for a long time.
+“It’s because she could not forgive herself.”
 
-“The Panming Void-Piercing Mirror is the core devil artifact of the Panming Devil Clan, containing the clan’s most powerful spatial energy. The Panming Devil Emperor doted on Xiao Die the most, and he did not hesitate to place the clan’s most important artifact on her person, just to ensure her safety against any unforeseen danger.”
+Mo Su’s words and expression remained perfectly calm despite speaking of his most painful past. His voice did not tremble, and his emotions did not fluctuate. However, a well of unspeakable sorrow soundlessly emerged from the bottom of Yun Che’s soul and spread to every corner of his soul sea, unceasing.
 
-“The Niemo Reversal Pearl is the core devil artifact of the Nielun Devil Clan, possessing the clan’s most powerful temporal energy, enough to rival the God Race’s Heavenly Chronosphere Pearl. At that time, everyone believed the Niemo Reversal Pearl was in the hands of the Nielun Devil Emperor. In truth, even within the vast Devil Race, fewer than ten people knew that it had always been with the Nielun Crown Prince. Xiao Die was one of them.”
+“The Original Nether Void Breaching Mirror is the Original Nether Devil Clan’s core devil artifact. It contains the devil race's greatest spatial power. Xiaodie was the Original Nether Devil Emperor’s favorite child. In order to ensure that no harm will ever befall her, and no accident will ever catch her off guard, he gave her his race’s most important devil artifact, the Original Nether Void Breaching Mirror.”
 
-“This was because although she and the Nielun Crown Prince belonged to different devil clans, they grew up together and were extremely close, more so than actual siblings. He was, in her words, the person who treated her best in the world.”
+“The Nirvana Devil Wheel Reversing Pearl is the Nirvana Devil Clan’s core devil artifact. It contains the greatest time power of the devil race. It is powerful enough to resist the god race’s Eternal Heaven Pearl. Back then, everyone thought that the Nirvana Devil Wheel Reversing Pearl must be held by the Nirvana Devil Emperor. In reality, even in the devil race itself, less than ten people knew that the Nirvana Devil Wheel Reversing Pearl was carried by the Nirvana Crown Prince.”
 
-The context of Mo Su’s words suddenly shifted.
+“Xiaodie is one of the few who knew about this. Although she and the Nirvana Crown Prince do not belong to the same race, they grew up together and shared a bond that is closer than even blood-related siblings. Xiaodie called him the person who treated her best in the entire world.”
 
-“Back then, the news that the Heaven Punishing Divine Emperor intended to execute me personally in the God Realm of Absolute Beginning was deliberately released by him to lure Xiao Die there. With the spatial power of the Panming Void-Piercing Mirror, there was a great hope of rescuing me, even from the Heaven Punishing Divine Emperor himself.”
+This was the moment the tone of Mo Su’s story changed dramatically.
 
-“At that time, the Heaven Punishing Divine Emperor had what he believed were unavoidable reasons to execute me. As for Xiao Die, he held extreme hatred for her. He wanted to kill her even more, and perhaps seize the Panming Void-Piercing Mirror in the process.”
+“The Heaven Punishing Divine Emperor had intentionally released the news that he intended to execute me in the God Realm of Absolute Beginning. He did this to lure Xiaodie out. With the spatial power of the Original Nether Void Breaching Mirror, she had a huge chance of saving me even from his hands.”
 
-“Xiao Die was so clever, how could she not have known?”
+“The Heaven Punishing Divine Emperor wanted to execute me because of helpless reasons and circumstances. As for Xiaodie, he hated her to the bone. He wanted to kill her and even get his hands on the Original Nether Void Breaching Mirror if possible.”
 
-“But she still came. And she brought not only the Panming Void-Piercing Mirror, but also the Niemo Reversal Pearl.”
+“Xiaodie is an intelligent woman. Of course, she was aware of his motives.”
 
-Yun Che had already learned some of this from Nixuan’s memory fragments, but hearing it from Mo Su now was a completely different experience.
+“She still showed up, though. She didn’t just bring the Original Nether Void Breaching Mirror, but also the Nirvana Devil Wheel Reversing Pearl.”
 
-“The appearance of the Niemo Reversal Pearl was beyond the Heaven Punishing Divine Emperor’s expectations. The combined burst of spatial and temporal power briefly sealed even his Creation God power. But, in the instant before we were about to escape, he used the Ancestral Sword to extinguish all hope.”
+Yun Che had already learned about this from Ni Xuan’s memory fragment, but hearing it from Mo Su’s own mouth brought completely different feelings.
 
-Mo Su’s gaze lifted slightly, as if piercing through an even more distant time and space. “I remember in my youth, I held an endless yearning for the ultimate power. I once asked him, under what circumstances would the divine light of the Ancestral Sword bloom upon the world?”
+“The Heaven Punishing Divine Emperor wasn’t expecting the Nirvana Devil Wheel Reversing Pearl. The combined flash of spatial and temporal power was able to temporarily seal even his Creation God's divine powers. However, right before we would escape to safety, he extinguished all of our hope with the Ancestral Sword.”
 
-“He said, only when there was no other choice. He said, he would rather never have to use the Ancestral Sword’s might in his entire life.”
+Mo Su lifted his head slightly, eyes seemingly peering into an infinitely distant spacetime. “Back when I was just a young man, I once harbored infinite yearning toward ultimate power. I asked him what situation it would take for the Ancestral Sword to shine its divine light once more.”
 
-“On that day, I finally witnessed him reveal the Heaven Punishing Ancestral Sword and unleash its might, a power sufficient to destroy the Heavenly Way.”
+“He told me that would happen only where there is no other choice. He told me that he would rather never have to use the Ancestral Sword for as long as he lived.”
 
-“And it was directed at me.”
+“That day, I finally witnessed the power of the Heaven Punishing Ancestral Sword with my own eyes. It was a power capable of destroying even the heavenly law.”
 
-No one in the world could ever truly comprehend the emotions Mo Su felt in that moment.
+“And he chose to use that power on me.”
 
-“The might of the Ancestral Sword destroyed the seal of space and time, damaged the Panming Void-Piercing Mirror and the Niemo Reversal Pearl, and cast Xiao Die and me, along with the two devil artifacts, into the Abyss of Nothingness.”
+Only Mo Su could know what he was feeling at that moment.
 
-“During that hopeless fall, I learned that she had fled her clan with the Panming Void-Piercing Mirror, and that she had tricked the Niemo Reversal Pearl from the Nielun Crown Prince, exploiting his affection and trust for her.”
+“The Ancestral Sword destroyed the time and space seals and severely damaged both the Original Nether Void Breaching Mirror and the Nirvana Devil Wheel Reversing Pearl. It also sent me, Xiaodie, and the two devil artifacts into the Abyss of Nothingness.”
 
-“She betrayed her clan, hurt the person who treated her best, the Nielun Crown Prince, and caused the Devil Race to lose two devil artifacts vital to their lifeline, becoming the greatest sinner in the history of the Panming Devil Clan and the entire Devil Race.”
+“It was during the hopeless fall that I learned that she had escaped from her clan while carrying the Original Nether Void Breaching Mirror. As for the Nirvana Devil Wheel Reversing Pearl, she had stolen it from the Nirvana Crown Prince by manipulating his absolute trust in her.”
 
-“And all of it was for me.”
+“She did all this... for me.”
 
-His words, his voice, remained just as calm. Because the images, the sounds, all the pain and despair of that time had carved and ground his heart and soul countless times over these millions of years. No one could ever know just how many scars were etched upon his soul, the most powerful in the world… each one bleeding eternally, each one never to heal.
+Again, his voice and tone sounded terribly calm. It was because those images, those voices, and all that despair and pain had cut and ground his heart and soul to paste again and again for several million years. No one could know just how many scars and wounds were carved into the strongest soul in the world... all of them bleeding and never healing.
 
-“I asked her, was it worth it?”
+“I asked her if it was worth it.”
 
-“She said that for me, she had no regrets. Then she said she no longer had the face to live in this world. Even if she were to fall into reincarnation after death and suffer ten thousand lifetimes of purgatorial punishment, she would not have the face to meet anyone from the Devil Race.”
+“She told me that she did not regret doing this for me. She also said that she no longer deserved to live. She could die and be reincarnated to suffer ten thousand lifetimes of purgatory, and she still would not be able to look any devil in the eye ever again.”
 
-Yun Che took a deep breath, but his chest still felt heavy and suffocated.
+Yun Che tried sucking in a deep breath, but his chest remained so heavy that it was suffocating.
 
-“My father by blood, for the sake of the justice he upheld, did not hesitate to use the Ancestral Sword on me. And my Xiao Die, for my sake…”
+“My father went so far as to use the Ancestral Sword to defend the right he believed in, and my Xiaodie... for my sake...”
 
-His voice paused. He turned his gaze, and still, no emotion could be seen in his eyes. “So, do you understand now what I mean by ‘not worthy’?”
+He paused and turned to look at Yun Che. Still, Yun Che could not find any emotion in those eyes. “This is why I don’t have the right. Do you understand now?”
 
-Yun Che was silent for a moment.
+Yun Che was silent.
 
-“What does ultimate power matter?”
+“So what if I possess the ultimate power?”
 
-Mo Su’s voice softened, as if speaking to Yun Che, but even more to himself. “What I pursue is something that, for an ordinary person, is as easy as lifting a hand.”
+Mo Su’s voice softened, and he said seemingly to Yun Che, but probably more to himself. “What I pursue is, to ordinary mortals, but a mere trifle.”
 
-“If I can let her awaken safely, then power, lifespan, status… everything I possess can be abandoned, can be sacrificed.”
+“If she can wake up safely, power, lifespan, status... I can discard or sacrifice anything and everything I have.”
 
-Yun Che sighed in his heart and could only say calmly, “There is no true empathy in this world. As such, between heaven and earth, there is only one person who can console you… Therefore, for your sake, no matter how much she may crave the peace of sleep, she will definitely wake up.”
+Yun Che sighed inside his heart and replied calmly, “There exists no one in this world who can truly empathize with you. So, the only one left who can console you is... I’m sure that, for your sake, she will awaken no matter how much she desires a peaceful rest.”
 
-Mo Su smiled, this time with infinite warmth. “Of course.”
+Mo Su smiled again, and this time his smile was infinitely warm. “Of course.”
 
-He raised his right hand and gently touched the black bracelet on his left wrist, each finger tracing it with endless fondness and affection.
+He raised his right hand and gently tapped the black bracelet on his left wrist. Every single finger was swiping through the air with endless yearning and love.
 
-Just then, a crimson light suddenly appeared before Mo Su. It was a blazing flame that outlined the silhouette of a red bird before vanishing in an instant.
+A red light suddenly appeared in front of Mo Su. It was a ball of fiery light that drew the picture of a bird. It disappeared the next instant.
 
-“Lingxian is paying a visit. How rare.” Mo Su sighed softly. “I thought she would never step into this hall again in this lifetime.”
+“Ling Xian is visiting. This is a rare occurrence.”
 
-Lingxian… a Divine Officer?
+Mo Su sighed. “I thought she would never set foot in this hall again.”
 
-Yun Che took the opportunity to say, “In that case, it’s about time for me to take my leave. If I stay any longer, I’m afraid my Caili will start to worry.” The moment the words left his mouth, Yun Che regretted them… it was like poking Mo Su right where it hurt the most.
+High Priest... Ling Xian?
 
-Mo Su, however, smiled and said, “Very well. I watched Caili grow up. She has a pure heart. Since her heart belongs to you, she will surely be true to you for life. You must never let her down.”
+Yun Che saw the opening and said, “In that case, I should take my leave. Caili is probably going to get worried if I linger any longer.”
 
-“Of course,” Yun Che replied with a smile as he turned to leave.
+Yun Che regretted his words as soon as they tumbled out of his mouth... the hell were you thinking?! You’re practically poking Mo Su where he is hurting the most!
 
-Mo Su raised his hand and touched Yun Che’s shoulder. Instantly, the space before them contracted sharply. In a fleeting daze, Yun Che found himself standing before the hall’s entrance.
+Mo Su said with a smile, “Of course. I have watched over Caili since she was a child. She is as innocent as she is pure. Since she fell in love with you, she will never betray you. You should never betray her love either.”
 
-Mo Su did not stop but walked out of the Eden Sacred Hall with Yun Che. Dugu Zhuyuan, who had been guarding the entrance, was stunned for several breaths when he saw Yun Che emerging side-by-side with the Yuan Emperor before he moved to bow. A storm of shock surged through his heart.
+“Of course not,” Yun Che turned around and replied with a smile.
 
-Even the Grand Divine Officer would never dare to walk alongside the Yuan Emperor.
+Mo Su raised his hand and touched Yun Che’s shoulder. The space in front of them contracted rapidly, and the next thing Yun Che knew, he was standing in front of the entrance.
 
-Just as Yun Che was about to bid farewell, Mo Su suddenly said, “As your elder brother, there is something I must remind you of.”
+Mo Su did not linger. He stepped out of Eden’s Temple together with Yun Che. Dugu Zhuyuan had been guarding the entrance all this time, so when he saw Yun Che and the Abyssal Monarch stepping out of the door shoulder-to-shoulder, he blanked out for a good few breaths before he rushed forward to salute the Abyssal Monarch.
 
-“…!?” Dugu Zhuyuan’s body trembled violently. He had been kneeling on one knee, but he almost collapsed into a full kowtow.
+Even so, the tidal waves in his heart were raging like a thunderstorm. After all, not even the Chief Priest would dare to walk side-by-side with the Abyssal Monarch.
 
-“Please speak, Elder Brother.” Dugu Zhuyuan’s body, which he had just steadied, almost swayed again. As the First Abyssal Knight, Dugu Zhuyuan was also the Yuan Emperor’s personal attendant and held a very special status by his side. Although the Yuan Emperor had agreed to Yun Che’s wish not to publicize their sworn brotherhood, there was no need to hide it from Dugu Zhuyuan.
+Yun Che was just about to bid Mo Su goodbye when Mo Su said, “As your big brother, I should remind you about something.”
 
-Mo Su’s expression was placid as he spoke faintly, “Shen Wu Yanye has developed the intent to kill you.”
+“...?!” Dugu Zhuyuan shuddered. He was going to drop to one knee, but Mo Su’s words nearly caused both of his knees to hit the floor with a resounding crack.
+
+“Please enlighten me, big brother.”
+
+Dugu Zhuyuan nearly lost his balance after just catching himself.
+
+Dugu Zhuyuan wasn’t just the number one abyssal knight; he was also a close attendant of the Abyssal Monarch. Therefore, his position was more special than most. Yun Che did not wish to publicize their newly sworn brotherhood, so the Abyssal Monarch would obey his wish. However, there was no need to hide this from Dugu Zhuyuan.
+
+Mo Su said evenly and calmly, “Shenwu Yanye desires to kill you.”
+
+1. Yeah well, that would be true... if your opponent isn’t the bloody other half of the Ancestral God. If anything, I’m pretty sure that the influx strengthened her, and she’s closer than she ever was to becoming whole. And that is most likely what the AG on this side wants—to become whole once more. ☜

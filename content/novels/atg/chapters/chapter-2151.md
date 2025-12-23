@@ -1,167 +1,173 @@
 ---
 chapterNumber: 2151
-title: ""
-publishedAt: "2025-11-25"
+title: "Punishment By Devouring Rage (2)"
+publishedAt: "2025-12-23"
 ---
 
-The gentle breeze atop Eden's Cloud Top grew colder, becoming bone-chilling. So much frothy blood gathered into a stream, dripping in thick rivulets from the corners of Yun Che's lips. No one knew—or perhaps no one dared to imagine—that the spiritual torment Yun Che endured surpassed even that of his body.
+The wind of Eden’s Crown was still growing colder and colder. It was starting to chill the bones at this point. So much blood was shed that it transformed into a stream and poured down Yun Che’s lips without end.
 
-It was as if endless, violent, resentful spirits were roaring and crashing within his soul sea, their sharp claws cruelly tearing at his soul amidst piercing shrieks, their fires of resentment searing his will and conviction. Such a spiritual ordeal, if inflicted upon an ordinary Divine Master, would be enough to cause a complete collapse in a single breath¹... let alone when compounded by physical torture, let alone for two hundred full breaths.
+No one knew... or dared to imagine that the pain wracking Yun Che’s soul was even worse than his body’s. It felt as if an endless ocean of violent, hateful spirits of fury were howling and rampaging inside his soul sea right now. While screaming, they were cruelly ripping into his soul with their claws and scorching his willpower and conviction with their flames of hatred.
 
-"Yun Che, focus and listen to my voice! You must hold on to your clarity! Yun Che!!" Li Suo's voice was more frantic than ever. Like Meng Kongchan in the world outside, she called out ceaselessly, using the only means she had to pull back Yun Che's soul, which was like a lone boat in a raging sea.
+This soul torture could have utterly crushed an ordinary Divine Master in just one breath... not to mention the physical pain Yun Che was enduring, not to say that he had to endure both forms of torture for two hundred breaths.
 
-Amidst her panicked cries, a distorted, hoarse roar echoed from his soul sea: "Silence... How could I be... as fragile as you think!"
+“Gather your heart and listen to my voice, Yun Che! You must protect your clarity of mind no matter what! Yun Che!!” Li Suo sounded more urgent and worried than she had ever been. Just like Meng Kongchan, she was calling out to him again and again. She was using the only way she knew to anchor Yun Che’s soul and keep it steady against the raging sea that was the punishment of devouring rage.
 
-Li Suo's voice gradually faded.
+However, a twisted, hoarse roar responded to her panicked screams, “Shut up! Do you think... I am not ... nearly as frail and weak... as you think I am!”
 
-Yet, within the turbulent, near-shattering soul sea, Yun Che's voice continued to resound: "How can this pain compare to the sorrow of the Blue Pole Star's fall, to the ashes of ten thousand hopes..."
+Li Suo’s cries gradually came to a stop.
 
-"How can this pain compare to the calamity of my homeland on the brink of ruin, to the demise of all its souls..."
+Although his soul sea was raging hard enough to fall apart at any moment, Yun Che’s voice echoed loud and clear, “What is this pain compared to the all-consuming despair and sorrow I felt when Blue Pole Star was destroyed?”
 
-"How can this pain compare to the weight of the destiny I bear..."
+“What is this pain compared to the disaster that threatens to upend my homeworld and bury countless lives?”
 
-"I am... Emperor Yun of the God Realm! I came here to overturn the Abyss, and I bear the safety of every soul in my homeland on my shoulders... This mere Punishment of Desolation Devouring... this trivial pain of body and soul... is it worthy of making me collapse... worthy of making me yield!?"
+“What is this pain compared to the weight of fate bearing down on my shoulders?”
 
-"What... a... joke!!"
+“I... am Emperor Yun of the God Realm! I have come to destroy the Abyss bearing the weight and safety of countless lives in my homeworld! Do you think... that a mere punishment of devouring rage... that a little bit of physical and soul pain... is enough to crush me? Is enough to make me succumb!?”
 
-After a long while, Li Suo's voice sounded again... gone was the earlier urgency and panic, replaced by a tone even softer and gentler than usual. "Very well. I will watch you quietly as you safely pass through this... minor setback on your abyssal path."
+“Who... are... you... kidding!!!”
 
-Fifty breaths... sixty breaths... seventy breaths... Time crawled by with terrifying slowness. Everyone could hear the distinct beat of their own heart... yet not once did they hear even a single, fleeting cry of pain from Yun Che.
+A long, long time later, Li Suo finally spoke up once more. However, the terrible panic and urgency that dyed her voice earlier were nowhere to be found. No, it was the same tone she used when speaking to Yun Che, but gentler and softer than usual. “Okay. I won’t disturb you. I’ll watch over you quietly as you safely overcome... this tiny obstacle in your abyssal journey.”
 
-The bones in all ten of Yun Che's fingers were completely exposed, and deep, bloody holes had been pierced through his palms, staining them crimson. Even the mist of sweat rising from his body had turned into a shocking blood mist. The Punishment of Desolation Devouring, according to records, was an ultimate torture that ravaged one's very "existence." Any part of one's body and soul, no matter how small, would suffer the cruelest desolation. The muscles all over his body writhed and undulated madly, and his veins bulged like dying, struggling flood dragons... but his tightly pressed lips never uttered a single sound of submission. No matter how his body trembled in agony, his spine remained proudly erect.
+Fifty breaths... sixty breaths... seventy breaths...
 
-He was like a winter pine that could not be burned away or crushed in the searing flames of purgatory.
+The passage of time had never felt so slow. Everyone’s heart was beating so loudly that they could clearly hear their own heartbeats. However... they could not hear even a single scream from Yun Che. Not even one.
 
-Eighty breaths... ninety breaths... Meng Kongchan had stopped calling out. He stared blankly at Yun Che, letting the tears of a Divine Master well up in his eyes again and again.
+All ten of Yun Che’s fingers were deboned at this point. His palms were riddled with deep, self-inflicted holes of blood. Even the fog of sweat shrouding him initially had transformed into a horrifying fog of blood.
 
-Such will, such pride... this was his, Meng Kongchan's, son!
+According to the records, the punishment of devouring rage was an extreme form of torture that began from one’s “existence”. So long as the victim’s body and soul still existed, the punishment would inflict upon them the cruelest devouring rage down to the very last cell. His muscles were undulating and wriggling like crazy, and his veins were bulging like dragons in their death struggle... but despite this, his tightly pursed lips never let slip a single noise of submission, nor did his spine bend even once, no matter how much his body writhed in suffering. He looked like a winter pine tree that could never be broken or burned completely, no matter how hard the inferno of purgatory burned.
 
-A faint shadow flickered before Hua Qingying's eyes. She subconsciously reached up to touch it... it was a strand of her own black hair, which she had torn out without realizing it.
+Eighty breaths... ninety breaths... Meng Kongchan had stopped shouting at this point. He was staring blankly at Yun Che while the tears of a Divine Regent welled inside his eye sockets again and again. What willpower, what pride... This is my son!
 
-Hua Caili's body had not stopped trembling for a moment, and countless cracks had spread across her heart... But as if hearing her choked sobs, Yun Che, under the stunned gazes of all present, slowly opened his eyes.
+A shadow flitted across Hua Qingying’s vision, and she subconsciously caught it with one hand. When she looked... she saw that it was a strand of her own blue hair she had snapped without realizing.
 
-His gaze met Hua Caili's in a silent touch. At this moment, the whites of his eyes were filled with terrifying blood vessels, the veins on his temples throbbed wildly, and his features contorted in violent spasms with every passing instant... He looked more horrifying than the most ferocious of demons.
+Hua Caili’s body had not stopped trembling for even a moment, and her heart had not stopped growing cracks since the punishment began... As if he could hear her sobs, amidst everyone’s befuddled gazes, Yun Che slowly opened his eyes and met Hua Caili’s without a sound.
 
-But in Hua Caili's eyes, even if all the grace and splendor of every man in the world were gathered before her, it could not compare to this single moment from Yun Che.
+Right now, the whites of his eyes were covered entirely in terrifying red threads, his blue veins were bulging wildly across his forehead, and every single one of his facial features was spasming and warping like crazy. Right here and now, he looked scarier than even a violent, malicious ghoul from hell.
 
-"Cai... Li..."
+But to Hua Caili? There was no man in the entire world who looked more attractive than Yun Che right now.
 
-His lips trembled, yet he managed to form a sound—extremely dry and hoarse, but clear enough to be heard.
+“Cai... Li...”
 
-"Don't... be afraid..."
+His lips trembled, and an indescribably hoarse but clear voice somehow came out of his mouth.
 
-"It doesn't... hurt... at all..."
+“Don’t... be... scared...”
 
-He actually smiled... The curve of his lips was stained with blood from his broken teeth, mixing with saliva and bloody froth as it trickled down. It was a ferocious and terrifying sight, yet his eyes held a gentleness that made Hua Caili's heart and soul tremble.
+“This... doesn’t... hurt... at... all...”
 
-Meeting his gaze, Hua Caili also began to smile softly... but in the same instant, tears streamed down her face like rain.
+He smiled. He actually smiled. The corners of his lips were stained with the blood spilled from broken teeth. Blood mixed with saliva was constantly streaming down his chin. He looked beyond savage and terrifying right now, and yet his eyes contained a kind of gentleness that shook Hua Caili to her very core.
 
-"Brother Yun, look at me... listen to my voice..."
+Meeting his gaze head-on, Hua Caili responded with a gentle smile of her own... even though tears instantly cascaded down her cheeks like waterfalls.
 
-Hua Caili gazed into his blood-red eyes, her tearful voice echoing across Eden's Cloud Top, in the ears and souls of everyone present. "Today's pain is one you selfishly bear for me... I will... train hard... I will quickly become as strong as Aunt² and Father God³. After today... all the hardships... obstacles... and pain... I will bear them all!"
+“Big Brother Yun, look at me... and listen to my voice...”
 
-These were not the sweet nothings of a young girl whispered in private, but a resolute oath made upon this most sacred ground, before Yun Che, and in the presence of the Abyssal Monarch and the Six God Kingdoms. With heaven and earth as witness, and the people of the world as proof, it was a vow that could not be broken.
+Staring into Yun Che’s bloodshot eyes, Hua Caili’s tear-soaked voice echoed across Eden’s Crown and into everyone’s ears and souls. “Today's pain is something you selfishly bore for me... so... I will practice hard... I will become someone as powerful as Aunt and Father as soon as possible... from today onward... all of the difficulties... obstacles... and pain... will be borne by me!”
 
-Yun Che, enduring the punishment alone; Hua Caili, softly reciting her oath... At this moment, everyone present was deeply moved.
+These were not the sweet, private words between a young woman and her lover. This was a declaration she had made in the highest land of the Abyss. This was an oath she swore in front of Yun Che, the Abyssal Monarch, and the six Kingdoms of God. Heaven and earth were her witnesses, and all of the world would soon learn of her oath. It went without saying that it was an absolute oath she planned to keep no matter what.
 
-They should have been mocking Yun Che and Hua Caili for their audacity, scorning them for their shamelessness in abandoning a betrothal to "fall for" another, and sighing over Yun Che's world-shocking talent being wasted on a path to ruin... But now, they couldn't help but feel... that perhaps the Abyssal Monarch's bestowed marriage was truly a mistake.
+Yun Che, who was being tortured alone, and Hua Caili, who was softly reciting her vows... Right here and now, there wasn’t a single soul who wasn’t moved by this sight.
 
-Yun Che, who had defeated a God-Annihilating foe with the power of a Divine Master, was nothing short of astonishing. Hua Caili's talent in the way of the sword was enough to shake the ages, earning even the Abyssal Monarch's praise. They were the only two with perfect godhood in the current era, the first time twin stars had descended upon the Abyss in its history, and both were descendants of Divine Masters... Everything about them seemed like a match made in heaven⁴.
+They should be laughing at Yun Che and Hua Caili for not realizing how high the sky was and how deep the earth ran. They should be scornful of them for betraying their engagement and shamelessly “falling in love” with another. They should also be lamenting the loss of an impossible talent who insisted on committing suicide... But right here and now, they could not help but wonder if the betrothal bestowed by the Abyssal Monarch Himself... was a mistake that should not have happened.
 
-The Abyssal Monarch watched in silence. He had not spoken a word since the Punishment of Desolation Devouring began, and the faint divine radiance surrounding him seemed to have frozen time itself. No one knew that his vision, at this moment, was covered in a thick, blurry haze.
+One of them was a Divine Master who could defeat a Divine Extinction Realm on his own. To say that his talent was universally shocking would still be an understatement. The other was a swordswoman possessing such stunning talent in the way of the sword that even the Abyssal Monarch had to offer His praise.
 
-One hundred and ten breaths... one hundred and twenty breaths...
+They were both the only two perfect God Bearers in this universe, the first ever pair of stars in the history of the Abyss, and the descendants of a Divine Regent... Anything and everything suggested that they were made to be together.
 
-On the side of the Senluo God Kingdom, Dian Luohou's brow was deeply furrowed. He had been silent for a long time... and had not once laughed, cursed, or mocked Yun Che to hit a man when he's down⁵. There was only a profound gravity about him.
+The Abyssal Monarch kept watch silently. He hadn’t spoken a word since the punishment began, and the gentle divine glow enveloping him seemed to have frozen even time itself. No one knew that his vision was heavily blurred right now.
 
-Dian Jiuzhi's expression had been constantly shifting—pity, shock, bewilderment... But now, hearing Hua Caili's soul-touching whisper, the corner of his mouth twitched, and he gave a faint smile.
+One hundred and ten breaths... one hundred and twenty breaths... on the Boundless Kingdom of God’s side, Dian Rahu was wearing a deep frown on his face. It had been a long time since he said a single word, and... despite the circumstances, he had never once laughed, yelled, or ridiculed Yun Che from the start until the end. There was only deep, heavy gravity in his expression.
 
-Someone is willing to do this for you... and you have found someone for whom you are willing to do this... Caili, congratulations on finding the best person for you. I am genuinely happy for you... and for myself. My waiting and protection are no longer needed for the rest of your life. What I can still do is gradually quell my father's anger and shield you from the storms that lie beyond your happiness.
+Dian Jiuzhi’s expression was changing all this time. Appalled, shocked, dazed... and now, when he heard Hua Caili’s soulful whisper, the corners of his lips actually twitched... and curled into a small smile.
 
-Beside him, Dian Sansi stood frozen, his earlier madness and glee long gone, replaced by an ever-deepening sense of confusion.
+Someone is willing to go so far for you... And there is someone you are willing to go so far for... Congratulations on finding the best one for you, Caili. From the bottom of my heart... I am happy for you... and myself.
 
-In the distant sky, a red figure had appeared at some unknown time, gazing at the scene on Eden's Cloud Top. She wore a long, fiery robe, and her snow-white hair was unbound. Powerful cultivators were supposed to be immune to the erosion of time, yet time seemed to have poured all its cruelty upon her, leaving her face as wrinkled as withered wood. In her sunken sockets, a pair of eyes that in her youth could have captivated countless souls were now nothing but a dull, gray turbidity.
+You no longer need my presence or my protection for the rest of your life. The only thing I can do now is to gradually extinguish Father’s anger and shield you from the storms that will stand in the way of your happiness.
 
-"To think such a will, and such a devoted man, exists in this world... Cough... cough cough!" She coughed violently, unable to stop for a long time.
+Beside him, Dian Sansi was standing with a blank expression. His earlier madness and exhilaration had long disappeared. All that was left behind was ever-growing bewilderment.
 
-The attendant Sushang, standing quietly by her side, reached out and gently patted her back. "Master, the lingering affliction in your body has not yet cleared. Since you have seen what you came to see, it is time to go back."
+Far, far away in the distant horizon, a red figure was standing in the sky and overlooking everything that was happening in Eden’s Crown since heaven-knows-when. She had long, snow white hair. She was wearing a long dress that gave her a flaming appearance. A powerful, profound practitioner like her should not fear the erosion of time, but the passage of time seemed positively merciless on her. Her face was wrinkled like rotten bark, her eye sockets were deeply sunken, and those pupils that once won the hearts of countless when they were young only contained gray murkiness now.
 
-"Alright." She did not resist. Her final gaze fell upon the Abyssal Monarch, lingering on him for a long while.
+“To think that such a willpower and man of devotion existed... Cough... Cough cough!” She started coughing violently. She would not recover until a long time later.
 
-"He... must be deeply moved by this scene." Sushang supported the red-robed woman as they departed in silence, as if they had never been there at all.
+Standing quietly beside her, Su Shang gently patted the old woman on her back while saying, “Master, your ailment hasn’t receded yet. You should return now that you’ve seen what you’ve come to see.”
 
-At this moment, a strange quiet fell over Eden's Cloud Top, broken only by the sound of Yun Che's blood and sweat dripping to the ground.
+“Okay.” She did not reject Su Shang’s advice. She looked at Eden’s Crown and rested her gaze on the Abyssal Monarch for a very, very long time.
 
-All eyes were fixed on Yun Che, silently counting the passage of time.
+“He... must be deeply affected by this scene.”
+
+The woman in red leaned on Su Shang and disappeared together with her after that. It was as if they had never shown up.
+
+Right now, it was bizarrely silent throughout Eden’s Crown. Only the sounds of Yun Che’s blood and sweat dripping against the floor could be heard. Everyone was looking at him, silently counting the passage of time in their heart.
 
 One hundred and sixty breaths... one hundred and seventy breaths...
 
-"To have such a son, what more could one ask for in this life," Qi Heng Divine Master murmured.
+“To have a son like that... What else can anyone ask for?” The Pray Eternal Divine Regent murmured.
 
-Beside him, Pan Buzhuo had lost all trace of his earlier sneer. The gaze he now cast upon Yun Che reflected a sense of humility he had never felt before. All his previous malice, harsh words... and even jealousy, now made him seem pathetic and laughable.
+Beside him, Pan Buzhuo’s earlier scorn and disdain were nowhere to be found. When he cast his gaze at Yun Che, the feedback he received... was a sense of inferiority he had never felt in his life. All of his malicious words and thoughts from before, all of his jealousy... all of it only made him feel meek and laughable.
 
 One hundred and eighty breaths... one hundred and ninety breaths!
 
-Suddenly, a shrill scream pierced the air.
+Suddenly, a shrill, horrible scream cut through the air.
 
-"Absurd! Absurd!! Men are the most hypocritical and wretched things in this world! How could any man do this for a woman... It's fake... just a filthy act, a hypocritical lie! Fake... It's all fake!!"
+“Ludicrous! Ludicrous!! Men are the most hypocritical and despicable creatures in the entire world! There is no way a man could go this far for a woman... it’s all fake... it’s just a filthy pretense, a hypocritical lie! It’s all fake... it’s all fake [1] !!! ”
 
-The Wuming Divine Master, who had been quiet for so long, shrieked as if she had suddenly gone mad. Her black palanquin⁶ was torn apart by the uncontrolled power in her voice, the dark curtains fluttering wildly. A series of pained cries followed as most of the Daughters of Eternal Night around the palanquin were thrown to the ground, clutching their ears in agony.
+The Lightless Divine Regent, who was silent all this time, suddenly screamed like she had suddenly gone mad. Her out-of-control voice and profound energy ripped apart the pitch black palanquin, sending shredded pieces of black ribbons everywhere. Bloodcurdling screams filled the air as most of the women surrounding the palanquin were knocked to the ground. They were all clutching their ears in pain.
 
-"No... How could such a man exist in this world! Impossible... Impossible! It's all a hypocritical lie... Hypocrisy... Lies... LIES! Ahahahahaha!!"
+“No... a man like this cannot possibly exist in this world! Impossible... impossible! It’s all a hypocritical lie... hypocrite... lies... lies! Ahahahahahaha!! [2]”
 
-Bang!
+The broken palanquin suddenly flew into the air and carried Shenwu Yanye away from Eden’s Crown. No one knew where the woman who suddenly suffered a mental collapse was headed.
 
-The shattered palanquin suddenly shot into the sky, carrying the emotionally shattered Shenwu Yanye away from Eden's Cloud Top, disappearing to an unknown destination.
+“Divine Regent!” Shenwu Youluan let out a cry of shock before grabbing Shenwu Yi’s wrist and chasing after her Divine Regent. Every other member of the Eternal Night Kingdom of God was giving chase as well.
 
-"Divine Master!" Shenwu Youluan cried out in alarm. She quickly grabbed Shenwu Yi's wrist and led the others in hurried pursuit. In the instant before she leaped off Eden's Cloud Top, Shenwu Yi inexplicably glanced back... Her final gaze, as if guided by an unseen force, fell upon Yun Che. A complex, unreadable emotion flickered in her eyes before she vanished into the clouds.
+Right as she leaped off of Ede’s Crown, Shenwu Yi looked back for some reason... and found her gaze being drawn toward the man named Yun Che for an instant. A hint of something complex and inexplicable flashed in her eyes, and she disappeared behind the clouds right after that.
 
 Two hundred breaths!
 
-The High Priest abruptly withdrew his hands, and thousands of withered-yellow profound lights flew away from Yun Che's body... but his divine eyes remained fixed on Yun Che, a great wave, the likes of which he had not felt in a million years, surging through his heart. He asked himself if he could have endured such a punishment from start to finish without a single sound, as Yun Che had. He could not.
+The Chief Priest abruptly withdrew his palm, and countless needles of withered yellow profound light left Yun Che’s body at once... However, his divine eyes remained glued to Yun Che’s person, and a tidal wave of emotions he had not experienced even once for the past million years churned inside his heart.
 
-What kind of will, what kind of conviction...
+He asked himself if he could endure two hundred breaths of the punishment of devouring rage without uttering a single sound like Yun Che. The answer was no.
 
-"Yuan'er!!"
+Just what kind of willpower and conviction...
 
-"Brother Yuan!"
+“Yuan’er!!”
 
-"God Child Yuan!!!"
+“Brother Yuan!”
 
-"Brother Yun!"
+“Divine Son Yuan!!!”
 
-...
+“Big Brother Yun!”
 
-The pain receded like a tide, replaced by a cacophony of shouts, each more urgent than the last. Yun Che's spirit relaxed, and his upper body, which had remained proudly erect throughout the Punishment of Desolation Devouring, lost all feeling. He fell backward limply and landed in a gentle embrace.
+... The pain receded like tidal water, and all he could hear was a cacophony of screams. Each one was only more worried and scared than the last. Yun Che’s spirit relaxed, and the back that had remained standing throughout the punishment of great rage finally lost all senses and fell backward powerlessly... into the crook of a warm, gentle arm.
 
-Meng Kongchan gently held his body, his robes instantly stained with blood... This Wumeng Divine Master, who had led the Dreamweaver God Kingdom for ten thousand years, was at a complete loss. His hands, which could shatter heavens and sunder mountains, now dared not exert the slightest force. He simply knelt there woodenly, not daring to move for a long time.
+Meng Kongchan’s clothes were instantly drenched in blood as he gently held Yun Che... He was the Dreamless Divine Regent who had led the Dreamweaver Kingdom of God for over ten thousand years, and yet he had never felt more panicked and lost than he was now. His arms possessed the strength to rip heaven and earth like nothing, and yet he didn’t even dare to muster an ounce of strength. He could only half-crouch on the ground and do nothing for a long time, afraid to move even a muscle.
 
-Amidst the shouts, Yun Che opened his eyes, but it was a long while before his vision could capture even a few blurry images.
+The shouts kept coming, and Yun Che opened his eyes. It took him an unbelievably long time before some blurry images finally peeked out of the blurry haze that was his vision.
 
-He grinned, revealing a seemingly triumphant smile. "See... the Punishment of Desolation Devouring... is nothing... special..."
+The corners of his mouth split open. He seemed to be wearing a cocky grin as he declared, “See... told you... the punishment of devouring rage... is nothing...”
 
-Hua Caili buried her face in his chest, sobbing uncontrollably. Her clenched fists wanted to strike him hard, but she could never bring herself to let them fall.
+Hua Caili was burying her face against his chest and weeping like a baby. She clenched and released her fists repeatedly like she wanted to punch him hard, but she ultimately could not bear to do it.
 
-Hua Qingying turned her gaze back to Hua Fuchen and said, "Well? The man Caili chose for herself is far better than the one you picked for her, isn't he?"
+Hua Qingying turned around and gave Hua Fuchen a look. “So? What do you think? The man Caili chose is countless times better than the one you chose for her, no?”
 
-Hua Fuchen smiled. "This boy... he just makes one worry too much."
+Hua Fuchen smiled. “Well... If only he was less of a troublemaker.”
 
-As he spoke, the smile on his lips did not fade.
+That was what he said, but the small smile on his face did not fade.
 
-No one knew that the Abyssal Monarch, who had remained calm and unperturbed throughout, had only just now had his vision return to focus.
+No one knew that the seemingly calm and unperturbed Abyssal Monarch had only just recovered his senses.
 
-He turned his back and said coolly, "Since the punishment has been endured, the engagement between Hua Caili and Dian Jiuzhi is hereby annulled."
+He turned his back on the scene and said indifferently, “Since the punishment has been carried out, the engagement between Hua Caili and Dian Jiuzhi shall be annulled.”
 
-Yun Che laboriously turned his head to face the Abyssal Monarch. "Thank... you... Abyssal Monarch... for your... grace..."
+With great difficulty, Yun Che turned to face the Abyssal Monarch and said, “Thank... you... for... granting... wish... Your... Majes... ty...”
 
-With his last word spoken, he could hold on no longer, and his consciousness sank completely into darkness.
+Having said that, Yun Che finally could not cling to his consciousness any longer and succumbed to complete darkness.
 
-Dian Luohou suddenly spun around and let out a sharp roar: "Let's go!"
+Dian Rahu suddenly turned away and roared, “We're leaving!”
 
-No one from the Senluo faction said a word, silently following behind Dian Luohou.
+No one in the Boundless Kingdom of God’s formation said a word. They simply fell in line behind Dian Rahu and followed him out of Eden’s Crown. Hua Fuchen abruptly looked up and acted to chase after the man, but Hua Qingying stopped him immediately.
 
-Hua Fuchen took a step forward, but was immediately stopped by Hua Qingying.
+“He is at his angriest right now. There is nothing you can say that will make it through to him... leave it for another time.”
 
-"He is in a towering rage right now and won't listen to a single word... We can talk about it later."
+Hua Fuchen fell silent for a long time. In the end, he withdrew his foot and let out a deep sigh.
 
-Hua Fuchen remained silent for a moment before finally retracting his foot and letting out a long sigh.
+1. You are, in fact, totally correct. ☜
+
+2. You are, in fact, the most correct woman in the entire Abyss right now. ☜

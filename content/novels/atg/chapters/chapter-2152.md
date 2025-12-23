@@ -1,207 +1,197 @@
 ---
 chapterNumber: 2152
-title: ""
-publishedAt: "2025-11-26"
+title: "Unwavering Heart"
+publishedAt: "2025-12-23"
 ---
 
-The profound ark of the Samsara God Kingdom¹ departed from the Pure Land, becoming the first of the six great God Kingdoms to begin its journey home.
+The profound ship of the Boundless Kingdom of God left the Pure Land. Of the six Kingdoms of God, they were the first to make a return journey. Such was their hurry that they had abandoned even the priceless opportunity to enter the Forbidden Zone of Slumbering Gods. That was how angry the Boundless Divine Regent was.
 
-They had even abandoned an opportunity as rare as entering the God-Slumbering Forbidden Domain—a clear sign of the extent of God Emperor Jue Luo’s fury.
+The atmosphere was the exact opposite of what it had been on their journey to the Pure Land. All that liveliness and excitement had been replaced by oppressive silence. Everyone was keeping silent and holding their breaths for fear of triggering the furious Boundless Divine Regent.
 
-In stark contrast to the eager atmosphere of their arrival, the return journey aboard the Samsara profound ark was shrouded in a terrifying, deathly silence. Every profound practitioner from Samsara held their breath and stifled their voices, terrified of provoking the enraged God Emperor Jue Luo in the slightest.
+They could not forget the gazes they received when Yun Che and Hua Caili’s affair was revealed... and they definitely could not forget how those gazes had changed after Yun Che withstood twice the punishment of devouring rage with impossible willpower. These people should be ridiculing and reviling Dreamweaver and Heaven Breaker for their actions. Still, no one could muster such a sentiment after witnessing Yun Che’s willpower and Hua Caili’s oath with their own eyes. Their love for each other was so genuine and pure that no one was immune to its touch. Many even began to believe that Yun Che and Hua Caili were meant for each other and prayed that they would overcome all the obstacles standing in the way of their fairy-tale love.
 
-They could not forget the looks they received when the secret affair between Yun Che and Hua Caili was exposed... nor could they forget how those gazes had changed after Yun Che endured twice the Punishment of Desolate Gnawing with his world-shocking willpower.
+On the other hand, the Boundless Kingdom of God, who was let down and betrayed, was...
 
-The Dreamweaver and Heaven-Breaker Kingdoms, which should have been mocked and scorned, were instead met with awe and emotion. Because of Yun Che's will, Hua Caili's vow, and the deeply moving devotion between them, no one could bring themselves to reproach them any longer.
+For a long, long time, Dian Rahu simply stood at the bow of the profound ship, unmoving. Only his long beard was fluttering in the wind. His aura was so intimidating that every living being on the ship felt like they were carrying ten thousand mountains on their backs, barely able to breathe.
 
-It was as if they were a match made in heaven, and people even offered blessings for their celebrated love, which had broken through so many shackles to come to fruition.
+Despite the intimidating aura, Dian Jiuzhi did not attempt to lighten his footsteps. He walked right up to his Father’s back. Much further away, Dian Sansi approached the duo up to a point before coming to a stop. Eyes timid like a startled cub, he did not dare to take another step forward despite struggling long and hard against his own emotions.
 
-And the Samsara God Kingdom, the one that had been so clearly betrayed and wronged, was left with...
+“Father,” Dian Jiuzhi spoke up. “The point of no return is behind us, so please quell your anger for the moment. This child has no right to criticize the Heart Painter Divine Regent and Dreamless Divine Regent, but you’ve been close friends with them for countless years. You of all people must know their temperaments. Once you’ve calmed down, I’m sure you’ll accurately deduce whether or not they have intentionally betrayed and injured you.”
 
-Dian Luohou stood alone at the prow of the ark, motionless for a long time, only his long beard whipping in the wind. His terrifying aura weighed down on every living being aboard the vessel like ten thousand mountains, making it almost impossible to breathe.
+Dian Rahu did not turn around. His voice sounded as cold as ice as he asked, “What is ‘Jiuzhi’?”
 
-With footsteps that were not deliberately softened, Dian Jiuzhi² arrived behind Dian Luohou. In the distance, Dian Sansi also approached hesitantly, his eyes darting about like a frightened young animal. After a long struggle, he dared not take another step forward.
+Dian Jiuzhi answered calmly, “‘Know self,’ ‘know others,’ ‘know life,’ ‘know gratitude,’ ‘know shame,’ ‘know good’—”
 
-"Father God," Dian Jiuzhi began, "what's done is done. Please, quell your anger for now. This child is not qualified to judge God Emperor Huaxin or God Emperor Wumeng, but you have known them for many years. You must understand their character better than anyone. After you have calmed down, you will surely be able to judge correctly whether they intended this betrayal and harm."
+“You ‘know shame’?!”
 
-Dian Luohou did not turn around. His voice was as cold as quenched ice. "What is the meaning of 'Jiuzhi'?"
+Dian Rahu spun around and viciously interrupted Dian Jiuzhi’s reply with a heavy, violent voice that sounded like a thunderclap. “If you truly know ‘shame’, then why on earth are you trying to defend the people who shamed you like nothing else?! Have you fed your dignity as a Boundless Divine Son to the dogs!”
 
-Dian Jiuzhi answered calmly, "To know oneself, to know others, to know all life; to know gratitude, to know shame, to know good from evil."
+Dian Jiuzhi’s response toward Dian Rahu’s furious glare was to whisper, “Those who know shame... are just as easily trapped by shame itself.”
 
-"You still remember 'to know shame'!?" Dian Luohou spun around abruptly. His grim, furious voice boomed like a thunderclap, violently cutting off Dian Jiuzhi's words. "Since you know the meaning of 'shame,' how dare you have the face to make excuses for the very people who brought you shame! Has your dignity as the God Child of Samsara been eaten by a dog!?"
+Dian Rahu’s eyes narrowed, and his already suffocating aura grew even darker and scarier. “Who... Who taught you that?!”
 
-Meeting Dian Luohou's furious gaze, Dian Jiuzhi murmured softly, "To know shame... is to be easily trapped by shame."
+It was a given, but Dian Jiuzhi wasn’t feeling nearly as calm as he appeared to be. In fact, he regretted his impulsive answer as soon as the phrase tumbled out of his mouth.
 
-Dian Luohou's eyes narrowed slightly, and his already terrifying aura took on a dreadful, sinister edge. "Who... told you that!?"
+Despite this, despite Dian Rahu’s glare, he did not become nervous or apprehensive. He answered frankly, “It was Yun Che.”
 
-Dian Jiuzhi's state of mind was naturally far from the calm he projected. The moment that subconscious whisper escaped his lips, he regretted it. But facing Dian Luohou's gaze, he felt no fear. Instead, he answered frankly, "Yun Che."
+Dian Rahu’s pupils contracted. Then, his facial features started quivering, and his rage turned his complexion as red as hot iron.
 
-Dian Luohou's pupils constricted. His features began to tremble, and a surge of rage turned his face crimson.
+“You... shameful thing!!”
 
-"You... you bastard!!"
+Dian Rahu abruptly punched Dian Jiuzhi in the face, breaking his nose and sending him flying far, far away. The Boundless Divine Son hit the floor hard while thick globs of blood spilled out of his mouth and nose.
 
-Bang!!
+Dian Rahu pointed at Dian Jiuzhi, finger shaking from how much rage was coursing through his body, “I have tutored you for several thousand years, and you’re telling me one delusional nonsense from that boy is all it took to overturn it?! You... What a good son you are!!!”
 
-He threw a furious punch that landed squarely on Dian Jiuzhi's face.
+“Cough... cough cough... cough cough cough cough...”
 
-Dian Jiuzhi's nose broke with a sickening crack. He was sent flying backward, crashing heavily to the deck as a spray of blood erupted from his mouth and nose.
+Dian Rahu had not punched Dian Jiuzhi lightly. Right now, the Boundless Divine Son was curled up like a prawn and even coughing up dark red pieces of his internal organs.
 
-Dian Luohou pointed at him, his fingertip trembling with extreme anger. "The thousands of years of teachings I have given you... are worth less than a single flippant remark from that brat! You... you are truly something else! Truly something else!"
+Despite this, Dian Jiuzhi pushed himself up with his hands. Head bowed, he replied raspily, “Back then, I was even more confused than you are now, Father. I, too, cannot believe why a few remarks from Yun Che are enough to unseat my understanding of the word ‘Jiuzhi’, and the code I have guarded zealously for several thousand years.”
 
-"Cough... cough cough..."
+“However, I soon figured out the answer. It was because his words resonated with my actual understanding of those words; an understanding that has existed inside me all this time.”
 
-Dian Luohou's blow had been incredibly heavy. Dian Jiuzhi curled up in pain, even coughing up dark red fragments of his internal organs.
+The rage in Dian Rahu’s pupils immediately blazed like an inferno. “What... did you say?!”
 
-He propped himself up with one hand, his head bowed, and spoke in a hoarse voice, "Back then, I was even more confused and astonished than you, Father God, as to why a few short words from Yun Che could shake the principles of 'Jiuzhi' that I had adhered to for thousands of years... But it wasn't long before I understood completely."
+Dian Jiuzhi lifted his head. His broken nose was dripping with glaringly red blood, but his gaze did not contain a sliver of fear or regret. “Have you seen the true nature of humans, Father?”
 
-"Because his words resonated perfectly with a truth I had always held in the depths of my heart."
+“...?” Dian Rahu frowned even deeper.
 
-The fury in Dian Luohou's eyes blazed like a wildfire. "You... what!?"
+Dian Jiuzhi asked another question, “Do you remember my original name, Father?”
 
-Dian Jiuzhi raised his head. Bright red blood streamed from his broken nose, but his gaze held not a trace of fear or regret. "Father God, have you ever witnessed the true nature of humanity?"
+Dian Rahu did not answer. He couldn’t. It was because he did not remember Dian Jiuzhi’s original name, nor did he care to.
 
-"...?" Dian Luohou's brow furrowed even deeper.
+“You don’t. No one does.”
 
-He asked again, "Father God, do you still remember my original name?"
+Dian Jiuzhi’s voice was so calm it felt like a pool of dead water. “But everyone remembers that I used to be called ‘Bighead Dian’.”
 
-"..." Dian Luohou did not answer, nor could he. He did not remember, nor had he ever cared.
+A bit of self-derision entered his bloodstained lips. “I was born with an unnaturally large head because of my slumbering Divine Vein of Great Rage. So, I became an ugly creature in everyone’s eyes. Because of my big head, everyone scorned me, harassed me, and called me ‘Bighead Dian’. My own birth mother loathed me and feared me, refusing to let me approach her. She even told me to die again and again because my very existence brought shame to her.”
 
-"You don't remember. No one does." Dian Jiuzhi's voice was as placid as still, dead water. "But everyone remembers that I used to be called 'Dian Big-Head'³."
+“Since I was young, I was careful to a fault. I did not dare to make a single mistake, much less disturb others. I can only grab inferior resources that others found beneath them to plunder, curl up in the humblest corners of the world, and cultivate alone.”
 
-A faint, self-deprecating smile touched his blood-stained lips. "Before my Great Desolation Divine Veins awakened, my head was abnormally large. Because of that, I became an ugly monster in the eyes of others. Everyone laughed at me, bullied me, and called me 'Dian Big-Head.' Even my own birth mother despised and feared me, forbidding me from coming near her. Time and again, she screamed at me to die, because my existence brought her shame."
+“Despite this, the ridicule and harassment never ended. We are all from the same clan, are we not? Some of them are even my half-siblings... I never did them any wrong, and I tried so hard to curry favor with them, and yet still they laughed at my appearance, stole my resources, and beat me blue and black. Not satisfied yet, they arranged me into the ugliest and most humiliating appearance they could think of to derive pleasure from.”
 
-"From a young age, I was cautious and timid, afraid to take a single wrong step or bother anyone. I could only take the inferior resources that others disdained to snatch, huddling alone in the most wretched corner to cultivate."
+“Even the visitors from other Kingdoms of God... forget grievances, we don’t even know each other. But the moment they heard the name ‘Bighead Dian’, they would laugh derisively and look down on me like I was nothing more than a pathetic and filthy toy.”
 
-"But even so, the mockery and bullying never ceased. They were my own clansmen, among them my half-siblings... I had clearly done nothing wrong. I was even trying so hard to please them."
+“From that moment on, I knew that humans do not need a reason to be malicious. I deserve to be ridiculed and harassed simply because I look ugly, and my nickname is Bighead Dian! I do not need to commit any sin or wrong to deserve such treatment!”
 
-"Yet they still mocked my appearance, stole my resources, beat me until I was covered in wounds, and then posed me in ways they found most ugly, most humiliating, most amusing."
+Dian Rahu’s mouth moved, but he said nothing. Of course, he knew what Dian Jiuzhi was talking about.
 
-"Even visitors from other kingdoms... we had no grievances, we didn't even know each other, but upon hearing the name 'Dian Big-Head,' they would laugh wildly and look at me as if I were a pitiful, filthy plaything."
+“But the moment my Divine Vein of Great Rage awakened, the moment I transformed from ‘Bighead Dian’ to Dian Jiuzhi, the Boundless Divine Son...”
 
-"It was then that I learned that human malice needs no reason. Simply because of my appearance, simply because I was called 'Dian Big-Head,' I deserved to be mocked and bullied! I didn't need to have committed any sin or fault."
+He scoffed without trying to conceal even a wisp of his derision or sorrow. “All of that ridicule and harassment disappeared overnight. Everyone’s gaze became so passionate, so flattering, so full of admiration and respect... It’s almost as if every evil person in this world had disappeared overnight. Everyone became so gentle; so kind.”
 
-Dian Luohou's lips twitched, but he said nothing. How could he not have known about the things Dian Jiuzhi spoke of?
+“Of their own accord, the people who once ridiculed me and harassed me knelt in front of me and begged for my forgiveness. They wept as if their souls had been cleansed in a single night. The birth mother who used to avoid me like a venomous creature suddenly turned into a kind mother who wept, saying that I am her pride and joy; that all the indifference and barbed words she showered me with in the past are just her way of tempering me... hehe... hehehehe...”
 
-"But, after my Great Desolation Divine Veins awakened, and I transformed from 'Dian Big-Head' into Dian Jiuzhi, the God Child of Samsara..."
+“What are you trying to say here?”
 
-He let out a short, sharp laugh, filled with undisguised irony and sorrow. "All the mockery and bullying vanished. Everyone's gaze became so fervent, so fawning, so full of worship and awe... It was as if, overnight, all the wicked people in the world had disappeared, and everyone around me had become incredibly gentle and kind."
+Dian Rahu asked with a furrowed brow. “Are you confessing your past humility? Or are you accusing the entire Boundless Kingdom of God of wronging you?”
 
-"Those who once mocked and bullied me voluntarily knelt to apologize, weeping bitter tears as if their souls had been cleansed in a single night. My birth mother, who had avoided me like a viper, suddenly became a loving parent, crying that I was her pride, crying that her past indifference and venomous words were merely trials to temper me... Heh... hehehe..."
+“You are fifty-two sexagenary years old. Don’t tell me you haven’t realized yet that this is the law of the world! The strong can tower over anyone and anything and never worry about being oppressed by anyone, while the weak must be oppressed for eternity! It is the same no matter the Kingdom of God or even plane of existence! With your past, you should understand this better than anyone!”
 
-"What are you trying to say?" Dian Luohou's voice was low and heavy, his brow furrowed. "Are you recounting your past misery? Or are you accusing the entire Samsara God Kingdom of wronging you?"
+Dian Jiuzhi shook his head and rejected his Father’s teaching to his face once more. “There was one person who taught me that those in high positions need not disdain the humble; that even the weak can receive dignity and respect!”
 
-"You are already fifty-two sixty-year cycles⁴ of age! Have you not yet seen that this is the rule of the world? The strong can look down upon all life, and no one dares to provoke them, while the weak must endure the fate of being bullied! This is true in every God Kingdom, every plane of existence! With your past, you should understand this better than anyone!"
+“That person... is Caili.”
 
-"No," Dian Jiuzhi shook his head, once again refuting his father's teachings to his face. "There was one person who showed me that one can hold a high station without scorning the lowly, and that the weak can also be respected and deserve to have dignity!"
+The name belonged to a person whose destiny with him had run its course, and yet the mention of it still softened his voice and demeanor like a beautiful dream.
 
-"Cai... li."
+“The first day I met Caili, I was being stomped inside a pool of mud. I was hurt all over and a sorry sight. She was the Heaven Breaker Divine Daughter who looked like a divine phoenix from the nine heavens. The gap between us was as big as the difference between the mud on the ground and the clouds in the sky.”
 
-Even though it was a love doomed to be fruitless, his voice and expression softened as he spoke her name, as if lost in a beautiful dream.
+“However, she repelled my harassers for me and comforted me. Her eyes harbored not condescension or charity, but genuine compassion and concern. She initially thought ‘Bighead Dian’ was my real name and addressed me by that name. However, there isn’t even a hint of ridicule in her voice.”
 
-"The day I first met Caili, I was being trampled in the mud, covered in wounds, a pathetic sight. And she was the Heaven-Breaker Divine Daughter, like a divine phoenix from the nine heavens. The gap between us was greater than that between the clouds and the mud."
+“On that day, for the first time in my life, I did not feel humiliated when I heard the name ‘Bighead’. Instead, I felt soothed like a rainbow had shone into my heart; warmed like I’m floating inside a dream...”
 
-"But she rebuked my bullies for me and spoke words of comfort. Her gaze was not one of condescension or charity, but of genuine pity and concern. She thought 'Dian Big-Head' was my name, and when she said it, there wasn't the slightest hint of mockery."
+“That was the day I abandoned the suicidal thoughts that had been accumulating inside me since heaven-knows-when and cultivated with all my might. All I wanted was to glimpse her from a distance once more. More than that... Even if my body was ugly, even if all my power amounts to nothing more than a feather, I still wished to gather enough strength to help her.”
 
-"That day, for the first time in my life, I heard the words 'Big-Head' and felt no shame, only a warmth like a rosy dawn shining upon my heart, a warmth like a dream..."
+Dian Rahu stared at him for a long time. He was so angry that he could not help but laugh. “Is that why you acted how you’re acting? Even if she’s the one who betrayed you and one-sidedly broke off the engagement? Even if she’s the one who crushed your pride and turned you from the number one Divine Son to the biggest joke of the century? Even now, you’re still going to defend her as you did before?”
 
-"It was also on that day that I abandoned the death wish I had harbored for so long and began to cultivate with all my might. I wanted to see her again, even from a distance. More than that... I hoped that with this ugly body, I could temper a power that could help her, even if only by a sliver."
+“Yes!” Dian Jiuzhi replied firmly and without hesitation.
 
-Dian Luohou stared at him for a long time before laughing in fury. "So, this is how you act now? Even after she broke your marriage contract, crushed your dignity, and turned you from the foremost God Child into a colossal joke, you still insist on defending her like this?"
+Dian Rahu’s mane swelled, and his chest heaved up and down mightily. He raised his hand once more, but... when he saw the never-before-seen light of determination residing in Dian Jiuzhi’s pupils, he ultimately did not slap him a second time. Still, his voice was quivering a little from how furious he was, “Dian Jiuzhi, do you understand that your life, your dignity, your everything... no longer belongs to just you from the moment you are given the name ‘Jiuzhi’? That it is bound with the title ‘Boundless Divine Son’, and by association, the fate and dignity of the entire Kingdom of God?!”
 
-"Yes!" Dian Jiuzhi's reply was firm and decisive.
+“Look at you right now!! Even a dog with a broken spine at least knows to bark its defiance, but you are still defending the very person who broke yours! You... You truly are my best son! Even a dog is better than you right now!”
 
-Dian Luohou's beard bristled, and his chest heaved. He abruptly raised his hand... but facing Dian Jiuzhi's unprecedentedly resolute gaze, his palm ultimately did not fall. His voice, however, trembled with extreme rage.
+Dian Rahu thought that his vicious rebukes—especially one involving the dignity of the Kingdom of God—would at least elicit some regret and shame from Dian Jiuzhi, but... there was none. There was barely a ripple in Dian Jiuzhi’s gaze when he reached the end of his rebuke.
 
-"Dian Jiuzhi, do you know... from the moment you took the name 'Jiuzhi,' your life, your dignity... your everything no longer belonged to you alone! It became tied to the name 'God Child of Samsara,' linked to the fate and honor of the entire Samsara God Kingdom!"
+“Father, you are a natural Godbearer with ninety percent divine essence. You are the Boundless Divine Son from the moment you were born. The word ‘honor’ has accompanied you your whole life, and everyone in the world knows how fierce and outspoken you are. But... if there is a choice, who wouldn’t crave swift justice? Who wouldn’t yearn to vent their feelings to their heart’s content? However, not everyone shares your fate, Father.”
 
-"Look at you now! Even a dog with a broken back knows how to bark, yet you, with your spine trampled, still turn around to protect her! You... you are truly a fine son to me, Dian Luohou! You're worse than a dog!!"
+Dian Jiuzhi’s voice was remarkably calm. He seemed more serene than even Dian Rahu, the Boundless Divine Regent. “The world I see and perceive differs from that of yours, Father.” 𝑓𝑟ℯ𝘦𝓌𝘦𝘣𝑛𝑜𝓋𝑒𝓁.𝑐ℴ𝓂
 
-Dian Luohou had thought that such a harsh reprimand, one that invoked the dignity of the God Kingdom, would at least make Dian Jiuzhi show a hint of shame or regret.
+“Caili saved my life. My fate was changed by her as well. To me, she represents redemption and salvation. The light of humanity she bestowed me back then is simply too dazzling and precious to me.”
 
-But... there was none. His words barely caused a ripple in his son's eyes.
+“It is because of Caili that I never took vengeance against those who oppressed me after I became the Boundless Divine Son. It is because of Caili that I never treated anyone with malice unless I had no choice. It is because of Caili that I never stopped tempering myself and marching forward.”
 
-"Father God, you were born with a nine-part godhood, born as the God Child of Samsara. The word 'honor' has accompanied you your entire life. The world knows you as straightforward and fiery-tempered... but who doesn't wish to repay kindness and avenge wrongs as they see fit? Who doesn't wish to vent their feelings freely? But not everyone is blessed with a fate like yours."
+“I am ultimately not you, Father. I cannot carry the entire Boundless Kingdom of God on my back like you. I have my own things that I cherish deeply, and... I will never, ever extinguish the humanity I cherish so much—not even if I’m a Divine Son, not even if I’m a Divine Regent.”
 
-Dian Jiuzhi's voice was very calm; his emotions seemed even more tranquil than those of Dian Luohou, the God Emperor Jue Luo. "The world I have seen and felt is different from yours."
+Dian Rahu clenched his fists so tight that they popped audibly. The son he thought he knew so well suddenly seemed like a complete stranger today. It was only now that he realized he had never truly understood his own son.
 
-"My life was saved by Caili. My destiny was changed because of Caili. To me, she was my salvation, my savior. The radiance of humanity she showed me back then was too precious, too dazzling."
+Dian Jiuzhi’s infatuation with Hua Caili was literally renowned throughout the world. As his father, he knew it even better than the masses. He could pay any price to obtain an object of Hua Caili’s desire. Despite being the Boundless Divine Son, he did not allow a single woman to approach him, going so far as to maintain a strictly male retinue. More than once, he had mentioned that Hua Caili was the one and only person for him, and this would not change even after he had become a Divine Regent.
 
-"Because of Caili, after I became the God Child of Samsara, I never took revenge on anyone who had bullied me. Because of Caili, I have never wished to show malice to anyone. Because of Caili, I have never stopped or slacked in my steps forward."
+Dian Rahu was astonished at first. Then, he half-jokingly rebuked his son. After that, he slowly caved and accepted his son’s obsession... because he believed that his feelings, as strong as they were, were just the infatuation and delusion of youth. As Dian Jiuzhi’s status grew and his horizons broadened, he believed that his son would naturally make the choice most beneficial to the succession and future of a Kingdom of God.
 
-"Father God, I am not you, after all. I cannot place the entirety of the Samsara God Kingdom upon my shoulders as you do. I have things that I hold precious, and... I will never allow my status as a God Child or a God Emperor to extinguish the humanity I cherish."
+It was only now that he realized that Dian Jiuzhi’s feelings for Hua Caili were so pure that they could not tolerate even a speck of dust; so pure that they truly surpassed everything.
 
-Dian Luohou's hands clenched into tight fists, his knuckles cracking.
+“You are practically hopeless! You... have thoroughly disappointed me!”
 
-The son he thought he knew so well had become a complete stranger today.
+Dian Rahu abruptly waved his arm and left in anger, refusing to look at his son for even a second longer.
 
-It was only today that he realized he had never truly understood his own son.
+“Cough... cough cough!!”
 
-Dian Jiuzhi's infatuation with Hua Caili was known to the world, and as his father, he knew it even more deeply. He would spare no cost to obtain things Hua Caili liked; though he was the esteemed God Child of Samsara, he never allowed women near him, and even his attendants were all male; he had mentioned more than once that Hua Caili would be the only one for him in his life, a vow he would never change even as a God Emperor.
+Meanwhile, Dian Jiuzhi was still clutching his solar plexus. Blood was still streaming down his mouth and nostrils as well.
 
-He had been astonished, had laughed and scolded, but eventually came to accept it due to his son's persistence... because in his mind, such infatuation was merely the folly of youth. As his son's status and perspective grew, he would naturally make choices that best benefited the God Kingdom's legacy and future.
+Dian Sansi had walked up to him before he knew it. Shakily, the young man crouched down and tried to lift Dian Jiuzhi to his feet.
 
-Only now did he realize with a shock that Dian Jiuzhi's feelings for Hua Caili were truly so pure that they admitted not a single speck of dust, so pure that they transcended everything in the truest sense of the word.
+“Big brother Jiuzhi, are you... are you alright?”
 
-"You are utterly hopeless! I am... thoroughly disappointed in you!"
+His voice was quivering, and he did not dare to look Dian Jiuzhi in the eye. Dian Jiuzhi gave him a look before pushing himself up and slapping Dian Sansi hard across the face.
 
-Dian Luohou flung his arm out, turned, and strode away in a rage, unwilling to look at him for another second.
+Dian Sansi fell on his butt and stayed there. He bowed his head deeply and wept at the top of his lungs, “I’m sorry... big brother Jiuzhi, I’m sorry. I... I don’t know what happened to me... It’s like a demon had barged into my head... all I could think of at the time was to vent my feelings and ruin Yun Che... I’m sorry... I’m sorry...”
 
-"Cough... cough cough!"
+Dian Jiuzhi’s gaze went blank for a moment. He shakily reached out to touch the reddened spot where he had slapped Dian Sansi... before slapping himself viciously across the face.
 
-Dian Jiuzhi clutched his chest, blood still flowing from his nose and mouth.
+“Big brother Jiuzhi!”
 
-Dian Sansi had approached at some point. He squatted down, trembling, wanting to help Dian Jiuzhi up.
+Dian Sansi panicked and hurriedly caught Dian Jiuzhi’s wrist. Dian Jiuzhi let out a horrid laugh and said bleakly, “You’re just an innocent victim who was unwittingly dragged into this, and still I took out my anger on you... I truly am hopeless, aren’t I?”
 
-"Brother Jiuzhi, are... are you alright?" His voice was timid, and he didn't dare to meet Dian Jiuzhi's eyes.
+Dian Sansi shook his head strongly. “It’s all my fault. I’m the one who is childish and useless. Not only did I ignore your teachings, but I also lost control of my own emotions. That is why this disaster happened. I... I...”
 
-Dian Jiuzhi looked up, then suddenly pushed himself up and slapped Dian Sansi hard across the face.
+Dian Jiuzhi raised his hand and gently wiped away the tearstains on Dian Sansi’s face. Then, he cracked a small smile and said, “You’re an iron-blooded man of Boundless. How can you cry like a young child? The future of Boundless rests on your shoulders, you know?”
 
-With a crisp smack, Dian Sansi fell into a sitting position on the deck. He lowered his eyes and sobbed, "I'm sorry... Brother Jiuzhi, I'm sorry. I... I don't know what came over me... It was like a devil had entered my mind... all I could think about was venting, all I could think about was ruining Yun Che's reputation... I'm sorry... I'm sorry..."
+Dian Sansi was furiously wiping his tears. He was just about to say something when suddenly, something about Dian Jiuzhi’s response stopped him dead. He asked blankly, “Big brother Jiuzhi, what... What did you just say? What future of Boundless?”
 
-Dian Jiuzhi's gaze went vacant for a moment. He reached out a trembling hand and lightly touched the red cheek he had just struck... then he abruptly reversed his hand and slapped himself hard across his own face.
+Dian Jiuzhi looked at him calmly. “Do you still remember why I work tirelessly to improve myself and aim to become a Divine Regent?”
 
-"Brother Jiuzhi!" Dian Sansi cried out in alarm, hastily grabbing his wrist.
+Dian Sansi opened his mouth and answered a bit powerlessly, “To... to be deserving of the Heaven Breaker Divine Daughter.”
 
-Dian Jiuzhi gave a miserable laugh, his voice desolate. "You were just an innocent party dragged into this, yet I took my anger out on you... I truly am... hopeless."
+“Correct. So...”
 
-"No, no." Dian Sansi shook his head forcefully. "It's my fault. I was childish and incompetent. I didn't listen to your teachings, Brother Jiuzhi. I couldn't even control my own emotions, and that's why I made such a huge mistake. I..."
+He smiled again and looked up at the clouded sky. “That reason no longer exists.”
 
-Dian Jiuzhi raised a hand and gently wiped the tears from his face, then revealed a faint smile. "Sansi, you are a man of Samsara with bones of unyielding iron. How can you still weep like a child? The future of Samsara rests on your shoulders."
+“Besides... you should have heard my dialogue with Father. That light of humanity completely fills up my chest. I neither possess the ambition nor the resolve to devote myself to Boundless, much less bear the future of Boundless on my shoulders. On the other hand, you are better suited than I am. That is why you need to work harder than before, starting today.”
 
-Dian Sansi wiped his tears vigorously. He was about to speak when he suddenly froze, staring blankly. "Brother Jiuzhi, what... what did you say? What future of Samsara?"
+Dian Sansi shook his head. “Big brother Jiuzhi, I cannot possibly compare to you! You are the only owner of the Divine Vein of Great Rage in the world, while I... I am ruined after everything that has happened today. How can I possibly deserve to—”
 
-Dian Jiuzhi looked at him calmly. "Do you remember why I told you I strive so relentlessly, why I yearn for the position of God Emperor?"
+“Remember this, Sansi.”
 
-Dian Sansi's mouth opened, and he answered weakly, "To... be worthy of the Heaven-Breaker Divine Daughter."
+Dian Jiuzhi said seriously, “The thing that matters least in this world is another person’s look and judgment. Why? Because all that will change when you have gained sufficient strength and climbed to a high enough position. Everyone who once looked down on you will start looking up to you, and all that ridicule and scorn will turn into respect and fear instead.”
 
-"Therefore..." He smiled faintly, his gaze turning to the distant sky, where only dark clouds lingered. "My reason... no longer exists."
+No one could have said these words and made them sound more convincing than Dian Jiuzhi himself. After giving Dian Sansi a heavy slap on the shoulder, Dian Jiuzhi climbed to his feet with some difficulty and hobbled away.
 
-"Besides... you should have heard my conversation with Father God just now. My heart has long been completely filled by the light of that rosy dawn. I have no great ambition, no resolve to devote myself to Samsara, and certainly no desire to bear the future of the Samsara God Kingdom. But you, Sansi, are more suitable than I am. So, from this day forward, you must work even harder."
+It was at this moment that a shout suddenly came from behind his back. “Big Brother Jiuzhi, you do have a reason! Don’t you want to keep protecting the Heaven Breaker Divine Daughter?!”
 
-"No, no!" Dian Sansi shook his head. "Brother Jiuzhi, how can I compare to you? You have the only Great Desolation Divine Veins in this era, while I... my reputation is in tatters after today. How could I be worthy... how could I..."
+Dian Jiuzhi did not look back, but his footsteps suddenly came to a halt.
 
-"Sansi, remember this." Dian Jiuzhi's expression was solemn. "The least important thing in this world is the opinion and judgment of others. Because when you are strong enough, when you stand at a high enough position, all condescending looks will turn into gazes of reverence, and all mockery will turn into awe."
+Dian Sansi sucked in a deep breath before pleading sincerely, “I know that Yun Che endured twice the punishment of devouring rage for the Heaven Breaker Divine Daughter today. I’m sure you think that Yun Che would treat her like you treat her, never betraying her feelings for even an instant. But... But...”
 
-Coming from him, these words were more convincing than from anyone else.
+“I know that you probably won’t believe my opinion on Yun Che after everything that happened today. I know that you would probably think it’s just malicious slander and venting. But Brother Jiuzhi... the Yun Che I saw really is completely different from the one you know!!”
 
-He patted the shoulder of the dumbfounded Dian Sansi, then rose with some difficulty and staggered away.
+“When we were alone, the face he showed me was unspeakably treacherous, and his words were vile beyond imagination. It is completely different from the one you know, almost as if he carries many different masks on his person!”
 
-Just then, a shout came from behind him. "Brother Jiuzhi, you do have a reason! Don't you want to continue protecting the Heaven-Breaker Divine Daughter!?"
+“Now that I have the time to think and digest, I’m starting to think that he’s planning to anger me from the very beginning. He even told me himself that what he did in front of Ling Xian’s divine abode... was intentional! He did it only because he sensed our presence!”
 
-Dian Jiuzhi did not turn back, but his steps halted.
+Dian Jiuzhi wobbled a little.
 
-Dian Sansi took a deep breath, his every word earnest. "I know that Yun Che endured twice the Punishment of Desolate Gnawing for the Heaven-Breaker Divine Daughter. It must have made you think that he will treat her with all his heart, just as you would, and never let her down. But... but..."
+“I know what I said sounds unbelievably hard to believe, but please, I beg you to try. If... What if... Yun Che truly is not what he appears to be? What if Yun Che were to betray or injure the Heaven Breaker Divine Daughter in the future? Should such a time ever come, don’t you want to have the power and status to protect her then?”
 
-"I know that after today, my assessment of Yun Che will be hard for anyone to believe. It will only be seen as malicious slander and venting. But... Brother Jiuzhi, the Yun Che I saw is truly different from the one you all see!"
+A long, long silence later, Dian Jiuzhi finally started walking once more. He gradually disappeared into the shadows of the profound ship.
 
-"When he faced me in private, his face was terrifyingly sinister, and his words were as vicious as they could be, completely different from what you all saw! It's like he wears many completely different masks."
-
-"I've thought it over and over, and I'm starting to think that he was deliberately provoking me from the very beginning. He even told me himself that what happened in front of the Spirit Immortal Divine Abode... he and the Heaven-Breaker Divine Daughter did it on purpose because they sensed us approaching!"
-
-"..." Dian Jiuzhi's body swayed slightly.
-
-"I know my words are hard for you to believe, but please, you must try to believe me. Even if... even if there's just a one-in-ten-thousand chance that Yun Che really is a two-faced person who might betray or harm the Heaven-Breaker Divine Daughter in the future, at that time, wouldn't you want to have the power and status to protect her, Brother Jiuzhi?"
-
-After a long silence, Dian Jiuzhi finally moved again, his figure gradually disappearing into the shadows of the profound ark without giving a response.
-
-
+He did not give him a response.

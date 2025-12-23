@@ -1,283 +1,301 @@
 ---
 chapterNumber: 2156
-title: ""
-publishedAt: "2025-11-30"
+title: "Frightening Revelation"
+publishedAt: "2025-12-23"
 ---
 
-Watching Mo Su¹ laugh heartily, completely devoid of the Abyssal Emperor's² solemnity, Yun Che³ also burst into laughter. "Hahahaha! Becoming sworn brothers with the supreme Abyssal Emperor is a great fortune that others wouldn't even dare to dream of. Is there any reason for me to refuse?"
+Yun Che looked at the guffawing Mo Su, who, at this moment, carried none of the holy bearing of the Abyssal Monarch, and guffawed as well. “Hahahaha! It is a dream most people dare not even dream of to swear brotherhood with the unparalleled Abyssal Monarch. Why on earth would I turn down such a sweet deal?”
 
-As he laughed, he quietly calmed the turbulent waves in his soul sea. Mo Su's sudden proposal of sworn brotherhood was five parts sincerity, five parts probing. If his reaction had been even half a beat slower just now, and he had blurted out words of refusal, the outcome would have been completely different. The extent to which he mirrored Ni Xuan⁴ determined how much weight he held in Mo Su's eyes.
+While guffawing, Yun Che was secretly calming the tidal waves inside his soul sea. Mo Su’s sudden invitation was both his sincere desire and a test. If he had been half an instant slower, had evaded or turned down the invitation, the outcome would have been entirely different. How much he resembled Ni Xuan directly determined the weight he carried in Mo Su’s eyes.
 
-In his gradually calming soul sea, Li Suo's⁵ voice rang out: "You have woven so many, such grand lies. Do you know that the person opposite you can annihilate you in an instant? If any one of these lies is exposed, the consequences could very well be eternal damnation."
+As his soul sea gradually returned to normal, Li Suo said, “To think you fabricated so many big lies in such a short time. Are you aware that your opponent is a man who can annihilate you in an instant? If even one of these lies were exposed, you could very well face eternal damnation.”
 
-"Therefore,"
+“That is why—” Yun Che actually had the leisure to respond to her remark. “Every lie I spouted is an inexcusable lie.”
 
-At this moment, Yun Che even had the leisure to respond to her: "What I speak are lies that cannot be exposed. Back then, when I fell into the Abyss, the Demon Empress⁶ once said that my greatest advantage in the Abyss would be the information gap."
+“Before I dropped into the Abyss, the Devil Queen once told me that my biggest advantage is the information gap. Naturally, I should exploit this advantage to the max.”
 
-"Naturally, I must exploit this to the extreme."
+“In areas where he knows or may know the truth, I will respond with truths. In areas I am sure he knows nothing about, I will feed him my lies... or should I say, ‘knowledge.’”
 
-"In areas he knows or might know, I only give him the truth. And in areas I'm certain he cannot know, those are the lies I weave for him... Oh no, they are the 'cognitions' I bestow upon him."
+Li Suo said, “He is Mo Su and the Abyssal Monarch. He possesses the most extensive knowledge and powerful spiritual sense of the Abyss. This is your first meeting with him, and yet he gave you his trust easily and even desired to swear brotherhood with you... I can’t understand this.”
 
-Li Suo said, "He is Mo Su, and also the Abyssal Emperor. He possesses the most extensive knowledge and the most powerful spiritual perception in the Abyss. You've only just met today, so why would he believe you so easily, even wanting to become sworn brothers with you? I cannot understand."
+Yun Che replied leisurely, “The first and most insignificant reason is that he is the Abyssal Monarch. No one would dare to lie to him.”
 
-Yun Che slowly replied, "The smallest reason is that he is the Abyssal Emperor; no one dares to lie in front of him."
+“The second reason is that he is never lacking in someone who looks up to him, but sorely lacks someone he can see as an equal. He is the son of a Creation God, and I am the successor of a Creation God, the big brother he respected the most, no less. I am the only person in the entire world who deserves to be viewed as his equal.”
 
-"The second reason is that he never lacks people who look up to him, but he most lacks equals. He is the son of a Creation God, and I am the successor of a Creation God, and also the successor of his most respected Elder Brother. I am the only one in this world qualified to be his equal. And this equality, he perhaps craves more than anyone else in this world, thus making him more willing to believe."
+“He desires this form of equality more than anyone else in the world. Naturally, he is more than willing to believe.”
 
-"And the biggest reason... I'll let him answer you personally."
+“As for the third and biggest reason... he will answer you himself.”
 
-Li Suo: "..."
+Li Suo: “...”
 
-Yun Che reined in his smile, speaking with a seemingly serious expression: "Before we become sworn brothers, there's something I'm very curious about. You are the supreme Abyssal Emperor, looking down upon the entire history of the Abyss, you must have witnessed countless truths and falsehoods, good and evil. Yet I, a mere Imperial Son of a Divine Kingdom, would resort to any means to achieve my goals, enough to be called 'despicable.' Are you not afraid that I am someone filled with malicious intent?"
+Yun Che straightened his facial features and said seriously, “Before we swear brotherhood, there is something I’m curious about. You are the unrivaled Abyssal Monarch who towers over the entire history of the Abyss. I’m sure you have witnessed countless truths and falsehoods, good and evil. I am just an insignificant prince of a Kingdom of God, and I have just proven myself to be a man who will resort to any means to achieve my goals. I am definitely a despicable man, so aren’t you worried that I am really a malicious villain?”
 
-"For example... are you not afraid that I might be relying on my master's grace, and presuming upon your affection for my master, to deliberately approach you, thereby 'borrowing the tiger's might'⁷ in this world, bullying men and women, and causing chaos in all realms?"
+“For example... Aren't you worried that I’m exploiting my master’s favor and your relationship with him to approach you on purpose? Aren’t you worried that I would exploit my connection with you to oppress the people or throw the world into calamity and chaos?
 
-Mo Su looked at Yun Che, his calm gaze now even more leveled with his. "The person Elder Brother Ni Xuan chose and entrusted everything to, I have no reason to doubt."
+Mo Su looked at Yun Che, his gaze looking more like that of an equal as time passed. “I have no reason to suspect someone Big Brother Ni Xuan chose and gave everything to.”
 
-"Since you and I are brothers, if you wish to borrow my influence, I would naturally be delighted." His words were calm and sincere.
+“Besides, you and I will soon be sworn brothers. Why would I have a problem with you using our connection to start something?”
 
-In his soul sea, Yun Che's voice, far more relaxed than before, rang out: "See, that's the answer."
+Inside his soul sea, Yun Che replied in a voice that sounded far more relaxed than it was at the beginning, “See? That’s your answer.”
 
-"Given his level of existence, he fears no one's intentions, because no one can make him lose anything."
+“At his level, he doesn’t fear anyone’s plots and schemes because no one can take anything from him.”
 
-"But he, more than anyone else in this world, needs an 'equal.'"
+“However, he more than anyone else in this world needs an ‘equal.’”
 
-That kind of endless, terrifying loneliness, Yun Che had only endured for a few short years, while Mo Su had endured it for millions of years. Therefore, he knew perfectly well what Mo Su most yearned for in those millions of years of solitude. Although... when Mo Su uttered the words "sworn brothers," he was indeed startled. Perhaps he had underestimated Mo Su's feelings for Ni Xuan; perhaps he had underestimated the terrifying loneliness Mo Su had endured for millions of years. Li Suo remained silent for a long time, then silently gained a little more understanding of human emotions.
+Yun Che had only endured that endlessly terrifying loneliness for a couple of years, but Mo Su had been enduring it for millions of years. Therefore, he knew very well what Mo Su desired above all else in the world.
 
-Facing Mo Su's gaze, Yun Che smiled again, more genuinely than any time before: "Good! With those words, you are my Mo Su Elder Brother forever. I think if Master could see this scene, he would also be immensely relieved."
+Of course, he was still majorly caught off guard when Mo Su said the words, “Swear brotherhood.” Perhaps he underestimated Mo Su’s fondness for Ni Xuan, or maybe he underestimated the terrible loneliness Mo Su had endured for millions of years.
 
-The fragments of Ni Xuan's memory clearly reflected his demeanor, gestures, and way of speaking. The self-suggestion in his soul that he was Ni Xuan, and his words and actions, increasingly presented a more natural shadow of Ni Xuan.
+Li Suo did not say a word for a long time. She quietly filled in the gaps in her understanding of human emotions.
 
-"Good, Yun Che." He called his name again, but this time, it clearly carried human emotion. He raised his arm, but just as he lifted it halfway, there was an instant of stiffness... a shyness emerging from endless solitude.
+Meeting Mo Su’s gaze, Yun Che broke into a smile that was more sincere than any smile he had worn before. “Good! So long as your words remain true, you will forever be my Big Brother Mo Su. If Master could see this, I’m sure he would be terribly happy on our behalf.”
 
-Yun Che extended his hand before him, grasping his outstretched arm, his five fingers closing around it: "Mo Su Elder Brother."
+Ni Xuan’s memory fragments clearly showed him how Ni Xuan usually talked, acted, and carried himself. Yun Che was also telling himself in his mind that he was Ni Xuan repeatedly. As a result, he was increasingly resembling Ni Xuan over time.
 
-Mo Su's palm finally clasped Yun Che's arm. Their arms and auras intertwined seamlessly, giving each other the promise of mutual support: "Yun Che, I am very happy, truly very happy."
+“Okay, Yun Che.”
 
-"Me too."
+Mo Su addressed Yun Che by his name, but this time, his voice carried clear human emotion. Mo Su lifted his hand to give Yun Che a forearm shake, but he paused for an instant about halfway there... it was the timidness of a man who had been drowning in loneliness for millions of years.
 
-Yun Che said earnestly, "Originally, I thought my face was peerless in the world, envied by all men. Suddenly seeing someone who surpasses me by three points was truly unpleasant. But if this person is my Elder Brother, then it doesn't matter."
+So, Yun Che reached out first and grabbed Mo Su’s forearm firmly. He then declared without hesitation, “Big Brother Mo Su.”
 
-Mo Su lowered his arm and smiled, "Elder Brother Ni Xuan's appearance was once praised as the best in all realms, unmatched by anyone. He often admired himself for it. But unfortunately, his appearance could charm all men and women in the world, yet it alone could not make Senior Li Suo, whom he admired, even glance his way."
+Mo Su’s hand finally gripped Yun Che’s forearm, linking them physically and aurically. It was a promise of forearms. “I’m very happy, Yun Che. Very happy.”
 
-"I wonder if he eventually got his wish."
+Yun Che said with a serious expression, “I once thought my face was unrivaled under this heaven, and a man who doesn’t envy my looks doesn’t exist. That record has been broken today, and to say that I am annoyed would be an understatement. But if that man is my brother, then I have no qualms about it.”
 
-Li Suo: "...?"
+Mo Su let Yun Che go and smiled. “Big Brother Ni Xuan was the undisputed most handsome man of all realms back then. He took pride in it and often admired himself in the mirror. Alas, despite boasting an appearance that could seduce any man or woman in the world, he was unable to win even a sidewise glance from the one person he desired, senior Li Suo.”
 
-Yun Che would certainly not mention that Ni Xuan had long since shifted his affections to Jie Yuan⁸, nor could he tell him that Ni Xuan's repeated encouragement not to be bound by the forbidden love between gods and devils actually hid a faint trace of selfishness. Because this would surely shatter Mo Su's "unwavering devotion" filter for Ni Xuan.
+“I wonder if he ever fulfilled his wish.”
 
-"Life Creation God, Li Suo."
+Li Suo: “...?”
 
-Yun Che softly uttered the name, saying, "Master occasionally mentioned her, but never spoke deeply, perhaps due to lingering regret. However..."
+For obvious reasons, Yun Che wasn’t going to tell Mo Su that Ni Xuan had long moved onto Jie Yuan, and he definitely wasn’t going to tell him that the reason Ni Xuan encouraged him not to be bound by the taboo of god and devil repeatedly was not without his own selfish reasons. After all, this would definitely shatter his rose-tinted lens regarding Ni Xuan.
 
-He raised his hand, and pure, sacred white profound light immediately shone from his palm, overflowing with a rich and pure aura of life.
+“The Creation Goddess of Life, Li Suo.”
 
-The white glow reflected in Mo Su's eyes, and he recognized it at a glance: "Life Divine Miracle⁹. Indeed, since Elder Brother Ni Xuan found a successor, he would certainly not bear to let Senior Li Suo's Creation God Art¹⁰ vanish from the world."
+Yun Che whispered before saying, “Master mentioned her once in a while, but he never dove deep into the subject. Maybe it’s because he harbored some regrets. However...”
 
-Ni Xuan's memory fragments clearly mentioned that Creation Gods did not keep their Creation God Arts secret from each other. Just like Ni Xuan, who only took four hundred years to cultivate the Ninety-Nine Swords of Heaven-Shattering of the Heaven Punishing Divine Emperor Mo E¹¹, and thus made Mo E owe him a wager. It was this wager that allowed Hong'er and You'er to exist to this day.
+He raised his hand, and pure holy light shone out of his palm. It was white-colored and overflowing with the pure energy of life.
 
-Although the Life Divine Miracle was a Creation God Art, it belonged to the Life Creation God and embodied compassion and universal love. Its cultivation difficulty was much lower than ordinary profound arts, but it had extremely strict prerequisites—a holy heart and light profound energy. Therefore, he was quite confident that Ni Xuan must have known about it... and might even have tried to cultivate the Life Divine Miracle. And indeed, that was the case.
+Mo Su recognized the white light as soon as he saw it. “The Divine Miracle of Life. As expected, Big Brother Ni Xuan would not allow senior Li Suo’s Creation God art to vanish permanently, not when he found a successor.”
 
-Mo Su even spoke of a past event that Yun Che was unaware of: "Elder Brother Ni Xuan once tried to cultivate the Life Divine Miracle, hoping to win Senior Li Suo's favor, but he never succeeded. I never expected that it would successfully shine with light profound energy on you. I imagine he must have been half-sighing, half-relieved at the time."
+It was clearly mentioned in Ni Xuan’s memory fragments that Creation Gods did not keep their Creation God arts to themselves. For example, Ni Xuan took only four hundred years to master the Ninety Nine Heaven Breaking Swords and won a bet against the Heaven Punishing God Emperor, Mo E.
 
-Yun Che: (Indeed...) Facing the light profound energy displayed by Yun Che, Mo Su's reaction was very calm. Perhaps only at the moment the light shone was there a fleeting, extremely slight surprise. After all, in the Abyssal World, light profound energy had never been born. And his calmness completely exceeded Yun Che's expectations.
+It was only thanks to this bet that Hong’er and You’er managed to survive to this day.
 
-He could calmly view the appearance of light profound energy, but why... was he so indifferent to the Life Divine Miracle? Without a hint of joy or hope?!
+Although the Divine Miracle of Life was a Creation God art, it originated from the Creation Goddess of Life and so embodied compassion and universal love. Despite being way easier to practice than your average god art, its entry barrier was one of the hardest to overcome—a Sacred Heart and light profound energy.
 
-Why...? "You... why did you voluntarily expose your light profound energy?" Li Suo asked, puzzled.
+This was why Yun Che was fairly confident that Ni Xuan knew about and even tried to practice the Divine Miracle of Life. In fact, he was correct. 𝒻𝓇𝑒𝘦𝘸𝑒𝒷𝓃ℴ𝑣𝘦𝑙.𝒸ℴ𝘮
 
-Yun Che calmed his mind, and after a short while, responded: "You should remember that in the Mist Sea, in order to gain Hua Qingying's¹² trust as quickly as possible, I deliberately showed her my light profound energy. So, this is no longer an absolute secret."
+Mo Su even told Yun Che a past he didn’t know about. “Back in the day, Big Brother Ni Xuan kept trying to master the Divine Miracle of Life in hopes of earning some affection points with senior Li Suo. Alas, he never succeeded. To think that you, his successor, would be the one to do what he could not. He must have been glad and resigned at the same time.”
 
-"My voluntarily exposing it is naturally far better than him learning it from elsewhere. Moreover, one of my biggest goals in meeting him in the Pure Land was to let him know that I possess the Life Divine Miracle... It's just that his reaction was too strange, completely outside my expectations."
+Yun Che: (As I thought...)
 
-"..."
+Mo Su’s reaction toward Yun Che’s display of light, profound energy was extremely mild. Although he was slightly surprised when the light shone—after all, light profound energy had never been born in the Abyss—the sheer mildness of his reaction still vastly exceeded Yun Che’s expectations.
 
-Li Suo roughly understood where the "strangeness" lay. "A drowning person will try to grasp at any visible straw... let alone the Life Divine Miracle, which possesses the strongest healing ability in the world. Unless..."
+He could understand the man viewing the emergence of light profound energy with indifference, but why... did he act so indifferent toward the Divine Miracle of Life as well? Show no sliver of joy or hope whatsoever!?
 
-"You are wondering,"
+“Why... did you reveal light profound energy of your own accord?” Li Suo asked in puzzlement.
 
-Mo Su's voice slowly sounded: "Why I am indifferent to the Life Divine Miracle you displayed."
+Yun Che took a moment to calm down before answering her question, “You remember that I showed Hua Qingying my light profound energy on purpose in order to earn her trust as soon as possible, right? This hasn’t been an absolute secret for a long time.”
 
-"Yes."
+“Me showing this to him of my own accord carries far more meaning than if he learns it from someone else. In fact, one of my biggest goals in meeting him in the Pure Land is to let him know that I possess the Divine Miracle of Life... However, his reaction is far too strange. It did not fall within my predictions at all.”
 
-Yun Che admitted frankly: "Master told me many things about you. So, I know your former identity, the reason you came to the Abyssal World, and... the daughter of Pan Ming¹³ who caused the drastic change in your destiny..."
+Li Suo could roughly understand what he meant by “strange”.
 
-"Pan Xiao Die¹⁴." Facing Mo Su, he spoke that name, and clearly saw the ripples of sorrow in his eyes. Mo Su was silent; it had been too long since he had heard that name, etched into every corner of his soul, from another person's mouth.
+“If a drowning person finds a straw, he will do everything in his power to cling onto it... much less the Divine Miracle of Life, the literal most powerful restorative ability in the universe. Unless...”
 
-Yun Che softened his voice: "Is she... doing well?"
+It was at this moment that Mo Su spoke up. “You seem to be wondering why I’m nonchalant toward your Divine Miracle of Life.”
 
-"She is well."
+“I am,” Yun Che admitted frankly. “Master told me many things about you, so I’m aware of who you were and why you fell to the Abyss. I... am also aware of the daughter of Original Nether, the one who greatly altered the trajectory of your fate...”
 
-Mo Su replied, without a trace of hesitation: "She is just asleep, sleeping very deeply, for a very long time... For these years, I have been searching for a way to wake her. But that method will not be the Life Divine Miracle."
+“Pan Xiaodie.”
 
-Yun Che's soul suddenly felt heavy, as if immersed in an endless deep sea, filled with pervasive sorrow and chilling desolation.
+When Yun Che said the name, he could clearly see the waves of sorrow fluctuating in Mo Su’s pupils.
 
-"If it's Mo Su Elder Brother, no matter what, you will surely get your wish."
+Mo Su said nothing for a while. It had been far too long since he heard anyone mentioning the name that was engraved in every corner of his soul.
 
-He rationally changed the subject: "Master also told me many other things about you, such as your Divine Father and your Divine Race."
+Yun Che softened his voice, “Is she... okay?”
 
-"No need to speak of them to me." Mo Su gave Yun Che an answer that would surprise anyone.
+“She’s doing great.”
 
-And from beginning to end, Mo Su never asked Yun Che a single question about the past he didn't know, or any secrets that only Ni Xuan might know. Yun Che thought for a moment and asked, "Do you still hate your Divine Father?"
+Mo Su answered without any hesitation whatsoever, “She just fell asleep. A deep, long sleep... I’ve been searching for a way to awaken her throughout the years, but that method isn’t the Divine Miracle of Life.”
 
-"No hate." The answer came without any hesitation, without any change in emotion or gaze.
+Yun Che’s heart and soul suddenly felt heavy. It was as if a bottomless ocean drenched them. Sorrow filled his lungs, and grief pierced his bones[1].
 
-"He had his stance and choices, I have my destiny and decisions. It's not about right or wrong, not about hate or not hate, it's just... none of it matters anymore. The current me can barely recall his appearance." His words were as calm as an ancient, waveless sea, as if stating something irrelevant about another person.
+“If it’s you, I’m sure you will succeed no matter what obstacles stand in your way.”
 
-Ni Xuan's end was regret, Mo E's end was soul devastation. The latter lived up to his mission, his divine name, and his divine race, but only failed Mo Su... Therefore, Mo Su had the right to hate him. Yet what he presented was such extreme calmness, so calm that he had almost forgotten. And what he calmly overlooked and forgot was more than just his father.
+He wisely changed the subject. ‘Master also told me a lot of things about you, such as your Father and your god race.”
 
-He didn't ask about Mo E, didn't ask about the changes in his Divine Race after he fell into the Abyss... He asked nothing at all. Instead, he lowered his gaze and smiled at Yun Che, saying, "Today, all the nations are present. I will announce our sworn brotherhood throughout the Pure Land and to all nations. From now on..."
+“There is no need to bring them up.” Once again, Mo Su gave Yun Che an answer anyone in his shoes would have found surprising.
 
-"Ah, no, no, no, no, no!!"
+In fact, from the start until the end, Mo Su had not asked him about a past he knew nothing about or brought up a secret only Ni Xuan might know.
 
-Yun Che seemed startled, waving his hands frantically: "Absolutely not!"
+Yun Che mulled over this for a moment before asking, “Do you still hate your Father?”
 
-"Why?"
+“I don’t.” The answer came back immediately, and there was still no emotion or even a ripple in his gaze whatsoever.
 
-Mo Su smiled faintly.
+“He had his own standpoint to defend, and choices to make, just as I have my own path to walk, and choices to make. There is no right or wrong, hate or not hate, it just... no longer matters. Today, I can barely remember what he looks like.”
 
-"It's obvious."
+His tone was as calm as an eternally silent sea. He looked like he was talking about someone else’s problems.
 
-Yun Che spread his hands, his expression slightly exaggerated: "If the world knew I was the Abyssal Emperor's brother, then everyone would revere and fear me. Even if they hated or despised me in their hearts, they would be respectful on the surface. Whatever I wanted would be within reach. Even if it belonged to others, a mere glance would make them obediently offer it. To achieve any goal, let alone effort, I wouldn't even need to lift a finger; countless people would scramble to complete it for me to curry favor."
+If Ni Xuan’s final ending was one of self-loathing and regret, then Mo E’s final ending was the destruction of the very soul. The latter lived up to his title, his race, but not his son... That was why Mo Su of all people had the right to hate him.
 
-"In that case, life would have no enemies, no challenges or motivation, and no true friends or any pure, genuine emotions. How absurd, how boring life would become! Just thinking about it is frightening."
+Right now, though, Mo Su was expressing extreme indifference and calm toward his father. In fact, he was so calm and indifferent that he almost forgot about him. It wasn’t just his father that he had nearly forgotten, either.
 
-The Abyssal Emperor's gaze seemed to deepen a fraction: "An expected answer. If you had agreed directly, I would have found it strange."
+Mo Su didn't ask about Mo E or what happened to the god race after he fell into the Abyss... he didn’t ask anything. Instead, he simply smiled at Yun Che and said, “It so happens that all the kingdoms are present, so I will announce our brotherhood to the Pure Land and the kingdoms. From now on—”
 
-"You and Elder Brother Ni Xuan are truly too similar."
+“Oh no no no no no!!”
 
-Yun Che quirked his lips, stating as a matter of course: "I cannot recall my past before I could dream. The first image in my memory is Master. My life, temperament, cognition, and even profound veins were all shaped by Master, so it's natural to be similar."
+Seemingly shocked, Yun Che hurriedly shook his hands. “Please don’t!”
 
-He glanced sideways, seemingly with interest, saying, "Although I absolutely cannot let such a thing happen, putting aside my personal reasons, as the Emperor of this Abyss, your decision just now was truly too hasty, so hasty that even a child would find it unbelievable."
+“Why’s that?”
 
-"Why??"
+Mo Su asked with a half-smile.
 
-Mo Su asked.
+“Isn’t it obvious?”
 
-"Even more obvious."
+Yun Che spread his arms wide while wearing a slightly exaggerated expression on his face. “If the people learn that I am the Abyssal Monarch’s sworn brother, then they will all fear and respect me. No matter how much they hate me and scorn me, they will, at least on the surface, act respectfully toward me.”
 
-Yun Che slowly said, "This Abyssal World was pioneered and developed by you over millions of years, with all your painstaking effort, to reach its current prosperity. If you were to announce our sworn brotherhood to the world, tsk..."
+“My objects of desire will become easily obtainable. Even if said object belongs to someone, one look is all I need to make them hand it to me. I won’t need to work hard to fulfill my goals either. Scratch that, I won’t even need to participate to fulfill any goal. Countless people will swarm to finish my goals for me.”
 
-He shook his head, his eyes gleaming with a strange light, as if imagining something: "Then my status in the eyes of the world, even if not on par with yours, would not be far off. In that case, if I had even a slight ill intention, I could easily throw this peaceful and balanced Abyssal World into utter chaos, causing great disorder. By then, it would be too late for you to regret."
+“A life like this has no enemies, no challenge, and no motivation. It doesn’t have true friends or any true relationships either. Life would become as ridiculous as it is boring. Just thinking about it frightens me to the bone.”
 
-"Such a thing, even the monarch of the most remote small country in the lowest-level birthlands, would absolutely not do." Yun Che spoke these words in a half-joking, half-teasing tone, thereby deepening his image as Ni Xuan's unrestrained and wild successor.
+The light in the Abyssal Monarch’s pupils seemed to darken a little. “An expected answer. If anything, I would be puzzled if you had agreed to this too easily.”
 
-Mo Su looked at him and said calmly, "If you like, let alone causing chaos, what's the harm in annihilating this entire Abyssal World?"
+“You and Big Brother Ni Xuan are far too similar.”
 
-"...!?"
+Yun Che tugged at one corner of his lips and answered matter-of-factly, “I cannot recall my past from Dreamweaver. The very first memory of my life is Master. My life, my personality, my knowledge, and even my profound veins were forged by Master. Of course, I resemble him.”
 
-Yun Che suddenly looked up at him, meeting those same unruffled eyes. The shock in his gaze was not feigned in the slightest.
+His gaze shifted sideways, and he said almost inquiringly, “Personally, I have every reason for not wanting this to happen. But ignoring that, your decision just now is far too negligent for the absolute monarch of the Abyss; so negligent that even a child would find it unbelievable.”
 
-"Or, if you like this world, then with just one word, I will hand over the title of Abyssal Emperor to you."
+“Oh? Why’s that?” Mo Su asked.
 
-"..."
+“Isn’t it obvious?” Yun Che said slowly, “The Abyss is a world you created, grew, and developed for several million years. Without exaggeration, it is the culmination of several million years of effort. If you were to publicize our brotherhood to the world, then... tch.”
 
-Yun Che opened his mouth, then suddenly let out a low laugh: "Hahaha, you, the Abyssal Emperor, would actually joke about the fate of the Abyss like this. If word got out, I'm afraid all the Abyssal Knights would drop their jaws."
+He shook his head and wore a distant look as if he was imagining something, “The people probably won’t view me as your equal, but someone slightly below your level? That would most certainly be true. If I ever go astray, then I could easily turn the currently calm and balanced Abyss into a hell of chaos and calamity. When that happens, it’ll be too late for regrets.”
 
-Mo Su's gaze remained flawlessly sincere: "I am not joking. Since you call me Mo Su Elder Brother, then everything I have can be given to you, including the Pure Land, including this world."
+“This simply isn’t something even the smallest regent of the lowest and most remote region of the Land of the Living would do.”
 
-Yun Che stared directly into Mo Su's eyes, trying to find any trace of falsehood or jest. But everything he presented was as pure and flawless as the surrounding aura. And when he spoke such world-shattering words, there wasn't even the slightest ripple in the surrounding aura.
+Yun Che had said this in a half-teasing, half-joking voice in order to deepen the free and wanton image of Ni Xuan’s successor.
 
-"Why...?" During his solitude with the Abyssal Emperor, he had always successfully controlled the rhythm and guided Mo Su's emotions, and everything had gone as he wished... No, the outcome of "sworn brotherhood" had actually far exceeded his expectations. But at this moment, he suddenly realized that he might not have truly seen the person before him.
+Mo Su looked at him and said indifferently, “If you like it, forget throwing the Abyss into chaos, I would not care even if you destroy this whole world.”
 
-Facing his suspicious and astonished gaze, Mo Su slowly closed his eyes, then turned around: "Yun Che, come with me to a place."
+Yun Che abruptly lifted his head and looked straight at Mo Su’s eyes. Still, he found nothing. Right here and now, his shock wasn’t faked in the slightest.
 
-He did not move his feet, only gently waved his arm. Instantly, the world before them distorted and collapsed, revealing a completely different space. Yun Che walked forward, standing side by side with Mo Su, looking at the scene ahead with surprise.
+“If it’s the opposite, and you are fond of this world, then I will surrender the title of the Abyssal Monarch to you. All you need to do is ask.”
 
-This was a transparent barrier, ten feet long and wide, filled with chaotic destructive currents. And in the center of this barrier, another small barrier floated quietly. That small barrier was a regular sphere, only the size of a fist, but it was not transparent; instead, it was a deep gray-red, making it impossible to glimpse anything within.
+Yun Che opened his mouth and let out a sudden, low chuckle. “Hahaha, what an Abyssal Monarch you are. I can’t believe you would use the fate of the Abyss as a joke. If word of this were to spread out, the jaw of every abyssal knight is going to hit the floor.”
 
-Mo Su's gaze pointed towards the spherical barrier, and he softly said, "I am the son of a Creation God. In my blood, flows a trace of creation power. However, this minuscule creation power is far from enough for me to create planets and life like a true Creation God."
+The sincerity in Mo Su’s eyes was flawless, however. “I am not joking. You called me big brother, so you can naturally have anything I have, be it the Pure Land or this world.”
 
-"And in the ninety-nine hundred thousandth year after falling into this world, I suddenly became able to wield this trace of creation power. So, I used this power, spending ninety thousand years, to successfully create a small planet." It was that... gray-red sphere.
+Yun Che had been staring straight into Mo Su’s eyes all this time in hopes of finding any sign of falsehood or joke. However, his appearance was as perfect as the air of this room was dustless. In fact, the surrounding air didn’t even ripple despite the absolutely stunning words he spoke.
 
-"This planet, which I created with my own hands, I named it—Paradise on the Other Shore¹⁵." Yun Che's heart stirred slightly. Paradise... Eden... Cradle... He fell into a brief contemplation. Mo Su gazed at his created "Paradise on the Other Shore," his voice gradually becoming ethereal: "The son of a Creation God is ultimately not a Creation God. Being able to use these minuscule traces of creation power was already a great surprise. This tiny so-called planet, I could only bestow upon it the most basic laws of existence, and the most basic life essence."
+“But... why?”
 
-"But... in the years that followed, it gradually perfected its own laws, and then gave birth to its first life."
+Since he entered a private meeting with the Abyssal Monarch, he had been relatively successful in controlling the way the conversation was headed and the direction of Mo Su’s emotions. Even now, everything was progressing as he wished... or more accurately, the fruit of his “brotherhood” far, far exceeded his expectations.
 
-Yun Che's eyes showed novelty.
+Looking at Mo Su again, Yun Che suddenly realized that he might not have seen through the person before him after all.
 
-"Later, life, driven by instinct, began to multiply, evolve, multiply again, evolve again... Thus, there were races, communities, and later, nations, independent continents... And then, they began to explore a vaster world. So, in their cognition, there were starfields, and the universe."
+Facing Yun Che’s confused and shocked eyes, Mo Su closed his eyes slightly and turned around. “Come with me, Yun Che.”
 
-"...!!"
+He did not move his feet. Instead, he waved his hand and collapsed the world in front of him, causing a completely different space to emerge.
 
-Yun Che frowned, the novelty in his eyes gradually deepening into astonishment.
+Yun Che stepped forward and stood next to Mo Su, staring at the scene before him in astonishment.
 
-Mo Su continued: "Life was multiplying and evolving, and the laws of the world were also changing. Gradually, elements and power emerged. And power, under the wisdom of life, also continuously evolved. Gradually, there were increasingly clear and vast differences in strength, status, and levels between different forms of life."
+It was a rectangular, transparent barrier about three meters long. Trapped inside the barrier were chaotic streams of destruction. Another smaller barrier was floating steadily at the center of the barrier. It was ball-shaped and only as big as a human fist. It wasn’t transparent, though. It was grayish-red, and it was impossible to see what was inside.
 
-"Finally, those strong individuals at the highest level explored the boundaries of the world. They began to try to break through the boundaries with powerful forces, again and again, generation after generation... Finally, just thirty thousand years ago, one life form succeeded, breaking open the edge of the world."
+Mo Su pointed at the ball-shaped barrier and whispered, “I am the son of a Creation God, so I possess some specks of power of creation. It is nowhere enough for me to create life and planets like a true Creation God.”
 
-"And what greeted him was an irresistible aura of destruction; he could only retreat. And the gap in the world he opened closed in an instant."
+“On the nine hundred and nine thousandth year after I fell into the Abyss, I suddenly became capable of controlling this sliver of power of creation. With this power at hand, I spent the next ninety thousand years creating a tiny planet. I succeeded.”
 
-A storm began to brew in Yun Che's heart.
+He was referring to the grayish red, ball-shaped object in front of them.
 
-Mo Su turned his gaze, looking into Yun Che's eyes: "Doesn't the boundary of that world resemble the Wall of Chaos¹⁶? And doesn't the destructive aura that prevented them from leaving the world resemble the destructive storm outside the Wall of Chaos?"
+“This is the planet I created with my own two hands. I named it... the Othershore Paradise.”
 
-"..."
+A twinge appeared in Yun Che’s heart.
 
-Yun Che was silent for a long time.
+Paradise... Eden... Cradle...
 
-"The person who could break through the edge of the world was undoubtedly the supreme expert of that world. He thought that heaven and earth were beneath his feet, and all beings were only fit to bow to him."
+He fell into deep thought for a moment.
 
-"But he could never have imagined that his existence, in our eyes, was nothing more than a tiny ant. We could, with a mere flick of a finger, completely annihilate him and the world he inhabited. They wouldn't even have the strength to struggle for an instant."
+Staring at the “Othershore Paradise” he created, Mo Su continued with an increasingly distant voice, “The son of a Creation God is ultimately not a Creation God, so the fact that I could employ this power at all was already a huge anomaly. I was only able to grant this exceedingly tiny, so-called ‘planet’ the most basic laws of existence and source of life.”
 
-"Then..."
+“However... This planet gradually perfected its laws on its own and eventually gave birth to its first-ever lifeform.”
 
-He asked, "Are we also in such a world?"
+Novelty appeared in Yun Che’s eyes when he heard this.
 
-"Is our world merely someone else's 'Paradise on the Other Shore'? Are what we perceive as power and nobility nothing more than insects for others to observe and play with?"
+“Later, the lifeform instinctively underwent reproduction on its own, evolved, reproduced, then evolved some more... and so races came to be, and tribes emerged. Some time later, countries came to be, and independent continents were formed...”
 
-"Or perhaps, we don't even count as real existences... Could it be that we are merely an illusion constructed by some high-level being?"
+“Later still, these lifeforms began exploring the wide, wide world. And so they began recognizing star realms and the universe itself.”
 
-"A fragment in a dream..."
+Yun Che furrowed his brow deeply. The novelty in his eyes was gradually transforming into deepening astonishment.
 
-"Words in a book..."
+Mo Su continued, “As life kept reproducing and evolving, the laws of the world were developing as well. Slowly, elements and powers came to be. Intelligent life would continue developing these powers until the distinction between different lifeforms, their strength, status, planes, and more grew increasingly clear.”
 
-"Or perhaps... a divine thought that could dissipate at any moment."
+“In the end, the experts standing at the highest levels reached the edge of the world and started trying to break through the barrier with great power. Again and again, generation after generation...”
 
-"..."
+“Finally, thirty thousand years ago, one lifeform finally succeeded in breaching the edge of the world. However, what welcomed him was the irresistible force of destruction. So, he had no choice but to retreat, and the gap he opened mended instantly.”
 
-Yun Che opened his mouth, but no words came out. These were words of terror he had never heard, let alone imagined, too heavy and too terrifying, impacting all his cognitions.
+Waves of shock were slowly but surely growing inside Yun Che’s heart.
 
-Sensing Yun Che's violently trembling soul, he smiled: "So, do you understand?"
+Mo Su turned around and looked into Yun Che’s eyes. “Don’t you think that the edge of this world resembles the Wall of Primal Chaos? And the destructive force that prevented them from leaving the world, the destructive storm beyond the Wall of Primal Chaos?”
 
-"When one's cognition is higher, and one stands at a higher place, one will instead find that one's own existence, and the existence of the world, are so minuscule."
+Yun Che was unable to say anything for a long, long time.
 
-"So minuscule that what was once thought to be vast creation is merely a handful of withered dust. So minuscule that... life can barely accommodate one thing. Everything else—status, power, fame, desire, grievances—are all meaningless illusions."
+“The person who breached the edge of the world was unquestionably the ultimate expert of his world. He must think that all of heaven and earth is his to trample, and all living beings only deserve to kowtow before him.”
 
-"So..."
+“He could never imagine that his existence is no bigger than an ant in our eyes. We literally only need a finger to end not just him, but his whole world. They wouldn’t be able to resist for even an instant.”
 
-Yun Che finally spoke, though with some difficulty: "The current you, your life only accommodates one thing, and everything else... is meaningless?"
+He asked, “Are we living in such a world as well?”
 
-"It used to be."
+“Is our world just another person’s ‘Othershore Paradise’? Is our so-called strength and nobility just playthings for this person to enjoy?”
 
-Mo Su reached out and gently placed his hand on Yun Che's shoulder: "For me, your appearance is a great surprise. So, for the rest of my life, besides that one thing, I now have a brother."
+“Or maybe, we’re not even real existences... perhaps we’re just illusory constructs of a higher being.”
 
-He patted his shoulder lightly, then lowered his hand: "Back then, I envied Elder Brother Ni Xuan's unrestrained and wild nature. Now, I also envy your flamboyant and uninhibited spirit. But I am destined not to be able to do so. It's not that I don't want to, but that I have no spare energy, and even less qualification."
+“Segments of a dream...”
 
-A smile was on his face, but what he said was heartbreaking: "Meeting you has added a person to this world with whom I can confide, and allowed me to let out a few truly hearty laughs. For me, that is already... an almost transgressive luxury."
+“Passages inside a book...”
 
-Deep within the soul sea, Li Suo's soft whisper sounded: "Your heart is beating so violently."
+“Or even... a stray thought that could disappear at any moment.”
 
-Yun Che gently exhaled, slowly suppressing the various chaotic emotions in his heart.
+Yun Che opened his mouth, but no sound emerged. This was a stunning theory he had never heard of or even imagined. It was so heavy and terrifying that it was assaulting everything he ever knew.
 
-He did not try to persuade, but slowly nodded: "I understand. You indulge my nature, and I naturally respect all of Elder Brother's choices."
+Sensing the terrible quakes happening in Yun Che’s heart and soul, Mo Su smiled. “Do you understand now?”
 
-His lips moved, and he smiled again: "When I was at Eden Cloud Peak¹⁷, I found it strange that you never mentioned the 'Mist Emperor'¹⁸, who caused such a stir, shaking countless people's hearts with rumors in just a few years. It turns out you truly didn't care at all."
+“The greater your knowledge, the higher you stand, the more you realize just how small your existence or even the existence of the world is.”
 
-In Yun Che's suddenly frozen gaze, Mo Su's smile slowly faded.
+“We are so small that what we once thought was infinity is but a handful of withered dust, so small that... we can only bear to carry one thing in a lifetime. Everything else—status, power, reputation, desire, favors, grievances, and more—is just delusions that don’t matter one bit.”
 
-He tilted his head slightly and softly said, "I cannot hide anything from you. What the Mist Emperor said was not a rumor."
+Yun Che finally found his voice and asked in a somewhat raspy voice, “The you now can only bear one thing in your life, and everything else... doesn’t matter at all?”
 
-"...!?" All of Yun Che's soul strings tightened simultaneously. Wait... what was he... saying?
+Mo Su reached out and gently placed a hand on Yun Che’s shoulder. “Your appearance is, to me, a most pleasant surprise. Besides that one thing, I now have a brother for the rest of my life as well.”
 
-Not at all surprised by Yun Che's shock, he slowly spoke: "Although my name is Abyssal Emperor, I do not possess the ability to control the Abyssal Dust¹⁹. It was the Mist Emperor who allowed the Abyssal Dust of this world to gather, forming the Mist Sea, thereby leaving behind numerous birthlands; it was also the Mist Emperor who kept the soulless Abyssal Beasts and Abyssal Ghosts within the Mist Sea, preventing them from encroaching upon the birthlands."
+He lowered his hand after the pat on the shoulder. “Back then, I envied Big Brother Ni Xuan for his ability to live freely and without restraints. Today, I still envy your ability to live brashly and wantonly. Unfortunately, I could never live like you or him, not because I don’t want to, but because I neither have that energy nor the right.”
 
-"Thus, the Abyssal World as it is today came to be. Therefore, not a single word of what they said was a lie."
+He wore a smile, but his words were anything but happy. “Meeting you, finding another person whom I can surrender my heart to, and being able to let out a couple of wholehearted laughs is to me... a kind of luxury that almost crossed the line.”
 
-"..."
+Deep inside his soul sea, Li Suo whispered, “Your heart is beating so fast.”
 
-Upon closer inspection now, one would notice Yun Che's pupils slightly contracting.
+Yun Che exhaled quietly and slowly suppressed the chaotic thoughts racing through his heart. He did not try to persuade Mo Su in any way. Instead, he slowly nodded and said, “I understand. You accept me for who I am. It is only natural that I should respect your choices as well, big brother.”
 
-Mo Su looked ahead, continuing his calm whisper: "Back then, the Mist Emperor and I made promises to each other. And their current anger is perhaps because my trajectory has deviated from their expectations."
+The corners of his mouth twitched, and he cracked a smile once more. “Back at Eden’s Crown, I was wondering why you didn’t mention anything about the ‘Fog Monarch’ whose baseless rumors had shaken countless people’s hearts in just a couple of years. To think it’s because you truly do not care at all.”
 
-"But... it no longer matters."
+Mo Su’s smile slowly faded, and Yun Che’s gaze suddenly grew still.
+
+Mo Su slowly lifted his head and whispered, “I can’t lie to you. The Fog Monarch’s claims... they are all true.”
+
+“...!?” Every thread in Yun Che’s soul grew taut at the same time. Wait a second... What the hell... is he saying?
+
+Unsurprised by Yun Che’s shock in the slightest, Mo Su continued slowly, “Although I am called the Abyssal Monarch, I do not possess the power to manipulate abyssal dust. It is the Fog Monarch who concentrated the abyssal dust of this world into the Endless Fog and left behind many Lands of the Living. It is also the Fog Monarch who kept the soulless abyssal ghosts and abyssal beasts in the Endless Fog and prevented them from invading the Lands of the Living.”
+
+“It is only thanks to them [2] that the Abyss exists as it is today. Therefore, not one word of what they say is a lie.”
+
+If someone were looking closely, they would notice that Yun Che’s pupils were shrinking a little.
+
+Staring straight ahead, Mo Su continued in an indifferent voice, “The Fog Monarch and I exchanged promises with each other back then. They’re angry now, probably because my current trajectory has somehow strayed from their expectations.”
+
+“But... that is no longer important.”
+
+1. Because he knows that Pan Xiaodie is most likely dead, and that his last chance to resolve this universal crisis without resorting to burying the entire Abyss is most likely gone. ☜
+
+2. I have no idea what gender this person is so I’m using them. In fact Mars specifically avoided pointing out a gender by choosing to type ‘ta’ instead of 他 or 她, so I think them is perfectly fine. However I’m guessing it’s a woman known as the other half of the Ancestral God LIKE I’VE BEEN SAYING ALL ALONG. ☜

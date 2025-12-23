@@ -1,187 +1,183 @@
 ---
 chapterNumber: 2161
-title: ""
-publishedAt: "2025-12-05"
+title: "Abyss of Death"
+publishedAt: "2025-12-23"
 ---
 
-After the five had stepped into the Void-Shattering Grand Formation one after another, the gray spatial profound light instantly condensed but did not completely vanish. The entire formation continued to operate slowly in a hazy, gray glimmer. As its profound patterns flowed, they faintly exuded the supreme divine aura of the Abyssal Emperor. This was originally a gift bestowed by the Abyssal Emperor upon the six great God Kingdoms, yet the most powerful Asura God Kingdom was conspicuously absent—a fact that was undoubtedly lamentable.
+The grayish, spatial profound light of the Void Breaching Great Formation immediately congealed as all five candidates stepped into it. The formation continued to revolve slowly amidst blurry glimmers of gray light, and its profound patterns emitted the supreme divine aura of the Abyssal Monarch.
 
-Hua Fuchen’s gaze shifted to Meng Kongchan. He sent a sound transmission, “Brother Meng…”
+This was the Abyssal Monarch’s gift to the six Kingdoms of God, but the strongest Boundless Kingdom of God was missing. It was undoubtedly a lamentable outcome.
 
-Both were heavy with worry. The moment their eyes met, they understood each other’s thoughts and vanished in the same direction. Hua Caili, after all, had a simple disposition and little experience. She could not comprehend the bonds of friendship and sentiment her elders shared, which spanned over ten thousand years, nor could she read the heavy sorrow and heartache her Father God concealed beneath his calm exterior. Even Dian Luohou's anger was something she could only sense on the most superficial level.
+Hua Fuchen turned toward Meng Kongchan and sent him a sound transmission, “Brother Meng...”
 
-Now that the younger generation had departed, Hua Fuchen and Meng Kongchan could finally drop their pretense of ease to confide in one another and discuss how to make amends. Meng Zangji, well aware of the Divine Sovereign's many worries, did not follow.
+Both men were carrying heavy hearts inside their chests. The moment their gazes touched, they understood each other’s intent and disappeared in the same direction.
 
-He walked to Meng Jianxi’s side and said coolly, “I wonder what the Divine Child Yuan is thinking. It has been less than twenty hours since he endured two hundred breaths of the Punishment of Desolate Gnawing, yet he insists on forcing his way into this perilous forbidden domain. And the Sovereign actually allowed him to do as he pleased.”
+Hua Caili was ultimately too innocent and inexperienced. She could not comprehend the ten-thousand-year-old friendship and bond her elders shared, nor fathom the profound sorrow and pain concealed beneath her Father’s calm exterior. Even Dian Rahu’s anger touched her only at the most superficial level.
 
-Meng Jianxi, however, replied, “Because Father God knows that Younger Brother Yuan must have his reasons for doing so. Since he is unwilling to speak of them, Father God will not press him. This is a unique trust Father God places in him alone.”
+Now that the juniors were gone, Hua Fuchen and Meng Kongchan could finally shed their carefree facade for the moment, confess their thoughts to each other, and discuss ways to make up with Dian Rahu.
 
-Meng Zangji’s old eyes gazed deeply at Meng Jianxi. He seemed to want to say something but held his tongue, ultimately just saying, “Let’s go.”
+Meng Canji knew very well that his Divine Regent was carrying many worries in his mind right now, so he did not follow him. Instead, he went over to Meng Jianxi’s side and said, “I have no idea what Divine Son Yuan was thinking. It hasn’t even been twenty hours since he endured two hundred breaths of punishment of devouring rage, and he’s forcing himself to enter a place as dangerous as the Forbidden Zone of Slumbering Gods. Even better, the supreme one allowed him.”
 
-But Meng Jianxi’s feet did not move. He looked toward the Void-Shattering Grand Formation. “One can stay in the God-Slumbering Forbidden Domain for seventy-two hours at most. This means our time in the Pure Land can also be extended significantly. Grandfather¹, you should go tour the Pure Land and visit old friends with my uncles². I must remain here. If Younger Brother Yuan encounters danger in the forbidden domain and escapes injured, I can be the first to assist him.”
+Meng Jianxi said, “That’s because Father understands that Brother Yuan must have his own reasons. If he isn’t willing to divulge it, then Father won’t press. This is Father’s unique trust in him.”
 
-Meng Zangji frowned slightly. It took a long while for his brow to relax, his expression complex and difficult to read. “Jianxi, does this mean… you’ve completely given up the fight?”
+Meng Cangji gave him a look with his old, wizened eyes. He looked like he wanted to say something, but in the end, he simply said, “Let’s go.”
 
-“Yes,” Meng Jianxi replied without a hint of hesitation.
+Meng Jianxi did not move, however. He looked in the direction of the Void Breaching Great Formation and said, “One can stay in the Forbidden Zone of Slumbering Gods for one hundred forty four hours at most, meaning that our stay in the Pure Land is prolonged. You should use this opportunity to visit old friends and tour the Pure Land with Uncle and the others, grandfather. I will stay here in case Brother Yuan is injured and forced to escape prematurely. He would need someone to look after him at first notice.”
 
-He turned to face Meng Zangji’s gaze directly and said with utmost seriousness, “My initial decision to give up was because I could not win, nor did I dare to compete any longer. Father God's undisguised favoritism, Younger Brother Yuan's perfect godhead, and his astonishing talent and skill in the profound way… Coupled with the fact that he held the Empress Mother's fate in the palm of his hand, the sense of powerlessness was so heavy I could barely breathe. Reason compelled me to choose not to contend, to choose submission.”
+A slight frown appeared on Meng Cangji’s face. It wasn’t until much later that it faded a little. While looking at Meng Jianxi with complicated eyes, he asked, “Have you... given up completely, Jianxi?”
 
-“But back then, I was still forty percent unwilling.”
+“Yeah.” Meng Jianxi’s reply came without any hesitation whatsoever.
 
-“Now, however, I am utterly convinced³, with not a single shred of resentment left.” Though these words sounded defeatist, he spoke them with such calm composure, even revealing a faint smile. “Especially after witnessing Younger Brother Yuan’s profound devotion and willpower today, I feel more and more that fate sending him back to us is the greatest blessing for my Dream Weaving God Kingdom. So, why should I continue to fight?”
+Meng Jianxi turned around and met Meng Cangji’s eyes directly. He said very seriously, “At the beginning, I gave up not just because Brother Yuan proved to be my better, but also because I didn’t dare to continue. Father’s undisguised favoritism, Brother Yuan’s perfect divine essence, his astounding talent in the profound way, and his masterful methods... even Mother’s fate was held in his grasp. The overwhelming sense of powerlessness weighed so heavily on me that I could scarcely breathe. Reason compelled me to choose submission over resistance.”
 
-“To stand by Younger Brother Yuan's side, to assist him in raising the Dream Weaving God Kingdom to a glorious future—is that not also an honor worthy of being etched into the annals of history?”
+“However, I would be lying if I said I was completely resigned to my fate. At least a small portion of me was hoping to rise again someday.”
 
-Staring at the unusual light in Meng Jianxi’s eyes, Meng Zangji finally nodded slowly. “Good. Since you have made your decision, I have nothing more to say. It’s just that, your past transgressions were quite severe. I fear…”
+“But now, he has won me over completely. Not a shred of defiance is left in my bones anymore.”
 
-“Grandfather, what are you saying?” Meng Jianxi said with a smile. “Younger Brother Yuan's will was strong enough to withstand double the Punishment of Desolate Gnawing. How could he possibly care about such minor grievances from the past? Your worries are truly unnecessary.”
+His words were disheartening, and yet his tone was calm and collected. He was even smiling a little as he said, “This is especially true after I witnessed Brother Yuan’s willpower and true feelings today. I’m starting to believe more and more that fate’s choice to return Brother Yuan to the Dreamweaver Kingdom of God is an enormous boon. In that case, why should I fight anymore?”
 
-“Good, good!” Meng Zangji finally broke into a smile. “You’re right. We have all witnessed your excellence. For the Dream Weaving God Kingdom to have someone even more outstanding than you is not a heaven-sent calamity, but a heaven-sent blessing. Back then, our thinking was truly too narrow. Your uncles now feel the same as I do; it's just that they can't get over their old pride and lingering fear. It’s time I had a good talk with them.”
+“To stand by Brother Yuan’s side and assist him in building the golden age of Dreamweaver—is that not also an honor worthy of being engraved in history forever?”
 
-“The Eternal Pure Land, a new beginning for all kingdoms. With the two of you in the Dream Weaving’s next generation, we can truly feel gratified and at ease. With such a dazzling and promising future, we old fossils must also do our utmost, hahahaha.”
+Looking at the odd light in Meng Jianxi’s pupils, Meng Cangji finally nodded slowly. “Alright. Since you have made up your mind, then I shan’t say anything more... If there is one thing I’m worried about, it’s that we might have offended him too much in the past. Do you think...”
 
-Abyssal Dust brushed against his face as Yun Che slowly opened his eyes.
+“What are you saying, grandfather?”
 
-Before him was a gray, hazy world. The light, the aura, the atmosphere—it was all just like the Sea of Fog.
+Meng Jianxi smiled and said, “Brother Yuan’s will is strong enough to endure twice the punishment of devouring rage. How could he possibly be troubled by those trivialities of the past? In this case, your concern is truly unnecessary.”
 
-However, the Abyssal Dust here was far denser than in the middle section of the Sea of Fog, perhaps even approaching the density of its depths. For others, to suddenly enter a forbidden domain submerged in Abyssal Dust from the Pure Land would be like falling from a clear spring into a mire; their profound energy and spiritual sense would be heavily suppressed, an incredibly uncomfortable feeling.
+“Good. Good!”
 
-But for Yun Che, it was like a fish returning to the vast ocean. The spiritual pressure from the Pure Land completely dissipated, and every wisp of Abyssal Dust here could serve as a vessel for his spiritual sense.
+Meng Cangji finally cracked a smile. “You’re right. We’ve all witnessed your exceptional talent. For the Dreamweaver Kingdom of God to gain someone even more outstanding than you is not a calamity, but a great blessing. We were definitely too narrow-minded back then. In fact, I know your uncle and many others share my sentiment. It is just that they are held back by seven parts face and three parts hesitation. It is time I have a proper talk with them.”
 
-“Huu—” He let out a long, slow breath and released his divine sense, blanketing the area around him.
+“The Eternal Pure Land represents a new dawn for all the Kingdoms of God. Knowing that the two of you are the next generation of Dreamweavers truly brings me profound comfort and peace. With such a bright and promising future ahead of us, it is only right that we old-timers spare no effort to support you two, hahahaha!”
 
-Li Suo spoke softly, “It’s so quiet. Much quieter than the Sea of Fog.”
+Abyssal dust brushed against his face as Yun Che slowly opened his eyes, and before him lay a world of murky gray. The light, the air, the atmosphere. They all resembled the Endless Fog.
 
-Yun Che replied casually, “That’s because there are very few Abyssal Beasts here, but Abyssal Ghouls are everywhere.”
+That said, the concentration of abyssal dust in this place was way thicker than the Endless Fog. It approached the level of the inner areas of the Endless Fog. For someone to go from the Pure Land to the Forbidden Zone of Slumbering Gods was like jumping from a clear spring to a swamp. Both their profound energy and their spiritual perception were severely suppressed, causing unbearable discomfort.
 
-And Abyssal Ghouls were nearly silent as they roamed.
+Yun Che was the opposite. Like a fish that returned to the deep sea, the mental pressure that had been weighing on him since entering the Pure Land had disappeared completely. Not only that, every wisp of abyssal dust in this place could become a medium for his spiritual perception.
 
-“Don’t be in a rush to investigate the surroundings. Focus your mind and rest for a moment.” Li Suo’s voice grew even softer. “In the Pure Land, your soul strings were stretched too taut, and the soul wounds from the Punishment of Desolate Gnawing have not fully healed. This place is safe for you. At least allow yourself a moment to breathe.”
+After letting out a long sigh of relief, Yun Che released his spiritual perception and spread it toward his surroundings.
 
-“Oh? Worried about me?”
+Li Suo murmured, “It’s quiet here. Much quieter than the Endless Fog.”
 
-“Yes.”
+Yun Che replied casually, “That’s because there are very few abyssal beasts in this place. Instead, it is crawling with abyssal ghosts.”
 
-A faint smile touched the corners of Yun Che’s lips. He then obediently retracted his spiritual sense and let down his guard, sitting down on the ground. “Alright. How could I refuse the concern of a Creation God?”
+Abyssal ghosts moved with near total silence.
 
-Li Suo said no more, quietly watching Yun Che close his eyes to rest. However, she could clearly sense that his mind could never truly relax; at least thirty percent of it remained on high alert.
+“There’s no need to scout out the surrounding area yet. You should focus on gathering your thoughts and resting.”
 
-The shadow of an Abyssal Ghoul drifted near, but just as it was about to touch Yun Che, it abruptly turned and headed in another direction, soon disappearing into the vast gray fog.
+Li Suo murmured even more quietly, “Your soul strings were pulled too taut in the Pure Land, and the soul damage you received from the punishment of devouring rage hasn’t recovered yet. Since this place is of no threat to you, at least allow yourself a moment to catch your breath.”
 
-Li Suo finally couldn’t help but ask, “Your thoughts are still in turmoil. What are you thinking about?”
+“Hmm? Are you concerned about me?”
 
-Yun Che’s eyes remained closed as he spoke in a low voice, “I still can't get over why Mo Su was so unmoved by the miracle of life I displayed. I’ve thought back on my conversation with him, and he mentioned the words ‘will to die’ more than once.”
+A faint smile touched Yun Che’s lips. Surprisingly, he obediently withdrew his spiritual perception, lowered his guard, and sat cross-legged on the ground. “Very well. How could one refuse the benevolence of a Creation God?”
 
-“So I’m thinking, perhaps more than the wounds inflicted by the Ancestral Sword, the death wish born from Pan Xiaodie's immense guilt and remorse is the true reason for her ‘slumber.’ And something like a death wish… that is indeed something even a miracle of life…”
+Li Suo fell silent and watched Yun Che without a word as he closed his eyes to rest. However, she could clearly sense that his mind never truly relaxed. At least a third of his awareness was keeping an eye on his surroundings. This was proven by the fact that an abyssal ghost lurching closer to Yun Che, but turned away and ran into the vast gray fog right before it would make contact with him.
 
-His voice suddenly stopped, and he let out a sharp cry, “Who’s there?!”
+Li Suo couldn’t hold back any longer and asked, “Your mind is still in turmoil. What are you thinking about?”
 
-BOOM—
+Eyes still closed, Yun Che answered in a low voice, “I still can’t let go of Mo Su being unmoved after I showed him the Divine Miracle of Life. After carefully reflecting on my conversation with him, I noticed that he mentioned the words ‘death wish’ or something like it more than once.”
 
-The explosive sound wave, carrying a sudden burst of profound energy, violently shook the surrounding space. Dozens of cracks spread rapidly outward as Yun Che shot to his feet, provoking the sharp shrieks of countless Abyssal Ghouls in the distance.
+“So, I’m thinking that, rather than the damage inflicted by the Ancestral Sword, perhaps the main reason Pan Xiaodie remained ‘asleep’ is because of the death wish born from overwhelming guilt and a sense of culpability. If that is true, then it makes sense that even the Divine Miracle of Life couldn’t...”
 
-Li Suo: “…!?”
+He paused for a second before exploding without warning, “SHOW YOURSELF!!!”
 
-A dark light shone in Yun Che’s eyes as his gaze swept the area like a hawk’s. But as far as his spiritual sense reached, he captured only pure Abyssal Ghouls and turbulent air currents.
+RUMBLE— the sudden sound wave mixed with explosive, profound energy stirred up the surrounding space violently. Dozens of cracks rapidly spread outward as Yun Che abruptly rose to his feet, provoking shrill screeches from countless abyssal ghosts in the distance.
 
-One breath… two breaths… Li Suo finally asked, “What happened?”
+Li Suo: “...?!”
 
-His search yielded nothing, but Yun Che’s soul strings remained taut, his brows knitted tightly. “Someone was spying on me.”
+A sinister light settled in Yun Che’s eyes as his gaze swept his surroundings like a hawk. However, he sensed only the pure abyssal ghosts and turbulent air currents.
 
-Li Suo was briefly silent before saying, “Did you find the source?”
+One breath... two breaths... Li Suo finally spoke up. “What happened?”
 
-“…No.”
+His search yielded nothing, but Yun Che’s soul strings remained taut, and his brows were furrowed to the extreme. “Someone was spying on me.”
 
-Li Suo said, “I didn’t sense anything. Moreover, the Abyssal Dust here is dense, which limits others’ spiritual sense, while yours is greatly enhanced. You could clearly detect Hua Qingying spying on you in the Sea of Fog, and besides, those who entered this forbidden domain with you are all in the God Annihilation Realm.”
+Li Suo kept quiet for a brief moment before asking, “Have you located the source?”
 
-Yun Che’s expression shifted slightly. His shout had not been a slip of the tongue. In the instant before he yelled, his spiritual sense had already radiated in all directions. An unexpected shout and burst of profound energy would have been enough to cause a ripple in any soul, no matter how well-hidden. Yet, his spiritual sense, extended to its absolute limit, had found nothing.
+Li Suo said, “I did not detect anything. This place is rich in abyssal dust. Another person’s spiritual perception would be restricted, but yours is greatly enhanced. You can clearly sense even Hua Qingying’s gaze through the Endless Fog, not to mention that everyone who entered this place with you is only in the Divine Extinction Realm.”
 
-He was certain that if he had been spying on someone who suddenly shouted and released profound energy from a state of quiet rest, his own soul would have certainly jolted, be it lightly or heavily. It was impossible for there to be not the slightest ripple or trace.
+Yun Che’s expression changed mildly... He hadn’t let out that yell without thought. The instant he yelled, his spiritual perception had also washed out in every direction. The sudden outburst of sound and profound energy could have caused anyone’s soul aura to quake uncontrollably. However, despite pushing his spiritual perception to its limit, he found nothing.
 
-Furthermore, this was a place dense with Abyssal Dust. And besides… that spying sensation had a faint, indescribable frailty to it.
+In his opinion, if he were spying on another person, and that person had suddenly let out a profound energy-empowered yell without any warning whatsoever, then his soul aura would have suffered at least a minor twitch, if not a major one. No matter what, it shouldn’t be possible for the person to leave not even the slightest ripple or trace behind, not to mention that this was a place full of abyssal dust, not to mention that the gaze... felt indescribably weak for some reason.
 
-After another long moment, Yun Che’s brow relaxed. He retracted his spiritual sense and let out a soft breath. “Perhaps I’ve been on edge for too long and have become a bit paranoid⁴.”
+Another while passed, and Yun Che finally relaxed his brows and withdrew his spiritual perception. He exhaled slightly and said, “Maybe I was too stressed after all, so much so that I’m hallucinating a little.”
 
-Perhaps… But the Devil Queen had warned him more than once that the one thing in this world that should never be ignored is a sudden “illusion.”
+Maybe... but the Devil Queen had warned him time and again that the one thing he should never ignore in this world was a sudden flash of intuition.
 
-After this incident, Yun Che could no longer rest peacefully. He strode forward, his spiritual sense spreading silently around him. Unconsciously, an hour passed. He touched upon Xian Yue’s aura but immediately changed direction, heading toward a place where the Abyssal Dust was even denser.
+In any case, Yun Che could no longer rest after the sudden contact. So, he walked forward and soundlessly spread his spiritual perception to the surroundings.
 
-In the direction he now walked, the concentration of Abyssal Dust rose abnormally, and the density of Abyssal Ghouls surged with it. After passing one Abyssal Ghoul after another, he finally stopped.
+Before he knew it, a whole hour had passed. When he made contact with Xian Yue’s aura, he immediately changed direction and walked toward the area with thicker abyssal dust. The direction he was heading boasted abnormally growing concentrations of abyssal dust and density of abyssal ghosts. He kept passing by one abyssal ghost after another.
 
-Ahead was a bottomless black abyss, churning with gray, dim Abyssal Dust so thick it was almost tangible. It was like the silently gaping maw of a demon that could noiselessly devour everything in the world.
+Finally, Yun Che came to a stop. In front of him was a black, bottomless abyss swirling with impossibly thick, grayish dark abyssal dust. It looked like the gaping maw of a devil, capable of devouring anything and everything in the world without a sound.
 
-Yun Che stared at the dark abyss, his brow furrowed, and muttered, “So this is… a Death Abyss⁵.”
+Staring at the dark abyss in front of him, Yun Che said in a low voice, “So this... is the Abyss of death.”
 
-It was common knowledge that at the center of the Sea of Fog lay an immense Primal Death Abyss. Within it was the densest, most primal, and most terrifying Abyssal Dust in the entire Abyss. The Primal Death Abyss was unique, but Death Abysses were not; much smaller versions existed sporadically in the depths of the Sea of Fog.
+Everyone knew that an unbelievably huge Primal Abyss of Death existed at the center of the Endless Fog. Contained within the Primal Abyss of Death was the thickest, most primal, and terrible abyssal dust in the entire Abyss.
 
-However, the depths of the Sea of Fog were home to Abyssal Beasts and Ghouls at the God Sovereign Realm, far beyond his current ability to control. He had ventured there only once and had returned in a sorry state, never daring to enter rashly again. Thus, this was the first time he had seen a real Death Abyss.
+The Primal Abyss of Death was singular, but the Abyss of Death was not. Although far smaller than the Primal Abyss of Death, lesser Abysses of Death were scattered throughout the depths of the Endless Fog.
 
-This Death Abyss was no more than a hundred yards wide, yet it silently emanated an indescribably terrifying aura. As Yun Che stared at it, his vision suddenly blurred, and an inexplicable impulse to leap down and return to eternal nothingness arose in his heart.
+However, Divine Limit Realm abyssal beasts and abyssal ghosts existed deep within the Endless Fog, and he could not control them with his current capabilities. He had only entered the place once before he was forced to escape with his tail tucked between his legs. Since then, he had given up on entering the place without proper preparation, which was why this was the first time he had seen a true Abyss of Death.
 
-Yun Che violently tore his gaze away. He pushed out with his right hand, and a ball of fiercely burning Golden Crow flame shot toward the Death Abyss.
+This Abyss of Death was less than three hundred meters wide, but the terrible aura it was emitting was possibly indescribable. When Yun Che stared at it for too long, his eyes suddenly blurred, and the inexplicable impulse to just dive down the Abyss of Death and permanently return to nothingness sprouted in his heart without warning.
 
-The moment the golden flame fell into the Death Abyss, its light and aura vanished instantly. There was no struggle or burst of power, not a single sound—it simply returned to nothingness in an instant.
+Yun Che abruptly tore his gaze away from the Abyss of Death and thrust his right hand forward, causing a violent ball of Golden Crow Flame to fly toward it. The moment the golden flame fell into the Abyss of Death, both its light and its aura disappeared instantly. There was no struggle for energy or explosion. There wasn’t even any sound at all. It had turned into nothing just like that.
 
-Yun Che’s eyes narrowed slightly, a strange light flashing within them.
+An odd light flickered in Yun Che’s eyes as he squinted a little.
 
-“A perfect disposal method, indeed.”
+“It’s a perfect disposal method, all right.”
 
-“Perfect… disposal method? What are you talking about?” Li Suo asked, confused.
+“Perfect disposal... method? What are you talking about?” Li Suo sounded confused.
 
-“You’ll know soon enough.”
+“You’ll find out very soon.”
 
-Before his words had even faded, Yun Che suddenly whipped his head to the right. The light in his pupils flared, and even his fingers curled involuntarily from excitement and agitation.
+His voice was still lingering in the air when, suddenly, Yun Che whipped his head to the right. His eyes blazed with surprising intensity, and even his fingers were curling involuntarily from the surge of excitement and anticipation.
 
 “Found her.”
 
-Following Yun Che’s perception, Li Suo murmured the name, “Shen… Wu… yi?”
+Li Suo traced Yun Che’s senses and whispered, “Shen... Wu... Yi?”
 
-“Your insistence on coming here… was it all for… her?”
+“The reason you insisted on coming here... was her?”
 
-“Yes!”
+“That’s right!!”
 
-Yun Che concealed his aura and moved through the layers of Abyssal Dust toward the source of the presence.
+Yun Che concealed his aura and passed through layer upon layer of abyssal dust, heading toward the source of that presence.
 
-“…” Li Suo seemed stunned by this answer. After a long moment, she asked, full of confusion, “Why? Is it simply because you want to be near her, or do you want to try to awaken her memories?”
+Li Suo seemed stunned by his answer. A long moment later, she finally asked in a voice filled with puzzlement, “Why? Is it purely because you wish to approach her, or are you trying to awaken her lost memories?”
 
-“I… do want to be near her. I want to, more than anything. I want to, regardless of the cost or consequences.”
+“I... do want to approach her. I want it so bad that I feel the impulse to throw all caution to the wind. Damn the cost, damn the consequences, damn everything.”
 
-This short sentence was laden with Yun Che’s incredibly heavy and complex emotions. But the him of this moment, the him in the world of the Abyss, was not purely Yun Che.
+The one short sentence revealed just how heavy and complicated the feelings Yun Che was harboring right now. However, the Yun Che in the Abyss was ultimately not wholly Yun Che.
 
-“However, my personal feelings and desires… can never take precedence over the safety of my homeland.”
+“However, my personal feelings and attachments... must never take precedence over the safety and security of my homeworld.”
 
-Li Suo: “…”
+Li Suo: “...”
 
-“I sought an opportunity to be alone with her not because ‘Yun Che’ wants to be near her, but because ‘Emperor Yun’… needs someone to fight by his side.”
+“The reason I’m seeking an opportunity to be alone with her isn’t because ‘Yun Che’ wishes to approach her, but because ‘Emperor Yun’... needs an ally who can shoulder his burden with him.”
 
-Li Suo’s soul rippled slightly, her voice as soft as faint smoke. “But the person she is now is not Xia Qingyue, but Shen Wuyi, who has no past. She doesn’t remember you or your homeland. Her only identity is the Divine Maiden of the Evernight God Kingdom. How could she possibly stand with you?”
+A ripple appeared in Li Suo’s soul as she said in a voice as ephemeral as smoke, “But she is not the old Xia Qingyue. She is Shenwu Yi, a woman who is missing her past. She does not remember your or her homeworld. The only identity she carries right now is the Divine Daughter of the Eternal Night Kingdom of God. Why would she ever choose to ally with you?”
 
-“Besides… Mo Su specifically warned you that Shen Wuyan'ye has developed the intent to kill you. Shen Wuyi is very likely the one who will carry it out, and this place is undoubtedly the most perfect location for it.”
+“Besides... Mo Su specifically warned you that Shenwu Yanye desired to kill you. Shenwu Yi could very well be her executioner, and this is undoubtedly the perfect place to carry out her order.”
 
-“Yes, I know,” Yun Che replied, completely unfazed.
+“Yeah, I know,” Yun Che replied without a flicker of emotion.
 
-Li Suo said no more. “It seems you have already decided what to do… I will wait and see if your wish comes true.”
+Yun Che’s spiritual perception had long made contact with the area Shenwu Yi was in, but her state astonished Yun Che.
 
-Yun Che's spiritual sense had already reached the area where Shen Wuyi was before his body did, but her current state left him quite surprised. The Abyss Emperor’s favor was unimaginably rare, yet she had used it to exchange for entry into this Divine Slumber Forbidden Domain. Anyone would assume that something she greatly desired must be inside.
+The Abyssal Monarch’s favor was rare, and she had used it to exchange for the chance to enter the Forbidden Zone of Slumbering Gods. Common sense dictated that the Forbidden Zone of Slumbering Gods must contain an object she desperately desired to get her hands on. Common sense also stated that she would immediately seek out this object with all her might without wasting even a second. After all, one could only stay in the Forbidden Zone of Slumbering Gods for one hundred and forty four hours at most.
 
-After entering, she would undoubtedly search with full effort immediately, not wasting even a single moment. After all, one could stay in the Divine Slumber Forbidden Domain for at most seventy-two hours. But according to Yun Che’s perception, Shen Wuyi had completely suppressed her aura, hiding under a massive gray boulder, unmoving for a long time. She showed no sign of searching, nor did she provoke any Abyssal Ghosts.
-What… was she doing?
+In reality, Shenwu Yi was concealing her presence to the best of her abilities and hiding under a massive gray boulder. She hadn’t moved a muscle since he detected her, and it didn’t look like she was searching for anything. She wasn’t making contact with the abyssal ghosts either.
 
-The lunar aura he sensed earlier was moving rapidly, fighting fiercely, carrying a bit of heat… After all, this was once the place of a fallen god. Anyone entering for the first time would certainly feel excitement and curiosity. Yet she, who had shown such strong desire to enter this place… was so silent?
+What... is she doing?
 
-At that moment, Shen Wuyi suddenly turned her eyes, and Yun Che’s spiritual sense was instantly touched by a gaze as cold as the moon.
-She sensed me?!
+When he sensed Xian Yue’s presence earlier, the man was moving swiftly and killing enemies. His presence felt excited and active... This was a place where gods had died. Anyone who entered it for the first time would be excited and full of anticipation. However, the person who expressed such a strong desire to enter the Forbidden Zone of Slumbering Gods at the beginning... was keeping silent?
 
-Yun Che quickly withdrew his spiritual sense, and the Abyssal Dust trembled in his palm. Instantly, an Abyssal Ghost hidden within the dust mist let out a shrill cry and suddenly leapt out, its long sharp claws stabbing directly toward Yun Che’s heart.
+At that moment, Shenwu Yi glanced aside, and Yun Che felt a sharp gaze, like a cold moon, touch his divine perception.
 
-Puh!
-Yun Che neither dodged nor retreated. Suppressing his profound energy completely, the Abyssal Ghost’s claws pierced through his chest, tearing open several bloody holes and exploding a terrifying mist of blood.
+She noticed me??!
 
-Li Suo screamed in shock:
-“Yun Che, you—!”
+Yun Che swiftly withdrew his spiritual perception, and abyssal dust swirled in his palm. The next moment, an abyssal ghost hidden within the dust let out a screech, leaped into the air, and stabbed its sharp claws into Yun Che’s solar plexus.
 
-“Don’t worry.”
+Yun Che didn’t dodge or get out of the way. He withdrew his profound energy completely and simply allowed the abyssal ghost to put several bloody, gaping holes in his body.
 
-Yun Che’s face grew pale from pain, but the blood-stained corner of his lips lifted slightly:
-“Did you forget? I told you before… being injured is the easiest way to make someone lower their guard… the more serious the injury, the better… hiss!”
+Li Suo cried out in shock, “Yun Che, you...”
 
+“Relax,” Yun Che’s face was filled with pain, and turning pale by the second, but the corners of his blood-drenched lips were curled up slightly. “Have you forgotten? I told you before. Injury is the easiest way to get someone to lower their guard... the worse the injuries, the better... Sss!”

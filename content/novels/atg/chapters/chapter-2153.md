@@ -1,261 +1,269 @@
 ---
 chapterNumber: 2153
-title: ""
-publishedAt: "2025-11-27"
+title: "Abyssal Monarch’s Summon"
+publishedAt: "2025-12-23"
 ---
 
-In the Pure Land, within the square courtyard of the Evernight God Kingdom, a jet-black palanquin rested in the center. It was shrouded in a desolate chill far more profound than usual, causing the attendant Daughters of Evernight to tremble with fear, not daring to make the slightest sound.
+At the Pure Land, inside the courtyard of the Eternal Night Kingdom of God, a pitch-black palanquin was parked at the center, emanating a chilly fog far more biting and cold than usual. It caused the surrounding women of Eternal Night to quiver in fear and be afraid of voicing even a single word.
 
-Flanked by Shen Wuyouluan and Shen Wumingque, Shen Wuyi approached. She knelt slowly before the palanquin, her voice like shattered jade striking ice—crisp and respectful. "Wuyi pays her respects to the Mother God¹..."
+Flanked by Shenwu Youluan and Shenwu Mingque, Shenwu Yi slowly knelt down in front of the palanquin before greeting the Divine Regent with a cool, respectful voice that sounded like jade fragments striking against the ice. “Wu Yi greets you, Mother—”
 
-Bang!
+Bang! A gust of icy wind abruptly flung open the palanquin and struck Shenwu Yi squarely in the solar plexus. Shenwu Yi did not attempt to dodge or defend against it. She allowed the attack to hit her and push her far, far away. A thin line of blood slowly slid down a corner of her mouth.
 
-A gust of icy, sinister wind suddenly blew open the palanquin's curtains and slammed viciously into Shen Wuyi's chest. Shen Wuyi neither dodged nor defended, silently enduring the blow as her body was flung far away. A thin line of blood trickled slowly from the corner of her lips.
+“How dare you, Wu Yi?!”
 
-"Wuyi, how audacious of you!"
+The Lightless Divine Regent’s cold, violent voice erupted from inside the palanquin, and each word felt like an icicle that pierced the bone. “I commanded you to demand the Nine Heart Divine Lotus from the Abyssal Monarch, but you dare disregard my words and request entry to the Forbidden Zone of Slumbering Gods instead?!”
 
-God Venerable Wuming's grim voice emanated from the palanquin, every word like an ice pick stabbing bone. "Before coming here, I ordered you to request the Nine-Heart Divine Lotus from the Abyssal Monarch. How dare you defy my command and go to that so-called God-Slumbering Forbidden Domain!"
+Shenwu Youluan hurriedly responded, “Please calm down, supreme one. Wu Yi is only doing this for your—”
 
-Shen Wuyouluan spoke urgently, "God Venerable, please quell your anger! Wuyi did this all for you..."
+“Silence!”
 
-"Silence!"
+Another gust of yin wind surged out of the palanquin and struck Shenwu Youluan heavily. It sent her flying backward and slammed her against a pillar. “Did I give you permission to speak?”
 
-Another blast of sinister wind shot out, striking Shen Wuyouluan and sending her stumbling backward until she collided heavily with a courtyard pillar. "Who gave you permission to speak out of turn!"
+It took Shenwu Youluan some effort to climb back to her feet with difficulty and assume a kneeling position once more. She bowed her head and kept silent.
 
-Shen Wuyouluan struggled to her feet, lowered her head, and knelt, not daring to utter another word.
+Long eyelashes covering up her moon-like pupils, Shenwu Yi said calmly and lightly, “According to the ‘Secret Tome’, the ‘Abyssal Heart Vine’ only exists in an abyssal ghost of a higher plane. However, not only was Wu Yi unable to locate an abyssal ghost that fit the criteria, but there isn’t even a record of such an abyssal ghost existing in the Endless Fog.”
 
-Shen Wuyi's long lashes veiled her moon-like eyes. Her voice was light and serene. "The Secret Codex² records that the 'Abyssal Heart Vine' only exists within the bodies of high-plane Abyssal Ghosts. No trace of it has ever been found in the Sea of Fog, nor has it appeared in any other records. The legendary God-Slumbering Forbidden Domain, however, is said to be roamed by countless Abyssal Ghosts, some of which were formed from ancient fallen gods. It was the greatest hope I could conceive of."
+“On the other hand, the legendary Forbidden Zone of the Slumbering Gods contains countless abyssal ghosts, and some of them are transformed from ancient fallen gods. That is where Wu Yi’s biggest hope lies.”
 
-"To me, my own advancement is far less important than my Mother God's safety, which is why..."
+“My self-improvement cannot possibly measure up to Mother’s safety. That is why...”
 
-She paused, her head bowing in shame. "But regardless of the reason, it is true that I defied your order. My crime is unforgivable, and I am willing to accept any punishment the Mother God sees fit."
+Shenwu Yi paused here and bowed her head. She added in a regretful tone, “No matter the reason, it is true that Wu Yi has disobeyed your order and committed an unforgivable crime. Wu Yi is willing to accept any punishment from you, Mother.”
 
-Any other elder would have been moved, even touched, by such a profound display of devotion from a junior. But... the one thing God Venerable Wuming distrusted most, "detested" most, was sincerity!
+If the Lightless Divine Regent were anyone else, she would have been touched by her junior’s heavy concern. However... the last thing the Lightless Divine Regent believed in, and the one thing she “loathed” above all else was sincerity!
 
-Her tone was so cold it could freeze the soul. "When, in all my years of teaching you, did I ever include 'presumption'!?"
+She spoke in a tone cold enough to freeze the soul, “I have taught you many things over the years, but never have I taught you to be opinionated, have I?”
 
-"This is the first time you have openly defied me. You will learn the consequences when we return to Evernight! Now, get out! Get out at once!"
+“This is the first time you openly went against my orders. When we return to Eternal Night, you will learn of the consequences of your disobedience. Now leave! Get out of my sight this instant!”
 
-"Yes."
+“At once.”
 
-Shen Wuyi answered softly and prepared to leave.
+Shenwu Yi replied quietly before rising to her feet.
 
-"Wait!" A sharp hiss suddenly sounded, and the surrounding atmosphere warped. Sinister currents of air churned chaotically, swiftly forming an isolation barrier at the True God level.
+Suddenly, the Lightless Divine Regent called out to Shenwu Yi once more. At the same time, the surrounding air transformed into dark, chaotic currents. It quickly formed a True God level isolation barrier.
 
-Within the isolated domain, God Venerable Wuming's voice seemed to echo directly in their ears and at the bottom of their souls, transforming the space into a strange and terrifying soundscape. "The order I gave you to cripple Yun Che has changed! Now, I command you to kill Yun Che!"
+Inside the isolation barrier, Shenwu Yanye’s voice seemed to echo directly inside her ears and heart. In fact, space itself had transformed into a bizarre and terrifying domain of sound as she declared, “I’m changing your order to cripple Yun Che! Instead, you will kill him!”
 
-A chorus of sharp, ragged breaths was unnervingly clear within the isolated domain. Shen Wuyouluan, Shen Wumingque... nearly all the Daughters of Evernight revealed profound shock and confusion in their downcast eyes. Although God Venerable Wuming's words and actions had never been befitting of a God Venerable, or even a normal person, this command was truly baffling and irrational.
+Countless people breathed faster inside the isolated domain of sound. Shenwu Youluan, Shenwu Mingque... and almost every woman of Eternal Night looked deeply stunned and puzzled by this command. Although Shenwu Yanye had never acted or behaved like a true Divine Regent or even a normal human being, this command of hers just seemed irrational and sudden to the extreme.
 
-"Yes."
+“As you command.”
 
-Shen Wuyi obediently lowered her eyes and complied without the slightest hesitation.
+Shenwu Yi replied obediently and without any hesitation whatsoever.
 
-"Leave no trace!"
+“Leave no traces behind!”
 
-God Venerable Wuming's voice began to be tinged with a frightening madness. "And if Yun Che dares to set foot in the God-Slumbering Forbidden Domain, that will be the perfect opportunity! It will be the heavens themselves decreeing his doom! Even the heavens cannot tolerate such a thoroughly hypocritical, filthy creature!"
+The Lightless Divine Regent’s voice was tinged with a kind of madness that struck fear in many people’s hearts. “If Yun Che dares to enter the Forbidden Zone of Slumbering Gods, then there will be no better opportunity! It means that the heavens themselves want him dead; that they cannot tolerate the very existence of this filth whose hypocrisy knows no bounds!”
 
-The God-Slumbering Forbidden Domain was akin to a special, independent Sea of Fog, almost completely cut off from the outside world. Even the spiritual sense of a True God could not extend far within it, making it the perfect place to kill someone and dispose of the body.
+The Forbidden Zone of Slumbering Gods was something like an independently existing, special type of Endless Fog. It was almost entirely isolated from the outside world and restricted even the perception of True Gods. It was, without a doubt, the perfect place to kill someone without leaving a trace behind.
 
-"Yes," Shen Wuyi replied again.
+“As you command,” Shenwu Yi repeated.
 
-"Get out!"
+“Now get out of my sight!”
 
-Shen Wuyi rose, helped Shen Wuyouluan to her feet, and the two walked slowly away.
+Shenwu Yi stood up and lifted Shenwu Youluan to her feet. Then, the duo slowly left the area.
 
-The isolation barrier had not yet dissipated. Shen Wumingque hesitated for a long time before finally speaking up hesitantly. "God Venerable, after today, Yun Che of the Dreamweaver God Kingdom will surely become renowned throughout the Abyss. Even the Abyssal Monarch and the High Priest will undoubtedly see him in a new light. God Venerable Wumeng was willing to abandon her dignity for him. If we truly kill him, and our involvement is exposed, the consequences... are truly difficult to predict."
+The isolation barrier hadn’t faded yet. Shenwu Mingque hesitated for a long time but ultimately decided to offer her opinion. “Supreme one, Yun Che of Dreamweaver, will be famous throughout the Abyss after today. Even the Abyssal Monarch and the Chief Priest will look at him differently. The Dreamless Divine Regent especially went so far as to abandon his pride to protect Yun Che. If we kill him, and if the truth is exposed, the consequences... would be unpredictable.”
 
-"Truly difficult to predict" was the most tactful phrasing she could muster.
+That was the most tactful way she could put it.
 
-"Moreover, we have no grievance with Yun Che, nor have we ever had dealings with the Dreamweaver God Kingdom... In my humble opinion, there is truly no need for us to waste our efforts on this boy." Shen Wumingque chose her words with extreme care, her tone as diplomatic as possible. If not for the fact that God Venerable Wuming's actions were so utterly incomprehensible, she would never have dared to offer a word of counsel.
+“Besides, we don’t share grievances with Yun Che. We don’t even interact with the Dreamweaver Kingdom of God... In my shallow opinion, there is simply no need to waste any time or energy on that boy at all.”
 
-"What do you know? What do you know!?"
+Shenwu Mingque spoke every word carefully and tactfully. If not for the fact that Shenwu Yanye’s decision was beyond outlandish, she wouldn’t even bother to speak up at all.
 
-God Venerable Wuming suddenly lost control of her emotions. Her sharp shriek made Shen Wumingque hold her breath, completely baffled as to which of her words had provoked such a reaction.
+“What do you know? What do you know?!”
 
-"The most beautiful woman in the world'! The words these men use to deceive women are all the same! Every single word is so foul it makes one want to vomit!"
+Shenwu Yanye suddenly lost control of her emotions and let out a violent, howling scream, causing Shenwu Mingque to hold her breath. She had absolutely no idea what it was she said that triggered Shenwu Yanye.
 
-"Willing to bear double the Desolate Gnawing Punishment alone... Heh, hahaha... Hypocrisy! Utter hypocrisy! The essence of men is hypocrisy! Filth! Shamelessness! Despicableness! Bastards! He is simply better at pretending than Shen Wuxueyan! He deserves to die even more than Shen Wuxueyan! Even more!"
+“What most beautiful woman in the world! The way these men trick women is exactly the same! Every word they speak stinks so bad you can’t help but throw up!”
 
-Upon hearing the name "Shen Wuxueyan," Shen Wumingque's pupils constricted... In that instant, she suddenly understood why God Venerable Wuming harbored such murderous intent toward Yun Che, a man with whom she had no quarrel.
+“What he will take twice the punishment of devouring rage alone... hehehe, hahahaha... hypocrite! Hypocrite! A man’s essence is hypocrisy! Filth! Shameless! Despicable! He’s just a better liar than Shenwu Xueyan, that’s all! He deserves to die more than Shenwu Xueyan! More!! ”
 
-"Shen Wuxueyan... Shen Wuxueyan... Shen Wuxueyan!!" God Venerable Wuming herself seemed to be pierced to the soul by the name. Her aura grew chaotic, and her voice became as shrill as a demented ghost's.
+Shenwu Mingque’s pupils contracted slightly when she heard the name “Shenwu Xueyan”... At that moment, she suddenly understood why Shenwu Yanye harbored such terrible bloodthirst toward a young man she had never known until today.
 
-"All the men in this world are Shen Wuxueyan! They are all heartless beasts... They all deserve to die!"
+“Shenwu Xueyan... Shenwu Xueyan... Shenwu Xueyan!!”
 
-Shen Wumingque bowed her head deeply, not daring to say another word. She could only sigh inwardly at Yun Che's extreme misfortune. He had unintentionally touched upon this madwoman's most untouchable scar.
+The Lightless Divine Regent seemed to be triggered by her own words. Her aura began to unravel, and her voice slowly grew shrill and terrible, like a mindless ghoul.
 
-"Wuyi, are you alright?" Shen Wuyouluan helped Shen Wuyi sit down, checking her injuries with concern.
+“All men in this world are Shenwu Xueyan! They are all animals who know only betrayal! They all deserve to die!!”
 
-"I'm fine."
+At this point, Shenwu Mingque could only bow her head deeply and keep quiet. At the same time, she hid a sigh. Yun Che was truly unlucky. Who could have imagined that he would accidentally touch the one scar he must never touch?
 
-Shen Wuyi shook her head lightly. Her face was a shade pale, but her cold, stunning beauty remained as breathtaking as ever. "Mother God did not strike me heavily. I will recover before we enter the God-Slumbering Forbidden Domain."
+“Are you alright, Wuyi?”
 
-Shen Wuyouluan sighed softly. "You knew the consequences of defying her, so why did you still..."
+Shenwu Youluan supported Shenwu Yi and sat her on a chair. Then, she carefully checked her injuries while asking if she was alright.
 
-Shen Wuyi's voice was gentle. Despite being fiercely reprimanded and punished, she held no regrets. "If we can just find the Abyssal Heart Vine, my Mother God's divine body will have a chance to recover. Then, she will be able to see my face clearly, see the Evernight God Kingdom she now rules. Her lifespan will also be extended several times over, allowing me to accompany her for much longer."
+“I’m fine.”
 
-"Therefore, even the faintest glimmer of hope is far more important than a little growth for myself."
+Shenwu Yi shook her head slightly. Her complexion was a bit pale, but she still looked every bit the stunning ice beauty she was. “Mother did not put much strength into the blow. I will recover before I enter the Forbidden Zone of Slumbering Gods.”
 
-As she spoke, her left eyelashes trembled in a minuscule arc with the surge of her emotions. This subtle tremor was clearly seen by Shen Wuyouluan, who was close to her.
+Shenwu Youluan let out a small sigh. “You know what the consequences of going against her order are, so why did you...”
 
-"Silly child."
+Shenwu Yi’s voice was gentle. Despite having suffered a terrible rebuke and physical punishment from Shenwu Yanye, there wasn’t a shred of regret in her voice whatsoever. “If I can collect the Abyssal Heart Vine for Mother, her divine body would have a real chance to recover. When the time comes, she will be able to clearly see Wuyi and the Eternal Night Kingdom of God she commands, and her lifespan will be extended several times what it is now. I’ll be able to keep her company for longer then.”
 
-Shen Wuyouluan gently embraced her, her voice filled with heartache. "I know you feel wronged... This is the Pure Land; the God Venerable's spiritual sense cannot extend here freely. If you feel wronged, just let it all out. Don't keep it bottled up inside and hurt yourself."
+“That is why I must do this. Even if it is just a faint ray of hope, it is still far more important than my personal growth.”
 
-"I don't feel wronged."
+As she spoke, her left eyelash trembled just a bit. It was so minor that anyone could have missed it, but Shenwu Youluan was close enough to see it clearly.
 
-Shen Wuyi rested her head lightly against Shen Wuyouluan's chest, a faint smile on her lips. "Actually, I've always known that Mother God's strictness is for my own good. Otherwise, I wouldn't have achieved what I have in just twenty years. It's just that she was once wounded by sincerity, so she cannot allow herself to believe in its existence again."
+“Foolish girl.”
 
-She closed her eyes slightly and sighed. "Sometimes, I even wish Mother God would place the 'Evernight Death-Seeking Mark' on me as well. Perhaps then, I could earn more of her trust."
+Shenwu Youluan hugged her gently and said painfully, “I know you feel aggrieved... this is the Pure Land, so the Divine Regent can’t extend her spiritual perception as she pleases. Just vent whatever grievances you harbor inside your heart. It will only do you harm if you keep it inside your heart.”
 
-"How can you think that way?"
+“I’m not aggrieved.”
 
-Shen Wuyouluan whispered, her heart aching. "Your talent is the most precious treasure of the Evernight God Kingdom. How could it be marred by the Evernight Death-Seeking Mark?"
+Shenwu Yi gently pressed her head against Shenwu Youluan’s chest and curled her lips into a faint smile. “I’ve always known that Mother is being strict with me only for my own good. I could not have achieved what I’ve achieved in just twenty years otherwise. It’s just... she was once injured by sincerity, and so could no longer permit herself to believe that sincerity is real.”
 
-"So..." Shen Wuyi looked up, her eyes shimmering with an incredibly deep hope. "Mother God does care for me after all, doesn't she?"
+She closed her eyes a little and let out a quiet sigh. “Sometimes, I even wish that Mother would implant the ‘Eternal Night Death Wishing Mark’ in me. That way, I’d be able to gain more of her trust.”
 
-"I don't know."
+“You cannot think such a thing.”
 
-Shen Wuyouluan replied, "No one can fathom the God Venerable's thoughts. Maybe she does, maybe she doesn't. But everyone has seen how pure and sincere your feelings for her are, and we are all moved by it. I believe that one day, the God Venerable will believe in sincerity again."
+Shenwu Youluan replied with evident distress in her voice, “Your talent is the Eternal Night Kingdom of God’s most valuable resource. The Eternal Night Death Wishing Mark must not damage it.”
 
-After a brief silence, Shen Wuyi slowly shook her head. "No, Mother God's loss of trust in all living things is a form of self-protection. I don't need her to try and change for my sake. I only hope she can be truly happy, truly healthy and well."
+Shenwu Yi looked up, eyes glistening with overwhelming hope. “Mother ultimately loves me, right?”
 
-"This time, when I enter the God-Slumbering Forbidden Domain, I will do everything in my power to find the Abyssal Heart Vine. If I cannot... I will find a way to create more opportunities to enter again. There will come a day when I succeed."
+“I don’t know.”
 
-"Alright."
+Shenwu Youluan answered, “No one can fathom the Divine Regent’s thoughts. Maybe she does, maybe she doesn’t. However, everyone can tell and feel how pure and sincere your love for the Divine Regent is. I’m sure that, given enough time, the Divine Regent will believe in sincerity once more.”
 
-Shen Wuyouluan smiled. "It is written that the Heart of Snow Glazed Glass not only possesses the purest, most flawless soul but is also blessed by the Heavenly Way. I believe your devotion will surely move the heavens and help you achieve your wish."
+A short silence later, Shenwu Yi actually shook her head. “No, I don’t need Mother to change herself for me. After all, her inability to trust anything and everything is itself a form of self-protection, isn’t it? I only wish that she could truly live as herself and be healthy, that’s all.”
 
-At that moment, an intangible soul presence quietly spread.
+“I will do everything in my power to find the Abyssal Heart Vine when I enter the Forbidden Zone of Slumbering Gods. If I fail... then I will create more opportunities to enter the place. I have to succeed eventually.”
 
-From within the jet-black palanquin, a series of low hisses could be heard. "How could there be true feelings in this filthy world... How could there be... true... feelings..."
+“Very well.”
 
-The final words seemed to carry the hint of a soft sob.
+Shenwu Youluan smiled. “It is stated that those with the Heart of Snow Glazed Glass not only possess the purest soul, but are also blessed by the heavenly law itself. I’m sure that your sincerity will touch even the heavenly law and convince them to lend you their blessing.”
 
-"Yun Che, you must remember... your will, your actions, they concern everything about you, and the life and death of everything in this world!"
+It was at this moment that an invisible, soul aura disappeared without a trace[1].
 
-"Therefore, in the World of the Abyss, whether it is friendship, the bond between master and disciple, the love between a man and a woman, or even gratitude toward a benefactor... they can only be tools for you to use. You absolutely cannot allow even a sliver of genuine emotion to be mixed in!"
+Inside the pitch black palanquin, low, hoarse screams echoed again and again, “Sincerity cannot possibly exist in this filthy world... it cannot... it cannot...”
 
-"You know your own character. If you develop true feelings, you will inevitably be bound by them! But the consequence of such bonds... will very likely be your own damnation, and the eternal damnation of this world!"
+At the very end, the voice seemed to carry the faint hint of a sob.
 
-"In the Abyss, all feelings are heartless!"
+“Remember this, Yun Che!”
 
-"All feelings are heartless!"
+"From the moment you set foot in the Abyss, every thought that passes through your mind, and every action that you choose to take, will directly affect the life and death of this world!"
 
-"Otherwise... eternal damnation!"
+"That is why every connection you might make in the Abyss—friendship, master-disciple relationship, romance, and even kindness—is only a tool to be exploited to your advantage. You must never allow your true feelings to spill over to these relationships, not even a little. Do you understand?"
 
-"Eternal damnation!"
+"You know the kind of person you are. If you allow those relationships to become real, then you cannot help but guard those bonds with your life. But the price you’d have to pay to secure those bonds... might mean the end of yourself and this entire universe!"
 
-"..."
+“Any relationship made in the Abyss is no relationship!”
 
-In a dark and murky world, Chi Wuyao's voice echoed. Her voice, her warnings, resounded in his soul countless times each day. Even in a deep coma, every fiber of his soul relentlessly alerted him. The moment his consciousness began to stir, his soul-strings tensed, and he struggled desperately to wake up.
+“Any relationship is no relationship!”
 
-How... can I be unconscious!
+“Or else... it will be the end!”
 
-In the World of the Abyss, any lapse was an unforgivable sin. How could he allow his consciousness to sink into such a pathetic state?
+“The end! The end! The end!!”
 
-Vaguely, he heard a young girl's voice. "Master is lying again. It clearly hurts so much, but he still says it doesn't hurt."
+Inside a dark, gloomy world, Chi Wuyao’s voice was resounding endlessly. Every day, her voice and her advice would echo inside his soul, heaven knows how many times without stopping. Even in a deep coma, every string of his soul was shouting the warning without end.
 
-It was Hong'er's voice.
+The moment he regained a sliver of consciousness, his soul strings immediately tensed up, and he struggled with all his might to wake up.
 
-"Master won't even let us out to play anymore, and he's become such a liar. But before, Sister Jasmine and Sister Heling both said that lying is what bad children do, and you should never lie." It was still Hong'er's voice.
+I... cannot fall unconscious!
 
-"You can't... say... bad things... about Master." This was You'er's voice, soft, sweet, and halting.
+Here in the Abyss, even a second of complacency is an unforgivable sin! How can I possibly lose my consciousness?!
 
-Following that was a soft sigh from Li Suo. "Lies are indeed not good things. But sometimes, behind a lie hides a helplessness too heavy to bear. And that kind of lie often wounds the liar first."
+It was at this moment that he heard the voice of a girl saying, “Master is lying again. He keeps telling himself that he’s not hurt, even though he’s obviously in so much pain.”
 
-Li Suo was the first to sense the turbulent struggle in his soul sea.
+It was Hong’er’s voice.
 
-"He... is about to wake up."
+“It’s bad enough that master doesn’t allow us to go out and play; he’s become such a hopeless liar as well. In the past, sister Jasmine and sister He Ling both said that lying is something only a bad kid would do, that one should not lie no matter the occasion,” Hong’er continued.
 
-Amidst his violent struggle, Yun Che's eyes snapped open, his pupils reflecting a blurry, piercing light.
+“You mustn’t... speak... badly about... master.” This time, it was You’er who spoke up. Her voice was soft, sweet as honey, and faltering.
 
-"Ah!"
+Li Suo’s sigh followed next. “Lying is bad, yes, but sometimes, people lie only because the burden they carry is too heavy; because they have no other choice. This type of lie especially hurts oneself first before it hurts anyone else.”
 
-A girl's gasp sounded by his ear, followed by a joyous cry. "Big Brother Yun, you... you're awake."
+Li Suo noticed immediately that Yun Che’s soul sea was struggling and quaking unnaturally.
 
-His vision filled with Hua Caili's jade-like face, a face beautiful enough to eclipse the heavens and earth of the Pure Land. Her eyes shimmered with tears, like shattered starlight. Her cheeks were streaked with moisture, so tragically beautiful it could break a heart of stone in an instant.
+“He... is about to awaken.”
 
-"How long... was I asleep?" He tentatively tried to raise his hand. Fortunately, the weakness in his body wasn't severe, which allowed him to relax completely.
+As he struggled, Yun Che’s eyes abruptly swung open, and blurry but painful light stabbed into his eyes.
 
-Hua Caili quickly reached out and gently held his injured hand. "Three shichen³. Big Brother Yun, close your eyes again and rest well. Don't try to be strong. I'll be right here."
+A young woman’s cry of surprise echoed beside his ears, followed by a shout of pure joy, “Big Brother Yun! You... You’re finally awake.”
 
-"Three shichen..."
+The face of Hua Caili—one beautiful enough to suck out all the colors of the Pure Land—entered his vision. Her tears looked like star fragments, and her face was covered in tear stains. She looked so poignant that even a man with a heart of stone would crumble in an instant.
 
-He murmured the words, then wiggled his fingers, taking her somewhat cold, snow-white hand in his. He looked into her eyes and smiled gently. "So, you've been teary-eyed like this for a whole three shichen? No wonder the books say that women are made of water.⁴"
+“How long... have I been asleep?” Yun Che asked while tentatively lifting his hand. He relaxed completely when he confirmed that the listlessness gripping his body wasn’t serious.
 
-"You... you still dare to smile!"
+Hua Caili hurriedly reached out and grabbed his severely wounded palm. “Six hours. You should close your eyes and rest a while longer, big brother Yun. Don’t force yourself to stay up. I will be here the whole time.”
 
-Hua Caili was both embarrassed and annoyed. Her jade-like fingers tightened slightly, but in the end, she couldn't bear to truly hurt him. She could only force a resentful expression. "I'm really angry this time, exceptionally angry!"
+“Six hours...”
 
-Yun Che suddenly clutched his chest, his face contorting in pain. "Ah, it hurts, it hurts... It hurts so much!"
+He whispered before curling his fingers and gripping Hua Caili’s fair but somewhat cold hand. He then looked into her eyes and let out a chuckle, “So, you’ve been crying non-stop for six whole hours? No wonder the books say that women are made of water.”
 
-The girl's budding anger instantly turned to panic. She was at a complete loss. "Where... where does it hurt? Is it an internal injury? How could this be..."
+“You... I can’t believe you’re laughing at me!!”
 
-Yun Che grimaced. "When my Caili gets angry, my heart aches. Ah, it hurts so much, more than the Desolate Gnawing Punishment! Hiss... ah!"
+Embarrassed, Hua Caili tightened her grip a little but ultimately could not bear to actually hurt Yun Che. She could only put on an annoyed expression and complain, “I’m really angry this time! Super angry!”
 
-"You, you..." Hua Caili didn't know whether to laugh or be angry. She could only bite her lip and scratch his chest forcefully with her fingers, earning an exceptionally exaggerated yelp from him.
+Suddenly, Yun Che clutched his solar plexus and wore a painful expression. “Ah ow ow ow ow... it hurts so bad!”
 
-But after the yelp, the pain on Yun Che's face vanished. He reached out with both hands, cradling the girl's hands in his palms, his gaze gentle yet firm. "As long as my Caili is safe and sound, nothing in this world can truly cause me pain."
+The girl was going to vent her annoyance and irritation at Yun Che, but his reaction instantly turned it all into panic as she stammered, “Wh... where are you hurt?? Is it an internal injury? This shouldn’t be, this shouldn’t be...”
 
-"But, it hurts me." The five simple words ended in a soft, girlish sob.
+Yun Che said with a grimace, “My heart hurts like hell the second my Caili gets angry! Oh, it’s worse than even the punishment of devouring rage!! Sssss... ah!”
 
-She rested her head lightly on Yun Che's chest, listening to his heartbeat. "We clearly agreed to bear everything together, but you..."
+“You—you!” For a time, Hua Caili didn’t know whether to giggle or get angry with him. In the end, she clenched her teeth and scratched him once on his solar plexus, eliciting an obviously exaggerated howl.
 
-"Ahem, ahem!" Meng Kongchan stood at the door, leaning halfway in, his face a mask of seriousness to hide his awkwardness... Perhaps I've come at a bad time?
+After the howl, though, the feigned look of pain faded completely, and Yun Che reached out to grab the girl’s hand with both hands. He said gently yet firmly, “But so long as my Caili is fine, then there is nothing in this world that can truly hurt me.”
 
-Hua Caili shot up, a rosy blush on her cheeks. "Uncle Meng."
+“ I’m hurt, though.” Three words, and the last word was tinged with a small sob.
 
-"Mm."
+She gently, very gently, laid her head on Yun Che’s chest and listened quietly to his heartbeat. “We promised that we would bear everything together, but you...”
 
-Meng Kongchan grunted seriously and gave an elder's nod. His eyes swept over Yun Che. "Your recovery speed is astonishing. Caili should be able to rest easy now."
+“Ahemhem! Ahemhemhem!”
 
-He glanced at Hua Caili with a faint smile. "This little girl, for all her fame as the Heaven-Folding Divine Maiden, cried her eyes out. She nearly drowned me and her father."
+It was at this moment that a series of coughs came from the entrance. It was Meng Kongchan half-leaning against the door frame and masking his embarrassment with a straight expression. I think... I came at the wrong time.
 
-The pink on her snowy face instantly deepened to a more vibrant crimson. The girl bowed her head low, softly protesting, "It... it wasn't as exaggerated as Uncle Meng says."
+Hua Caili abruptly shot to her feet and blushed pink. “Uncle Meng.”
 
-"Hahahaha!"
+Meng Kongchan responded in a deadpan manner and nodded the way an elder would. After shooting Yun Che a look, he said, “Your recovery speed is stunning. It’s good. Caili should finally be able to rest easy now.”
 
-Meng Kongchan couldn't help but laugh heartily.
+He cast the girl a look before adding in a mirthful tone, “You would think that the famous Heaven Breaker Divine Daughter would be made of stronger stuff, but the river of tears she shed after you fell unconscious nearly drowned her father and me.”
 
-"Senior."
+The pink blush on her face instantly deepened into crimson, and the young woman bowed her head deeply to hide her embarrassment. She defended herself in a meek voice, “You... You exaggerate, Uncle Meng.”
 
-Yun Che suddenly spoke, his face filled with remorse. "My actions were ill-considered and caused a great deal of trouble for you and God Venerable Huaxin. I never expected..."
+“Hahahaha!”
 
-Meng Kongchan waved a hand, cutting him off. "By enduring the Desolate Gnawing Punishment alone, you've managed to win the approval of most people for your Caili. Even the Abyssal Monarch publicly announced the annulment of the engagement. This is already the best possible outcome."
+Meng Kongchan couldn’t help but laugh boisterously at that.
 
-"As for the affairs of us elders, you need not worry." As he spoke, he turned his back... afraid that Yun Che's overly sharp gaze would catch the gloom in his eyes.
+“Senior,” Yun Che suddenly spoke up with a regretful expression, “I apologize for the huge trouble my thoughtless misconduct caused for you and the Heart Painter Divine Regent. I didn’t think...”
 
-Just then, an aged voice came from outside. "This old one, Long Zhiming, is about to leave the Pure Land and has come especially to bid farewell to the Abyssal God Child. I wonder if the Abyssal God Child has awakened?"
+But Meng Kongchan waved his hand and stopped him from continuing, “You endured the punishment of great rage and survived. Your action won you most people’s approval, and even the Abyssal Monarch had officially annulled the engagement. This is the best possible outcome.”
 
-Yun Che's spirits lifted slightly, and he immediately said, "Senior, I have deep ties with the Dragon Clan. For the Dragon Lord to come and bid farewell personally, he must have something to say."
+“As for the other matter... leave it to us adults to handle. You have nothing to worry about.”
 
-Meng Kongchan nodded and stepped out. A short while later, the Dragon Lord arrived alone, carrying the ancient and heavy aura of an Ancestor Dragon.
+Meng Kongchan purposely turned away from Yun Che when he said this. He was afraid that the young man’s excessively sharp eyes would capture the dark gloominess in his eyes.
 
-Yun Che's condition was stable. While Meng Kongchan felt a sense of relief, his heart remained endlessly heavy. On Eden's Cloud Crest, Dian Luohou's furious roars and accusations still echoed in his ears.
+It was at this moment that an ancient voice came from outside. “This old one, Long Zhiming, will soon depart the Pure Land, so I have come to bid Divine Son Yuan goodbye. Has Divine Son Yuan awakened?”
 
-Yun Che had conquered everyone, including the High Priest, with his world-shocking willpower, shattering the seemingly insurmountable obstacles between him and Hua Caili... But as everyone's perception of them shifted from negative to positive, for the Senluo God Kingdom and for Dian Luohou, it was undoubtedly adding fuel to the fire, insult to injury. He knew Dian Luohou's roars were justified... The two people he trusted most had dealt him the greatest betrayal and humiliation of his life.
+Yun Che immediately perked up and said, “Senior, the dragon race and I share a connection. Since the Dragon Lord has purposely come to bid me goodbye, he must have something to say to me.”
 
-Sigh!
+Meng Kongchan nodded and stepped out of the room. A while later, the Dragon Lord came alone while shrouded by the thick, ancient aura of the Ancestral Dragons.
 
-With a heavy sigh, his eyes suddenly caught a glimpse of a green figure.
+It looked like Yun Che was fine, so Meng Kongchan let out a sigh of relief. Despite this, his heart remained impossibly heavy. Dian Rahu’s roars and questions at Eden’s Crown were still echoing in his ears as if he were standing right next to him.
 
-"Qingying."
+Yun Che had convinced everyone of the righteousness of his relationship with Hua Caili with his stunning willpower. The countless obstacles that originally stood in his and Hua Caili’s way were shattered just like that.
 
-He was overjoyed and called out subconsciously.
+However... The fact that most people now viewed Yun Che and Hua Caili’s relationship positively rather than negatively only deepened the anger and humiliation of both Dian Rahu and the Boundless Kingdom of God.
 
-"Yun Che is awake?" Hua Qingying asked faintly.
+Meng Kongchan knew very well that Dian Rahu was right... the two people he trusted the most had given him the greatest betrayal and humiliation of his life.
 
-"He's awake." Meng Kongchan took a few steps forward, feigning a casual tone. "The boy's body is quite tough..."
+A heavy sigh escaped Meng Kongchan’s lips. It was at this moment that he caught a cyan figure out of the corner of his eyes.
 
-"That's good." As her words fell, the green figure had already soared far into the sky, leaving the God Venerable Wumeng with his sentence unfinished.
+“Qingying?” He was so pleasantly surprised to see her that he cried out subconsciously.
 
-"Uh..."
+“Has Yun Che awakened?” Hua Qingying asked indifferently.
 
-Meng Kongchan subconsciously raised a hand, then could only let it fall with a sigh.
+Meng Kongchan took a few steps forward and said with feigned calmness, “This boy is tougher than he looks—”
 
-At that moment, an unexpected aura approached rapidly. Meng Kongchan's expression hardened. He turned slowly to face a man clad in cold silver armor, with a resolute face and a formidable presence.
+“That’s good.”
 
-"Abyssal Knight Dugu Zhuyuan, paying respects to God Venerable Wumeng. I have come on the orders of the Abyssal Monarch to bring Yun Che to the Eden Sacred Hall for an audience."
+After saying that, the cyan figure disappeared into the distant sky just like that. She did not wait for the Dreamless Divine Regent to finish.
 
-Meng Kongchan's calm and imposing expression instantly changed, his brows knitting together sharply. "What did you say? The Abyssal Monarch!?"
+Meng Kongchan subconsciously lifted his hand, but in the end, he could only lower it and sigh again.
+
+It was at this moment that another surprising presence approached him rapidly. Meng Kongchan straightened his expression and slowly turned to face an imposing man in armor with a stalwart face.
+
+“Abyssal Knight Dugu Zhuyuan greets you, Dreamless Divine Regent. I have come to carry out the Abyssal Monarch’s order. He wishes for me to bring Yun Che to Eden’s Temple for a meeting.”
+
+Meng Kongchan’s look of indifference and coldness immediately crumbled a little when he heard this. His eyebrows were scrunched up together as he asked, “What did you just say? Abyssal Monarch?!”
+
+1. Everyone keeps saying XQY isn’t worthy of being Yun Che’s wife and yet who else can Oscar on his level? The Devil Queen? She lost that right the moment she fell for Yun Che lol. ☜

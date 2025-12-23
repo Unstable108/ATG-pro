@@ -1,149 +1,167 @@
 ---
 chapterNumber: 2163
-title: ""
-publishedAt: "2025-12-06"
+title: "Cloud and Moon in the Mist (2)"
+publishedAt: "2025-12-23"
 ---
 
+“Are you satisfied with my answer, Divine Son Yuan?”
 
-"Is this response to your satisfaction, Divine Son Yuan?" Her every word was like tempered ice and frost, so cold it seemed to pierce flesh and stab straight into the soul, using the most scathing language to shatter his pretense and crush his defenses. But… she still could not detect a single ripple in his eyes. She was so cold, so distant, her taunts so merciless… The sword in her hand was even pressed against his vulnerable throat.
+It was as if every word she spoke was laden with ice. They were so cold that they threatened to pierce the flesh and soul. She was using the harshest words she could think of to crush his facade and shatter his mental defenses.
 
-Why, then, were his eyes still so warm? So warm they seemed to reflect directly into the depths of her soul. In her heart, it felt as if something was silently melting. Time and again she grew vigilant, time and again she suppressed it, but in a mere instant, that unprecedented stirring of her heart and soul would wash over her again… like an instinct hidden in the depths of her soul, suddenly awakened by his gaze—something she could neither comprehend nor stop. She had awakened in the Eternal Night God Kingdom, and her earliest memory of this world was of Shenwu Yeye. She had long grown accustomed to cold silence and suppression, yet her life was not without warmth… Shenwu Youluan and Shenwu Mingque, her two aunts, had always treated her with gentleness. It was partly out of affection for her, but more so because it was their nature.
+And yet... she still couldn’t capture any stirring of emotions in the man’s eyes. Her words were so cold, so estranged, so merciless... even now, her sword was still pressed against his fragile throat. So why did his eyes still radiate such warmth, a warmth that seemed to seep directly into the depths of her soul?
 
-As she journeyed through this world, she gradually discovered what made her different. Her five senses seemed to possess a sharpness that defied common sense. Her eyes, it seemed, could peer directly into a person's heart and "see" emotions hidden from others. But… she had never seen eyes like Yun Che's. She never knew a pair of eyes could hold such complex, such profound emotions… like finding what was lost after a parting of life and death; like a lonely star in the cold night finally plunging into a warm river of stars; like an ancient mirror, sealed for a thousand years, suddenly reflecting a familiar face… The emotions churning in the depths of his eyes were too thick, so thick they seemed unable to dissolve the bone-deep longing from when he had lost her, nor could they contain the trembling ecstasy of their reunion.
+She felt as if something were silently melting inside her heart. Time and again, she grew wary and suppressed the feeling, only for the unprecedented stirring of her heart and soul to return immediately after the fact. It was like his gaze had awoken an instinct hidden within the depths of her soul, one that was both incomprehensible and impossible to resist.
 
-Ever since they met in this gray, forbidden domain, he had gazed at her with this same infatuation. His black eyes were as deep as an ink-black abyss, yet they shone brightly, as if hiding two clusters of undying starlight. Within that starlight, there was a cautious probing, as if fearing everything before him was merely a reflection in the water or a flower in the mirror¹; there was a lost, dazed trance, as if he had yet to recover from a long-lasting soul-wound and obsession. And there was an attachment so profound he would not let go even if it meant pouring out all the mountains and seas…
+She had awakened in the Eternal Night Kingdom of God. Her first memory in this world was Shenwu Yanye. She had long grown accustomed to the cold solitude and oppression, but warmth was not absent from her life. Shenwu Youluan and Shenwu Mingque, her two aunts, had always treated her with tenderness. It was not merely affection; it was simply their true nature.
 
-Who… who was he…? And who… was I…?
+As her time in this world grew, she gradually discovered that she was different from others. Her five senses seemed to be supernaturally sharp. Her eyes appeared capable of piercing directly into the human heart and “seeing” emotions that others could not perceive.
 
-"Qingyue, you don't need to test me anymore. In this entire world, I am the one person you never need to test or guard against, because I… could never, ever hurt you again." His voice was as gentle as the wind, and his gaze clung to her, as if trying to bind her figure firmly within his soul.
+However... she had never encountered eyes like Yun Che’s. She had never known that a pair of eyes could intertwine with such complex and profound emotions... Like the reunion after a life-and-death separation, like a lone star on a cold night finally crashing into a warm galaxy, like an ancient mirror that was covered in dust for millennia suddenly reflecting a familiar face... The emotions churning in those depths were so thick they felt like both the insoluble, bone-gnawing longing for loss and the uncontainable trembling ecstasy of reunion.
 
-As his words fell, he suddenly clutched his chest and began to cough violently. Each spasm brought forth a great mist of blood. The tip of the sword at his throat instantly pulled back a few fractions… The movement of her hand preceded her conscious thought, a seemingly subconscious instinct. Several streams of profound energy circulated slowly through Yun Che's body, finally stabilizing his injuries somewhat.
+From the moment they met in this gloomy forbidden zone, he had been looking at her with such rapt attention. His dark eyes were as deep as ink-black abysses, yet shone so brightly they seemed to conceal two clusters of unquenchable starlight. Within those sparks lay cautious probing, as if fearing everything before him might prove to be a mirage; a dazed, disoriented haze as if he had yet to awaken from a long slumber of soul-wrenching sorrow and delusion.
 
-Shen Wuyi watched with narrowed eyes, her words still cold and mocking: "So, you fear death after all."
+And above all, an unyielding clinging and determination to never let go again, even if it meant draining mountains and seas...
 
-"I do. Of course I do." Yun Che struggled to regulate his breathing. His voice was hoarse and weak from his severe injuries, and each word seemed forced through gritted teeth, yet they were utterly clear and resolute.
+He... Who is he... And me... Who am I...
 
-"I am, perhaps, the person in this world who fears death the most. Because if I die… should you one day recover your memories, you would be heartbroken beyond measure.² More importantly, if I die, my homeland… our homeland, will be plunged forever into an unpredictable and irresistible abyss of calamity." His eyes reflected a hazy, gentle light, yet they also projected a resolute will that stemmed from the deepest part of his soul.
+“You needn’t test me any longer, Qingyue. I am the one person in the world you need least to test or guard against, for I... could never hurt you again.”
 
-Shen Wuyi's lips moved… but she could not bring herself to utter any more soul-piercing words.
+His voice remained as gentle as the wind, yet his gaze held her captive as if seeking to bind her very essence to his soul with his eyes alone.
 
-"Qingyue, I know Shenwu Yeye wants you to kill me. The reason is that I touched upon the scars of her past betrayals atop the Cloud Top of Eden, and this is undoubtedly the perfect place to do it… You don't need to confirm or deny it. Right now, I pose no threat to you. I don't even have the strength to escape. I only ask that you give me some time to finish what I have to say."
+As the words fell, Yun Che suddenly clutched his chest and began coughing violently. Each cough expelled a thick spray of blood mist. The sword tip pressed against his throat instantly withdrew a couple of inches... Her hand had actually moved before her mind could command it, as if driven by instinct.
 
-Shen Wuyi neither moved nor spoke, her cold eyes simply staring… but at least, she did not refuse, nor did she leave.
+Several streams of profound energy circulated slowly inside Yun Che’s body until his injuries finally stabilized a little.
 
-Yun Che's breathing steadied slightly. He took a light breath and spoke slowly, "I am not Meng Jian Yuan. Yun Che is my real name. And you are Xia Qingyue. We were married in Floating Cloud City when we were sixteen… This world has no Floating Cloud City, because it exists in our homeland."
+Shenwu Yi stared at him intently, her words still cold and mocking, “So, you’re afraid of death after all.”
 
-Shen Wuyi: "..."
+“Of course I’m afraid of dying.” Yun Che worked hard to steady his breathing. Because his injuries were so severe, his voice was raspy and weak, and each word sounded like it was squeezed out of his teeth. However, they were also clear and resolute.
 
-"You say you are a selfish and cold-hearted person. I think this perceived coldness of yours might be because your body and soul are both rejecting this world." Like a small stone dropped into a still pond, this sentence seemed to cause a momentary ripple in Shen Wuyi's gaze.
+“I am probably the most death-fearing person in this world, for if I were to die... should you ever regain your memories, your heart would be torn apart. My homeland... our homeland... would forever plunge into an unpredictable, irresistible abyss of calamity as well.”
 
-"I understand that feeling of rejecting the world. And that rejection is precisely because we do not belong to this world. Our homeland is the very 'Eternal Pure Land' that the people of this world have yearned for for generations, and are now on the verge of entering."
+His eyes reflected a hazy, soft light, but also an unyielding resolve born from the deepest recesses of his soul.
 
-Yun Che's words would have been world-shaking to any person of the Abyss. Shen Wuyi's expression did not change, nor did she interrupt him. She simply stared at him coldly, listening.
+Shenwu Yi’s lips moved... but she ultimately could not bring herself to utter another soul-piercing word.
 
-"Our homeland has no Abyssal Dust, but it has countless green trees and blooming flowers, with innumerable races and worlds of all sizes. The colors of the world, the number of living beings, surpasses the Abyss by an unknowable degree. However, the loss of the world's spiritual energy has made it impossible for the profound practitioners of our homeland to break through the Divine Master Realm."
+“Qingyue, I know that Shenwu Yanye is the one who wants you to kill me. Her reason for wanting me dead is because I unintentionally ripped open her scar of betrayal at Eden’s Crown, and there is no better place to kill me than here... you do not need to acknowledge or deny it. Right now, I am of no threat to you whatsoever. I lack even the ability to escape. All I ask is that you give me some time and listen to all that I have to say.”
 
-"The moment the people of the Abyss set foot there, all life in our homeland will become lambs to the slaughter. The fragile laws of that world will also spawn countless disasters, unable to withstand the power of Demigods and True Gods."
+Shenwu Yi neither moved nor spoke. She only looked at him coldly... However, she at least did not reject him or take her leave of him.
 
-"This is also the reason I came to this world."
+After Yun Che’s breathing had gotten a little steadier, he drew in a shallow breath and spoke slowly, “I am not Meng Jianyuan. Yun Che is my true name. Your name is Xia Qingyue. We were married at sixteen in a city called Floating Cloud City... There is not a Floating Cloud City in this world, for it only exists in our homeland.”
 
-With every sentence, every word, he looked directly into Shen Wuyi's eyes, all his emotions reflected in his gaze without reservation.
+Shenwu Yi: “......”
 
-Shen Wuyi spoke faintly, "Are you trying to say that you want to stop the Pure Lands and the God Kingdoms from entering the Eternal Pure Land?"
+“You called yourself an utterly selfish and cold-hearted person, but I think that your self-proclaimed coldness stems from your body and soul naturally rejecting this world.”
 
-"Correct."
+Like a pebble dropped into a pond, his words seemed to send a ripple through Shenwu Yi’s gaze for a moment.
 
-"Just you?"
+“I share the same sentiment as you. We feel this rejection precisely because we don’t belong to this world. Our homeland is none other than the fabled ‘Eternal Pure Land’ that the people of this world will soon enter.”
 
-"Yes, just me."
+It went without saying that every word Yun Che was speaking right now could have shaken a denizen of the Abyss to the core. Shenwu Yi neither changed her expression nor interrupted him. She just kept watching and listening to him coldly.
 
-He answered without hesitation, without fear. "The Abyssal Emperor and the Four Divine Officials are beings of immense power. Even below the Pure Lands, among the Six God Kingdoms, there are countless experts who could annihilate me into dust with a flick of their finger. And I, a mere Divine Master, must stop the opening of the next Void-Breaking Grand Array in no more than forty years."
+“There is no abyssal dust in our homeland, but it is teeming with verdant trees and blossoms and home to countless races and worlds both great and small. The number of colors and living beings that exist in our world surpasses that of the Abyss countless times over. However, the loss of natural energies stopped our profound practitioners from being able to surpass the Divine Master Realm.”
 
-"It's absurd, laughable, isn't it?" Any profound practitioner of the Abyss who heard this would find it absurd and laughable. But Shen Wuyi, who had previously offered only cold words and mockery, did not use this opportunity to speak any heart-stabbing remarks.
+“If the denizens of the Abyss set foot into our homeland, everyone shall turn into helpless lambs awaiting slaughter. The fragile heavenly law of our world, unable to withstand the power of the Half Gods and True Gods, shall give rise to countless calamities as well.”
 
-"Therefore, I can only resort to any means necessary… cloaking myself in layer after layer of disguise, integrating into this world step by step. I used dirty tricks to get close to Hua Caili, and despicable methods to become Meng Jian Yuan… all to make the alliance between the Dreamweaver, Skypiercer, and Forest of Darkness kingdoms fall apart, and even planted the seeds for them to turn on each other." He laid bare his most important stratagems in this world to Shen Wuyi with utter frankness.
+“This is why I came to this world.”
 
-The cold moon in Shen Wuyi's eyes grew even more profound. No one knew what she was thinking.
+Every sentence, every word he spoke was done while meeting Shenwu Yi’s gaze directly. Every emotion was reflected in the depths of his eyes without reservation.
 
-"Qingyue…" His call was a soft whisper, like something from a distant dream.
+Shenwu Yi asked indifferently, “You’re saying that you intend to prevent the Pure Land and the Kingdoms of God from entering the Eternal Pure Land?”
 
-He narrowed his eyes slightly, a smile on his lips. "You have lost your past, so you cannot understand how joyful I am, how grateful I am to the heavens, to be able to see you again."
+“By yourself?”
 
-"In the dreams I wove for myself, I imagined countless times that if you were to reappear in my life, I would do anything to make it up to you. I would use any means necessary to completely weave your life into mine… But, we have finally reunited in another world, under the weight of such a heavy fate."
+“Yes, by myself.”
 
-He opened his eyes again, all the warmth and affection now veiled beneath a gaze of infinite clarity and depth. "How can the weight of personal feelings compare to that of a homeland on the brink of collapse… Qingyue, I, who owe you so much, still need your help the most right now."
+His answer came back without hesitation or fear. “There is no need for me to tell you what kind of existence the Abyssal Monarch and his four High Priests are. Even ignoring the Pure Land, countless experts in the Six Kingdoms of God can turn me to dust with the flick of a finger. But I, a mere Divine Master, must prevent the next activation of the Void Breaching Great Formation in less than fifty years regardless.”
 
-"Our homeland is not their 'Eternal Pure Land.' It is our Eternal Pure Land. I am the Emperor of the 'Eternal Pure Land.'"
+“It’s quite absurd and laughable, isn’t it?” Any profound practitioner of the Abyss would agree with him. However, Shenwu Yi, despite earlier insulting and taunting him, refrained from delivering a cutting remark.
 
-"And you are the Empress."
+“This is why I had no choice but to resort to any means necessary... I donned layer upon layer of disguise, step by step, to blend in with this world. I used dirty tricks to get close to Hua Caili, employed despicable methods to become Meng Jianyuan... all to tear apart the alliance between the three kingdoms—Boundless, Heaven Breaker, and Dreamweaver—and sow the seeds of distrust and enmity.”
 
-Having said so much at once, Yun Che's breathing became ragged again. He silently suppressed his injuries, his face as pale as paper, yet he showed none of the frailty one would expect from being so grievously wounded… because this world did not permit him a single moment of weakness.
+Just like that, he laid bare his most crucial scheme in this world to Shenwu Yi with unflinching candor.
 
-"Are you finished?"
+The cold moon in Shenwu Yi’s pupils grew even stiller. No one could tell what she was thinking right now.
 
-Her voice was still bone-chilling. "A fine story. So absurd that I doubt even the so-called mortal wordsmiths could concoct it in a fit of madness. However… because it is so absurd, I'm actually inclined to believe some of it."
+“Qingyue...”
 
-She narrowed her eyes, her gaze like the unmelted snow of an endless, frozen domain—exquisitely pure, yet utterly devoid of warmth. "Assuming what you say is true, an emperor from another world, an imposter posing as a Divine Son of a God Kingdom, a shadow stirring up chaos among three God Kingdoms… has just revealed all these secrets, without reservation, to a Divine Maiden of a God Kingdom?"
+The cry was faint, so faint it sounded as if it drifted from a distant dream.
 
-"Even if my past self was truly the 'Xia Qingyue' you speak of, the person I am now is purely and completely Shen Wuyi, the current Divine Maiden of the Eternal Night God Kingdom. The Xia Qingyue you speak of has not a single trace of existence in my life or my consciousness."
+He narrowed his eyes slightly, a smile playing on his lips. “You lost your past, so you can’t understand how overjoyed I am to see you again, or how deeply grateful I am to the heavens.”
 
-"With a single word from me, all your aspirations and schemes will be exposed to the world and turned to ash. In that case… isn't this so-called emperor from another world a bit too naive, too foolish?"
+“I have imagined countless times in the dreams I wove for myself: if you could reappear in my life, I would spare no effort to make amends to you. By hook or by crook, I will weave your life completely into mine... Alas, to think that our reunion would take place in another world, and under such a heavy fate no less.”
 
-"How can someone so naive and foolish be worthy of shouldering the fate of an entire world?"
+He opened his eyes once more, and all the tenderness and affection he displayed was submerged beneath the gaze that was both endlessly clear and infinitely dark. “No matter how heavy my personal attachments are, they cannot compare to the slightest fraction of my homeland’s ruin... Qingyue, though I owe you immeasurably, what I need most at this moment is your aid.”
 
-Gulp! A coppery taste surged up Yun Che's throat, but he forced it down, leaving only a few long trickles of blood escaping the corners of his lips. But his eyes remained as clear as ever, like distant, undying stars in the dark night.
+“Our homeland is not their ‘Eternal Pure Land’. It is our Eternal Pure Land.”
 
-"I already gave you my answer… because you are Xia Qingyue. The Xia Qingyue who, though grievously wounded by fate, left all her gentleness and kindness to the world, and took all the pain and death upon herself."
+“I am the emperor of the ‘Eternal Pure Land, and you are its empress.”
 
-Shen Wuyi: "..."
+After speaking so much in such a short time, Yun Che’s breathing grew erratic once more. He silently suppressed his injuries. Although his face looked as pale as a sheet, he showed none of the frailty one might expect from such severe wounds. This wasn’t a world that would permit him even a moment of weakness after all.
 
-"The disguise you've crafted for yourself can no longer fool me. And I will never again hesitate or doubt you."
+“Are you done?”
 
-Yun Che slowly raised his hand. Where his palm pointed, the surrounding Abyssal Dust seemed to answer his call, slowly gathering and swirling into a fine, gray vortex. Shen Wuyi's beautiful eyes constricted, and for the first time, a powerful emotion flickered across her jade-like face.
+Her voice remained as bone-chilling as ever. “I’ll grant you that it’s a fantastic story. It is so absurd that even those so-called literati of the mundane world couldn’t have concocted it in their wildest delirium. Yet... I find myself believing it precisely because it’s so absurd.”
 
-"You can also interfere with the Abyssal Dust, can't you?"
+Her eyes narrowed, their gaze as pure and pristine as the snow of eternal snowfields, yet also utterly devoid of warmth. “If what you said is true—that you are a ruler from another world, an imposter posing as the Divine Son of a Kingdom of God, and a shadow that brings chaos to three Kingdoms of God—would such a being reveal all their secrets without reservation to a Divine Daughter of a Kingdom of God?”
 
-He said softly, "This is the proof that our fates are connected."
+“Even if I really was the ‘Xia Qingyue’ you spoke of, I am now Shenwu Yi and only Shenwu Yi. I am the current Divine Daughter of the Eternal Night Kingdom of God. The Xia Qingyue you spoke of has not left behind the slightest trace of her existence in my life or my knowledge.”
 
-She stared fixedly at the Abyssal Dust in Yun Che's palm, seemingly lost in a brief trance.
+“One word is all I need to expose your ambition and scheme to the world. One word is all I need to turn you to dust. All things considered... Don’t you think that this so-called emperor from another world is a little too naive and foolish?”
 
-But in the next moment, her gaze turned cold again. She said suddenly, "Answer one question for me."
+“How can someone so naive and foolish deserve to bear the fate of an entire world?”
 
-"Alright," Yun Che's voice and gaze softened at once.
+Gurgle! A metallic sweet taste surged in Yun Che’s throat, though he forced it down and allowed only a few long strands of blood to spill from the corners of his lips. Yet, his eyes remained as clear as ever, like unyielding stars that shone persistently in the dark night.
 
-She said coldly, "You claim I am your wife, and that we were married when we were sixteen. Then why…"
+“I have already given you my answer... It’s because you are Xia Qingyue, the Xia Qingyue who, though gravely wounded by fate, chose to leave behind all the tenderness and kindness to the world, and take on all the pain and death by herself.”
 
-"Am I still a virgin!"
+Shenwu Yi: “......”
 
-"..."
+“Just as your disguise can no longer fool me, I will never harbor any suspicion or hesitation toward you any longer.”
 
-This question, this "flaw" in his story, left Yun Che momentarily at a loss for how to answer.
+Yun Che slowly lifted his hand. Wherever his palm touched, abyssal dust responded to his call and gathered slowly into a small, grayish vortex.
 
-"Hmph!"
+Shenwu Yi’s beautiful eyes narrowed, and a somewhat intense expression finally appeared on her jade-like face for the first time.
 
-Yun Che's brief silence earned him a cold snort from Shen Wuyi. Just as she was about to speak again, she heard Yun Che lower his gaze slightly and begin to recite in a low voice: "It is said that when Heaven and Earth intermingle, all things are born in harmony; when man and woman are properly matched, the universe finds its order. Hereby, Che, the only son of the fifth branch of the Xiao Clan of Floating Cloud City, Azure Wind Nation, aged sixteen, of upright character and appearance, and gentle temperament, upholds the pure reputation of his family and possesses the grace of unpolished jade; Qingyue, beloved daughter of the Xia Clan, aged sixteen, her face like glazed porcelain reflecting the moon, her elegance pure and transcendent, is well-versed in the virtues of the women's quarters and carries the grace of a secluded orchid."
+“You can interfere with abyssal dust, can’t you?”
 
-Shen Wuyi: "...?"
+He said lightly, “This is the proof that our fates are connected.”
 
-His recitation continued, each word piercing deep into the sea of her soul: "Recalling when Qingyue was young and frail, her life hanging by a thread, Lord Xiao saved her with his own life, and Lord Xia, weeping tears of blood, swore an oath, thus sealing this blessed union for eternity. This marriage certificate is written today, with the clan's spirit tablets as witness and a profound crystal contract as proof, to certify the union of Xiao Che and Xia Qingyue."
+Shenwu Yi stared fixedly at the abyssal dust in Yun Che’s palm, seemingly lost in thought for a moment.
 
-"May the two henceforth walk hand in hand, aiding each other on the profound path. In wealth, they shall share together; in poverty, they shall remain by each other's side. In peril, they shall face life and death as one; in peace, their lives shall be in harmony. May they stay together for a lifetime, to witness the long road of the Great Dao; may they never abandon one another, to forever be bathed in the spiritual grace of Heaven and Earth."
+However, her gaze turned cold, and she abruptly demanded, “Answer me one question.”
 
-"This certificate is solemnly made to bear witness to this vow."
+“Alright.” Yun Che’s voice softened, mirrored by the gentleness in his eyes.
 
-Yun Che touched his fingers to his lips, staining them with crimson blood. He then pressed his fingertip firmly onto an unstained part of his sleeve. When he lifted it, a deep, complete fingerprint remained.
+She asked coldly, “You claimed that I am your wife, married to you since the age of sixteen. If that is true, then why...”
 
-Rip!
+“... am I still a virgin[1]?”
 
-He tore off the sleeve bearing the fingerprint and gently pushed it toward the stunned Shen Wuyi. She subconsciously raised her hand and caught the piece of cloth, a faint warmth spreading through her palm.
+This question, this “flaw” was so unexpected that Yun Che was unable to come up with an answer immediately.
 
-"What… are you doing?"
+Yun Che’s brief silence drew a cold snort from Shenwu Yi. She was just about to speak again when Yun Che lowered his gaze a little and murmured softly:
 
-Seeing that she didn't discard the torn sleeve, he seemed to smile with satisfaction. "After I lost you, I witnessed your former memories. The end you gave yourself was nothing but a bright red wedding dress, and…"
+“With heaven and earth in harmony, all things transform into purity; men and women unite in proper union, establishing the order of the universe. Here stands Che, the sole heir of the Xiao clan from Floating Cloud City, Blue Wind Empire. At sixteen years of age, he possesses upright bearing and gentle disposition, inheriting his family's reputation for integrity while embodying the grace of unpolished jade. Here stands Qingyue, the beloved daughter of the Xia clan, also sixteen. Her beauty rivals moonlit glass, her elegance transcending the mundane. She has mastered the virtues of a virtuous maiden, possessing the refined grace of orchids.”
 
-"That marriage certificate, which you kept carefully hidden in the sash around your waist."
+Shen Wuyi: “...?”
 
-Just then, a cry filled with panic and fury suddenly rang out. "Brother Yun! Shen Wuyi… stop!!"
+His low murmur continued, each word piercing Shen Wuyi's soul: “Recall when Qingyue was young and frail, facing imminent peril. When Lord Xiao risked his life to save her, Lord Xia swore an oath with blood-stained tears, thus sealing this sacred union. Now, with ancestral tablets as witnesses and a profound crystal contract as proof, this marriage certificate is written to bind Xiao Che and Xia Qingyue as one.”
 
-As the young woman's cry arrived, a brilliant sword light split the darkness, sundered space, and, carrying boundless fury, stabbed directly toward Shen Wuyi's back.
+“May they henceforth walk hand in hand, sharing the path of cultivation: in prosperity, they shall share abundance; in poverty, they shall remain steadfast; in peril, they shall face life and death together; in peace, they shall harmonize like qin and se. May they uphold this vow throughout their lives, witnessing the boundless Great Way; may they never part, forever bathed in the spiritual blessings of heaven and earth.”
 
+“This document is solemnly established to manifest their pledge.”
+
+Yun Che touched the corner of his lips and wet his finger in blood. Then, he pressed it firmly against his unstained cuff. When he released his grip, a deep and perfect fingerprint was left behind.
+
+Yun Che ripped off the sleeve with the fingerprint and pushed it toward the dazed Shenwu Yi. She subconsciously caught it between her fingers, feeling the lingering warmth of the fabric in her palm.
+
+“What... are you doing?”
+
+He smiled in satisfaction when it looked like she had no intentions of discarding the torn sleeve. “I once witnessed your memories after losing you. The ending you chose for yourself was a crimson wedding gown, and...”
+
+“... the marriage certificate that you carefully concealed within your sash.”
+
+It was at this moment that a cry filled with panic and fury erupted, “Big Brother Yun! Shenwu Yi... Stop!!”
+
+The girl’s shout had just reached him when a blinding sword beam cleaved through the darkness and severed the space. It shot straight toward Shenwu Yi’s back with boundless rage.
+
+1. HAHAHAHAHAHAHAHAHAHAHAHAHAHA TL and ED laughing our butts off. ☜

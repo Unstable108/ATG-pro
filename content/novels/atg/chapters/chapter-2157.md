@@ -1,155 +1,161 @@
 ---
 chapterNumber: 2157
-title: ""
-publishedAt: "2025-12-01"
+title: "“Lord of the Abyss”"
+publishedAt: "2025-12-23"
 ---
 
-The voice at his ear was as tranquil as smoke, as ethereal as mist. But to Yun Che's ears, every word was an ice pick piercing his heart, sending a chill through his entire body. The very blood in his veins seemed to freeze.
+His voice was as gentle as smoke and as indifferent as mist. In Yun Che’s eyes, though, every word pierced his heart like an icicle. It sent a chill through his entire body, and his blood seemed to freeze a little inside his veins.
 
-What is he saying… What in the world is he saying!?
+What is he saying... What the hell is he saying?!
 
-Even when first facing the supreme existence of the Abyss, he had appeared so composed and nonchalant. But at this moment, he had to summon all his willpower just to suppress the shiver rising from beneath his skin. Still, his fingertips curled uncontrollably.
+He had appeared calm and collected even when he was facing the highest existence in the Abyss for the first time, but right here and now, it took him nearly all of his willpower to suppress the tremors crawling underneath his skin. Even so, his fingertips were curling involuntarily.
 
-"What is he saying?" It was Li Suo's voice, echoing the very same astonishment that rang deep in Yun Che's soul.
+“What is he saying?” This was Li Suo’s voice, and her exclamation of surprise was exactly as the one resounding inside Yun Che’s heart and soul.
 
-"Mist… Sovereign¹?"
+“Fog... Monarch?”
 
-"But the 'Mist Sovereign' is clearly just a false entity you fabricated. So, is he lying, or…"
+“But... the ‘Fog Monarch’ is just a fake existence you fabricated. Is he lying, or...”
 
-"Does a Mist Sovereign truly exist within the Sea of Fog??"
+“Does a Fog Monarch actually exist in the Endless Fog??”
 
-Yun Che could not respond. That bone-deep chill coursed through him for a long time… from his spine to his limbs and bones, and into the depths of his soul, it nearly froze his entire soul sea, robbing him of the ability to think for several long moments.
+Yun Che could not answer this question. The bone-chilling cold lingered in his body for a long time, spreading from his spine to his torso, then from his torso to his limbs, and finally from his limbs to his soul sea. At the end of it, nearly all of his soul sea was frozen, and he almost lost his ability to think for a good while.
 
-He did not hide his astonishment, because any living being who heard such a truth would have their perception of reality shattered and be utterly horrified… though, what truly shocked him was not the truth itself, but the words "Mist Sovereign."
+Yun Che did not attempt to hide his shock. Anyone would suffer a collapse of common sense and be shocked to their core if they heard the truth... even though it wasn’t the truth that shocked him, but the name “Fog Monarch”.
 
-Mo Su turned his body, not looking at Yun Che's shocked state.
+Mo Su had turned around. He did not look at Yun Che’s shocked expression.
 
-With a light wave of his hand, the space before them warped and shifted, and the Paradise of the Beyond² vanished from sight. The beings within the Paradise of the Beyond remained completely unaware, continuing to follow their predetermined fates and laws, exploring… forever existing within what they believed to be "reality."
+He brushed his hand slightly, and the space in front of him switched out. The “Othershore Paradise” vanished from their views just like that. The living beings of the “Othershore Paradise” had no idea this was happening and kept marching along their set fate and laws, methodically exploring... and forever existing in their preconceived “reality”.
 
-Yun Che finally found his voice, tinged with a deep sense of melancholy. "When something has existed in one's perception from the very beginning, it becomes an accepted, inherent belief³. Thus, no one ever questioned why the Abyssal Dust would spontaneously gather in the Sea of Fog, or why the Abyssal Beasts and Abyssal Ghouls never leave it."
+Meanwhile, Yun Che finally found his own voice and said in a voice full of disappointment and frustration, “When something has existed in one’s consciousness from the very beginning, the person would naturally take it for granted and treat it as an inherent truth. Thus, no one questioned why abyssal dust spontaneously gathered in the Endless Fog, or why the abyssal beasts and abyssal ghosts never left the Endless Fog.”
 
-"Indeed."
+Mo Su said indifferently while staring at the emptiness ahead, “Just the same, no one ever questions why living creatures are standing on the ground instead of hanging in the sky, why our eyes could see the world, why our ears could hear sounds, so on and so forth.”
 
-Mo Su gazed into the emptiness before him and spoke faintly, "And no one ever questions why living beings walk upright on the ground instead of hanging upside down from the sky; nor does anyone question why their eyes can see the world and their ears can hear distant sounds."
+Once more, Yun Che recalled Chi Wuyao’s words... The most terrifying thing in this world wasn’t the unknown, but being trapped within fixed notions. Ironically, his greatest weapon he wielded against the denizens was their fixed notions, and yet he himself had long been ensnared in an invisible cage of his own entrenched beliefs.
 
-Yun Che was once again reminded of what Chi Wuyao had said… the most terrifying thing is not the unknown, but being trapped by what one already knows. And yet, his greatest weapon in his scheme against the Abyss was to exploit the "inherent beliefs" of its inhabitants. But, without realizing it, even he himself had long been trapped in the invisible cage of his own established perceptions.
+He was exploiting the unresolved mysteries of the Abyss when he emerged as the “Fog Monarch” and fabricated “rumors” to threaten the people’s absolute faith in the Abyssal Monarch. However, even he instinctively thought that abyssal dust gathered into the Endless Fog, and abyssal beasts inhabited the Endless Fog because that was just how natural laws of this universe worked. He thought that it was just like rivers drained into oceans, and how fish could only live within the oceans in his universe.
 
-When he, in the guise of the "Mist Sovereign," had created the "rumor" to shake the faith in the Abyss Monarch⁴, he had exploited the unexplained phenomena on the surface of the Abyss. But at that time, he too had instinctively believed that the Abyssal Dust gathering in the Sea of Fog and the Abyssal Beasts residing there were simply their own natural laws, just as streams flow to the ocean and fish can only live in water. He had never considered… or rather, never dared to consider, that it was truly the result of some power's control.
+He never thought... or he did not dare to think... that it was actually the result of some sort of power.
 
-Yun Che looked up at Mo Su, his expression a perfect blend of shock and curiosity. "Everyone in the Weaving Dream Realm was convinced that the 'Mist Sovereign' was just a fabrication, a deliberate deception created by someone to stir up chaos. After all, he only appeared occasionally, and no one has ever seen his true form."
+Yun Che looked up at Mo Su with an appropriate amount of shock and curiosity. “Everyone in Dreamweaver believed that the ‘Fog Monarch’ was just a lie and a fabrication created to throw the people’s hearts into disarray. After all, they only appeared once in a while, and no one had ever seen their true form.”
 
-"I never imagined… that he actually exists…" He had never imagined it, never even considered it. He would have much rather believed that the Abyss Monarch, like him, was weaving a lie. Because the existence of the "Mist Sovereign" was, in itself… or rather, should have been a lie. A lie he had crafted with his own hands.
+“To think... he actually existed...”
 
-But while he had countless reasons to deceive Mo Su, Mo Su had no reason to deceive him. The prerequisite for deception is to have an ulterior motive… What could Mo Su possibly want from him?
+He never imagined, never even considered that it could be real. In fact, he would rather believe that the Abyssal Monarch was lying to him. After all, the very existence of the “Fog Monarch” was a lie he fabricated.
 
-He struggled to maintain a rational fluctuation of emotions on the surface, but the turmoil in his heart was like a storm-tossed sea, refusing to calm. If a "Mist Sovereign" truly exists in this world, and if this Mist Sovereign is powerful enough to gather all the Abyssal Dust in the world and impose rules on all Abyssal Beasts and Ghouls, then his power… No… I must focus on dealing with the current situation. I must not think about the "Mist Sovereign" and whatever lies behind him for now. I can't!
+He had countless reasons to lie to Mo Su, but Mo Su had zero reason to lie to him. After all, the precondition of a lie was a motive, and Mo Su... had no motive against him, did he?
 
-Mo Su turned his gaze to Yun Che, reading his unspoken words. "You want to know about the 'Mist Sovereign'?"
+While doing his best to maintain a reasonable range of expressions on the outside, Yun Che was also fighting to quell the lightning storm that was occurring inside his heart. However, the storm could not truly be quelled.
 
-Yun Che nodded, his tone filled with natural curiosity. "Of course. I believe anyone in the world who heard such a truth would want to know what kind of being the Mist Sovereign is, and why he has never appeared before."
+If a “Fog Monarch” really exists in this world, if this Fog Monarch is strong enough to gather all abyssal dust into one place and even apply laws and rules to the soulless abyssal beasts and abyssal ghosts, then their strength is... no... I need to focus on handling what’s in front of me. For now, I must put the “Fog Monarch” and everything behind them aside. I must!
 
-"However, since you once 'exchanged promises,' I imagine it must involve secrets that cannot be known to outsiders. So, I think it's better if I don't ask. My master also once said that in life, the less you know, the more at ease you live."
+Mo Su cast a sidelong glance at Yun Che and read his hesitation accurately. “You wish to know more about the ‘Fog Monarch’?”
 
-A faint smile touched Mo Su's lips, gentle and warm. Yet, within that gentleness, there seemed to be a hint of something indescribable… indulgence? He was reminded of the past, when his Elder Brother Ni Xuan would always look at him with a smile, patiently answering all his questions, no matter how strange, childish, or amusing they were.
+Yun Che nodded with a perfectly reasonable tone of curiosity. “Of course. I’m sure anyone who heard this truth would want to know who the Fog Monarch is and why they haven’t shown up before.”
 
-"I have never truly seen the Mist Sovereign," Mo Su began softly, startling Yun Che.
+“However, since you ‘exchanged promises ‘ with the Fog Monarch, I’m sure it involves secrets that you do not wish to be known to others. That is why I would rather keep silent about this. Master also told me that the less you know, the easier life gets.”
 
-Mo Su turned his gaze forward again and continued slowly, "What I saw of the Mist Sovereign was no different from his current manifestation in the world. He was hidden within dense Abyssal Dust that neither sight nor senses could penetrate, presenting a distorted form and emitting an obscure, indecipherable voice, as well as… an aura that was utterly alien, even to my understanding."
+The corners of Mo Su’s lips curled up slightly into a small but gentle smile. There were even faint wisps of... indulgence? In that smile.
 
-Yun Che: "..."
+It was because Mo Su recalled how Big Brother Ni Xuan always smiled at him and answered all his bizarre, childish, or amusing questions with unending patience.
 
-Mo Su continued, "As a son of a Creation God, I could easily bathe in the divine radiance of the various Creation Gods and feel the divine auras of the God Race. And yet, the aura emanating from that Mist Sovereign gave me an unprecedented sense of ethereality and illusion, and even a… a ridiculous feeling of transcendence, as if he were above the Creation Gods."
+“I have not truly seen the Fog Monarch,” Mo Su said slowly, and surprised Yun Che.
 
-Yun Che's heart felt as if it had been violently squeezed, and a terrifying sense of suffocation instantly swept through his body.
+Mo Su turned his gaze back toward the front and said slowly, “The Fog Monarch I saw was exactly the same as they appeared recently. They are hidden behind a thick layer of abyssal dust that could not be penetrated by vision or other senses. They appeared as a distorted entity and spoke in a cryptic, indistinguishable voice. They also carry themselves with a strange aura that is... wholly unfamiliar even to my senses.”
 
-"But it is impossible for a being to exist that surpasses the Creation Gods. Whether it was the sense of ethereality, illusion, or absurdity, they all pointed to one possibility… The Mist Sovereign is not a true being with a physical body, but rather the will of the Abyss, self-generated from the endless Abyssal Dust of this world over a long period of evolution."
+Yun Che: “...”
 
-He paused briefly before continuing, "At least, as far as I am concerned, I can think of no other possibility."
+Mo Su continued, “As the son of a Creation God, I could easily bask in the divine radiance of every Creation God, and I could easily make contact with the divine presence of any member of the god race. However, the Fog Monarch’s presence is ethereal, empty, and illusory in a way that I have never felt before. I even had this absurd feeling... that it transcends even the Creation Gods.”
 
-"So… that's how it is." Yun Che nodded slowly in agreement. "A will born from the endless Abyssal Dust. No wonder it can gather all the dust in the world and impose laws upon the soulless Abyssal Beasts."
+Yun Che’s heart seized like it was squeezed by an invisible hand. A terrible, suffocating feeling instantly engulfed his whole being.
 
-"Gathering the Abyssal Dust into the Sea of Fog, allowing spaces for long-term survival to appear in the world; confining the Abyssal Beasts and Ghouls to the Sea of Fog, allowing the living beings of the Pure Lands to live in peace. In that case, is this 'Mist Sovereign' an extremely benevolent will?"
+“However, an existence that surpasses the Creation Gods cannot exist, so all these feelings, no matter how illusory or absurd they are, all point toward one possibility... The Fog Monarch does not truly exist, and they do not possess a true body. They are an abyssal will that naturally evolved from the endless abyssal dust of this abyssal world after an inconceivable amount of time.”
 
-"..."
+He paused for a brief moment before adding, “At least, that is what I theorize. I cannot think of another possibility[1].”
 
-Faced with this question whose answer seemed "obvious," Mo Su responded with a long silence.
+“I... see.”
 
-Yun Che frowned, surprised. "Was I wrong?"
+Yun Che slowly nodded to express acknowledgement. “A will that is born from abyssal dust. That would explain why it could concentrate the abyssal dust of the entire world and even bestow laws to the soulless abyssal beasts.”
 
-Mo Su shook his head slightly. "I simply cannot answer that question. Because in my world, the line between good and evil has long been blurred."
+“They concentrated all of the abyssal dust in the Endless Fog so that a permanent living space could exist in this world. They also confined the abyssal beasts and abyssal ghosts to the Endless Fog to ensure that the living beings of the Land of the Living could have peace. All things considered... the ‘Fog Monarch’ is actually an extremely benevolent will, right?”
 
-"..." Yun Che too fell silent. His own perception of the boundary between good and evil was no longer as clear as it had been in his youth.
+The answer to this “obvious” question seemed equally obvious, and yet Mo Su’s response was long, long silence.
 
-"Has your master ever spoken to you of the lost artifacts of the Devil Race?" Mo Su suddenly asked.
+Yun Che frowned and exclaimed in surprise, “Am I... wrong?”
 
-Mo Su bringing it up himself was a great surprise to Yun Che. He recited their names directly: "The Panming Void-Piercing Mirror⁵ and the Niemo Counter-Revolving Pearl⁶."
+Mo Su shook his head slightly. “No, I just can’t answer this question. After all, the concepts of good and evil have blurred for me for a long time now.
 
-"However, Master also said that the 'loss' of these two devil artifacts was not made public back then. The only reason he knew was because your father, the God Emperor, told him."
+“...” Yun Che abruptly fell silent as well. After all, his own understanding of the line between good and evil was not nearly as clear as it was when he was a youngster.
 
-Mo Su paid no mind to his latter words and said calmly, "Back then, Xiao Die shielded me from a devastating blow, and we fell into the Abyss of Nothingness together. The Abyssal Dust of that era was far more terrifying than it is now. My bones were all shattered, and Xiao Die… was grievously wounded. Both the Panming Void-Piercing Mirror and the Niemo Counter-Revolving Pearl were on the verge of collapse."
+“Did your master tell you about the lost artifacts of the devil race?” Mo Su asked suddenly.
 
-Yun Che held his breath, listening quietly. Ni Xuan's memory fragments had told him that it was a heaven-punishing strike from the Ancestral Sword that had sent Mo Su and Pan Xiao Die plummeting into the Abyss… If not for the two devil artifacts blocking the blow, Mo Su and Pan Xiao Die would have surely perished on the spot. But the price was the near-destruction of both artifacts.
+Yun Che was deeply surprised to hear Mo Su asking this question of his own accord. He replied immediately, “The Original Nether Void Breaching Mirror, the Nirvana Devil Wheel Reversing Pearl.”
 
-Although the Panming Void-Piercing Mirror and the Niemo Counter-Revolving Pearl were not ranked among the seven Great Profound Heavenly Treasures, they were the closest artifacts to that level in the world. Yet, under a single strike from the Heaven Punishing Ancestral Sword, they were almost shattered. The might of the Heaven Punishing Ancestral Sword was truly terrifying.
+“Master told me that the ‘mysterious disappearance’ of these two devil artifacts was not publicized. He only learned about it because your Father told him.”
 
-"Relying on a demonic domain barely sustained by the fractured Panming Void-Piercing Mirror, Xiao Die and I managed to survive for a time. But the shattered mirror could not hold for long, and Xiao Die had fallen into a slumber, having lost the will to live. Between heaven and earth, there was only despair." A world of death, a lifeless lover, a broken barrier, a solitary self… such utter despair.
+Mo Su paid no attention to his last sentence. He said calmly, “Back then, Xiaodie blocked a grievous blow for my sake and fell into the Abyss of Nothingness with me. The abyssal dust back then was far scarier than what it is now. At the time, every bone was broken, Xiaodie was... tattered, and both the Original Nether Void Breaching Mirror and the Nirvana Devil Wheel Reversing Pearl were almost completely destroyed.”
 
-"Lost the will… to live?" Yun Che murmured subconsciously.
+Yun Che forcefully controlled his breathing and listened quietly to Mo Su’s story. Ni Xuan’s memory fragments told him that the strike that blasted Mo Su and Pan Xiaodie into the Abyss had, in fact, come from the Heaven Punishing Ancestral Sword... If not for the two devil artifacts, Mo Su and Pan Xiaodie would have perished on the spot. Even so, the two devil artifacts were almost destroyed.
 
-Recalling the distant past, Mo Su's voice was remarkably calm. "Just as I held Xiao Die, about to end my own life, I saw a distorted gray mist and heard the first voice of this world."
+Although the Original Nether Void Breaching Mirror and the Nirvana Devil Wheel Reversing Pearl were not ranked among the seven Heavenly Profound Treasures, they were the next closest things to them. Yun Che could hardly believe that one strike from the Heaven Punishing Ancestral Sword was almost enough to destroy both of them. Its power was truly terrifying beyond imagination.
 
-"He called Himself the Lord of the Abyss, claiming He could repair my damaged devil artifacts and allow me to survive in this world for a long time."
+“Xiaodie and I were able to survive for a bit, relying on the spatial demonic domain barely created by the Original Nether Void Breaching Mirror, but the shattering devil artifact simply could not defend us for too long. Xiaodie, having resolved herself to die, had also fallen asleep. For a time, there was only despair.”
 
-"The price was to fulfill His desire."
+A world of certain death, a lifeless lover, a breaking barrier, and him all alone... he could scarcely imagine the despair.
 
-"The time limit was five million years."
+“Resolved herself to... die?” Yun Che subconsciously mumbled.
 
-Yun Che's heart pounded violently once more. Unable to suppress his intense agitation, he asked, "What was the desire He spoke of?"
+Despite reliving the distant past, Mo Su still sounded incredibly calm. “When I held Xiaodie tight and got ready to commit suicide, I saw the twisted gray fog and heard the first-ever voice since arriving in the world of the Abyss.”
 
-"..." Mo Su was silent for a long time. As it concerned the promise between him and the "Mist Sovereign," Yun Che assumed it was a taboo topic and was about to change the subject when he heard Mo Su say slowly, "It involves my promise, and it involves Xiao Die, so I cannot speak of it in depth. But I can tell you that the place He desires is the same as mine."
+“They called themselves the Lord of the Abyss. They claimed that they could repair the damaged devil artifacts and grant me a permanent place to stay in this world.”
 
-After a short pause, four words slowly escaped his lips, which were covered in a divine light: "The Eternal Pure Land⁷."
+“In return, they requested that I fulfill the wish.”
 
-Buzzz—
+“The time limit they gave me was five million years.”
 
-Something seemed to explode in Yun Che's mind. The chill that had been coursing through his body vanished, replaced by a sense of emptiness, as if his body had suddenly disappeared.
+Yun Che’s heart started beating rapidly once more. In the end, he wasn’t able to suppress his ever-growing impulse and asked again, “What is this wish they speak of?”
 
-Since entering the Abyss, he had used his "special" ability to control Abyssal Dust, exploited various cognitive biases, and seized every opportunity and stroke of luck with keen perception. In just a few short years, he had completed the initial layout of his plan to throw the Abyss into chaos, secretly pulling the strings of fate for several of the great divine kingdoms.
+Mo Su did not say anything for a long, long time. As this involved the promise between Mo Su and the “Fog Monarch”, Yun Che thought for sure that he was going to keep quiet about this. He was just about to change the subject when Mo Su spoke up. “I cannot go into detail as it involves the promise and Xiaodie. However, I can tell you that their wish is the same as mine.”
 
-The eternal peace and balance of the Six Divine Kingdoms meant their greatest worries had always been about succession, not survival or external threats… With the convergence of various factors, although Yun Che had been cautious and on edge every step of the way in the Abyss, never allowing himself a moment's rest, his progress had been incredibly smooth overall. Even after setting foot on the Pure Lands, he had taken every step of his plan with absolute clarity, without any major deviations.
+A brief pause later, four words emerged from the thin lips shrouded by a layer of divine light. “The Eternal Pure Land.”
 
-But today, in this short span of time, his soul had been struck by several unprecedented, massive blows.
+Yun Che felt as if something had exploded inside his head. The chill that had been lurking inside his body all this time vanished as well, replaced by sudden emptiness.
 
-Amidst the ringing in his soul sea, he heard Mo Su's voice continuing to drift into his ears. "At that time, I responded in a daze, like a drowning man instinctively grabbing a suddenly appeared straw. Then, He fulfilled every word He had spoken. The terrifying Abyssal Dust rapidly receded, eventually concentrating in the center of the world to form the 'Sea of Fog.'"
+Ever since he entered the Abyss, he had been harnessing his “unique” ability to control abyssal dust and exploiting all sorts of cognitive biases to further his goals. Coupled with his keen ability to detect and maximize every fleeting opportunity and stroke of luck, he had laid the initial groundwork to throw the Abyss into chaos in just a mere span of years. Already, the invisible threads that bound the fates of the Kingdoms of God were lying covertly in his hand.
 
-"And so, 'Pure Lands' began to appear one after another in a world that had once held only destruction. From then on, the living beings who fell into the Abyss of Nothingness and survived had a place to exist. And I, following the ways of a monarch that I had learned from many worlds, declared myself the world's creator and proclaimed myself the Abyss Monarch… until this very moment."
+The peace and balance between the Kingdoms of God had lasted for eternity. Their biggest worry was always inheritance, not foreign invasions or existential threats. Thanks to all sorts of overlapping factors, every step Yun Che took in the Abyss was guarded, terrifying, and without even a moment to breathe, but overall speaking, everything was progressing smoothly so far. Even after he entered the Pure Land, he was carrying out every step of his plan with perfect clarity. There were deviations, but nothing had strayed too far away from his expectations.
 
-The Abyss Monarch of that time and the Abyss Monarch of today, though the same person, were also completely different. So many years of vicissitudes and solitude were enough to thoroughly change a person's temperament and transform their soul.
+That had lasted until today; this meeting to be exact. In just seven and a half short minutes, his heart and soul had endured not one, but several unprecedented, colossal blows.
 
-"So…" Yun Che heard his own voice. "Back then, the Mist Sovereign really repaired the Panming Void-Piercing Mirror and the Niemo Counter-Revolving Pearl?"
+His soul sea was still buzzing when Mo Su’s voice flowed into his ears, “I had answered without thinking back then. It wasn’t unlike a drowning man who instinctively grabbed a straw that had suddenly appeared in his hand. To my shock, they actually carried out their promises. The terrible abyssal dust receded rapidly before gathering at the center of the world and forming the ‘Endless Fog’.”
 
-Those were… devil artifacts on the level of Profound Heavenly Treasures!
+“And so, ‘Lands of the Living’ began appearing in what was previously a world of pure destruction, one after another. From that point onward, anyone who fell into the Abyss of Nothingness had a place to exist. As for me, I borrowed from the way of monarchs I learned from many worlds, claimed credit for the creation of the abyssal world, and appointed myself the Abyssal Monarch... That has not changed until today.”
 
-Mo Su said, "Yes. Not only did He repair them, He also modified them."
+The Abyssal Monarch back then and the Abyssal Monarch were the same person, but they were also completely different from each other. Countless years of loneliness and hardships could completely change a person and warp their soul.
 
-"Modi… fied!?" Yun Che exclaimed in shock.
+Yun Che heard himself speaking, “Did the Fog Monarch actually repair the Original Nether Void Breaching Mirror and the Nirvana Devil Wheel Reversing Pearl as well?”
 
-But this time, the Abyss Monarch did not respond, instead calmly changing the subject. "Everything He did was not without a price. And that price was a five-million-year slumber."
+They were devil artifacts, second only to the Heavenly Profound Treasures!!
 
-"He said that the power He lost would require five million years of slumber to recover. During these five million years, He would have no consciousness, and this world would be mine to rule as I pleased. But if, after five million years, when He awoke, I had not fulfilled my promise, He would take back everything He had given and inflict upon me the cruelest punishment."
+Mo Su answered, “They did. Not only did they repair them, they even modified them.”
 
-"But… I never expected that after only three million years, He would already awaken."
+“Modi... fy?!” Yun Che exclaimed in shock.
 
-Yun Che stared fixedly at the Abyss Monarch… and suddenly, the heavy pressure on his heart and the turmoil in his soul sea receded like a tide.
+This time, though, the Abyssal Monarch did not give him an answer. He calmly changed the subject and said, “It wasn’t like they didn’t pay a price, of course. That price was five million years of slumber.”
 
-A five-million-year slumber… And from the 'creation of the world' to the present, only three million years have passed in the Abyssal world, at most. That means the "Mist Sovereign" should still be asleep for another two million years!
+“They claimed it would take them five million years to recover their lost strength. They would be completely unconscious during this period, and I was free to rule the world as I pleased. However, if I failed to fulfill my promise five million years later, then they would reclaim everything and grant me the cruelest punishment.”
 
-Damn⁸… that scared the hell out of me… Yun Che cursed fiercely in his heart, feeling a sense of exhaustion as if he had just survived a catastrophe.
+For a moment, Yun Che just stared blankly at the Abyssal Monarch. Then, the heavy pressure that had been crushing his heart, and the thunderstorm stirring up his soul sea all this time receded like a tidal wave.
 
-According to Li Suo, the laws of time in the Abyssal world were already on the verge of collapse. When that happened, the entire Abyssal world would implode, and might even backlash into the world of the living.
+Only three million years had passed since the abyssal world was “born”, meaning that it would take at least another two million years before this “Fog Monarch” awakened!
 
-Forget two million years, the Abyssal world would likely collapse completely within twenty thousand years. At that time, the "Mist Sovereign" would simply disintegrate in his sleep. Not only would he pose no threat now, he probably wouldn't even have a chance to wake up.
+Dammit... just a false alarm... Yun Che cursed furiously in his heart for a good few seconds while feeling a strange exhaustion that usually appeared after surviving a terrible tribulation.
 
-Therefore, even if a "Mist Sovereign" truly existed in this world, it was a sleeping one—a being destined never to see the day of his awakening.
+According to Li Suo, the laws of time of the Abyss were already in the middle of collapse. When the time came, the abyssal world wouldn’t just be destroyed; the calamity might impact the World of Existence as well.
 
-Thus, he was still this world's… one and only Mist Sovereign! The path he needed to walk was still the same as before.
+Forget two million years; the abyssal world could very well suffer a total collapse in twenty thousand years. This “Fog Monarch” would most likely be annihilated in their dreams. Forget threatening him now; they might not even get the chance to awaken. Therefore, even if a “Fog Monarch” truly existed in this world, it was a “dead” one that would never see the light of day again.
+
+Therefore, he was still the one and only Fog Monarch of this world, and he did not need to change his plans! He simply needed to follow his original trajectory toward the end[2].
+
+1. I can. Ever heard of a lady called the Ancestral God? ☜
+
+2. It’s cute how Yun Che doesn’t recognize that, just like the Ancestral Will could wake prematurely and do shit, the Fog Monarch could do the exact same thing. ☜

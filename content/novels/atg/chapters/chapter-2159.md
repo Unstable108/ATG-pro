@@ -1,168 +1,187 @@
 ---
 chapterNumber: 2159
-title: ""
-publishedAt: "2025-12-04"
+title: "Unknown Title"
+publishedAt: "2025-12-23"
 ---
 
-"Hm? The Wuming Divine Sovereign... wants to kill me?" Yun Che looked surprised, his expression a mixture of forty percent shock and sixty percent bewilderment.
+“Hmm? The Lightless Divine Regent... wants to kill me?” Yun Che exclaimed in two-fifths shock and three-fifths confusion.
 
-But after a brief moment of thought, he roughly understood the reason. Not only did he show no trace of fear, but a faint smile touched his lips. "Thank you for the reminder, Elder Brother¹. I will be careful."
+That said, it took him only a breath of quick thinking to figure out the general reason himself. Rather than showing fear, he said with a slight smile on his face, “Thank you for the warning, big brother. I will pay attention.”
 
-To be so unfazed by the killing intent of a Divine Sovereign despite being a mere Divine Master... Mo Su narrowed his eyes slightly. "You are not afraid?"
+Yun Che was just a Divine Master, yet he remained calm and collected after learning that a Divine Regent was pursuing him. Mo Su focused his pupils slightly and asked, “You’re not afraid?”
 
-"What does it matter if I fear her? And what if I don't?"
+“So what if I’m afraid? So what if I’m not afraid?”
 
-Yun Che's demeanor was one of composure that completely belied his cultivation level. He spoke with a bold and carefree arrogance, "The Wuming Divine Sovereign, when all is said and done, is just a pitiable woman who lost her heart to love. In my eyes, she is fundamentally no different from the soulless Abyssal Ghosts in the Sea of Fog."
+While carrying himself with a level of composure that did not match his actual cultivation, Yun Che declared confidently and fearlessly, “Shenwu Yanye is ultimately just a tragic woman who lost her heart because of love. In my eyes, she is not much different from the soulless abyssal ghosts who roam the Endless Fog.”
 
-"I can enter and exit the Sea of Fog, where countless Abyssal Ghosts roam, all by myself. Why should I fear a woman who has lost her mind to madness?"
+“The Endless Fog is chock full of abyssal ghosts, and yet I have gone in and out of the place repeatedly. Why would I fear a single woman who’s lost her mind to insanity?”
 
-Mo Su shook his head with a smile. "In all my years as the Abyssal Emperor, I have witnessed the rise and fall of generations of Divine Sovereigns, yet I have never heard anyone describe a Divine Sovereign of a divine kingdom with such words."
+Mo Su shook his head smilingly. “I’ve been the Abyssal Monarch for many years, and I’ve witnessed the rise and fall of many Divine Regents. Not a single one would have evaluated a Divine Regent the way you did.”
 
-"That is because the world before never had a character like me." The short sentence was both carefree and wildly unrestrained.
+“That’s because I did not yet exist in those ages.” In one line, Yun Che expressed his carefreeness and uninhibited confidence.
 
-The Abyssal Emperor's smile widened, as if he were somewhat pleased. "Seeing you like this, it seems you don't need me to interfere in this matter either."
+The Abyssal Monarch’s smile widened and grew a little more genuine. “I guess I don’t need to interfere after all.”
 
-Yun Che did not answer directly. Instead, he asked with a rather serious tone, "May I ask, Elder Brother Mo Su, in your understanding of Elder Brother Ni Xuan, would he choose to act cautiously and live under the protection of others just because he was facing a threat?"
+Instead of answering directly, Yun Che countered in a serious tone, “If I may ask, Big Brother Mo Su, is the Big Brother Ni Xuan you know a man who would choose the safer path and duck under another’s canopy when a dangerous threat announces its presence?”
 
-Mo Su answered immediately, without needing to reminisce, "He absolutely would not."
+Mo Su did not even think. He answered immediately, “He would not.”
 
-"Then, Elder Brother, you should know my answer as well."
+“You should know my answer then.”
 
-Mo Su gazed at Yun Che once more and let out the same sigh of admiration. "You and Elder Brother Ni Xuan... you are truly too alike."
+Once again, Mo Su looked at Yun Che and let out the same exclamation of wonderment. “You really are too similar to Big Brother Ni Xuan.”
 
-Dugu Zhuyuan bowed his head deeply, desperately concealing the storm of shock in his eyes. He had never heard the Abyssal Emperor speak so much, nor had he ever seen him smile like this.
+Dugu Zhuyuan bowed his head deeply in an attempt to hide the shock boiling behind his eyes. He had never heard so many words from the Abyssal Monarch before, much less seen such a smile on the man’s face.
 
-"The Wuming Divine Sovereign's extreme aversion to men is known to all, yet she is still respectful before you, Elder Brother. This shows that while she may have lost her heart, she has not completely lost her mind. As such, in her capacity as the Wuming Divine Sovereign, she would not go so far as to act against me personally."
+“Everyone knows that the Lightless Divine Regent loathes men to the bone, but she still treats you with respect, at least on the surface. This shows that she is insane, but not utterly demented. Therefore, the Lightless Divine Regent could never lower herself to the level of attacking me in person.”
 
-"And given my status, anyone who wants to kill me must not only get past the Dreamweaver Divine Kingdom but also find the right time and place to avoid leaving any traces..."
+“Besides that, considering who I am, she must first overcome the Dreamweaver Kingdom of God before she can attack me. She must find a suitable place and time to minimize the amount of traces she leaves behind as—”
 
-At this point, Yun Che's eyes narrowed for an instant. A place came to his mind... the God-Sleep Forbidden Domain!
+Suddenly, Yun Che’s pupils contracted for an instant. He recalled a place... the Forbidden Zone of Slumbering Gods!
 
-His expression remained unchanged as he continued, "And by the time the Evernight Divine Kingdom finally finds this so-called 'right time and place,' the killing intent born from a momentary provocation in the Wuming Divine Sovereign might have long since faded."
+Expression unchanged, he continued, “By the time the Eternal Night Kingdom of God finally finds a suitable place and time, the Lightless Divine Regent’s killing intent might have already subsided by then. It is just the product of unexpected provocation after all.”
 
-Mo Su nodded slightly. "Indeed. Though you are young, your judgment of character already far surpasses that of your peers. However, between heaven and earth, infinite variables exist in every breath, and the human heart changes a thousand times in every moment. Even standing at the highest peak, one cannot truly grasp the whole picture or fully comprehend the hearts of others. Are you not afraid of accidents? Do you not fear the 'what ifs'?"
+Mo Su nodded slightly. “That is correct. Although you are very young, your ability to discern people far surpasses that of your peers. However, every breath that exists in this world contains an infinite amount of variables, just as people’s thoughts are spinning hundreds and thousands of times for every passing moment. No matter how high you stand, you can never truly understand the full picture or completely figure out a person’s heart. Aren’t you afraid that an accident would catch you by surprise, that the worst-case scenario might happen no matter how unlikely it is?”
 
-Yun Che simply smiled, completely devoid of worry. "If one must always be on guard, constantly anxious and cautious, then life would be far too constrained. Even if I were to meet with disaster tomorrow, for whatever reason, that would be my fate. Elder Brother would only need to burn a stick of incense for me and grieve for a short while. Don't let sorrow weigh on your heart, and don't seek revenge for me. Just let me go without any lingering attachments, free and at ease."
+Yun Che smiled and said without fear or worry. “How suffocating and restrictive it would be to live in constant vigilance and fear; to tread every step with caution and timidness? If misfortune were to strike me down tomorrow for whatever reason, then so be it. It is simply the fate I was meant to bear. All you need to do is light an incense stick for me and mourn me a little. Do not let sorrow weigh heavily in your heart, nor seek vengeance on my behalf. Just let me depart unburdened and free.”
 
-The Abyssal Emperor stared at Yun Che, knowing this was Yun Che's way of trying to comfort him. Back when he and Ni Xuan had roamed the mortal world, Ni Xuan had said something similar. Even the expressions on their faces as they spoke these words were so alike. Back then, he had been endlessly envious of Ni Xuan's carefree and untamed spirit, and he still was now. But... he couldn't be like that. He was not worthy.
+The Abyssal Monarch stared at Yun Che for a long time. He knew that Yun Che was trying to console him. His Big Brother Ni Xuan had said similar things back when they roamed the mortal world together. Even their expressions were oh-so similar.
 
-"I understand." He looked at "Ni Xuan" and nodded with a smile. "I had originally decided to have Dugu Zhuyuan stay by your side to protect you. Now that I think about it, that would have been a restraint on you. It was indeed a lack of consideration on my part."
+Back in the day, he had envied Ni Xuan’s carefreeness and independence without end. Today, that had not changed one bit.
 
-Dugu Zhuyuan: "...?"
+However... he could not. He did not deserve to.
 
-Yun Che didn't stand on ceremony at all and immediately said, "No, no, no, please don't! That's not just a restraint, it's like clamping a shining, conspicuous shackle on my head!"
+“I understand.” He looked at “Ni Xuan” and nodded smilingly. “I was going to ask Dugu Zhuyuan to be your bodyguard, but now that I think about it, his presence would only be a shackle to you. I should’ve known better.”
 
-Dugu Zhuyuan: "...??"
+Dugu Zhuyuan: “...?”
 
-"Oh! Speaking of which..."
+Yun Che did not mince words with him. He replied instantly, “Shackles my ass, you might as well slap a goddamn lock around my neck! Absolutely not!”
 
-As if remembering something extremely important, Yun Che's tone shifted abruptly, each word urgent. "Right now, this instant, remove your divine sense from me. Don't leave even a single trace behind!"
+Dugu Zhuyuan: “...?”
 
-From the moment he had stepped into the Pure Land, he had been under the Abyssal Emperor's gaze—because of the Heretic God's Profound Veins in his body, or more accurately, because of Ni Xuan's aura. Not to mention the Punishment of Desolate Gnawing later on, Mo Su had intervened to stop Hua Caili's sword, preventing her from gravely injuring herself, because he had already "spied" on their private affair.
+“Oh!! Speaking of which...”
 
-"Very well," Mo Su agreed. "Rest assured, since you've called me Elder Brother, I will naturally not spy on you again."
+As if he suddenly recalled something exceedingly important, Yun Che suddenly said urgently and even demandingly, “Remove your divine perception from me this instant! Every wisp of it!”
 
-"So you admit it was spying!"
+In fact, he had fallen under the Abyssal Monarch’s attention from the moment he set foot in the Pure Land. It was because of his Heretic God Profound Veins, or more accurately, Ni Xuan’s aura. Even excluding the punishment by devouring rage, the reason Mo Su stepped in and prevented Hua Caili from unleashing the sword strike that would have severely injured herself was that he had found out about their relationship beforehand.
 
-Yun Che's words were tinged with resentment. He leaned in closer, his face serious. "Elder Brother, you are the Abyssal Emperor. Once you've given your word, you absolutely cannot go back on it. You are not allowed to spy on me in secret ever again! What if my Caili and I are in the middle of a passionate moment... My woman is not for anyone to look at, not even you, Elder Brother!"
+Mo Su promised him. “Don’t worry. You called me big brother, so of course I won’t spy on you any longer.”
 
-"..." Even Dugu Zhuyuan could faintly see two black lines² seem to hang down the Abyssal Emperor's forehead.
+“Oh? And here I thought you didn’t know that your action constitutes spying!”
 
-"How could I be that kind of person?" The Abyssal Emperor, who had not known the meaning of "arguing" for countless years, delivered this plain rebuttal with a hint of awkwardness.
+Yun Che did not conceal his grievances in the slightest. He took a step closer to the Abyssal Monarch and said seriously, “Big brother, you are the Abyssal Monarch, right? You won’t go back on your word, right? Then you'd better not spy on me in secret anywhere, anytime! If Caili and I were... and I found out that you were spying on me... she is my woman. You’re not allowed to watch even if you’re my big brother, get it?!”
 
-After speaking, he realized his retort lacked force and was hardly befitting of an "Elder Brother." He immediately shook his head and laughed. "Zhuyuan, send Yun Che back."
+“...” Even Dugu Zhuyuan could see the awkwardness gathering between the Abyssal Monarch’s brow.
 
-As they parted, Mo Su gave him one last piece of advice. "Yun Che, remember not to enter the Sea of Fog. That is the only place I cannot control."
+“I am not that type of person.” The Abyssal Monarch, who had not known “debate” for countless years, sounded awkward even as he retorted calmly.
 
-"Of course. Now that I know of the 'Fog Emperor's' existence, how would I dare to take even half a step inside?" Yun Che followed Dugu Zhuyuan and left. Mo Su watched him go, standing silently for a long time.
+Knowing that his actions lacked justification and were unbefitting of a big brother, the Abyssal Monarch shook his head smilingly and said, “Escort Yun Che back, Zhuyuan.”
 
-Only when Yun Che's figure landed on Eden's Cloud Crest did he tilt his head up slightly, a soft sigh dissipating into the gentle breeze. "Elder Brother Ni Xuan... even though our worlds are severed and ages have passed, you still think of me, allowing another you to appear in my world."
+Before they parted ways, Mo Su gave him one last piece of advice. “Remember this, Yun Che. You must not enter Endless Fog anymore. That is the one place I have no control over.”
 
-"To have met you and Xiao Die in this life... despite the endless sorrow and soul-crushing grief, how fortunate I still am."
+“Of course. Now that I know that the ‘Fog Monarch’ is real, I would be crazy to take so much as half a step into that place.”
 
-...
+Yun Che left with Dugu Zhuyuan, and Mo Su saw him off with his eyes. He stood there for a long time until Yun Che’s figure finally disappeared from Eden’s Crown. Then, he lifted his head slightly and let out a quiet sigh that quickly vanished into the wind.
 
-After leaving Eden's Cloud Crest, Yun Che still wore a relaxed and carefree expression, his eyes not forgetting to take in the unique scenery of the Pure Land. In truth, a heavy weight had quietly lifted from his heart, only to be replaced by a lingering gloom that refused to dissipate.
+“Big Brother Ni Xuan... even if we are separated by worlds, even if times and places have changed beyond recognition, you still miss me and send another you into my world.”
 
-Dugu Zhuyuan guarded him from the front in silence. Though his heart was filled with endless astonishment, he maintained the posture of a knight and did not dare to ask a single question.
+“Despite all the sorrow and pain I’ve endured, I am so fortunate to have met you and Xiaodie in this life.”
 
-Li Suo asked, "You are no longer facing the Abyssal Emperor. Why is your heart still so heavy? Are you afraid his divine sense is still following you?"
+After leaving Eden’s Crown, Yun Che continued to wear a relaxed and contented expression on his face. From time to time, he would look around and admire the beautiful scenery of the Pure Land.
 
-"No," Yun Che's voice was calm. "Since he has given his promise, he will definitely not spy on me again."
+Internally, though, the heavy pressure that sat inside his heart had thinned, but the emptiness it left behind was replaced by a thick gloominess instead.
 
-He paused for a moment, his tone turning grave. "Li Suo, do you remember what the Qilin God said in the Ancient Qilin God Realm before it dissipated?"
+Dugu Zhuyuan was quietly leading the way in front of Yun Che. Although he was astonished to put it mildly, he continued to maintain the perfect image of an abyssal knight and did not ask any unnecessary questions.
 
-"It said: 'The Abyss is doomed to collapse. His obsession is the most terrifying thing in this world, and no one can stand against it.'"
+Li Suo asked, “Why is your heart so heavy even after you have overcome the meeting with the Abyssal Monarch? Is it because his divine perception continues to pursue you?”
 
-"Today, having faced the Abyssal Emperor in person, I finally understand how terrifying he is. It far exceeds my expectations... one could even say it has surpassed the limits of what I could have ever imagined."
+“No.” Yun Che said calmly, “He gave his word that he wouldn’t spy on me any longer.”
 
-"Terrifying?" Li Suo murmured, seemingly confused. "But he has shown you nothing but goodwill and trust. And I cannot sense any malice from him."
+He paused for a moment before saying seriously, “Do you remember what the Qilin God said in the Qilin God Realm before he disappeared, Li Suo? He said: ‘All you need to remember is that the Abyss is destined for destruction, and that his obsession is the most terrifying thing that no one can defy.’”
 
-Yun Che did not refute Li Suo's words, but instead agreed, "Of course you can't sense any malice from him, because he is not an evil person."
+“Now that I have met the Abyssal Monarch in person, I finally realized that his terribleness far exceeded my imagination... no, it exceeded even the limits of my former imagination.”
 
-"But there is a type of person who is far, far more terrifying than a villain."
+“Terribleness?”
 
-Li Suo could not understand this sentence. "What... do you mean?"
+Li Suo whispered the word, puzzled. “But he only harbors kindness and trust toward you. I can’t sense any malice from him either.”
 
-Yun Che said slowly, "You think he has a special kind of trust in me. But in reality, for him, concepts like 'trust' or 'distrust' don't apply to me. Think back carefully on my conversation with him—from beginning to end, he never once sought to verify the truth of anything I said. The one or two probing questions he asked were merely to find Ni Xuan's shadow in me."
+Yun Che did not deny her statement. In fact, he agreed with her. “Of course, you cannot sense his malice. It’s because he’s not an evil person.”
+
+“However, there is a type of person in this world who is far... far scarier than an evil person.”
+
+Li Suo could not understand this. “Please explain.”
+
+Yun Che said leisurely, “You think he’s showing me extraordinary trust, but in reality, he did not ‘trust’ or ‘distrust’ me in the first place. Recall our conversation in detail. From the start until the end, he never asked for proof for any of my words. The few times he tested me were purely to find Ni Xuan’s shadow from me as well.”
 
 Li Suo fell silent for a moment.
 
-"In other words, he only cares about the aura of Ni Xuan on me and my identity as Ni Xuan's successor. As for whether my words are true or false, he couldn't care less."
+“In other words, all he cared about was Ni Xuan’s aura and the fact that I’m Ni Xuan’s successor. He did not care if what I said was true or false at all.”
 
-"Because... just as he said himself, only one thing remains in his life, and there is no room for anything else. This is precisely what makes him so terrifying."
+“The reason he’s like this... he already told me. It’s because he can only bear to carry one thing in his life now. This is precisely why he’s so terrible.”
 
-Yun Che's voice slowed, each word chilling the heart. "Even a villain must weigh the pros and cons before acting. But an obsession this extreme and pure has completely transcended the worldly concepts of good and evil, right and wrong. For the sake of any possibility, he is willing to pay any price. Any obstacle will be annihilated without a moment's hesitation... Nothing can obstruct it, there is no path of retreat, no thought can disturb it, and no emotion can sway it."
+Yun Che slowed down, and every word he spoke chilled the heart. “If an evil person wants to commit evil, they still must weigh the pros and cons before taking action. However, his obsession is so pure and absolute that it completely surpasses common good and evil, right or wrong. For even the tiniest sliver of possibility, he could pay any price and extinguish any obstacle without hesitation... Nothing can stop him, and retreat is not an option. Nothing can distract him, and no emotion can sway him.”
 
-"..." Li Suo seemed to understand, but what followed was a sense of bewilderment at such a pure obsession. "I still can't comprehend why he would be so obsessed with one person. As a fellow emperor of a world, why didn't he choose to be like you, with a harem of imperial consorts and nine demoness attendants..."
+Li Suo seemed to understand this time, but it was immediately followed by confusion and incomprehension. “I still can’t understand why he needs to be obsessed with one person to the point he did. You are also the emperor of a world. He could have chosen to emulate your example and have a harem of consorts to keep him company, nine Witches to be his personal attendants—”
 
-"Ahem, ahem, ahem!" Yun Che forcefully cut her off, speaking with utmost seriousness, "My circumstances and his are vastly different. How can they be compared!"
+“Ahem hem hem hem!”
 
-"How are they different?" Li Suo pressed. "Because Pan Xiaodie saved his life with her own body?"
+Yun Che forcefully interrupted her and said with a straight face, “Our situations are dramatically different. You can’t possibly compare them!”
 
-"It's more than that," Yun Che said. "What Pan Xiaodie did back then, though born of extreme passion and desperation, placing Mo Su's safety above all else, was an unforgivable crime against the demon race, as it cost them two great demonic artifacts. There is no doubt about that."
+“How are you different?”
 
-"Any member of the demon race has the right to hate and curse her. Her clan and her family were surely shamed because of her. If word got out, even those of other races would surely mock and despise her."
+Li Suo pressed, “Is it because Xiaodie sacrificed herself to save his life?”
 
-"This shows that Pan Xiaodie was a person who followed her heart to an extreme degree. Her feelings for Mo Su completely transcended 'reason' and 'what was right'."
+“That’s hardly all of it.”
 
-"At the same time, Mo Su's father—the Heaven-Punishing Divine Emperor, Mo E—was a man who, for the sake of 'reason' and 'what was right,' could be so ruthless as to use the Ancestral Sword to execute his own son."
+Yun Che said, “Xiaodie did what she did back then out of absolute love and panic. She made Mo Su’s safety her priority and pushed absolutely everything else to the back. But no matter what happens, there is no question that she cost the devil race two of their devil artifacts. She is unquestionably the unforgivable sinner of the devil race.”
 
-"The stark contrast, the immense impact of these two extremes... gave birth to the Mo Su of today, whose obsession is as boundless as the abyss itself."
+“Any devil of the devil race possesses the right to hate her and rebuke her. Her clan and relatives will be shamed as well because of her actions. If the news were to spread, even foreign races would not hesitate to scorn her and ridicule her.”
 
-Li Suo pondered for a long time, her understanding of human nature once again expanding. She then sighed softly. "So the terror of an ultimate obsession can surpass that of ultimate evil. What kind of state is Pan Xiaodie in now?"
+“This shows that Pan Xiaodie is an excessively temperamental woman. Her love for Mo Su completely transcended ‘reason’ or ‘righteousness’.”
 
-"I can't ask. I don't dare to ask," Yun Che said with a sigh. "But one can guess that there is likely a sliver of life force that has not yet been extinguished by her will to die. And the place she is in now... is undoubtedly the 'Cradle' that Caili mentioned."
+“At the same time, Mo Su’s father—the Heaven Punishing Divine Emperor, Mo E—went so far as to use the Ancestral Sword to execute his own son for ‘reason’ and ‘righteousness’.”
 
-Li Suo asked again, "But... I'm still puzzled. Is his obsession truly as pure and terrifying as you say? It's not as if he has no other concerns. Otherwise, how would the Pure Land and the Six Divine Kingdoms exist today?"
+“The clashes between the two extremes... is what created today’s Mo Su, a creature with such deep obsession that it resembles a bottomless abyss.”
 
-Yun Che's eyes narrowed slightly. "You've hit on the key point."
+Li Suo fell into deep thought while replenishing her understanding of human nature. She then let out a sigh and said, “To think that absolute obsession is so scary that it surpasses even absolute evil. So... what state is Pan Xiaodie in right now?”
 
-Li Suo: "...?"
+“I couldn’t ask. I didn’t dare to ask.”
 
-"From the looks of it, Mo Su seems to believe that the only way to awaken Pan Xiaodie is in the 'Eternal Pure Land.' What that method is, is unimportant. Because no matter what... no matter what, he must absolutely not be allowed to set foot in the God Realm."
+Yun Che sighed. “If I have to guess, she’s holding on to a sliver of life force that she failed to snuff out right before she would die. As for where she is right now... it can only be the ‘Cradle’ Caili spoke of.”
 
-"Traveling to the 'Eternal Pure Land' requires the spatial power of the Panming Void-Piercing Mirror, and to activate it, the power of the Six Divine Kingdoms must be gathered—including the Abyssal Crystals accumulated by the Six Divine Kingdoms over generations and the divine power of the seven True Gods. This is the reason he maintains the existence of the Six Divine Kingdoms."
+Li Suo asked another question, “But... I still have a question. Is his obsession truly as pure and scary as you claim? There is proof that he is not completely heedless of everything, isn’t there? The Pure Land and the Six Kingdoms of God would not exist otherwise.”
 
-"With Mo Su's power touching the level of a Creation God, trying to surpass him in strength in such a limited time is nothing but a fool's dream. Therefore, the path I must walk remains the same as before..."
+Yun Che narrowed his eyes a little. “And now you’ve entered the main point.”
 
-A more dangerous and determined dark light flickered in his eyes. "Seize the Divine Sources of the major divine kingdoms!"
+Li Suo: “...?”
 
-And he had already determined his first target, which was gradually drawing near.
+“At present, Mo Su seems convinced that the only way to awaken Pan Xiaodie lies within the ‘Eternal Pure Land’. As for what this method entails, it matters not. After all... he must never be allowed to set foot in the God Realm.”
 
-"What about... the Lord of the Abyss?" Li Suo reminded him. "Since Mo Su wouldn't lie, then It truly exists. Could It become a huge variable?"
+“The Original Nether Void Breaching Mirror’s spatial power is necessary to travel to the ‘Eternal Pure Land’, and to activate the Original Nether Void Breaching Mirror, he must assemble the power of the six Kingdoms of God—including the abyssal crystals the Kingdoms of God have accumulated across the years, and the divine power of the seven True Gods. This is why he still maintains the six Kingdoms of God to this day.”
 
-Yun Che said calmly, "When you have strength to spare, you must guard against and plan for all possible variables. But when you have no strength to spare... you must forget them and focus on the present."
+“Considering that Mo Su is almost at the level of a Creation God, and my time is limited to say the least, it is a pipedream to think that I can surpass him in terms of power. Therefore, my path forward remains unchanged...”
 
-"Since the Lord of the Abyss said It would sleep for five million years, then It should just continue to sleep obediently and quietly."
+Dark light more dangerous and determined than before surged behind his pupils. “I will steal the divine origins of all Kingdoms of God!”
 
-"..." Li Suo wanted to speak but hesitated. When she first entered the Abyss, she had told Yun Che that this world gave her a strange sense of unease. At first, she thought it was because Yun Che's power was too weak in this world, and since her life and soul were connected to his, she would naturally feel uneasy.
+He had determined his first target a long time ago. In fact, that day of the heist was gradually approaching.
 
-But as Yun Che gradually grew stronger, and the people he faced became more powerful, this sense of unease had always persisted, never changing. Even upon entering the Pure Land and facing the strongest being in this world, the Abyssal Emperor, this unease did not intensify. And after learning of the Lord of the Abyss's existence, a fragment of her perception was quietly stirred, telling her that this unease might be because... there was an existence in this world that was on a higher plane than her.
+“And... What about the Lord of the Abyss?”
 
-However, she did not voice this thought to Yun Che. Just as he said, facing the entire Abyssal world alone, he truly had no spare capacity to deal with other, greater variables. Telling him would undoubtedly add another heavy weight to his already immense burden.
+Li Suo reminded him. “If Mo Su would not lie, then it means that this entity truly exists. Will they turn out to be a huge variable?”
 
-She hoped this thought was just a mistake, and she hoped even more that the Lord of the Abyss would sleep peacefully and not awaken.
+Yun Che said calmly, “If you have the energy to spare, then of course you should identify all possible variables and prepare accordingly. But if you don’t... then you should set them aside and focus on the present.”
 
-If only there was someone who could help him, who could walk alongside him in this world and share the fate of their homeland... that would be for the best.
+“Since the Lord of the Abyss claimed that they will sleep for five million years, then let us assume that they will continue slumbering until all this is over.”
 
+Li Suo felt like saying something. When she first entered the Abyss, she told Yun Che that this world gave her a strange sense of unease. At first, she thought it was just natural worry, since Yun Che was pitifully weak at the time, and she was connected to him in life and soul.
+
+Yun Che grew stronger, and everyone he met was stronger than the last. However, the sense of unease did not change. It was the same even after she entered the Pure Land and faced off against the strongest existence of this world, the Abyssal Monarch.
+
+After she learned of the Lord of the Abyss, one of her broken fragments of knowledge had whispered to her that her unease... could have originated in an existence even greater than her own.
+
+In the end, though, she did not share the thought with Yun Che. As he said, he was facing the entire Abyss alone right now. He truly did not have the energy to spare another variable, especially one like the Lord of the Abyss. Informing him about it now would only add more pressure to his already-overburdened shoulders. 𝓯𝙧𝓮𝓮𝒘𝓮𝙗𝙣𝒐𝒗𝒆𝓵.𝓬𝓸𝒎
+
+She could only pray that her thought was a mistake, that the Lord of the Abyss truly wouldn’t awaken until the very end.
+
+If only... there was someone in this world who could walk with him and shoulder the fate of his homeland with him[1].
+
+1. It’s funny how many Chinese readers say this future helper is Qianye Ying’er. ☜
