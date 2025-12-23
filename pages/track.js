@@ -1,76 +1,15 @@
 // pages/track.js
-// import { redis } from "../lib/redis";
 import Link from "next/link";
 import Head from "next/head";
 import { useMemo, useState, useEffect } from "react";
 
 export async function getServerSideProps() {
-  // If Redis isn't configured (e.g. local dev), return empty stats instead of crashing.
-  if (!redis) {
-    console.warn("[track] Redis not configured; returning empty stats");
-    return { props: { stats: {} } };
-  }
-
-  // 1) Try SMEMBERS on our known-keys set
-  let knownMembers = [];
-  try {
-    if (typeof redis.smembers === "function") {
-      const members = await redis.smembers("stats:known_keys");
-      if (Array.isArray(members)) knownMembers = members;
-    } else {
-      // fallback: if smembers not available, try scanIterator for keys and derive members
-      if (typeof redis.scanIterator === "function") {
-        for await (const fullKey of redis.scanIterator({ match: "stats:*" })) {
-          const member = fullKey.replace(/^stats:/, "");
-          knownMembers.push(member);
-        }
-      } else if (typeof redis.keys === "function") {
-        const keys = await redis.keys("stats:*");
-        knownMembers = (keys || []).map((k) => k.replace(/^stats:/, ""));
-      }
-    }
-  } catch (e) {
-    console.warn(
-      "[track] failed to read stats:known_keys — returning empty stats",
-      e?.message || e
-    );
-    return { props: { stats: {} } };
-  }
-
-  if (!Array.isArray(knownMembers) || knownMembers.length === 0) {
-    return { props: { stats: {} } };
-  }
-
-  const redisKeys = knownMembers.map((m) => `stats:${m}`);
-
-  const entries = await Promise.all(
-    redisKeys.map(async (k) => {
-      try {
-        const v = await redis.get(k);
-        return [k, v];
-      } catch (e) {
-        return [k, null];
-      }
-    })
-  );
-
-  const raw = Object.fromEntries(entries);
-
-  const stats = {};
-  for (const [k, v] of Object.entries(raw)) {
-    let value = v;
-    try {
-      value = JSON.parse(v);
-    } catch (e) {
-      if (!Number.isNaN(Number(v))) value = Number(v);
-    }
-    stats[k.replace(/^stats:/, "")] = value;
-  }
-
-  return { props: { stats } };
+  // Tracking disabled (Redis removed); return empty stats
+  console.warn("[track] Tracking disabled; returning empty stats");
+  return { props: { stats: {} } };
 }
 
-// safe numeric getter
+// safe numeric getter (kept for potential future use, but unused now)
 function toNumber(v) {
   if (typeof v === "number") return v;
   if (Array.isArray(v)) return v.reduce((a, b) => a + (Number(b) || 0), 0);
@@ -93,7 +32,7 @@ export default function Track({ stats }) {
     setSnapshotTime(new Date().toLocaleString());
   }, []);
 
-  // Flatten all stats into rows once
+  // Flatten all stats into rows once (will be empty)
   const allRows = useMemo(
     () =>
       Object.entries(stats).map(([k, v]) => ({
