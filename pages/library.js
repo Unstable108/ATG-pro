@@ -189,13 +189,13 @@ export async function getStaticProps() {
 
     return {
       props: { novels },
-      revalidate: 3600, // refresh hourly
+      revalidate: 86400, // refresh hourly
     };
   } catch (e) {
     console.error("Failed to build library page", e);
     return {
       props: { novels: [] },
-      revalidate: 3600,
+      revalidate: 86400,
     };
   }
 }

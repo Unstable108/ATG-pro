@@ -1,26 +1,23 @@
+// components/ChapterList.jsx (Reverted to old style for homepage chapter display)
 import React, { useState } from 'react';
 import Link from 'next/link';
 import { useRouter } from 'next/router';
 import ChapterSearchToggle from './ChapterSearchToggle';
-
 export default function ChapterList({ chapters, sortAsc, basePath, onSortToggle }) {
   const router = useRouter();
   const [currentPage, setCurrentPage] = useState(1);
   const [pageInput, setPageInput] = useState(''); // Temp input for typing
   const itemsPerPage = 20;
-
   // Sort chapters based on prop (asc/desc by chapterNumber) - FIXED: Corrected inversion
   const sortedChapters = [...chapters].sort((a, b) => {
     const aNum = Number(a.chapterNumber) || 0;
     const bNum = Number(b.chapterNumber) || 0;
-    return sortAsc ?   bNum - aNum : aNum - bNum;
+    return sortAsc ? bNum - aNum : aNum - bNum;
   });
-
   const totalChapters = sortedChapters.length;
   const totalPages = Math.ceil(totalChapters / itemsPerPage);
   const startIndex = (currentPage - 1) * itemsPerPage;
   const currentChapters = sortedChapters.slice(startIndex, startIndex + itemsPerPage);
-
   const handlePageChange = (newPage) => {
     const clamped = Math.max(1, Math.min(totalPages, newPage));
     setCurrentPage(clamped);
@@ -31,7 +28,6 @@ export default function ChapterList({ chapters, sortAsc, basePath, onSortToggle 
       element.scrollIntoView({ behavior: 'smooth' });
     }
   };
-
   const handleInputChange = (e) => {
     const val = e.target.value;
     setPageInput(val);
@@ -40,7 +36,6 @@ export default function ChapterList({ chapters, sortAsc, basePath, onSortToggle 
       setCurrentPage(num); // Auto-update if valid
     }
   };
-
   const handleInputKeyDown = (e) => {
     if (e.key === 'Enter') {
       e.preventDefault();
@@ -50,18 +45,15 @@ export default function ChapterList({ chapters, sortAsc, basePath, onSortToggle 
       }
     }
   };
-
   const handleInputBlur = () => {
     const num = Number(pageInput);
     if (!isNaN(num)) {
       handlePageChange(num);
     }
   };
-
   const handleChapterClick = (slug) => {
     router.push(`${basePath}/chapters/${slug}`);
   };
-
   // called when user presses Enter in home-page search box
   const handleHomeSearchSubmit = (term) => {
     if (!term) {
@@ -73,11 +65,9 @@ export default function ChapterList({ chapters, sortAsc, basePath, onSortToggle 
       });
     }
   };
-
   if (totalChapters === 0) {
     return <p className="text-center py-8 text-gray-500 dark:text-slate-400">No chapters available yet.</p>;
   }
-
   return (
     <div id="all-chapters" className="bg-white dark:bg-slate-800 rounded-lg border border-gray-200 dark:border-slate-600 overflow-hidden">
       {/* Header - Includes your sort button here for context */}
@@ -128,7 +118,6 @@ export default function ChapterList({ chapters, sortAsc, basePath, onSortToggle 
           </button> */}
         </div>
       </div>
-
       {/* Chapters Grid */}
       <div className="grid grid-cols-1 md:grid-cols-2 gap-0 bg-gray-100 dark:bg-slate-700">
         {currentChapters.map((ch) => (
@@ -157,7 +146,6 @@ export default function ChapterList({ chapters, sortAsc, basePath, onSortToggle 
           </div>
         ))}
       </div>
-
       {/* Pagination Controls - With Input Box & Larger Buttons */}
       {totalPages > 1 && (
         <div className="p-4 border-t border-gray-200 dark:border-slate-600 flex justify-center items-center gap-4 bg-gray-50 dark:bg-slate-900">
@@ -168,11 +156,9 @@ export default function ChapterList({ chapters, sortAsc, basePath, onSortToggle 
           >
             Prev
           </button>
-
           <span className="text-sm text-gray-600 dark:text-slate-400">
             Page
           </span>
-
           <input
             type="number"
             value={pageInput || currentPage}
@@ -184,11 +170,9 @@ export default function ChapterList({ chapters, sortAsc, basePath, onSortToggle 
             className="w-16 px-2 py-1 rounded border border-gray-300 dark:border-slate-600 text-center text-sm bg-white dark:bg-slate-700 text-gray-900 dark:text-slate-100 focus:outline-none focus:ring-2 focus:ring-blue-500"
             placeholder={currentPage.toString()}
           />
-
           <span className="text-sm text-gray-600 dark:text-slate-400">
             of {totalPages}
           </span>
-
           <button
             onClick={() => handlePageChange(Math.min(totalPages, currentPage + 1))}
             disabled={currentPage === totalPages}

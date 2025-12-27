@@ -475,6 +475,6 @@ export async function getStaticProps({ params }) {
       novel,
       novelSlug,
     },
-    revalidate: 60,
+    revalidate: 86400,
   };
 }

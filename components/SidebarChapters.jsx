@@ -8,91 +8,108 @@ export default function SidebarChapters({
   open,
   onClose,
   currentSlug,
-  basePath = '', // NEW: Prop for dynamic prefix ('' for ATG, '/lee-gwak' for others)
+  basePath = '', 
 }) {
-  const router = useRouter();
-  const desktopScrollRef = useRef(null); // Ref for desktop scroll container
-  const mobileScrollRef = useRef(null); // Ref for mobile scroll container
+  const scrollRef = useRef(null);
 
-  // Prevent body scrolling when sidebar is open (mobile)
+  // 1. Lock Body Scroll when sidebar is OPEN (prevents dual scrolling)
   useEffect(() => {
     if (typeof document === "undefined") return;
+    
     if (open) {
-      const original = document.body.style.overflow;
+      // Lock scroll
       document.body.style.overflow = "hidden";
-      return () => {
-        document.body.style.overflow = original;
-      };
+
+      // Dispatch event so other components (ReaderControls) can react.
+      if (typeof window !== "undefined") {
+        window.dispatchEvent(new Event('sidebar:open'));
+      }
+    } else {
+      // Unlock scroll
+      document.body.style.overflow = "";
+
+      if (typeof window !== "undefined") {
+        window.dispatchEvent(new Event('sidebar:close'));
+      }
     }
+
+    // Cleanup when component unmounts
+    return () => {
+      document.body.style.overflow = "";
+      if (typeof window !== "undefined") {
+        window.dispatchEvent(new Event('sidebar:close'));
+      }
+    };
   }, [open]);
 
-  // Auto-scroll to current chapter on desktop when currentSlug changes
+  // 2. Auto-scroll to active chapter inside the sidebar
   useEffect(() => {
-    if (desktopScrollRef.current) {
-      // Small delay to ensure DOM is updated
+    if (open && scrollRef.current) {
       const timer = setTimeout(() => {
-        const activeEl = desktopScrollRef.current.querySelector('[data-active="true"]');
+        const activeEl = scrollRef.current.querySelector('[data-active="true"]');
         if (activeEl) {
           activeEl.scrollIntoView({ 
-            behavior: 'smooth', 
-            block: 'center',
-            inline: 'nearest'
+            behavior: 'auto', 
+            block: 'center' 
           });
         }
       }, 100);
       return () => clearTimeout(timer);
     }
-  }, [currentSlug]); // Re-run when currentSlug changes
+  }, [open, currentSlug]); 
 
-  // Auto-scroll to current chapter on mobile when sidebar opens
-  useEffect(() => {
-    if (open && mobileScrollRef.current) {
-      // Small delay to ensure DOM is rendered
-      const timer = setTimeout(() => {
-        const activeEl = mobileScrollRef.current.querySelector('[data-active="true"]');
-        if (activeEl) {
-          activeEl.scrollIntoView({ 
-            behavior: 'smooth', 
-            block: 'center',
-            inline: 'nearest'
-          });
-        }
-      }, 100);
-      return () => clearTimeout(timer);
-    }
-  }, [open, currentSlug]); // Re-run if currentSlug changes while open
-
-  // Helper for chapter link
   const getChapterLink = (slug) => `${basePath}/chapters/${slug}`;
 
+  // If not open, render nothing (Clean DOM)
+  if (!open) return null;
+
   return (
-    <>
-      {/* ───────────────────────────────────────
-          DESKTOP SIDEBAR
-      ─────────────────────────────────────── */}
-      <aside className="hidden md:block w-64 shrink-0">
-        <div ref={desktopScrollRef} className="sticky top-16 h-[calc(100vh-4rem)] overflow-y-auto overscroll-contain border-r border-slate-200 dark:border-slate-700 pr-2">
-          <h2 className="px-3 pt-3 pb-2 text-xs font-semibold uppercase tracking-wide text-slate-500 dark:text-slate-400">
-            Chapters
-          </h2>
-          <ul className="space-y-1 pb-4">
+    <div className="fixed inset-0 z-50 flex">
+      {/* Backdrop - Clicks here close the sidebar */}
+      <div
+        className="absolute inset-0 bg-black/60 backdrop-blur-sm transition-opacity"
+        onClick={onClose}
+        aria-hidden="true"
+      />
+
+      {/* Sliding Drawer - Works for Desktop AND Mobile now */}
+      <div className="relative w-80 max-w-[85%] bg-white dark:bg-[#1a1a1a] shadow-2xl flex flex-col h-full border-r border-gray-200 dark:border-gray-800 animate-slideInLeft">
+        
+        {/* Header */}
+        <div className="flex items-center justify-between px-5 py-4 border-b border-gray-200 dark:border-gray-800 bg-gray-50 dark:bg-[#222]">
+          <h2 className="text-lg font-bold text-gray-800 dark:text-gray-200">Table of Contents</h2>
+          <button
+            onClick={onClose}
+            className="p-2 rounded hover:bg-gray-200 dark:hover:bg-white/10 transition-colors text-gray-500 dark:text-gray-400"
+            aria-label="Close chapter list"
+          >
+            <svg className="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+              <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M6 18L18 6M6 6l12 12" />
+            </svg>
+          </button>
+        </div>
+
+        {/* Scrollable List */}
+        <div ref={scrollRef} className="flex-1 overflow-y-auto overscroll-contain p-2">
+          <ul className="space-y-1">
             {chapters.map((ch) => {
               const isActive = currentSlug === ch.slug;
               return (
                 <li key={ch.slug} data-active={isActive ? 'true' : 'false'}>
                   <Link
                     href={getChapterLink(ch.slug)}
+                    onClick={onClose} // Close sidebar when clicking a link
                     className={
-                      "block px-3 py-2 rounded text-sm transition-colors " +
+                      "block px-4 py-3 rounded-lg text-sm transition-all " +
                       (isActive
-                        ? "bg-blue-50 dark:bg-slate-800 border-l-4 border-blue-500 font-semibold"
-                        : "hover:bg-slate-50 dark:hover:bg-slate-800")
+                        ? "bg-blue-600 text-white font-semibold shadow-md"
+                        : "text-gray-700 dark:text-gray-300 hover:bg-gray-100 dark:hover:bg-white/5")
                     }
                   >
-                    <div className="text-xs text-slate-500 dark:text-slate-400">
+                    <div className={`text-xs mb-0.5 ${isActive ? 'text-blue-100' : 'text-gray-500 dark:text-gray-500'}`}>
                       Chapter {ch.chapterNumber}
                     </div>
-                    <div>
+                    <div className="truncate">
                       {ch.title || `Chapter ${ch.chapterNumber}`}
                     </div>
                   </Link>
@@ -101,63 +118,7 @@ export default function SidebarChapters({
             })}
           </ul>
         </div>
-      </aside>
-      {/* ───────────────────────────────────────
-          MOBILE DRAWER SIDEBAR
-      ─────────────────────────────────────── */}
-      {open && (
-        <div className="fixed inset-0 z-40 md:hidden">
-          {/* Backdrop */}
-          <div
-            className="absolute inset-0 bg-black/40"
-            onClick={onClose}
-            aria-hidden="true"
-          />
-          {/* Sliding drawer */}
-          <div className="absolute left-0 top-0 bottom-0 w-72 max-w-[80%] bg-white dark:bg-slate-900 shadow-xl flex flex-col">
-            {/* Header */}
-            <div className="flex items-center justify-between px-4 py-3 border-b border-slate-200 dark:border-slate-700">
-              <h2 className="text-sm font-semibold">Chapters</h2>
-              <button
-                onClick={onClose}
-                className="p-1 rounded hover:bg-slate-100 dark:hover:bg-slate-800"
-                aria-label="Close chapter list"
-              >
-                ✕
-              </button>
-            </div>
-            {/* Scrollable chapter list - With ref */}
-            <div ref={mobileScrollRef} className="flex-1 overflow-y-auto overscroll-contain">
-              <ul className="space-y-1 p-2">
-                {chapters.map((ch) => {
-                  const isActive = currentSlug === ch.slug;
-                  return (
-                    <li key={ch.slug} data-active={isActive ? 'true' : 'false'}>
-                      <Link
-                        href={getChapterLink(ch.slug)}
-                        onClick={onClose}
-                        className={
-                          "block px-3 py-2 rounded text-sm transition-colors " +
-                          (isActive
-                            ? "bg-blue-50 dark:bg-slate-800 border-l-4 border-blue-500 font-semibold"
-                            : "hover:bg-slate-50 dark:hover:bg-slate-800")
-                        }
-                      >
-                        <div className="text-xs text-slate-500 dark:text-slate-400">
-                          Chapter {ch.chapterNumber}
-                        </div>
-                        <div>
-                          {ch.title || `Chapter ${ch.chapterNumber}`}
-                        </div>
-                      </Link>
-                    </li>
-                  );
-                })}
-              </ul>
-            </div>
-          </div>
-        </div>
-      )}
-    </>
+      </div>
+    </div>
   );
 }

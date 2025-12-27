@@ -18,47 +18,22 @@ body {
   color: #e5e7eb;      /* gray-200 */
 }
 
-/* Sepia reading overlay, controlled by <html class="sepia">.
-   This overrides BOTH light and dark site themes. */
-html.sepia body {
-  background: #f7aa66; /* warm sepia */
-  color: #111827;      /* dark text */
-}
-/* In sepia mode, force header + chapter meta to look like a light theme,
-   even if site dark mode is on */
-html.sepia header {
-  background: #f5ecd8 !important;         /* match page sepia */
-  border-bottom-color: #e2d1aa !important; /* softer border */
-}
-
-/* Make all header text/icons dark on sepia */
-html.sepia header *,
-html.sepia header svg *,
-html.sepia .chapter-meta,
-html.sepia .chapter-meta * {
-  color: #111827 !important;
-  stroke: #111827 !important;
-}
-
-html.sepia .reader-content {
-  color: #111827; /* force readable dark text, even if dark mode is on */
-}
-
-
-
 /* ---------------------------------
    READER — STATIC + TYPOGRAPHY
    --------------------------------- */
 
-/* Default reader font size = 16px (WuxiaWorld-like) */
+/* Default reader vars */
 :root {
   --reader-font-size: 16px;
+  --reader-font-family: "Open Sans", ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI",
+    Roboto, "Helvetica Neue", Arial, sans-serif;
+  --reader-line-height: 1.6;
 }
 
 .reader-content {
   font-size: var(--reader-font-size, 16px);
-  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI",
-    Roboto, "Helvetica Neue", Arial, sans-serif;
+  font-family: var(--reader-font-family);
+  line-height: var(--reader-line-height, 1.6);
 
   max-width: 60rem;           /* a bit wider, less enclosed */
   margin-left: auto;
@@ -85,7 +60,7 @@ html.sepia .reader-content {
 .reader-content p {
   margin-top: 0;
   margin-bottom: 0.9rem;  /* space between paragraphs */
-  line-height: 1.7;       /* more breathing room between lines */
+  line-height: var(--reader-line-height, 1.6);       /* more breathing room between lines */
 }
 
 /* First paragraph after title a bit closer */
@@ -110,7 +85,7 @@ html.sepia .reader-content {
 .reader-content ul,
 .reader-content ol {
   margin: 0.6rem 0 0.6rem 1.25rem;
-  line-height: 1.7;
+  line-height: var(--reader-line-height, 1.6);
 }
 .reader-content li + li {
   margin-top: 0.2rem;
@@ -250,6 +225,14 @@ article + .mt-8 {
 .line-clamp-3 {
   display: -webkit-box;
   -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Revert line-clamp to support 2 lines for old homepage */
+.line-clamp-2 {
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }

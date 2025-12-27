@@ -188,7 +188,7 @@ export async function getStaticProps({ params, query }) {
     excerpt: (c.content || "").slice(0, 140),
   }));
 
-  return { props: { novel, chapters, novelSlug }, revalidate: 60 };
+  return { props: { novel, chapters, novelSlug }, revalidate: 86400 };
 }
 
 export async function getStaticPaths() {

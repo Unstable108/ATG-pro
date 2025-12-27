@@ -325,5 +325,5 @@ export async function getStaticProps({ params }) {
     excerpt: (c.content || "").slice(0, 400),
   }));
 
-  return { props: { novel, chapters, novelSlug }, revalidate: 60 };
+  return { props: { novel, chapters, novelSlug }, revalidate: 86400 };
 }

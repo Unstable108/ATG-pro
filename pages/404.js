@@ -104,7 +104,7 @@ export async function getStaticProps() {
     title: c.title,
   }));
   if (!chapters || chapters.length === 0) {
-    return { props: { latestChapter: null }, revalidate: 60 };
+    return { props: { latestChapter: null }, revalidate: 86400 };
   }
   // Your reduce logic here (e.g., grouping or summary)
   const chapterSummary = chapters.reduce((acc, ch) => {
@@ -126,5 +126,5 @@ export async function getStaticProps() {
     title: latest.title || "",
   };
 
-  return { props: { chapters, chapterSummary, latestChapter }, revalidate: 60 };
+  return { props: { chapters, chapterSummary, latestChapter }, revalidate: 86400 };
 }
