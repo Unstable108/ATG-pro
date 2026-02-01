@@ -1,6 +1,6 @@
 // pages/_app.js
 import Script from "next/script";
-import { Analytics } from "@vercel/analytics/react";
+// import { Analytics } from "@vercel/analytics/react";
 import Head from "next/head";
 import "../styles/globals.css";
 import { useEffect } from "react";
@@ -125,7 +125,7 @@ export default function App({ Component, pageProps }) {
         strategy="afterInteractive"
       />
       <Component {...pageProps} />
-      <Analytics />
+      {/* <Analytics /> */}
     </>
   );
 }

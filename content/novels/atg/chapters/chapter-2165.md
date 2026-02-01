@@ -1,306 +1,215 @@
 ---
 chapterNumber: 2165
-title: ""
+title: "Heart Toward Glazed Glass"
 publishedAt: "2025-12-09"
 ---
 
 
-Gently placing Shen Wuyi into the healing profound array, Shen Wuyoulan cast a simple isolating barrier. A soft profound light gathered at her fingertips, then slowly flowed into that frail body.
-But the moment she touched her, the supposedly unconscious Shen Wuyi slowly opened her eyes. She even tried to push herself up—her movements weak, yet filled with stubborn resolve.
+Shenwu Youluan gently, very gently, placed Shenwu Yi inside a healing, profound formation and set up a simple isolation barrier. A ball of gentle, profound light gathered in her palm and slowly circulated around that frail body. However, the woman who should be in a deep coma right now slowly opened her eyes and even struggled to rise. Her movements were weak, yet they were empowered by a stubborn force that would not be thwarted.
 
 “Wuyi!”
 
-Shen Wuyoulan hurriedly leaned forward, supporting Wuyi’s upper body.
-“Don’t move. Calm your mind. The Sovereign no longer intends to punish you.”
+Shenwu Youluan hurriedly stepped forward and hugged Shenwu Yi’s upper torso. “Don’t move recklessly, and submerge your consciousness. The supreme one no longer plans to punish you.”
 
-But Shen Wuyi did not close her eyes. Instead, she spoke with a voice as light as a breeze brushing silk:
-“She… just obtained the Abyssheart Vine, and I’m this gravely injured… Her attention isn’t here. The Pure Land’s gaze isn’t on this place either.”
+Shenwu Yi did not close her eyes, though. Instead, she said in a voice that sounded like a breeze blowing against the hair. “She… just obtained the Abyssal Heart Vine, and I am grievously injured… her eyes are not here. The Pure Land is not looking here either.”
 
-Shen Wuyoulan understood her meaning. She wanted to tell her that no matter what it was, it could wait. But knowing her temperament—and knowing she would never force herself like this unless it was absolutely crucial—Wuyoulan quietly lowered her head and leaned closer to her lips.
-“…Alright. Speak.”
+Shenwu Youluan understood her meaning. She wanted to advise Shenwu Yi that whatever she had to say could wait until she recovered, but she also knew her own personality. She wouldn’t be acting like this unless she had something essential that she needed to do right now. So, she nodded weakly and moved closer to her lips. “Okay. Tell me.”
 
-Wuyi’s bloodless lips parted slightly, and she murmured words like a dream-whisper:
-“‘In the breath of Heaven and Earth, all things are refined; man and woman in true pairing, Heaven and Earth set in order…’”
+The bloodless lips parted slightly and began murmuring like she was dream-talking, “With heaven and earth in harmony, all things transform into purity; men and women unite in proper union, establishing the order of the universe…”
 
-“—!!”
+“......!”
 
-Shen Wuyoulan jerked her head up, shock flooding her face. It took several breaths before she finally calmed the turmoil in her heart, lowering her voice:
-“Wuyi… you’ve recovered your memories?”
+Shenwu Youluan looked up, staring at Shenwu Yi in shock. It wasn’t until a few breaths later that she barely suppressed her bubbling emotions and asked in a hushed voice, “You… recovered your memories, Wuyi?”
 
-Those unfocused, weakened moonlit eyes stared straight into hers.
-“So… that marriage contract… it truly exists…”
+The moonlit eyes, so weak that they lost their focus, stared fixedly at her. “So… that marriage certificate… really does exist…”
 
-Shen Wuyoulan froze, momentarily at a loss.
+Shenwu Youluan froze. She was at a loss for words for a time. Then, she leaned closer and lowered her voice even more. “Who told you these words? What on earth happened to you during your time at the Forbidden Zone of Slumbering Gods?”
 
-She lowered her posture and voice even further, the latter trembling slightly:
-“Who told you those words? In the Divine Slumber Forbidden Domain… what exactly did you encounter?”
+There was a slight tremor in her voice as she said this.
 
-Shen Wuyi slowly raised her hand, with great difficulty placing her fingers onto the back of Wuyoulan’s hand—showing her resolve.
-“If you have it… then show it to me… now… show me… now…”
+Shenwu Yi slowly raised her hand and pressed her fingers against the back of Shenwu Youluan’s hand with immense difficulty. It was to show the woman the force of her determination. “If you have it… now… show it to me… now…”
 
-Her life force was hanging by a thread, consciousness held together purely by will—yet she repeated “now” twice.
-Shen Wuyoulan’s expression grew complicated, and her brief hesitation was no different from an admission.
+Despite being so weak that the only thing keeping her conscious and moving now was sheer willpower, she had repeated the word “now” twice. Shenwu Youluan wore a complicated expression. The short hesitation was itself a tacit admission.
 
-She had just opened her mouth when Wuyi’s faint whisper interrupted her again:
-“It… determines my… fate…”
+She was just about to answer when Shenwu Yi’s murmur echoed in her ears again, “It… directly decides… my fate…”
 
-Shen Wuyoulan had never seen her display such stubborn insistence. She could no longer delay. Gritting her teeth, she reached into her spatial storage.
-Moments later, she took out a one-foot-long Abyssal Crystal, emanating dense abyssal energy. With a practiced motion, the crystal split apart—its interior hollowed out with meticulous care.
+Shenwu Youluan had never seen such determination and stubbornness from Shenwu Yi before. So, her teeth clenched slightly, she stopped hesitating and reached into her portable space. An instant later, she produced an abyssal crystal about one-third of a meter long and emanating a somewhat rich aura of abyssal crystal. Her fingers moved, and the abyssal crystal split open in the middle to reveal that it was artificially hollowed. 
 
-From within, Shen Wuyoulan carefully removed a jade scroll.
-Upon its surface were inscribed the first three seals… of the Pure-God Seal.
+Shenwu Youluan carefully produced a jade slip from the abyssal crystal. The engravings on the jade slip were clearly the first three seals of the Purify God Seal.
 
-As the core profound art of the Eternal Night God Realm, it was only natural for it to be hidden with such extreme caution.
-But as Shen Wuyoulan exhaled a thread of profound energy, the jade slip shattered in utter silence.
-From its fragments drifted torn pieces of blood-stained paper.
+The Purify God Seal was the core profound art of the Eternal Night Kingdom of God, so it made sense that it would be concealed so carefully. However, Shenwu Youluan unleashed a small puff of profound energy and shattered the jade slip, causing what looked like blood-stained pieces of paper to emerge from the fragments. With one swipe of the palm, the torn pieces of paper immediately started joining together into one. An instant later, a brilliant red sheet of paper, despite being terribly tattered and mostly covered in dried blood, took form, its words unnaturally clear.
 
-With a sweep of her palm, the scattered scraps halted midair and rearranged themselves in perfect order.
-In mere moments, they formed a tattered crimson document—seven-tenths soaked in dried blood, yet every character remained piercingly clear.
+The title of the red paper was “Marriage Certificate”. It reflected in Shenwu Yi’s eyes and, somehow, magically sharpened her blurry vision.
 
-Most striking of all were the two characters at the top:
+No one knew how much risk Shenwu Youluan had shouldered to conceal this marriage certificate… because it was the sole proof of Shenwu Yi’s past.
 
-Marriage Contract.
+Right now, Shenwu Yi’s unfocused eyes were shining with indescribable radiance. The words written on the marriage certificate had etched themselves into her heart instantly… It matched word for word what Yun Che had recited in the Forbidden Zone of Slumbering Gods.
 
-They burned so vividly into Shen Wuyi’s vision that even her blurred, unfocused eyes sharpened for an instant.
+The names “Xiao Che” and “Xia Qingyue” were written at the end of the marriage certificate, and a pair of deep, intact fingerprints were marked beneath their birthdates. With trembling fingers, Shenwu Yi lifted the ripped sleeve she had received from Yun Che and checked his fingerprint first. They matched seamlessly with the one on the marriage certificate, even though her vision was terribly blurry right now. Just the same, her right fingerprint matched the one left behind by the woman named Xia Qingyue perfectly.
 
-No one had ever known the immense risk Shen Wuyoulan took to hide this marriage contract…
-because she understood that it was Shen Wuyi’s only remaining proof of her lost past.
+“......”
 
-A strange, indescribable light rippled through Shen Wuyi’s fading eyes—
-and the words engraved on that document sank directly into her heart…
+Her moonlight in her pupils shook violently, and her fingers curled unconsciously.
 
-exactly the same as Yun Che had recited to her inside the Forbidden Domain.
-
-At the bottom of the contract, she saw the names “Xiao Che” and “Xia Qingyue.”
-She saw their birth characters, and beneath them, two deep, complete fingerprints.
-
-Her trembling hand lifted the piece of torn sleeve Yun Che had left behind.
-Even through her clouded vision, the fingerprint stained upon it aligned perfectly with the one on the marriage contract.
-
-And overlapping the two…
-was her own—
-the ring upon her right index finger matching flawlessly with the delicate print beneath the name Xia Qingyue.
-
-…
-
-The moonlight within her eyes quivered violently. Her fingers curled unconsciously.
-
-This… this is my past…
-So I was not someone without origin…
-I was not a drifting, rootless soul…
-
-Xia Qingyue…
-That was my name… my true name…
-
-Cangfeng Liuyun…
-A surname that does not exist in this world.
-A homeland that does not exist in this world.
-
-Yun Che… Xiao Che… homeland…
-Then I…
+That… is my past… I’m not someone without a past after all… I’m not a rootless duckweed after all… Xia Qingyue… is my name… my true name… Blue Wind Empire, Floating Cloud City… a surname that doesn’t exist in this world… a birthplace that doesn’t exist in this world… Yun Che… Xiao Che… homeland… I…
 
 “Aunt…”
 
-She closed her eyes, her voice light as a dream-murmur:
-“Erase… the traces…”
+She closed her eyes, her voice weak as a somniloquy. “Remove… the traces…”
 
-Her hand fell limp. Her consciousness finally sank into silence.
+Her palm fell limply, and her consciousness finally sank completely into darkness.
 
-Shen Wuyoulan gently lowered her, then swiftly stored away both the marriage contract and the torn sleeve, hiding them once more within the abyssal crystal’s aura.
-But her heart was already in a state of turmoil, its waves unable to settle.
+Shenwu Youluan gently set Shenwu Yi down and tucked both the marriage certificate and the ripped sleeve into the abyssal crystal. However, it would be a long, long time before her chaotic thoughts and feelings settled.
 
-Years ago, when she had found Shen Wuyi drifting within the Mist Sea, it was this very marriage contract that told her Wuyi was not a native of this world—and that she likely came from the Eternal Pure Land.
-For in this world, neither “Cangfeng Liuyun” nor the surname “Xia” existed at all.
+When she first picked up Shenwu Yi at the Endless Fog, she already knew from the marriage certificate she carried that she was not a native. She knew it was extremely likely that Shenwu Yi came from the Eternal Pure Land because the surname Xia, “Blue Wind Empire” or “Floating Cloud City,” did not exist anywhere in this world. However, she also knew that Shenwu Yi would lose all freedom if this secret were ever to be revealed. So, she hid it out of pity and planned to return it to her after she had fully recovered.
 
-Yet she also understood: if this secret were ever exposed, Wuyi’s fate would be stripped of all freedom.
+Shenwu Yanye had noticed Shenwu Yi’s Nine Profound Exquisite Body first and forced her to become an Eternal Night Divine Daughter. In Shenwu Youluan’s opinion, becoming an Eternal Night Divine Daughter was a fate far worse than being exposed as a denizen from the Eternal Pure Land. That was why she had always harbored indescribable guilt and regret toward her.
 
-Out of compassion, she hid it, intending to return it once Wuyi had healed…
-But before she could, Shen Wuyanye discovered Wuyi’s Nine Profound Exquisite Body, forcing her to become the Eternal Night Divine Daughter.
+She never thought that this secret would be exposed by Shenwu Yi herself out of nowhere. She had no way to predict what kind of ending this sudden twist of fate would bring, but no matter what it was, it could not be deeper than the lightless despair the Eternal Night Kingdom of God was already stuck in.
 
-To Shen Wuyoulan, that fate was far more tragic than the revelation of her origin.
+……
 
-And so, toward Shen Wuyi, she carried a guilt that she could never speak aloud.
+Yun Che’s self-recovery lasted a long time. In the end, his injuries and profound energy were mostly recovered. He had intentionally dragged out his recovery time, but it was still an extraordinary pace in Hua Caili’s opinion.
 
-She never expected that this secret—one she had guarded so cautiously—would be suddenly revealed by Wuyi herself, in such a completely unforeseen moment.
-She could not predict what kind of final outcome this abrupt shift in fate would lead to.
-But no matter what it became, the Eternal Night God Realm could never grow darker or more hopeless than it already was.
+“As expected of the light profound energy. I think it’s even greater than before.”
 
-———
+Leaning against Yun Che’s shoulder, Hua Caili said smilingly, “A while ago, Aunt reminded me that people capable of producing light profound energy are exceptionally pure and good. She warned me not to abuse this fact and bully you. At this point, Aunt is going to treat you better than she treated me… hehe.”
 
-Yun Che had spent a long time healing himself. His wounds and profound energy had recovered more than half.
-He had intentionally dragged out the process, yet in Hua Caili’s eyes, it was still unbelievably fast.
+It sounded like jealousy, but her tone was filled with pure, unadulterated joy.
 
-“No wonder it’s Light Profound Energy—it feels even stronger than before.”
+Yun Che replied with a smile, “The reason Aunt is treating me so well is because of you and for your sake.”
 
-Resting against Yun Che’s shoulder, she said with a bright smile,
-“Aunt warned me earlier that people who can cultivate Light Profound Energy always have especially pure and kind hearts. She told me not to bully you just because you spoil me too much.
-I feel like Aunt treats you almost better than she treats me… hee.”
-
-Though her words sounded a little jealous, her voice was filled with nothing but pure joy.
-
-Yun Che smiled.
-“All the kindness your Aunt shows me is because of you—and for your sake.”
-
-He stood up, stretching his upper body.
-“Alright, we should head back.”
+He climbed back to his feet and stretched a little. “Alright. We should head back now.”
 
 “Okay!”
 
-Hua Caili put away her Liyun Sword and murmured,
-“This Divine Slumber Forbidden Domain was described as some mysterious, unfathomable place. I thought it would be full of strange wonders and special opportunities… but it’s actually no different from the Fog Sea, just with more Abyssal Ghosts.”
+Hua Caili put away the Glass Cloud Sword and remarked, “The Forbidden Zone of Slumbering Gods was described as a place of many unfathomable mysteries, so I initially thought it would be filled with oddities and special opportunities. But now, I think it’s not much different from the Endless Fog. It just has more abyssal ghosts than abyssal beasts.”
 
-Yun Che said,
-“Since it’s a place where gods fell, it probably did hold many divine remnants in the past.
-But this place belongs to the Pure Land. Whatever divine relics originally existed here must have been nearly wiped clean after countless searches. Otherwise, they wouldn’t have opened it to the God Realm so generously.”
+Yun Che replied, “This is a place where countless gods had perished, so it made sense that it used to be a graveyard of divine relics. However, we should not forget that this place belongs to the Pure Land. They must have scoured the place countless times over and picked up most of the divine relics. Otherwise, they would not have been so generous as to open it to the Six Kingdoms of God.”
 
-Hua Caili nodded vigorously.
-“Exactly, exactly. I still don’t understand why that awful Shen Wuyi asked for such a weird reward.”
+Hua Caili nodded in agreement. “Exactly. Speaking of, I wonder why that wretched Shenwu Yi requested such a peculiar reward?”
 
-As she said that, she suddenly remembered—
-It seemed the Abyss Emperor still owed her a favor.
+It was at this moment that she recalled that… the Abyssal Monarch still owed her a favor.
 
-Yun Che flicked his hand, and the shattered Void-Breaking Divine Jade he had discarded earlier flew back into his fingers.
+Yun Che made a grabbing motion, and the Void Breaching Divine Jade he tossed away earlier returned to his grasp.
 
-Hua Caili’s eyes widened, and she asked without thinking:
-“Brother Yun, when you were in danger earlier, why didn’t you use the Void-Breaking Divine Jade right away? Did that Shen Wuyi sneak-attack you when you weren’t looking?”
+Hua Caili looked confused by this. She blurted out, “Why didn’t you use the Void Breaching Divine Jade to escape immediately when you were in danger earlier, Big Brother Yun? Was it because Shenwu Yi ambushed you while your guard was down?”
 
-Yun Che opened his mouth, ready to answer—
-But suddenly, something flashed through his mind, and his expression changed drastically.
+Yun Che opened his lips to answer, but something occurred to him, and he blanched suddenly. “Oh no!”
 
-“Oh no!”
+He suddenly turned around and ran into the abyssal fog.
 
-He abruptly turned around and shot back into the distant abyssal mist.
+“Huh? Big Brother Yun!!” Hua Caili let out a cry of surprise and swiftly followed behind him. Yun Che did not slow down, though. He just kept running while his aura grew increasingly irritated and anxious. 
 
-“Eh? Brother Yun!!”
-Hua Caili cried out in alarm and quickly followed after him.
+Finally, he came to a stop. The abyssal fog before them was vast and thick, suffocating. A grayish maw was lying on the ground and emitting an aura so terrible that the soul trembled just being near its presence.
 
-But Yun Che didn’t slow down at all.
-The aura around him grew increasingly tense—tinged with a deep, rising anxiety.
+“Is this… an Abyss of Death?” Standing beside Yun Che, Hua Caili exclaimed in surprise. This was the first time she saw the fabled Abyss of Death that was said to exist in the deep areas of the Endless Fog.
 
-Only after a long while did Yun Che finally stop.
+Yun Che reached toward the Abyss of Death with a palm, profound energy and soul presence surging in increasing panic and frustration.
 
-The abyssal mist ahead was so thick it felt suffocating.
-A gray, gaping maw of the abyss yawned open on the ground, exuding a terrifying aura that made the soul tremble.
+“What’s going on, Big Brother Yun?” Hua Caili asked worriedly.
 
-“This is… the Death Abyss?” Hua Caili stepped to Yun Che’s side, murmuring in astonishment. This was also the first time she had ever witnessed, with her own eyes, the legendary Death Abyss said to exist only in the deepest parts of the Mist Sea.
+Yun Che slowly clenched his palm into a fist and exhaled deeply. He said in a difficult voice, “When I was attacked by several abyssal ghosts earlier, I accidentally dropped the Cloud Glass Sword into the Abyss of Death…”
 
-Yun Che extended his hand, palm facing the chasm. His profound energy and soul aura surged continuously, gradually tinged with a hint of dread and agitation.
+“Ah?!?”
 
-“Brother Yun, what exactly happened?” Hua Caili asked anxiously.
+Hua Caili let out a cry of shock. She finally understood why he was acting so panicked.
 
-Yun Che’s fingers slowly curled inward. He let out a long breath, his voice carrying a trace of strain.
-“Earlier, when I was surrounded by several Abyssal Ghosts… the Yunli Sword slipped and fell into it.”
+“The Glass Cloud Sword is connected to me by soul aura, and yet I have completely lost contact with its presence.”
 
-“Ah!?”
+Yun Che was doing his best to keep his voice calm, but still, he couldn’t keep his disappointment from leaking. “The reason I didn’t escape immediately despite the dangerous situation I was in was that I was worried that I wouldn’t be able to retrieve the Cloud Glass Sword at a later time. But… I guess…”
 
-Hua Caili gasped, finally understanding the reason behind his panic.
+“......” Hua Caili’s lips parted as she searched for the words to comfort him, to no avail. She could only move closer to him. Anything that fell into the Abyss of Death would return to nothingness. This was stated in every record regarding the Abyss of Death.
 
-“The Yunli Sword is connected to my soul aura, but now… I can’t sense its existence at all.”
-
-Yun Che’s voice tried to remain calm, yet still leaked a grief he could no longer suppress.
-“Even in danger, I didn’t choose to escape immediately because I was afraid I’d never recover the Yunli Sword. But… it seems…”
-
-“…”
-Hua Caili parted her lips, unsure how to comfort him. All she could do was lean closer against him.
-Once something fell into the Death Abyss, it returned to nothingness—this truth accompanied every record ever written about it.
-
-Yun Che exhaled softly, withdrew his hand, and then forced a relieved smile, instead consoling her:
-“Since it’s come to this… it’s fine. Master always said: gaining is fortune, losing is fate. He definitely won’t blame me.”
+Yun Che exhaled one last time before withdrawing his palm. Then, he smiled like he was letting go and even turned around to console Hua Caili instead, “There’s no helping it… It’s fine. Master always said that to gain something is fortune, and to lose something is fate. I’m sure he won’t blame me for this.”
 
 “Mm!”
 
-“…Let’s go.”
+“...... Let us leave then.”
 
-The two Voidshatter Jades shattered at the same time, taking Yun Che and Hua Caili out of the Divine Slumber Forbidden Domain.
-At the instant their figures vanished, in the ever-silent Death Abyss, it was as if an ancient demonic chant echoed faintly… then disappeared into the dim abyssal mist.
+A pair of Void Breaching Divine Jades shattered, taking Yun Che and Hua Caili away from the Forbidden Zone of Slumbering Gods.
 
-“That is our homeland—not their Eternal Pure Land!!”
+The instant they disappeared, an ancient, demonic groan rose from the soundless Abyss of Death. However, it disappeared into the gloomy abyssal fog in the next instant.
 
-“If those of the Abyss ever set foot there, every living being in our homeland will become lambs to the slaughter…”
+……
 
-“You think of yourself as cold and selfish only because your body and soul both reject this world!”
+“Our homeland is not their ‘Eternal Pure Land’. It is our Eternal Pure Land!!”
+
+“If the denizens of the Abyss set foot in our homeland, everyone shall turn into helpless lambs awaiting slaughter…”
+
+“You called yourself an utterly selfish and cold-hearted person, but I think that your self-proclaimed coldness stems from your body and soul naturally rejecting this world!”
 
 “You are Xia Qingyue…”
 
-“The Empress of the Eternal Pure Land…”
+“I am the emperor of the ‘Eternal Pure Land, and you are its empress…”
 
-“I need your help…”
+“What I need most at this moment is your aid…”
 
-“No matter what… you must… stop them…”
+“No matter what… must… stop…”
 
-“…”
+“......”
 
-Shen Wuyi jolted awake, sitting up abruptly. Intense pain swept through her entire body in an instant, but she clenched her jade teeth, not letting even the faintest whimper escape.
-The surroundings were silent; no one was nearby—only the healing formation continued its quiet operation.
+Shenwu Yi abruptly startled awake and sat bolt upright. An instant later, excruciating pain surged through her entire body. Despite this, she clenched her teeth tightly and did not allow a single whimper to leak. Her surroundings were utterly still, and no one was by her side. Only the healing profound formation hummed silently as it worked.
 
-Her five senses quickly regained clarity. She rose slowly, stepped outside, and stood upon the Pure Land, gazing into the distant sky. A cool breeze swept past, lifting her black robes; the dried blood on the hem had darkened into faint stains, like smeared crimson on an ink-wash painting—broken yet hauntingly beautiful.
-Her face was pale as frost and snow, her lips drained of color, only her long, butterfly-wing lashes casting a faint shadow across that porcelain pallor.
+Her five senses quickly regained their usual clarity as she slowly rose to her feet. She walked outside the room and stood at the Pure Land, overlooking the distant sky. A clear wind blew, and her pitch black robes swayed lightly in the wind. The bloodstains on her hem had dried into dark marks like faded crimson blooms on an ink-wash painting, lending a kind of shattered beauty. Her jade-like face was as pale as frost and snow, and her lips were drained of color. Only her long eyelashes, delicate as butterfly wings, cast faint shadows across her pallid features.
 
-A lingering trace of Abyssal corrosion still clung to her, forming a thin gray mist around her body, making her seem like a fallen star fading in the night—cold, solitary, yet trembling with a breathtaking, tragic grace. Her gaze drifted far toward the pure white horizon; the icy sharpness once housed in her eyes had melted away, leaving only a deep and silent stillness.
-The breeze rose again, brushing loose strands against her cheek, lifting the fine hairs at her brow—yet she remained oblivious, her thoughts already wandering through fragmented memories and the uncertain road ahead.
+The abyssal corruption that hadn’t yet been fully expelled formed a thin layer of gray mist around her. It made her look like a falling star of a dark night: cold, solitary, but also divinely breathtaking. Her gaze drifted toward the pure white horizon. Her eyes, once frozen with ice, had shed their indifference and sharpness, leaving behind only deep pools of stillness. 
 
-Cangfeng Liuyun… the Xia Clan’s... Qingyue… homeland… empress… Yun Che… Xiao Che…
-She stood upon the immaculate Pure Land bathed in flawless heavenly light, yet it felt as though boundless night-mist was coiling around her lonely silhouette, rendering her all the colder and more isolated beneath the vast sky.
+Another breeze swept by, ruffling the strands at her temple and teasing the delicate hair hanging in front of her forehead. She paid it no attention. Her thoughts had long drifted toward the fleeting past and the unknown future.
 
-It’s true… everything he said… all of it is true…
-Her eyes closed slowly. In the sea of her soul, what surfaced was once again that gaze—thick with tenderness and unwavering resolve. Her fingers tightened softly… and in her palms, she could still feel the fading warmth of that blood-stained sleeve.
+Blue Wind Empire, Floating Cloud City… Qingyue of Xia… homeland… empress… Yun Che… Xiao Che… 
 
-Her body and soul had always rejected this world in silent instinct.
-But that man—he was the one her senses and soul were now reaching toward, drawn to, compelled by…
+She was obviously standing in the untainted Pure Land and basking in flawless heavenly light, and yet it felt like an endless night fog was enveloping her and making her look even lonelier and colder than she already was.
 
-Her eyes opened, rippling with a fragile, breathtaking shimmer—yet within her soul sea, his voice echoed still:
+It’s real… everything he said… is real…
 
-“I am probably the most afraid of death in this world. Because if I die… if one day you regain your memories, the pain would break you. And if I die, my homeland—our homeland—will be forever swallowed by an irreparable, unstoppable abyss.”
+She slowly closed her eyes, and the first thing that came to her soul sea was those eyes filled with insoluble love and resolve. When she slowly clenched her fists… she actually felt as if she could feel the lingering warmth of that blood-drenched sleeve.
 
-Her hand moved to her chest on its own, feeling her wildly unsteady heartbeat. Even the heavy darkness she had long carried seemed to be rapidly scattered by that voice.
+From start to finish, her body and soul were silently rejecting the world she was in. However, that man was drawing not just her senses, but her heart and soul toward him…
 
-“And I—just a mere Divine Master—must, within only forty-odd years, stop the next opening of the Void-Breaking Array… For that, I must use any means necessary!”
+Her eyes opened once more, exquisite beauty rippling in those wonderful orbs. However, the man’s voice continued to echo within the depths of her soul:
 
-Forty years…
-It must be stopped…
+“I am probably the most death-fearing person in this world, for if I were to die… should you ever regain your memories, your heart would be torn apart. My homeland… our homeland… would forever plunge into an unpredictable, irresistible abyss of calamity as well.”
 
-When the path ahead is shrouded in confusion, then listen to the voice of the heart—
-For it is the clearest, most flawless guiding light…
+She subconsciously pressed a hand to her chest. She could tell that her heartbeat was completely out of control. Even the thick gloominess that usually shrouded her heart was swiftly being dispelled by his voice.
 
-She suddenly turned. When her gaze fixed forward again, it had returned to that fathomless, icy depth.
+“But I, a mere Divine Master, must prevent the next activation of the Void Breaching Great Formation in less than fifty years, regardless… This is why I had no choice but to resort to any means necessary!”
 
-Since that is the case… the final page of the Secret Canon must be unveiled ahead of time…
-Then… Shen Wuyanye—!
-I permit you… to repay your debt… early.
+Less than fifty years… must stop…
 
-——
+If the road ahead could not be seen, then listen to the heart’s voice, for it was the most exquisite, truthful, and flawless guidance of the profound.
 
-As soon as Yun Che and Hua Caili stepped out of the Void-Breaking Array, Meng Jianxi approached immediately. After carefully examining Yun Che, he let out a quiet sigh of relief.
-“It seems you encountered quite the fierce battle, but thankfully you’re unharmed.”
+……
 
-Yun Che blinked, briefly surprised, then quickly understood. He gave Meng Jianxi a faint smile—everything clear without needing to be said.
+Suddenly, Shenwu Yi turned around. When her gaze regained its focus, they had regained their usual depth and iciness.
 
-Hua Caili, however, immediately spotted Dugu Zhuyuan waiting nearby and exclaimed in surprise:
-“Uncle Dugu? Weren’t you supposed to be fighting with Aunt on the Primordial Upper Heaven? The shortest battle you two ever had still lasted three days. This time… don’t tell me it’s already over??”
+Since that is the case… the final page of the “Secret Tome” must be revealed ahead of schedule… then…
 
-Dugu Zhuyuan suddenly released a sigh filled with obscure meaning, his expression layered with complexity.
+Shenwu Yanye! I permit you… to repay your debt… sooner… than… expected!
 
-His reaction caused even Yun Che to become interested, and he spoke casually, as though offhand:
-“Don’t tell me Aunt… that Sword Immortal senior… was delayed by something?”
+……
 
-Dugu Zhuyuan looked at them, hesitated for a moment, and finally said:
-“This time… is my final battle with the Sword Immortal. After this, there will be no more battles.”
+Yun Che and Hua Caili had just stepped out of the Void Breaching Great Formation when Meng Jianxi rushed over and examined him carefully. A while later, he hid a sigh of relief and said, “It looks like you encountered some fierce battles. I’m glad to see that you’re fine.”
 
-“Eh?”
-Hua Caili stared in confusion. “Why?”
+Yun Che was a little caught off guard by this. Then, he realized something and smiled at Meng Jianxi. Nothing else needed to be said.
 
-But Dugu Zhuyuan only shook his head, offering no explanation:
-“the divine son Yuan is injured. Go and rest for now.”
+At that moment, Hua Caili noticed Dugu Zhuyuan was there as well. She exclaimed in surprise, “Uncle Dugu? Shouldn’t you be battling against Aunt in the Heaven Above Abyss? Even your shortest battle lasted three days, but this time… it couldn’t be over already, could it??”
 
-Though filled with questions, Hua Caili didn’t press further and left with Yun Che.
+Dugu Zhuyuan suddenly let out an enigmatic sigh. His gaze looked immeasurably complicated as well.
 
-Only after they were far away did Dugu Zhuyuan release a long, drawn-out sigh. His voice drifted from his lips in a dazed whisper:
+His reaction caught Yun Che’s attention, and he asked casually, “Is aunt… senior Sword Fairy perhaps delayed by something?”
 
-“So that is why she bears the name ‘Sword Immortal.’
-Not because she can only be a Sword Immortal…
-but because she is willing to be nothing except the Sword Immortal.”
+Dugu Zhuyuan cast them a look and hesitated for a moment. In the end, he said, “Today’s fight is my last fight against the Sword Fairy. After this, there will be no need for further conflict.”
 
-“To forcefully suppress her worldly desires… all for Caili.
-In this lifetime, I am destined never to compare… never to reach her.”
+“Huh?”
 
-updated and recorrected by ~Léo
+Hua Caili looked completely confused. “But why?”
+
+Dugu Zhuyuan shook his head and refused to clarify. “I see that you are injured, Divine Son Yuan. You should head back and rest.”
+
+Although Hua Caili was overflowing with puzzlement, she ultimately did not press him for an answer. She left together with Yun Che.
+
+After they were gone, Dugu Zhuyuan finally let out a long sigh and mumbled somewhat dazedly, “It is only now I know that I learn that the reason she is the Sword Fairy… isn’t because she can only be the Sword Fairy. It is because… she doesn’t want to be anything else but the Sword Fairy.”
+
+“The only reason she forced herself to remain mortal is for Caili… I will never be able to measure up to her or reach her for as long as I live.”
+

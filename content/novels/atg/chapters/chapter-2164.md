@@ -1,242 +1,187 @@
 ---
 chapterNumber: 2164
-title: ""
+title: "The Innocence Back Then"
 publishedAt: "2025-12-07"
 ---
 
 
-Yun Che collapsed to the ground, his entire body smeared with blood like splashed ink. Crimson stains spread across the dim abyssal rocks, shocking to behold. Shen Wuyi stood before him, the Relentless Sword’s icy gleam pointed straight at his throat, its tip barely a hair’s breadth from his skin. Anyone who saw this scene would instantly assume that Shen Wuyi had gravely wounded Yun Che and now intended to take his life.
+Yun Che was slumped on the ground and covered in so much blood that it looked like someone had spilled ink all over a piece of paper. The crimson stains spreading across the gray abyssal stones were spine-chilling enough, but Shenwu Yi was also standing in front of him and pointing the Heartless Sword at him, the sword tip mere millimeters away from his throat. Anyone witnessing this would have thought that Shenwu Yi had grievously injured Yun Che and was currently in the middle of taking his life.
 
-This scene entered Hua Caili’s eyes, and every string of her soul tightened to the point of snapping. Her beautiful eyes shattered into endless stars of rage, and the Liyun Sword in her hand shot forth, carrying an at-full-burst Heaven Breaker Sword Intent aimed straight at Shen Wuyi’s most fatal point. It was the first time in her life that Hua Caili released such a decisive, killing sword — without hesitation, without holding back. In its flight, the trembling Liyun Sword let out an almost ear-piercing hum born of her extreme fear and fury.
+The moment Hua Caili saw this, every string in her soul pulled taut to the point of snapping, and her beautiful eyes shattered into countless lights of fury. The next moment, the Glass Cloud Sword exploded with the maximum amount of Heaven Breaker Sword Intent and shot straight toward Shenwu Yi’s most vulnerable spot.
 
-The sword light, shining with tragic brilliance, cut through the gray world like dawn breaking, and in an instant it was already behind Shen Wuyi… Yet Shen Wuyi seemed completely unaware — her body unmoving, her Exquisite Realm and Glazed Glass Ice not manifesting, and not even the slightest hint of energy released.
+This was the first time in her life that Hua Caili had unleashed a killing blow with such total resolve, without any hesitation or reservation whatsoever. Such was her terror and fury that the flying Glass Cloud Sword emitted a shrill, almost piercing vibration.
 
-Chi— the sword pierced through her heart, passing through her body before even a spray of blood could appear. Yun Che’s pupils shrank at once. What the Liyun Sword pierced was not Shen Wuyi’s projection, but her actual body — undefended. At the moment it pierced her heart, the e Heaven Breaker Sword Intent exploded within her mercilessly, devastating her organs in an instant and shattering countless meridians. Yun Che had already sensed Hua Caili’s approach.
+The blindingly fierce sword beam cleaved the gloomy world in two like the first light of dawn, reaching Shenwu Yi’s back in just an instant… but Shenwu Yi did not move, did not summon the Profound Exquisite World or the Glazed Glass Ice, did not even emit a wisp of profound energy as if she didn’t sense the attack at all.
 
-With Shen Wuyi’s cultivation at the sixth level of the Divine Annihilation Realm — far beyond the norm — and with her spiritual sense unaffected by the Abyssal Dust, she undoubtedly sensed it long before. But… why did she neither dodge nor defend?
+Shred—
 
-Severely wounded, her blood and energy surged chaotically; Shen Wuyi’s face turned deathly pale, and blood poured uncontrollably from her lips. Yet her expression remained as cold and indifferent as before — showing no pain, no surprise.
+The sword pierced through her heart and shot out of her chest. Such was its speed that the blood hadn’t spilled out yet. Yun Che’s pupils contracted instantly.
 
-After piercing through her, the Liyun Sword did not lose momentum. Just before touching Yun Che, it suddenly curved upward, tracing a beautiful sunset-like arc in the gray space before flying into the young woman’s jade-like fingers.
+It wasn’t an afterimage that the Glass Cloud Sword had pierced. It was her completely defenseless body. Not only that, during the instant the sword was passing through her body, the Heaven Breaker Sword Intent had erupted mercilessly and grievously injured her internal organs. Her meridians, especially, shattered into countless pieces.
 
-Hua Caili’s figure had already appeared in front of Yun Che. Her overflowing fury, in sword and energy, forced Shen Wuyi far back. She pointed her sword at Shen Wuyi, her voice trembling and hoarse:
-“Shen Wuyi… you… how dare you…!”
+In fact, Yun Che sensed Hua Caili’s approach a long time ago. This should be true for Shenwu Yi as well, as she was an extraordinary, level-six Divine Extinction Realm practitioner whose spiritual perception was not suppressed by abyssal dust. So… why didn’t she choose to evade or block the attack?
 
-Protected behind her, Yun Che could only barely see her profile — divine robes dust-stained, long hair slightly disheveled, the corners of her eyes dyed with a fiery, raging red. It was not her usual shy blush, but the scarlet hue born from searing wrath. The sword aura, once full of spiritual elegance, seemed to have been ignited entirely, turning into fine glimmering sword marks swirling around her. Even the strands of hair by her temples rose violently with the agitation of her power.
+Her body was pierced, her internal organs suffered immense damage, and her energies and blood were flowing in reverse. Shenwu Yi’s complexion instantly turned deathly white, and an enormous amount of blood spilled out of her lips uncontrollably. However, her expression remained as cold and indifferent as ever. Forget pain, he couldn’t spot even a speck of surprise on her face.
 
-Even Hua Fuchen and Hua Qingying — who had watched Hua Caili grow up her entire life — had never seen her look so frightening.
+The Glass Cloud Sword did not slow down even after it emerged from Shenwu Yi’s body. Just before it would make contact with Yun Che, it curved upward and traced a gorgeous red arc across the grayish space. Then, it flew back to the young woman’s jade-like fingers.
 
-But even in such overwhelming rage, she still did not lose control. She held her sword in one hand, while the other was placed behind her, tightly connected to Yun Che’s aura. In fact, more than half of her profound energy was gathered in the palm behind her. In her eyes, reflecting the figure of Shen Wuyi, there shone a bone-piercing coldness she had never shown in her life. The jade sword in her hand hummed and trembled, its radiant sword light nearly blinding. Even knowing she was no match for the opponent, she still released a resolve that would burn both jade and stone without the slightest retreat.
+At the same time, Hua Caili appeared in front of Yun Che and pushed Shenwu Yi far, far away with sword intent and profound energy that were brimming with fury. She pointed her sword straight at Shenwu Yi while saying in a hoarse, trembling voice, “Shenwu Yi… you… you dare…”
 
-Shen Wuyi did not speak. She rose into the air and flew far away. At the moment her figure fully disappeared into the gray mist, her eyes turned, deeply locking onto Yun Che for a brief instant… and also touched Yun Che’s gaze, which had been firmly following her, filled with too many emotions and thoughts. Somehow, in that single instant of eye contact, she actually understood the deeper meaning hidden in his eyes.
+Yun Che could barely catch her side profile because she was shielding Yun Che. Her divine robes were stained with dust, and her long hair slightly disheveled. The corners of her eyes blazed with vivid crimson—not the delicate blush of her usual timidity, but the fiery hue of burning anger. The sword energy, once imbued with boundless inspiration, seemed consumed entirely by the inferno of fury and transformed into a fragmented, swirling cyclone of sword scars that surrounded her whole person. Even the strands of hair that usually hung beside her temples were standing on end, whipping wildly in the turbulent currents of her profound energy.
 
-Hua Caili’s body remained tense. Only after Shen Wuyi’s presence completely vanished from her senses did she seem to awaken from a nightmare, and the sword aura trembling around her collapsed in an instant.
+Not even Hua Fuchen and Hua Qingying, both adults who watched Hua Caili grow up in their whole lives, had seen such a terrifying look from her before.
 
-Clang!
+Despite her all-consuming rage, Hua Caili did not lose control and tried to finish the job. She was wielding her sword with one hand and resting the other behind her back, forming a firm connection with Yun Che. In fact, most of her profound energy was concentrated around that hand.
 
-The most precious Liyun Sword slipped from her powerless fingers. She spun around sharply and dropped to her knees in front of Yun Che, her trembling voice hoarse:
-“Brother Yun… are you… are you alright…? Where are you hurt…?”
+Her eyes reflected Shenwu Yi’s silhouette with an unprecedented chill. The jade sword in her hand was vibrating audibly and shining so brightly it was almost dazzling, even though she knew she was no match for Shenwu Yi; her aura overflowed with the ruthless resolve to fight until the last drop of her blood.
 
-Her previous fury and killing intent scattered without a trace, leaving only fear so intense it drained all color from her snowy face. In just that short sentence, her eyes were already filled with a shimmering mist of tears.
+Shenwu Yi did not say anything. She simply soared into the air and vanished into the distance. Before her silhouette completely disappeared behind the gray fog, Shenwu Yi turned and fixed Yun Che with a deep, lingering look. Their eyes met. His gaze had been following her every move while brimming with emotion and longing this whole time. Strangely, the moment their eyes met, she understood the profound meaning hidden in his gaze.
 
-“Don’t worry, I’m fine.”
-Yun Che’s lips curved into a faint smile, and at the same time, the light profound energy glowed warmly, soothing his injuries and calming the girl’s completely panicked soul.
+Hua Caili remained tense even after Shenwu Yi was gone. It wasn’t until the woman’s presence had disappeared entirely from her senses that she finally snapped out of her trance, like awakening from a nightmare. The trembling sword qi around her crumbled instantly.
 
-Feeling the still-full profound energy and the life force within Yun Che’s body, Hua Caili finally let out a long breath. She grasped the corner of his clothing, briefly overwhelmed by exhaustion after the intense shock.
+Thang!
 
-Only then did she notice that the wounds on Yun Che’s body were clearly inflicted by Abyssal Ghosts or Abyssal Beasts. The wounds still leaked the unique gray mist of abyssal corrosion — they were definitely not caused by the Merciless Sword or the God-Purifying Seal.
-But she had clearly seen Shen Wuyi’s sword pointed at Yun Che’s throat. Had she arrived even a moment later, the consequences would have been unimaginable.
+The Glass Cloud Sword she cherished the most fell through her fingers and hit the ground with a clang. She abruptly turned around and dropped to her knees in front of Yun Che. She asked in a trembling voice, “Big Brother Yun, are… are you okay… where are you hurt?”
 
-“Shen Wuyi… why did she want to kill you?”
-Hua Caili asked softly, staying alert to their surroundings.
+The brimming fury and killing intent from earlier disappeared completely, leaving behind only terror that stole all the blood from her already snow white complexion. The one line was enough to make her eyes mist with moisture.
 
-Shen Wuyi’s figure had already been etched with a mark of resentment in her heart.
-Now that she had calmed a little, confusion also surfaced… Why didn’t Shen Wuyi dodge? And with her level of cultivation, even without using that strange profound ice, the Liyun Sword shouldn’t have been able to pierce through her so easily…
+“Don’t worry. I’m fine.”
 
-Yun Che held her hand and said calmly:
-“I have no enmity with Shen Wuyi. If she acted like that, it can only be because of Wu Ming God Emperor.”
+The corners of Yun Che’s lips curled into a small smile. It was at this moment that his light profound energy glowed warmly, both stabilizing his wounds and soothing the young woman’s panicking heart. Sensing Yun Che’s somewhat plentiful profound energy and life aura, Hua Caili finally let out a long, long sigh of relief. She clutched the hem of Yun Che’s shirt and looked overcome by a temporary wave of exhaustion in the aftermath of the terrifying ordeal.
+
+It was only now that Hua Caili noticed that an abyssal ghost or abyssal beast clearly inflicted Yun Che’s injuries. In fact, his wounds were still seeping with the grayish fog unique to abyssal corruption. They definitely weren’t inflicted by the Heartless Sword or the Purify God Seal.
+
+That said, she saw it as clear as day that Shenwu Yi was pointing her sword at Yun Che’s throat. She could not bear to think of the consequences if she arrived even a bit later.
+
+“Shenwu Yi… why did she try to kill you?” Hua Caili asked softly, eyes on their surroundings. At the same time, she branded Shenwu Yi with a mark of hatred inside her heart.
+
+Now that she had calmed down a little, she found herself asking questions that she hadn’t noticed earlier: Why didn’t she dodge my attack earlier? With her cultivation, the Glass Cloud Sword should not have pierced her heart so easily, even if she didn’t use that strange, profound ice of hers…
+
+Yun Che grabbed her hand and said evenly, “Shenwu Yi and I share no grievances. If I have to guess why she’s doing this, I could only think of the Lightless Divine Regent.”
 
 “Ah!?”
 
-Hearing a matter involving a national God Emperor, Hua Caili instinctively tightened her small hand.
-“How could this be… why?”
+Hua Caili subconsciously tightened her grip at the mention of the Divine Regent. “No way… why did she command this?”
 
 “Heh…”
 
-Yun Che let out a light laugh.
-“The Wuming God Emperor’s actions—how could they ever follow common logic? You must have heard about her past. I guess that when she saw me endure double the Abyssal Devouring punishment alone atop Eden Cloud Peak, she was provoked. She couldn’t accept that a man in this world could go that far for a woman, so she developed the intent to kill… cough, cough.”
+Yun Che let out a light chuckle. “The Lightless Divine Regent does not speak or act based on ordinary logic. You must have heard of her past. I suspect that my enduring double the punishment of devouring rage must have triggered her somehow. She is unwilling to admit that any man would go to such lengths for a woman, and so feels compelled to wipe out the anomaly that proves her wrong… cough. Cough.”
 
-Hua Caili hurriedly reached out to lightly touch his chest, her eyes filled with heartache. She then said angrily:
-“She herself just met the wrong person, and was hurt by that man called… I think it was Shen Wuxueyan. And because of that, she wants to deny everyone else? That’s truly awful! No wonder even Father God says she’s an unreasonable lunatic.”
+Hua Caili hurriedly touched his chest lightly. Eyes filled with hurt, she said angrily, “Yes, she was unfortunate enough to meet the wrong man… I think he was called Shenwu Xueyan? And receive unrecoverable scars from him, but how does it make sense to reject everyone else over one man’s sin? How utterly despicable! No wonder even Father called her an unreasonable madwoman.”
 
-“Brother Yun, let’s leave here first. I’m afraid that if… Shen Wuyi comes back again…”
+“Anyway, let’s leave and talk later, Big Brother Yun. It’s a small chance, but I don’t want to risk Shenwu Yi turning back and attempting another assassination.”
 
-“Don’t worry.”
+“No worries.”
 
-Yun Che showed no sign of concern.
-“When we ran into each other, she had clearly just gone through a fierce battle. Her profound energy was extremely unstable, and then she was pierced through the heart by your sword. Her injuries must be far worse than mine. She’s barely able to take care of herself—there’s no way she still has the strength to come kill me.”
+Yun Che looked completely unworried. “She had clearly fought a great fight when I first ran into her. I could tell from how erratic her profound energy was. Later, you pierced her heart. Her injuries must be a lot worse than mine. She can hardly take care of herself, much less spare the energy to kill me again.”
 
-“And besides, going out like this would truly be… far too disgraceful.”
+“Besides, leaving like this… would be too ugly.”
 
-“I see… so that’s how it is…”
+“I… see…”
 
-Hearing that, Hua Caili murmured softly, seeming somewhat enlightened.
+Hua Caili whispered a look of realization on her face.
 
-But with Yun Che in front of her, how could she distract herself by thinking too deeply?
-“Alright, focus on healing first. Once we get out, we must immediately tell Father God and Uncle Meng.”
+She might have found holes in Yun Che’s reply if she really thought about it, but of course, she put it out of her mind and prioritized his well-being. “Okay. Focus on recuperating for now. When we’re out, we will inform Father and Uncle Meng about this immediately.”
 
-“Mm.”
+“Mm.” Yun Che gave an affirmative reply. “But please persuade your Father not to get angry after you inform him about this. The Lightless Divine Regent’s anger is impulsive, and I believe that it will fade very soon. Unless absolutely necessary, there is no reason to clash head-on against a madwoman… not to mention that all of my injuries really came from the abyssal ghosts, and Shenwu Yi never really got the time to kill me or injure me.”
 
-Yun Che replied softly:
-“But after telling your father, you should also persuade him not to get angry. The Wuming God Emperor was acting out of momentary rage, and it will soon fade. Unless there is absolutely no other choice, one should not confront a madwoman head-on… Besides, all my injuries were caused by Abyssal Ghosts. Shen Wuyi didn’t even have time to attack me.”
+Hua Caili mulled over this for a moment but ultimately agreed to his request. “Fine. You’re such a good person, Big Brother Yun. Despite encountering such a horrible ambush, you are still worried about Father and Uncle Meng.”
 
-Hua Caili thought for a moment, then finally agreed obediently:
-“I understand. Brother Yun, you’re always so kind. Even though you were almost hit by such a terrifying scheme, you’re still thinking about Father God and the others.”
+Yun Che watched her silently for a moment before pulling her onto his chest.
 
-Yun Che silently looked at her, then suddenly tightened his grip and pulled her into his chest.
+“Ah!”Hua Caili let out a soft cry of surprise, but she didn’t dare to struggle even a little because she was worried about his wounds. She obediently nestled against Yun Che and allowed his blood to stain her pure white robes, her nose filled with the faint stench of blood and his uniquely crisp, cool scent.
 
-“Ah…”
-Hua Caili let out a soft cry. Worried about his injuries, she didn’t dare struggle even a little. She simply leaned obediently against him, allowing his blood to dye her pure white divine robe. A faint scent of blood and his unique, cool breath lingered at her nose.
+“Caili,” His half-serious, half-teasing murmurs entered the young woman’s ears. “If one day I hurt you like Shenwu Xueyan hurt Shenwu Yanye, do you think you would turn into another her?”
 
-“Caili,”
+“Pff!”
 
-Beside the girl’s ear came his soft whisper—half serious, half teasing:
-“If one day, I were to do something like what Shen Wuxueyan did to her… would you become another Shen Wuyanye?”
+Hua Caili burst out laughing, giggling so hard she shook a little. Resting her head against Yun Che’s chest and hearing his slightly erratic heartbeat, she carefully went through all the rumors regarding Shenwu Yanye before answering quietly, “In this world, only I know just how good Big Brother Yun is. So if one day you fell in love with another woman like Shenwu Yanye and even married her as your consort, that only means that I wasn’t good enough. At least, I wasn’t better than the woman you chose. Otherwise, you would not have set your gaze and heart on another.”
 
-“Pft!”
+Yun Che: “......”
 
-Hua Caili instantly burst into laughter, her delicate body trembling lightly.
-She gently rested her pretty forehead against Yun Che’s chest, listening to the slightly unsteady rhythm of his heartbeat. After seriously thinking through the things rumored about what Shen Wuxueyan had done, she finally said softly:
+“There’s no way I would turn into a terrifying woman like Shenwu Yanye. If I did, you’d definitely lose interest in me completely. I will… change the bad parts about me and keep you busy all day and night so that you won’t have any time to bother another woman, hehe.”
 
-“In this world, only I know how good Brother Yun truly is. So, if one day you end up liking another woman the way Shen Wuxueyan did, and even marry her as your Divine Consort… that would only mean one thing: that I didn’t do well enough. At the very least, I wasn’t as good as that woman, which is why Brother Yun’s eyes and heart shifted to someone else.”
+Yun Che looked up and stared at the gloomy sky. He asked another question, “If I did something that’s a hundred times worse than Shenwu Xueyan’s deeds… will you hate me then?”
 
-Yun Che: “…”
+Hua Caili’s reply came way sooner and more direct than he anticipated.
 
-“I would never become someone as frightening as Shen Wuyanye. Otherwise, Brother Yun would definitely stop liking me completely. I would… I would fix my flaws, and then cling to you every single day, so you’d never have time to pay attention to anyone else. Heehee.”
+“Of—course—not! I told you. As long as it’s you, I’ll forgive you no matter what you did.”
 
-Yun Che lifted his head, looking at the dim sky above, and said:
+She lifted her head and suddenly squeezed Yun Che’s lips with her hands, giggling. “No one knows better than me how well you treat me. As for the bad stuff… the worst stuff you ever did to me is… is…”
 
-“Then… if I were to do something a hundred times worse than what Shen Wuxueyan did, would you hate me?”
+Her voice grew softer and softer, her beautiful eyes shifted away in embarrassment, and her cheeks blushed a faint pink. “I know! You must have come up with more weird stuff in the past three years… and now that Father and aunt aren’t around, you wanna… how can you think of bullying me even when you’re injured so badly…”
 
-Hua Caili’s answer came faster and more direct than Yun Che expected.
+“Er… I never said that. You’re the one who…”
 
-“Of… course… not! I told you already—so long as it’s Brother Yun, no matter what you do, I will forgive you.”
+“Don’t say it!!”
 
-She raised her head, suddenly reached out, and pinched both sides of Yun Che’s lips, smiling sweetly:
+She put a bit more strength into her hand and squeezed Yun Che’s lips shut, preventing him from finishing his sentence.
 
-“Brother Yun’s kindness to me—I know it better than anyone. As for Brother Yun’s badness… the most excessive thing you could do to me would just be… would just be…”
+Oh, how innocent she was back then, treating honesty as banter.
 
-Her voice gradually softened, her beautiful eyes shyly turning away, her cheeks tinting with a faint blush:
+……
 
-“I get it! It must be that during these three years, you thought of more strange things again… and since Father God and Aunt aren’t here… you’re taking advantage of being so injured and still thinking of bullying me…”
+At the edge of the Pure Land, the Void Breaching Great Formation suddenly flashed gray. The next moment, a woman slowly stepped out while dragging a stunning trail of blood beneath her feet.
 
-“Uh… you were the one who—”
+It had not even been forty-eight hours since they entered the Forbidden Zone of Slumbering Gods[1]. Pan Buzhuo had appeared during the twelfth hour, screaming that there was only abyssal dust and danger in the Forbidden Zone of Slumbering Gods and not a speck of divine relic or opportunities whatsoever. He even insulted the Eternal Night Divine Daughter in a veiled manner, calling her stupid and ignorant to waste a vast chance on nothing at all.
 
-“No! Saying that is not allowed!!”
+The second person to leave the Forbidden Zone of Slumbering Gods was none other than the woman who caused its opening, Shenwu Yi. However, her injuries were so terrible that everyone who saw them could not help but gasp in horror.
 
-She applied a little force, pulling Yun Che’s lips into a flat line, stopping the words he was about to say.
+“Wuyi!!” Shenwu Youluan had been standing guard this whole time. When she saw Shenwu Yi’s state, she hurriedly rushed forward and caught the severely injured and exhausted Shenwu Yi in her arms.
 
-In the past, with her childlike innocence, she would never notice anything, taking all straightforward words as jokes.
+Sensing the familiar warmth and scent, Shenwu Yi finally allowed herself to relax and fall limply in her embrace. However, she stubbornly refused to fall unconscious and said weakly, “Aunt… take me… to Mother…”
 
-————
+“I will… Just focus on calming your heart and breathing, and stop talking.”
 
-At the edge of the Pure Land, the Void-Breaking Array suddenly shone with a flash of gray light.
-A woman’s figure slowly stepped out, dragging behind her a trail of shocking blood.
+Shenwu Youluan’s voice trembled with distress. Still holding Shenwu Yi, she threw a new set of black robes around the woman… and covered up the wound at her solar plexus. She had recognized immediately that the Heaven Breaker Sword Intent inflicted the sword wound.
 
-At this time, less than twenty-four hours had passed since they had entered the God-Slumber Forbidden Region.
+The Pure Land, the square courtyard where the Eternal Night Kingdom of God resided, within the isolation barrier created by the Lightless Divine Regent.
 
-Pan Buzhuo had already escaped during the sixth hour, shouting that inside there was nothing but Abyssal Dust and danger, with no so-called divine inheritance to be found—mocking that the Eternal Night Goddess was ignorant and foolish, wasting such an enormous opportunity.
+Shenwu Yi’s face was completely drained of color at this point. Her body was covered in the claw marks of abyssal ghosts, and some of them were near fatal. However, the most horrifying wound was undoubtedly the sword wound across her solar plexus. Even now, the terrible Heaven Breaker Sword Intent lingered within the wound. In her current state, Shenwu Yi was simply incapable of removing it by herself. She would have perished had she returned even just an hour later.
 
-And now, the second to exit… was none other than Shen Wuyi—the very person responsible for this opening of the God-Slumber Forbidden Region.
+Shenwu Youluan dispelled the Heaven Breaker Sword Intent entrenched inside Shenwu Yi’s body very, very carefully. Although Shenwu Yi was injured so severely that she couldn’t even stand, it did not exempt her from Shenwu Yanye’s terrible wrath.
 
-But the severity of her injuries made everyone who saw her draw a sharp breath.
+“You’re saying that, not only did you fail to kill Yun Che, but you were discovered by the Heaven Breaker Divine Daughter and injured to this extent?”
 
-“Wuyi!!”
-Shen Wuyouluan, who had been guarding the area the whole time, cried out in shock. She rushed forward and caught Shen Wuyi, who was clearly gravely injured and on the verge of collapse.
+Every shrill, wrathful word that spilled out of Shenwu Yanye’s wrath caused all the surrounding women of Eternal Night to bow their heads deeply. They were so scared that they didn’t even dare to face her voice.
 
-As the familiar warmth approached, Shen Wuyi—who had been forcefully holding herself together for so long—finally loosened her taut heartstrings and collapsed weakly into Shen Wuyouluan’s arms. Yet she stubbornly refused to let herself fall unconscious. In a frail voice, she murmured:
+“Mother…”
 
-“Aunt… take me… to see Mother Goddess…”
+Her voice was barely a whisper, and yet she summoned every ounce of willpower to stay conscious, “The Forbidden Zone… is teeming with abyssal ghosts… Wuyi fought for a long time… when I accidentally encountered Yun Che… I was already gravely wounded and exhausted…”
 
-“Alright… calm your breath, don’t speak anymore.”
-Shen Wuyouluan’s voice trembled slightly from heartache. She cradled Shen Wuyi and draped a fresh black robe over her… concealing the wound at her chest. With a single glance, she recognized it as a sword wound left by the e Heaven Breaker Sword Intent.
+“When I attacked… my injuries… my head was murky… the abyssal dust binds my soul… failed to notice the Heaven Breaker Divine Daughter in time… cough… cough cough…”
 
-Pure Land — within the barrier forged personally by the Wu Ming Divine Sovereign, the domain of the Eternal Night Divine Nation.
+“Wuyi! Wuyi… enough! You don’t have to speak any longer!”
 
-Shen Wuyi’s face was completely drained of color. Her entire body was covered in the claw marks of Abyssal Ghosts—several of them dangerously close to fatal. But the most horrifying of all was the sword wound at her chest. The terrifying e Heaven Breaker Sword Intent still lingered inside, not yet dissipated. In her current condition, she had no ability to expel it. Had she been found even half an hour later, she would undoubtedly have died.
+Shenwu Youluan hurriedly pressed a hand to her solar plexus, fingers clenched so tightly they were white from the exertion. She faced toward the pitch black palanquin and begged, “Supreme one, if Wuyi wasn’t already severely injured, there is no way the Heaven Breaker Divine Daughter could have hurt her, considering her cultivation and her Profound Exquisite Worlds. Even if Wuyi was gravely mistaken, at least… at least let her rest before receiving her punishment. She truly can’t endure your wrath in her current state, supreme one.”
 
-Shen Wuyouluan carefully dispersed the remnants of the e Heaven Breaker Sword Intent from her body. Shen Wuyi could no longer stand, yet still had to face Shen Wuyanye’s terrifying wrath.
+Shenwu Youluan’s begging earned not an ounce of pity from Shenwu Yanye, however. The response that erupted from the palanquin was so cold it could rip the soul apart. “Who was the one who went against my orders and asked to enter the Forbidden Zone of Slumbering Gods against my will? Rebellious, foolish, trash! And now you dare to try to justify yourself with excuses?!”
 
-“You’re saying that not only did you fail to kill Yun Che, but you were discovered by the e Heaven Breaker Goddess, and even injured to such a miserable state by her?”
+It was at this moment that Shenwu Yi slowly raised her hand. Her movement was unbelievably weak, but her pale fingers spread open to reveal a strange, grayish abyssal crystal. It rested silently in her palm, its weak yet strange aura covering it.
 
-Shen Wuyanye’s voice was sharp enough to pierce the ear, each word filled with fury. All the Eternal Night maidens around them lowered their heads deeply, not even daring to meet the sound of her voice.
+“I… fulfilled… my… duty…” As the voice faded away, Shenwu Yi finally could not cling to consciousness any longer and fainted. The abyssal crystal in her hand also fell together with her hand.
 
-“Re… reporting… Mother Goddess…”
-Her breath was as faint as a dying flame, yet she still summoned every shred of willpower to avoid fainting.
+Shenwu Youluan subconsciously caught the abyssal crystal and stared at it for a short while. Then, she burst out in shock, “Is this… the Abyssal Heart Vine?!?”
 
-“The Forbidden Region… countless Abyssal Ghosts… Wuyi fought for long… when I encountered Yun Che… I was already gravely wounded and exhausted…”
+“Supreme one! It’s the Abyssal Heart Vine! The Abyssal Heart Vine!!” The cold fury emanating from the palanquin abruptly froze, followed by a somewhat chaotic outburst of profound energy.
 
-“When I struck… my consciousness blurred from the injuries… and the Abyssal Dust’s soul-binding… I failed to sense the e Heaven Breaker Goddess… cough… cough cough…”
+Shenwu Mingque hurriedly stepped forward and grabbed the abyssal crystal in Shenwu Youluan’s hand. She too let out an equally agitated and surprised cry, “Nearly a full inch long and resembling withered vines. Its breath is sometimes like scorching fire or coiling thunder, and its core trembles like the heart of a mortal… it matches the description of the ‘Abyssal Heart Vine’ in the records exactly!”
 
-“Wuyi! Wuyi… don’t speak anymore!”
+“Supreme one, it’s the Abyssal Heart Vine! Wuyi truly found the Abyssal Heart Vine!”
 
-Shen Wuyouluan pressed her hand urgently against Wuyi’s chest. Her fingers turned pale from the pain in her heart. Facing the pitch-black palanquin, she pleaded:
+Whoosh!!! 
 
-“Your Excellency, if Wuyi had not been gravely injured at that moment, with her cultivation and the Linglong Profound Realm, she never would have been harmed by the e Heaven Breaker Goddess. No matter how many mistakes Wuyi may have made, at least… at least allow her to heal first. In her current state, she truly cannot withstand Your Excellency’s wrath.”
+A cold wind blew, and the Abyssal Heart Vine in Shenwu Mingque’s hand was swept into the palanquin… The shockwaves streaming from the palanquin only grew stronger after that.
 
-Shen Wuyouluan’s plea could not bring even the slightest trace of mercy from Shen Wuyanye.
-From within the palanquin came a voice filled with a soul-tearing chill:
+Shenwu Youluan collapsed to her knees and beseeched in a voice full of sorrow, “Supreme one, throughout the years, countless people have ventured into the Endless Fog and spared no effort to search for the Abyssal Heart Vine. However, no one was able to find even a trace of it.”
 
-“Acting on your own and going to that so-called Divine Slumber Forbidden Domain… defiant, foolish, useless! And you still dare try to excuse yourself with excuses!”
+“The reason Wuyi went so far as to use the Abyssal Monarch’s favor to enter the Forbidden Zone of Slumbering Gods is to grasp at straws and pray for a miracle… the fact that her wish is actually answered proves that she has been hunting abyssal ghosts relentlessly from the moment she entered the Forbidden Zone of Slumbering Gods. She must have fought without regard for her injuries, fearing that she might miss that sliver of hope if she wasted even a single breath of time.”
 
-At that moment, Shen Wuyi slowly raised her hand, the movement incomparably weak.
-As her deathly pale fingers opened, resting quietly in her palm was a strange gray Abyssal Crystal, around which lingered a faint yet peculiar aura.
+“I dare not imagine how many abyssal ghosts she must have hunted to sustain such severe injuries. Even when she was gravely wounded, she did not forget your command to kill Yun Che when she encountered him. That is why… that is why she…”
 
-“Did not… disgrace… the mission…”
-With those soft words, her consciousness finally failed her.
-She fainted in Shen Wuyouluan’s arms, and the crystal slipped powerlessly from her hand.
+“I implore the supreme one to spare Wuyi from further punishment, if only because her heart is so pure that it moved even the heavens to bestow the Abyssal Heart Vine!”
 
-Shen Wuyouluan instinctively grabbed it, stared at it briefly—then suddenly cried out in shock:
+The air froze briefly. Then, Shewu Yanye snapped in a hoarser-than-usual voice, “What are you still waiting for? Take Wuyi away for healing immediately!”
 
-“This is… the Abyssheart Vine?!?”
-
-“Your Excellency, it’s the Abyssheart Vine! It’s the Abyssheart Vine!!”
-
-The icy fury from within the palanquin abruptly froze, followed by a surge of chaotic, trembling profound energy.
-
-Shen Wumingque rushed forward, snatching the crystal from Shen Wuyouluan’s hand.
-He then let out the same excited shout:
-
-“Nearly an inch long, shaped like a withered vine… its aura sometimes like scorching fire, sometimes like coiling lightning… its core trembles like a mortal’s beating heart…
-It matches perfectly—the ‘Abyssheart Vine’ described in the secret records!”
-
-“Your Excellency, it truly is the Abyssheart Vine! Wuyi really found it!”
-
-Whoosh!!!
-
-A sudden cold wind rose, and the Abyssheart Vine in Shen Wumingque’s hand was sucked into the palanquin…
-Immediately, the aura around the palanquin trembled even more violently, continuing without end.
-
-Shen Wuyouluan dropped heavily to her knees and said sorrowfully:
-
-“Your Excellency, in order to search for the Abyssheart Vine, we have sent countless people into and out of the Mist Sea over these years, sparing no effort, yet we gained nothing.”
-
-“Wuyi used the Abyss Emperor’s granted permission to enter the Divine Slumber Forbidden Domain for that tiny sliver of hope…
-For her to actually find the Abyssheart Vine means that from the moment she entered the domain, she must have risked everything to hunt Abyssal Ghosts.
-She must have ignored all her injuries, terrified of wasting even a single breath or even a single instant of hope.”
-
-“I cannot imagine how many Abyssal Ghosts she had to hunt to end up this severely wounded.
-And even in such a state, when she encountered Yun Che, she still did not forget Your Excellency’s command.
-Only then… only then…”
-
-“I beg Your Excellency, for the sake of Wuyi’s devotion—so pure that even the heavens were moved enough to grant her the Abyssheart Vine—please do not punish her any further.”
-
-The atmosphere froze briefly.
-Then Shen Wuyanye’s voice rang out—hoarser and harsher than usual:
-
-“Why are you still here! Take Wuyi down for treatment immediately!!”
-
-“Yes!”
-As if hearing a divine decree, Shen Wuyouluan quickly picked up Shen Wuyi and hurried away with careful steps.
-
+“Yes!” Shenwu Youluan obeyed as if receiving a divine command and scooped up Shenwu Yi in a hurry. Then, she swiftly but carefully withdrew from the scene.
 
