@@ -177,7 +177,7 @@ Shen Wuyi’s lips moved slightly, a subtle expression flashing across her face:
 
 "Eh??" Yun Che was slightly startled.
 
-"That is power of a Divine Kingdom after all. If it can be used, how can it be wasted? If you can truly stir up disaster, then I also have my own way... to divert trouble to east."
+"After all, that is the power of the Divine Kingdom, if it can be utilized, how could it be wasted? If you truly can stir up calamity, then I also have my own method… to divert the disaster elsewhere."
 
 "Good!" Yun Che did not ask for details, only nodded heavily.
 

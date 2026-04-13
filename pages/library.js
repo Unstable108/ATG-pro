@@ -76,6 +76,16 @@ export default function Library({ novels }) {
                           Featured
                         </span>
                       )}
+                      {slug === "lee-gwak" && (
+                        <span className="absolute top-1.5 left-1.5 bg-green-600 text-[9px] px-1.5 py-0.5 rounded text-white font-semibold shadow">
+                          Completed
+                        </span>
+                      )}
+                      {slug === "absolute-sword-sense" && (
+                        <span className="absolute top-1.5 left-1.5 bg-green-600 text-[9px] px-1.5 py-0.5 rounded text-white font-semibold shadow">
+                          Completed
+                        </span>
+                      )}
                     </Link>
 
                     {/* Info block */}

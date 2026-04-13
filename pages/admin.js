@@ -1,4 +1,5 @@
 import { useRef, useState, useEffect } from "react";
+import { getAllChapters } from "../lib/chapters";
 
 function slugify(name) {
   return (name || "")
@@ -10,7 +11,7 @@ function slugify(name) {
     .replace(/(^\-|\-$)/g, "");
 }
 
-export default function AdminPage() {
+export default function AdminPage({ novels, latestChapterNumber }) {
   const fileInputRef = useRef(null);
   const [filename, setFilename] = useState("");
   const [chapterNumber, setChapterNumber] = useState("");
@@ -239,7 +240,7 @@ export default function AdminPage() {
           <div className="grid grid-cols-2 gap-4">
             <div>
               <label className="block text-sm font-medium">
-                Chapter Number
+                Chapter Number (Latest: {latestChapterNumber || 'N/A'})
               </label>
               <input
                 value={chapterNumber}
@@ -391,4 +392,28 @@ export default function AdminPage() {
       </div>
     </div>
   );
+}
+
+export async function getStaticProps() {
+  try {
+    const chapters = await getAllChapters('atg');
+    const latestChapter = chapters.length > 0 ? chapters[chapters.length - 1] : null;
+    
+    return {
+      props: {
+        novels: [],
+        latestChapterNumber: latestChapter?.chapterNumber || null,
+      },
+      revalidate: 3600, // Revalidate hourly
+    };
+  } catch (e) {
+    console.error('Failed to fetch latest chapter number', e);
+    return {
+      props: {
+        novels: [],
+        latestChapterNumber: null,
+      },
+      revalidate: 3600,
+    };
+  }
 }
