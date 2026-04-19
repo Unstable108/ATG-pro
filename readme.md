@@ -1,196 +1,209 @@
+﻿# Celestial Novels (Next.js)
 
-# 📚 Against The Gods  — Lightning-Fast Web Novel Reader (Next.js)
+A multi-novel web reader built with Next.js and Tailwind CSS.
 
-ATG-Pro is a **high-performance, mobile-optimized web novel reader** built using **Next.js + GitHub-based chapter storage**. It delivers a smooth, app-like reading experience with chapter navigation, bookmarks, reader customization, and lightning-fast statically generated pages.
+It serves chapter content from local Markdown files, pre-renders pages for speed, and includes reader personalization, chapter management, and feedback/admin utilities.
 
-Live Website 👉 **https://atg-pro.vercel.app/**
+## Current Highlights
 
----
+- Multi-novel library (`atg`, `lee-gwak`, `absolute-sword-sense`)
+- Dynamic novel routes: `/<novelSlug>` and `/<novelSlug>/chapters/...`
+- Backward-compatible ATG aliases:
+  - `/` -> `/atg`
+  - `/chapters` -> `/atg/chapters`
+  - `/chapters/:chapter` -> `/atg/chapters/:chapter`
+- Static generation (ISR) for novel pages and chapter pages
+- Markdown chapters with frontmatter (`chapterNumber`, `title`, `publishedAt`)
+- Reader UX features:
+  - Previous/next chapter navigation
+  - Keyboard navigation (`ArrowLeft/ArrowRight`, `J/K`)
+  - Reading progress saved in `localStorage`
+  - Continue-reading card
+  - Bookmark toggle per novel/chapter
+  - Reader controls and chapter sidebar
+  - Light/dark site theme toggle
+- Admin upload page (`/admin`) with token-protected API
+- Feedback page (`/feedback`) posting to Telegram bot API
+- Umami script integration in `_app.js`
 
-## 🚀 Key Features
+## Tech Stack
 
-### ✅ Reading Experience
-- Smooth & distraction-free chapter view
-- **Open Sans** typography for book-like readability
-- Adjustable **font size**
-- Optional **sepia reading comfort mode**
-- Auto-hide top UI while scrolling
-- Reading progress saved per chapter
-- Jump to previous/next chapter instantly
+- Next.js 13 (Pages Router)
+- React 18
+- Tailwind CSS
+- Markdown parsing: `gray-matter`, `remark`, `remark-html`
+- File upload parsing: `formidable`
 
----
+## Project Structure
 
-### ✅ Navigation & Discovery
-- Full chapter index with search support
-- Search by **chapter number**
-- Smart fallback when chapter not found
-- Mobile sidebar with scroll lock
-- Active chapter highlighting
-
----
-
-### ✅ Personalization
-- Persistent bookmarks (stored locally)
-- Remembers reading position
-- Remembers reader settings
-- Independent reading theme from system theme
-
----
-
-### ✅ Performance & Architecture
-- **Static chapter pre-rendering (SSG)**
-- Markdown-based chapter content
-- GitHub-powered content sourcing
-- Fast mobile rendering
-- Zero database requirement for reading
-
----
-
-## 🧰 Tech Stack
-
-| Layer | Technology |
-|-------|------------|
-| Framework | Next.js |
-| Styling | TailwindCSS |
-| Rendering | Static Generation (SSG) |
-| Chapter Storage | GitHub repository markdown |
-| Client Enhancements | React Hooks |
-| Deployment | Vercel |
-
----
-
-## 📦 Project Structure
-
+```text
+.
+|- components/
+|  |- TopBar.jsx
+|  |- SidebarChapters.jsx
+|  |- ReaderControls.jsx
+|  |- ChapterList.jsx
+|  `- ...
+|- content/
+|  |- novels.json
+|  `- novels/
+|     |- atg/
+|     |  |- novel.json
+|     |  `- chapters/*.md
+|     |- lee-gwak/
+|     |  |- novel.json
+|     |  `- chapters/*.md
+|     `- absolute-sword-sense/
+|        |- novel.json
+|        `- chapters/*.md
+|- lib/
+|  |- novels.js
+|  `- chapters.js
+|- pages/
+|  |- [novelSlug]/
+|  |  |- index.js
+|  |  `- chapters/
+|  |     |- index.js
+|  |     `- [chapter].js
+|  |- api/
+|  |  |- upload.js
+|  |  |- feedback.js
+|  |  |- track.js
+|  |  `- sitemap.xml.js
+|  |- library.js
+|  |- admin.js
+|  |- bookmarks.js
+|  |- feedback.js
+|  |- track.js
+|  |- robots.txt.js
+|  `- ...
+|- styles/
+`- next.config.js
 ```
 
-/pages
-├── index.js              # Landing page
-├── chapters/[slug].js    # Individual chapter reader
-└── bookmarks.js          # Saved chapters
-/lib
-└── chapters.js           # Reads chapter metadata + content
-/components
-├── TopBar.jsx
-├── SidebarChapters.jsx
-├── ReaderControls.jsx
-└── ChapterList.jsx
-/content/chapters
-└── chapter-####.md       # Markdown chapters
+## Local Development
 
-````
+1. Install dependencies
 
----
-
-## 🖥️ Running Locally
-
-### 1. Clone Repository
-```sh
-git clone https://github.com/yourusername/atg-pro.git
-cd atg-pro
-````
-
-### 2. Install Dependencies
-
-```sh
+```bash
 npm install
 ```
 
-### 3. Start Development Server
+2. Start dev server
 
-```sh
+```bash
 npm run dev
 ```
 
-### 4. Visit App
+3. Open
 
-```
-http://localhost:3000
-```
+- Main (ATG alias): `http://localhost:3000`
+- Library: `http://localhost:3000/library`
 
----
+## NPM Scripts
 
-## 📱 Mobile-First Design Highlights
+- `npm run dev` - Start development server
+- `npm run build` - Build for production
+- `npm run start` - Start production server
+- `npm run lint` - Run Next.js linting
 
-✅ full-width reading layout
-✅ wider text column to reduce eye strain
-✅ line-height tuned for readability
-✅ bottom quick reader controls
-✅ prevents page scrolling when chapter list is open
+## Content Model
 
----
+### `content/novels.json`
+Defines all available novels and their slugs.
 
-## 🔖 Bookmarks
+Example:
 
-Bookmarks are stored in browser local storage:
-
-* works offline
-* survives refresh and revisits
-* does **not** require login
-
----
-
-## 🔍 Search Behavior
-
-| User Searches   | App Behavior                       |
-| --------------- | ---------------------------------- |
-| `2000`          | Navigates to chapter-2000          |
-| `99999`         | Redirects to latest chapter        |
-| non-number text | Lists title matches (if available) |
-
----
-
-## 🌎 SEO & Social Preview
-
-* Clean metadata per chapter
-* Static pages crawlable by search engines
-* Fast indexing due to SSG
-
----
-
-## 🧪 Tested On
-
-✅ Chrome
-✅ Brave
-✅ Firefox
-✅ Safari iOS
-✅ Android Chrome
-✅ Desktop + Mobile
-
----
-
-## 🏗️ Future Enhancements
-
-* Chapter view analytics
-* History reading timeline
-* Faster chapter preload
-* Offline reading mode
-* Title full-text search
-
----
-
-## 🐍 Optional — Download Chapters via Script
-
-If you want to scrape or sync chapters locally, install:
-
-```sh
-pip install requests beautifulsoup4 lxml
+```json
+{
+  "novels": [
+    { "slug": "atg", "title": "Against The Gods", "path": "/novels/atg" }
+  ]
+}
 ```
 
+### `content/novels/<slug>/novel.json`
+Stores per-novel metadata (title, subtitle, author, cover, description, etc.).
+
+### Chapter Markdown Files
+Path: `content/novels/<slug>/chapters/*.md`
+
+Frontmatter shape:
+
+```md
+---
+chapterNumber: 2047
+title: "Chapter Title"
+publishedAt: "2026-04-19"
 ---
 
-## ⭐ Support & Contributions
+Chapter body in markdown...
+```
 
-If you like the project:
+## Environment Variables
 
-✅ Star the repository
-✅ Share with others
-✅ Suggest improvements
+Create `.env.local` and set values as needed.
 
----
+### Core
 
-## 📄 License
+- `NEXT_PUBLIC_SITE_URL`
+  - Used in SEO/canonical/meta generation and robots/sitemap references.
 
-MIT — free to modify and build upon.
+### Admin Upload API (`/api/upload`)
 
----
+Required:
+- `ADMIN_TOKEN`
 
+Optional GitHub commit mode:
+- `GITHUB_TOKEN`
+- `REPO_OWNER`
+- `REPO_NAME`
+- `REPO_BRANCH` (optional, defaults to `main`)
+
+Behavior:
+- If GitHub vars are present, upload commits markdown directly to repo.
+- Otherwise API returns generated `.md` content for manual download/save.
+
+### Feedback API (`/api/feedback`)
+
+- `TELEGRAM_TOKEN`
+- `TELEGRAM_CHAT_ID`
+
+Behavior:
+- Sends submitted feedback messages to configured Telegram chat.
+
+## Routing Overview
+
+### Public Pages
+
+- `/library` - Novel library list
+- `/[novelSlug]` - Novel home page
+- `/[novelSlug]/chapters` - Chapter listing + search/jump
+- `/[novelSlug]/chapters/[chapter]` - Reader page
+- `/bookmarks` - Local bookmark list
+- `/feedback` - Feedback form
+
+### Utility/Admin Pages
+
+- `/admin` - Upload chapter UI
+- `/track` - Analytics dashboard UI (tracking backend currently no-op)
+- `/robots.txt` - Dynamic robots response
+
+### API Routes
+
+- `POST /api/upload` - Upload/create chapter markdown (token protected)
+- `POST /api/feedback` - Submit feedback to Telegram
+- `POST /api/track` - Event endpoint (currently returns success/no-op)
+- `GET /api/sitemap.xml` - Sitemap endpoint
+
+## Caching and ISR
+
+- Novel and chapter pages use ISR (`revalidate` in page `getStaticProps`)
+- `next.config.js` sets shared cache headers (`s-maxage=3600, stale-while-revalidate`)
+- Static assets under `/_next/static/*` and `/images/*` get long-lived cache headers
+
+## Notes
+
+- This project currently uses the Next.js Pages Router.
+- Bookmarks/progress/theme preferences are stored in browser `localStorage`.
+- The README reflects the current codebase structure and behavior.
