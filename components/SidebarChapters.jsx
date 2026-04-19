@@ -97,6 +97,7 @@ export default function SidebarChapters({
               return (
                 <li key={ch.slug} data-active={isActive ? 'true' : 'false'}>
                   <Link
+                    prefetch={false}
                     href={getChapterLink(ch.slug)}
                     onClick={onClose} // Close sidebar when clicking a link
                     className={

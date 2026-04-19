@@ -148,7 +148,7 @@ export default function ChaptersPage({ novel, chapters, novelSlug }) {
               className="p-3 border rounded bg-white dark:bg-slate-900 flex justify-between items-start"
             >
               <div>
-                <Link href={`${basePath}/chapters/${ch.slug}`} className="block">
+                <Link prefetch={false} href={`${basePath}/chapters/${ch.slug}`} className="block">
                   <div className="text-lg font-medium">
                     Chapter {ch.chapterNumber}
                     {ch.title ? ` — ${ch.title}` : ""}
@@ -161,6 +161,7 @@ export default function ChaptersPage({ novel, chapters, novelSlug }) {
               </div>
               <div className="flex flex-col items-end">
                 <Link
+                  prefetch={false}
                   href={`${basePath}/chapters/${ch.slug}`}
                   className="text-sm text-blue-600"
                 >

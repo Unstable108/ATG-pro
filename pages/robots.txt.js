@@ -10,6 +10,9 @@ export async function getServerSideProps({ req, res }) {
   const body = [
     "User-agent: *",
     "Allow: /",
+    "Disallow: /api/",
+    "Disallow: /admin",
+    "Disallow: /upload",
     "",
     `Sitemap: ${sitemapUrl}`,
     "",
