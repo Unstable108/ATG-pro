@@ -1,43 +1,11 @@
 // pages/_app.js
 import Script from "next/script";
-// import { Analytics } from "@vercel/analytics/react";
 import Head from "next/head";
 import "../styles/globals.css";
 import { useEffect } from "react";
-import { useRouter } from "next/router"; 
-
-
-// analytics: small helper to send events to /api/track
-function track(event = "view", path = "/", meta) {
-  if (typeof window === "undefined") return;
-
-  try {
-    if (
-      typeof window.sessionStorage !== "undefined" &&
-      event === "view" &&
-      path
-    ) {
-      const lastPath = window.sessionStorage.getItem("lastTrackedPath");
-      if (lastPath === path) {
-        return;
-      }
-      window.sessionStorage.setItem("lastTrackedPath", path);
-    }
-  } catch (e) {
-    // ignore storage errors and still try to send the event
-  }
-
-  fetch("/api/track", {
-    method: "POST",
-    headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({ event, path, meta }),
-  }).catch(() => {});
-}
 
 
 export default function App({ Component, pageProps }) {
-  const router = useRouter(); // --- analytics: added
-
   useEffect(() => {
     // initialize site theme from localStorage (siteTheme = 'dark' | 'light')
     try {
@@ -89,22 +57,6 @@ export default function App({ Component, pageProps }) {
     } catch (e) {}
   }, []);
 
-  // --- analytics: track page views on route change
-  useEffect(() => {
-    function handleRouteChange(url) {
-      track("view", url);
-    }
-
-    // initial load
-    if (typeof window !== "undefined") handleRouteChange(router.asPath);
-
-    // on client-side route changes
-    router.events.on("routeChangeComplete", handleRouteChange);
-    return () => {
-      router.events.off("routeChangeComplete", handleRouteChange);
-    };
-  }, [router]);
-
   return (
     <>
       <Head>
@@ -119,7 +71,7 @@ export default function App({ Component, pageProps }) {
         <link rel="manifest" href="/site.webmanifest" />
         {/* <script defer src="https://umami-delta-amber.vercel.app/script.js" data-website-id="20971589-8fde-483d-97dd-1792d3a2a1f3"></script> */}
       </Head>
-       <Script
+      <Script
         src="https://umami-delta-amber.vercel.app/script.js"
         data-website-id="20971589-8fde-483d-97dd-1792d3a2a1f3"
         strategy="afterInteractive"

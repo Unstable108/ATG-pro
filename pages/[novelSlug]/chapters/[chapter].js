@@ -193,16 +193,6 @@ export default function Chapter({
     } catch (e) {}
   }
 
-  // --- analytics: small helper to track clicks
-  function trackClick(event, path, meta) {
-    if (typeof window === "undefined") return;
-    fetch("/api/track", {
-      method: "POST",
-      headers: { "Content-Type": "application/json" },
-      body: JSON.stringify({ event, path, meta }),
-    }).catch(() => {});
-  }
-
   // helper for client-side navigation: scroll to top after pushing route
   function navTo(slug) {
     router.push(`${basePath}/chapters/${slug}`).then(() => {
@@ -214,19 +204,11 @@ export default function Chapter({
   // --- analytics: wrappers for tracked nav actions
   function handlePrev() {
     if (!prevSlug) return;
-    trackClick("prev_click", `${basePath}/chapters/${prevSlug}`, {
-      fromChapter: chapter.slug,
-      novelSlug: currentSlug,
-    });
     navTo(prevSlug);
   }
 
   function handleNext() {
     if (!nextSlug) return;
-    trackClick("next_click", `${basePath}/chapters/${nextSlug}`, {
-      fromChapter: chapter.slug,
-      novelSlug: currentSlug,
-    });
     navTo(nextSlug);
   }
 
