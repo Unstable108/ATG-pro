@@ -1,142 +1,175 @@
 ---
 chapterNumber: 2168
-title: ""
-publishedAt: "2025-12-11"
+title: "Wan Dao Divine Pavilion"
+publishedAt: "2026-05-30"
 ---
 
-"Wu Ming Divine Sovereign, is this how cold and thin your Eternal Night Divine Kingdom's hospitality is?"
+“Does the Eternal Night Kingdom of God typically treat its guests with such icy hospitality, Lightless Divine Regent?”
 
-Divine Sovereigns Meng Kongchan and Hua Fuchen arrived together, a spectacle of world-shaking grandeur, yet they were blocked outside a chilling barrier. This treatment did not surprise either Divine Sovereign in the slightest, nor did they attempt to break the barrier. Instead, they stopped there, their expressions carrying a subtly meaningful nuance.
+Meng Kongchan and Hua Fuchen had arrived at the Eternal Night Kingdom of God’s courtyard at the same time. It was a stunning line-up to say the least, and yet their way was blocked by a frigid, oppressive barrier. Neither of them was surprised in the slightest at the chilly reception, though. They did not attempt to shatter the barrier; they merely stood there with intrigued expressions.
 
-"Scram!"
+“Get lost!”
 
-Soul-piercing, sharp, hostile sound nearly drilled through their ears: "Your filthy, lowly male aura has already defiled this Sovereign's eyes and ears! Scram immediately!!"
+A violent, soul-stabbing scream so sharp it nearly pierced the ears erupted from inside the barrier. “Your filthy, lowly aura of men has already polluted my eyes and ears! Get lost now!!”
 
-"Heh!"
+Meng Kongchan let out a cold chuckle before addressing the Lightless Divine Regent by her name, “Are you really not going to give me a proper explanation, Shenwu Yanye?”
 
-Meng Kongchan gave a cold laugh, calling out his name directly: "Shen Wuyanye, are you not going to give this Meng a satisfactory explanation?"
+“Explanation?? Hahahaha!”
 
-"Explanation?? Hahahaha!"
+Her laughter sounded as shrill as an owl’s screech. It caused goosebumps to crawl all over one’s skin. “Dreamweaver and Heaven Breaker colluded to ambush my Eternal Night Divine Daughter in the Forbidden Zone of Slumbering Gods, grievously injuring her and nearly killing her! The only reason I haven’t attacked you yet is that we’re in the Pure Land right now, and you dare to come to me for an explanation ?”
 
-Laughter was as mournful as an owl's shriek, sending chills down one's spine: "Your Dream Weaving and Heaven Breaker colluded, ambushing my Eternal Night Divine Maiden in God Slumber Forbidden Zone, causing her to be severely injured and nearly perish! This Sovereign, considering we are in Pure Land, has temporarily refrained from attacking. What face do you have to demand a so-called explanation from this Sovereign!"
+“As expected, not even becoming a Divine Regent can wipe away the natural filthiness and inferiority that is ingrained in your flesh and blood!”
 
-"Indeed, even becoming a Divine Sovereign can never erase filth, lowliness, and baseness in your blood and bones!"
+Meng Kongchan showed not an ounce of anger. In fact, he even let out a light chuckle, “Hahahaha. Spin it all you want, but you and I know exactly what really went down.”
 
-Meng Kongchan was not angered in slightest, but instead smiled faintly: "Hehehehe, you and I both know what truth is."
+Hua Fuchen was also wearing a smile as he said, “What did I tell you, Brother Meng? Despite being the divine regent of a Kingdom of God, she does not hesitate to invert black and white in her favor. Truly, she is the ‘Lightless’ Divine Regent.”
 
-Hua Fuchen also smiled faintly: "Brother Meng, it is just as I said. To be a Divine Sovereign of a Divine Kingdom, yet to openly reverse heavenly order in front of one another, truly worthy of being 'Wu Ming' Divine Sovereign."
+He intentionally emphasized the word “Lightless.” His tone was mild, but every word was laden with dripping disdain.
 
-He emphasized two words "Wu Ming" (No Light/Ignorant), his gentle words filled with sarcasm.
-"Blindness of eyes can still observe world with heart, but heart so blind that it deceives others and oneself—that is truly utmost sorrow, beyond salvation."
+“The blind could still observe the world with their heart, but those who are blind in heart will lie not just to others, but also to themselves. How tragic. How hopeless.”
 
-In an instant, temperature of surrounding space plummeted. Eternal Night Maidens and Abyss Knights nearby all felt a chill throughout their bodies. As Divine Sovereign most easily provoked, one who might go mad at any moment even without provocation, Shen Wuyanye's reaction was utterly unsurprising. Wu Ming Divine Sovereign's rage was enough to make entire Eternal Night Divine Kingdom tremble, but how could it intimidate two Divine Sovereigns?
+The next moment, the surrounding temperature nosedived to the point where all daughters of Eternal Night and abyssal knights in the vicinity felt chilled to the bone. This reaction was, of course, not unexpected. Out of all the divine regents, Shenwu Yanye was easily the most trigger-happy of them all. After all, she often went crazy even without provocation.
 
-Hua Fuchen's brow slightly furrowed, his voice also cooling several degrees: "Shen Wuyanye, you repeatedly question what 'face' we have, yet this Hua's and Brother Meng's faces are now clearly displayed beneath heavenly light of this Pure Land, without slightest concealment, for all spirits in heaven and earth to look up and behold!!"
+The wrath of the Lightless Divine Regent could shake the entire Eternal Night Kingdom of God to its core, but of course, it wouldn’t scare the two divine regents.
 
-"And you, Shen Wuyanye... heh!"
+Hua Fuchen’s brows sank slightly, and his voice grew a little colder. “Shenwu Yanye, you love saying ‘what face do you have’, don’t you? Well, Brother Meng and I are baring our faces under the skylight of the Pure Land right now. Every man, woman, and animal in the whole world may look up to us and observe even the tiniest pore on our faces!!”
 
-Hua Fuchen let out a faint, sarcastic laugh, and Meng Kongchan immediately took over his words: "A dignified Wu Ming Divine Sovereign, when meeting Abyss Emperor in this Pure Land, must cover her body with a palanquin and conceal hr face with a black curtain. Why? Does Wu Ming Divine Sovereign know that her face is so ugly that it is hated by gods and men, feared by ghosts, and abandoned by all spirits, so she must heavily conceal it, daring not to show it to anyone!?"
+“But you... heh!”
 
-"Seeking... death!!" Boom—A terrifying gust of dark wind swept up. Instantly, heavenly light dimmed sharply, and surrounding space seemed to plunge into an icy hell. Such deliberate derogatory remarks could not anger any other Divine Sovereign; they would only invite ridicule from opponent—yet they struck directly at Wu Ming Divine Sovereign's vital point! The more one conceals, the more one cares!
+Hua Fuchen let out a faint, scornful chuckle, and Meng Kongchan followed up his words, “You call yourself the Lightless Divine Regent, and yet you hide yourself in a palanquin and your face behind thick, black curtains even when you are meeting the Abyssal Monarch in the Pure Land. What’s wrong? Is it because you’re aware that you’re so ugly that even gods cannot stand your appearance, much less humans? So shameful that even ghosts will weep, and all sentient beings will shun you? Is that why you have no choice but to hide yourself behind multiple curtains like a rat!?”
 
-Cold wind howled, killing intent filled sky, causing robes of Divine Sovereigns Meng Kongchan and Hua Fuchen to flutter.
+“You... court... death!!”
 
-"Your Excellency, quell your anger!!"
+A terribly cold wind blew, and the world plunged into darkness in an instant. It was as if the surrounding space had suddenly plummeted into an icy hell. Such disparaging words could not have angered any other divine regent and only earned their scorn, but it was a stab straight at the Lightless Divine Regent’s weak point! After all, the more you hid something, the more it showed that you cared about it!
 
-Shen Wumingque's voice urgently sounded: "This is Pure Land, you must not strike! If Your Excellency acts in anger, you will... fall right into opponent's trap!"
+The cold wind turned into a howl, and killing intent filled the heavens. Such was her rage that even the two divine regents’ robes were fluttering wildly.
 
-Cold domain and killing aura suddenly paused, but Hua Fuchen spoke lightly, adding fuel to fire: "Wu Ming Divine Sovereign truly worries too much. Those qualified to step into Pure Land are all of noble birth and exceptional cultivation. Even if they are horrified and trembling in soul by Wu Ming Divine Sovereign's ugliness, they would never speak it aloud or show it in their expression."
+“Please calm down, supreme one!!”
 
-"Meng... Kong... Chan! Hua... Fu... Chen!" Shen Wuyanye's voice was already trembling to point of being almost inaudible. Upon hearing it, even Abyss Knights ten miles away felt their hearts and souls ache as if about to shatter.
+It was at this moment that Shenwu Mingque’s voice rang urgently, “This is the Pure Land! Fighting is forbidden! If you take action... you would fall right into their trap!”
 
-"Remember well what you said today! One day... this Sovereign will surely make you pay price... will surely make you regret every single word spoken today!!" Shen Wuyanye's fury reached such a peak that even Eternal Night Maidens close to her had never witnessed it. They all trembled like sieves, their faces white as paper. Several were already swaying, their bodies flickering like residual candles in wind. Her cruelty and terror in Eternal Night Divine Kingdom were evident.
+The icy domain and the killing intent abruptly came to a halt. However, Hua Fuchen chose this moment to add fuel to the fire. “You really do worry too much, Lightless Divine Regent. Everyone who sets foot in the Pure Land is of noble upbringing and outstanding refinement. Even if your hideousness horrifies them to their core, they would never betray a hint of it in behavior or conduct.”
 
-"Your Excellency, quell your anger... quell your anger!" Shen Wumingque repeatedly pleaded in a hoarse voice.
+“Meng... Kong... Chan! Hua... Fu... Chen!”
 
-At this moment, her figure stepped out of barrier, standing before Meng Kongchan and Hua Fuchen. She hastily bowed: "Two Divine Sovereigns, 'explanation' you seek has neither proof nor basis. Only one thing is certain: sword wound on my Eternal Night Divine Maiden was indeed created by Heaven-Folding Sword Intent."
-"This is upon Pure Land, not..."
+By now, Shenwu Yanye’s voice was trembling so much that one could barely make out her words. When her words entered the ears, even the abyssal knights from over five kilometers away felt like their hearts and souls were threatening to crumble where they stood.
 
-"That is correct, neither proof nor basis."
+“Remember what you said today! One day... this regent will make you pay.... Make you regret every word you spoke today!!”
 
-Meng Kongchan interrupted her words. His faintly lowered silver gaze caused Shen Wumingque's spirit to instantly collapse, her entire body shuddering:
-"Otherwise, why would this Sovereign only move his lips and tongue."
+No one, not even her closest attendant, had ever seen Shenwu Yanye this angry. Naturally, the women were all shaking like leaves and looking as white as sheets. In fact, some looked like they might faint on the spot while shaking like a flickering candle in the wind. It showed just how brutal and terrifying Shenwu Yanye was in the Eternal Night Kingdom of God.
 
-Enduring gaze of Wumeng Divine Sovereign at such close proximity, Shen Wumingque felt as if every single one of her soul strings was clearly and completely exposed beneath his divine eyes. With just a thought, an instant, he could easily destroy them, like withered threads crumbling into dust. God Slumber Forbidden Zone was not under anyone's gaze, so Eternal Night Divine Maiden's attempt to kill Yun Che had only Yun Che's side of story, without any proof.
+“Supreme one... please calm down... please calm down!” Shenwu Mingque cried hoarsely again and again.
 
-"Wu Ming Divine Sovereign, calm yourself."
+It was at this moment that she stepped out of the barrier and stood in front of Meng Kongchan and Hua Fuchen. A hasty salute later, she said, “Divine regents, the ‘explanation’ you desire neither has any proof nor any basis to stand on. What is certain is that our Eternal Night Divine Daughter is wounded by the Heaven Breaker Sword Intent.”
 
-Meng Kongchan's eyes narrowed slightly, glancing obliquely at barrier behind him, his eyes faintly flowing with a pale silver radiance: "This Meng's visit is not to demand accountability, but to return an item."
+“This is the Pure Land, not—”
 
-Whoosh! With a soft sound, a silver folding fan unfolded in Meng Kongchan's hand. On fan's surface, ink flew and scattered, every character unrestrained, and it contained a faint divine aura that even long years had failed to completely erase. Signature at end of fan's rib, written with extraordinary flair, was none other than... Shen Wuxueyan!
+“You are right. There is neither proof nor basis.”
 
-Though Shen Wuyanye could not see, her other four senses far surpassed those of ordinary people. In first instant, she captured aura that she could never forget... an aura that, even now, tormented her in eternal dark night.
+Meng Kongchan cut her off casually, but the silver gaze settling on her caused her spirit to collapse, and her body to quiver in terror. “Otherwise, I would not just be flapping my mouth right now.”
 
-"That is... that person's thing!" Her rage and killing intent suddenly collapsed, and cold suppression of space instantly turned into uncontrolled turbulence.
-"Where did you get such a filthy thing! That beast's belongings should have been completely erased from world by this Sovereign!" Looking at characters on folding fan, Shen Wumingque's eyes suddenly became dazed, as if her soul had fled.
+Enduring the Dreamless Divine Regent’s gaze up close made Shenwu Mingque feel as if every thread in her soul were laid bare like never before. One thought and one instant was all he needed to disintegrate her like a strand of withered grass.
 
-Meng Kongchan said lightly: "Ten thousand years ago, on eve of this Meng inheriting Divine Sovereign position, Shen Wuxueyan specially came to 'bid farewell,' lamenting that there would be no more 'Brother Meng,' only title of Divine Sovereign. This fan, forged from Youpo Divine Jade, was gift Shen Wuxueyan gave me back then."
+The Forbidden Zone of Slumbering Gods did not fall under anyone’s supervision, which was why Yun Che’s claim that the Eternal Night Divine Daughter had tried to kill him was just that, a claim. There was nothing but his and Hua Caili’s words to support it.
 
-"This Meng was suddenly inspired and invited him to leave ink on fan. He asked what topic I wished for, and I told him to write whatever was most on his mind at time... these are characters on fan."
+“Patience, Lightless Divine Regent.”
 
-"Night Patrol Envoy," Meng Kongchan's gaze turned towards Shen Wumingque again: "Why don't you read out what is written on fan for your Wu Ming Divine Sovereign."
+Meng Kongchan shifted his gaze away from Shenwu Mingque and narrowed his eyes halfway, the corners of his eyes brimming with faint silver. “I have not, in fact, come to lay charges against the Eternal Night Kingdom of God. Instead, I have come to return something.”
 
-Shen Wumingque's lips parted, but she could not utter a single word.
-In her ear, Shen Wuyanye's hostile voice suddenly exploded: "Read!!"
+Whoosh! There was a light flutter, and a silver folding fan appeared in Meng Kongchan’s grasp. There were ink splashes on the fan surface, each stroke bold and unrestrained. It was also carrying a faint aura that even the passage of time had failed to fully erase. At the tip of the fan’s rib was an inscribed signature of remarkable flair, and... it belonged to none other than Shenwu Yanye!
 
-Shen Wumingque's entire body trembled, nearly spitting blood. Her throat violently convulsed, and only then did she manage to utter the characters on fan with difficulty: "Gentle wind brushes jade shadow... bright moon reflects inch of heart."
+Although Shenwu Yanye was blind, her remaining four senses were exceedingly sharp. Therefore, she had captured that impossible-to-forget presence instantly... In fact, it was a presence that still secretly tormented her in the eternal night to this day.
 
-Chaotic coldness, suppression, and killing intent suddenly froze. Entire world abruptly fell into an eerie silence. Gentle wind... bright moon... Xi Hua... Shen Wuxihua! A sudden wailing sound echoed in everyone's ears—it was disordered True God aura stirring space's tremor.
-"Haha... haha... hahahaha!"
+“It’s... It’s that man’s thing!” Her fury and killing intent suddenly collapsed into a chaotic mess of emotions. It was reflected in reality when the oppressive chill that held an entire space in its grip suddenly dissolved into chaotic, uncontrollable currents.
 
-Shen Wuyanye let out a maniacal laugh, every sound hoarse, every sound mournful: "Shen Wuxueyan! Several thousand years... it has been several thousand years! Such hypocrisy and filth left behind by you still remain in this world, and once again defile this Sovereign's ears... You deserve to be cut into ten thousand pieces! You deserve to die without a burial place!"
+“Where did you obtain such a filthy object?! I should have wiped out every speck of that animal’s existence from the world!”
 
-This folding fan, and characters upon it, Hua Fuchen was also seeing for first time. He slightly lowered his brow, his state of mind momentarily complex. Gentle wind brushes jade shadow, bright moon reflects inch of heart... every character was affection, every character was yearning.
-Name "Xi Hua" seemed even more deeply engraved in his heart. Shen Wuxueyan, Shen Wuxihua... was truth of that time truly just as rumored? And who exactly... betrayed whose true feelings?
+Looking at the words inscribed on the folding fan, Shenwu Mingque’s eyes suddenly went blank and dazed like she had lost her soul[1].
 
-"Damn it... damn it! Damn it!! Die!!!" Screams of rage, like a desperate she-wolf, like a heartless evil spirit, were spine-chilling.
+Meng Kongchan said indifferently, “Ten thousand years ago, the day before I inherited the throne, Shenwu Xueyan purposely came to ‘bid me goodbye’. He lamented that ‘Brother Meng’ was no more, and only the Dreamless Divine Regent was left. This fan was forged using Soul Soothing Divine Jade and gifted to me back then.”
 
-Meng Kongchan tossed folding fan onto ground: "After today, my Dream Weaving and Eternal Night have only enmity, no grace. This item, it is only right to return it."
+“At the time, I suddenly felt inspired and asked him to leave a quote on the fan. When he asked me what I wished to have written, I replied telling him to inscribe whatever he most cherished in his heart at the moment... and so he did.”
 
-He coldly stared at intensely trembling black palanquin behind barrier, then turned and walked away side-by-side with Hua Fuchen, leaving with cold indifference. Even after they had gone far, Shen Wuyanye's hysterical cries still echoed in air.
+“Night Patrol Officer,” Meng Kongchan looked at Shenwu Mingque once more, “why don’t you recite the words on the fan for your Lightless Divine Regent?”
 
-"How was it?" Hua Fuchen asked.
+Shenwu Mingque’s mouth opened and closed, but not a single word came out.
 
-"Hmph!" Meng Kongchan sneered: "Much easier than I expected. After all, she is essentially a madwoman, her soul flaws so great that... I even felt disdain to act for a few moments."
+It was at this moment that Shenwu Yanye’s hateful voice erupted beside her ears, “Recite it!!!”
 
-"But..." His eyes suddenly turned cold, his soul might awe-inspiring: "Dare to touch my Yuan'er, no matter who it is, they must pay a price they will regret for rest of their lives!"
+Shenwu Mingque shuddered all over and nearly threw up blood. Her throat convulsed fiercely before she finally managed to utter the words written on the fan, albeit just barely:
 
-Hua Fuchen suddenly said: "Back then, after Shen Wuxueyan's incident, you sighed for a long time, and after that, you always avoided discussing anything related to him. Your friendship with Shen Xueyan was not shallow, so I assume that events of that year were not entirely as rumored?"
+“The wind caresses the jade shadow... The radiant moon illuminates the heart's deepest longing.”
 
-Meng Kongchan shook his head: "Grudges and favors, rights and wrongs, when they fall upon oneself, they are a tangled mess. How can one easily clarify karma of others? I can only say... from what I know, saw, and felt, Shen Wuxueyan was not heartless towards Shen Wuxihua back then, in fact, quite opposite..."
+The chaotic chill, pressure, and killing intent abruptly froze. The entire world suddenly plunged into an eerie silence as well. Wind (Xi Feng)... radiant moon (Hua Yue)... Xihua... Shenwu Xihua!
 
-His voice paused, and he continued: "However, as a Divine Son, his bones were engraved with an overly heavy male pride. Facing Shen Wuxihua, who surpassed him in every aspect, his deeply rooted nature led to his words and actions being extremely inconsistent, even frequently making foolish moves for sake of so-called Divine Son dignity. The bitter fruit he ultimately brewed, was it not also self-inflicted?"
+Deafening howls suddenly started echoing in everyone’s ears. It was the stirrings of space, born of the chaotic aura of a True God.
 
-Hua Fuchen nodded, no longer pressing question.
+“Haha... haha... hahahaha!”
 
-————
+Maddened laughter suddenly erupted from Shenwu Yanye’s throat, each utterance hoarse, and every word bleak. “Shenwu Xueyan! Thousands... thousands of years have passed, and still fragments of your hypocrisy and filth have remained in this world long enough to pollute my ears... You truly deserve to be cut a million times over! Die without a grave!”
 
-"Brother Yun, we've arrived!" Passing through layers of Pure Land Divine Guards stationed here, what appeared before their eyes was a rather large, magnificent hall. Ten Thousand Dao Divine Pavilion! At hall's entrance, a tall man stood proudly. He had dark green long hair, his face was stern like an ice sculpture, his eyes held a hidden coldness, and he carried a seven-foot sword sheath on his back. Without revealing blade, it released a chilling coldness that made all spirits retreat.
+This was the first time Hua Fuchen had ever seen this folding fan, or the words on it. His brows furrowed slightly, and his feelings were a little complicated. The wind caresses the jade shadow, the radiant moon illuminates the heart's deepest longing... Every word was love, and every stroke a thought. The name “Xihua” especially seemed to fill the heart.
 
-"Uncle Changying!" Hua Caili's call confirmed his identity to Yun Che. One of four Pure Land Divine Attendants, close attendant of Wen Dao Divine Official—Changying!
+Shenwu Xueyan, Shenwu Xihua... was the truth really as the rumors claimed? Was the betrayer and the betrayed really as clear-cut as it seemed?
 
-A cold, spiritless gaze swept lightly over Yun Che and Hua Caili. Divine Attendant Changying slightly nodded: "Master has given instructions, enter."
-Hua Caili took Yun Che's hand, leading him directly into hall, whispering at same time: "Uncle Changying doesn't like to talk much, but he's not mean. Just ignore him."
+“Deserve to die... deserve to die! Die!! DIE!!!”
 
-Summoned by Abyss Emperor, and with Six Smiles and Ling Xian Divine Officials interceding for him, name "Yun Che" now resounded like thunder across Pure Land. But as Yun Che and Hua Caili passed by Changying, he remained completely unblinking, and even his aura did not linger on Yun Che.
+Each screech was like the despairing howl of a she-wolf or the roars of a heartless ghost. It was spine-chilling to say the least.
 
-Such cold indifference suggested he was a person who adhered strictly to rules... Yun Che noted his appearance, aura, and his assessment of him.
+Meng Kongchan tossed the folding fan on the floor and said, “From now on, there exists only grievances between Dreamweaver and Eternal Night. Naturally, this item should return to its owner.”
 
-"Grandpa Wandao, we're here!" Following Hua Caili's clear call, Yun Che's steps also entered hall... In an instant, it was as if world had changed, heaven and earth inverted. A dense aura, seemingly spanning ten thousand ages, surged towards him like a tide, instantly enveloping his entire body. This aura was so profound and intense that Yun Che's senses went blank for several moments. That extreme ancient solemnity, vastness, and deep composure, seemed to have billions of stars quietly flowing in depths of hall, as if coming from Age of Gods that should have long passed.
+He cast a cold look at the pitch-black palanquin, its frame shaking violently behind the barrier, before turning and leaving with Hua Fuchen. Shenwu Yanye’s hoarse screams could be heard even after they had gone far, far away from the courtyard.
 
-Ten Thousand Dao Divine Pavilion, treasure trove carrying three million years of Pure Land's history and foundation. In first moment of Yun Che's arrival, his original expectations were completely overturned. Aura filling this place was absolutely incomparable to mere density of a Divine Kingdom's single divine power; it was as if it carried endless vastness of entire Abyss's history, every trace of aura narrating Pure Land's supreme foundation.
+“How did it go?”
 
-————
+Hua Fuchen asked.
 
-【In ancient times, previous text mentioned ultimate flame of Vermillion Bird Spirit Solace Melody, which was then named "Thousand Feathers Extinguishing Nether Melody." However, due to its extreme antiquity and fact that Vermillion Bird Flame would not appear in early stages, it was completely forgotten -_-||】
+Meng Kongchan let out a derisive snort. “It’s way easier than I imagined it would be. She is, in essence, a madwoman after all. The chinks in her soul are so huge that... for an instant or two, I honestly thought it was beneath me to exploit them.”
 
-【Thus, I could only forcefully activate the Nirvana Devil Time Wheel Bead, using dark, sinful hand of karma to change "Thousand Feathers Extinguishing Nether Melody" in previous text to current "Ashes and Calamity Mercy Song." Let's just pretend nothing happened ε=(´ο｀*)))】
+“However...”
 
-【Deep thanks to all little friends for reminding me!】
+His gaze turned ice-cold, and his soul radiated an intimidating pressure. “Anyone who dares to harm my Yuan’er must pay a lifelong price!”
 
+Hua Fuchen said suddenly, “Back then, after Shenwu Xueyan’s tragic fall, I remember you letting out a long, mournful sigh and avoiding talking about him since. Was the truth different from the rumors after all?”
 
+However, Meng Kongchan shook his head and said, “Gratitude and grudges, right and wrong; they are messy enough to untangle even when you’re directly involved in it, much less others. All I can say is... based on what I know and saw, Shenwu Xueyan definitely reciprocates Shenwu Xihua’s feelings. In fact...”
 
+He paused for a moment before continuing, “However, he was a Divine Son, and the concept of masculine pride was too ingrained in his bones. As a result, he cannot behave honestly when facing Shenwu Xihua, a woman who surpasses him in every way. Not only that, he had repeatedly made foolish moves for his so-called pride of Divine Son, so one cannot say that he did not deserve the bitter karma he got.”
+
+Hua Fuchen nodded and stopped asking questions after that.
+
+“We’re here, Big Brother Yun!”
+
+They passed by Pure Land Divine Guard after Pure Land Divine Guard until finally, they arrived at a large, even grand hall. It was the Wan Dao Divine Pavilion!
+
+A tall, large man was standing at the entrance. He had long, dark green[2] hair, and his face was stern, like it was carved out of ice. His eyes looked steely cold, and he carried a scabbard that was 1.7 meters[3] long. The blade was hidden, but it still gave off a sharp, frigid feeling that naturally repelled all things.
+
+“Uncle Chang Ying!” Hua Caili’s shout confirmed his identity to Yun Che. He was one of the Four Divine Attendants, the Divine Attendant of High Priest Wan Dao, Chang Ying!
+
+A cold, even listless gaze swept across Yun Che and Hua Caili. Then, Divine Attendant Chang Ying nodded slightly and said, “Master has instructed me on this. Enter.”
+
+Hua Caili held Yun Che’s hand and led him into the hall. At the same time, she said in a small voice, “There is nothing Uncle Chang Ying hates more than talking, but he doesn’t intimidate others either. Just ignore him.”
+
+Yun Che was the man who received a summons from the Abyssal Monarch and the intercession of High Priest Liu Xiao and High Priest Ling Xian. To call him famous in the Pure Land would be an understatement. However, forget casting him a sidelong glance, Chang Ying had not even parked his aura on him when he and Hua Caili walked past him. This meant that he was cold on the outside, and exceedingly rule-abiding on the inside...
+
+Yun Che memorized his appearance and presence as he rated him in his head.
+
+“Grandpa Wan Dao, we’re here!”
+
+Yun Che’s foot crossed the threshold at the same time Hua Caili called out to High Priest Wan Dao. The next moment, the world changed, and heaven and earth flipped upside down. At the same time, a rich, ancient presence, seemingly from the primordial era, engulfed him like a tidal wave.
+
+The presence was so thick and fierce that Yun Che’s senses went blank for several instances straight. The exceedingly ancient aura felt solemn, vast, and grave. It felt like a billion stars were rotating within the depths of the hall, as if they originated from the long-dead Era of Gods.
+
+The Wan Dao Divine Pavilion contained three million years' worth of history, wealth, and treasures of the Pure Land. As a result, Yun Che’s expectations were overturned from the very first instant he arrived at this place. Any one Kingdom of God could not possibly rival the weight and density of the energies here. As if the boundless expanse of the entire history of the Abyss rested on its shoulders, every breath whispered of the Pure Land’s unrivaled heritage.
+
+Author’s Note: In the distant past, the final flame of the Vermillion Bird’s Consoling Spirit Song is actually called the “Thousand Feather Nether Annihilation Song”. However, it was such a long time ago—not to mention that the Vermillion Bird Flame was not scheduled to appear during the early chapters—that I totally forgot about it! -_-||
+
+Since there is no choice, I hereby activate the Nirvana Devil Time Wheel Pearl and use the hand of sin and darkness known as retroactive adjustment to change the “Thousand Feather Nether Annihilation Song” to the “Song of Ashes and Mercy”. So, just pretend that nothing has happened, okay? ε=(´ο｀*)))
+
+Many thanks for the reminder!
+
+1. Oh geez, oh dear. What a mess. ☜
+
+2. Oh god, it’s the dreaded 青 again... Let me know if it turns out to be blue or even black later. ☜
+
+3. 7 Chinese feet. ☜

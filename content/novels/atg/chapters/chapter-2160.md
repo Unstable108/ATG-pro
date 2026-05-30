@@ -1,7 +1,7 @@
 ---
 chapterNumber: 2160
-title: "Unknown Title"
-publishedAt: "2025-12-23"
+title: "Entrance to the Forbidden Zone"
+publishedAt: "2026-05-30"
 ---
 
 “That said, the news regarding the Lord of the Abyss isn’t completely useless. Their existence actually solved my biggest conundrum so far.”
@@ -154,7 +154,7 @@ From now on, she honestly could not stomach any other person inside her soul. Th
 
 Hua Caili quietly extended her slender, jade-like fingers and gently traced the contours of Yun Che’s body. Her gaze was sometimes smiling, sometimes hazy, sometimes yearning... and it all converged in her eyes as undying devotion.
 
-At the edge of the Pure Land, all of the Kingdoms of God except Boundless were gathered.
+At the edge of the Pure Land, all of the Kingdoms of God except Boundless were gathered. 𝗳𝚛𝚎𝚎𝘄𝕖𝕓𝕟𝕠𝚟𝚎𝕝.𝗰𝕠𝐦
 
 Dugu Zhuyuan’s hands moved, and the profound formation that had slumbered for god-knows-how-long shone with rich, dazzling spatial light. The light looked strangely grayish, though.
 
@@ -174,7 +174,7 @@ He swiped his finger across the air, and five faint stars flew toward the group 
 
 “This is a special kind of Void Breaking Divine Jade. One hundred and forty-four hours after you enter the Forbidden Zone of Slumbering Gods[1], it will automatically shatter and teleport you back to this entrance. If you encounter some sort of impossible danger during this period, you may crush this orb and return unharmed.”
 
-As soon as Dugu Zhuyuan said this, the nervous expressions covering most elders’ faces vanished in an instant. 𝘧𝓇ℯℯ𝑤ℯ𝘣𝓃ℴ𝓋𝑒𝑙.𝑐𝘰𝑚
+As soon as Dugu Zhuyuan said this, the nervous expressions covering most elders’ faces vanished in an instant.
 
 Hua Fuchen and Meng Kongchan looked much gladder as well. At the same time, they exchanged astonished glances with each other. From what they knew of the Abyssal Monarch... He wasn’t one to bestow such a boon.
 

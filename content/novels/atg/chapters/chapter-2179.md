@@ -1,202 +1,219 @@
 ---
 chapterNumber: 2179
-title: ""
-publishedAt: "2026-04-11"
+title: "Asking For The Moon"
+publishedAt: "2026-05-30"
 ---
 
+UNEDITED chapter - Rubble
 
+Shenwu Mingque had been silently observing every subtle shift in Meng Jianxi’s breathing and expression. She had sensed his astonishment and captured a rather intense stir of emotion within him.
 
-Shenwu Mingque had been silently and meticulously observing every subtle shift in Meng Jianxi’s aura and expression. She perceived his surprise and captured his intense interest.
+However, when Meng Jianxi’s gaze shifted away from the Divine Jade of Revelation, he wore a faint smile that was two parts humility and three parts confidence, “The Divine Jade of Heavenly Revelation is indeed an object I have longed for in my dreams, but the Coiling Dragon Seven Profound Crystal is something that prompted a figure as noble as you to deign to show up in person. That alone speaks volume about its value... At the very least, its value to your kingdom far exceeds that of a single Divine Jade of Revelation.”
 
-However, when Meng Jianxi moved his gaze away from the Apotheosis Divine Jade¹, his face bore a light smile—forty percent humble, sixty percent composed. "The Apotheosis Divine Jade is indeed something this junior has dreamed of. But, since the 'Dragon-Coiled Seven Profound Crystal²' could compel a personage as noble as Senior to personally condescend to visit, it is clear that its value... at least its value to your kingdom, far exceeds a single Apotheosis Divine Jade."
+Shenwu Mingqu’s expression remained unchanged, but a heavy sigh weighed upon her heart.
 
-Shenwu Mingque’s expression remained unchanged, but she sighed heavily in her heart. She was truly not surprised by Meng Jianxi's response.
+Meng Jianxi’s response came as no surprise to her whatsoever.
 
-As the de facto second-in-command of the Eternal Night God Realm, her personal arrival to request the item was equivalent to directly announcing the extreme extraordinary nature of the Dragon-Coiled Seven Profound Crystal and the immense importance Eternal Night placed upon it. But where the crystal was concerned, the Wuming God Sovereign³ would never allow it to be handled through the hands of a "servant."
+She was the de facto second-in-command of the Eternal Night Kingdom of God, yet she had personally shown up to lay claim to the Coiling Dragon Seven Profound Crystal, It was tantamount to a direct declaration of its extraordinary nature, and the Eternal Night Kingdom of God’s utmost regard for it.
 
-From the very beginning, she had been at a disadvantage, yet she had no choice.
+Yet, how could the Lightless Divine Regent possibly allow the Coiling Dragon Seven Profound Crystal to be handled by a mere “servant”?
 
-Without attempting to argue or exert pressure, and lacking the confidence to leave in a huff, Shenwu Mingque narrowed her eyes slightly and spoke without evasion: "God Child Jianxi speaks truly. If it were a common object, why would I need to come in person? If it were a common object, how could it be worthy of me offering such a perfect Apotheosis Divine Jade? However, its preciousness exists only within my Eternal Night God Realm. In the hands of God Child Jianxi, it truly is nothing more than a useless piece of scrap crystal."
+From the beginning, she had been at a disadvantage, yet she could do nothing about it.
 
-"Of course, of course," Meng Jianxi immediately chimed in with a humble tone. "With Senior’s status, you would naturally not stoop to lying to a junior. I am indeed entirely ignorant of this crystal and have no way of even beginning to use it..."
+She made no attempt to argue or exert pressure, nor did she have the audacity to walk away in contempt. Shenwu Mingque narrowed her eyes slightly and stated without hesitation, “You are correct, Divine Son Xi. If it was a mundane object, why would I need to come in person? And why would I think to exchange it with such a flawless Divine Jade of Revelation? However, I must remind you that it holds value only to the Eternal Night Kingdom of God. In your hands, it is truly nothing more than a worthless, useless crystal[2].”
 
-He followed up with a series of sincere nods, then said in an even more earnest and modest tone: "However, since it is something Senior desires, shouldn't the price be set by this junior?"
+“Of course, of course.” Meng Jianxi immediately agreed humbly. “With your esteemed status, you would never have deigned to speak falsely to a junior like me. I truly know nothing about this crystal, and I wouldn’t even know where to begin even if I wanted to use it....”
 
-"Fine." Shenwu Mingque’s heart relaxed slightly. What she feared most was not a high price, but the other party refusing to negotiate. Since he was willing to name a price, it basically meant the matter was settled. "I loathe hypocrisy and beating around the bush. Please speak plainly, God Child Jianxi. As long as it is not too excessive, I can agree to it."
+He responded with a series of sincere affirmations before continuing in an even more humble and respectful tone, “However, since you’re the one who’s making the request, shouldn’t I be the one to propose the price?”
 
-"Then I shall not stand on ceremony." At this moment, Meng Jianxi looked up calmly, his gaze meeting Shenwu Mingque’s directly, candid and unfazed. "Though the Apotheosis Divine Jade is peerlessly precious, a single piece is hardly enough to honor the immense face of Senior’s personal visit."
+“Very well.” Shenwu Mingque felt a slight sense of relief. Her greatest concern had not been the absence of a price, but rather outright refusal. The fact that he was willing to propose a price at all meant that the matter was essentially settled.
 
-He slowly extended his right hand, spreading his fingers one by one. "Five Apotheosis Divine Jades, and I shall respectfully offer the Dragon-Coiled Seven Profound Crystal to Senior."
+“I detest beating around the bush, so please speak plainly, Divine Son Xi. As long as it is not overly excessive, I shall agree.”
 
-Despite being prepared for Meng Jianxi to demand a king's ransom, when the staggering words "five Apotheosis Divine Jades" left his mouth, Shenwu Mingque’s eyes still constricted suddenly, and her chest heaved violently for a moment.
+“It would be discourteous of me to refuse.” At that moment, Meng Jianxi raised his head calmly and met Shenwu Mingque’s eyes directly, open and unflinching. “Though the Divine Jade of Revelation is of unparalleled value, it is but a single piece. How could it possibly match the immense honor of your personal visit, Senior?”
 
-"Heh!" She let out a cold laugh. "Does God Child Jianxi know what he is saying?"
+He slowly extended his right hand and spread his fingers one by one. “Five. Give me five Divine Jades of Revelation, and I shall humbly present the Coiling Dragon Seven Profound Crystal to you, Senior.”
 
-Meng Jianxi hurriedly said in a gentle voice: "If Senior did not hear clearly..."
+Although she had braced herself for an exorbitant price, the earth-shattering words that were “five Divine Jades of Revelation” still caused Shenwu Mingque’s eyes to narrow sharply, and her chest heaved violently for a moment.
 
-"Audacious whelp!" Shenwu Mingque suddenly took a step forward. Although she did not release her profound energy, the terrifying majesty originating from the eighth level of the Divine Limit Realm⁴ was enough to make the soul of any expert in the Divine Extinction Realm⁵ shrink. "Five Apotheosis Divine Jades? Heh! You are the esteemed God Child of the Dreamweaving God Realm; you should know better than anyone what the Apotheosis Divine Jade means to the younger generation of a God Realm. A single jade can create a genius capable of becoming world-famous overnight. Even with your status as a God Child, you are only granted one in your entire life!!"
+“Hah!” She let out a cold laugh. “Do you know what you’re saying, Divine Son Xi?”
 
-"I have long heard that the Dreamweaving God Child, though young, possesses deep calculation and knows when to advance or retreat. I never expected... Hmph!" She sneered, her voice full of mockery. "I am quite curious. How could such noble lips as the God Child's utter such delusional words as 'five Apotheosis Divine Jades'?"
+Meng Jianxi hurriedly replied in a conciliatory tone, “If you did not hear me clearly—”
 
-Meng Jianxi naturally knew exactly what five Apotheosis Divine Jades represented. But since Yun Che had instructed him to "open his mouth wide," he naturally had to make the demand large enough—large enough that even he felt it was impossible to accept... As for what price they would eventually settle on, that would depend on their respective skills.
+“Arrogant upstart!” Shenwu Mingque took a sudden step forward. Though she did not release her profound energy, the terrifying aura emanated by an eighth level Divine Limit Realm champion was still enough to cow any Divine Extinction Realm profound practitioner. “As the Divine Son of the Dreamweaver Kingdom of God, you of all people should understand what a Divine Jade of Revelation means to the young generation of a Kingdom of God. A single one is enough to create a renowned genius from nothing! Even you, son of the Divine Regent, were granted only one in your whole life!
 
-Facing Shenwu Mingque’s terrifying pressure, Meng Jianxi’s entire body had gone stiff, making it difficult to breathe. He took a deep breath, gave a faint bow, and said neither humbly nor arrogantly: "Forgive my bluntness, but this confidence and this bargaining chip were given to me by Senior. If I asked for too little, it would be me who is ungrateful and ignorant, slighting Senior’s distinguished presence."
+“I have long heard that the Dreamweaver Divine Son, though young, is quite calculating, knowing when to push and when to back off. Yet I never imagined... Hmph!”
 
-"..." This was the opening disadvantage that Shenwu Mingque could not refute. She could only narrow her eyes again, her voice cold: "While the Dragon-Coiled Seven Profound Crystal is quite important to my Eternal Night, it is far from being indispensable, and it is absolutely impossible for it to outweigh five whole Apotheosis Divine Jades."
+She gave a cold snort before continuing in a voice dripping with scorn, “With a tongue as noble as yours, Divine Son Xi, just how on earth did you manage to utter a demand as delusional as ‘five Divine Jades of Revelation’?”
 
-"My personal arrival is proof of my sincerity. God Child Jianxi is willing to name a price, which shows a desire to facilitate a win-win situation. But this demand is simply the joke of the century. If you insist on this, then this situation, which should have benefited both parties, will likely become a widely circulated laughingstock, a testament to greed and ignorance!"
+Naturally, Meng Jianxi knew full well just how significant five Divine Jades of Revelation were. However, Yun Che had instructed him to ask for the moon, so of course he had to make a request so ludicrous that even he himself would deem it utterly impossible to accept... As for what price they could ultimately negotiate, that would depend on their respective skills.
 
-Enticing with profit and pressuring with reputation—this was indeed a heavy move. Just as Meng Jianxi was about to take a timely step back, his gaze suddenly shifted toward the door, and the words he was about to speak were swallowed back down.
+Pressed by Shenwu Mingque’s terrifying, crushing pressure, Meng Jianxi’s entire body could not help but go rigid, and he could hardly breathe[3]. He took a deep breath, bowed slightly, and responded with neither humility nor arrogance, “Forgive this junior for speaking frankly, but this confidence and these bargaining chips are precisely what you, Senior, have bestowed upon me. If I were to ask for too little, it would be this junior who failed to recognize the gravity of the situation, and show disrespect to your esteemed presence.”
 
-Yun Che walked in leisurely. He glanced at Shenwu Mingque and spoke indifferently: "I heard a distinguished guest from the Eternal Night God Realm had arrived. To think it is a Senior Night Walker⁶ in person. My apologies for the lack of respect. May I ask what brings you here?"
+“......” This was an opening disadvantage that Shenwu Mingque could not dispute. She could only narrow her eyes once more and said in a cold voice, “Though the Coiling Dragon Seven Profound Crystal is quite important to Eternal Night, it is by no means indispensable. It certainly cannot outweigh five Divine Jades of Revelation.
 
-He did not bow, nor did he show the slightest bit of reverence. His eyes and tone even carried an undisguised air of nonchalance.
+“My personal presence here is to demonstrate my sincerity. Since you’re making an offer, I’m assuming that you intend to create a mutually beneficial outcome. However, this proposal of yours is utterly preposterous. If Divine Son Xi insists on such foolishness, then what would have been a win-win situation would likely become a colossal, widely-circulated joke about greed and ingratitude instead!”
 
-Shenwu Mingque frowned slightly but did not lash out... Shenwu Yi had nearly killed Yun Che two months ago; how could he possibly show Eternal Night a good face?
+To bait with material gain, and to pressure with prestige. It was indeed a heavy-handed move. Just as Meng Jianxi was about to take a step back, his gaze suddenly shifted toward the doorway, and the words on the tip of his tongue died away.
 
-Meng Jianxi quickly approached and said: "Brother Yuan, do you remember that dragon-shaped Abyssal Crystal I happened upon a while ago? Senior Shenwu has come specifically for that crystal."
+Yun Che strolled leisurely into the room and gave Shenwu Mingque a glance. He said casually, “I heard that a distinguished guest from the Eternal Night Kingdom of God had arrived, but I never imagined it would be a Night Patrol Officer. Much apologies. May I inquire as to the nature of your visit?”
 
-"Oh?" Yun Che feigned shock, then let out a sneer. "The renowned Chief of the Eternal Night Night Walkers came all this way specifically to seek an Abyssal Crystal of unknown origin? So... what did God Child Jianxi say?"
+He offered no bow, nor showed the slightest trace of deference. His gaze and tone carried a completely unmasked air of nonchalance as well.
 
-Meng Jianxi cooperated, saying: "To have Senior Shenwu visit in person, the value of that Abyssal Crystal is naturally extraordinary. Therefore, I just proposed that if Eternal Night wishes to obtain this crystal, they must exchange it for five Apotheosis Divine Jades."
+Shenwu Mingque frowned slightly, but did not react... Shenwu Yi had nearly killed Yun Che just two months ago. Of course he wouldn’t show Eternal Night any goodwill.
 
-"..." Yun Che’s expression visibly froze for a moment. He slowly turned his head, staring at Meng Jianxi, his tone becoming somewhat stiff: "You said... five??"
+Meng Jianxi quickly approached him and said, “Brother Yuan, do you recall that dragon-shaped abyssal crystal I happened to obtain a while back? Senior Shenwu had come specifically for it.”
 
-The six words "five Apotheosis Divine Jades" were likely enough to make the God Sovereigns of every nation change color. Meng Jianxi clearly misunderstood, thinking his "big opening" was truly too large, and hurriedly said: "This price is indeed a bit..."
+“Hmm?” Yun Che feigned surprise before scoffing, “Are you telling me that the chief of the Night Patrol Officers had purposely made a special trip just to beg for an abyssal crystal of unknown origin? I see... And what do you have to say about that, Divine Son Xi?”
 
-"A bit!?" Yun Che suddenly spoke, his voice rising sharply, and even his brows furrowed deeply. "God Child Jianxi, do you still remember... the trip to the Pure Land, the God-Slept Forbidden Region? I nearly died at the hands of the Eternal Night Divine Daughter, Shenwu Yi!"
+Meng Jianxi played along and replied, “Since Senior Shenwu Mingque had personally graced us with her presence, the abyssal crystal must be of considerable value. Therefore, I proposed that Eternal Night must offer five Divine Jades of Revelation in exchange for it.”
 
-"A grudge involving one's life is irreconcilable in this lifetime! And now, only two months have passed, yet you are allowing someone from Eternal Night to use a mere five Apotheosis Divine Jades to trade for a peerless Abyssal Crystal that our Dreamweaving only obtains once every million years?!"
+“......” Yun Che visibly froze for a moment before slowly turning his head to stare at Meng Jianxi. His tone took on a sliver of stiffness as he asked, “Did you say... five??”
 
-He stared at Meng Jianxi, every word carrying cold anger: "God Child Jianxi, are you the God Child of Dreamweaving, or the God Child of Eternal Night!?"
+“Five Divine Jades of Revelation”... These five simple words were likely enough to make even the Divine Regents grow pale. Meng Jianxi, clearly misinterpreting his reaction and thinking that he had indeed asked for far too much, hurriedly said, “I guess such a price is a bit too—”
 
-Shenwu Mingque was stunned, and Meng Jianxi also stood there dazed, before immediately saying in a panicked voice: "Yuan... Brother Yuan, why would you say that? My life and soul both belong to Dreamweaving, how could I..."
+“A bit!?” Yun Che suddenly raised his voice sharply and cut him off, eyebrows furrowing deeply. “Divine Son Xi, you do remember that, during our stay in the Pure Land, I had nearly lost my life at the hands of the Eternal Night Divine Daughter in the Forbidden Zone of Slumbering Gods, right?!
 
-"Save the nonsense!" Yun Che snapped his hand, clearly not wanting to hear more. He then abruptly turned around to face the frostily silent Shenwu Mingque. "Although that dragon-shaped Abyssal Crystal was found by the God Child, it belongs to Dreamweaving. He alone cannot decide its fate. If you want to take it, fine! But the price needs to be changed slightly."
+“This is a life-threatening grudge that may not be resolved in this lifetime! Yet now, barely two months have passed, and you actually allow the people of Eternal Night to trade mere five Divine Jade of Revelation for a peerless abyssal crystal—one that had taken Dreamweaver one full million years to obtain?!”
 
-Like Meng Jianxi before him, he slowly extended five fingers. "Apotheosis Divine Jades... fifty!"
+His gaze pierced Meng Jianxi, each word laced with icy fury. “Divine Son Xi, are you the Divine Son of Dreamweaver, or are you actually the Divine Son of Eternal Night!?”
 
-The corner of Meng Jianxi’s mouth twitched uncontrollably. Only then did he realize that Yun Che had appeared not because his demand was too large, but because it was far too small.
+Shenwu Mingque was speechless. Meng Jianxi was flabbergasted as well. Panicking, he tried to defend himself, “Bro... Brother Yuan, why are you saying such things? I, Meng Jianxi, owe both my life and soul to Dreamweaver. How could I possibly—”
 
-Fifty Apotheosis Divine Jades... Forget a single Eternal Night God Realm; even if one turned all six God Realms upside down, they wouldn't be able to scrounge up that many.
+“Cut the nonsense!” Yun Che waved his hands sharply, clearly unwilling to hear another word from him. He then spun around abruptly to face Shenwu Mingque, whose expression had turned stiff and cold. “Divine Son Xi may be the one who had uncovered the dragon-shaped abyssal crystal, but the item truly belongs to Dreamweaver. Its ownership is not something he alone can decide. If you want it, you can have it! But the price... will require a slight adjustment.”
 
-Shenwu Mingque’s face turned completely cold. "God Child Yuan, your words... are you trying to bully others too far?"
+He slowly held up five fingers, just as Meng Jianxi had done earlier. “ Fifty Divine Jades of Revelation... and the good is yours!”
 
-"Bully?" Yun Che gave a disdainful sneer. "A voluntary transaction—if it succeeds, both win; if not, neither loses. How is this bullying? Could it be more 'bullying' than your Eternal Night God Realm trying to kill me for no reason at all?"
+Meng Jianxi’s mouth twitched uncontrollably.
 
-"..." With the moral failing on her side, Shenwu Mingque could not refute him.
+It was only now he realized that Yun Che had appeared in person not because the price he had demanded was too high, but because it was far too low.
 
-Yun Che took a step forward, his voice turning several degrees colder: "The origin of that dragon-shaped Abyssal Crystal is still unknown, as is its use. If another nation needed it, it wouldn't be out of the question to gift it to them. But you, Eternal Night... fifty Apotheosis Divine Jades. Not half a jade less, or it's impossible!"
+Fifty Divine Jades of Revelation... forget the Eternal Night Kingdom of God, they could turn all six Kingdoms of God upside down and still not gather that many.
 
-Shenwu Mingque stared at Yun Che. Although her gaze was deep and carried prestige, she felt nothing but a deep sense of powerlessness in her heart.
+Shenwu Mingque’s expression turned utterly icy. “Divine Son Xi... don’t you think you are going too far?”
 
-Furthermore, she clearly perceived that while standing so close to her and being completely enveloped in her pressure, Yun Che’s expression was stern, without a shred of trepidation or fear. He didn't even show the instinctive physical shrinking that should have been present.
+“Too far?” Yun Che let out a scornful laugh. “This is a voluntary transaction. If it works out, we both win. If it fails, neither of us loses anything. How is that considered going too far? Besides, what could be farther than the Eternal Night Kingdom of God trying to kill me for no reason at all?”
 
-A body in the Divine Sovereign Realm⁷ standing so tall against the direct pressure of the Divine Limit Realm... she had never seen its like in her life.
+“......” The moral high ground was never hers to begin with, so Shenwu Mingque had no rebuttal to offer.
 
-Seeing that Shenwu Mingque had fallen silent for a long time, Meng Jianxi stepped in at the right moment. "Brother Yuan, this matter... even if we added up all the existing Apotheosis Divine Jades in the entire Abyss right now, there probably wouldn't be fifty of them."
+Yun Che took a step forward, his voice growing colder. “The origin and purpose of the dragon-shaped abyssal crystal remain unknown to this day. If another Kingdom needs it, I would have no objections to presenting it to them. But Eternal Night? Fifty Divine Jade of Revelation is my only offer. I shan’t accept even half a piece less!”
 
-He remembered Yun Che’s previous instructions... while they were to "open their mouths wide," the original intent was still to make the deal happen.
+Shenwu Mingque stared intently at Yun Che with a deep, menacing gaze, but internally, her heart was filled with nothing but profound helplessness.
 
-Meng Jianxi took a step closer. Without trying to hide it from Shenwu Mingque, he spoke in a perfectly ordinary voice: "Brother Yuan, I know you have resentment in your heart, but the Father God⁸ has already personally stepped in to punish them, so the matter is considered even. Now that the Eternal Pure Land is approaching, the Father God has repeatedly instructed us not to cause trouble recently. No matter how precious an Abyssal Crystal is, it is ultimately a dead object. But Senior Shenwu’s personal visit is a major event. If we rebuff her face like this and provoke the anger of the Wuming God Sovereign... if Father God finds out, he might also..."
+She could perceive all too clearly that Yun Che, despite standing so close to her and completely enveloped by her aura of intimidation, maintained a resolute expression. He had shown not even a trace of apprehension, fear, or even the instinctive flinching that his body should have exhibited.
 
-Yun Che’s brows were tightly knit, his indignation unextinguished, but he did not immediately speak to refute... It seemed the words "Father God" had calmed him down.
+She did not know it was possible for the body of a Divine Master to withstand the intimidation of a Divine Limit Realm so directly and defiantly... until now.
 
-Shenwu Mingque also spoke at this time: "The Dragon-Coiled Seven Profound Crystal is indeed something the Exalted One⁹ requires. The High Priestess's words of warning are still in my ears, and my Eternal Night also has no wish to cause any unnecessary trouble near the period of the Eternal Pure Land. Therefore, as long as the price is not so excessive, I will not hesitate. But if God Child Yuan insists on causing trouble, then I... can... do... nothing!"
+When the silence grew long and uncomfortable, Meng Jianxi finally stepped forward and said, “Brother Yuan, regarding this matter... even if we were to gather every single Divine Jade of Revelation currently in existence in the entire Abyss, I fear that there wouldn’t be as many as fifty.”
 
-The last four words were as faint and rippleless as a deep pond.
+He recalled Yun Che’s earlier instructions... Though they were to ask for the moon, the underlying intention was still to bring this trade to fruition.
 
-After a deathly silence, Yun Che slowly looked up, a faint smile reappearing on his lips. "Fifty Apotheosis Divine Jades is indeed a bit too much. If I lose the grace of my Dreamweaving God Realm because of my personal grudge, it would indeed be a bad bargain. In that case, I shall change the price."
+Meng Jianxi took a step closer, making no attempt to hide his intentions from Shenwu Mingque. In a voice as ordinary as could be, he said, “I know you harbor resentment, Brother Yuan, but Father has already personally intervened to mete out punishment. This matter can be considered settled, no? Besides, the Eternal Pure Land is near, and Father has repeatedly warned us not to cause trouble in the coming days. No matter how precious the abyssal crystal may be, it is ultimately an inanimate object.
 
-The corners of his mouth slowly widened—a slight movement that bloomed into a strangely dangerous curve in Shenwu Mingque’s eyes. "Don't worry, it is definitely a price your Eternal Night God Realm can afford, and one that is incredibly easy to achieve."
+“On the other hand, the arrival of Senior Shenwu Mingque is a major event. If we were to snub her in a way that provokes the wrath of the Lightless Divine Regent a second time... and if Father were to learn about this, I fear he might....”
 
-Shenwu Mingque looked at Yun Che, holding her breath, listening to him slowly utter the new price:
+Yun Che’s brows knitted tightly. Though his anger had not subsided, he did not retort immediately as though the words “Father” had calmed him.
 
-"Have your Eternal Night God Realm’s Divine Daughter, Shenwu Yi, come here and beg me in person."
+At that moment, Shenwu Mingque spoke, “The Coiling Dragon Seven Profound Crystal is indeed what the supreme one requires. The Chief Priest’s admonition still rings clearly in my ears as well. I, Eternal Night, definitely do not desire to stir up any unnecessary trouble as we approach the Eternal Pure Land. Therefore, I shall not hesitate so long as the price isn’t too exorbitant. But if Divine Son Yuan insists on doing the opposite, then I shall have no choice... but to act! ”
 
-Space suddenly froze, followed by a sudden wave of bone-chilling cold.
+Her last three words were spoken in a voice as dark and still as the night itself.
 
-In the land of Dreamweaving, facing two juniors of the Dreamweaving God Realm, she actually lost control of her anger... simply because it involved Shenwu Yi.
+There was a moment of deathly silence. Then, Yun Che raised his gaze indifferently, and a faint smile returned to the corners of his mouth. “I suppose fifty Divine Jades of Revelation is indeed too much. If, because of my personal grievance, I were to lose the dignity of the Dreamweaver Kingdom of God, it would indeed be a poor bargain. In that case, I shall propose a different price.”
 
-Meng Jianxi’s brow darkened, and he instinctively stepped in front of Yun Che. Hundreds of auras instantly locked onto the location, and the space became so heavy it felt as if the sky were about to collapse.
+The corners of his mouth slowly turned up. It was a subtle movement, yet in Shenwu Mingque’s eyes, it sparked a hint of inexplicable danger. “Rest assured, it will be a price the Eternal Night Kingdom of God can definitely afford—one that can be met with the utmost ease as well.”
 
-Yun Che, however, seemed completely oblivious. Instead, he maintained a playful posture. "Whether to agree or not is entirely voluntary. And... there is no room for negotiation!"
+Shenwu Mingque stared at Yun Che and held her breath as he slowly stated his new terms:
 
-Ignoring Shenwu Mingque’s rage and without waiting for her to respond, Yun Che turned away. "God Child Jianxi, the matter is settled. Considering that the Senior from Eternal Night has traveled from afar as a guest, we shall grant them three days."
+“Have Shenwu Yi, the Divine Daughter of your Eternal Night Kingdom of God, come and beg me in person.”
 
-"Within three days, if Shenwu Yi comes to beg in person, that dragon-shaped crystal will belong to the Eternal Night God Realm; I will not go back on my word. But once three days pass... God Child Jianxi, please completely destroy that Abyssal Crystal. Not a single speck of residue is allowed to remain!"
+The air froze, and a bone-piercing chill suddenly spread through the face.
 
-Shenwu Mingque’s aura surged again. "You..."
+She was facing two Dreamweaver in the land of Dreamweaver, yet she had lost control and exposed her rage... all because Shenwu Yi had gotten involved.
 
-"Senior Shenwu had better mind her words." Yun Che interrupted her unceremoniously, his posture so arrogant it was as if he weren't facing a high-ranking elder. "I am young and lack seniority, so my heart is naturally very narrow. If I accidentally hear something I don't want to hear, I might just give the order to destroy the crystal immediately!"
+Meng Jianxi furrowed his brows and instinctively stepped in front of Yun Che. Hundreds of auras instantly locked onto this area as well. The space grew so oppressive it felt as though the heavens were about to collapse.
 
-"Senior might as well give it a try."
+Yun Che seemed oblivious to it all, though. Adopting a mocking demeanor, he said, “Whether you agree or not is entirely up to you. And this time... there is absolutely no room for negotiation!”
 
-Anger, words, and unwillingness... mixed with the surging turbid breath, were all stuck firmly in her throat, unable to spill out another drop. Instead, waves of icy fear surged in her heart.
+Ignoring Shenwu Mingque’s fury, Yun Che turned around and declared without waiting for a response, “Divine Son Xi, we’re done here. Out of respect for Senior Eternal Night’s long journey here and considering your status as a guest of Dreamweaver, I shall grant you three days.
 
-The Dragon-Coiled Seven Profound Crystal was the final Abyssal Crystal needed for Shenwu Yanye’s rebirth. If she failed... if she caused it to be permanently destroyed, the consequences were simply unimaginable.
+“In three days, if Shenwu Yi personally shows up and begs me for the dragon-shaped profound crystal, then I will give it to the Eternal Night Kingdom of God. That is a promise. But if three days have passed, and no one shows up... Divine Son Xi, I ask that you completely destroy that abyssal crystal, leaving not a single trace behind!””
 
-After a long silence and a moment of daze, Shenwu Mingque’s slightly out-of-control aura gradually dissipated. She said nothing more and simply turned to leave.
+Shenwu Mingque’s aura trembled once more. “You....”
 
-"Show the guest out!" Yun Che shouted, but his feet didn't move, and he didn't even cast a glance in her direction.
+“Senior Shenwu, you’d best watch your tongue.” Yun Che interrupted her without the slightest hesitation, his demeanor so haughty it bore no resemblance to someone addressing a senior of such high standing whatsoever. “I’m still very young and inexperienced. My mind is so narrow that, if I happen to overhear something I don’t wish to hear, I might just give the order to destroy the abyssal crystal right now!
 
-Meng Jianxi had no choice but to pull back his step. He waited until Shenwu Mingque’s aura was far away before saying with a face full of wonder and inquiry: "Brother Yuan, this move... surely it wasn't just to vent your anger?"
+“Feel free to try me if you don’t believe me, Senior.”
 
-"Personal grudges are indeed a small matter." Yun Che’s expression was relaxed. "But since the world calls me the Abyssal God Child, this grudge is no longer limited to the individual; it concerns the face of the God Realm. So, rather than a God Sovereign Senior stepping in, isn't it much more satisfying for me to collect the debt myself?"
+Rage, words, resentment; all mingling into a surging tide of impure energy—she choked it all back her throat, forbidding even a sliver from escaping. In their place, waves of icy dread welled up inside her heart.
 
-Meng Jianxi thought for a moment and did not offer any words of persuasion. Instead, he said: "Putting those things aside, I am suddenly curious if the Eternal Night God Realm will agree to this condition. And if they truly do, I’m afraid I’ll be even more curious... what divine use this Dragon-Coiled Seven Profound Crystal has that would make them willing to back down to this extent."
+The Coiling Dragon Seven Profound Crystal was the last crystal Shenwu Yanye needed to undergo her rebirth. If she failed... if she directly caused it to be permanently destroyed... the consequences were simply unimaginable.
 
-Yun Che smiled but said nothing, a bottomless, icy pool hidden deep within his eyes.
+After a long, dazed silence, Shenwu Mingque’s slightly uncontrolled aura gradually dissipated. She said nothing more and turned to leave.
 
-Returning to the gloomy and continuous territory of the Eternal Night God Realm, Shenwu Mingque’s suppressed emotions did not relax at all; instead, they became heavier.
+“Show her out!” Yun Che shouted, yet he didn’t move a muscle or even glance at her direction. Consequently, Meng Jianxi had no choice but to withdraw his outstretched foot.
 
-Her pace gradually slowed, getting slower and slower, until later, every step seemed to become exceptionally difficult. She didn't know how to describe this situation, let alone what kind of punishment awaited her.
+After Shenwu Mingque’s aura had faded far, far away, he finally asked Yun Che with overflowing astonishment and curiosity, “Brother Yuan, surely... you haven’t made this move purely to vent your anger, right?”
 
-"Auntie Mingque."
+“Personal grudges are indeed trivial matters,” Yun Che replied calmly, “but since the world calls me Divine Son Yuan, then this feud is no longer a personal matter. It is something that concerns the very prestige of the Kingdom of God. In that case, rather than having Senior Divine Regent intervene in person, it would be much better if I settle this debt with my own two hands, don’t you agree?”
 
-A familiar light call interrupted her thoughts. In her mental turmoil, she hadn't even noticed the other person’s approach.
+Meng Jianxi mulled it over for a moment. Instead of trying to change Yun Che’s mind, he said, “Setting all that aside, I’m suddenly curious whether the Eternal Night Kingdom of God will agree to this condition. And if they truly do, I fear I’ll only be even more curious—just what divine powers do this Coiling Dragon Seven Profound Crystal possess that would make them back down to this extent?”
 
-Shenwu Yi was a silhouette in black, her eyes like faint stars. She seemed to have perceived the other's agitation and unease, as her gaze carried a hint of concern. "Auntie is travel-worn and seems to have something on her mind. Did something happen?"
+Yun Che smiled but did not answer, a bottomless, icy abyss hidden deep within his eyes.
 
-Facing the only, and exceptionally bright, light of the Eternal Night God Realm, Shenwu Mingque felt the haze in her heart dissipate significantly. Then, she suddenly thought that perhaps what she should do most was to ask and listen to her wishes. After all, she was so peerlessly intelligent.
+Back in the endlessly dark realm of the Eternal Night Kingdom of God, Shenwu Mingque’s oppressed heart found no relief. Instead, her burden had only grown heavier.
 
-Forcing a smile, she said softly: "The whereabouts of the Dragon-Coiled Seven Profound Crystal have been found."
+Her pace kept slowing further and further until eventually, even taking a single step felt exceptionally difficult. She did not know how to describe her current predicament, nor did she know what punishment awaited her down the line.
 
-Shenwu Yi’s eyes lit up with an extraordinary light, and her voice carried an irrepressible joy. "We just got the Abyssal Heart Vine, and now we have news of the Seven Profound Crystal so soon? It seems Heaven is protecting Mother God! But... with Auntie’s expression, could it be that things did not go smoothly?"
+“Aunt Mingque.”
 
-With a soft sigh, Shenwu Mingque said: "The ones who obtained the Dragon-Coiled Seven Profound Crystal are the Dreamweaving God Realm."
+It was at this moment a soft, familiar voice interrupted her train of thoughts. So lost in her troubled thoughts that she hadn’t even noticed the other woman approaching.
 
-The excitement slowly cooled, and Shenwu Yi murmured: "I see. We just had a great falling out with Dreamweaving. Auntie’s trip must have been exceptionally difficult, and you were unable to get what you wanted."
+Shenwu Yi, clad in plain black while looking at her with eyes resembling distant stars, seemed to sense her restlessness and unease. A hint of concern flashed in her gaze as she asked, “Aunt, you look weary from your journey, as though something is weighing on your mind. Has something happened?”
 
-Shenwu Mingque spoke plainly: "The Dragon-Coiled Seven Profound Crystal is useless to them. But because we are Eternal Night, they proposed an extremely excessive condition."
+Facing the sole, exceptionally radiant beacon of light in the entire Eternal Night Kingdom of God, Shenwu Mingque felt more than half the gloom in her heart lifting before she knew it. Then, it suddenly occurred to her that perhaps what she ought to do most right now was to inquire about and listen to Shenwu Yi’s wishes. After all, she was so incomparably intelligent.
 
-At this point, her voice paused, and she avoided Shenwu Yi’s gaze.
+Forcing a smile on her face, she whispered, “The whereabouts of the Coiling Dragon Seven Profound Crystal has been discovered.”
 
-Shenwu Yi immediately understood something. "Dreamweaving’s condition involves me?"
+Shenwu Yi’s eyes sparkled with astonishment, and her voice carried an unmistakable note of delight. “We’ve only just obtained the Abyssal Heart Vine, and now we have found the location of the Seven Profound Crystal as well? The heavens truly are watching over Mother! But... judging by your expression, could it be that things aren’t going as smoothly as expected?”
 
-"..." Shenwu Mingque’s voice became strained. "Dreamweaving’s condition is... for you, within three days, to personally beg Meng Jianyuan for it."
+With a soft sigh, Shenwu Mingque replied, “It is the Dreamweaver Kingdom of God that has obtained the Coiling Dragon Seven Profound Crystal.”
 
-The air instantly froze... but only for a single breath. Shenwu Yi slowly nodded, her eyes calm as a still pond. "Fine, I will go."
+Her excitement gradually faded, and Shenwu Yi murmured. “I see. We have only just incurred the Dreamweaver’s deep enmity. Your journey must have been exceptionally arduous, and it looks like you did not achieve your goal.”
 
-"Wuyi!" Shenwu Mingque’s gaze snapped back, and she said urgently: "You know that Meng Jianyuan’s move is intended to publicly humiliate you! This matter must first be reported to the Exalted One; there will surely be room for maneuver."
+Shenwu Mingque spoke bluntly, “The Coiling Dragon Seven Profound Crystal is of no use to them, but because we are Eternal Night, they have proposed an extremely unreasonable condition.”
 
-"No," Shenwu Yi shook her head firmly. Her voice was low, and her gaze was filled with absolute determination. "This matter must absolutely not be known by Mother God. The humiliation given by Dreamweaving has already left Mother God’s anger unextinguished. If we report this, it will only add to her fury."
+At this, she paused and averted her gaze from Shenwu Yi.
 
-"Mother God needs peace of mind right now, not distraction... and she must not be put in a difficult position because of me."
+Shenwu Yi immediately understood something. “Does this condition have something to do with me?”
 
-Shenwu Mingque’s eyes were full of heartache and pity. "But..."
+“......” Shenwu Mingque’s voice grew hoarse. “Dreamweaver’s condition... is for you, within three days, to personally go to Meng Jianyuan to make the request.”
 
-Shenwu Yi raised a slender finger, lightly touching the air in front of Shenwu Mingque’s lips. "If a shred of dignity can be traded for the object Mother God has always prayed for, there is nothing in this world more worthwhile or more joyful to me than that."
+The air seemed to freeze... but only for a breath. Shenwu Yi slowly nodded and said calmly, “Very well. I’ll go.”
 
-She smiled, turning around to comfort the elder. "Besides, that is the Dreamweaving God Realm, and I am the Divine Daughter of Eternal Night. His humiliation will not dare to cross certain lines. Auntie can rest assured... Have you forgotten? You once said that the Glazed Heart¹⁰ I possess is a miracle granted by the heavens, and that I would be favored and protected by fate. Surely the world-renowned Dreamweaving God Realm cannot be more dangerous than the grey, deep Sea of Mist?"
+“Wuyi!” Shenwu Mingque snapped back as she exclaimed urgently, “Do you realize that Meng Jianyuan must intend to humiliate you publicly?! We must first report this to the supreme one; there must be some room for negotiation.”
 
-"Wuyi..." Shenwu Mingque murmured, momentarily unsure of what to say.
+“No.” But Shenwu Yi shook her head decisively. Her voice was low, and her gaze was unwavering. “Under no circumstances must Mother learn of this. The humiliation Dreamweaver had inflicted is still simmering in Mother. If we report this, it will only fuel her fury further.”
 
-"Let’s go. I’ll trouble Auntie to take me to the Dreamweaving God Realm now."
+“What Mother needs most now is peace of mind, not distraction... and we definitely must not put her in a difficult position because of me.”
 
-She had already lightly taken Shenwu Mingque’s arm. "The Dragon-Coiled Seven Profound Crystal has no record in the entire history of the Abyss. For it to appear now must be the heavens pitying Mother God. Every breath it remains in the hands of others is another breath of unpredictable risk. No matter what, it must be obtained as soon as possible... I will accept Mother God’s punishment afterward."
+Shenwu Mingque’s eyes brimmed with pain and pity. “But....”
 
-Shenwu Mingque was still hesitating, but she was already being led by Shenwu Yi, so she followed her, flying once more toward the Dreamweaving God Realm.
+Shenwu Yi raised a slender finger and touched it lightly to Shenwu Mingque’s lips. “If I can trade my meager dignity for the thing Mother has long desired, there is nothing in this world that would be more worthwhile and joyful to me.”
 
-No one knew that as their figures disappeared into the dark sky, deep within the Eternal Night Divine Hall, behind the pitch-black curtains, bursts of chaotic and obscure hissing sounds echoed. Finally, they turned into several hoarse, intermittent sobs...
+A smile touched her lips, and she actually turned around to comfort Shenwu Mingque instead. “Besides, this is the Dreamweaver Kingdom of God, and I am the Eternal Night Divine Daughter. Whatever his plans may be, he will not dare to overstep his bounds, so please rest assured, aunt... Have you forgotten? You once said that I, possessor of the Heart of Glazed Glass, is a miracle bestowed by the heavens themselves? I am destined to receive the favor and protection of fate. The Dreamweaver Kingdom of God may be world-renowned, but it couldn’t possibly be more perilous than the Endless Fog, could it?”
 
+“Wuyi....” Shenwu Mingque murmured softly, momentarily at a loss for words.
+
+“Let’s go. Take me to the Dreamweaver Kingdom of God right now.”
+
+She gently took Shenwu Mingque’s arms and said, “The Coiling Dragon Seven Profound Crystal has never been recorded in the entire history of the Abyss. Its emergence now must be a sign of the heavens’ mercy for Mother. However, every moment it spends in another’s hands is a chance that something unforeseeable may occur. Thus, we must retrieve it as soon as possible, no matter what... and face Mother’s punishment afterward.”
+
+Shenwu Mingque was still hesitating, but Shenwu Yi was already pulling her along. So, she simply went along with it and flew once more toward the Dreamweaver Kingdom of God.
+
+No one knew that, as their figures vanished into the dark sky, deep within the Eternal Night Divine Palace, a series of chaotic, indistinct hissing were ringing from behind pitch black curtains. In the end, it all devolved into hoarse, intermittent sobs....
+
+1. If Mars knows English, he would’ve approved of this title too. ☜
+
+2. Man, the women of Eternal Night just can’t help but spit facts they don’t even realize are 100% accurate. ☜
+
+3. Feel free to misinterpret this, it is ATG. ( ͡° ͜ʖ ͡°) ☜

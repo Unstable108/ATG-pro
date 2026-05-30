@@ -1,181 +1,175 @@
 ---
 chapterNumber: 2176
-title: "Unexpected Guest"
-publishedAt: "2026-04-02"
+title: "Surprise Visitor"
+publishedAt: "2026-05-30"
 ---
 
-The Eternal Night God Kingdom¹. Ink-colored mist locked the vault of heaven, and bone-chilling winds swept the earth, staining even the wind and dew with a soul-corroding gloom. Ever since Shenwu Yanye returned in shame from the Pure Land, the entire Eternal Night God Kingdom had been shrouded in an incredibly terrifying atmosphere. This was especially true for the capital city, already a place of shadows and depression, which seemed to have suddenly sunk into an even more sinister and ghastly haze. Every inch of space and every wisp of moving air made one tremble with suffocation.
+Eternal Night Kingdom of God.
 
-With Shenwu Yanye’s volatile temperament, she could explode into a rage without provocation and slaughter without cause. It was easy to imagine how the humiliating disgrace she suffered at the Pure Land would churn the venomous frenzy within her twisted sea of soul into a terrifying state. Nearly two months had passed since her return, yet the haze over the Eternal Night God Kingdom showed no sign of thinning. From the murky sky, the horrific shrieks of the God of Blind Darkness²—devoid of any divine dignity and sounding more terrifying than the cries of a hundred million despairing ghosts—still rang out from time to time, causing the creatures bound to the darkness to shudder and shrink in fear.
+An ink-black fog locked the heavens, and bitter wind swept across the land. Even the dew was tinged with a bone-biting gloom. Ever since Shewu Yanye returned from the Pure Land, the entire Eternal Night Kingdom of God had been shrouded in an utterly terrifying atmosphere. This was especially true of the capital city, where its original darkness and gloom seemed to have sunk into an even more sinister, terrifying state. Every inch of space, every wisp of breath, sent shivers down the spine and left one gasping for air.
 
-In front of the Eternal Night Divine Hall, the Daughters of Eternal Night forced to serve in close proximity stood with their bodies taut and faces deathly pale. Their auras were as still as death; they did not even dare to let a single strand of hair move.
+Given Shenwu Yanye’s terrifying temperament—prone to unprovoked rage and senseless slaughter—one could only imagine to what terrifying extent the profound humiliation she suffered in the Pure Land had stirred the venomous fury lurking within her twisted soul sea. Nearly two months had passed since her return from the Pure Land, yet the gloom shrouding the Eternal Night Kingdom of God hadn’t diminished in the slightest. From the darkened skies, the howls of the Lightless Divine Regent—devoid of any divine dignity, yet more terrifying than a billion despairing spectres—still echoed from time to time, causing every living being bound in the shadows to tremble and cower uncontrollably. Before the Eternal Night Divine Palace, the daughters of Eternal Night, forced to serve at their regent’s side, stood with every muscle taut, their faces deathly pale, and their aura withdrawn as if they were already dead, not daring to stir even a strand of hair.
 
-Today, however, an aura finally approached the area of its own accord, moving in a great hurry. Shenwu Mingque passed through layers of terrifying, thick baleful qi and knelt respectfully at the foot of the hall’s steps. Her voice was kept very low, yet it could not hide her urgency. "Mingque begs an audience with the Venerable One. There is a matter of great importance..."
+Today, one presence finally approached the place of their own accord—and with great haste as well. Shenwu Mingque pushed through layer upon layer of terrifying, tangible malevolent energy and prostrated herself respectfully at the foot of the palace steps. Her voice was hushed, yet her urgency was unmistakable, “Mingque seeks an audience with the Supreme One. There is a matter of great importance....”
 
-"GET OUT!!"
+“Get lost!” A single furious shout suddenly boomed from the depths of the temple, slamming violently into Shenwu Mingque with the destructive fury of a thunderclap splitting the sky. The daughters of Eternal Night standing guard outside the palace all staggered in unison, their already pallid faces instantly drained of all color. One woman, unable to withstand the overwhelming pressure, let a trickle of crimson blood spill from the corner of her lips, yet she remained frozen in place, lacking even the courage to wipe away the blood.
 
-The response was a shrill roar powerful enough to pierce the heart. The Daughters of Eternal Night standing before the hall all swayed, their already pale faces turning even whiter. One girl’s lips slowly leaked a trace of blood, yet her body remained rigid; she did not dare to make any movement to disperse the pressure.
+The savage shout was followed by a brutal, venomous command, “Get lost and issue this decree: sever the limbs of all male slaves, and do not allow them to heal for a hundred days! Anyone who dares to disobey shall be torn to pieces and made into fertilizer, leaving no remains!!”
 
-"Get out of here!" A second roar exploded from the depths of the divine hall like a thunderclap splitting the sky, carrying a world-destroying malice that slammed hard into Shenwu Mingque.
+A lump formed in Shenwu Mingque’s throat. She dared not offer any counsel, nor did she leave. Instead, she spoke rapidly, “Mingque obeys. I have come to report a matter of great importance: the Coiling Dragon Seven Profound Crystal has appeared.”
 
-Following the roar was a toxic command of wanton brutality: "Go and pass the order: break the limbs of every male slave! They are not permitted to heal for a hundred days! Anyone who dares to disobey shall be ground into fertilizer; not a single scrap of their corpse shall remain!!"
+She spoke with blinding speed and cut straight to the heart of the matter. Otherwise, she feared she would never get another chance to speak. Should Shenwu Yanye learn of this later than sooner, she would surely hold her responsible.
 
-Shenwu Mingque’s throat moved. She did not dare to offer counsel, nor did she leave. Instead, she spoke rapidly, "Mingque obeys. However, I have come to report a major event. The Seven Apertures Coiling Dragon Profound Crystal³ has appeared in the world."
+The sinister, furious mists swirling within the temple suddenly froze, and Shenwu Yanye’s raspy voice rang out, “What... did you say?”
 
-She spoke with extreme speed, going straight to the core of the matter. Otherwise, she feared she would never have another chance to speak, and if Shenwu Yanye learned of this too late, the blame would only fall on her.
+Her voice carried such obvious agitation—even shreds of uncontrollable tremors—that it completely overshadowed her earlier fury and madness.
 
-The sinister, raging haze churning within the divine hall suddenly froze. Then, Shenwu Yanye’s raspy voice drifted out: "What... did you say?"
+Shenwu Mingque quickly composed herself and said, “This is a matter of utmost importance to the Supreme One; Mingque would not dare to utter a single word of falsehood.
 
-Her voice carried an obvious excitement, even a hint of uncontrollable trembling... it completely suppressed her previous anger and madness.
+“To ensure accuracy, Mingque had personally journeyed far to observe it in secret. Measuring two-third of a meter in length, this peculiar mutated abyssal crystal possesses a color like solidified ink, and a shape resembling an angry coiling dragon. More importantly, it is adorned with seven distinct orifices, and emits an aura that is unmistakably that of a dragon. Not only is the aura quite potent, it is exceedingly unusual—I have never witnessed anything like it in my life.”
 
-Shenwu Mingque quickly assumed a serious expression. "This concerns the Venerable One's... great ambition. How would I dare to utter a single false word?"
+“‘Length of a meter or so, shape like that of a coiling dragon, color like ink, seven orifices embedded into its body..." Everything about it matches the description in the Secret Canon perfectly! Its unique draconic aura in particular cannot belong to any dragon of this age. Even if someone were to try to imitate it, it would be utterly impossible.
 
-"To ensure there were no mistakes, I personally traveled a great distance to observe it in secret. This recently surfaced exotic Abyss Crystal is two feet long and its color is like condensed ink. Its shape resembles a coiling, angry dragon, and its body is set with seven distinct apertures. The aura it releases is unmistakably dragon breath. Furthermore, this dragon breath is not only dense but extremely peculiar—something I have never seen before in my life."
+“Yet the one who obtained this crystal did not know what it was, much less its name. They were secretly investigating its secrets until the Kingdoms became aware of it.”
 
-"All of this perfectly matches the description in the 'Secret Manual': 'Several feet in length, shaped like a coiled dragon, its color like ink, its body set with seven apertures.' Most importantly, its unique dragon breath does not belong to any dragon currently existing in this world. Even if one wished to forge a fake, it would be impossible."
+At this point, even the daughters of Eternal Night standing nearby could clearly sense Shenwu Yanye’s breathing growing several times heavier and more uncontrollable than normal. As the person closest to Shenwu Yanye, Shenwu Mingque understood all too well what the emergence of the Coiling Dragon Seven Profound Crystal meant to her.
 
-"The one who obtained this crystal also does not know what it is, let alone its name. They are currently searching for its secrets in secret, which is how the various kingdoms came to know of it."
+“Where... is... it... right... now....” Shenwu Yanye’s tone had completely changed at this point. It was hoarse and muffled to the point where it was almost inaudible.
 
-As she spoke, even the Daughters of Eternal Night on the side could clearly sense that Shenwu Yanye’s breathing had become several times heavier and more chaotic. As the person closest to Shenwu Yanye, Shenwu Mingque understood deeply what the appearance of the "Seven Apertures Coiling Dragon Profound Crystal" meant to her.
+Shenwu Mingque secretly took a deep breath. “The place where it has manifested is rather unfavorable. It is... the Dreamweaver Kingdom of God.”
 
-"Where... is... it... now..." Shenwu Yanye’s tone had changed completely, becoming so hoarse and jarring it was almost unintelligible.
+Bang! A violent, uncontrolled explosion suddenly echoed from within the hall. Though it did not strike her, it still sent Shenwu Mingque reeling. As the Lightless Divine Regent, the humiliation she had suffered recently came from none other than Meng Kongchan. Without exaggeration, her hatred toward Meng Kongchan and the Dreamweaver Kingdom of God had become as deep as a bottomless abyss; merely hearing their names was enough to make her sea of hatred surge to the heavens.
 
-Shenwu Mingque took a soft breath. "The place where it appeared is somewhat unfavorable. It is in... the Dreaming Moon God Kingdom⁴."
+If only it had appeared anywhere else....
 
-Bang!
+Shenwu Mingque bowed her head deeply and continued, “The Coiling Dragon Seven Profound Crystal is currently in the possession of the Dreamweaver Divine Son, Meng Jianxi. However, he does not know its name or its purpose. For now, he called it the Dragon-shaped Profound Crystal, and he has been sending people everywhere to search for any possible records or information regarding its effects. If his search yields no results after a long time, it may end up reaching the Pure Land... Mingque fears that uncontrollable variables may arise then.”
 
-An uncontrolled explosion of air suddenly erupted from within the hall. Though it didn't strike her, it still caused Shenwu Mingque’s body to jolt. As the God of Blind Darkness, the humiliation Yanye suffered recently all came from Meng Kongchan. Her hatred for Meng Kongchan and the Dreaming Moon God Kingdom was like a bottomless abyss; simply hearing the name was enough to fill her world with a sea of resentment.
+“What are you waiting for then?!”
 
-But unfortunately... Shenwu Mingque lowered her head deeply and continued, "This Seven Apertures Coiling Dragon Profound Crystal is currently in the hands of the Dreaming Moon Divine Son, Meng Jianxi. He does not know its name or its use; he currently calls it the Dragon-shaped Profound Crystal and has been sending people everywhere to search for possible records or its utility. If there are no results for a long time, he might eventually approach the Pure Land... at that time, uncontrollable variables may arise."
+Shenwu Yanye’s voice suddenly turned violent. “Hurry and retrieve it for me! Or are you expecting Me to go and fetch it myself!?”
 
-"Then what are you waiting for!"
+“Mingque would never presume to do such a thing, but....”
 
-Shenwu Yanye’s voice turned abruptly irritable. "Why haven't you gone to seize it! Must I go personally!?"
+Shenwu Mingque repeatedly deliberated her words before responding with the utmost caution, “A rift has recently emerged between Dreamweaver and Eternal Night, and now is the worst possible time to approach them. If Eternal Night were to intervene in person, I fear we would not achieve our goal. And even if we did, the cost would likely be far too high.
 
-"I wouldn't dare, it's just..."
+“Therefore, I propose that we temporarily enlist the aid of an old friend from another Kingdom—”
 
-Shenwu Mingque weighed her words carefully, proceeding with extreme caution. "It's just that our Eternal Night and Dreaming Moon have just had a falling out. Right now is the most unsuitable time for us to approach them. If Eternal Night steps forward, I fear it will be difficult to get what we want. Even if we succeed, the price will likely be astronomical."
+“Insolence!”
 
-"Therefore, I suggest we temporarily borrow the strength of an old friend from another kingdom..."
+Shenwu Yanye’s terrifying shout cut her off before she could finish her sentence. “Since you know the Secret Canon, you must know how crucial the Coiling Dragon Seven Profound Crystal is to Me! How dare you suggest passing it to another’s hands! Also, did you say ‘an old friend from another Kingdom’?”
 
-"Bastard!!"
+Each word Shenwu Yanye uttered pierced the soul like ice. “Do you still harbor treacherous desires that stretch beyond Eternal Night, Mingque!?”
 
-Before Shenwu Mingque could finish, she was cut off by Shenwu Yanye’s terrifying roar. "Since you know of the Secret Manual, you should know how important the Seven Apertures Coiling Dragon Profound Crystal is to me! How could it possibly pass through the hands of another!"
+“No, no, I would never dare!”
 
-"An old friend from another kingdom?"
+Shenwu Mingque’s face drained of all color in an instant. She bowed her head deeply and pleaded, “My life and heart belong entirely to Eternal Night and the Supreme One. I harbor not a single shred of disloyalty. It was only in my eagerness to obtain the Coiling Dragon Seven Profound Crystal that I spoke such nonsense.
 
-Shenwu Yanye’s every word was as cold as a soul-piercing blade. "Mingque, it seems that even within Eternal Night, you still harbor divided loyalties!?"
+“I beg for your forgiveness, Supreme One. I shall set out immediately for Dreamweaver to retrieve the Coiling Dragon Seven Profound Crystal for you.”
 
-"No, no! I wouldn't dare!"
+The Lightless Divine Regent’s chilling voice slammed through Shenwu Mingque’s skull and into her soul. “Listen well. You have ten days to fulfill My request! By any means necessary, at any cost, you must bring back the Coiling Dragon Seven Profound Crystal unscathed!! Remember, by any means necessary! It means you will obtain it even if you must kneel and flay every inch of skin and flesh from your face!!”
 
-Shenwu Mingque’s face instantly lost all color. She bowed deeply, her head touching the ground. "My life and my heart belong to Eternal Night and the Venerable One. I harbor no divided loyalties whatsoever. I was merely too eager to obtain the crystal and spoke foolishly. I beg the Venerable One’s forgiveness."
+No matter hatred and madness had consumed Shenwu Yanye, she understood one thing: since the Coiling Dragon Seven Profound Crystal was in the hands of the Dreamweaver Divine Son, retrieving it would mean facing the entire Dreamweaver Kingdom of God... meaning that seizing it by force was simply impossible. Eternal Night had nearly driven Meng Jianyuan to the brink of death, and Dreamweaver had retaliated by humiliating their regent... Given the grudge and this situation, the price Eternal Night would have to pay to obtain the Coiling Dragon Seven Profound Crystal could only be unimaginable. Yet no matter how great the cost, it could never surpass Shenwu Yanye’s twisted desire and unending madness.
 
-"I will personally head to Dreaming Moon immediately to retrieve the Seven Apertures Coiling Dragon Profound Crystal for the Venerable One."
+“Yes. Mingque will not fail in this mission.”
 
-"Humph!"
+Shenwu Mingque ended her report right there and rose, taking a step back. But just as she was about to leave, she clenched her teeth slightly and bowed once more, saying, “I have one more thing to say, Supreme One.”
 
-The soul-shaking voice of the God of Blind Darkness descended upon the top of Shenwu Mingque’s head. "Listen well. I give you only ten days! Regardless of the method or the price, you must bring the Seven Apertures Coiling Dragon Profound Crystal back unharmed!! Remember, regardless of the method!"
+“Speak!” Shenwu Yanye did not stop her.
 
-"Even if you have to kneel and peel every inch of flesh from your own face!!"
+Shenwu Mingque’s chest rose and fell as she spoke, each word spoken with respect and clarity, “I have served Eternal Night all my life while navigating the trials of the mortal coil, strictly adhering to the rules, and disciplining myself. I have never believed in so-called fate or divine favor.
 
-No matter how much resentment and madness Shenwu Yanye harbored, she wasn't so far gone as to not realize that since the crystal was in the hands of a Divine Son, obtaining it meant facing the entire Dreaming Moon God Kingdom... it could not be taken by force. Eternal Night had nearly driven Meng Jianyuan to his death, and Dreaming Moon had in turn given Eternal Night a humiliating defeat. Under such resentment, the price Eternal Night would have to pay to get the crystal from Dreaming Moon’s hands was easy to imagine.
+“It is said that those who possess a Heart of Glazed Glass possess a heart of utmost purity, a soul as clear as crystal, and a life that is protected by the heavenly law itself. Again, I have always regarded this as mere nonsense and never believed it.
 
-Yet, no matter how great the price, it could never outweigh the endless, crazed, and twisted desire within Shenwu Yanye.
+“But... ever since Wuyi arrived at Eternal Night and stood by your side, the purity of her heart and the sincerity of her devotion have long transcended the concept of ‘loyalty’. Time and again, whenever she perceives the Supreme One’s desires, she has put her own life on the line to see it fulfilled. Her thoughts are the Supreme One’s thoughts, her wishes are the Supreme One’s wishes, and her path is the one the Supreme One points to.... In her heart and mind, the Supreme One’s touch surely surpasses that of any of us. 𝚏𝗿𝗲𝐞𝐰𝚎𝕓𝐧𝚘𝘃𝗲𝐥.𝐜𝚘𝕞
 
-"Yes. I shall not fail my mission."
+“That ancient Secret Canon secreted deep within the depths of the Endless Fog was also discovered after Wuyi’s arrival. It describes six profound crystals capable of defying fate—one of which is so rare it took thirty thousand years to find a single instance, and two of which have never even been recorded. Yet, in just over a decade, the Glazed Radiance Heart Tempering Jade, Sea Soul Stone, and Obsidian Evil Removing Crystal have all been obtained.
 
-Shenwu Mingque dared not say more. She rose and backed away, but just as she was about to leave, she gritted her teeth slightly and bowed again. "Venerable One, I have one more thing to say."
+“The Abyssal Heart Vine, which had never before appeared in the mortal realm, was discovered by Wuyi within the Forbidden Zone of Slumbering Gods. Less than two months after that, and the Coiling Dragon Seven Profound Crystal is already within reach.... Even the word ‘miracle’ falls short of describing such remarkable fortune. Thus, I can no longer deny the existence of ‘divine favor’.
 
-"Speak!" Shenwu Yanye did not stop her.
+“This divine favor stems entirely from Wuyi’s arrival—and even more so from the direction of her heart, and the prayers of her soul.”
 
-Shenwu Mingque’s chest heaved as she spoke each word respectfully and clearly. "I have served Eternal Night all my life, weathering many storms and strictly adhering to the rules and discipline. I have never believed in things like destiny or divine blessings. The legends say those with a Glazed Heart⁵ possess the purest heart and a translucent soul, and their lives are protected by the Heavenly Dao. I always considered that a fallacy and never believed it."
+It was unexpected, even bordering on the eerie, that despite Shenwu Mingque’s lengthy speech, Shenwu Yanye had never once interrupted her.
 
-"But... ever since Wuyi arrived at Eternal Night to stay by the Venerable One’s side, the purity of her heart and the sincerity of her feelings have completely transcended the word 'loyalty.' As long as it benefits the Venerable One's desires, she has disregarded her own life time and time again. Her thoughts are the Venerable One’s thoughts, her wishes are yours, and her direction is wherever you point... The Venerable One must feel the weight of her heart and mind far more than we do."
+Shenwu Mingque bowed deeply. “I am now firmly convinced that, as long as Wuyi remains by your side, the Supreme One’s every wish will be granted. The future of Eternal Night will surely... surpass even the Supreme One’s wildest expectations as well.”
 
-"That Secret Manual from the ancient past, hidden within the sea of mist, was also found after Wuyi arrived. Of the six types of crystals recorded within that can defy fate, three of them are so rare they appear once in ten thousand years, and two haven't even been recorded before. Yet, in just a dozen or so years, the Luminous Glaze Heart-Tempering Jade, the Dark Soul Stone, and the Black Obsidian Evil-Purging Crystal have all been successfully found."
+The reason she made such a risky speech was clear... She hoped Shenwu Yanye would treat Shenwu Yi kindly.
 
-"The Abyss Heart Vine, which had never before appeared, was found by Wuyi in the God-Sleep Forbidden Zone. Now, less than two months later, the Seven Apertures Coiling Dragon Profound Crystal is within reach... To be this successful, even the word 'miracle' is insufficient to describe it. Thus, I no longer dare to disbelieve in the existence of 'Heavenly Blessing.'"
+After a brief, suffocating silence, Shenwu Yanye’s icy voice rang out once more. “You know the consequences if you fail to retrieve the Coiling Dragon Seven Profound Crystal... Get lost!”
 
-"And such blessing is all because of Wuyi’s arrival, and more so because of the direction of her heart and the prayers of her soul."
+“Yes! I take my leave.” Shenwu Mingque stepped back and turned to leave, letting out a small sigh of relief as she did so.
 
-To everyone's surprise—and in a manner that was almost eerie—Shenwu Yanye did not interrupt Shenwu Mingque throughout this long speech.
+Dreamweaver Kingdom of God, Divine Son Palace.
 
-Shenwu Mingque bowed deeply. "I am now firmly convinced that as long as Wuyi is by your side, all that the Venerable One seeks shall be granted. The future of Eternal Night will surely... transcend even the Venerable One’s highest expectations."
+Yun Che was sitting upright on the floor, flames wrapping around his fingers, and vermillion flames dancing lightly in the air. Faint, ephemeral shadows of a vermillion bird could be seen fluttering and vanishing amidst the fiery glow as they composed one soothing, heart-stirring melody after another...
 
-She had risked saying these words with a very clear goal: she hoped Shenwu Yanye would treat Shenwu Wuyi kindly.
+At times, the vermillion bird’s songs rang out clear and melodious, like a continuous confession of love, soft and tender. At times, the vermillion bird’s shadow shattered and reformed, like a cool spring washing over stones, cleansing all delusions. And at times, the flames would suddenly dim and then flare anew, like shards of jade falling onto a tray, their lingering warmth searing the heart...
 
-After a brief, suffocating silence, Shenwu Yanye’s grim voice rang out again: "If you cannot retrieve the Seven Apertures Coiling Dragon Profound Crystal, you know the consequences... Scram!"
+Shangguan Helu, Liu Zhanyi, and Meng Zhiyuan were all standing quietly by his side. The jeweled hairpins at their temples swayed gently, and their beautiful eyes were filled with the crimson glow of the flames. Their hearts and souls had long since drifted into a state of rapturous intoxication.
 
-"Yes! Mingque takes her leave." Shenwu Mingque backed away and, upon turning around, let out a small sigh of relief.
+It was until Yun Che clenched his fingers, and the fiery glow slowly faded together with the vermillion bird’s shadow that they finally came back to their senses—yet their eyes remained hazy as if shrouded in mist, still half-asleep.
 
-Dreaming Moon God Kingdom, Divine Son's Palace.
+Meng Zhiyuan slowly parted her lips and murmured in a dreamlike voice, “To think that young master’s mastery of music is as divine as the heavens themselves. Just how... is it possible that someone like you exists?”
 
-Yun Che sat cross-legged on the ground. Fire danced between his fingers as a vermilion flame flickered gently. Faint shadows of birds danced within the flames before vanishing, singing out musical movements that were pleasing to the ear and soothing to the soul. At times, the bird cries were clear and fluid like a lingering confession of love, soft and tender; at times, the shadows shattered and reformed like a cold spring washing over stones, cleansing all delusions; and at times, the flame light dimmed and flared suddenly like jade breaking on a tray, its lingering warmth scorching the heart.
+Yun Che raised his gaze, a gentle smiling playing at the corners of his lips. “This is not the kind of music that is commonly understood in the world, but rather the unique and profound tones played by the Vermillion Bird’s flames. It can drive away evil spirits and purify impurities, calm the mind and soothe the soul—that's why it sounds so exceptionally pleasing to the ear. It is truly not due to my own musical prowess.”
 
-Shangguan Helu, Liu Zhanyi, and Meng Zhiyuan stood quietly to the side. The pearl hairpins at their temples swayed gently, and their beautiful eyes were filled with the glow of the vermilion flames. Their souls had long since drifted to some intoxicated place.
-
-It was not until Yun Che closed his hand, extinguishing the flames and the bird shadows, that they finally snapped back to their senses. Yet, their eyes remained misty, as if they were half-awake from a dream.
-
-Meng Zhiyuan spoke slowly, murmuring in a voice that was almost like sleep-talking, "The Young Master's mastery of music is actually so heavenly. How can there be someone like the Young Master in this world..."
-
-Yun Che looked up, a warm, gentle smile playing on his lips. "This isn't actually music in the conventional sense. It is a unique profound sound produced by the Vermilion Bird Flame. It can dispel evil and filth, and it clears the heart and settles the soul. That is why it sounds exceptionally pleasant; it isn't really due to my musical mastery."
-
-Liu Zhanyi pursed her lips and smiled, her eyes curving like crescents. "Though you are a Divine Son, you remain warm and humble. In this world, only the Young Master is like this."
+Liu Zhanyi pressed her lips together in a faint smile, eyes crinkling with amusement. “You remain so gentle and humble even as the Divine Son. In this world, there is truly no one else like you.”
 
 Shangguan Helu nodded repeatedly in deep agreement.
 
-Yun Che shook his head and smiled... Suddenly, Li Suo’s voice rang out in his sea of soul: "In the Vermilion Bird sound you just played, did you mix in the soul might of the Dreaming Moon Divine Manual?"
+Yun Che shook his head smilingly... until Li Suo’s voice rang out from his soul sea without warning. “Is it just me, or did you mix the Dreamweaver Divine Canon’s soul power with the Vermillion Bird’s sound?”
 
-To be seen through by Li Suo didn't surprise Yun Che at all. The smile on his lips grew a bit more profound. "To think they could actually merge; don't you think it's quite miraculous?"
+Yun Che wasn’t surprised in the slightest that Li Suo had seen through his actions. The smile playing at the corners of his lips gained a hint of darkness as he spoke, “Yes, I’m quite surprised myself. Who would’ve thought that the two powers could be fused?”
 
-"It is more than just a surprise."
+“Surprise does not begin to describe it.”
 
-Li Suo’s voice carried a hint of complex gravity. "The Vermilion Bird Flame is a sacred flame among the three divine flames. Its fire and sound are pure and holy, brooking no filth or redundancy. And yet you were able to... merge it into the Dreaming Moon divine power..."
+Li Suo’s voice carried a complex gravity as she responded, “As the holy flame of the three divine flames, the Vermillion Bird Flame is entirely pure and sacred, tolerating no impurity or clutter. Yet... you somehow fused it with the Dreamweaver divine power....”
 
-Her voice gradually grew softer. "Is this also... a power bestowed by the Ancestral God?"
+Her voice grew softer and softer. “Is this... also a power bestowed by the Ancestral God?”
 
-If the holy sound of soul-soothing was silently merged with the soul-sound of Dreaming Moon, wouldn't it be incredibly easy to lead someone into a dream while they were in a state of pleasant relaxation? Yun Che spoke as if casually, "As you said, the Vermilion Bird Flame brooks no filth. Thus, I could only make a shallow attempt. This might already be the limit; it may be hard to take it any further."
+If the holy, soul-soothing sound of the holy flame were to blend seamlessly with the soul voice of Dreamweaver, wouldn’t it be incredibly easy to lull someone into a pleasant slumber?
 
-Li Suo remained silent for a long time.
+Yun Che remarked casually, “As you said, the Vermillion Bird Flame can tolerate no impurity or clutter. That is why I could only make an attempt at the most superficial level. Perhaps this is already the limit; perhaps it is impossible to go any further.”
 
-Meng Zhiyuan took a small step forward, her pale pink face carrying thirty percent trepidation and seventy percent longing. "Young Master, Zhiyuan wishes to make a very presumptuous request. When the Young Master is free, could you... play for us often?"
+Li Suo remained silent for a very long time.
 
-The hierarchy within the God Kingdoms was extremely strict. Attendants of anyone else would never dare to speak such "disrespectful" words, let alone to a Divine Son... Yun Che was likely the only exception in the entire Dreaming Moon God Kingdom. Likewise, what he received in return was far more than just loyalty.
+Meng Zhiyuan took a small step forward, her slightly pink face betraying three parts anxiety and seven parts yearning. “Young Master, I would like to make a rather presumptuous request. When you have the free time, might you... play it for us often?”
 
-Meeting the bright gazes of the three women, Yun Che gave a response without the slightest hesitation: "The Vermilion Bird Flame is known as the Flame of World Redemption. Although it burns within me, it should belong to all living beings in this world. If you wish to hear it, I am willing at any time. If one day I can master it freely and play it for all the spirits in the world, only then will I truly live up to the gift bestowed upon me by the Spirit Immortal Oracle."
+The hierarchy of a Kingdom of God was extremely strict and rigid. No one’s personal attendant would dare to utter such “treasonous” words, much less to a Divine Son. Yun Che was likely the only exception in the entire Dreamweaver Kingdom of God. Likewise, what he had earned went far beyond mere loyalty.
 
-As soon as he finished speaking, a light chuckle drifted down from above, followed by the elegant voice of a man: "If the Spirit Immortal heard these words, he would surely be immensely gratified."
+Meeting the three women’s bright gazes, Yun Che responded without the slightest hesitation, “The Vermillion Bird Flame is known as the Flame of Redemption. Though it burns within me, it belongs to all living beings in this world. If you wish to hear it, then I am always willing. Should the day come when I can freely command it and play it for all the spirits of the world, only then will I have lived up to the blessing bestowed upon me by High Priest Ling Xian.”
 
-The faces of the three women changed instantly. They shouted in unison, "Who is it! How dare you trespass into the Divine Son's Palace!"
+No sooner had the words left his lips than a faint chuckle drifted down from above, followed by a refined, masculine voice, “If Ling Xian were to hear this, she would surely be overjoyed.”
 
-When their gazes followed the sound, they saw a man dressed in plain white robes standing still in the air barely thirty feet above. Yet even at such a close distance, the three women could not detect even a shred of his aura. Even his face seemed to be covered by a layer of impenetrable white mist, making his features impossible to see. What frightened them even more was that this person had come so close, yet neither Meng Shouyuan, who was guarding nearby, nor Lu Laisheng, who was guarding further away, had shown any reaction.
+The three women blanched without warning and shouted in unison, “Who dares to trespass into the Divine Son Palace?”
 
-Yun Che stood up, the same faint smile still on his face. "You three may step down. Today’s events and today’s guest need not be mentioned to anyone outside the hall."
+Their gazes chased the voice to a spot no more than ten zhang above the ground, where a man clad in a long, plain white robe stood motionless. Despite his close proximity, the three women could not detect even the slightest trace of his presence. Even his face seemed shrouded in an impenetrable white mist, making it impossible to discern his features clearly. What terrified them even more was the fact that, despite his nearness, neither Meng Shouyuan, who was standing guard nearby, nor Lu Laisheng, who was standing watch from afar, showed the slightest reaction.
 
-The three women withdrew, leaving the space empty. The man in white slowly descended, the mist on his face dissipating to reveal a handsome, otherworldly face that seemed carved by the gods. His features were elegant and his temperament refined, carrying a natural aura of loneliness and majesty that spanned ages—enough to make the world lose its color and all things bow their heads.
+Yun Che rose to his feet, the faint smile from earlier still playing at the corners of his mouth. “You may all withdraw. You need not disclose this incident and the presence of our guest to those outside the palace.”
 
-The Abyss Sovereign, Mo Su⁶. As the two faced each other again, their dynamic was no longer the master-servant probing of their first meeting.
+The three women withdrew, and there was no one else present besides the duo. As the man in white descended slowly, the mist on his face dissipated to reveal a face as if carved by divine hands—handsome and otherworldly. His features were exquisite, and his demeanor was ethereal. He radiated an air of solitude and majesty that spanned the ages. It was an appearance that made heaven and earth pale in comparison, and all of creation bow in reverence.
 
-Yun Che looked him up and down and said with a grin, "Big Brother is the esteemed Abyss Sovereign, yet you’ve personally descended to my humble abode. I imagine there must be some world-shaking matter to entrust to me?"
+He was Mo Su, the Abyssal Monarch. The two stood face to face once more, yet there was none of the hierarchy or testing of the air that had marked their first meeting.
 
-The corners of Mo Su’s mouth twitched slightly. Though it was still a bit stiff, it was clearly a heartfelt smile. "There is actually nothing. I simply wanted to find someone to talk to."
+Yun Che looked him up and down before saying with a smile, “Big Brother, you have personally descended to my humble abode despite being the esteemed Abyssal Monarch. I presume there must be some matter of the utmost importance you wish to discuss?”
 
-"Hmm?" Yun Che widened his eyes in an exaggerated fashion, seemingly unable to believe it.
+A faint smile tugged at Mo Su’s lips. Though it was still somewhat stiff, it was clearly a smile that came from the heart. “It’s nothing really. I just wanted to talk with someone.”
 
-Mo Su sat down quite casually in front of Yun Che and sighed. "I... I once thought that these three million years had already made me accustomed to loneliness. But since meeting and recognizing you at the Pure Land, it feels as if I’ve found another purpose for my life. In just two short months, the desire to speak has arisen in my heart a dozen times."
+“Huh?” Yun Che widened his eyes in a slightly exaggerated manner, as if he couldn’t believe what he had just heard.
 
-"Hahahaha!!"
+Mo Su sat down casually in front of Yun Che and sighed. “This lone... I once thought that three million years would have long since accustomed me to solitude. But ever since we met and recognized each other in the Pure Land, it feels as though I’ve discovered another purpose in life. In just two short months, I’ve felt the urge to confide in you more than a dozen times.”
 
-Yun Che laughed and plopped down as well. "As expected. Even the supreme Abyss Sovereign of the Abyss, the only god in the eyes of the world, has the thoughts of a mortal."
+“Hahahaha[1]!!”
 
-Mo Su looked up and spoke quietly, "If I could trade this entire being for a hundred breaths of a mortal's life, I would do so without the slightest hesitation. Unfortunately... what right do I have to dream of such extravagance?"
+Yun Che laughed and sat down as well. “As expected, even the supreme Abyssal Monarch of the Abyss, the one true God in the eyes of the people, harbors mortal desires.”
 
-"So," Yun Che looked at him, "what does Big Brother want to talk about?"
+Mo Su raised his eyes and spoke quietly, “If I could trade my entire being for a hundred breaths of mortal life, I would not hesitate for a moment. Alas... what right do I have to entertain such a luxurious fantasy?”
 
-Mo Su shook his head. "I don't know."
+“So,” Yun Che looked at him, “what is it you wish to tell me, Big Brother?”
 
-Yun Che’s lips moved slightly, and he suddenly said, "Then... how about we talk about you and Panxiao Die⁷?"
+Surprisingly, Mo Su shook his head. “I do not know.”
 
-The sudden mention of that forbidden name caused Mo Su’s aura to instantly freeze.
+Yun Che’s lips twitched slightly, and he suddenly said, “Then... tell me about you and Pan Xiaodie.”
 
+The sudden mention of that forbidden name caused Mo Su’s breath to catch in his throat.
 
+1. All according to the keikaku! ☜

@@ -1,142 +1,171 @@
 ---
 chapterNumber: 2174
-title: ""
-publishedAt: "2025-12-22"
+title: "So Close Yet So Far"
+publishedAt: "2026-05-30"
 ---
 
-"Where is she now?" His tone was gentle and his expression calm, showing none of the urgency and anxiety surging in his heart.
+“Where is she right now?”
 
-Meng Zhiyuan replied, "Xi Divine Son¹ has arranged a temporary residence for her. Additionally, he has issued orders stating that Long Jiang is an old friend of the Divine Son from before his return to the Divine Kingdom. Since it concerns the Divine Son, no one is permitted to approach or pry until he emerges from seclusion."
+His tone was even, and his expression was calm. Not a hint of the impatience and fretfulness churning in his heart was revealed.
 
-Meng Jianxi’s actions were indeed meticulous. Yun Che felt a heavy weight lift from his heart. He then turned his gaze aside and spoke aloud, "Laisheng, go to Xi Divine Son's place personally. In my name, bring Long Jiang here."
+Meng Zhiyuan answered, “Divine Son Xi prepared a temporary abode for her. Besides that, Divine Son Xi announced that Long Jiang is probably an old friend of yours before you returned to the Kingdom of God. Therefore, no one is to approach her or look into her until you exit your secluded cultivation.”
 
-"Yes!" In the distance, Lu Laisheng responded and departed quickly.
+Meng Jianxi’s execution was watertight, all right. Feeling a heavy weight lifted from his heart, Yun Che looked sideways and raised his voice, “Laisheng, head to Divine Son Xi’s place and bring Long Jiang over in my name.”
 
-When he saw "Long Jiang" again, she was still dressed as she had been during their first meeting—wrapped in a baggy grey robe that covered her entire body, with a hood that completely shielded her face. That peerless grace inherited from Shen Xi, which should have stunned the world and captivated all living beings, had been cruelly and ruthlessly ravaged by her own hands. Yun Xi’s aura remained as cold and detached as ever. Facing Yun Che, she remained silent for a long time.
+“At once!” Lu Laisheng responded from a distance and departed swiftly.
 
-Yun Che also gazed at her fixedly... his daughter with Shen Xi. It had only been three years, yet it felt like a lifetime had passed. A faint smile appeared at the corners of Yun Che’s mouth, as if he were seeing a long-lost friend.
+It wasn’t long before he met “Long Jiang”. She was dressed exactly the same as at their first meeting. A loose gray robe enveloped her entire body, and a veil hat concealed every inch of her face. As Shen Xi’s daughter, she was born with a peerlessly beautiful face capable of dazzling all realms and captivating all beings, and yet she had ruthlessly and cruelly destroyed it by her own hand.
 
-He turned around and walked toward the inner hall. "Follow me."
+Yun Che’s aura remained as cold and distant as ever. She did not say a word, despite having faced Yun Che for a long time. Yun Che looked back just as intently.
 
-"Helu, Zhanyi, you may withdraw for now. There is no need for attendants. Give word that no one is to approach."
+It had only been three years since he and Shen Xi’s daughter had parted ways, yet it felt like a lifetime had slipped away.
 
-Yun Xi remained silent, following closely behind Yun Che. The doors to the inner hall slowly closed, sealing off everything from the outside world.
+Finally, Yun Che cracked a small smile like he was meeting an old friend he hadn’t seen for a long time. He then turned around and walked toward the inner hall, saying, “Come with me.”
 
-Yun Che spoke softly, "Shouyuan, you withdraw as well. Until I proactively open these doors, no person and no divine sense is permitted to approach this place."
+“Helu, Zhanyi, you may withdraw for the moment. I do not need any attendant, and make it known that no one is to approach this place.”
 
-"Understood." Meng Shouyuan’s response came from afar, and a heavy barrier subsequently enveloped the inner hall.
+Still not saying a word, Yun Xi followed closely behind Yun Che. The door to the inner hall slowly swung shut, cutting off the outside world completely.
 
-As the world fell into silence, Yun Che turned around. He gazed at her for several breaths before calling out softly, "Xi’er..."
+Not done yet, Yun Che said, “Shouyuan, you may withdraw as well. Before I open the door with my own hands, no person or perception is allowed to approach this place.”
 
-"I need a Primordial Flame Crystal²!" Yun Xi spoke. Every word was incredibly cold and hard, carrying almost no emotional fluctuation.
+“As you command.”
 
-Yun Che was startled, instantly understanding why she had sought him out.
+Meng Shouyuan’s voice had come from a distant location. The next moment, a thick, heavy barrier enveloped the inner hall.
 
-Before he could respond, Yun Xi continued, "Rumor has it that in the Pure Land, you gave a Primordial Flame Crystal to the Spirit Immortal Divine Official. Since it was sent by you, you must have a way to get it back."
+When the world returned to silence, Yun Che turned around and stared at Yun Xi for several breaths. It was only then that he breathed out, “Xi’er...”
 
-Yun Che looked at her but shook his head. "That Primordial Flame Crystal has already been used by the Spirit Immortal Divine Official. It cannot be recovered."
+“I need the Primal Flame Crystal!” Yun Xi responded. Every word she spoke was suffused with immeasurable coldness and stiffness, and nearly every emotion was stripped from them.
 
-The stiff, cold aura around her body collapsed instantly. Even the gaze emanating from beneath her hood became dazed and scattered. Following this, she turned coldly, intending to leave without a word.
+A moment of surprise later, Yun Che figured out why she had sought him out of her own accord.
 
-"If I could find the first Primordial Flame Crystal, I naturally have a way to find a second."
+Before he could respond, Yun Xi continued, “I heard you gave High Priest Ling Xian of the Pure Land a Primal Flame Crystal as a gift. Since you are the donor, you should be able to take it back from her.”
 
-Yun Che’s voice caused Yun Xi’s steps to halt. He walked forward, stopping just a single step away from her. At that moment, the sense of brokenness leaking from her as her hope crumbled caused a sharp, uncontrollable sting in his chest.
+Yun Che slowly shook his head. “High Priest Ling Xian had already used the Primal Flame Crystal. There is no retrieving it.”
 
-"You are searching for the Primordial Flame Crystal to awaken your mother, just as you did with the Kirin Bone Spirit Orchid³?" he asked, keeping his voice as gentle as possible.
+The cold, stiff aura she maintained instantly withered like grass. Even the sharp gaze shooting out from underneath the veil hat had become unfocused and scattered. A moment later, she wordlessly spun on her feet and tried to leave.
 
-"Yes." Her answer was as cold as before. "However, you do not need to carry any psychological burden because of this. Awakening Mother is my own business; it has nothing to do with you! You can go on being your Dreamweaver Divine Son in peace. As for the Primordial Flame Crystal... if you truly can find another, I will not take it for nothing. You may name any condition you wish!"
+“If I can find one Primal Flame Crystal, I can certainly find a second one.”
 
-Her words remained hard and devoid of emotion—no resentment, no hatred, and certainly none of the intimacy or warmth that should exist between a father and daughter. Although they stood extremely close, they were separated by an indifference and detachment that seemed insurmountable.
+Yun Che’s voice stopped Yun Xi dead in her tracks.
 
-"Fine." Yun Che nodded slowly. "Finding another Primordial Flame Crystal is not that difficult for me. In the Pure Land, the Dragon Lord invited me to visit the Ancestral Dragon Mountains. Once I find the crystal, I will personally visit the Dragon Clan and hand it to you."
+Yun Che walked up to his daughter and stood in front of her once more, though this time he was only one step away from her.
 
-"There is only one condition."
+Earlier, Yun Xi had lost control of her emotions when his words shattered her hope. His heart could not help but ache sharply at the outburst.
 
-"Speak." Yun Xi’s response was without hesitation, her tone carrying a decisiveness that ordinary people would find hard to comprehend. "Anything is fine, regardless of whether I can do it!"
+“Are you seeking the Primal Flame Crystal for the same reason you’re seeking the Qilin Bone Spirit Orchid? Is it all to awaken your mother?” He asked in the softest possible voice he could muster.
 
-"You can do it." Yun Che smiled slightly. His gaze was not wounded by her cold detachment; instead, it became increasingly tender. "My condition is... to let me have a good look at you."
+“Yes,” Her response came just as indifferent as before, “but you needn’t feel any burden over this. ‘Waking’ mother up is my own business and has nothing to do with you, so you can keep being your Dreamweaver Divine Son. As for the Primal Flame Crystal... if you really can find a second one, I won’t take it for free. You are free to name whatever condition you like!”
 
-"..." Yun Xi seemed to freeze there, speechless for a long time.
+Again, there was only coldness and stiffness in her voice. It was also completely devoid of emotion. No resentment, no hatred, and definitely none of the affection or warmth a father and daughter should share. They were only one step apart, and yet it felt like an impassable chasm of indifference and estrangement existed between the duo.
 
-Yun Che gently raised his hand, his gaze soft enough to melt all things. "Our last meeting and parting were too rushed. I was heavily injured, and my vision and soul were blurred. I didn't even get to have a proper look at you... a proper look at my daughter."
+Yun Che nodded slowly. “Finding another Primal Flame Crystal is not that difficult for me. At the Pure Land, the Dragon Lord invited me to visit him at the Ancestral Dragon Mountain Range and be his guest. Once I locate the Primal Flame Crystal, I shall personally pay them a visit and deliver it into your hands.”
 
-As Yun Che’s palm drew near, a strange, faint warmth brushed against her face, reaching straight into her heart in a peculiar way. She instinctively tilted her head back... but after only a moment of resistance, she stopped moving. The coarse, heavy grey hood was slowly lifted away by Yun Che’s fingers, revealing a face that would cause anyone's expression to change upon seeing it.
+“I only have one condition.”
 
-Her skin was so similar to Shen Xi’s—like translucent white snow covered in a faint divine radiance, possessing unparalleled refinement and a holiness that worldly words could not define. But those two hideous, terrifying corrosive scars had utterly destroyed it, as if the heavens would not allow such a perfect creation to exist, cruelly branding her with marks of ruin.
+Yun Xi replied without hesitation, with a kind of ruthless determination an ordinary person could not possibly fathom. “I will accept any condition, possible or impossible!”
 
-He watched silently, from her hairline to her eyes, to her scars... engraving every feature deep into his heart. His palm unconsciously drew closer again, bit by bit... Yun Xi did not avoid him. But just as his fingertips were about to touch her cheek, they stopped, and his half-open fingers slowly curled into a fist.
+“It’s possible.”
 
-He withdrew both his hand and his gaze simultaneously. He suddenly turned around, his voice calm and rippleless. "Within three months, I will definitely find a new Primordial Flame Crystal. I will not break my word... You may go."
+Yun Che smiled slightly. From the beginning, her icy estrangement failed to pierce his gaze in the slightest. In fact, it was growing gentler by the second. “My condition is this... let me see you properly.”
 
-These words were not merely to comfort Yun Xi. When he was in the Sea of Mist⁴, he could easily perceive the Abyssal Crystals condensed within the Abyss Beasts and Abyss Ghosts over a large area. When he had previously attempted to step into the depths of the Sea of Mist, he had sensed the aura of a Primordial Flame Crystal again, but because danger was imminent then, he had to flee immediately.
+“......” Yun Xi seemed to freeze, unable to speak for a very long time.
 
-Yun Xi seemed momentarily stunned. She covered her face again and turned to leave. As her hand touched the hall door and she was about to push it open, she suddenly turned back. "You’ve changed! Last time, you were clearly..."
+Gaze seemingly warm and gentle enough to melt anything, Yun Che gently lifted his hand and said, “Our meeting and separation were too hasty, and I was severely injured at the time. As a result, I was unable to give you a proper look visually or mentally, so please... let me see my daughter.”
 
-Her lips twitched slightly, but she did not continue.
+As Yun Che’s hand approached, a faint, unfamiliar warmth brushed against Yun Xi’s face and somehow slipped all the way into her heart. Yun Xi subconsciously leaned back to avoid the palm... but her resistance only lasted an instant before she stopped moving.
 
-The corners of Yun Che’s lips tilted up in a soft smile. "So, you still care, don't you?"
+The gray veil hat Yun Xi was wearing was rough, thick, and heavy. Slowly, Yun Che removed it from her head and revealed the face that could have caused anyone to turn as pale as a sheet.
 
-"..." Yun Xi’s brows knitted slightly. She jerked her gaze away, intending to leave, but her arm was gently caught by a warm palm.
+Her skin tone bore a striking resemblance to Shen Xi’s, like translucent snow bathed in a faint divine glow. It possessed an unparalleled delicacy and sanctity that was beyond the ability of any earthly word to describe.
 
-From behind her came his calm, gentle voice: "You have an older sister. Her name is Yun Wuxin."
+And yet, this impossible beauty was utterly marred by a pair of horrifying scars. It was as if the heavens themselves forbade such a flawless creation to exist and delivered cruel divine retribution upon her.
 
-Yun Xi did not turn her head, but she did not struggle either, seemingly frozen in place.
+Yun Che watched silently. Her hair, her eyes, her scars... he imprinted each and every one of her characteristics into his heart. At the same time, his palm was unconsciously moving closer and closer to her face... and Yun Xi did not try to dodge out of the way.
 
-"Just like with you, before she even entered this world, I failed to protect her and her mother. For a time, I thought I had lost her forever. It wasn't until she was ten years old that she appeared in my life, like a miracle from a dream."
+Right before his fingertips would touch her cheek, they froze as if hitting an invisible wall. Then, his fingers slowly balled into a fist, and he withdrew his hand and his gaze at the same time.
 
-"It was originally a dark period of my life, yet it glowed with a light I had never seen before because of her arrival. During that time, I was incredibly grateful to the heavens and to fate. I even became weary of all struggles and grudges, loathing the blood that had once stained my hands."
+Suddenly, Yun Che turned away and said in a calm voice, “I give you my word that I will find a new Primal Flame Crystal in three months at most. Now... go.”
 
-Yun Xi listened quietly. She did not look at her father's current expression, but her mind unconsciously sketched what her sister might look like.
+He wasn’t just comforting Yun Xi. When he was at the Endless Fog, he could easily sense the abyssal crystals, the abyssal beasts, and the abyssal ghosts that were carrying over a large region. In fact, he sensed the aura of the Primal Flame Crystal again when he tried to set foot in the inner regions of the Endless Fog. He did not obtain it only because danger was approaching, and he was forced to escape immediately.
 
-"At that time, I made a vow to her that I would never leave her again, and never let her suffer any more harm. But..." The voice behind Yun Xi stopped, and it was a good while before it resumed.
+Yun Xi seemed momentarily stunned. Then, she covered up her face and turned to leave.
 
-"I made similar vows to your sister three times... and three times, I broke them all."
+Her palm touched the door, but right before she would leave, she suddenly turned around and said, “You’ve changed! Last time, you...”
 
-She heard a faint laugh, but it wasn't a warm chuckle; it sounded more like a self-mocking sneer.
+Her lips moved, but she did not finish her sentence.
 
-"Every time I made a vow, it was from the heart. I desperately and urgently wanted to protect and make amends to her. But in the end, every vow turned into deep harm. Before coming to this world, I finally understood completely—the things I possess and the burdens I carry mean that I am destined... to be unworthy of being a qualified father."
+The corners of Yun Che’s lips curled into a tiny smirk. “You still care after all.”
 
-Yun Xi: "..."
+“......” Yun Xi furrowed her brows slightly before withdrawing her gaze and turning to leave. However, a warm hand grabbed her arm gently, and his soft, calm voice washed over her.
 
-Yun Che slowly released his grip on her arm, his voice like a vanishing wind. "Therefore, I indeed have no right to let you call me father, nor do I have the right to ask anything of you. Not now... and certainly not in the future."
+“You have an older sister. Her name is Yun Wuxin.”
 
-"...?"
+Yun Xi did not look back, but she did not struggle either. She just stood there, frozen.
 
-Yun Xi’s brow twitched slightly, and confusion filled her heart, yet she did not ask. Yun Che lowered his head, silently looking at his own palm. In the depths of his eyes was a darkness no one could see... because very soon, these hands of his would once again be stained with countless lives' worth of blood, and every drop would be an eternal, ineradicable sin.
+“Just like you, I failed to protect her and her mother before she came to the world. I even thought that I lost her forever for a time. Then, at the age of ten, she appeared in my life like a miracle that should only exist in a dream.”
 
-"I only hope... you protect yourself well and treat yourself kindly. If one day I achieve what I desire, I will take you and your mother home together."
+“That was supposed to be a dark period of my life, but it sparkled brighter than ever before thanks to her arrival, so much so that I felt infinite gratitude toward the heavens and fate. I even grew tired of all the strife and grudges; disgusted by all the blood I have spilled with my own two hands for a time.”
 
-"If... I ultimately fall in this abyss, you must take your mother and follow the Dragon Clan to the 'Eternal Pure Land.' Then, forget my existence forever, and never mention your blood relation to me to anyone."
+Yun Xi quietly listened to his story. She didn’t check out his expression, but she unconsciously imagined what her older sister looked like.
 
-Soon, he would head to the Dragon Clan to pave every possible retreat for her.
+“At the time, I swore to her that I would never leave her or allow any harm to befall her for as long as I live, but...”
 
-The hall fell into a long silence, save for the sound of their synchronized heartbeats. With a muffled thud, the hall doors were finally pushed open. Yun Xi walked out and soon disappeared from Yun Che’s sight.
+The voice behind Yun Xi stopped. It wasn’t until some time later that it finally returned.
 
-After standing in the inner hall for a long time, Yun Che finally calmed his emotions and walked out with a leisurely gait.
+“I made similar oaths to her three times in total... and every time, I broke my word.”
 
-"Young Master!"
+She heard a faint chuckle, but it was neither warm nor friendly. Instead, it was full of self-derision.
 
-Pleasant, light voices brushed past him. Shangguan Helu, Liu Zhanyi, and Meng Zhiyuan approached together. As they bowed their heads slightly, they each stole glances at him.
+“Every oath I swore had come from the heart. I desperately wanted to protect her and make up to her with all my heart. But every time, my oaths always turned into sharp blades that wounded her deeply.”
 
-"Hmm?" Yun Che raised an eyebrow, speaking with a half-smile. "Has something grown on me? Why are your gazes so strange?"
+“Right before I came to this world, I finally understood completely that the things I possess, and the burdens I bear, meant that I would never, ever... be a qualified father.”
 
-Meng Zhiyuan gave a playful smile and uttered a shocking question: "When does the Young Master plan to marry the Zhetian Divine Daughter⁵?"
+Yun Xi: “......”
 
-Yun Che looked helpless and shook his head with a laugh. "So even you all know."
+Yun Che slowly let go of her palm and arm, his voice turning as soft as a dying wind. “Therefore, I have no right to ask you to call me father, much less demand anything from you. Not now... and certainly not in the future.”
 
-Shangguan Helu stole a glance at him and said timidly, "The whole world probably knows about the Young Master and the Zhetian Divine Daughter by now. I heard that the Zhetian Divine Daughter is the most beautiful woman in the world. As expected... only such a woman is worthy of the Young Master."
+Yun Xi’s brow twitched a little, and puzzlement nestled inside her heart. However, she didn’t ask.
 
-Liu Zhanyi covered her mouth slightly, her eyes curving into crescents. "Zhiyuan was happier than anyone when she found out. She said that if the Young Master has a primary wife, she can find a way to become the Young Master’s concubine."
+Yun Che bowed his head and stared quietly at his palm, his eyes filled with darkness no one could see... After all, his hands were going to be drenched in blood again very soon, and each drop represented a terrible sin that could never be absolved.
 
-Meng Zhiyuan said with open candor, "That’s right! That is exactly what I’m thinking. Anyway, I’ve already decided to stick by the Young Master’s side for the rest of my life. I heard the Zhetian Divine Daughter is not only as beautiful as an immortal but also exceptionally kind and gentle. I will definitely work hard to make her like me."
+“All I ask... is that you keep yourself safe, and treat yourself well. If one day I am able to fulfill my wish, then I will bring you and your mother home.”
 
-"You girls..." Yun Che shook his head with a smile, feeling a bit of a headache.
+“However... should I ultimately perish in the Abyss, then you must take your mother with you and accompany the dragons to the ‘Eternal Pure Land’. After that, forget about me forever and never speak of our blood ties to anyone.”
 
-"However, there is someone who isn't happy," Liu Zhanyi suddenly said. "The Senluo Divine Son⁶ came specifically to find the Young Master. It surely isn't for anything good. We should tell Xi Divine Son to send him away as soon as possible."
+Soon, he would be visiting the dragons and preparing every possible escape route for her.
 
-"Oh?" Yun Che’s gaze sharpened. "You mean Dian Jiuzhi is still in the Dreamweaver Divine Kingdom?"
+The hall fell into a long silence after that. For a time, the only sounds that existed were their heartbeats beating as one.
 
-"Yes," Meng Zhiyuan said. "The Senluo Divine Son arrived ten days ago and has not left yet."
+There was a dull groan, and the door was finally open. Yun Xi stepped out and quickly vanished from Yun Che’s view.
 
-Yun Che pondered for a moment before suddenly saying, "Laisheng, go to Xi Divine Son again. Tell him I wish to have a talk with the Senluo Divine Son."
+Yun Che would continue to stand in the inner hall for a very long time. Finally, Yun Che was able to calm his feelings and step out with leisurely footsteps.
 
+“Young master!”
+
+Melodious voices hit him from the front as Shangguan Helu, Liu Zhanyi and Meng Zhiyuan approached him at the same time. Their heads were bowed, but their eyes were sneaking looks at him.
+
+Yun Che raised an eyebrow and asked with a half-smile, “Is there something on me? Why are you all looking at me like this?”
+
+A naughty smile spread across Meng Zhiyuan’s face, and she made a shocking remark, “When are you going to marry the Heaven Breaker Divine Daughter, young master?”
+
+A helpless look overcame Yun Che as he shook his head with a chuckle. “I thought you would find out eventually.”
+
+Shangguan Helu snuck a glance at him before saying timidly, “Right now, everyone under the heavens should have learned of you and the Heaven Breaker Divine Daughter. I heard that the Heaven Breaker Divine Daughter is the most beautiful woman in the world... as expected, only a woman of this caliber is deserving of you, young master.”
+
+Liu Zhanyi covered her lips and beamed. “No one was happier than Zhiyuan when she heard of this. After all, now that you have a first wife, she can finally find a way to become your concubine.”
+
+Meng Zhiyuan declared unabashedly, “Yeah, that’s exactly what I was thinking. So? I’ve already made up my mind to stay with the young master forever anyway. I heard that the Heaven Breaker Divine Daughter is not just as beautiful as a celestial, but she is also exceptionally kind and gentle. I will do my best to win her affection.”
+
+“You three...”
+
+Yun Che shook his head smilingly while feeling a mild headache coming.
+
+“Someone is unhappy, though.”
+
+Liu Zhanyi said suddenly, “There is no way the Boundless Divine Son had come for a benevolent reason. You should speak with Divine Son Xi and ask him to send the Boundless Divine Son away as soon as possible.”
+
+Yun Che’s gaze sharpened. “Are you saying that Dian Jiuzhi is still in the Dreamweaver Kingdom of God?”
+
+“He is,” Meng Zhiyuan confirmed. “The Boundless Divine Son arrived ten days ago. He still hasn’t left to this day.”
+
+Yun Che pondered for a moment before declaring, “Laisheng, pay Divine Son Xi a visit and tell him that I would speak with the Boundless Divine Son.”

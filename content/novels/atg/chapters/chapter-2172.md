@@ -1,195 +1,205 @@
 ---
 chapterNumber: 2172
-title: ""
-publishedAt: "2025-12-17"
+title: "Coiling Dragon Seven Profound Crystal"
+publishedAt: "2026-05-30"
 ---
 
-Due to their unique powers of "Dream Falling" and "Dream Weaving," the Dream Weaving God Kingdom's intelligence capabilities were unquestionably far superior to the other five God Kingdoms. Even the Valley of Sunken Dreams was one of their most important sources of information. Once a person chose to sink into a dream, their life's memories became like an unlocked coffer, free for the Dream Weaving profound practitioners to plunder.
+Due to their unique “Falling Dream” and “Dreamweaving” abilities, the Dreamweaver Kingdom of God’s intelligence capabilities far surpassed those of its peers. Even the Sinking Dream Valley was one of their primary sources of intel. The moment a person placed themselves under the influence of Sinking Dream, any Dreamweaver profound practitioner was free to plunder their life’s memories like a box with no locks.
 
-As the intelligence core of the Dream Weaving God Kingdom, the Xuanji Hall¹ was protected by no less than nine different barriers. Each one descended like a celestial curtain, emanating a subtle yet majestic soul might. The hidden Dream Weaving guards were even more numerous.
+As the heart of the Dreamweaver Kingdom of God's intelligence network, the Xuanji Hall was guarded by nine different barriers. Each one stood like a heavenly curtain, emanating a subtle yet immense soul pressure. The number of guards watching the place was even greater.
 
-Meng Jianxi led Yun Che unimpeded, straight into the most secret inner hall. "Previously, only four people were qualified to enter this inner hall: Father God, Grandfather, Uncle, and myself. Now, of course, that includes you, Younger Brother Yuan."
+Meng Jianxi led Yun Che all the way to the most secretive place of the Xuanji Hall, the inner hall. They encountered no obstacles along the way. “Before today, only four people were allowed entrance into the inner hall: Father, grandfather, my maternal uncle, and me. Now, there are five.”
 
-Yun Che gave his surroundings a simple glance and got straight to the point. "I need to review all information on the Eternal Night God Kingdom from the last thirty years."
+Yun Che gave his surroundings a cursory scan before asking directly, “I wish to obtain every piece of information relating to the Eternal Night Kingdom of God in the past thirty years.”
 
-With Meng Jianxi, he didn't need to give any special instructions; the word "all" was sufficient.
+Meng Jianxi was his liaison, so he did not need to give him any special instructions. The four words “every piece of information” were enough.
 
-"Alright." Meng Jianxi asked no questions. He reached out to his side, and a small, hidden space instantly materialized. A massive quantity of jade slips, stone carvings, silk cloths, and paper scrolls moved out in neat order. Following this, a silver profound formation flared to life before them. Within the formation floated thousands of profound image stones and soul profound crystals, each one emitting a soul aura of varying intensity, carrying secrets unknown to the world.
+“Got it.” Meng Jianxi neither asked nor wondered why Yun Che needed this information. He aimed at his side and made a grabbing motion. A small, concealed space immediately manifested into existence, and a tremendous amount of jade slips, carved stones, cloth and silk, and paper scrolls floated out in a neat and orderly manner.
 
-Meng Jianxi lowered his arm and double-checked to ensure nothing was missed before saying, "Due to its unique nature, information on the Eternal Night God Kingdom is the most difficult to obtain. The quantity is far less than that of the other God Kingdoms, but it will still take a considerable amount of time to review all the information from the past thirty years."
+Right after that, a silver profound formation lit up in front of the duo. Thousands of Profound Imagery Stones and soul profound crystals were floating in it and emanating strong or weak soul presences. They all contained secrets that most people weren’t privy to.
 
-"Additionally, even the information recorded in the soul profound crystals may not be true, for what the eye sees can also be an illusion. However, I trust that Younger Brother Yuan will be able to discern accurately."
+Meng Jianxi dropped his arm and checked if he had gotten everything. It was only then that he said, “Due to their unique circumstances, information regarding the Eternal Night Kingdom of God is exceptionally scarce. What we have on them is significantly less than what we have on the other Kingdoms of God. Still, it’s going to take a long time to go through everything.”
 
-"Mm, you don't need to stay with me."
+“Also, I must warn you that even the memories inscribed in the soul, profound crystals, aren’t necessarily real. It’s because everything can be faked, including what you can see with your own eyes. That said, I’m confident you can identify what’s genuine and what’s not, Brother Yuan.”
 
-After Meng Jianxi left, Yun Che sat down on the floor and extended his spiritual sense forward. Information concerning the Eternal Night God Kingdom from the last thirty years began pouring into his soul sea at an astonishing speed. He meticulously examined everything, regardless of its significance or authenticity, even including some anecdotes compiled by others.
+“Mm. No need to keep me company.”
 
-It was difficult to plant spies in the Eternal Night God Kingdom. Its major events over the last three decades were all public knowledge... The former Eternal Night Goddess, Shen Wuqing, committed a grave error and was punished with imprisonment by the Wuming God-Emperor. Afterward, the Eternal Night God Kingdom devoted all its efforts to finding a new divine successor... until, more than twenty years ago, they announced Shen Wuyi as the new Eternal Night Goddess.
+After Meng Jianxi left, Yun Che sat on the floor and extended his divine perception. The pieces of information began flooding into his soul sea at an astonishing rate. He did not care if it was big or small, true or false. He went through even fabricated rumors with a fine-tooth comb.
 
-Yun Che remained in the same position, and several days passed without him noticing. While this task wasn't quite like finding a needle in a haystack, it was by no means something that could be completed in a short time.
+It was as Meng Jianxi said. Planting spies in the Eternal Night Kingdom of God was a significantly formidable task. Every major event that had taken place in the past thirty years was already known to everyone.
 
-Until a line of text engraved in a profound crystal suddenly imprinted itself upon the depths of his soul.
+Shenwu Qing, the former Eternal Night Divine Daughter, was punished and imprisoned by the Lightless Divine Regent for committing a grave crime. The Eternal Night Kingdom of God devoted all of its effort to finding a new Godbearer after that. The search lasted until about twenty years ago, when they announced Shenwu Yi as their new Eternal Night Divine Daughter.
 
-"...several feet long, shaped like a coiling dragon, its color like ink, its body inlaid with seven apertures..."
+Yun Che’s posture did not change even though several days had passed. Although he wasn’t exactly hunting for a needle in the ocean, it still wasn’t a project that could be finished in a short time.
 
-Yun Che's mind snapped into focus. With a flick of his hand, the profound crystal landed in his palm, and the information it contained was re-imprinted into his soul sea with even greater detail:
+This situation lasted until the text inscribed into a profound crystal reflected into his soul.
 
-"...It can be confirmed that Eternal Night is currently searching for certain types of variant Abyssal Crystals. Although they are deliberately trying to be covert, the number of people dispatched and the breadth of their search are unprecedented during Shen Wuyanye's reign as God-Emperor. In the past year, over six hundred traces have been found, covering all major God Kingdoms and living lands, with tracks even in remote territories."
+“... length of a meter or so, shape like that of a coiling dragon, color like ink, seven orifices embedded into its body...”
 
-"This indicates that the object of their search is of paramount importance to the Eternal Night God Kingdom, but the reason remains unknown."
+Yun Che’s focus sharpened, and he reached out with his hand. As soon as the profound crystal entered his palm, the information it contained flowed into his soul sea again, this time with perfect clarity. “... We can now confirm that Eternal Night is searching for certain mutated abyssal crystals. Although they are obfuscating their efforts, the number of people involved and the range of their activities exceed everything else Shenwu Yanye has put her mind into during her reign.”
 
-"Compiling all information, Eternal Night is searching for a total of five types of variant Abyssal Crystals. Three of them are the Glazed Brilliance Heart-Tempering Jade, the Nether Soul Stone, and the Black Obsidian Evil-Purging Crystal, all of which are rare crystals that occasionally appear in the Sea of Fog and are extremely scarce."
+“In the past year alone, we discovered over six hundred places with their traces. They spanned across the Kingdoms of God, the Lands of the Living, and even the frontiers. From this, we can deduce that the objects the Eternal Night Kingdom of God is searching for are of the utmost importance to them.”
 
-"As for the other two, they have no names, only descriptions of their forms."
+“Unfortunately, we are unable to figure out the reason behind the search.”
 
-"First: Nearly a full inch long, shaped like a withered vine. Its aura at times resembles scorching fire, at others crackling lightning. Its core trembles like the heart of a mortal spirit. It is a variant crystal condensed from the heart of a human who has transformed into an Abyssal Ghost, a one-in-a-million occurrence."
+“Based on all the intelligence we have collected, Eternal Night is searching for five kinds of mutated abyssal crystals. Three of them, the Glazed Radiance Heart Tempering Jade, the Sea Soul Stone, and the Obsidian Evil Removing Crystal, are occasionally found in the Endless Fog. All of them are scarce mutated crystals. The remaining two possess no formal names, only descriptions of their forms.”
 
-"Second: Several feet long, shaped like a coiling dragon, its color like ink, its body inlaid with seven apertures from which an un-dissipated dragon's breath coils. It is a variant crystal formed from the marrow of an Abyssalized dragon, but it is a one-in-ten-thousand occurrence."
+“The first one states: Length of almost a full inch, shape like that of withered vines, aura like scorching fire or tangled thunder from time to time, and core throbbing like that of a mortal’s heart. A mutated crystal created in the heart of a human-transformed abyssal ghost. A million abyssal ghosts may not produce one such crystal.”
 
-Yun Che's gaze froze. After a moment of thought, he looked at the text engraved after this:
+“The second one states: length of a meter or so, shape like a coiling dragon, color like ink, seven orifices embedded into its body, and unspent draconic aura tangled within the orifices. A mutated crystal formed from the draconic marrow of an abyssified dragon. Ten thousand abyssal dragons may not produce one such crystal.”
 
-"The Glazed Brilliance Heart-Tempering Jade may have been found. The name is no longer among the Abyssal Crystals being sought."
+Yun Che’s gaze stilled, and he fell into deep thought for a short moment. Then, he continued reading the following text:
 
-"The Nether Soul Stone may have been found..."
+“The Glazed Radiance Heart Tempering Jade may have been found. The abyssal crystal has been removed from the search list.”
 
-The text that followed bore a clear soul aura, evidently engraved in recent years: "The Black Obsidian Evil-Purging Crystal may have been found. Eternal Night is no longer searching for it."
+“The Sea Soul Stone may have been found...”
 
-"In the borderland Realm of Calamity's End, we risked pursuing the residual soul auras of two Grand Night Patrollers and vaguely captured the items they discussed ten breaths prior... one was 'Abyssal Heart Vine,' the other 'Coiling Dragon Seven-Aperture Crystal.' However, the names of these two Abyssal Crystals have never appeared in any records, which is exceedingly strange and difficult to comprehend."
+The soul aura from the subsequent text was very clear. It had clearly been inscribed in recent years. “The Obsidian Evil Removing Crystal may have already been found. Eternal Night has stopped looking for it.”
 
-Yun Che closed his eyes, and the world fell into a long silence. Ten breaths... a hundred breaths... Suddenly, a voice surfaced in his soul sea.
+“The soul auras of two Night Patrol Officers performing a risky search have been found at the Pacified Calamity Realm of the frontiers. Upon performing a vague recollection of their discussion from ten breaths ago, it is discovered that they were discussing two items. One of them is called the ‘Abyssal Heart Vine’, and the other the ‘Coiling Dragon Seven Profound Crystal’. However, neither abyssal crystal has ever appeared in any record, making their mentions exceedingly strange and baffling.”
 
-"Xueyan, I have already used the 'Secret Codex' to restore my appearance and voice..."
+Yun Che closed his eyes, and the world fell into a long, dead silence. Ten breaths... a hundred breaths...
 
-Yun Che's eyes flew open, reflecting a strange, profound light.
+Suddenly, a voice rose from within his soul sea.
 
-Bang!
+“Xueyan... look! I already used the ‘Secret Tome’ to restore my appearance, voice, and vision...”
 
-The profound crystal in his hand was crushed to dust, scattering into fine motes. This piece of intelligence regarding the Eternal Night God Kingdom was thus erased from the Xuanji Hall.
+Yun Che’s eyes abruptly snapped open, and a deep, dark gleam shone from within.
 
-Before the Gate of the Pure Land, the dream Shen Wuyanye had fallen into was not woven by Meng Kongchan, but a reflection of her own heart's desires, magnified countless times. Therefore, she longed for Shen Wuxueyan's forgiveness, longed for none of it to have ever happened, longed to restore her appearance and voice, and longed for... the "Secret Codex" she had spoken of.
+The profound crystal in his hand abruptly shattered and scattered into fine powder. With this, the intelligence was permanently removed from the Xuanji Hall.
 
-"So that's how it is." As he murmured, a knowing smile unconsciously bloomed on Yun Che's lips. Qingyue, you truly are one of a kind... As expected of you. How could you not utilize the unique means at your disposal to their absolute fullest?
+The dream Shenwu Yanye had plunged into at the gates of the Pure Land wasn’t something Meng Kongchan had woven from her. It was the reflection of her desire after it was magnified countless times over. In other words, she wanted Shenwu Xueyan to forgive her, wanted everything to revert to before the point of no return, wanted to regain her appearance and voice, and wanted... the “Secret Tome” she spoke of.
 
-Judging by the timeline of this intelligence, from the very beginning of your tenure as the Eternal Night Goddess, you were already weaving a destiny for yourself and others... Truth and falsehood intertwined, each step carefully planned. Unknowingly, everyone has already stepped onto your chessboard.
+An unconscious smile of realization spread across Yun Che’s face as he whispered. As expected of you, Qingyue... Of course, you would use your unique advantage to the utmost.
 
-Without looking at any other information, Yun Che rose and slowly walked out of the Xuanji Hall.
+Looking at the time mentioned in this intel, you began weaving your fate and others from the moment you became the Eternal Night Divine Daughter... half-truths and half-lies, each move carefully calculated and thought out, you have drawn everyone into your game board before they knew it.
 
-The Eternal Night God Kingdom was surely searching for more than just five types of variant Abyssal Crystals. Several of them were likely relatively easy to obtain—necessary decoys. The Glazed Brilliance Heart-Tempering Jade, the Nether Soul Stone, and the Black Obsidian Evil-Purging Crystal... although extremely hard to find, these real Abyssal Crystals were also decoys.
+Yun Che stopped sifting through the intel and rose to his feet. Then, he slowly walked out of the Xuanji Hall.
 
-As for the "Abyssal Heart Vine" and the "Coiling Dragon Seven-Aperture Crystal"... the reason they had no records in the Abyss was because they never existed in the first place.
+He was certain that the mutated abyssal crystals the Eternal Night Kingdom of God was searching for were not limited to just five types. Some of them were relatively easy to obtain. It was a necessary hoax.
 
-No, it would be more accurate to say they had "existed" in Shen Wuyi's hands all along.
+The Glazed Radiance Heart Tempering Jade, Sea Soul Stone, and the Obsidian Evil Removing Crystal... these mutated abyssal crystals were much, much harder to find, but they definitely existed. Just the same, it was a hoax.
 
-And now, her "giving" him the Coiling Dragon Seven-Aperture Crystal meant only one thing... she was accelerating her plans. And with this sudden acceleration, the Coiling Dragon Seven-Aperture Crystal could not be obtained by her.
+As for the “Abyssal Heart Vine” and the “Coiling Dragon Seven Profound Crystal”... the reason there was no record of them at all in the Abyss was simple. They had never existed.
 
-The reason she would take such a risk... Yun Che tilted his head back slightly and let out a long breath, the light in his eyes shining brilliantly.
+No, that wasn’t quite right. He should say that they only “existed” in Shenwu Yi’s hands.
 
-"You seem... very happy?" Li Suo said softly.
+She was “entrusting” the Coiling Dragon Seven Profound Crystal to him, and this could only mean... that she was bringing her plans forward. That was why she could not be the one to obtain the Coiling Dragon Seven Profound Crystal.
 
-"Mm." A genuine smile that he had no intention of hiding spread across Yun Che's lips. "I... am finally no longer fighting alone."
+The reason she was taking such a risk was...
 
-...
+Yun Che lifted his chin up a little and let out a huge sigh. The light in his eyes was bright and dazzling.
 
-Upon returning to the Divine Son's Palace, before Meng Zhiyuan, who had been waiting for him for a long time, could approach, he had already plunged into his cultivation space. "Zhiyuan, inform Shou Yuan and the others that I need to focus on refining the Vermilion Bird Divine Blood gifted by the Lixian Divine Official. No one is to disturb me until I emerge of my own accord."
+“You seem... very happy?” Li Suo asked softly.
 
-Far from wanting to keep the Vermilion Bird source blood from the Lixian Divine Official a secret, Yun Che seemed to be intentionally publicizing it.
+The corners of Yun Che’s mouth curled into an unbridled, sincere smile. “Finally... I’m no longer fighting alone.”
 
-Using a Spatial Divine Stone to activate the dimensional profound formation, a red light flashed, and he returned to the Sea of Fog.
+Back at the Divine Son Palace, before Meng Zhiyuan—who had been waiting for him for quite some time—could even approach him, Yun Che had already plunged headfirst into his cultivation space. “Zhiyuan,” he commanded, “inform Shouyuan and the others that I will be focusing on refining the Vermillion Bird divine blood bestowed by High Priest Ling Xian for the foreseeable future. No one is to disturb me until I emerge of my own accord.”
 
-"In such a hurry?" Li Suo sounded surprised. "The divine power contained within the nine drops of Vermilion Bird source blood from the Lixian Divine Official is extremely vast. If you were to fully refine it, even with your Heretic God's Profound Veins as your power base, it would be enough to raise your cultivation to the eighth level of the Divine Master Realm... or higher."
+Yun Che wasn’t trying to keep the fact that he received the Vermillion Bird origin blood from High Priest Ling Xian a secret. On the contrary, he seemed to be spreading the news on purpose.
 
-"So..." she once again asked the question that had remained unanswered, "why have you been forcefully suppressing your cultivation?"
+He opened a dimensional profound formation with the spatial divine stone. A red flash later, he was back at the Endless Fog.
 
-But Yun Che replied, "It's not time yet. I will indeed refine the Vermilion Bird Divine Blood now, but only a small amount, probably just enough to be able to burn the Vermilion Bird Flame. This degree of refinement also best fits with common understanding."
+“You seem rushed.”
 
-He still did not explain to Li Suo why he was suppressing his cultivation.
+Li Suo seemed surprised by this. “The divine power contained within the nine drops of Vermillion Bird origin blood is tremendous. If you refine them completely, it should propel your cultivation to the eighth level of Divine Master or higher, even if the base of your power is Ni Xuan’s profound veins.”
 
-"But for now, let's finish the most important thing first." With a flip of his hand, over a hundred pure Abyssal Crystals and a dozen variant Abyssal Crystals fell before him, releasing a brilliant and dangerous light in the dim Sea of Fog.
+She repeated a question that she never received an answer to: “What is the reason you’ve been suppressing your cultivation all this time?”
 
-His gaze swept over one Abyssal Crystal after another, and he murmured to himself in thought, "If it were her, how would she create a 'special' Abyssal Crystal that has never existed before, yet leaves no flaws..."
+But Yun Che replied, “It’s not yet time. I am going to refine the Vermillion Bird divine blood, but only enough to ignite the Vermillion Bird Flame. This level of refinement would fit in with the common sense of the world perfectly.”
 
-After pondering for a long time, he smiled. "When it comes to ingenious thinking, I am certainly no match for her. But in the control of Abyssal Dust, I should be superior. In that case... I'll just act as I please according to its characteristics."
+He still did not explain why he was forcefully suppressing his cultivation.
 
-He made a grasping motion in the air, and seven Abyssal Crystals from dragon-type Abyssal Beasts floated up. Then, as his five fingers closed, they exploded in mid-air, scattering into countless crystal fragments along with chaotic, dissipating abyssal energy and a faint dragon's breath.
+“Right now, though, I should focus on completing the most important task.”
 
-Next, he picked up a piece of Apocalypse Divine Jade. The profound energy around him surged, and with a sharp crack, this variant Abyssal Crystal, considered a divine object even in the eyes of a God Kingdom, shattered between Yun Che's fingers. Under the subsequent impact of his power, it rapidly broke down into even finer fragments.
+He flipped his palm around, and over a hundred pure abyssal crystals and a dozen or so mutated abyssal crystals appeared in front of him. They glimmered bright and dangerous in the dark, gloomy Endless Fog.
 
-The shattered Apocalypse Divine Jade released a terrifying amount of power, whipping up a violent vortex of energy around Yun Che.
+His gaze shifted from one abyssal crystal after another while he whispered, “If it were her, how would she go about creating a ‘unique’ abyssal crystal that never existed, one that is perfectly inscrutable?”
 
-Yun Che did not leave the chaotic vortex. Instead, he stared at it silently for a long, long time... Finally, with another clench of his five fingers, billowing Abyssal Dust gathered from all around, pouring into the vortex like a tide. It then drew in the dragon crystal fragments and the dust of the Apocalypse Divine Jade, until they gradually mixed, fused, and took shape.
+A long time later, he cracked a smile and said, “I am no match for her in terms of ingenuity, but my mastery of abyssal dust should be better than hers. In that case... I shall simply craft whatever I want based on the characteristics.”
 
-When the storm of power subsided, the fragments from before had been fused by the Abyssal Dust into a strangely shaped Abyssal Crystal with a bizarre, mixed aura. Lightning sparked from Yun Che's fingertip as he bored seven holes of varying sizes into it. Then, Abyssal Dust gathered once more, coiling around the newborn crystal for a long time, devouring any traces that shouldn't exist.
+He made a grabbing motion, and seven abyssal crystals he had harvested from draconic abyssal beasts floated into the air. When he clenched his fingers, they immediately exploded into showers of fragments. Chaotic, diffused, abyssal dust and a faint draconic aura could be sensed about them.
 
-Several hours later, the Abyssal Dust slowly dissipated, revealing a massive Abyssal Crystal, a full two feet long, before Yun Che's eyes. Its entire body was the pitch-black of abyssal corrosion, its surface displaying the gnarled patterns of a coiling dragon. A faint, ethereal dragon's breath lingered within its seven apertures, giving it a mysterious and profound air.
+Next, he grabbed a Divine Jade of Revelation. His profound energy swelled dramatically, and there was a loud boom. The mutated abyssal crystal, even the Kingdoms of God considered divine, shattered just like that. It broke down into increasingly finer fragments amid the collision of energies. The terrible energy unleashed by the Divine Jade of Revelation formed a violent vortex of power around Yun Che thereafter.
 
-Rumble—
+Yun Che did not leave the rampaging vortex of power. Instead, he stared at it for a long, long time... until suddenly, he clenched his fingers once more, and currents of abyssal dust flooded in from everywhere. They mixed into the vortex like tide water, blending the fragments of the draconic crystals and the Divine Jade of Revelation until they coalesced into a coherent shape.
 
-Space trembled and the earth churned. Behind Yun Che, the long-slumbering Abyssal Qilin God slowly opened its eyes, then opened its terrifyingly colossal abyssal maw.
+When the vortex of power finally settled, the fragments had formed a strange abyssal crystal of mixed, bizarre aura under the guidance of the abyssal dust. Thunder bloomed from Yun Che’s finger, and seven different holes appeared on its surface. After that, abyssal dust gathered once more and wrapped around the newborn abyssal crystal to eliminate all traces that shouldn’t exist.
 
-Yun Che grabbed the newborn crystal and tossed it into its mouth from afar. The Abyssal Qilin God swallowed it, closed its great mouth, shut its eyes, and returned to stillness.
+Several hours later, the abyssal dust slowly faded, and a massive abyssal crystal two-thirds of a meter long[1]. It was covered in the pitch-black color of abyssal erosion, and its surface was engraved with the image of a bearded cooling dragon. A faint draconic aura rested within the seven orifices, mysterious and deep.
 
-"Seven dragon Abyssal Crystals from four different species of dragons, plus the unique aura of the Apocalypse Divine Jade, concealed and interfered with by Abyssal Dust, and then left to steep in the Qilin God's belly for a month or two..."
+Rumble rumble rumble—
 
-Yun Che lowered his gaze and smiled. "I guarantee its aura will be more mysterious and bizarre than anything ever seen before."
+Space shuddered, and earth churned. Behind Yun Che, the Abyssal Qilin God, who had been slumbering for heavens-know-how-long slowly opened its eyes and opened its massive, terrifying maw. Then, Yun Che grabbed the newborn abyssal crystal and tossed it into his mouth.
 
-Unless it was crushed... but faced with this long-desired object that had never before appeared in the world, as if a gift from the heavens, the other party would likely be the last person on earth to allow it to suffer the slightest damage.
+The Abyssal Qilin God swallowed the crystal, shut its maw and eyes, and returned to silence once more.
 
-"What... are you doing?" Li Suo, who had been witnessing Yun Che's strange actions, finally asked.
+“Seven draconic abyssal crystals hail from four different types of dragons, the unique aura of the Divine Jade of Revelation, the concealment and interference of abyssal dust, and a month or two stay in the Qilin God’s belly...”
 
-"Bait." Yun Che's reply was concise.
+Yun Che smiled with lowered brows. “I guarantee that its aura will be mysterious and bizarre like nothing the world has ever seen.”
 
-"...Then why did you lie to Hua Caili, claiming the 'Yunli Sword' was accidentally lost in the Abyss of Death?"
+The ruse would come undone if someone were to crush it to smithereens... but the person who would be receiving this unprecedented, practically miraculous gift would be the last person to inflict even the slightest scratch on it.
 
-"Hmm... that's also bait, I suppose?"
+“What... are you doing?” Li Suo had been observing Yun Che’s strange behavior all this time. Now that he was done, she finally allowed her curiosity to take over.
 
-"..."
+“Bait,” Yun Che replied succinctly.
 
-Yun Che's gaze shifted, looking out into the deep Sea of Fog. "It's time to see my disciple. He should be back around now."
+“... And what is the reason you lied to Hua Caili, claiming that you had accidentally dropped the ‘Glass Cloud Sword’ in the Abyss of Death?”
 
-Abyssal Dust gathered, transforming into a dense, sky-filling abyssal fog that completely enveloped his body, turning him into the self-proclaimed Fog Monarch.
+“Hmm... also bait?”
 
-The Abyssal Dust transmitted a soul voice. Without making Yun Che wait long, Pan Buwang's figure arrived swiftly, prostrating himself in the distance.
+Yun Che turned around and stared into the dark and gloomy Endless Fog. “I should meet my disciple now. It’s about time he returned anyway.”
 
-"Disciple Pan Buwang pays his respects to Master! The trip to the Pure Land went exactly as Master predicted. Disciple did not fail his mission and successfully shocked the masses and made a name for himself, moving the entire Soaring Butterfly God Kingdom. Even the Abyssal Monarch took notice."
+Abyssal dust gathered and formed a fog so thick that it blotted out the sky. It engulfed him completely and transformed him into the self-proclaimed Fog Monarch. His abyssal dust transmitted his soul voice, and he didn’t have to wait long. Pan Buwang soon arrived at top speed and dropped to his knees long before he reached the Fog Monarch.
 
-"Very good." The Fog Monarch's deep voice of approval came from within the abyssal fog. "Next, remember every word I am about to say!"
+“Disciple Pan Buwang greets his master! Everything has gone as you predicted during my trip to the Pure Land. This disciple did not fail to live up to your expectations either. I have successfully astonished the masses and won renown for myself. I have stirred up the Owl Butterfly Kingdom of God and even drew the attention of the Abyssal Monarch.”
 
-"Yes!" Pan Buwang bowed his head, listening respectfully. The journey to the Pure Land had increased his reverence and awe for his master more than severalfold. Now, no matter how incredible or paradigm-shifting his master's words were, he would treat them as a divine decree.
+“Very good.” From the abyssal fog, the Fog Monarch’s deep voice echoed with approval. “Now, remember every line; every word I’m about to say!”
 
-"After a brief period of silence, the Soaring Butterfly God Kingdom will surely begin to actively search for you. In the next three months, you must be found by them four times."
+“As you command!”
 
-"The first time, you must sorrowfully and tactfully refuse to return."
+Pan Buwang bowed his head and listened carefully. After the journey to the Pure Land, his respect toward his master had grown by leaps and bounds, to put it mildly. Today, his master could say the most outlandish and impossible things, and he still would regard them as divine decree.
 
-"The second time, you must refuse outright and flee into the Sea of Fog."
+“The Owl Butterfly Kingdom of God will do nothing for a moment. Then, they will start looking for you. In the next three months, you must allow them to find you for a total of four times.”
 
-"The third and fourth times, you must intentionally let them barely sense your aura, then flee with all your might. Do not meet them, only display an attitude of desperate avoidance."
+“The first time, you must sadly but gently decline their request for you to return.”
 
-Pan Buwang listened quietly, engraving every word deep into his heart. To others, the Fog Monarch's voice was like the demonic shriek of a soul-tearing fiend, but to him, it was no longer terrifying; instead, his soul gradually felt an affinity for it.
+“The second time, you must firmly refuse and vanish into the Endless Fog.”
 
-"Do this, and after three months, Pan Yusheng will very likely come to find you personally and bring you back. If he does not appear after three months, then continue to avoid them with all your might... The Abyssal Monarch's notice, the darkness affinity you displayed, and Pan Yuan Duanye, combined with the slight guilt he feels for you, all dictate that he must bring you back no matter what."
+The third and fourth time, you must deliberately let them catch a trace of your presence before fleeing with all your might. You must act like you cannot wait to avoid them.”
 
-"And the condition you will give him for your return is to rebuild your mother's grave... This condition only, say nothing else."
+Pan Buwang listened quietly and engraved each and every word into his heart. To others, the Fog Monarch’s words sounded like a devil’s voice that rent the soul. But now, not only was he no longer afraid, he was beginning to feel a kinship with his master.
 
-Return to the God Kingdom... Mother... Pan Buwang's heart pounded violently. He raised his gaze and said in a low voice, "Master, what should I do after I return?"
+“If you pull this off correctly, three months later, Pan Yusheng would very likely come after you himself. If he does not appear three months later, then continue to evade them with all your might... the Abyssal Monarch’s attention, the darkness compatibility and the Original Abyss That Severs The Night you displayed, and the sliver of guilt he felt toward you would eventually drive him to bring you back to the Owl Butterfly Kingdom of God at all costs.”
 
-The Fog Monarch's voice was deep and slow: "Have no desires, ask for nothing."
+“You will set a condition for your return. You will demand that they rebuild your mother’s tomb... that is all. You won’t demand anything else.”
 
-Pan Buwang furrowed his brow in thought, then bowed deeply. "I ask for Master's clear guidance."
+Return to the Owl Butterfly Kingdom of God... Mother... Pan Buwang’s heart beat violently as he looked up and asked in a low tone, “What should I do after I return, master?”
 
-"Follow all of Pan Yusheng's arrangements. Banquets, clan meetings, training expeditions... obey everything Pan Yusheng says without a single thought of defiance. If he wants to take your blood to investigate your darkness affinity, you will let him without hesitation. If he wants 'Pan Yuan Duanye,' you will give it to him in its entirety. You can even hand over the 'Pan Yuan Eternal Prayer Art' that I modified for you."
+The Fog Monarch answered in a deep voice, “No delusions, no desires.”
 
-"Not only must you be obedient, you must also respect him. And do so in your mother's name!"
+Pan Buwang frowned in thought for several moments before bowing deeply. “Please enlighten me, master.”
 
-"..." Pan Buwang was shocked and confused, but he did not question it, committing everything to memory with utmost seriousness.
+“You will obey all of Pan Yusheng’s arrangements. Banquets, clan meetings, training... You will do everything he says without hesitation or disobedience. If he wishes to draw your blood to check your compatibility with darkness, you will give it without hesitation. If he asks the ‘Original Abyss That Severs The Night’ from you, you will give it in its totality. In fact, you may surrender the ‘Original Abyss Pray Eternal Art’ I mutated for you as well. All of it.”
 
-"Aside from these things, in your own time, you are not to cultivate, not to get close to others, and not to seek any external objects. Instead, you will spend all your time with your mother, praying for her and holding vigil!"
+“Not only will you obey him, but you will also treat him with respect as well, and you will do it in your mother’s name!”
 
-"Can you remember all of this!?"
+Pan Buwang was shocked and puzzled, but he never questioned the Fog Monarch. He listened to each and every word.
 
-Although his heart was filled with a thousand doubts, Pan Buwang nodded heavily, his eyes as firm as the abyss. "Disciple has committed everything to memory."
+“Besides that, you are not to cultivate, socialize, or demand any object during this period. You will spend all of your time accompanying your mother, praying for her, and keeping vigil by her grave!”
 
-"Very good." The abyssal fog swirled, carrying the Fog Monarch's silhouette slowly into the distance, gradually merging into the boundless Sea of Fog. "Three years from now, a voice will tell you which path to take. Go!"
+“Do you remember!?”
 
-"Remember all my words, and remember your hatred even more. Remember why you are still alive!"
+Although a million doubts were racing in Pan Buwang, he still nodded heavily with eyes as determined as the abyss. “This disciple has engraved all of your instructions in my heart.”
 
-Only after the Fog Monarch's presence had completely vanished from his sight and senses did Pan Buwang slowly rise. He turned, his gaze already fixed on the direction of the Soaring Butterfly God Kingdom. The reverence and respect he showed the Fog Monarch instantly vanished from his eyes, replaced by a lightless, bottomless abyss of hatred, dark enough to devour everything.
+“Very good.”
+
+The abyssal fog moved and slowly carried the Fog Monarch’s silhouette away. As he blended into the Endless Fog, he added, “A voice will tell you what to do three years later. Now go!”
+
+“Remember everything I told you today. Especially remember your hatred and why you are still alive!”
+
+It wasn’t until the Fog Monarch’s existence had completely vanished from his vision and perception that Pan Buwang slowly climbed back to his feet. When he turned around, his eyes stared straight in the direction of the Owl Butterfly Kingdom of God.
+
+The respect he carried in his eyes when facing the Fog Monarch was gone. In its place, a bottomless, lightless abyss of hatred took over. It held enough darkness to consume everything.
+
+1. The raw is “several Chinese feet, which is between one-third of a meter to three meters, so apologies if this confuses some people. ☜

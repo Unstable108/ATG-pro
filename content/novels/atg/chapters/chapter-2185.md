@@ -1,217 +1,221 @@
 ---
 chapterNumber: 2185
-title: ""
-publishedAt: "2026-04-16"
+title: "Soundless Death Knell"
+publishedAt: "2026-05-30"
 ---
 
-Stepping out of the barrier, Yun Che’s expression had already returned to a rippleless calm, devoid of any trace of joy or anger.
+UNedited chapter - Rubble
 
-Seeing him emerge so quickly, Long Qianxin was not particularly surprised. He said with a chuckle, "Does the Abyssal Son have other areas of interest? Or perhaps you would like to return to the Ancestral Dragon Temple with me? The Dragon Sovereign has personally arranged a grand feast and awaits the Abyssal Son’s company."
+When he stepped out of the barrier, Yun Che’s expression had become utterly serene, betraying not a trace of emotion.
 
-"No need."
+Long Qianxin wasn’t at all surprised to see him emerge so quickly. He smiled and said, “Is there anything else that interests you, Divine Son Yuan? Or perhaps you’d like to accompany back to the Ancestral Dragon Divine Hall? The Dragon Lord has personally arranged a grand banquet and is eagerly awaiting your presence.”
 
-Yun Che did not look at him. Instead, he gazed into the distant sky. "Please inform the Dragon Sovereign that I have suddenly remembered an urgent matter that remains unresolved. I shall take my leave for now; there is no need to see me off."
+“No need.”
 
-As the words fell, before Long Qianxin could react, Yun Che had already soared into the air. He vanished into the distance in an instant, his speed incredibly fast and without a hint of hesitation.
+Yun Che did not look at him, instead gazing into the distant sky. “Please inform the Dragon Lord that I have suddenly recalled an urgent matter that remains unresolved. I must take my leave for now; there is no need to see me off.”
 
-"Ah? This... Abyssal Son!?"
+As soon as he finished speaking, before Long Qianxin could react, Yun Che had already shot into the air. There was no hesitation. He moved at an incredible speed and vanished in an instant.
 
-Long Qianxin stood there stunned, unable even to utter a word of inquiry or entreaty. He could only stretch out his arm, watching helplessly as Yun Che and Meng Chaoyang disappeared into the far horizon, completely unaware of what had transpired.
+“Ah? Di... Divine Son Yuan!?”
 
-Screee—
+Long Qianxin stood frozen in place, too slow even to utter a word of inquiry or farewell. He could only stretch out his arm, watching helplessly as Yun Che and Meng Chaoyang vanished into the distant sky. He had no idea what had just happened.
 
-Profound energy tore through the air, creating a piercing whistle.
+Profound energy tore through the air, producing a piercing screech.
 
-Yun Che’s speed grew faster and faster, and before long, he had breached the Ancestral Dragon Barrier.
+Yun Che’s speed grew ever faster. Before long, he had passed through the Ancestral Dragon barrier.
 
-The endless dust and mist of the Abyss swept toward him, making his vision blurry and indistinct. Yun Che’s speed did not slacken in the slightest, yet the direction he headed was not back toward the Kingdom of Weaver’s Dream.
+A thick cloud of dust swept toward him, blurring his vision. His speed did not waver in the slightest, yet he wasn’t headed in the direction of the Dreamweaver Kingdom of God. It seemed as though he had simply chosen a random direction, streaking through the air as if he was venting his frustration.
 
-It was more as if he had chosen a direction at random, streaking through the sky as a form of catharsis. Behind him, Meng Chaoyang followed at a distance. Though surprised, he maintained his boundaries and did not approach to question him.
+Meng Chaoyang followed far behind him. Though puzzled, he maintained his distance and did not approach to ask questions.
 
-After an unknown amount of time, Yun Che’s body suddenly swayed violently, and he plummeted from the sky.
+It was unclear how much time had passed when Yun Che’s body suddenly lurched violently, and he plummeted from the sky.
 
-Boom!
+A low mountain was split in two, sending boulders flying in all directions. Amidst the swirling dust and sand, Yun Che knelt on one knee, his fingers clenched tightly against his chest as he retched in agony.
 
-A low mountain was snapped in half, rocks flying in all directions. Amidst the surging dust and sand, Yun Che knelt on one knee, his fingers clawing desperately at his chest as he began to retch in agony.
+Sharp shards of rock sliced through his skin and counter garments, carving deep, bloody gashes. He remained oblivious, though. His back convulsed violently, his long hair hung loose, his jaw was clenched tight, his throat churned wave after wave of agony, and his internal organs felt as if they were being twisted together, triggering one fit of dry, gagging retching after another.
 
-Sharp gravel sliced through his skin and clothes, carving trails of blood, yet he was entirely oblivious. His spine shuddered violently, his long hair fell disheveled over his face, and his jaw was clamped shut. Wave after wave of violent tremors surged through his throat; his internal organs felt as if they were being twisted into knots, forcing out one hoarse dry heave after another.
+“Your Highness!”
 
-"Your Highness!"
+At this point, Meng Chaoyang could no longer heed the instruction to “offer distant protection”. He instantly teleported to Yun Che’s side and placed a hand radiating a gentle, profound light on the young man’s back, his eyes filled with shock, confusion, and concern.
 
-Meng Chaoyang could no longer heed the instruction to "only protect from afar." He shifted instantaneously to Yun Che’s side, placing a palm glowing with a gentle profound light onto Yun Che’s back. His eyes were filled with shock, confusion, and worry.
+His body still trembling uncontrollably, Yun Che forced himself to look up and said in a hoarse voice, “I... I’m fine... ggk ... blarghhhhh! ”
 
-His body trembling uncontrollably, Yun Che forced his head up and let out a raspy voice: "I... am fine... gulp... URGH!!" His spine suddenly curled under Meng Chaoyang’s palm, his retching heart-wrenching and prolonged, yet nothing came out.
+His back arched violently beneath Meng Chaoyang’s palm. The retching was heart-wrenching and wouldn’t stop for a long time, yet nothing came up.
 
-Only his five fingers remained embedded deep into the flesh over his heart. Droplets of blood dripped from his strained knuckles, yet he could not perceive even a shred of the pain.
+His five fingers were dug deep into the flesh of his chest. Droplets of blood trickled down from his contorted knuckles, yet he could not feel a shred of pain.
 
-Meng Chaoyang’s brows furrowed tightly. He flipped his palm, releasing a profound light several times stronger than before, and his eyes took on a peaceful yet profound silver glow.
+Meng Chaoyang’s brows furrowed deeply. He flipped his palm and released a profound light several times more intense than before. His eyes were also glowing with a serene and profound silver radiance.
 
-Under his vast, sea-like soul power, Yun Che’s state finally eased. The trembling of his body gradually ceased, and then, as if completely drained of strength, he slumped to the ground like a soul-less pile of mud.
+Under the vast, ocean-like expanse of his soul power, Yun Che’s condition finally began to ease. Bit by bit, the trembling weakened until, as if completely drained of strength, he slumped to the ground like soulless mud, sitting.
 
-Meng Chaoyang withdrew the silver light from his eyes, his expression complex and unreadable.
+Meng Chaoyang withdrew the silver glow from his eyes, his expression complex and inscrutable.
 
-"Do not worry, I am fine." Yun Che kept his head lowered, his expression hidden. His voice was still thick, but much clearer than before.
+“Don’t worry, I’m fine.” Yun Che kept his head bowed, and his expression hidden from view. His voice remained hoarse, though it was now much clearer than before.
 
-"It is likely that the Dragon Might of the Ancestral Dragon Temple was too heavy. I forced myself to endure it then, and I am suffering the backlash now."
+“It was probably because the draconic of the Ancestral Dragon Divine Hall was too overwhelming. I forced myself to endure it, and it backfired on me.”
 
-He offered a reason that was barely plausible.
+He offered what was, at best, a flimsy excuse.
 
-The biting mountain wind howled past, exceptionally cold, yet it did not compare to a ten-thousandth of the icy hell within his soul.
+The biting mountain wind howled past his body. It was bitterly cold, yet not even a fraction as frigid as the icy prison within his soul.
 
-"I must trouble Hall Master Chaoyang to provide me with a barrier. I need to focus my breath for a while... and then I will be well."
+“I would be grateful if you could grant me a barrier, Lord Chaoyang. I need to rest for a while... just a while, and I’ll be fine.”
 
-Though Meng Chaoyang’s heart was filled with a thousand doubts, he could only nod. "Very well. Your Highness, do not force yourself. I am at your command at any time."
+Though Meng Chaoyang harbored countless doubts, he could only nod and say, “Very well, Your Highness. Please do not push yourself, and do not hesitate to ask me for anything.”
 
-He rose and flew away, and a silver barrier identical to the previous one descended, temporarily isolating Yun Che from the surrounding world.
+He rose and flew away. At the same time, a silver barrier identical to the one before descended on top of Yun Che, temporarily isolating him from the world around him.
 
-In the deathly silent space, Yun Che sat slumped on the ground for a long time, motionless.
+In the deathly silent space, Yun Che remained slumped on the ground for a long time, utterly motionless.
 
-The stray hairs on his forehead were stuck messily to his sweat-drenched temples. Every vein in his neck throbbed and spasmed. Within those eyes hidden by his chaotic hair, a mist of blood-colored moisture had gathered.
+Strands of hair were clinging in disarray to his sweat-dampened brow. Every vein in his neck were pulsing and spasming. Hidden behind his tangled hair, a blood-red mist was clearly pooling inside his eyes.
 
-Li Suo’s phantom appeared silently. She slowly knelt before him but did not speak. She simply watched him quietly, accompanying him, sensing the agonizing pain that saturated every fiber of his soul.
+Li Suo’s ethereal form appeared silently and slowly knelt in front of Yun Che. She did not speak, though. She simply watched him in silence, keeping him company and sensing the excruciating pain that permeated every fiber of his being.
 
-Time flowed with great difficulty amidst the extreme gloom.
+Time dragged on with agonizing slowness in the oppressive gloom.
 
-Finally, Yun Che moved. He slowly raised his blood-stained right hand...
+Finally, Yun Che stirred. He slowly raised his blood-stained right hand...
 
-And slapped himself violently across the face.
+... and then slapped himself viciously across the face.
 
-Slap!
+The piercing sound of shattering cheekbones echoed through the air. The fingerprints left on his face were as crimson as blood.
 
-The sound of his cheekbone cracking was sharp and ear-piercing; the finger marks on his face were a vivid, bloody crimson.
+Li Suo instinctively raised her hand to touch him, yet her slender fingers, glowing with a faint white light, passed right through him. “Yun... Che....”
 
-Li Suo raised her hand, but her slender fingers, shimmering with a pure white light, could only pass through his body. She could not truly touch him. "Yun... Che..."
+Yun Che raised his hand once more, all five fingers clenching around his face with increasing tightness until his knuckles snapped and turned deathly pale.
 
-Yun Che raised his hand again, his fingers gripping his face with a death grip, tightening inch by inch, until his knuckles cracked and turned a ghastly white.
+“I should have realized... should have realized....” he murmured, each word laced with agony, each one hoarse.
 
-"I... should have realized... I should have realized long ago..." he murmured, every word a note of pain, every sound hoarse.
+“Heh... hehehe... What ‘Emperor Yun’... What ‘hope of saving the world’... I’m such a fool... a worthless piece of trash... a worthless piece of trash! Hehe... hahahaha....”
 
-"Heh... hehe... What 'Emperor Yun'... what 'hope of saving the world'... I am truly a fool... a piece of trash... trash! Hehe... Hahahaha..."
+The hoarse laughter was exceptionally heart-wrenching, like a poison-coated ice blade repeatedly stabbing and twisting in his throat.
 
-The raspy laughter was exceptionally tragic, like poisoned ice blades stabbing and twisting repeatedly in his throat.
+“It’s not your fault,” Li Suo said softly, her voice—already as ephemeral as a dream—even more gentle than usual. “You’ve already shouldered too much; your heart and soul have long been stretched to the breaking point... No matter how powerful you are, there’s a limit. Let the pain pass, and do not punish or blame yourself any longer.”
 
-"This is not your fault," Li Suo spoke softly. Her voice, already as ethereal as a dream, was even more tender than usual. "You already carry too much on your shoulders. Your heart and soul have long been stretched to the breaking point... No matter how strong you are, there is always a limit. It is enough to feel the pain; do not punish or reproach yourself further."
+“Besides, it was her own choice.”
 
-"Moreover, that was also her choice."
+“Choice...” A bitter laugh escaped his throat. “Was that so-called ‘Five Spirit Treasures’ also a choice....”
 
-"Choice..." He gave a tragic laugh. "Was that so-called 'Five Spirit Treasure'¹ also a choice...?"
+“......” Li Suo sighed softly.
 
-"..." Li Suo let out a faint sigh.
+After all, it was nothing but a complete and utter lie.
 
-That was a complete and utter lie.
+Long Wangchu’s rapid growth had come from Yun Xi, who sacrificed her own blood essence time and again, year after year.
 
-Long Wangchu’s rapid growth came from the essence blood sacrificed by Yun Xi time and time again, year after year.
+The wound was permanent and irreversible. It was no exaggeration to say that she was severing her own lifeline, cut by cut.
 
-That was an irreversible, permanent wound—it was cutting away at her own lifeblood, stroke by stroke.
+To keep her by his side forever, to ensure she would endlessly sacrifice her blood essence to that good-for-nothing who was the future of the Ancestral Dragon lineage, Long Zhiming had concocted a vile lie and offered her a hope that was distant and faint, yet seemed within reach if she was willing to sacrifice everything....
 
-In order to keep her there for the long term, to ensure she would continuously sacrifice her essence blood to that mediocre fool who supposedly determined the future of the Ancestral Dragon lineage, Long Zhiming had fabricated a despicable lie. He gave her a distant, hazy hope—one that seemed reachable if she gave her everything...
+What Five Spirit Treasures, what spirit essence of heaven and earth, what Great Ancient Dragon Formation... They were all absurd, laughable, vile, and filthy lies!
 
-What Five Spirit Treasure, what Heavenly Spiritual Rhythm, what Ancient Dragon Array... they were all absurd, laughable, ugly, and filthy lies!
+“I... don’t quite understand something,” Li Suo said softly. “Back in the Qilin God Realm, she not only saw through your true identity early on, but also seized the opportunity to use your power to obtain the Qilin Bone Spirit Orchid. Moreover, she had exposed the true purpose of your appearance in this world in a single remark.
 
-"I do not quite understand," Li Suo said softly. "Back then in the Qilin God Realm, she not only saw through your identity early on but also used your strength to obtain the Qilin Bone Spirit Orchid. She even exposed your purpose for appearing in this world with a single word."
+“Her intelligence far surpassed that of ordinary people, so how... how could she have been deceived by such a lie? Was it the Ancestral Dragon lineage’s impossibly long history and the Dragon Lord’s formidable prestige that led her to—”
 
-"Her intelligence far exceeds that of ordinary people. How could she... be deceived by such a lie? Was it because the Ancestral Dragon lineage’s long history and the Dragon Sovereign’s high prestige made her—"
+Suddenly, her voice faltered as she realized something.
 
-At this point, her voice paused as she suddenly thought of something.
+“So that’s it...” Her voice grew even softer. “You once said that a drowning person will grasp at any floating duckweed that suddenly appears, no matter the cost.
 
-"I see..." Her voice grew even softer. "You once said that a drowning person will grasp at a sudden piece of floating duckweed at any cost."
+“She didn’t believe the Dragon Lord. On the contrary, she likely understood better than anyone that it was most likely a colossal lie. But... she wouldn’t allow herself to reject it, wouldn’t allow herself to extinguish with her own hands the last glimmer of hope this world had to offer.”
 
-"She didn't necessarily believe the Dragon Sovereign. On the contrary, she likely knew better than anyone that it was most likely a massive lie. But... she did not allow herself to reject it. She did not allow herself to personally extinguish the last glimmer of hope she could find in this world."
+Blood trickled from the gaps between Yun Che’s tightly clenched teeth.
 
-Trails of blood leaked from between Yun Che’s tightly clenched teeth.
+“Why didn’t you expose the lie for Yun Xi’s sake? And why did you hide the Primal Flame Crystal you’d worked so hard to find?”
 
-"Why did you not expose this lie for Yun Xi? And why did you hide the Primordial Flame Crystal² that you found with such difficulty?"
+Yun Che shook his head in agony as he murmured, “I couldn’t expose it...
 
-Yun Che shook his head in agony, moaning, "I cannot expose it..."
+“Do you remember what she said back then...? She said that saving her mother was the only reason she still lived in this world.
 
-"Do you remember what she said then...? She said that saving her mother is the only reason she still lives in this world."
+“If the lie was exposed, what would shatter wouldn’t just be an illusory bubble—it might be... her will to live as well.”
 
-"If the lie is shattered, what breaks is not just an illusory bubble, but potentially... her will to live."
+The will to die... was a cruel nightmare that even Mo Su, the Abyssal Monarch, could do nothing about.
 
-The will to die... that was a cruel nightmare that even the Abyssal Monarch Mo Su could do nothing about.
+Waves of chaotic, strange sounds escaped from between Yun Che’s teeth, yet they could not truly vent the endless pain and guilt within his soul.... Li Suo gently raised her hand, touched the corner of his eye with a slender finger, and left it there for a long time.
 
-Bursts of chaotic, strange sounds leaked from Yun Che’s teeth, yet they could not truly vent the endless pain and guilt within his soul... Li Suo gently raised her hand, her slender fingers touching the corner of his eye, lingering there for a long time.
+As a child, she had witnessed her mother’s disappearance....
 
-As a child, she witnessed her mother’s disappearance...
-What remained was hatred, pain, and lonely cold...
-A world of grey...
-Coveted by others...
-Disfiguring her own face...
-Trading blood for peace...
-Lies...
-Self-deception...
-Risking her life...
-...
-This was her life until now.
-The life of his and Shen Xi’s daughter.
-...
-...
-"Li... Suo..."
+What remained was bitterness, pain, and loneliness....
 
-He suddenly called her name softly.
+Wherever she looked, there was only desolation....
 
-"I am here," she replied gently.
+Wherever she went, there was only envy....
 
-"I... cannot wait any longer."
+To protect herself, she destroyed her own face....
 
-His voice was trembling and weak. Clearly a Devil God sworn to bring calamity to the world, at this moment he seemed like a lost, helpless child.
+To buy peace, she sold her own blood....
 
-"I want to take Xi'er home... sooner."
+Self-deception....
 
-"I..."
+Struggle....
 
-The suffering she had endured was simply too much. Even one more day was more than he could bear...
+This had been her life thus far.
 
-Li Suo looked at him and nodded gently. "Fine. Then let us begin earlier, end it earlier, and take her home earlier."
+The life of the daughter of Yun Che and Shen Xi.
 
-"Even if the road is not paved so thickly, it can still be a smooth path." Yun Che’s palm slowly lowered from his face. When he raised his eyes, they were still a crimson red, like those of a desperate wolf.
+“Li... Suo....”
 
-He looked forward. His gaze shifted from hazy to clear, then slowly lost focus, finally settling into a deep, murky darkness.
+He suddenly called out her name softly.
 
-One breath... ten breaths... a hundred breaths...
+“I’m here,” she replied just as quietly.
 
-His silence this time lasted for a very, very long time.
+“I... can’t wait any longer.”
+
+His voice was weak and trembling. Though a self-proclaimed devil god who had vowed to bring ruin to this world, at this moment, he seemed like a lost, helpless child.
+
+“I want to... take Xi’er home sooner.”
+
+She had already suffered too much; he could not bear for her to suffer even a day longer....
+
+Li Suo looked at him and nodded gently. “All right. Then let us begin sooner, finish this sooner, and take her home sooner.
+
+“Even if the path isn’t paved with the heaviest of stones, it can still be smooth.”
+
+Yun Che’s hand slowly dropped from his face. When he looked up again, his eyes were crimson like those of a desperate, ravenous wolf.
+
+He looked ahead, his gaze shifting from hazy to clear, and his pupils slowly losing focus. In the end, it settled on deepening darkness and murkiness.
+
+On breath... ten breaths... a hundred breaths....
 
 No one knew what he was thinking.
 
-When he stood up, he turned his body... but he did not face the way back to the Kingdom of Weaver’s Dream. He faced the territory of the Dragon Race.
+When he stood up, he turned his body... but not toward the path back to the Dreamweaver Kingdom of God, but the dragon’s domain.
 
-Li Suo’s phantom moved into his line of sight to dissuade him. "Do not be impulsive."
+Li Suo’s ethereal form appeared before his eyes, blocking his path. “You must not act impulsively.”
 
-Yun Che murmured lowly, "The Dragon Race of the Western Divine Region harmed Shen Xi. The Dragon Race of the Abyss has harmed my and Shen Xi’s daughter like this."
+Yun Che murmured, “The dragon race of the Western Divine Region had harmed Shen Xi, and now the dragon race of the Abyss had inflicted such pain upon me and Shen Xi’s daughter.
 
-"The Dragon... Race..."
+“These... dragons ....”
 
-Hatred seeped into his bones, gouging his heart and eroding his marrow.
+The hatred ran deep to his very bones, gnawing at his heart and corroding his very marrow.
 
-"I understand your hatred and guilt," Li Suo soothed him with an extremely gentle voice. "But Long Zhiming is, after all, an Ancestral Dragon who has lived for a million years. Even if Meng Chaoyang, who follows you, is willing to give his all, he cannot be his match—let alone the entire Dragon Race under his command."
+“I understand your hatred and your guilt,” Li Suo soothed him in the gentlest of tones. “But Long Zhiming is, still, an Ancestral Dragon who has lived for a million years. Even if your follower, Meng Chaoyang, is willing to give it his all, he still wouldn’t stand a chance against him—much less the rest of the dragons under his command.
 
-"Now is not the time... for your own sake, and for your daughter’s."
+“Now is not the time... for your own sake, and your daughter’s.”
 
-Yun Che’s gaze did not shift, still staring fixedly in the direction of the Dragon Race.
+Yun Che’s gaze did not waver; he continued to stare intently in the direction of the dragon race.
 
-"Rest assured. No matter how much I hate them, I will not act now, nor will I put Xi'er in danger."
+“Relax... no matter how much I hate them, I won’t act on it now, and I certainly won’t put Xi’er in danger.
 
-"To let them die, to let their race be exterminated... how could that vent the hatred in my heart! How could I let them off so easily!!"
+“Killing them, driving them to extinction... as if such mild measures could possibly vent the hatred in my heart! As if they deserve such mercy!!! ”
 
-Every word was filled with hate, every syllable stained with blood.
+His voice was brimming with hatred, every word stained with blood.
 
-"I want them to wish they were dead... I want them to regret... to suffer... to wail... to despair... yet never find release!"
+“I will make them wish they were dead... I will make them regret... suffer... wail... despair... yet never find release!
 
-"I will squeeze dry every inch of their lowly bones!! Every shred of their flesh and blood!!"
+“I will squeeze every last drop of life from their vile bones!! Every shred of their flesh and blood!!”
 
-BOOM—
+BOOOOOOOOOOM————
 
-The earth cracked, space wailed, and even every wisp of Abyssal Dust seemed to tremble faintly.
+The earth split apart, and the space wailed. Even the abyssal dust, every wisp of it, seemed to be trembling in fear.
 
-As Meng Chaoyang looked over, Yun Che walked slowly out of the barrier.
+...... 𝐟𝚛𝕖𝚎𝕨𝗲𝐛𝚗𝐨𝐯𝐞𝕝.𝐜𝗼𝗺
 
-He appeared normal again, with a faint, indiscernible smile hanging on the corner of his mouth.
+Meng Chaoyang turned his gaze as Yun Che slowly stepped out of the barrier.
 
-"In the end, my cultivation is insufficient; I have worried Hall Master Chaoyang."
+He appeared to be completely back to normal, a faint smile playing at the corners of his mouth.
 
-As he spoke, Yun Che soared into the air. "The Dragon Sovereign was most hospitable. To leave without saying goodbye would be truly rude and would damage the reputation of my Weaver’s Dream. Upon reflection, I should enter the Dragon Race again to make up for my lapse."
+“My cultivation is ultimately insufficient. I’ve caused you much worry, Lord Chaoyang.”
 
-Having finished, he released his profound energy and headed toward the Ancestral Dragon Mountains once more.
+As he spoke, Yun Che soared into the air, “The Dragon Lord’s hospitality is truly profound. To depart without a word would be rude and would tarnish the reputation of my Dreamweaver Kingdom of God. After careful consideration, I’ve decided to visit them again and atone for my mistake.”
 
-Yet it was destined that no one would know that within a single day, having approached the Dragon Race twice, his state of mind had undergone a world-shaking transformation.
+With that, he unleashed his profound qi and headed back toward the Ancestral Dragon Mountain Range.
+
+No one could have known that his state of mind between his first and second visit to the dragon race would be completely different.

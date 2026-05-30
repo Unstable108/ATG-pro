@@ -1,183 +1,209 @@
 ---
 chapterNumber: 2167
-title: ""
-publishedAt: "2025-12-10"
+title: "Vermillion Bird’s Consoling Spirit Song"
+publishedAt: "2026-05-30"
 ---
 
-Vermillion Bird flames showed no signs of abating; instead, they blazed ever more fiercely, as if seeking to forge entire sky of this pure land into a deep crimson glow. Even heavenly light was dyed through by this divine flame, transforming into flowing patterns of red-gold. When eighth drop of source blood condensed between those withered fingers, voice of Divine Attendant Su Shang was completely engulfed by flaming light... Yet, palm of Ling Xian Divine Official still did not withdraw. In her palm, ninth drop of divine blood was condensing. 
+The Vermillion Bird Flame did not grow weaker. On the contrary, it was burning brighter and hotter with every passing second. It looked like High Priest Ling Xian was trying to melt the entire sky of the Pure Land into a vast expanse of deep crimson radiance. Even the skylight was saturated by the divine fire and transformed into flowing patterns of molten gold.
 
-How terrifying was flame aura of Vermillion Bird True God—at this moment, were it anyone else, their spiritual awareness would have long been extinguished, their mind and spirit utterly overwhelmed.
+When the eighth drop of blood essence fully condensed between those withered fingers, the fiery light had completely overwhelmed Divine Attendant Su Shang’s voice... but High Priest Ling Xian still did not withdraw her hand. The ninth drop of divine blood was beginning to form on her palm.
 
-Yet Yun Che clearly perceived majestic divine aura contained within nine drops of divine blood before him... This was by no means ordinary Vermillion Bird essence blood, but rather source divine blood that originated from Vermillion Bird's origin, rooted in core of her life force, with absolutely no possibility of regeneration. At same time, each trace of loss was accompanied by depletion of her lifespan. It was, in truest sense, a sacrifice that harmed oneself to bestow upon another.
+The fiery aura of a Vermillion Bird True God was beyond terrifying. Anyone else would have lost their spiritual perception and their consciousness completely. However, Yun Che could clearly sense that the immense divine aura contained within the ninth drop of divine blood.
 
-Flames upon her body grew increasingly gentle, yet flaming abyss in Ling Xian Divine Official's eyes dimmed layer by layer. Yun Che opened his mouth several times, forcibly enduring True God's flame aura to voice: "Senior... you... must... not..."
+It was definitely not your ordinary Vermillion Bird blood essence. It was the primordial divine blood rooted in her origin and the core of her life vein. Not only could it never be regenerated, but the loss of every strand was also accompanied by a diminution of one’s lifespan. It was, in every sense of the word, a sacrifice.
 
-He had only just met Ling Xian Divine Official; he did not know what virtue or ability he possessed to receive such a profound gift from her. If it were merely to continue Vermillion Bird flame, such source essence blood—a single drop would already be sufficient! Ling Xian Divine Official turned a deaf ear, and ninth drop of Vermillion Bird divine blood completely condensed between her fingers.
+The fire immolating him was growing warmer by the second, but the fiery abysses in High Priest Ling Xian’s pupils were dimming just as quickly. Several times, Yun Che opened his mouth and forced his voice through the fiery aura of a True God, “Senior... you... can’t...”
 
-Finally, her hand moved. Her five fingers slowly closed, and after a brief pause, her index finger suddenly extended, pressing upon Yun Che's brow. In an instant, world before Yun Che's eyes transformed into a boundless crimson sea of flames. A powerful, ancient, yet incredibly warm current slowly flowed throughout his entire body. His flesh, profound vein space, and soul sea were all bathed in a magnificent and warm crimson glow, dispelling all physical pain and burning away all negative emotions. It was a sense of peace he had never experienced since stepping into abyss, making him involuntarily want to sink into it, to sleep contentedly within this divine warmth.
+This was his first meeting with High Priest Ling Xian. He had no idea what he did to deserve such a heavy gift from her. If she were just planning to pass down the Vermillion Bird Flame, a single drop or primordial blood essence would have sufficed!
 
-Amidst endless warmth and tranquility, he caught a faint trace of longing. In this moment, he suddenly understood why Ling Xian Divine Official had allowed her countenance to age, and why she had bestowed upon him such an extravagant gift. Three million years of obsessive yearning and devoted guardianship, yet her figure had never been reflected in Mo Su's lightless eyes. Even if her divine beauty were a hundred or a thousand times more splendid, it was destined never to stir even slightest ripple in his gaze... Thus, her heart and soul gradually lost hope, her countenance withered, and her lifespan had also drawn near its end. Now, there had appeared in this world someone who could move his emotions and capture his gaze... Then, let her Vermillion Bird flame burn upon this person's body, replacing her companionship, continuing her vigil. Compared to inheritance of Vermillion Bird flame, this was perhaps true meaning of what she called "fulfilling her own wish."
+High Priest Ling Xian ignored him. The ninth drop of Vermillion Bird divine blood eventually manifested fully in her grasp.
 
+Finally, she began moving. Her fingers slowly clenched and halted for a brief moment. Then, she abruptly pointed out with her index finger and tapped Yun Che on his forehead.
 
-Another clear, resonant cry rang out across heaven and earth, awakening Yun Che's consciousness from warm sea of flames. He opened his eyes, and world before him rapidly shed its red-gold halo. Divine shadow of Vermillion Bird with its wings spanning ten thousand miles seemed to have had its soul essence drawn away; flowing glassy radiance upon its covering feathers began to dim layer by layer, like dying embers of sunset losing their last trace of brilliant color.
-At tip of tail feathers, not a single spark remained to fall upon dust. When long cry that pierced sky completely faded away, blazing divine shadow of Vermillion Bird shattered in an instant, transforming into countless fine fragments of flame that scattered with breeze into a sky full of crimson points of light—like a galaxy pouring down, or like fireflies bidding farewell to dusk. Surging crimson glow ahead transformed into layers upon layers of light gauze, slowly torn apart by an invisible wind, revealing Ling Xian Divine Official beneath dissipating divine shadow. Her complexion was deathly pale, yet at corners of her lips remained a gentle, compassionate smile.
+The world before Yun Che’s eyes instantly transformed into a crimson sea of flames. A powerful, ancient yet unbelievably warm stream slowly circulated throughout his body. For a time, beautiful yet warm crimson light shone into his flesh and blood, his profound veins, and his soul sea, dispelling all physical pain and burning away all negative emotions. Never had he felt so safe and at peace since setting foot in the Abyss. He instinctively wanted to submerge in this sense of security and slumber contentedly in this divine warmth.
 
-"Master!!"
+This wasn’t all he sensed, though. Yun Che also captured a hint of hidden desire amidst this endless sea of warmth and peace. At that moment, he suddenly understood why High Priest Ling Xian allowed herself to age to the extent she did, and why she had bestowed him such a ridiculous favor.
 
-Su Shang stumbled forward, supporting Ling Xian Divine Official's swaying divine form. Her face, originally elegant and untainted, had also lost all color just like her master's: "Master, why... why did you go this far?"
+For three million years, she stood watch over him and prayed that he would one day accept her feelings. And yet, her figure never entered Mo Su’s lightless eyes for even an instant. Even if she were a hundred, even a thousand times more beautiful than she was, she would never be able to stir up a single ripple in his eyes...
 
-"There is no need to worry."
+So, her heart and soul slowly succumbed to despair, and her countenance with it. Her lifespan was approaching its end as well.
 
-There was no sense of loss in Ling Xian Divine Official's smile, only a faint trace of relief and contentment: "I have merely lost remaining seventy percent of my lifespan. Remaining thirty percent, for him... is already sufficient."
+It was at this moment that a person who could stir up his heart and capture his gaze appeared in this world... That was why she was doing this. She wanted him to burn her Vermillion Bird Flame, keep him company, and continue watching over him in her stead.
 
-"..." Tears instantly welled up at corners of Divine Attendant Su Shang's eyes, and for a long while she could not speak.
+Rather than the succession of the Vermillion Bird Flame, this was probably the true wish of her desires.
 
-Yun Che had no time to sense Vermillion Bird blood within his body. He rose and bowed deeply: "This junior, Yun Che, thanks Senior Ling Xian for her great kindness."
+Another clear, piercing cry echoed across heaven and earth and roused Yun Che’s consciousness from the warm sea of flames. He opened his eyes and found that the world before him was rapidly shedding its crimson-gold halo. As if its soul had been sucked out, the divine silhouette of the Vermillion Bird, whose wings spanned thousands upon thousands of kilometers, slowly withered away. The fiery, glass-like radiance flowing across its feathers began to dim layer by layer, like the last vestiges of color of a sunset as it burned out. The fiery starfire burning at the tip of its tail feather had long since faded as well.
 
-"There is no need for thanks."
+When the piercing cry echoing through the void finally faded into the distance, the blazing form of the Vermillion Bird shattered and dissolved into countless fragments of fiery dust in an instant. As the wind blew, they scattered across the sky like showers of crimson showers, cascading rivers of stars, or fireflies bidding farewell to the twilight.
 
-She patted Su Shang's hand, and with her support, slowly took a step forward. Her increasingly turbid Vermillion Bird divine eyes examined Yun Che once more: "This is repayment I owe you, and also best destination for Vermillion Bird flame."
+The once-churning clouds of crimson transformed into layer upon layer of sheer gauze, slowly torn apart by an invisible wind. Eventually, High Priest Ling Xian appeared beneath the faded divine silhouette. Her complexion was deathly pale, but her lips were still curved into a light, benevolent smile.
 
-Her finger pointed out, and a jade slip shimmering with crimson crystal flame light appeared before Yun Che, then floated down into his hand.
+“Master!!”
 
-"This tome is called... the 【Vermillion Bird Spirit Solace Melody】. To others who read it, it is merely a musical score for purifying heart and cleansing thoughts. But when played with Vermillion Bird flame, it can ignite divine sound and absolute flame sufficient to comfort spirits and redeem world!"
+Su Shang staggered forward and caught High Priest Ling Xian’s unsteady form with both arms. Right now, her usually refined and serene countenance was drained of all color, just like High Priest Ling Xian. “You did not have to do this, master.”
 
-Name "Vermillion Bird Spirit Solace Melody" had long been thunderously familiar to Yun Che's ears, even from lower realms. It was known alongside "Golden Crow World Burning Record" and "Phoenix World Praising Canon" as three great World-Burning Heavenly Scriptures. Moment "Vermillion Bird Spirit Solace Melody" fell into his hands meant that inheritances of three great ancient supreme flame lineages had all converged within his body. Moment crimson crystal jade slip fell into Yun Che's hand, it opened of its own accord. Musical score of Vermillion Bird Spirit Solace Melody appeared clearly before Yun Che's eyes, and in his ears was soul-penetrating divine sound of Ling Xian Divine Official.
+“You don’t need to worry about me.”
 
-"The Vermillion Bird Spirit Solace Melody contains eight chapters of musical scores. First four chapters are: 【Flame Dawn Hymn】, 【Spirit Pacifying Verse】, 【Calamity Burning Tune】, and 【Sparrow Heart Chant】. These four chapters are relatively easier to comprehend. With your profound veins and pure heart, your speed of comprehension will surely surpass that of Su Shang in her time."
+There was no disappointment in High Priest Ling Xian’s smile, only a hint of satisfaction and release. “I simply lost seventy percent of my remaining lifespan, that’s all. The remaining thirty percent... to him... is enough.”
 
-"Latter three chapters are: 【Heavenly Plume Compassionate Voyage Music】, 【Vermillion Clouds Rebirth Ballad】, and 【Ashes and Calamity Mercy Song】. First two not only require sufficient fusion between Vermillion Bird flame and oneself, as well as extremely high comprehension, but also require a compassionate heart that grieves for heaven and pities world."
+“......” Tears immediately streamed down the corners of Divine Attendant Su Shang’s eyes. She could not say anything for a long, long time.
 
-"As for seventh chapter, it requires even more perfect flame control, ultimate comprehension, a heart of utmost sanctity, and a flawless soul. Su Shang has cultivated for ten thousand years and still cannot ignite it; there is no need to force it."
+There was no time for him to sense the Vermillion Bird’s blood inside his body. Yun Che got up to his feet and bowed deeply to her. “Junior Yun Che thanks you very much for this favor, senior Ling Xian.”
 
-Yun Che listened quietly. After Ling Xian Divine Official's voice faded, he closed jade slip and solemnly put it away: "Senior's teachings, this junior will engrave every word into memory. Senior just mentioned that Vermillion Bird Spirit Solace Melody contains eight chapters of musical scores... Could it be that eighth chapter has been lost?"
+“There is no need for thanks.”
 
-"No," Divine Attendant Su Shang answered him: "Final chapter of the Vermillion Bird Spirit Solace Melody is named 【Aria of World Redemption】. Only Master can compose and play it, but..."
+High Priest Ling Xian patted Su Shang on the hand before taking a slow step forward with her support. Although her eyes had become even murkier than before, she focused her gaze on Yun Che once more and said, “This is both the payment I owe you and the best home for the Vermillion Bird Flame.”
 
-She did not continue, but Yun Che understood completely. It turned out that eighth chapter was none other than Flame of World Redemption, one of three ultimate flames alongside Phoenix's Nirvana Flame and Golden Crow's Jade Shattering Flame... It was Flame of Conclusion, which could only be ignited at moment of one's demise.
+She lifted a finger, and a jade slip glowing with the fiery light of a crimson crystal appeared before Yun Che. It landed in his grasp.
 
-"Cough... cough cough!" Ling Xian Divine Official suddenly let out a violent cough, accompanied by painful trembling of her divine body. Divine Attendant Su Shang quickly reached out to block continuous spray of bloody foam from her mouth.
+“This... is the ‘Vermillion Bird’s Consoling Spirit Song’. To others, it is merely sheet music for calming the mind and purifying the thoughts. However, if it is played with the Vermillion Bird Flame, it could ignite an absolute flame of divine music that could soothe the spirits and redeem the world!”
 
-Yun Che instinctively stepped forward: "Senior..."
+In fact, Yun Che had heard of the “Vermillion Bird’s Consoling Spirit Song” long before he was in the lower realm. Together with the “Golden Crow’s Record of the Burning World” and the “World Ode of the Phoenix”, they were renowned throughout Primal Chaos.
 
-Ling Xian Divine Official, however, waved her hand, instead comforting him: "Do not worry for me. Eternal rest is a sought-after liberation for this old woman who should have perished three million years ago. Primordial Flame Crystal you gifted me, which allows my final thousand years of remaining life to be free from torment of body-devouring pain, is already a great kindness."
+Now that the “Vermillion Bird’s Consoling Spirit Song” had entered his possession, it meant that the inheritances of the Three Supreme Fire Attribute Beasts had finally been reunited inside his body.
 
-A thousand years of remaining life... Yun Che's heart violently stirred. Ling Xian Divine Official, one of four Divine Officials of Pure Land who had almost spanned entire history of Abyss World... after bestowing Vermillion Bird inheritance upon him, only had a mere thousand years of lifespan remaining.
+The moment the crimson crystal jade slip landed on his palm, it automatically unfolded itself and presented the “Vermillion Bird’s Consoling Spirit Song” clearly to his eyes. At the same time, High Priest Ling Xian’s divine voice flowed into his ears and soul:
 
-"If you truly harbor feelings of gratitude that are hard to release, then focus your mind and listen to my three pieces of advice."
+“There are eight music sheets in the ‘Vermillion Bird’s Consoling Spirit Song’ in total. The first four sheets are ‘Ode to the Blazing Dawn’, ‘Tranquiling Hymn of Spirits’, ‘Melody of Burning Calamity’, and ‘Song of the Bird’s Heart’. They are all relatively easy to grasp. With your profound veins and sincere heart, I’m sure you’ll master them faster than Su Shang did.”
 
-Yun Che stood upright, then bowed with utmost respect: "Very well, Senior's words, this junior will listen to every word with reverence."
+“The next three sheets are ‘Heavenly Plume Compassionate Voyage Melody’, ‘Ballad of Vermillion Cloud’s Passing’, and ‘Song of Ashes and Mercy’. The first two require a sufficient amount of harmony between the flame bearer and the Vermillion Bird Flame, extremely high power of comprehension, and a compassionate heart that feels for the suffering world.”
 
-"Cough... cough cough..."
+“The seventh sheet in particular requires perfect mastery of the Vermillion Bird Flame, absolute power of comprehension, a saintly heart, and an immaculate soul. Su Shang cannot ignite it, despite having cultivated it for ten thousand years. If you find yourself facing the same wall, you need not force yourself to master it.”
 
-Ling Xian Divine Official's already aged face visibly withered further before his eyes. She took a few breaths to recover, then softly said: "Since you possess profound veins of Lord Ni Xuan, and Phoenix Flame and Golden Crow Flame within you, you must know that among destructive power of three divine flames, Golden Crow Flame is strongest, Phoenix Flame is second, and Vermillion Bird Flame is weakest."
+Yun Che listened in silence until High Priest Ling Xian was done talking. Then, he closed the jade slip and put it away solemnly, asking, “This junior will remember every word of your teaching, senior. However, you mentioned that there were eight music sheets in total... is the last music sheet lost to time?”
 
-"But Vermillion Bird Flame is universally known as head of three divine flames. Do you... know why?"
+The one who answered his question was Divine Attendant Su Shang. “The last music sheet of the ‘Vermillion Bird’s Consoling Spirit Song’ is titled the ‘Ode to Redemption’. Master is the only one in the world who can play it, but...”
 
-Yun Che replied: "Although Vermillion Bird Flame is not skilled at incinerating living beings, it can warm and comfort soul, burn away all filth, and restrain all evil. It is praised by all worlds and revered by all spirits. It is truly worthy of being head of three divine flames."
+She did not continue, but Yun Che understood her unsaid words perfectly. It turned out that the eighth sheet music was none other than the Flame of Redemption, one of the Three Ultimate Flames alongside the Flame of Nirvana of the Phoenix, and the Nine Heavens Cry of Dead Crow and Shattered Jade of the Golden Crow.
 
-Ling Xian Divine Official smiled and nodded: "Good, very good. 'Eternal Pure Land' is my homeland, but I am destined never to return. First piece of advice... if you are able to set foot in 'Eternal Pure Land' in future, you must remember that Vermillion Bird Flame is only for comforting spirits and must not be used for evil."
+They were flames that could only ignite when the bearer met their end.
 
-A thousand years of remaining life... yet destined never to return??
+“Cough! Cough cough!”
 
-Doubt arose in Yun Che's heart, but he naturally could not voice it at this moment. He could only respond with utmost solemnity: "Understood! This junior swears here and now, that this life, I will absolutely not use..."
+A violent cough suddenly wracked High Priest Ling Xian’s body and caused her to tremble in pain. Divine Attendant Su Shang immediately extended a hand and blocked the showers of blood she was spitting.
 
-"There is no need to swear."
+Yun Che subconsciously stepped forward and said, “Senior, I—”
 
-Ling Xian Divine Official interrupted him: "Compassion lies in heart, not in words or deeds. Your promise is enough."
+But High Priest Ling Xian waved him off and said consolingly, “There is no need to worry for me. As an old woman who should have entered her eternal slumber three million years ago, there is nothing more I desire than the ultimate release. I owe you much for the Primal Flame Crystal you gifted me. It ensured that I will not suffer the physical pain of the backlash for the last thousand years of my life.”
 
-"Second piece of advice..."
+“The last thousand years of my life”... Yun Che’s heart beat strongly when he heard this. High Priest Ling Xian, one of the Four High Priests of the Pure Land, a woman who lived so long that she spanned nearly the entire history of the Abyss... only had a thousand years left after passing down the Vermillion Bird’s inheritance to him.
 
-She looked at Yun Che, her gentle gaze truly like that of a mother looking at her own child: "Nine drops of divine blood I have given you were taken from my Vermillion Bird origin, condensing a fraction of my source divine power. For an ordinary person, fully refining them would be enough to directly achieve demigod status. As for you, who possesses profound veins of Lord Ni Xuan, how much it can aid your growth, I cannot determine. But..."
+“If you truly must repay the favor somehow, then I have three pieces of advice to offer you. I beseech you to listen to them carefully.”
 
-"Regardless, you must not be overly hasty. Remember to refine one drop every three years at very least; by no means should you try to achieve success overnight. Otherwise, depletion of divine source is a minor matter; if it harms your own foundation... I fear it will leave an irreparable, eternal regret." For Yun Che, risk mentioned by Ling Xian Divine Official fundamentally did not exist.
+Yun Che immediately stood up straight and bowed to her with deep respect. “Of course. This junior promises not to miss a single word.”
 
-But he could only obediently comply: "Understood. Although this junior harbors an endless yearning for Vermillion Bird Divine Flame, to waste even a single trace of Senior's grace would be an unforgivable sin. This junior will proceed cautiously, refining it slowly step by step, and will absolutely not rush for success."
-What he said was not false. But as for degree of his "cautious steps" and "slow refinement," that was naturally for him to decide. 
+“Cough... cough cough...”
 
-"Good." Ling Xian Divine Official nodded again. Her previously steady breathing now clearly became shallow and hurried, each inhale accompanied by an unconcealable slight tremor, like a residual candle flickering in wind. Even crimson glow of her long robe seemed to have lost its luster. Hem of her garment swayed gently with breeze, but it no longer possessed spiritual agility of previous Vermillion Red Flame shadow that lingered around it; instead, due to master's weakness, it gained a sense of heavy, drooping weight.
+High Priest Ling Xian already looked ancient to begin with, but her countenance was decaying visibly in front of him. It took her a few breaths to finally calm her physical reactions and say softly, “Since you possess Lord Ni Xuan’s profound veins and carry both the Phoenix Flame and the Golden Crow Flame in you, you should know that, in terms of destructive power, the Golden Crow Flame is the strongest, followed by the Phoenix Flame and the Vermillion Bird Flame.”
 
-Only gaze from her turbid eyes towards Yun Che remained as gentle as before: "Child, have you ever heard of 'Pale Flame' from your Master?"
+“However, the Vermilion Bird Flame is universally acknowledged as the foremost of the three divine flames.... Do you know why that is the case?”
 
-Yun Che nodded: "Ancestral Goddess left behind Three Calamities and Three Blessings, and 'Pale Flame' was one of Three Calamities, which was ultimately annihilated by Master."
+Yun Che answered, “Although the Vermillion Bird Flame is ill-suited for burning lives, it can warm and comfort the soul, purge all impurities, and subdue all malevolent forces. That is why it is praised by all worlds and revered by all living creatures. It absolutely deserves to stand as the foremost of the three divine flames.”
 
-Although, this was actually only told to him by Li Suo day before.
+High Priest Ling Xian nodded smilingly, “Good, very good. The ‘Eternal Pure Land’ is my homeland, but I am destined to never return. So, my first piece of advice to you is this... Should you ever set foot in the ‘Eternal Pure Land’, remember that the Vermilion Bird’s Flame may only be used to console the spirits—never to commit evil.”
 
-"You know of it, that is best."
+She has a thousand years left to live... but she is destined never to return?
 
-Ling Xian Divine Official's aura became increasingly unstable, and hand supporting Su Shang also began to tremble slightly, but she still spoke in a peaceful voice: "Since you know of Pale Flame, you should naturally also know its final outcome: its source core was disintegrated by Lord Ni Xuan, splitting into three fragments, which were bestowed upon our three clans: Vermillion Bird, Phoenix, and Golden Crow."
+Yun Che was puzzled, but of course, he could not question her about it right now. He replied with the utmost gravity, “Got it! This junior solemnly swears that he will never—”
 
-"And this third piece of advice is... cough cough... that you must never, because of legend of 'Pale Flame,' attempt to fuse three divine flames of Vermillion Bird, Phoenix, and Golden Crow."
+“You do not need to make an oath.” High Priest Ling Xian cut him off before he could finish. “Compassion lies in the heart, not words or deeds. Your response is enough for me.”
 
-"Wh-why?"
+“My second piece of advice is...”
 
-Given Ling Xian Divine Official's current precarious state, most appropriate response would have been to agree immediately and urge her to rest, but he still subconsciously voiced his question.
+She looked at Yun Che like a parent would look at her child. “The nine drops of divine blood I bestowed upon you are derived from my Vermillion Bird origin. So, they contain some of my origin divine power. If you are just an ordinary person, you may refine them fully and become a Half-God instantly. As you possess Lord Ni Xuan’s profound veins, I am unsure how they will facilitate your growth. However...”
 
-Red jade hairpin holding her hair seemed unable to support white strands any longer. A few locks of hair slipped from hairpin, falling to sides of her cheeks, slightly obscuring turbidity in her eyes. She lowered her gaze and gave Yun Che a sufficiently clear explanation: "Lord Ni Xuan was born of elements and feared no fire in heaven or earth, yet even he dared not ignite Pale Flame upon himself."
+“Whatever you do, you must not allow impatience to get the better of you. Every time you refine a drop, remember to wait at least three years for the next one. Otherwise, losing your divine origin is one thing, but the damage you receive from the backlash... may very well be permanent.”
 
-"Because once that Pale Flame is ignited, it will spontaneously generate a violent Flame Spirit."
+To Yun Che, the risk High Priest Ling Xian was warning him about simply did not exist. Still, he nodded obediently and said, “Okay. Although this junior harbors infinite longing toward the Vermillion Bird Flame, to waste even an ounce of your gift is an unforgivable sin. This junior promises to take it slow and steady, carefully refining your divine blood. This junior will never allow his desire for results to overtake his better senses.”
 
-"Even if it is a flame ignited by your own power, its Flame Spirit will absolutely not obey your will. It will only possess instinct to incinerate, burning both self and foe, wantonly causing unpredictable and uncontrollable terrifying flame disasters."
+He was telling the truth, but exactly how “slow” and “steady” he would take his improvement was up to him.
 
-Yun Che: "..."
+High Priest Ling Xian nodded again. Her breathing had been slow and steady at first, but now it was obviously becoming shallow and rapid. Every time she inhaled, there was a tremor that she could not quite conceal. She looked like a flickering candle in the wind, to put it mildly.
 
-"However... main reason you must not attempt it is not this."
+Even the long red gown she was wearing had lost its luster. It did not possess the vibrancy of the vermillion flame that once enveloped it, either. Instead, weighed down by its owner’s frailty, it hung with a newfound heaviness.
 
-"Pale Flame is a fire of calamity that can easily scorch through even body of a True God. It was a world-shaking disaster even in Age of Gods, let alone in present era... cough... cough cough... it is even more impossible, and should not be ignited upon body of any living being in this age..."
+Still, her weakness did not change the warmth in those murky eyes one bit. High Priest Ling Xian continued, “Have you heard of the ‘Pale Flame’ from your master, child?”
 
-"If you force attempt out of curiosity and desire... you will most likely destroy your own foundation... consequences... are hard... to... predict... cough cough cough..."
+Yun Che nodded and replied, “The Ancestral God left behind Three Tribulations and Three Boons when she created the world, and the Pale Flame is one of the Three Tribulations. It was ultimately extinguished by Master.”
 
-"Master, stop talking!"
+The truth was that Li Suo had told him just the day before.
 
-Su Shang could no longer remain silent. She tightly supported her master's swaying body. When she touched her arm, she felt only a chilling coldness; even skin that usually carried residual warmth of Vermillion Bird was cold like a piece of ancient jade that had lost its divine aura.
+“I thought you would know about this. That’s good.”
 
-Yun Che quickly said: "Senior's words, this junior has fully committed to memory, not a single word will be forgotten."
+High Priest Ling Xian’s aura was only growing unsteadier as time passed. It eventually came to the point where the hand she had been clinging to Su Shang with was shaking as well. Still, she continued in an even voice, “Since you know about the Pale Flame, then you should know about its ending as well. Lord Ni Xuan had broken its origin seed into three fragments and bestowed them to the Vermillion Birds, the Phoenixes, and the Golden Crows.”
 
-"Senior, please rest and take care of yourself. This junior will no longer disturb you and takes his leave."
+“My third piece of advice is this... cough, cough... never, ever attempt to merge the Vermillion Bird Flame, Phoenix Flame, and the Golden Crow Flame because of the legend of the Pale Flame.”
 
-Su Shang had no time to speak. With a flick of her long sleeve, a clear breeze swept past Yun Che, causing ripples in space. With a blur of his vision, he was already outside Ling Xian Divine Residence. He did not leave immediately, standing rooted to spot, his heart filled with endless emotion and a sense of unreality.
+“But... why?”
 
-"She actually gave you such a heavy gift."
+Looking at High Priest Ling Xian’s condition, the best thing to do here was to accept her advice without question so she could catch some rest as soon as possible. However, he ultimately could not stop himself from asking the question.
 
-Li Suo also sighed: "Is a 'genuine smile'... truly that important and precious??"
+The crimson jade hairpin seemed unable to endure the weight of her gray hair fully. A few strands slipped past the pin, falling to either side of her cheeks and partially concealing the cloudiness in her eyes. She lowered her gaze and offered Yun Che a clear enough answer, “Lord Ni Xuan was born for the elements and so did not fear any heavenly or earthly fire. However, even he did not dare to kindle the Pale Flame upon his own body.”
 
-Yun Che turned and slowly walked away: "You have not experienced three million years of guardianship and obsessive yearning, so you would not understand."
+“It is because the Pale Flame would automatically give birth to a violent flame spirit when it is ignited.”
 
-"I... truly do not understand."
+“Although your power kindles the flame, its fiery spirit will never obey your will. Driven solely by its instinct to consume, it will burn both itself and its foes, unleashing an unpredictable and uncontrollable inferno of terrible proportions.”
 
-Li Suo murmured softly: "Mo Su is obsessed with emotion, so he should understand affection Ling Xian holds for him. Why then... is he unwilling to even grant her a smile?"
+Yun Che: “......”
 
-Yun Che replied: "Because affection between man and woman is most selfish of things."
+“However... this is not the main reason why you should not attempt this.”
 
-Li Suo was even more bewildered: "If affection between man and woman is most selfish of things, why then do you have a multitude of wives and concubines, and beautiful companions..."
+“The Pale Flame is a flame of disaster that could easily burn even the body of a True God. It was a disaster that stunned the world even during the Era of Gods, much less the current one... cough... cough cough... therefore, it is impossible for a being of the current era to kindle the flame, nor should you try to...”
 
-"Shut up!"
+“If you succumb to your curiosity and desire for power and experiment, it is exceedingly likely that you will only destroy yourself... the consequences... would be... unimaginable—cough! Cough! Cough!...”
 
-Yun Che's tone was forceful: "Don't interrupt my thoughts."
+“Master, enough talking!”
 
-Li Suo was silent for a moment. Gradually, she sensed gravity of Yun Che's thoughts and spoke again: "Having received such a potent Vermillion Bird Divine Source, not only can you ignite Vermillion Bird Flame, but after fully refining it, it is enough to achieve several times growth you've had in four years since entering Abyss, all within a short period."
+Su Shang could not stay silent any longer and supported High Priest Ling Xian’s tottering body tightly. The old woman’s arm felt ice-cold to the touch. Even the skin that usually carried the lingering warmth of a Vermillion Bird felt as cold as an ancient jade that had lost its divine aura.
 
-"Why is gravity of your mood outweighing your joy?"
+Yun Che swiftly replied, “This junior has engraved all of your teachings in my heart. This junior promises not to forget even half a word.”
 
-Yun Che's brow furrowed slightly, unable to relax for a long time: "In a little over forty years, passage to 'Eternal Pure Land' will be opened, yet Ling Xian Divine Official, with a thousand years of lifespan remaining, said herself that she is destined to never set foot in 'Eternal Pure Land'..."
+“If there is nothing else, please catch some rest and treat yourself kindly, senior. This junior shan’t disturb you any further. Goodbye.”
 
-"She... doesn't want to return??"
+Su Shang was in such a hurry that she did not even bother to bid Yun Che goodbye. She simply waved her long sleeve and caused a gust of wind to blow in front of him. Space rippled, and his vision blurred. The next thing he knew, he was standing outside High Priest Ling Xian’s divine abode. Yun Che did not leave immediately. Instead, he stood still for a long time, feeling a range of emotions and even a sense of unreality.
 
-"That shouldn't be case."
+“To think she gave you such a heavy gift.”
 
-Yun Che shook his head: "For her, that is her homeland. She would only yearn to return far more than anyone else in Abyss. Moreover, at end of one's lifespan, shouldn't one desire to rest in their native land even more?"
+Li Suo let out a sigh. “Is a ‘sincere smile’... truly that important and precious??”
 
-"Brother Yun!!" A distant call interrupted Yun Che's thoughts. In his line of sight, Hua Caili fluttered towards him like a flawless jade butterfly, arriving by his side.
+Yun Che chose this moment to turn around and slowly walk away. “You haven’t experienced three million years of waiting and watching. Of course, you wouldn’t understand.”
 
-"Caili? What are you doing here?" Joy blossomed in Yun Che's eyes.
+“I... do not understand, all right.”
 
-Hua Caili affectionately and naturally took his arm, her soft body leaning halfway against him, her eyebrows curved into a beautiful new moon: "Divine Child Xi said you were with Granny Ling Xian, so I came to find you. Hurry, come with me to a place."
+Li Suo said softly, “Love is Mo Su’s obsession. He of all people should understand Ling Xian’s love for him, so why... was he unwilling to offer her even a true smile?”
 
-"Huh? Where are we going?"
+Yun Che answered, “Because there is nothing more selfish than the love between a man and a woman.”
 
-A breeze brushed his ear, and he was already being gently pulled away by Hua Caili: "You'll know soon enough."
+This answer only confused Li Suo more, though. “If the love between a man and a woman is so selfish, then how do you explain the fact that you have multiple wives, concubines, lovers—”
 
-⭐(Author's Note): (Regarding the 【Secret Tome】 mentioned by Shen Wuyi, it has appeared twice before. First time was in 【Chapter 2063】, where "Obsidian Evil-Exorcising Crystal" was obtained. Second time was in 【Chapter 2104】, where a newly opened page revealed that "Once intent of a Glazed Heart is inscribed, it remains until death, never to be betrayed." (Adding Abyss Heart Vine "obtained" in God Slumber Forbidden Zone, five of six "necessary items" recorded in 【Secret Tome】 have now been acquired.)
+“Shut up!”
 
+Yun Che interrupted her forcefully, “Don’t interrupt my thinking.”
 
-Updated and modified by ~Lèo
+Li Suo was silent for a moment, but she gradually noticed the weight in Yun Che’s mind and asked again, “You’ve just received an enormous amount of Vermillion Bird divine origin. Not only would it allow you to kindle the Vermillion Bird Flame, but you’ll also achieve several times the growth you’ve achieved since entering the Abyss four years ago in just a short time after you fully refine it.”
+
+“So why is there more solemnity in your heart than there is joy?”
+
+Yun Che’s brows were slightly furrowed, but they refused to relax even after a long time. “The passage to the ‘Eternal Pure Land’ will open less than fifty years later. High Priest Ling Xian still has a thousand or so years left in her lifespan. However, she claims that she is destined never to return to the ‘Eternal Pure Land’...”
+
+“Is it because... she didn’t want to go back??”
+
+“That shouldn’t be the case.”
+
+Yun Che shook his head. “To her, that is her homeland. Her desire to return home should only be greater than the natives’. Besides, she is literally nearing the end of her lifespan. Her desire to rest her bones in her homeland should only be greater...”
+
+“Big Brother Yun!!”
+
+It was at this moment that a distant cry interrupted his thoughts. The next moment, he saw Hua Caili flying toward him like an immaculate jade butterfly.
+
+“Caili? Why are you here?” Yun Che exclaimed with pleasant surprise.
+
+Hua Caili affectionately and naturally lifted his arms into the air and half-leaned against him, eyebrows curling into exquisite new moons. “Divine Son Xi told me that you are with Grandma Ling Xian, so I came to look for you. Now follow me.”
+
+“Er, where are we going?”
+
+A cool breeze brushed against his ears as Hua Caili gently pulled him into the sky. “You’ll find out very soon.”
+
+Author’s Note: The “Secret Tome” Shenwu Yi is talking about appeared in two previous chapters. It first appeared in chapter 2063, when the Obsidian Evil Removing Crystal was procured. Then, it appeared again in chapter 2104, revealing that “the bearer’s love, will, heart, thoughts, loyalty... once engraved are constant, never-changing, and eternal.” Now that the Abyssal Heart Vine is “obtained” in the Forbidden Zone of Slumbering Gods, five of the six “necessary items” recorded in the Secret Tome have been obtained.
+
+1. I was wondering how Yun Che is going to make up for his sins down the line, and I think I found my answer. ☜

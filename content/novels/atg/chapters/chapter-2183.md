@@ -1,242 +1,249 @@
 ---
 chapterNumber: 2183
-title: ""
-publishedAt: "2026-04-15"
+title: "Ancestral Dragon Domain"
+publishedAt: "2026-05-30"
 ---
 
-The sea of mist was vast, echoing with the endless wails of the abyss.
+UNedited chapter-Rubble
 
-Yun Che sat cross-legged, his eyes closed in deep concentration. After a long period of centering his mind, his divine sense slowly released. Using the omnipresent Abyssal Dust¹ as a medium, it spread toward the depths of the mist, flowing over every Abyssal Beast it touched without missing a single one.
+The Endless Fog stretched endlessly, filled with the ceaseless howls of the Abyss.
 
-This was already the edge of the Deep Fog Sea, a dangerous place for the current Yun Che. Not only did late-stage Divine Extinction Realm Abyssal Beasts roam here, but occasionally, Divine Limit Realm beasts would appear—existences he could not afford to touch. Attempting to forcibly control one would be no different from a death wish.
+Yun Che was sitting cross-legged, eyes closed and mind focused. After a long period of concentration, he slowly released his spiritual senses using the ever-present abyssal dust as a conduit. It spread deep into the Endless Fog, flowing over every abyssal beast it touched and missing none of them.
 
-The last time he had sensed the presence of a Primordial Flame Crystal², it was roughly in this area.
+This was the very edge of the depths of the Endless Fog—a perilous place for Yun Che at his current level. Not only did the late-stage Divine Extinction Realm abyssal beasts roamed here, Divine Limit Realm abyssal beasts occasionally made an appearance as well. They were existences he could not approach at the moment, and attempting to forcibly control them was tantamount to courting death.
 
-One day... two days... three days...
+However, the last time he had sensed the presence of a Primal Flame Crystal was around this region, so....
 
-It was not until fifteen days later that his eyes snapped open, a slight smirk tugging at the corner of his mouth.
+One day... two days... three days....
+
+Fifteen days later, his eyes snapped open, and the corners of his mouth turned up slightly.
 
 He had finally found it.
 
-More fortunately, it was an early-stage Divine Extinction Realm Abyssal Beast, well within the scope of his complete control.
+Even more fortunate, the abyssal crystal was carried by an abyssal beast in the early stage of the Divine Extinction Realm—well within his ability to command.
 
-Without moving his body, his soul power remotely stirred the Abyssal Dust, driving it straight into the beast's frame.
+Without moving a muscle, he used his soul power to remotely manipulate the abyssal dust and direct it straight into the abyssal beast’s body.
 
-The Abyssal Beast instantly halted its movements and charged toward his position at full speed. Upon reaching him, it stood there quietly, like a loyal, contracted profound beast awaiting orders.
+The abyssal beast immediately halted its movement and raced toward him at full speed. Upon reaching him, it came to a stop and stood quietly like a loyal contracted profound beast awaiting its orders.
 
-Yun Che reached out toward its spine. As the grey Abyssal Dust slowly churned, a crimson Abyssal Crystal soon appeared between his fingers... it was exactly the Primordial Flame Crystal that Yun Xi craved.
+Yun Che reached out toward its spine, and dark abyssal dust swirled slowly. A short while later, a crimson abyssal crystal appeared between his fingers.
 
-Yun Xi—his daughter with Shen Xi. She was the greatest accident to occur in this world, and a lingering attachment he was destined never to truly cast aside, even as he walked a path against the world.
+It was none other than the Primal Flame Crystal that Yun Xi had been longing for.
 
-Before everything ignited, he should at least provide her with some settlement and comfort... even if it was only a little, offered in haste.
+Yun Xi, his daughter with Shen Xi, was a tremendous surprise he had never expected to find in this world. She was also a connection he could never truly cast aside even with a literal world of responsibility sitting on his shoulders.
 
-The Eternal Pure Land was close at hand. This was a monumental event that would change the fate of the Abyssal world, yet Meng Kongchan’s divine soul did not fluctuate frequently because of it. On the contrary, his state of mind was far more peaceful than ever before; even his meditative trances were several times faster than in the past.
+Before everything erupted, he could at least provide her with some measure of security and comfort... however hasty and fleeting it was.
 
-This was because, compared to the approach of the Eternal Pure Land, the joy of recovering Meng Jianyuan was far greater. His son’s late awakening of a Perfect Divine Covenant³ and his world-shaking brilliance atop the Pure Land had brought Meng Kongchan a sense of glory and gratification he had never experienced in his life. It led him to sigh with a smile that having such a son meant he could die without regrets.
+The Eternal Pure Land was within reach—a momentous event heralding a massive shift in the Abyss’ fate. Yet Meng Kongchan’s soul had not stirred rapidly because of it. On the contrary, he was in a far more serene state of mind than before. Even his ability to enter deep meditation was several times faster than in the past.
 
-His only regret and worry was the rupture of his friendship with Dian Luohou.
+The reason was simple. As stupendous as the approach of the Eternal Pure Land was, it could not possibly compare to the joy of regaining Meng Jianyuan, not to mention the fact that the boy had awakened a perfect divine essence, and even left an earth-shattering impression on the Pure Land. His son had granted him a glory and comfort he had never known in his life, and it left him smiling with the satisfaction of a father who, having such a son, could die without any regrets whatsoever.
 
-"Junior Yun Che greets Senior God Sovereign." Meng Kongchan opened his eyes, and his face, which should have possessed world-suppressing majesty, instantly crinkled into a beaming smile. "Yuan'er, I heard you managed to play a trick on that Nightshade Divine Daughter?"
+His only regret and source of distress at the moment was the rupture of his bond with Dian Rahu.
 
-"Uh... yes," Yun Che replied. "It happened that she wanted something, so I acted a bit impulsively. I traded a significant favor for a moment of satisfaction. I felt some regret afterward; I hope Senior doesn't find it laughable."
+“Junior Yun Che greets the Divine Regent.”
 
-"Hahahaha!" Meng Kongchan laughed loudly instead. "If one isn't impulsive, wouldn't that be a waste of youth? A favor from a wicked place like the Nightshade Divine Kingdom is better left unheld. Letting Yuan'er vent his frustration is worth more than anything."
+Meng Kongchan opened his eyes, and his face, which should be radiating an aura of awe-inspiring authority, broke into a beaming smile instead. “I heard that you managed to outwit the Eternal Night Divine Daughter, Yuan’er?”
 
-"I only learned a few days ago while communicating with Hua Fuchen that the heavy sword your master left you was lost in the Abyss of Death within the God-Sleep Forbidden Region because of that Nightshade Divine Daughter. Hmph!" He seemed to have lingering anger. "Had I known, the one I taught a lesson to upon leaving the Pure Land wouldn't have been just Shenwu Yanye!"
+“Er... yes,” Yun Che replied. “It just so happened that the other party had a request, so I acted on impulse—trading what could’ve been a huge favor for a momentary sense of relief. I’ve regretted it ever since; I’m afraid I’ve made a fool of myself in front of you, Senior.”
 
-Yun Che’s lip twitched slightly as he hurriedly said, "Senior, your words are too kind. A mere junior of the Nightshade Kingdom isn't worthy of your personal intervention. Furthermore, Caili has already used the grace bestowed by the Abyssal Monarch to help me obtain a suitable heavy sword from the Pavilion of Ten Thousand Daos."
+“Hahahaha!” Meng Kongchan burst out laughing. “If you hadn’t acted on impulse, wouldn’t you have wasted your reckless youth? As for favors from a demonic place like the Eternal Night Kingdom of God, frankly, I would rather do without them. Anything that could help vent your frustration is worth more than anything.
 
-"I know. Its name is 'Orphaned Cloud'⁴." Meng Kongchan’s voice paused slightly, followed by a soft sigh. A deep, hidden guilt appeared in his eyes. "As the God Sovereign of the Weaver Dream Divine Kingdom, I am destined to be unable to give you much time, and destined to be an inadequate father."
+“It was only a few days ago, while communicating with Hua Fuchen, that I learned that you had lost the heavy sword your master left behind for you in the Abyss of Death of the Forbidden Zone of Slumbering Gods because of the Eternal Night Divine Daughter as well. Hmph!” He grunted as if he hadn’t let go of his anger completely. “Had I known this sooner, Shenwu Yanye wouldn’t be the only one I taught a lesson that day!”
 
-"You have been back for three years, yet you still haven't remembered the past. You still cannot truly integrate into Weaver Dream or accept the name 'Meng Jianyuan.' That is why the name 'Orphaned Cloud' touches your soul so deeply. The sword's name is like the man—like a cloud shadow in the vast sky, standing solitary in an alien world... all of this is due to my mistakes back then."
+Lips twitching slightly, Yun Che hurriedly replied, “You speak too highly of me, Senior. A mere Eternal Night junior is hardly worth your personal intervention. Besides, Caili had already used the favor granted by the Abyssal Monarch to help this junior recover another heavy sword that fits me perfectly from the Wan Dao Divine Pavilion.”
 
-Yun Che: "..."
+“I know. Its name is ‘Lone Cloud’.” Meng Kongchan’s voice faltered slightly, and he let out a soft sigh. Suddenly, his eyes were clouded by a deep, hidden sense of guilt. “As the Divine Regent of the Dreamweaver Kingdom of God, I was destined to be unable to give you much of my time. Similarly, I was destined to be an unworthy father.
 
-"However, the future is long. Let us not speak of this." Meng Kongchan brushed away his melancholy and guilt, smiling as he said, "You didn't come here today just to pay your respects, did you?"
+“It has been three years since your return, yet you still have not recalled your past, truly integrated with the Dreamweaver Kingdom of God, or accepted your former name, ‘Jianyuan’. This must be why the name ‘Lone Cloud’ touched your heart and soul so deeply. The sword’s name mirrors your own—like a solitary cloud in the vast void, isolated in a foreign world... All of this is due to your father’s mistake all those years ago.”
 
-Yun Che spoke truthfully: "There is one more matter that requires Senior's permission... I wish to leave Weaver Dream for a few days to visit the Dragon Race."
+Yun Che: “......”
 
-"Oh?" Meng Kongchan’s eyes shifted slightly. "Could it be related to that Long Jiang from that day?"
+“That said, we have plenty of time ahead of us. Let’s not dwell on this.” Meng Kongchan suppressed his melancholy and guilt and asked smilingly, “You haven’t come today just to greet me, have you?”
 
-Undoubtedly, although he never stepped forward or interfered, nothing that happened within the Weaver Dream territory could escape Meng Kongchan’s eyes and ears—especially matters concerning Meng Jianyuan.
+Yun Che replied honestly, “There is one matter that I would like your permission, Senior... This junior intends to leave Dreamweaver for several days and pay the dragon race a visit.”
 
-"Yes!" Yun Che answered without hesitation. "At the Pure Land, the Dragon Sovereign sensed the dragon breath on my body and extended a warm invitation. He even gifted me a jade plaque that allows free passage through the Dragon Race's barrier."
+“Oh?” Meng Kongchan’s eyes flickered. “Could it be related to that Long Jiang from the other day?”
 
-"As for Long Jiang, she is indeed one of the primary reasons. When I was wandering outside years ago, we saved each other's lives. That 'Seven-Mystic Coiled Dragon Crystal' was given by her to settle the debt of me saving her life. However, I have never had the chance to repay her for saving mine, and it has always weighed on my heart."
+Although Meng Kongchan had never appeared in public nor interfered, it went without saying that nothing that happened within the domain of Dreamweaver could escape his notice—especially when it was a matter concerning Meng Jianyuan.
 
-"There is one more reason." Yun Che’s breath was steady and his mind calm, showing no sign of falsehood. "My master was on good terms with the Dragon Race back then. The dragon breath on my body also comes from an ancient dragon legacy bestowed by my master. Therefore, before my master passed away, he gave many instructions that after entering the world, I should be friendly toward the Dragon Race and not hesitate to assist them. If the Dragon Race is in trouble, I should do my utmost to save them."
+“Yes!” Yun Che replied without hesitation. “On the Pure Land, the Dragon Lord sensed the draconic aura within me and extended a warm invitation to his realm. He even gifted me a jade token that allows me to freely pass through the dragon race’s barriers.”
 
-"Therefore, this visit to the Dragon Race is first to answer the Dragon Sovereign's invitation; second, to repay a past kindness; and third, to follow my master's wishes."
+“As for Long Jiang, she is also one of the key reasons I would like to pay them a visit. Back when I was still wandering the world, we had saved each other’s lives. That ‘Coiling Dragon Seven Profound Crystal’ was a gift she gave me to repay the debt of that life-saving favor. However, I had not had the chance to repay her for saving my life, and that had always weighed heavily on my heart.
 
-With things said to this point, coupled with Meng Kongchan’s excessive doting on Yun Che, he naturally would not refuse.
+“Finally, there is one last reason.” Yun Che’s breathing was steady, and his demeanor serene. There was not a trace of false insincerity in his words as he spoke, “My master once maintained friendly relations with the dragon race, and the draconic aura within me had, in fact, originated from an ancient dragon relic bestowed upon me by my master. Therefore, before my master had passed away, he had repeatedly urged me to cultivate a harmonious relationship with the dragon race and offer them assistance without hesitation onceI had entered the mortal world. Should the dragon race come under danger, I must do my utmost to aid them.
 
-"Mm... in terms of reason, logic, and filial piety, you indeed should make this trip." He nodded slowly, then said after a brief contemplation, "Since your return, this is the first time you will travel far alone... let Chaoyang protect you on your journey."
+“Therefore, this visit to the dragon race serves three purposes: first, to accept their invitation; second, to repay a past debt; and third, to fulfill my master’s wish.”
 
-Yun Che looked surprised and declined, "Hall Master Chaoyang holds such high status; how could I trouble him? This trip does not enter the sea of mist or approach dangerous areas. Having Shouyuan by my side is enough."
+Having said all this, and given Meng Kongchan’s excessive affection for Yun Che, he naturally could not refuse such a request.
 
-Meng Kongchan raised his hand decisively. "Yuan'er, whatever you wish to do or wherever you wish to go, as long as there is no danger, you may do as you please. But where your safety is concerned, there can be no compromise."
+“Mm... Be it in terms of sentiment, reason, or filial piety, this journey is indeed necessary.” He nodded slowly and pondered for a brief moment. Then, he said, “This would be the first time you’re traveling far on your own since your return... I will have Chaoyang escort you on this journey.”
 
-He tilted his head back slightly and let out a long breath. "The joy of recovering what was lost is like dust clearing to reveal brilliance, or meeting light in a cold night. As the God Sovereign of a nation, I should fear nothing in heaven or earth, yet I dare not even briefly imagine the possibility of losing you again."
+Yun Che looked surprised and refused, “Dream Lord Chaoyang is a person of high status. I can’t possibly trouble him for such a simple trip. It’s not like this trip will take me to the Endless Fog or any perilous regions; having Shouyuan by my side alone is sufficient.”
 
-His voice seemed to carry the lingering trauma of a hundred years.
+But Meng Kongchan raised his hand decisively. “Yuan’er, whatever you wish to do or where you wish to go—as long as there is no danger—you will face no objections from me. But when it comes to your own safety, there can be no compromise.”
 
-His heart touched by an uncontrollable spark of emotion, Yun Che could no longer persist. He could only lower his gaze. "Very well. Then I shall follow Senior's arrangements in all things."
+He tilted his head back slightly and exhaled deeply. “The joy of regaining what was lost is like dust clearing to reveal splendor; meeting dawn after a cold night. As the Divine Regent of a Kingdom of God, I should fear neither heaven nor earth. However, I dare not, even for a single moment, entertain the thought of losing what I have gained.”
 
-Yun Che left the Weaver Dream Divine Kingdom alone, bringing no attendants.
+His voice seemed to carry the lingering pain of a century-old wound.
 
-Only Meng Chaoyang followed from a distance to protect him.
+A surge of uncontrollable emotion welled within him, and Yun Che found himself unable to stand his ground. So, he lowered his gaze and said, “Very well. I shall abide by your arrangements in every respect.”
 
-As the Hall Master of the Second Dream Hall of the Weaver Dream Divine Kingdom, Meng Chaoyang’s status was incredibly lofty. This was also the first time in his life he had taken on the role of a bodyguard.
+Yun Che left the Dreamweaver Kingdom of God alone without any attendants.
 
-But no one felt it was strange; even he himself felt it was only right.
+Only Meng Chaoyang watched over him from afar.
 
-After all, he was guarding Meng Jianyuan—the only Perfect Divine Covenant in the history of the Weaver Dream Divine Kingdom, the peerless genius who defeated the Divine Extinction Realm with the power of a Divine Sovereign at the Pure Land, and the true Godchild who had made Meng Jianxi yield in admiration in just three years... even if another Dream Hall Master were added to the escort, no one would find it inappropriate.
+As the Dream Lord of the Second Dream Hall of the Dreamweaver Kingdom of God, Meng Chaoyang’s status was exalted as a matter of course. This was the first time in his life he had taken on the duty of a bodyguard.
 
-"I remember you once promised Hua Caili that you would go together," Li Suo reminded him. "Now, it seems you have no such intention."
+But no one found this unusual, not even himself. He felt it was only right because the one he was guarding was none other than Meng Jianyuan.
 
-Yun Che said, "That was indeed my thought initially. But now... I fear Xi'er is waiting anxiously."
+Meng Jianyuan was the only perfect God Bearer in the history of the Dreamweaver Kingdom of God, the unprecedented genius who had defeated a Divine Extinction Realm profound practitioner as a Divine Master on the Pure Land, and the true Divine Son that had completely won over Meng Jianxi in just three years... frankly, another Dream Lord could have joined him, and still no one would think it was unusual.
 
-"Does this count as... an unnecessary complication?" Li Suo asked.
+“I recall that you once made plans to visit the dragon race with Hua Caili,” Li Suo reminded him. “But now, it seems you have no such intention.”
 
-"Yes and no," Yun Che said calmly. "After all, the Dragon Race is trapped by their inheritance and self-preservation; they never compete with outsiders. When the Dragon Sovereign mentioned Xi'er, it was with nothing but importance and affection. Her being there should be the safest place. On this trip, I will also elevate her status within the Dragon Race to the greatest extent... it involves no risk and does not touch the grievances or interests of the various kingdoms. Naturally, it cannot be called an unnecessary complication."
+Yun Che replied, “That was my intention back then, but now... I’m afraid that Xi’er could not wait.”
 
-"Let her and the Dragon Race drift outside this storm together until the very end."
+“Does this count as an... unnecessary complication?” Li Suo asked.
 
-Because of Yun Xi’s existence, all of his schemes excluded the Dragon Race.
+“Yes, and no.” Yun Che said calmly, “The dragon race is preoccupied with preserving their legacy and saving themselves; that was why they had never engaged in conflict with outsiders. When the Dragon Lord mentioned Xi’er, it was entirely out of care and affection as well. There, she is at her safest. My journey will also elevate her status with the dragon race to the highest possible degree... it involves no risk and touches on no conflicts or interests of any nation. Thus, it doesn’t really count as a complication.
 
-More accurately, he was keeping them as far away as possible.
+“I will make it so that her and the dragon race will remain outside of this storm until the very end.”
 
-He never dared to forget the heavy mission he carried on his shoulders, but in the end, he could not truly let go of his identity as a "father."
+Because of Yun Xi’s existence, none of his plans included the dragon race.
 
-Yun Che stood upon a small profound ark, looking straight ahead. His speed was neither fast nor slow. He occasionally conversed with Meng Chaoyang, and before he knew it, he had passed through layers of smoke and dust, crossed patches of inhabited land, and witnessed the various facets of the Abyss.
+More accurately, he had kept them away from the dragon race as much as possible.
 
-The mountains stood eternal, stretching for ten thousand miles without beginning or end. Grey, heavy clouds and mist layered across heaven and earth.
+He had never dared to forget the heavy mission on his shoulders for a moment, but in the end, he could not truly let go of his identity as a “father”.
 
-This place was the habitat of the Dragon Race, and also their place of self-imprisonment—the Ancestral Dragon Mountains.
+Yun Che stood upon a small profound boat, gazing straight ahead. Moving at a steady pace, he occasionally exchanged words with Meng Chaoyang to pass the time. Before they knew it, they had passed through layers of dust and smoke, crossed vast stretches of Land of the Living, and taken in the myriad shapes and forms of the Abyss.
 
-As far as the eye could see, the peaks were layered like crouching dragons and tigers, vast and majestic, touching the sky and blotting out the sun. Such a grand spectacle had only occasionally appeared in the God Realm of Absolute Beginning. However... as vast as it was, there was no flow of spiritual aura, no lush forests or myriad beasts. There was only the endless, ghostly swirling of dust and mist, shrouding the world and casting a gloomy, deathly silence over the massive mountain range that would not dissipate for eternity.
+Mountain ranges stretched across the ages, winding for thousands and thousands of kilometers with no beginning or end in sight. Dull, gray clouds and mists formed layers that spanned both the heaven and the earth.
 
-"We've arrived."
+This was where the dragon race dwelled. This was also where they had imprisoned themselves—the Ancestral Dragon Mountain Range.
 
-Yun Che looked down from the sky, unable to help but sigh. As the naturally strongest race, the Dragon Race had once been the absolute overlords in their home world. Yet in this Abyssal world filled with Abyssal Dust, they could only linger on in this sheltered land.
+As far as the eye could see, the peaks rose in layers like coiling dragons and crouching tigers, vast and majestic, reaching to the sky and blocking out the sun[1]. In Primal Chaos, such a vast and majestic spectacle had only ever been glimpsed in the God Realm of Absolute Beginning. But... despite its immense scale, there was no trace of spiritual energy flowing through it, no lush forests, and definitely no teeming beasts. There was only endless, gloomy dust and fog that swirled and swirled, enveloping heaven and earth and casting a somber, deathly silence over the colossal mountain range—a silence that had lingered since time immemorial.
 
-"Are you nervous?" Li Suo asked.
+“We’ve arrived.”
 
-"A little," Yun Che did not deny it.
+Gazing down from the sky, Yun Che could not suppress a wistful sigh. As the most powerful race since the beginning of time, the dragon race had once been the absolute rulers of their ancestral world. Yet in a universe choked with abyssal dust such as the Abyss, they could only eke out a meager existence in this single, sheltered corner.
 
-"..." Li Suo seemed thoughtful. After a long while, she murmured softly, "The emotions of living beings are truly subtle. It is so for romantic love, and so for the bonds of blood. Even when one knows they are a source of resistance and entanglement, one still cannot use logic to sever them."
+“Are you nervous?” Li Suo asked.
 
-Yun Che quirked an eyebrow and said with a half-smile, "Back then, you were the most compassionate Creation God, the person least likely to say such things. Forced to follow me as a villain who brings calamity to the world, even though the end of this world is not yet visible, you have already been quite corrupted by me."
+“A little.” Yun Che didn’t deny it.
 
-"..." Li Suo was silent.
+“......” Li Suo seemed lost in thought. After a long moment, she murmured softly, “The emotions of living beings are truly strange. This is true for the romantic love between men and women and it is true for the bonds of blood as well. Even when we know they are obstacles and shackles, they simply cannot bring ourselves to sever them with reason.”
 
-"Speaking of which..." Yun Che suddenly thought of something and said half-seriously, "If one day you found another vessel you could temporarily inhabit, one that would allow you to become whole and free faster, would you logically choose to leave me immediately, or... continue to wade through this muddy water with me that is destined to be splattered with the blood of sin?"
+Yun Che raised an eyebrow, his expression a mix of amusement and seriousness. “Back in the day, you were the most benevolent Creation God of them all—the very last person I’d expect to say something like that. Now, you’re forced to follow me as a villain who brings disaster to the world. The fate of this world remains uncertain, but you’ve already suffered quite a bit, it would seem.”
 
-Li Suo did not hesitate. Her voice, soft as a dream, remained devoid of emotional fluctuation as usual: "I have never thought about it."
+“......” Li Suo remained silent.
 
-Yun Che said, "Then you can think about it now."
+“Speaking of which...” Yun Che suddenly thought of something and said half-seriously, “If one day you found another vessel to temporarily inhabit—one that could restore your wholeness and freedom more quickly—would you rationally choose to leave me immediately, or... continue wading through this muddy water with me, knowing it will inevitably splatter us both with filthy blood and sin?”
 
-Li Suo did not fall into contemplation. Instead, she said slowly, "I only wish to watch how you walk forward step by step until the end. As for the other possibilities you mentioned, I have never thought of them, nor do I wish to."
+Li Suo didn’t hesitate. Her voice, soft as a dream, remained as emotionless as ever. “I’ve never thought about it.”
 
-"..." Yun Che said no more.
+Yun Che said, “Then you can think about it now.”
 
-She hadn't answered yes or no, yet it somehow left a strange touch in the depths of Yun Che’s heart.
+But Li Suo didn’t fall into deep thought. Instead, she said slowly, “All I want to do is to watch you take each step forward, right up to the very end. As for the other possibilities you’ve mentioned, I’ve never considered them, nor do I wish to.”
 
-Yun Che’s figure swept down rapidly, his gaze piercing through layers of grey mist until a massive barrier appeared in his perception. It shimmered with a faint light among the thousands of cliffs and valleys, overflowing with an ancient, heavy aura, and vaguely carrying a trace of sorrowful dragon breath.
+“......” Yun Che said nothing more.
 
-Approaching the Ancestral Dragon Barrier, Yun Che took out the pale dragon jade and touched it against the barrier.
+She hadn’t answered with a yes or a no, yet for some reason, her words stirred an unusual sensation deep within Yun Che’s heart.
 
-Instantly, the Ancestral Dragon Barrier parted silently like flowing water. Yun Che flew inside, and Meng Chaoyang’s figure also flickered, entering the barrier in an instant before it closed behind them.
+Yun Che’s figure darted downward, his gaze piercing through layer upon layer of gray mist until a vast barrier came into view. Amidst the countless cliffs and gorges, it flickered with a faint, almost imperceptible glow and exuded an ancient, weighty aura that seemed to carry a touch of the sorrowful aura of a dragon.
 
-Upon entering, the light and darkness of the world shifted. Dense dragon breath permeated the air, and mist rose from the valleys. The dragon blood and dragon soul within Yun Che’s body were stirred for a long time.
+As he neared the Ancestral Dragon Barrier, Yun Che took out the pale white dragon jade and touched it to the barrier.
 
-However, the Dragon Race’s isolation barrier was ultimately inferior to those of the Divine Kingdoms. Within the dragon breath that was as dense as substance, thin Abyssal Dust still floated. Silently and ceaselessly, it carried out its erosion and destruction.
+Instantly, the Ancestral Dragon Barrier parted silently like flowing water. Yun Che flew inside, and Meng Chaoyang’s figure flickered instantly and passed through the barrier as well. It then resealed itself behind them.
 
-The sudden appearance of an outsider's aura undoubtedly triggered the alertness of the Dragon Race guards. Yun Che’s aura was simultaneously locked onto by two dragon breaths, followed by a sharp shout: "Who goes there!! How dare you trespass into my Dragon—"
+The moment they entered the barrier, the light and darkness of the world shifted abruptly. A dense draconic aura seemed to permeate heaven and earth, and mist rose from every ravine. The dragon’s blood and dragon’s soul within Yun Che’s body were stirred by it for a long time.
 
-The shout was not finished before it abruptly stopped. The two dragon guards who had arrived instantly both clearly saw the pale dragon jade in Yun Che’s hand, and their expressions changed accordingly.
+However, the dragon race’s isolation barrier ultimately could not compare to that of a Kingdom of God. Within that dense, almost tangible draconic aura lingered faint traces of abyssal dust, silently eroding and destroying everything without end.
 
-Yun Che held up the pale dragon jade and spoke calmly, "Please inform Senior Dragon Sovereign that Yun Che of Weaver Dream has come to visit."
+The sudden presence of a foreign aura instantly aroused the dragon guards’ suspicion. Two draconic aura instantly locked onto Yun Che’s aura at the same time a sharp shout erupted, “Who are you? Who dares to trespass into the dragons—”
 
-After the meeting at the Pure Land, who in the world did not know the names of Yun Che and Meng Jianyuan?
+The shout trailed off abruptly. It was because the two dragon guards who had teleported over at the same time caught sight of the pale dragon jade in Yun Che’s hand and shifted their expressions.
 
-Their already startled expressions instantly became even more spectacular. After a long daze, they hurriedly bowed. "So... so it is the Yuan Godchild. Please wait a moment; I shall go and report this immediately."
+Yun Che raised the jade and said calmly, “Please inform the Dragon Lord that Yun Che of the Dreamweaver has come to pay a visit.”
 
-Just over two months ago, the Dragon Sovereign had personally instructed that if the Weaver Dream Godchild ever visited, there was no need to lead him in; he would welcome him personally.
+After the Pure Land Meet, was there anyone in the world who didn’t know the names Yun Che and Meng Jianyuan?
 
-In the blink of an eye, a sudden, uncontrolled rumble echoed from the distant mountain peak.
+The two guards’ already startled expression immediately turned even more flavorful. They stood frozen for a moment before hastily bowing, “We... We did not know that you’re coming, Divine Son Yuan! Please wait a moment; we shall go report this immediately.”
 
-Following that, a thunderous sound of breaking air arrived urgently, dragging a long ripple of distorted space behind it.
+Just over two months ago, the Dragon Lord had personally instructed them that, should the Divine Son Yuan of Dreamweaver ever pay a visit, there would be no need to escort him into the palace—he would personally greet him in person.
 
-Even from a distance, Long Zhiming had already spotted Yun Che. His face, as withered as old wood, instantly broke into a smile. He retracted his figure and landed in front of Yun Che, laughing loudly. "I thought I was still in a dream, but it turns out the Yuan Godchild has truly graced us with his presence. No wonder the dragon veins in these mountains have been glowing and the dark sky has been filled with rosy clouds lately; it turns out a distinguished guest was arriving."
+But in the blink of an eye, an uncontrollable rumble suddenly echoed from the distant mountain peaks.
 
-Yun Che bowed slowly. "Junior Yun Che greets Senior Dragon Sovereign. This visit was a sudden whim, and I did not send a formal request. I hope Senior will not take offense at my presumption. This personal welcome from the Dragon Sovereign makes me feel even more apprehensive."
+Immediately afterward, a piercing noise that sounded like thunder ripped through the air, creating a long, distorted ripple that warped the very fabric of space.
 
-"Eh, what are you saying, Yuan Godchild?" Long Zhiming’s smile widened. "Though you are a junior, you possess the grace of a celestial. Your presence here is truly an honor for my Dragon Race."
+Across the vast expanse, Long Zhiming caught sight of Yun Che at a glance. His face, as weathered as dead wood, instantly lit up as if it had gained a new lease of life. He swiftly closed the distance, landed before Yun Che, and laughed heartily. “This old man thought I was still dreaming at first, but it turned out that Divine Son Yuan really had graced us with his presence. No wonder the dragon veins in these mountains had been glowing with radiance, and the dark sky had been ablaze with rosy clouds lately. It was because a distinguished guest was about to arrive!”
 
-"The Dragon Sovereign is far too kind. I am also half a member of the Dragon Race, and having received such a precious dragon jade from Senior, how could I not come?"
+Yun Che bowed respectfully. “Junior Yun Che greets you, Senior Dragon Lord. This visit had been a spur-of-the-moment decision, which was why I had not sent a formal invitation. I apologize for the impertinence and hope that Senior will not hold it against me. I am also deeply humbled that the Dragon Lord would personally welcome me in this manner.”
 
-The old and the young exchanged pleasantries. The Dragon Sovereign’s words were particularly warm, leaving the dragon guards on the side dumbfounded.
+“Oh, you speak too highly of me, Divine Son Yuan.” Long Zhiming replied with an even broader smile. “Though you are my junior, you possess the bearing of a heavenly being. Your presence here is truly an honor for the dragon race.”
 
-At this moment, Long Zhiming turned his gaze toward the silent Meng Chaoyang in the rear. "So it is Hall Master Chaoyang. I was so excited to see the Yuan Godchild just now that I nearly neglected a distinguished guest."
+“You really are flattering me, Senior Dragon Lord. I am, in a sense, part of the dragon race, and having received this precious dragon jade from you, how can I possibly refuse to come?”
 
-Meng Chaoyang kept his hands behind his back and spoke indifferently, "My duty on this trip is to ensure the Yuan Godchild’s safety. The Dragon Sovereign may ignore me."
+The dragon guards could not help but stare as the elderly man and the younger man exchanged pleasantries. They were especially stunned by how warm the Dragon Lord was speaking.
 
-"Haha, Hall Master Chaoyang’s presence is naturally that of a guest among guests. How could I neglect you? Please, both of you."
+It was at this moment Long Zhiming turned his gaze to Meng Chaoyang, who had been standing silently behind Yun Che. He said, “So, it is Dream Lord Chaoyang! This old man was overcome with emotion when he first set his eyes on Divine Son Yuan; I apologize for nearly neglecting to properly greet a distinguished guest such as you.”
 
-As he turned, he sent an urgent sound transmission: "Quick!! Tell Wangchu to enter the main hall immediately!"
+Meng Chaoyang simply stood with his hands clasped behind his back and said calmly, “My duty on this journey is to ensure Divine Son Yuan’s safety. Feel free to disregard my presence, Dragon Lord.”
 
-The Ancestral Dragon Temple sat beneath the highest peak of the Ancestral Dragon Mountains. The hall was a thousand feet high, its layered domes reaching into the clouds.
+“Haha, you jest, Lord Chaoyang! For you to be here in person, you can’t be anything but the most honored of guests. Please, come inside.”
 
-Pale dragon patterns wound everywhere within the hall, crisscrossing and flowing endlessly, shedding a heavy and ancient dragon radiance. It was as if they were praying for the Dragon Race’s inheritance to be undying and eternal.
+As he turned around, he urgently sent a sound transmission, “Quick!! Summon Wangchu to the main hall at once!”
 
-This was the highest point of the Dragon Race and the place where their dragon breath was heaviest. Even a Half-God entering would be suppressed by the dragon might, unable to stop their bodies from trembling or their souls from quaking, their footsteps becoming disorganized and weak.
+The Ancestral Dragon Divine Hall was situated at the foot of the highest peak in the Ancestral Dragon Mountain Range. Standing at over three kilometers tall, its tiered domes soared straight into the clouds.
 
-As they stepped inside, Long Zhiming quietly glanced at Yun Che, only to see him walking leisurely with a composed expression, calmly observing the strange sights around him. He showed not even a hint of alarm. His admiration for Yun Che grew even deeper, and his smile broadened.
+Pale draconic patterns could be seen swirling throughout the hall, crisscrossing and flowing ceaselessly and radiating a profound, ancient radiance of dragons. It seemed as though they were praying for the dragon race’s legacy to endure forever, vast and eternal.
 
-After they were seated, Yun Che went straight to the point. "My visit this time is, firstly, to answer Senior Dragon Sovereign's invitation."
+This was the dragon race’s holiest site, and the place where the draconic aura was the most concentrated. Even a Half-God would be intimidated by the draconic might upon entering this place, unable to suppress the trembling of their body and soul, and becoming unsteady in their steps.
 
-Long Zhiming nodded with a smile.
+Long Zhiming snuck a glance at Yun Che as they stepped inside, only to find him strolling leisurely and taking in the extraordinary sights around him with a composed demeanor. He showed not even the slightest trace of fear or trepidation whatsoever. Both his admiration and smile for Yun Che deepened.
 
-"Secondly, I hope to see Long Xi, to repay her for her past kindness."
+After taking his seat, Yun Che cut straight to the point. “The reason for my visit today is, first, to accept your invitation, Senior Dragon Lord.”
 
-Upon hearing the name "Long Xi," a flicker of unease passed through Long Zhiming’s eyes, but it vanished in an instant, his faint smile remaining unchanged.
+Long Zhiming smiled and nodded in acknowledgement.
 
-"Thirdly..."
+“Second, I hope to meet Long Xi in person to repay a debt from the past.”
 
-Boom... Thud!
+A fleeting trace of unease flashed across Long Zhiming’s face upon hearing the name “Long Xi”. However, it vanished as quickly as it had appeared, and the faint smile looked the same as ever.
 
-A series of messy sounds suddenly came from outside the hall, like the sound of someone carelessly kicking objects aside. A highly impatient voice rang out at the same time: "Hey!! You old fossil, what did you call me for!"
+“Thirdly—”
 
-The smile on Long Zhiming’s face vanished completely, and his sagging, withered flesh trembled. He gave Yun Che and Meng Chaoyang a half-apologetic, half-embarrassed smile, then his expression turned sharp as he barked, "Wangchu, get in here!"
+Rumble... thud!
 
-Amidst the sharp shout, a figure walked in haphazardly. He had the tall and slender build expected of the Dragon Race, but his posture was exceptionally rude and lazy. His eyes, which should have been filled with dragon might, lacked any brilliance; instead, they were filled with a pathetic cloudiness.
+It was at this moment a series of chaotic sounds suddenly echoed from outside the hall. It sounded as if someone were kicking at the objects at their feet with reckless abandon. Then, an extremely impatient voice erupted, “Hey!! What do you want, you old geezer?”
 
-Long Wangchu... the only son of Dragon Sovereign Long Zhiming, and the only direct heir to the Ancestral Dragon lineage.
+The smile vanished completely from Long Zhiming’s face, and his sagging, withered face trembled. After offering Yun Che and Meng Chaoyang a smile that was half apologetic and half awkward, his face hardened, and he barked sharply, “Get in here, Wangchu!”
 
-"Just say what you want!" He leaned diagonally against the side of the hall door, his eyes not even glancing toward Yun Che, showing not a shred of respect or etiquette toward his father, the supreme Dragon Sovereign. "You old fossil have a pile of different nonsense every day. Hurry up and finish so I can get out of here."
+As the command rang out, a figure staggered into the room. He possessed the towering, slender stature typical of the dragons, yet his bearing was exceptionally rude and slovenly. His eyes, which should have radiated draconic might, held little sharpness; instead, they were clouded with a repulsive murkiness.
 
-To show such an ugly side in front of distinguished guests was no different from tearing the skin off his old face. Long Zhiming suppressed his anger and growled, "Shut up! Get in here and greet the Yuan Godchild of the Weaver Dream Divine Kingdom!"
+He was Long Wangchu... Long Zhiming’s only biological son, and sole direct heir of the Ancestral Dragon lineage.
 
-Long Wangchu’s expression froze, and his body snapped straight.
+“Spirit it out!” He leaned casually against the side of the hall door, not even glancing in Yun Che’s direction, much less showing the slightest respect or courtesy toward his father, the supreme Dragon Lord. “Every day, you spout a new load of nonsense. Just get it over with so I can get out of here, you old geezer.”
 
-Only then did he open his eyes to look at Yun Che, followed by a look of panic. Shame, cowardice, and excitement intertwined chaotically across his features. Then, as if waking from a dream, he adjusted his posture, walked quickly to Yun Che, and bowed deeply.
+To make such a spectacle in front of not one, but two distinguished guests was tantamount to tearing his old face to shreds. Long Zhiming forced himself to suppress his anger and growled, “Shut up! Get inside this instant and pay your respects to Divine Son Yuan of the Dreamweaver Kingdom of God!”
 
-"So it is... it is the Yuan Godchild of the Weaver Dream Divine Kingdom. I am Long Wangchu. I did not know a distinguished guest had arrived just now and was quite rude. I hope the Yuan Godchild will not take offense."
+Long Wangchu’s expression froze, and his body snapped to attention with a whoosh.
 
-His bow was very low and his voice trembled slightly, even carrying a hint of fawning... after all, the person before him was a Godchild of a Divine Kingdom.
+It was only now he opened his eyes and looked at Yun Che properly. Then, the panic immediately set it. Shame, fear, and excitement tangled chaotically across his features for a moment before he finally realized what he should be doing and composed himself. He strode quickly to Yun Che’s side and bowed deeply, saying:
 
-His sudden display of perfect etiquette did not bring Long Zhiming any comfort. Instead, the Sovereign turned his face away, letting out a long, silent sigh in his heart.
+“To... To think it’s Divine Son Yuan of the Dreamweaver Kingdom of God. I am Long Wangchu. I was unaware of your arrival and acted rashly. I beg that you do not hold it against me, Divine Son Yuan.”
 
-A sudden silence fell over the great hall.
+His bow was deep, and his voice was trembling slightly. It was even tinged with a touch of flattery... After all, standing before him was the Divine Son of a Kingdom of God.
 
-The bowing Long Wangchu’s body was tense, but he did not receive a response from Yun Che for a long time. He looked up quite cautiously, only to suddenly meet a pair of eyes that were like the ghostly night.
+His sudden display of impeccable etiquette did not bring Long Zhiming the slightest comfort. Instead, he turned his face away, and a long, heavy sigh rose in his heart.
 
-Those eyes were staring straight at him, without blinking. Though they were also black pupils, in his eyes, they were terrifyingly dark, like a bottomless death abyss or an endless night of calamity.
+A sudden silence fell over the grand hall.
 
-Furthermore, those pupils seemed to be continuously dilating and contracting.
+Long Wangchu, still bowing, felt his body tense. After waiting for a long time but receiving no response from Yun Che, he cautiously raised his head to take a peek—only to suddenly meet a pair of eyes that looked as dark as the deepest night.
 
-Long Wangchu’s vision blurred inexplicably, and then his sight suddenly became hazy... in the blur, he vaguely saw a speck of crimson condensing, red as blood.
+Those eyes were fixed directly on him, unblinking. Though both of them had black pupils, the ones staring at him were terrifyingly pitch black like a bottomless abyss of death, or an endless night of calamity.
 
-It continued until it looked like a Purgatory Blood Crystal, condensed from a blood-soaked purgatory that had been drained a thousand times over.
+Moreover, those pupils seemed to be expanding and contracting constantly.
 
+Long Wangchu’s vision suddenly wavered, and his sight grew abruptly blurry... Through the haze, he vaguely saw a crimson speck coalescing—red as blood.
+
+As if passing through a million layers of blood-soaked purgatory, it just kept deepening until a single, blood crystal of purgatory was crystalized.
+
+1. There isn’t actually a sun in the Abyss, but activate preemptive response: I’m just the translator. ☜

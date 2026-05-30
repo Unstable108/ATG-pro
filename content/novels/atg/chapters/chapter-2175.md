@@ -1,140 +1,159 @@
 ---
 chapterNumber: 2175
-title: ""
-publishedAt: "2025-12-23"
+title: "To Toss A Stone"
+publishedAt: "2026-05-30"
 ---
 
-The same hall, the same seating arrangement, and even the drifting wisps of tea fragrance in the air were identical. However, for the two men sitting across from each other, their gazes and mindsets were destined to be different from before.
+It was the same hall, the same seats, even the same tea aroma. However, the gazes and the hearts of the two men sitting opposite each other could never be the same as before.
 
-Standing nearby, Shangguan Helu’s hands unconsciously gripped the corners of her clothes, her internal nervousness leaking out. Hidden in the shadows, the aura cast by Meng Shouyuan was several times more cautious than usual, as if he feared the Senluo Divine Son might suddenly lose emotional control and strike at Yun Che within this Land of Dreamweaving.
+Shangguan Helu, the personal attendant to the duo, was unconsciously twisting the hem of her robes, betraying the tension welling inside her. Hidden in the shadows, Meng Shouyuan’s aura was several times more cautious than usual as well. It was as if he were afraid that the Boundless Divine Son might suddenly lose control and strike down Yun Che right here at the heart of the Dreamweaver Kingdom of God.
 
-However, Yun Che’s posture was just as it had been during their first meeting—his face bearing seven parts of a shallow smile and three parts of humility. On Dian Jiuzhi’s face, there was no detectable trace of negativity; his gaze was warm, and his demeanor was elegant and composed. No aura of enmity existed between them; instead, they appeared like a pair of old acquaintances.
+However, Yun Che’s composure was almost the same as during their first meeting: seven parts smiles and three parts modesty. Dian Jiuzhi’s face was completely devoid of any negative emotion as well, at least none that anyone could see. His gaze was warm and gentle, and his demeanor was refined and measured. Not a trace of animosity lingered between the duo. In fact, they looked like old friends who were mildly acquainted with each other.
 
-“When Brother Dian visited, I happened to be in closed-door cultivation and failed to greet you personally. It was truly impolite of me. I offer my apologies and ask for Brother Dian’s indulgence,” Yun Che said, his phrasing perfectly appropriate and polite.
+“I was in secluded cultivation when you were visiting and so could not welcome you in person. It was most impolite of me. I hereby offer you my apology and ask for your forgiveness.”
 
-Dian Jiuzhi responded with a faint smile. “Divine Son Yuan, you overstate the matter. My visit this time was quite abrupt. I only recently learned that Divine Son Yuan was graced by Divine Official Ling Xian with the Vermilion Bird Divine Blood¹ and was at a critical moment of refining it in seclusion. To have disturbed you so, it is I who should apologize.”
+Yun Che offered the man a surprisingly appropriate and courteous apology.
 
-His humility and politeness carried no impurities, but his form of address for Yun Che had changed. He no longer called him "Brother Yun," but "Divine Son Yuan."
+Dian Jiuzhi responded with a small smile of his own, “You exaggerate, Divine Son Yuan. My visit was unannounced and unexpected. I only learned of the gift you received from High Priest Ling Xian recently. Of course, you should focus on cultivating the Vermillion Bird divine blood. It is I who should apologize for disturbing you at such a critical time.”
 
-Yun Che seemed not to notice the change in title, saying naturally, “I heard Brother Dian has stayed in Dreamweaving for ten days. May I ask what important matter brings you here?”
+His modest and courteous response was as sincere as it could be, but the way he addressed Yun Che had changed. He was addressing him as ‘Divine Son Yuan’, not ‘Brother Yun’ any longer.
 
-Dian Jiuzhi shook his head, a bitter smile touching his lips. “My Father God’s wrath has yet to subside. I share many disagreements with him regarding philosophy and perception. At first, we argued incessantly, but later, every time he saw me, his anger would peak. Thus, I could only take temporary refuge here, perhaps allowing his rage to gradually fade.”
+Seemingly not noticing the change in appellation, Yun Che asked naturally, “I heard that you have lingered in Dreamweaver for ten days straight. May I know what business you have with me?”
 
-Yun Che looked at him and said in a very flat tone, “The primary reason God Sovereign Jue Luo’s anger is hard to quench is, first, his inability to accept the heavy blows dealt by his two closest friends, and second... your refusal to fight or show anger.”
+Dian Jiuzhi shook his head and cracked a bitter smile. “Father’s anger still hasn’t subsided to this day, and it turns out that we share many ideological and cognitive differences. At first, we argued endlessly with each other. Later, he would be overcome by rage every time he saw me. That is why I am avoiding him for the moment. Perhaps my absence would help him quell his rage gradually.”
 
-“So,” Yun Che leaned forward slightly, “why are you not angry?”
+Yun Che looked at him and said calmly, “There are two main reasons the Boundless Divine Regent cannot master his rage to this day. One, he could not accept or forget the heavy blow he received from his two best friends, and two... he could not not be angry at your absence of anger and resistance.”
 
-Facing this suddenly unfriendly question, Dian Jiuzhi showed no emotional turbulence. He replied calmly, “Perhaps for the vast majority of people, admitting one is inferior to another is a difficult thing. But for me, it is quite easy—even if I am the so-called ‘First Divine Son.’”
+“So,” Yun Che leaned forward slightly, “why aren’t you angry?”
 
-He looked at Yun Che, his gaze unwavering. “Divine spark, talent, will, shrewdness, looks... I am inferior to you in all of them. Divine Official Liu Xiao pleaded for your life, Divine Official Ling Xian gave you a gift, and I heard the Abyss Monarch even summoned you privately. Compared to you, I am not merely ‘inferior.’ Many things you possess are perhaps things I could not achieve in a lifetime.”
+Yun Che’s question was as sudden as it was unkind, but Dian Jiuzhi’s expression did not reveal any turmoil. He replied calmly, “For most people, it may be difficult for them to accept the fact that they are inferior to others. However, I have no such problems, even if I was a so-called ‘number one Divine Son’ in the past.”
 
-“Therefore, for Caili, you are undoubtedly the better choice. Even... setting aside my status as her former betrothed, I deeply believe that in this world, only you are worthy of her.”
+He looked Yun Che straight in the eye, unflinching and unswerving. “Divine essence, talent, willpower, shrewdness, appearance... I am inferior to you in every respect. High Priest Liu Xiao had pleaded on your behalf, High Priest Ling Xian had bestowed you a gift, and I even heard that the Abyssal Monarch summoned you for a private audience. To say that I am inferior to you would be an understatement. I may never reach your level in countless ways, even if I give my all to improve myself for as long as I live.”
 
-“In that case, why should I fight or be angry? It would only highlight my unworthiness and needlessly increase her guilt and anxiety.” His words were so frank and direct that Shangguan Helu, standing to the side, could not help but turn her head, her eyes wide with shock.
+“Therefore, you are undoubtedly the better partner for Caili between the two of us. In fact... ignoring the fact that she was my fiancée, I am certain you are the only one in this world who deserves her.”
 
-Yun Che nodded slowly. “I thank Brother Dian for his honesty.”
+“In that case, why should I get mad or resist? It would only exemplify my unworthiness and increase her regret and worry.”
 
-Dian Jiuzhi narrowed his eyes slightly. “Your reaction is quite different from what I expected. I thought you would have at least a few moments of uncontrollable ridicule, or the disdain and contempt of a victor.”
+His words were so frank and calm that Shangguan Helu unconsciously turned around and looked at him with wide eyes.
 
-Yun Che said seriously, “From the perspective of the Senluo God Kingdom, they are indeed entitled to blame you for not fighting. And men of the secular world would indeed whisper ridicules in the dark; after all, it is the nature of the weak to never miss an opportunity to mock the First Divine Son.”
+Yun Che nodded slowly. “Thank you for your honesty, Brother Dian.”
 
-“But regardless, true devotion should never be mocked. Because that is perhaps the rarest and most precious thing in this world.”
+It was at this moment that Dian Jiuzhi narrowed his eyes slightly. “On the other hand, you are acting much differently from how I expect you to act. I thought you would at least give me a few undisguised sneers, or look down on me with the scorn and contempt of a victor.”
 
-Dian Jiuzhi was visibly stunned. Then, he began to smile faintly, a smile more genuine than any moment prior. “You are truly a remarkable man. If I could be your friend, it would surely be a stroke of luck in life. But unfortunately... I ultimately cannot truly erase the rift in my heart.”
+Yun Che said seriously, “A member of the Boundless Kingdom of God definitely has the right to be angry at your absence of anger and resistance. A man of the secular world would definitely ridicule you behind your back as well. After all, how could a weakling at heart possibly let go of the opportunity to ridicule the number one Divine Son?”
 
-Yun Che returned the smile. “Even if you were willing, I would not be. Because I no longer believe in the existence of saints in this world. If one exists, they must be wearing a saint’s mask.”
+“Regardless of the circumstances, though, one should never laugh at one’s true feelings. After all, it might just be the rarest and most precious thing in the entire world.”
+
+Dian Jiuzhi was clearly stunned for a moment. Then, he broke into a light smile that was more genuine than any smile he had mustered up until this point. “You really are a wonderful person. I truly think it would be an honor to have a friend like you. Alas... I cannot truly remove this thorn in my heart.”
+
+Yun Che responded with his own smile, “I wouldn’t accept you as a friend even if you are unwilling to let bygones be bygones. After all, I no longer believe that a saint could exist in this world. Even if such a person does exist, I would think that they are simply wearing the mask of a saint.”
 
 “Hahahaha!”
 
-Dian Jiuzhi laughed loudly. “Well said! Beautifully said! This past month, all my elders have been angry at my lack of ambition, scolding me for being pedantic, and some even laughed at me for being a spineless saint. But in the entire Senluo God Kingdom, not a single person truly understands me. No one understands that my lack of anger and struggle is, in fact, merely a selfish act to please myself and satisfy my own wishes.”
+Dian Jiuzhi laughed. “Well said. Well said. For the past month, every one of my elders has been furious with my lack of resistance and has accused me of pedantry. Some people even made fun of me, calling me a spineless, grudgeless saint. However, not a single person in the entire Boundless Kingdom of God truly understands me, much less realizes that my absence of anger and resistance is my selfish way of pleasing myself and satisfying my own wish.”
 
-“A pity the only person who understands me is...” He shook his head with a smile and let out a long sigh. Then, he suddenly shifted his gaze, his eyes piercing straight into Yun Che’s pupils. “So, back then on the Pure Land, in front of the Divine Official’s residence—all of it was your deliberate design? Dian Sansi’s various moments of madness were all induced by your step-by-step provocations?”
+“Unfortunately, the one person who understands me is...”
+
+He shook his head smilingly and let out a long sigh. Suddenly, he turned around and looked Yun Che straight in his eyes. “So, what happened at the Pure Land in front of High Priest Ling Xian’s abode was intentional? Were you the one behind Dian Sansi’s acts of madness as well?”
 
 “That’s right.”
 
-Facing Dian Jiuzhi’s gaze, Yun Che admitted it with exceptional frankness. His returning gaze held not a shred of trepidation or guilt. “You are three centuries older than me; you surely understand the deep bond between the three God Sovereigns far better than I do. Therefore, the matter between Caili and me would have wounded their feelings regardless of the approach.”
+Yun Che admitted his crime with exceptional frankness, without a shred of guilt or hesitation. “You are fifty sexagenary years older than me. You would understand more than I just how deep a bond the three Divine Regents shared. Therefore, my affair with Caili was always going to hurt their bond no matter what.”
 
-“God Sovereign Huaxin and God Sovereign Wumeng have been trying every possible way to ease the situation, searching for a perfect solution. However, my life has taught me that one of the most dangerous things in the world is greed. Wanting to have it both ways often results in losing both. I, personally, believe in breaking things down to rebuild them—cutting the Gordian knot.”
+“For the longest time, the Heart Painter Divine Regent and the Dreamless Divine Regent were searching for a way to settle this peacefully; to find a perfect solution where all parties would be appeased. However, my life experiences taught me that one of the most dangerous things in this world is greed. Those who covet two things at once would often lose both of them, and I personally believe in breaking through by force to establish anew, cutting through tangled threads with a swift blade.”
 
-“Furthermore, for Caili’s sake, I am willing to use any means necessary!”
+“Moreover, I am willing to resort to any means necessary for Caili!”
 
-That last sentence was the answer he had given the Abyss Monarch, and it was the answer most capable of touching the Monarch’s heart. It was the same for Dian Jiuzhi.
+His final sentence was the same answer he gave the Abyssal Monarch. It was the answer that could touch the Abyssal Monarch the most, and it was no different for Dian Jiuzhi.
 
-Dian Jiuzhi remained silent for a long time before slowly saying, “Sansi once told me that you have two faces. When the other face is revealed, you look like a demon ready to devour people.”
+Dian Jiuzhi fell silent for a long time. Finally, he said, “Sansi once told me that you have two faces. When your other face surfaces, it’s like he’s facing a man-eating devil.”
 
-“My arrival in Dreamweaving this time was also with the intent to test you. How many faces you have or what your true face looks like has nothing to do with me. However, I could not help but care whether your feelings for Caili are genuine.”
+“My intentions were to test you when I came to Dreamweaver. I don’t care how many faces you have or what your true face looks like. However, I cannot not care how you treat Caili or whether your love for her is genuine.”
 
-“Your answer just now... I am willing to believe it is sincere, not a lie. After all, for Caili, you were willing to waste the gifts of two Divine Officials just to endure the Double Punishment of Abyssal Devouring² alone. After all, a woman as wonderful as Caili is indeed worth any man being willing to... use any means for her.”
+“Thanks to your answer, I’m willing to believe that your love is genuine. After all, you did waste two High Priests’ favors just to endure twice the punishment of devouring rage for Caili. Besides that, Caili is such a wonderful woman. She is deserving of any man resorting to any means to protect her.”
 
-He stood up. “So, I can rest completely easy now.”
+He rose to his feet. “So, I can rest easy now.”
 
-Yun Che also rose. “How long do you plan to stay in Dreamweaving?”
+Yun Che rose to his feet as well. “How long are you planning to stay in Dreamweaver?”
 
-“I shall leave now.” Dian Jiuzhi looked ahead. “God Sovereign Wumeng is extremely busy, and I have not had the honor of an audience. Please convey to him on my behalf that he should not attempt to approach my father for at least a month. My father is like a different person when he is angry.”
+“I’m leaving right now.”
 
-“I originally intended to visit the Zhetian God Kingdom to see God Sovereign Huaxin, but I fear it would cause pressure or trouble for Caili. I suppose...” He sighed softly with a bitter smile. “I will simply wander for a while and return once my father’s anger has mostly subsided.”
+Dian Jiuzhi looked forward and said, “The Dreamless Divine Regent is exceptionally busy as of late. I was unable to meet him even though it’s been almost two weeks since I arrived. So, I ask that you pass on my message to him. Please tell him not to approach my Father for at least a month. Father is like two different people when he is angry and not.”
 
-Yun Che did not ask him to stay. Instead, he said with some emotion, “Recalling our first meeting, Brother Dian was refined, elegant, and humble, lacking any of the arrogance the First Divine Son should have. At the time, I thought you were hiding your sharpness behind a facade of harmony; at the very least, I was unwilling to believe someone of your status could be a true gentleman.”
+“I was hoping to travel to the Heaven Breaker Divine Regent and pay the Heart Painter Divine Regent a visit as well, but I do not want to put pressure or cause trouble for Caili, so...”
 
-“Looking at it now, it was my vision that was narrow. Brother Dian truly deserves the title of a gentleman.”
+He let out a small sigh and curled his lips into a bitter smile. “I guess I’ll just wander about until Father’s rage is almost spent.”
 
-Dian Jiuzhi’s smile was faint. “For a Divine Son of a God Kingdom, the word ‘gentleman’ is not exactly a compliment.”
+Yun Che did not attempt to dissuade him, but remarked with a touch of emotion, “Brother Dian, you were gentle and courteous, humble and polite during our first meeting. You utterly lack the haughtiness the number one Divine Son should possess. However, I believed that you were simply concealing your edge beneath a calm exterior. At the very least, I refused to believe that someone of your stature could be a true gentleman.”
 
-“No,” Yun Che countered. “Precisely because you are a Divine Son, it is all the more precious.”
+“But now, I realize that I was too narrow-minded. You truly deserve the title of gentleman, Brother Dian.”
 
-Dian Jiuzhi said nothing more. He reached out and placed a silver jade stone on the tea table beside him.
+Dian Jiuzhi’s smile didn’t quite reach the eye. “For a Divine Son of a Kingdom of God, the title is hardly a compliment.”
 
-“This is a Sound Transmission Jade specially made for me by my Father God. It contains his Senluo Divine Power. As long as you are not within the Sea of Fog, you can use it to send a transmission to me from anywhere in this world. With the remaining divine power, it can probably be used six or seven more times.”
+“No,” Yun Che countered, “it is precisely because you are a Divine Son that it makes it all the more precious.”
 
-Yun Che picked it up, a faint silver glow reflecting in his eyes. He understood Dian Jiuzhi’s intent perfectly and did not decline. “Fine, I accept. If it concerns Caili, I will not hesitate to seek your help if necessary.”
+Dian Jiuzhi said nothing after that. Instead, he reached out and placed a silver jadestone on the tea table.
 
-Dian Jiuzhi smiled faintly. Meeting Yun Che’s gaze, he uttered words that were almost hard to believe: “Even if it requires me to give my life.”
+“This is the Sound Transmission Jade my Father created specially for me. It contains my Father’s Boundless divine power. You may use it to contact me from anywhere in the world, so long as it is not the Endless Fog. It probably has six or seven uses left.
 
-Yun Che: “...”
+Yun Che picked it up, the stone’s silver light reflecting into his eyes. He knew what Dian Jiuzhi meant by this gesture, of course. He accepted it candidly and said, “Alright, I accept. I will not hesitate to ask for your help if it’s a necessary matter relating to Caili.”
 
-Dian Jiuzhi departed. Yun Che watched him leave from a distance, granting him the highest level of courtesy. In his heart, however, he sighed quietly: Indeed, as a Divine Son of Senluo, how can one be a gentleman? A gentleman has far, far too many weaknesses and openings.
+Dian Jiuzhi smiled faintly and said something unbelievable to his face, “Do not hesitate even if it’s a matter that will cost me my life.”
 
-Not long after Dian Jiuzhi left, Meng Jianxi walked over quickly.
+Yun Che: “......”
 
-“Brother Yuan, how was the result?”
+Dian Jiuzhi took his leave after that. Yun Che saw him off with his eyes and gave him what he considered the highest amount of courtesy he could possibly afford the man.
 
-Yun Che raised his hand, and the Vermilion Bird Flame ignited at his fingertips. The divine flame, which should have been scorching, released a gentle warmth that soothed the soul.
+Inside his heart, though, a sigh was echoing in silence: Indeed, how can a Boundless Divine Son afford to be a gentleman... when a gentleman has so, so too many weaknesses and openings.
 
-Meng Jianxi immediately praised him, “As expected of Brother Yuan. In just a few dozen days, you can already successfully ignite Divine Official Ling Xian’s divine flame.” He joked half-seriously, “With this flame, even if you weren't the Divine Son of Dreamweaving, you would have enough to run rampant through the Abyssal World.”
+Not long after Dian Jiuzhi was gone, Meng Jianxi strode up to him. He asked, “How did it go, Brother Yuan?”
 
-Extinguishing the flame, Yun Che asked, “How has the Senior God Sovereign been lately?”
+Yun Che raised a hand, and the Vermillion Bird Flame ignited between his fingers. The divine flame should be hot and scorching, and yet the heat wave it released was warm and soothing.
 
-Meng Jianxi shook his head with a faint smile. “The various Dream Halls are arguing incessantly over how to allocate the slots for the Eternal Pure Land. Some elders who had already gone into seclusion have even reappeared to fight for their juniors. That is just one issue, and it’s already enough to give my father a massive headache.”
+Meng Jianxi immediately praised him, “As expected of Brother Yuan. To think you would ignite High Priest Ling Xian’s divine flames in just a couple weeks’ time.”
 
-At this point, his tone shifted. “The Senluo Divine Son... he didn't say anything unpleasant just now, did he?”
+He added half-jokingly, “With this flame, you may go wherever you please, even if you are not the Dreamweaver Divine Son.”
 
-Yun Che replied with a beaming smile, “What you really want to ask about is Long Jiang, right?”
+Yun Che extinguished the flame and asked, “How is senior Divine Regent doing these days?”
 
-“Haha, as expected, nothing can be hidden from Brother Yuan’s eyes.” Meng Jianxi laughed. “But looking at your expression, it shouldn't be anything bad. When I saw her mention you at the Realm Gate earlier, her tone was cold and her posture was forceful. I thought she might have some leverage over you from your time wandering the world.”
+Meng Jianxi shook his head smilingly. “The Dream Halls cannot stop arguing about who to send to the Eternal Pure Land. Even those elders who were retired had resurfaced to fight for their juniors. This is just one matter, and Father already looks like he wants to retire himself.”
 
-“After all, given your current fame, for her—a scarred dragon girl of the Dragon Race—to dare be so aggressive, I feared she had some backing. That’s why I moved to stabilize her immediately. Now it seems I was overthinking.”
+Suddenly, he changed the subject. “The Boundless Divine Son... he didn’t say anything too unpleasant, did he?”
 
-Long Jiang’s identity as a member of the Dragon Race could not be hidden from Meng Jianxi’s eyes.
+Yun Che responded with a mirthful smile. “What you really want to ask is Long Jiang’s matter, isn’t it?”
 
-“No, your judgment and decision were not wrong at all.” Yun Che offered his praise but did not explain further. Instead, he took out a massive profound crystal of an odd shape, possessing an incredibly strange aura and light. “Divine Son Xi, do you recognize this Abyssal Crystal?”
+“Haha, I knew I couldn’t fool you, Brother Yuan.”
 
-This was the "Seven-Profound Panlong Crystal³" that Yun Che had condensed in the Sea of Fog, using the Heaven’s Revelation Divine Jade as a base and Dragon Abyss Crystals as supplements, powered by the Void Power that could manipulate Abyssal Dust.
+Meng Jianxi replied smilingly, “Judging from your expression, though, it probably isn’t bad news. Her tone was cold, and her demeanor was forceful when I mentioned you at the border entrance earlier. That’s why I thought she had something on you while you were wandering the world.”
 
-Such a massive and bizarre crystal instantly captured Meng Jianxi’s attention. He stepped forward quickly, his divine sense slowly and carefully sweeping over it before he let out a gasp of wonder. “An aura of this magnitude... this is undoubtedly an Abyssal Crystal of the highest level. It contains a faint dragon breath, yet it is different from any Abyssal Dragon aura I know... Even this shape is unprecedented.”
+“After all, she’s the Scarfaced Dragon Girl of the dragon race, and yet she acted unbelievably surly despite your current fame. I thought for sure she had something backing up her behavior, and so I did my best to steady her at the first sign. Now, though, it looks like I was just overworrying about things.”
 
-His eyes shone brightly. “Brother Yuan, I know all the variant Abyssal Crystals recorded in the Pavilion of Heavenly Secrets by heart, but I have never seen this one. It is highly likely a variant that has never appeared in the world before.”
+Obviously, Long Jiang’s identity was no secret to Meng Jianxi.
 
-The strange shape caused a flash of deja vu in his mind, but it was too blurry and vanished in an instant. “Brother Yuan, where did this crystal come from? Could it also be a gift from your master?”
+“No, your decision and judgment are impeccable.”
 
-“No,” Yun Che said without changing his expression. “When I wandered the world back then, Long Jiang and I shared mutual favors. She came this time to gift me this crystal to settle the karma of the past. With her personality, which is harder and colder than Abyssal Stone, the last thing she wants is to owe someone a favor.”
+Yun Che complimented him but did not explain why. Next, he produced a large, oddly shaped abyssal crystal, its form strange and its light and aura even stranger. He asked, “Do you recognize this abyssal crystal, Divine Son Xi?”
 
-With that, he pushed the Seven-Profound Panlong Crystal directly toward Meng Jianxi. The latter hurriedly caught it, his expression solemn.
+It was none other than the “Coiling Dragon Seven Profound Crystal” Yun Che had created with the Divine Jade of Revelation as the base, various draconic abyssal crystals as the supporting materials, and the power of nothingness that allowed him to control abyssal dust.
 
-“If even Divine Son Xi doesn't know... you might as well record a profound image of it and inquire at the other God Kingdoms or the Pure Land. Otherwise, if we attempt to explore its effects ourselves, we might inevitably cause damage.”
+The large and strange-looking abyssal crystal instantly captured Meng Jianxi’s attention. He quickly came closer and carefully circulated his divine perception over the object. A short while later, he exclaimed in astonishment, “What an aura. There is no doubt that it’s the highest level abyssal crystal. Strangely, the draconic aura it contains is nothing like the abyssal dragons that I know of, and even this shape... I have never seen something like this before.”
 
-“True.” Meng Jianxi deeply agreed. “I will send people to investigate immediately. If a variant Abyssal Crystal of this size can be fully utilized, it might release power that could be called a gift from heaven.”
+He said with sparkling eyes, “Brother Yuan, I have memorized every mutated abyssal crystal that is recorded in the Xuanji Hall, but I have never seen this abyssal crystal before. There is an extremely high chance that it is a never-before-seen mutated abyssal crystal.”
 
-When Meng Jianxi left, his footsteps carried an irrepressible excitement and urgency. After all, what he held in his hands was likely an abyssal treasure making its first appearance in the world—one that might shock the entire realm.
+The uncannily bizarre shape gave Meng Jianxi a sense of déjà vu, but the feeling was so vague it passed the next instant. “Where did this abyssal crystal come from, Brother Yuan? Was it a gift from your master as well?”
 
-Yun Che slowly narrowed his eyes, silently watching this small "pebble" be tossed into the seemingly still lake. He would wait and see what kind of ripples Shen Wuanyi could stir with this stone.
+Yun Che lied without batting an eye, “Long Jiang and I came to be indebted to each other during my years of wandering. That is why she sought me out. It is to give me this abyssal crystal and repay an old debt. She has a personality that is stiffer and colder than an abyssal stone, and there’s nothing she hates more than owing a debt.”
 
+After that, Yun Che pushed the “Coiling Dragon Seven Profound Crystal” in Meng Jianxi’s direction. The Dreamless Divine Son hurriedly caught it with both hands while wearing a serious expression.
+
+“If even you haven’t heard of this abyssal crystal... why not engrave its image into Profound Imagery Stones and pass it to the other Kingdoms of God? Maybe even the Pure Land? Perhaps one of them would know about it. We can study it ourselves, but it is inevitable that the process will damage the crystal.”
+
+“You are right.”
+
+Meng Jianxi completely agreed with the statement. “I will send someone to look into this abyssal crystal right away. Just look at its size! Assuming we can utilize it in full, the power it unleashes might very well be miraculous.”
+
+Meng Jianxi’s footsteps were filled with barely concealed excitement and urgency when he left. After all, he was carrying what was most likely the first ever mutated abyssal crystal of its kind. It could very well be a mutated abyssal crystal that stunned the world with its potency.
+
+Yun Che slowly narrowed his eyes as the tiny “stone” he cast fell into the seemingly calm lake. He looked forward to seeing the kind of waves Shenwu Yi would create with this “stone”.
+
+1. To Find out what’s ahead. Or in Western terms, to test the waters. ☜

@@ -1,181 +1,183 @@
 ---
 chapterNumber: 2178
-title: ""
-publishedAt: "2026-04-10"
+title: "Bound Heart, Jade Gift"
+publishedAt: "2026-05-30"
 ---
 
+Inside the Divine Son Palace, Mo Su and Yun Che had been drinking heavily for over two hours. Shattered wine jars lay scattered haphazardly across the floor, and the rich, potent aroma of alcohol filled the air. Even a faint whiff was enough to intoxicate the senses and leave one half-drunk.
 
+Another jar was drained as Mo Su slowly lifted it from his lips. His face was flushed crimson, his eyes completely glazed over, and a lingering intoxication was etched between his brows. Even the smile at the corner of his mouth carried a lazy, dreamlike air, as if he had momentarily forgotten the cares of the world.
 
-Inside the Divine Son Hall, Mo Su and Yun Che had been drinking heavily for a full hour. Shattered wine jars lay tilted across the floor in a chaotic mess. The mellow, piercing aroma of wine permeated the air, so thick that a mere breath was enough to intoxicate one’s soul.
+At this moment, he bore no trace of the Abyssal Monarch’s majesty, nor a shred of His divine, icy demeanor. Instead, he was a mere mortal soul who had cast off the shackles of many thousand autumns and allowed himself to sink into the embrace of intoxication.
 
-Clang!
+He exhaled a long, heavy breath and gazed up at the sky with a wistful sigh. “Wandao often said that three cups of cheap wine can dispel a thousand sorrows. I’ve always thought that it doesn’t apply to me, but turns out, I’ve simply never found the right drinking companion... hahahaha....”
 
-Another jar was emptied. As it was pulled away from Mo Su’s lips, his face was already flushed red as blood. His eyes were completely blurred, his brows heavy with intoxication, and even the smile at the corner of his mouth carried a trace of the listless wandering found only when the world is forgotten.
+He burst into unrestrained laughter, “Such exhilaration, such lightness—it’s been far too long since I’ve felt this... Gulp ....”
 
-At this moment, he no longer possessed even a shred of the Abyss Sovereign’s¹ divine aura, nor a hint of icy divinity. He was simply a mortal soul who had cast off the shackles of a thousand ages, allowing himself to drown in a drunken stupor.
+Yun Che laughed along with him and flicked his fingers. Two more large jars of wine immediately crashed onto the table. “I have had a thousand jars of wine in my palace, and I’ve never found a soul that I could share them with—until today. Finally, I am able to drink my fill and get thoroughly drunk.
 
-He exhaled a long breath of turbid air and looked up at the ceiling, sighing with lament: "The world often says three cups of wine can dissolve a thousand sorrows. It turns out, it’s not that wine cannot dispel grief, but that I have never had such a person to drink with... Hahaha..."
+“Feel free to visit often from now on, Big Brother. As the revered Abyssal Monarch, you are more entitled than any other being in the world to indulge in the pleasures of life... even if it’s just to steal half a day of joy and leisure.”
 
-He laughed aloud, unrestrained and wild. "This exhilaration, this lightness... it has been too long, far too long since... gulp..."
+Mo Su gave no reply. His expression suddenly stiffened, and even the air around him seemed to solidify.
 
-Yun Che laughed along with him. With a flick of his finger, two more large jars of wine slammed onto the table. "I have a thousand jars of wine prepared in my hall, yet I too lacked someone to share them with—until today, when I could finally drink to my heart’s content. Big Brother, feel free to come often in the future. As the exalted Abyss Sovereign who looks down upon the world, you have more right than any living being to drink your fill of the world's winds and moons... even if only to steal half a day of leisure and joy."
+He slowly rose to his feet. In that single moment, all traces of intoxication and the scent of alcohol vanished from his body, and the haze and confusion that clouded his eyes cleared entirely, leaving them as clear and deep as an ancient, icy abyss.
 
-Mo Su did not respond. His expression suddenly stiffened, and even the surrounding air abruptly froze.
+Even the wine that had soaked half his body a moment ago was completely dispelled. What remained was only an air of majesty and composure that looked down upon all the heavens and scorned all living beings.
 
-A moment later, he slowly stood up. In an instant, the drunken stupor and the scent of alcohol on his body vanished completely. The hazy blur in his eyes was gone, replaced by a clarity as piercing as an eternal frozen abyss. Even the wine that had soaked half his clothes was expelled. What remained was only the majesty and indifference of one who looks down upon the heavens and scorns all living things.
+Slightly taken aback, Yun Che rose to his feet as well. After dispelling the scent of alcohol and the tipsiness affecting his body as well, he let out a sigh that was tinged with resignation. “Are you heading back, Big Brother?”
 
-Yun Che was slightly startled. He also stood up, dispelling his own intoxication, and let out a somewhat helpless sigh. "Is Big Brother leaving?"
+“Mm.” Mo Su nodded slightly. He gazed intently at Yun Che before breaking into a faint smile. “I will not deny that this past half-day has been exhilarating. It felt as if I’d been reborn. But just the same, it’s too much of a luxury—and too great a burden of guilt, for me.”
 
-"Yes." Mo Su nodded slightly. He gazed at Yun Che and smiled faintly. "This half-day of joy felt like a new life. But for me, it is too extravagant, and too sinful."
+As he spoke, as if by instinct, his fingers brushed against the pitch-black bracelet on his wrist. He did not remove them for a very long time.
 
-As he spoke, almost subconsciously, his fingers brushed against the pitch-black bracelet on his wrist, lingering there for a long time.
+Yun Che’s lips twitched. In the end, he sighed and spoke frankly, “Are you saying that, as long as she remains unconscious, every moment of joy you experience is a sin you shouldn’t have and cannot bear, Big Brother?”
 
-Yun Che’s lips moved, but he ultimately sighed and spoke plainly: "So, to Big Brother, as long as she does not wake for a single day, every bit of pleasure you obtain is a sin that should not exist and cannot be endured?"
+Mo Su’s smile remained unchanged, but he posed a rather cruel question. “If you were a member of her clan, would you forgive her?”
 
-Mo Su’s smile remained unchanged, but he asked a somewhat cruel question: "If you were of her kin, would you forgive her?"
+Yun Che paused briefly to consider, then gave his most honest answer. “Though no one can truly walk in another’s shoes, if I try to put myself in the shoes of the devil clan, paternal or maternal, no matter how much they had previously pampered and praised her, after what happened... I would surely feel nothing but the greatest resentment and hatred toward her. Assuming that the dead retain their consciousness, and they were to witness the devil race’s ultimate fate from the othershore, the hatred and resentment they must feel would likely be impossible to resolve even in death, let alone forgive.”
 
-Yun Che thought for a brief moment and gave his most honest response: "Though true empathy does not exist in this world, if I try to place myself among the Devil Race of old... regardless of whether it was her father’s or mother’s side, no matter how much they pampered and praised her before... afterward, there would likely only be the most intense resentment and hatred. If there is awareness after death and they witnessed the end of the Devil Race, such hatred would likely be impossible to dissolve even in death, let alone forgive."
+Mo Su’s expression did not waver in the slightest at Yun Che’s blunt words—it was an answer he knew all too well, after all.
 
-Mo Su’s expression did not change despite Yun Che’s bluntness, for he knew the answer all too well.
+He continued, “Then, suppose there was a woman—like Xiaodie—who went to such lengths to save your life... If your life was saved at the cost of her committing a crime that could not be forgiven, even if an eternity has passed, could you convince yourself to accept it with a clear conscience?”
 
-He continued to ask: "Then, if there were a woman like Xiao Die who did not hesitate to do such a thing to save your life... if your life was saved at the cost of her committing an unpardonable sin spanning ten thousand generations, could you persuade yourself to be at peace?"
+“......” Yun Che did not answer; he could not answer.
 
-"..." Yun Che did not answer; he could not answer.
+“It is easy to forgive others, but so difficult to forgive oneself. Given what she has done, what right do I have to....”
 
-"It is easy to forgive others, but so difficult to forgive oneself. Since she is like this, what right do I have..."
+Before he could finish, he shook his head and smiled, “Yun Che, you are still young. You should live life to the fullest and follow your heart’s desires, just like Brother Ni Xuan had. I should not have spoken such gloomy matters to you so frequently.”
 
-Before he finished his sentence, he shook his head and laughed. "Yun Che, you are in the prime of your youth; you should live as freely and willfully as Big Brother Ni Xuan did. Such gloomy matters should not always be told to you."
+Yun Che looked at him with sincere eyes. “There is nothing between us brothers that we cannot speak of. Besides, I believe that there is none you would share these words with except me.”
 
-Yun Che’s gaze was sincere. "Between brothers, nothing is unspoken. I believe these words are things Big Brother would only say to me."
+Mo Su turned away. His handsome, sky-reaching profile bore a faint, almost divine glow, yet it was also tinged with an ancient, unyielding sorrow, as if the earlier intoxication had been nothing more than a fleeting, extravagant dream.
 
-Mo Su turned around. His peerless profile carried a faint divine glimmer, yet it was tinged with an eternal, unchanging sorrow, as if the previous intoxication had been but a fleeting, luxurious dream.
+“This life has been one of hardship and desolation, yet I have been blessed to meet you, Brother Che. It was only right that we had drunk to our hearts’ content. Yet my heart remains bound to the abyss, and I can never fully open it to you.
 
-"This life has been trapped in stagnation and loneliness, yet to meet Brother Che and share this joyful drink is enough. However, this heart is bound to the Abyss and ultimately cannot be fully given. When the Eternal Pure Land² clears the clouds to see the sun and the light reappears, I shall drink to intoxication with my brother once more, until the end of time."
+“That said, when the Eternal Pure Land finally breaks through the clouds and the light returns, then we shall drink ourselves into a blissful stupor, until the end of time.”
 
-"Fine!!" Yun Che did not offer consolation, but nodded heavily. "Since the Eternal Pure Land is already within reach, the light Big Brother has been praying for is naturally at your fingertips. I shall watch Big Brother’s figure from afar and quietly await that day."
+“Very well!!” Yun Che offered no consolation, merely nodding firmly. “The Eternal Pure Land is now within arm’s reach. The radiant light you have long yearned for must be within reach as well. I shall gaze upon your figure from afar and quietly await the arrival of that day.”
 
-Mo Su closed his eyes briefly. When he opened them, his smile was still shallow. "Given Xiao Die’s temperament, she would surely like you very much. That day is truly something to yearn for with madness... Brother Che, do not forget the journey to the Pure Land in ten years."
+Mo Su closed his eyes briefly. When he opened them again, a faint smile still lingered on his lips. “Knowing Xiaodie, she would surely take a great liking to you as well. When the day comes... the wait is almost enough to drive me mad. Brother Che, do not forget our journey to the Pure Land ten years from now.”
 
-After giving that seemingly redundant reminder once more, Mo Su floated into the air.
+By the time he repeated that seemingly superfluous reminder, Mo Su had already risen into the air.
 
-"Big Brother!"
+“Big Brother!”
 
-Yun Che suddenly called out to him, but after speaking, he showed hesitation. After a few breaths, he said, "Could Big Brother leave me a sound transmission stone or a similar vessel so I can contact you at any time?"
+Yun Che suddenly called out to him. However, he hesitated for a good few breaths before he finally spoke up again, “Big Brother, can you please leave me a Sound Transmission Stone—or something similar—that would allow me to contact you at any time?”
 
-"Oh?" Mo Su looked back, his eyes filled with a smile. "With the temperament you inherited from Big Brother Ni Xuan, you naturally disdain any form of protection. I presume there is some unresolved matter?"
+“Oh?” Mo Su turned to look at him, a smile in his eyes. “Given the temperament you inherited from Big Brother Ni Xuan, you would naturally scorn any form of protection. I suppose there is some unresolved matter?”
 
-Yun Che said, "Big Brother has eyes like torches; it is indeed so. Before my master passed away, he entrusted a precious item to me. After meeting Big Brother, I feel this item might be more suitable in your hands. However... my master’s entrustment remains unfulfilled, and I feel some hesitation."
+Yun Che replied, “Your insight is as bright as a torch, Big Brother. That is correct. Before Maser passed away, he had entrusted a precious object to me. Since meeting you, I’ve felt that this item might be better suited in your hands, but... since I haven’t yet fulfilled Master’s request, I just can’t help but feel hesitant about this matter.”
 
-Mo Su did not say much, nor did he ask further. Instead, he tapped his finger, and a speck of pale light slowly floated down into Yun Che’s hand, condensing into a piece of lustrous white warm jade entwined with a faint soul light.
+Mo Su said nothing more and did not press the matter. Instead, he tapped his finger lightly and sent a faint, pale glow drifting down into Yun Che’s hand. It coalesced into a luminous white jade stone, wrapped in a faint aura of soul light and warm to the touch.
 
-"Crush this jade, and I will appear. No matter when, no matter what the matter is."
+“Crush this jade, and I shall appear. No matter the time, and no matter the situation[1].”
 
-Without a doubt, as long as Yun Che was willing, this could be a life-saving stone that could easily resolve any crisis in the Abyss.
+There was no doubt that, if Yun Che so desired, the jade could serve as a lifesaving talisman capable of defusing any peril he might encounter in the Abyss effortlessly.
 
-Yun Che tucked it away with a solemn expression. "Good. Once I have made my decision, I will invite Big Brother to meet."
+With a solemn expression, Yun Che put it away. “Very well. When I’ve made my decision, I’ll certainly invite you for a meeting.”
 
-Mo Su nodded slightly, and his figure vanished into the sky above, leaving not a single ripple of profound energy behind.
+Mo Su gave a slight nod, and his figure vanished into the sky. He left not a single ripple of profound energy behind.
 
-Yun Che did not immediately retract the barrier. He stood still, lost in deep thought for a long time.
+Yun Che did not immediately dispel the barrier. Instead, he stood motionless in place, lost in deep thought for a long time.
 
-Li Suo whispered, "To the myriad spirits of the world, he views them as mere grass; yet to Pan Xiaodie, his affection is etched into his very bones. So, is he a heartless person, or a person of supreme devotion?"
+Li Suo murmured softly, “The myriad beings of the world are nothing but mere chaff to him, yet his affection for Pan Xiaodie runs as deep as blood and bone. Is he a heartless man, or a man of profound devotion?”
 
-Yun Che spoke unhurriedly, "The union of those two contributed greatly to the destruction of both the God and Devil races, marking the end of an era. The burden Mo Su carries is not just that, but also the monstrous sin Pan Xiaodie committed for him... I am not Mo Su, so I cannot truly feel what he feels. But having spent this time reflecting on his life, I’ve begun to feel that after enduring such experiences, it wouldn’t be surprising no matter how extreme a person he became."
+Yun Che replied slowly, “Their union was, to a large extent, the catalyst for the downfall of the god race and the devil race. The burden Mo Su bears goes beyond that—there is also the heinous crime Pan Xiaodie committed for his sake... I am not Mo Su, so I cannot truly empathize with him. However, I’ve been reflecting deeply on his life as of late, and I’m beginning to realize that, having endured such experiences, it’s hardly surprising that he turned out to be such an extreme individual.”
 
-"Will he come here often in the future?" Li Suo asked with some concern. Clearly, she feared Yun Che might expose some secret because of this... after all, that was the Abyss Sovereign Mo Su.
+“Will he come here often from now on?” Li Suo asked with a hint of concern. Clearly, she feared that Yun Che would inadvertently reveal some of his secrets... his opponent was Mo Su, the Abyssal Monarch after all.
 
-"No," Yun Che said with relative certainty. "I am not surprised he came to find me. After all, with my 'identity,' I am the only person in this world he is willing to humble himself for and be close to. Three million years of loneliness will inevitably cause uncontrollable ripples in his heart. But... this will likely be the only time. Because he will soon realize that every bit of comfort he felt will turn into deeper guilt once he wakes up."
+“He wouldn’t,” Yun Che declared with a fair amount of certainty. “I wasn’t surprised in the slightest that he came looking for me on his own. After all, given my ‘status’, I am the only person in the entire world he is willing to lower himself to be close to. After more than three million years of solitude, he was bound to feel an uncontrollable surge of emotions. But... this will likely be his first and last visit. It’s because he’ll soon realize that every moment of comfort he felt while he was intoxicated will only turn into deeper guilt when he is sober.
 
-"As long as Pan Xiaodie does not wake, he will never be able to release his heart."
+“As long as Pan Xiaodie remains unconscious, he’ll never be able to feel at ease.”
 
-"So..." Li Suo seemed to understand. "Was your sentence earlier intended to provoke him?"
+“So...” Li Suo seemed to understand something. “You intentionally made that remark to provoke him?”
 
-"In a way," Yun Che said. "Even if I didn't intentionally provoke him with words, he would still blame and bind himself after sobering up. I simply accelerated the process. After all, when facing him just now, I couldn't use any method to dispel the alcohol. If we kept drinking... I feared I might misspeak."
+“You could say that,” Yun Che replied. “Even if I hadn’t deliberately provoked him, he would have tormented himself with guilt once he sobered up anyway. I merely accelerated the process. After all, I couldn’t dispel the effects of the alcohol by any means while I was facing him, and if I had kept drinking... I feared that I would truly lose control of my tongue.”
 
-Even if Mo Su could truly allow himself to be drunk to the point of losing his soul, Yun Che absolutely could not.
+Mo Su might be able to allow himself to drink until he had lost all sense of self, but he absolutely could not.
 
-Suddenly, Yun Che’s soul sea flickered.
+Suddenly, Yun Che’s soul sea stirred unnaturally.
 
-"What is it?" Li Suo asked immediately.
+“What’s wrong?” Li Suo asked immediately.
 
-"..." Yun Che shook his head slightly. "It’s nothing. Just many reflections touching my heartstrings."
+“......” Yun Che shook his head slightly before answering, “It’s nothing. Just my heartstrings being tugged by a flood of emotions.”
 
-Li Suo knew he wasn't being entirely truthful, but she did not ask again.
+Li Suo knew he wasn’t being honest, but didn’t press the matter.
 
-That sensation of being watched...
+That feeling of being watched again....
 
-The soul trauma from the Punishment of Desolate Devouring had already healed, but that feeling of being peered upon still existed, whether here or in the Sea of Mist. Even just now, while drinking with Mo Su...
+The soul injuries I’ve received from the punishment of devouring rage had already healed, yet the feeling that I’m being watched is still present—be it here or the Endless Fog.
 
-Yet Mo Su had no reaction.
+Even just moments ago, while drinking with Mo Su....
 
-Was it something even he couldn't detect, or did this so-called "peering" not exist at all... or perhaps...
+But Mo Su hadn’t shown any reaction.
 
-At that moment, he sensed Meng Jianxi’s aura rapidly approaching, tinged with anxiety.
+Was it so subtle that even he couldn’t detect it, or did it not exist, and is all just my imagination....
 
-Yun Che reached out and waved away the barrier, commanding, "Laisheng, go out and welcome Divine Son Jianxi into the hall. No need to announce."
+Or perhaps....
 
-Soon, Meng Jianxi arrived before Yun Che and got straight to the point: "Brother Yuan, the head of the Night Watchers³ from the Eternal Night Divine Kingdom, Shenwu Mingque, has personally come to visit. However, she didn't come to see Father God or the Chief Hall Master, but requested to see me. This matter is truly strange."
+Just then, he sensed Meng Jianxi’s aura approaching rapidly. It was tinged with urgency.
 
-"Oh? To see you?" Yun Che looked puzzled. After a brief deliberation, his eyes narrowed, and he whispered, "It seems it’s for that dragon-shaped Abyss Crystal?"
+Yun Che dispelled the barrier and ordered, “Laisheng, please escort Divine Son Jianxi to the palace. There is no need to report this.”
 
-Meng Jianxi’s mouth opened slightly, followed by a sigh of genuine admiration. "As expected of Brother Yuan. I pondered for a long time and also felt this was the most likely reason. If that is indeed the case, since this crystal was obtained by Brother Yuan, if any involvement is required, it should be decided by you."
+Very soon, Meng Jianxi walked up to Yun Che and cut straight to the point. “Brother Yuan, the head of the Night Patrol Officer of the Eternal Night Kingdom of God, Shenwu Mingque, is visiting in person. However, she has requested an audience not with Father or the Chief Lord, but with me. It is most unusual.”
 
-Yun Che adopted a thoughtful pose while Meng Jianxi waited in silence. After a long time, Yun Che spoke calmly: "They just caused a great grievance, yet now they have the face to come to our door—and the head of the Night Watchers, no less. It seems the one in urgent need of this dragon-shaped crystal is surely that Wuming God-Sovereign."
+“Oh? She’s requesting an audience with you?” Yun Che wore a puzzled expression. After a moment of thinking, he narrowed his eyes slightly and murmured, “Is she here for that dragon-shaped abyssal crystal?”
 
-"With Wuming God-Sovereign’s temperament, if she fails to obtain it, she will never let it go. Since we do not know the secrets or the use of this dragon-shaped crystal, we might as well give it to her, but..."
+Meng Jianxi’s lips parted slightly, and a heartfelt sigh of admiration escaped him. “As expected of you, Brother Yuan. I’ve been racking my brain for quite some time, and I too believe that is the most likely scenario. Assuming this is indeed the case, you are the one who obtained the abyssal crystal. Thus, any decision regarding it should be left to your judgment.”
 
-He paused, turning his gaze toward Meng Jianxi. "Remember: first, this crystal was found by a member of your household by chance in the Sea of Mist. It must not involve me, and certainly not Long Jiang. Second..."
+Yun Che feigned a look of deep thought while Meng Jianxi waited patiently. A long time later, Yun Che said in a calm tone, “To come calling so soon after fostering such deep animosity—and for the head of the Night Patrol Officers to show up, no less—it stands to reason that the one desperately in need of this dragon-shaped abyssal crystal is none other than the Lightless Divine Regent.
 
-A cold light of undisguised malice flashed in his eyes. "With a grudge before us and a request behind them, what reason do we have not to... open our mouths wide like a lion!"
+“Given the Lightless Divine Regent’s temperament, she will never give up if she fails to obtain it. We know nothing about this abyssal crystal’s secrets or uses. It would be better to simply hand it over to her, but....”
 
-Meng Jianxi understood and nodded silently.
+He paused, then turned his gaze toward Meng Jianxi. “Remember this well: One, this abyssal crystal was accidentally discovered by one of your subordinates in the Endless Fog. It must not be linked to me, and definitely not Long Jiang. Two....”
 
-...
+A cold glint of undisguised malice flashed in his eyes. “Considering our past grievances and present demands, what reason do we have not to... make exorbitant demands of her, am I right?”
 
-Returning to his manor, Meng Jianxi could already sense that gloomy, murderous aura unique to the Eternal Night Divine Kingdom from a distance. He quickly straightened his attire and bowed as he entered: "Senior Shenwu’s presence at my humble manor brings me overwhelming trepidation. Due to some trivial matters outside, I was unable to welcome you personally. It is truly disrespectful; I hope Senior can be magnanimous."
+Meng Jianxi understood his meaning and nodded silently.
 
-Shenwu Mingque turned around and said indifferently, "Divine Son Jianxi, there is no need for pleasantries. I have come today without prior notice to ask for your assistance with a matter."
+Upon returning to his residence, Meng Jianxi immediately sensed that distinctive, gloomy aura unique to the Eternal Night Kingdom of God long before he reached the room. He swiftly composed himself and, upon entering the room, bowed in a hurry and said, “Your presence at my humble abode fills me with awe, Senior Shenwu. I was away attending to trivial matters and was unable to greet you in person. This is truly a breach of etiquette; I humbly ask for your forgiveness.
 
-Meng Jianxi hurriedly said, "Senior, your words are too heavy. If it is within my capability, you need only command. The word 'ask' is something I absolutely cannot accept."
+Shenwu Mingque turned around and said plainly, “There is no need for such formalities, Divine Son Xi. The reason I have arrived unannounced is that I have a matter in which I seek your assistance.”
 
-Shenwu Mingque’s gaze was dark, her emotions difficult to read... it was not the usual deep, cold majesty of a high-ranking person, but a lusterless gloom born of a person whose dignity had been crushed and trampled for years, whose convictions had long since been twisted and alienated.
+Meng Jianxi replied hastily, “You flatter me, Senior. If it is within my power, please simply give me your orders and avoid putting the burden of a request on me.”
 
-She looked at Meng Jianxi, her heart filled with sighs... Dreamweaver and Eternal Night had just formed a blood feud in the Pure Land; this was known to almost the entire world. Yet the Dreamweaver Divine Son before her was perfectly courteous and composed, without a single flaw or crack in his demeanor, as if there had never been any rift between the two nations.
+Shenwu Mingque’s eyes were dark and inscrutable... yet it was not the profound, icy aura typical of those in high positions, but rather the dim, lifeless glow of one whose dignity had been trapped upon for untold years, and belief that had long since been warped and corrupted.
 
-Such age and temperament, such composure and shrewdness—she couldn't help but sigh. And above him, there was a Meng Jianyuan who was many times more outstanding.
+She looked at Meng Jianxi, her heart filled with sighs... Dreamweaver and Eternal Night had just incurred a deep enmity with each other in the Pure Land. It was a fact that was known to nearly the entire world. Yet the Dreamweaver Divine Son before her was impeccably courteous and unflappable, almost as if there had never been any rift or grudge between their two kingdoms.
 
-The future of the Dreamweaver Divine Kingdom was limitless, while the future of Eternal Night...
+Such youth and character, such composure and depth of calculation... she could not help but marvel at it. Yet, standing above him was another man who was immeasurably more extraordinary than he, Meng Jianyuan.
 
-Wiping away her stray thoughts, she spoke directly: "Since that is the case, I will not waste words. I heard by chance that Divine Son Jianxi recently obtained a dragon-shaped Abyss Crystal. However, not knowing its use, you have sent people everywhere to search for records and explore its secrets. I wonder if you have gained anything?"
+The Dreamweaver Kingdom of God’s future was immeasurable, but the Eternal Night Kingdom of God’s future was....
 
-Meng Jianxi looked up, a perfectly timed look of surprise on his face. "This... could it be that Senior has come specifically for that strange crystal shaped like a coiled dragon? Uh... to be honest with Senior, no one in our Dreamweaver Kingdom recognizes this crystal. My search thus far has yielded no results. Since Senior mentions it, could it be that you recognize it?"
+She pushed aside the distracting thoughts and said bluntly, “If that is your request, then I shan’t beat around the bush. I heard that you have recently obtained a dragon-shaped abyssal crystal. You have been sending people far and wide to search for records and uncover its secrets because you are unaware of its uses. I wonder if you have found anything, Divine Son Xi?”
 
-Shenwu Mingque watched every flicker of his eyes and slowly parted her lips: "Of course I recognize it. Its name is... the Coiled Dragon Seven Profound Crystal."
+Meng Jianxi looked up with a perfectly measured look of surprise, “Could... Could it be that you have come here solely for that strange abyssal crystal that is shaped like a coiled dragon, Senior? Um... to tell you the truth, no one in the entire Dreamweaver Kingdom of God recognizes it, and despite our searches, we have yet to find any answers. Since you’ve brought it up, could it be that you recognize this abyssal crystal?”
 
-Meng Jianxi’s brow twitched slightly, a flash of surprise flitting through his eyes—all of which was captured by Shenwu Mingque.
+While keeping an eye out for every flicker in his eyes, Shenwu Mingque said slowly, “Of course I do. Its name... is the Coiling Dragon Seven Profound Crystal.”
 
-"It seems Divine Son Jianxi has heard this name?"
+Meng Jianxi’s eyebrows twitched slightly, and surprise flashed behind his eyes... Shenwu Mingque had caught every single one of these reactions.
 
-Meng Jianxi made an effort to memorize all the intelligence gathered by the Xuanji Hall. Although the name "Coiled Dragon Seven Profound Crystal" existed only on the fringes of countless messages, it still allowed him to clearly recall it the moment he heard it.
+“It would seem that you have heard this name before, Divine Son Xi.”
 
-After a split-second weighing of options, Meng Jianxi did not deny it. Instead, he spoke very frankly: "I will not hide it from Senior; I have indeed heard of this name. Furthermore, this name originated from the Eternal Night Divine Kingdom; it must have been something my people in Xuanji Hall discovered by chance. If I have offended you, I hope Senior can forgive me."
+Meng Jianxi had gone to great lengths to commit every piece of intelligence gathered at the Xuanji Hall to memory. Though the name “Coiling Dragon Seven Profound Crystal” existed only on the fringes of countless reports, it still came back to him with crystal clarity the moment he heard it.
 
-"Hmph!"
+A breath of consideration later, Meng Jianxi replied honestly and with remarkable composure, “To tell you the truth, this junior has indeed heard that name, Senior. Moreover, it originated from the Eternal Night Kingdom of God. It must have been discovered by chance by someone from the Xuanji Hall. If I have offended you, I humbly ask for your forgiveness.”
 
-Shenwu Mingque let out a cold, lukewarm snort. "The ability of your country's Xuanji Hall to collect intelligence is unmatched under heaven. Since that’s the case, I no longer need to beat around the bush."
+Shenwu Mingque let out a faint, cold snort. “Everyone under the heavens is aware that the Xuanji Hall’s capabilities are unmatched in terms of intelligence-gathering. Since that is the case, I see no need to beat around the bush.”
 
-Her expression took on the stern majesty of an elder facing a junior, carrying a weight of pressure. Her tone was cold and detached: "Only my Eternal Night knows the name of that crystal you possess, and naturally, only my Eternal Night knows its use and how to use it. In your hands, it will only be a useless waste of a crystal."
+Her demeanor carried the solemn authority of a senior addressing a junior, and was accompanied by a subtle yet undeniable sense of pressure. In a cold, detached voice, she said, “Only we of the Eternal Night know of the name of the abyssal crystal you found. Naturally, only we are aware of its purpose and usage as well. In your hands, it will merely become a worthless, useless crystal.
 
-"To avoid wasting a heavenly treasure, it is most appropriate to hand this Coiled Dragon Seven Profound Crystal over to my Eternal Night. However, I naturally will not wrong you by making you hand it over for nothing, nor will I take advantage of your ignorance to devalue its worth."
+“To avoid wasting such a precious treasure, it would be best if we of the Eternal Night were to handle the Coiling Dragon Seven Profound Crystal. But of course, I won’t ask you to part with it for nothing, nor would I belittle its value simply because you know nothing of it, thereby reducing our own dignity.”
 
-At this point, a burst of pure, almost blinding white light appeared in Shenwu Mingque’s hand, instantly drawing Meng Jianxi’s gaze.
+As she spoke, a flash of white light—so pure it was almost blinding—appeared in Shenwu Mingque’s hand. It instantly captured Meng Jianxi’s gaze.
 
-"I shall exchange it for a complete Apocalypse Divine Jade⁴."
+“I shall offer an intact Divine Jade of Revelation in exchange for it.”
 
-Meng Jianxi’s eyes fell upon the Apocalypse Divine Jade, his eyes wide as if he were deeply shocked.
+Meng Jianxi’s eyes fell on the Divine Jade of Revelation, eyes widening in astonishment as if he was deeply shocked.
 
-This reaction allowed Shenwu Mingque to breathe a secret sigh of relief. Her demeanor remained as before, her voice gaining more pressure: "I heard by chance that three years ago, the Apocalypse Divine Jade you were bestowed was lost due to an accident, causing you to lose a stepping stone to the heavens in your future. It was a true pity."
+His reaction actually caused Shenwu Mingque to breathe a silent sigh of relief. Her demeanor remained unchanged, but her voice carried an added edge of authority, “I happened to hear that three years ago, you lost the Divine Jade of Revelation bestowed upon you due to certain circumstances. With it, you have also lost your path to ascension. It is truly a pity.
 
-"And today, your regret can be mended. To trade a useless crystal for this jade that leads to the heavens—in my view, you have no reason to refuse."
+“Yet, this regret can be remedied today, Divine Son Xi. Exchange your useless crystal for my Divine Jade of Revelation. In my opinion, you have no reason to refuse this.”
 
-
+1. Not a mistake. I suppose I could’ve translated this as, ‘No matter the matter what is troubling you, or the matter that is occupying me, but that’s so much more long-winded. ☜

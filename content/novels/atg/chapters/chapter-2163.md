@@ -1,7 +1,7 @@
 ---
 chapterNumber: 2163
 title: "Cloud and Moon in the Mist (2)"
-publishedAt: "2025-12-23"
+publishedAt: "2026-05-30"
 ---
 
 “Are you satisfied with my answer, Divine Son Yuan?”
@@ -74,7 +74,7 @@ Shenwu Yi asked indifferently, “You’re saying that you intend to prevent the
 
 His answer came back without hesitation or fear. “There is no need for me to tell you what kind of existence the Abyssal Monarch and his four High Priests are. Even ignoring the Pure Land, countless experts in the Six Kingdoms of God can turn me to dust with the flick of a finger. But I, a mere Divine Master, must prevent the next activation of the Void Breaching Great Formation in less than fifty years regardless.”
 
-“It’s quite absurd and laughable, isn’t it?” Any profound practitioner of the Abyss would agree with him. However, Shenwu Yi, despite earlier insulting and taunting him, refrained from delivering a cutting remark.
+“It’s quite absurd and laughable, isn’t it?” Any profound practitioner of the Abyss would agree with him. However, Shenwu Yi, despite earlier insulting and taunting him, refrained from delivering a cutting remark. 𝒇𝙧𝙚𝓮𝔀𝓮𝒃𝙣𝓸𝒗𝒆𝒍.𝙘𝒐𝒎
 
 “This is why I had no choice but to resort to any means necessary... I donned layer upon layer of disguise, step by step, to blend in with this world. I used dirty tricks to get close to Hua Caili, employed despicable methods to become Meng Jianyuan... all to tear apart the alliance between the three kingdoms—Boundless, Heaven Breaker, and Dreamweaver—and sow the seeds of distrust and enmity.”
 

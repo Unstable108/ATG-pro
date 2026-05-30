@@ -1,139 +1,149 @@
 ---
 chapterNumber: 2171
-title: ""
-publishedAt: "2025-12-16"
+title: "Return"
+publishedAt: "2026-05-30"
 ---
 
-Within the profound ark's cabin, Yun Che closed his eyes and quieted his mind, carefully recalling and sorting through everything he had experienced in the Pure Land.
+In a boudoir, Yun Che meditated with his eyes closed. He was going through everything that had happened on the Pure Land in detail. Li Suo’s voice rang in his soul sea, “It’s rare to find your spirit in such a relaxed state. Is it because you gained more than expected during this journey?”
 
-Li Suo's voice echoed in his soul sea. "It's rare for your spirit to be so relaxed. It seems your trip to the Pure Land yielded a harvest beyond your expectations?"
+“No, that’s not it.”
 
-"Not exactly."
+Yun Che answered unhurriedly, “I need to recover my soul energy as soon as possible and confirm that that weird feeling of being spied on isn’t my imagination.”
 
-Yun Che spoke unhurriedly, "I must recover my soul force as soon as possible to determine whether that intermittent sense of being watched was truly an illusion."
+Li Suo answered, “Meng Kongchan has already answered your doubts. If you can sense it, there is no reason he wouldn’t be able to.”
 
-Li Suo said, "Meng Kongchan has already given you the answer. There is no reason he would be completely unaware of a prying gaze that you can perceive."
+Yun Che replied slowly, “I only trust myself.”
 
-Yun Che said slowly, "I only trust myself."
+Li Suo thought for a long time before asking softly, “You seem extremely concerned about this feeling—one that is highly likely to be your imagination—but... it doesn’t seem to me that you’re worried about it. Why’s that?”
 
-Li Suo pondered for a long while before saying softly, "You seem quite concerned about this strange sensation, which is very likely an illusion. Yet... I don't sense any worry from you about it. Why is that?"
+“That’s a good question.”
 
-"Good question."
+Yun Che’s eyebrows twitched as if he were puzzled by his own reaction. “It’s just, for whatever reason, I feel like this entity doesn’t harbor any ill will toward me. On the contrary...”
 
-Yun Che's brow twitched, as if he himself were somewhat perplexed. "I just have this inexplicable feeling that the other party bears no malice. On the contrary..."
+He tried to find a word to describe that weird feeling, but ultimately could not. In the end, he said, “I would prefer that that feeling is the imaginary product of my soul damage as well, but if it’s not...”
 
-For a moment, he couldn't find the right words to describe that subtle feeling. Finally, he said, "I'm also more inclined to believe it's a strange sensation born from my soul injuries. But what if it isn't..."
+“My opponent can spy on me without triggering Meng Kongchan’s perception, but I am able to detect them for some reason. I had teleported to and fro the Forbidden Zone of Slumbering Gods using the Void Breaching Great Formation, and yet their perception was able to trace me back all the way to the Pure Land... If such an entity truly exists, and they have set their sights on me, then beyond terrifying doesn’t even begin to describe it.”
 
-"This person can spy on me while evading Meng Kongchan's perception, yet I can somehow sense them. I traveled between the Pure Land and the God-Burying Forbidden Domain via the Void-Shattering Grand Array, yet they could follow me from the Forbidden Domain to the Pure Land... If such an existence truly exists in this world and has inexplicably taken an interest in me, that would be truly terrifying."
+“Still, it couldn’t be the legendary Lord of the Abyss, could it?”
 
-"It couldn't possibly be the legendary Lord of the Abyss, could it?"
+Yun Che said in a joking tone, “Did they awaken prematurely and find out that I am pretending to be him? Is that why... but no. This isn’t right either. Mo Su once said that he could not appear in lands with thin concentrations of abyssal dust, much less the Pure Land.”
 
-Yun Che said in a jesting tone, "Could it be that he woke up early, found out I dared to impersonate him, and so... Oh, that's not right either. Mo Su said he cannot appear in places where the Abyssal Dust is thin, let alone the Pure Land."
+Li Suo mulled over Yun Che’s words carefully before saying, “When you have eliminated all other possibilities, the only one remaining must be the truth. You endured the punishment of devouring rage for two hundred breaths and earned over three thousand soul wounds as a result. Right now, half of them remain unhealed. You should stop thinking and focus on recovering in the next month or so.”
 
-Li Suo mulled over Yun Che's words, then said gradually, "Indeed. When all possibilities are ruled out, the only one remaining is that it's a strange sensation from your soul injuries. You withstood two hundred breaths of the Desolate Gnawing punishment, which left over three thousand wounds on your soul. Half of them have yet to heal. Don't overthink it. It would be best to quiet your mind and rest your spirit as much as possible for the next month."
+Yun Che gave her suggestion some thought before agreeing, “Fine, fine. No matter how I think about it, it just doesn’t make sense that there’s something out there that I can sense, but not Meng Kongchan, and their perception had seamlessly followed me all the way from the Forbidden Zone of Slumbering Gods to the Pure Land... I mean, unless it’s me spying on myself—”
 
-Yun Che thought for a moment and agreed. "Alright, alright. No matter how I think about it... for me to be able to sense something Meng Kongchan can't, for someone to be able to follow me seamlessly from the God-Burying Forbidden Domain to the Pure Land... it truly defies all logic. It can't be that I'm spying on my own..."
+Yun Che suddenly fell silent, and his soul strings pulled taut.
 
-His voice stopped abruptly, and the strings of his soul suddenly tensed.
+Li Suo’s voice immediately grew urgent. “What’s happening?”
 
-"!?" Li Suo's voice was instantly urgent. "What happened?"
+Yun Che opened his eyes a little, and his soul strings slowly relaxed. Then, he cracked a natural smile and said easily, “It’s nothing. I overreacted a little because my soul injury acted up. I knew I shouldn’t be overthinking things[1].”
 
-"..." Yun Che opened his eyes slightly, the taut strings of his soul gradually relaxing. A natural smile bloomed on his lips as he said in a very relaxed manner, "It's nothing. Probably just my soul injuries acting up, giving me a sharp pang of pain. It really is better not to overthink things."
+Li Suo was connected to Yun Che by soul, so she could tell that he wasn’t telling the truth. However, since he did not wish to speak about it, she did not press him for answers. She took the initiative to change the subject, “So, what is the deepest impression you’ve gotten from your Pure Land journey?”
 
-Li Suo was, after all, attached to Yun Che's soul. She could sense his insincerity, but since he put it that way, she didn't press further. Instead, she proactively changed the subject. "What was your greatest impression from the trip to the Pure Land?"
+Yun Che responded with one word only, “Division.”
 
-Yun Che's reply was just two simple words: "Fractured."
+“Di... vision??”
 
-"Frac... tured??" Li Suo murmured the word. "What do you mean?"
+Li Suo whispered the word before asking, “What do you mean?”
 
-Yun Che slowed his voice. "The Eternal Pure Land is a legendary place in the Abyssal World, like a paradise from a distant realm. Now that it's within reach, the God Kingdoms' excitement is palpable. But the Four God Officials..."
+Yun Che slowed down his speech. “To the Abyss, the Eternal Pure Land is a legendary place as distant and untouchable as the celestial realm. Now, it is closer than ever before, and the Kingdoms of God can hardly control their excitement. But the Four High Priests...”
 
-"The Grand God Official's emotions are unreadable, so I can't say for sure. As for the other three... the Six Smiles God Official is engrossed in the culinary arts, having severed all other thoughts; the Myriad Paths God Official claims to savor all paths and seems to be a man of extreme indulgence; the Spirit Immortal God Official sees all thoughts as illusions, her will to die greater than her will to live. At least in my close contact with them, I couldn't sense the slightest bit of longing or excitement for the Eternal Pure Land."
+“The Chief Priest is stoic and reticent, so I can’t say what he is thinking. The other High Priests, though... High Priest Liu Xiao is fully absorbed in the culinary arts and chooses to abandon all other pursuits of his own accord. High Priest Wan Dao claimed to be a man who indulged in every way, so it seems he was a person who pursued extreme extravagance. High Priest Ling Xian sees all thoughts as illusions, and her resolve to die outweighs her will to live.”
 
-"Then... what about the Abyss Monarch?"
+“From my perspective at least, I cannot sense the slightest bit of desire or excitement toward the Eternal Pure Land.”
 
-Yun Che's eyes narrowed slightly, and his tone grew heavier. "What the Qilin God said back then had already given me high expectations for the weight of his 'obsession,' but... when he spoke so indifferently about the life and death of this world, I still couldn't help but feel suffocated for several breaths. Moreover..."
+“So... what about the Abyssal Monarch?”
 
-"The 'miracle of life' I had planned in my heart was met with his indifference. As such, to ensure he won't intervene when the hidden thunder detonates, I will have to prepare other methods."
+Yun Che squinted a little, and his voice grew a tad heavy. “I had adjusted my expectations accordingly after hearing what the Qilin God had to say back then, but the weight of his ‘obsession’ is... I still found myself stifled for several breaths when he spoke of the existence and destruction of the Abyss like it was nothing...”
 
-Li Suo said, "But... the Abyss Monarch never intervenes in the affairs of the God Kingdoms. Is it not highly likely that this preparation of yours is redundant?"
+“Besides that, he completely brushed aside the ‘Divine Miracle of Life’ I had prepared. Therefore, I must prepare some other methods to ensure that he would not interfere when I activate my hidden traps.”
 
-Yun Che's voice, however, was endlessly resolute. "What I want is for him to 'absolutely' not intervene. No matter what, I cannot leave the initiative to his own will. And to ensure he remains indifferent to everything, it must be a matter concerning... the Pan Xiao Butterfly¹!"
+Li Suo said, “But... the Abyssal Monarch never involves himself in the matters of the Kingdoms of God. There is a very high chance that your method would turn out to be unnecessary.”
 
-Rumble—
+Yun Che’s voice was fully determined. “A very high chance is not good enough, and surrendering the initiative to your opponent is never a good solution. He must not interfere with the matters of the Kingdoms of God, no matter what, and the only way to ensure this... is Pan Xiaodie!”
 
-A vast aura rapidly approached, accompanied by an increasingly loud spatial hum. Yun Che stood up. Before he could even step out, an ethereal girlish voice came from afar, "Big Brother Yun!!"
+It was at this moment that a vast presence rapidly approached their profound ship. The spatial rumbles were coming ever closer. Yun Che rose to his feet, but before he could take even a step forward, a young woman’s ethereal voice hit him first. “Big Brother Yun!”
 
-The two great profound arks of Heaven Breaker and Weaver Dream slowly drew near. Before they connected, Hua Caili's figure had already darted across, swiftly approaching Yun Che's aura... with a helpless-looking Hua Fuchen trailing behind her.
+The profound ships Heaven Breaker and Dreamweaver were approaching one another slowly. Even before they connected, Hua Caili was already flying toward the Dreamweaver profound ship and moving toward Yun Che’s presence at high speed. Following behind her was an exasperated-looking Hua Fuchen.
 
-Yun Che went forward to greet them, calling out "Senior" from a distance, but was immediately grabbed by the arm by Hua Caili. Her eyes held a hint of shyness and a great deal of anticipation as she chirped, "Big Brother Yun, I want to go with you to the Weaver Dream God Kingdom to see the place where you were born and where you live."
+Yun Che flew up to meet them while greeting Hua Fuchen. “Senior.” By the time the word left his mouth, Hua Caili was already grabbing his arm and looking at him with three parts embarrassment and seven parts anticipation, chirping, “I’ll come with you to the Dreamweaver Kingdom of God, Big Brother Yun. I want to see the place where you were born and where you live.”
 
-Hua Fuchen, who was just about to greet Meng Kongchan, was stunned by her words. His eyes widened as he shouted, "What nonsense are you spouting! Absolutely not!"
+Hua Fuchen was just about to greet Meng Kongchan when he heard this. Wheeling around with a stern look, he barked, “What nonsense are you talking about? Absolutely not!”
 
-Hua Caili, however, was not the least bit afraid. Standing close to Yun Che, she said with a grin, "I've already decided anyway. It's useless even if Father God objects."
+Hua Caili was fearless. She giggled while clinging to Yun Che, “I already made up my mind, Father. Your objection is useless.”
 
-"Nonsense!" Hua Fuchen reached out, intending to pull her back, but retracted his hand halfway. His tone, however, did not soften in the slightest. "Although the obstacle between you and Yun Che is gone, it doesn't mean you can act so willfully!"
+“Foolish girl!”
 
-Meng Kongchan waved his hand with a smile. "Brother Fuchen, calm down. Caili is still young and inexperienced. Just talk to her properly."
+Hua Fuchen reached out to pull her back to his side, but he stopped himself and withdrew his hand halfway. However, his tone did not relax in the slightest. “Although nothing stands between you and Yun Che anymore, that does not mean you can act recklessly or willfully!”
 
-"Why?" Hua Caili's face was full of reluctance and confusion. "For the past three years, you forbade me from seeing Big Brother Yun. Now everyone knows about us, and even Uncle Abyss Monarch has canceled the previous engagement. Why can't I even go to Big Brother Yun's place??"
+Meng Kongchan waved him off smilingly. “Calm down, Brother Fuchen. Caili is still young and inexperienced. Simply explain things to her, and she will understand.”
 
-Hua Caili made no effort to lower her voice, so one could imagine that everyone on both the Heaven Breaker and Weaver Dream arks heard her loud and clear.
+“But why?”
 
-A muscle in Hua Fuchen's brow twitched. He had no choice but to speak plainly. "You are a young woman, and the Divine Maiden of the Heaven Breaker God Kingdom at that, chasing after a man to his home... What would people say? This is utterly improper!"
+Hua Caili looked extremely reluctant and puzzled. “I understand why you haven’t let me see Big Brother Yun for the past three years, but everyone knows about our relationship now. Even Uncle Abyssal Monarch has canceled my engagement. All I want to do is visit Big Brother Yun’s place. Why can’t I do something so simple??”
 
-"Eh?" Hua Caili blinked, glanced at Yun Che beside her, then back at her father, clearly not understanding the scruples. "Why not? Auntie said that back then, for Father God's sake, Mother crossed half the Abyssal World to travel alone to the Heaven Breaker God Kingdom."
+Hua Caili wasn’t hiding her volume at all, so everyone in both ships could hear her loud and clear.
 
-"..." Hua Fuchen's gaze froze, and he was speechless for a long time.
+Hua Fuchen’s brow throbbed. Realizing that the only way to make Hua Caili understand was to be direct, he said, “You are a girl and the Divine Daughter of the Heaven Breaker Kingdom of God! It is a scandal for you to make haste to a man’s place! A scandal!”
 
-"Caili," Yun Che said softly, "Although I, like you, wish we could be together day and night, right now, it is indeed not suitable for you to return with me to the Weaver Dream God Kingdom."
+Hua Caili blinked and glanced back and forth between Yun Che and her father one time. It was clear she did not understand the misgivings regarding the issue. “Why not? Aunt told me that Mother once crossed half the Abyss just to travel to the Heaven Breaker Kingdom of God and meet up with you.”
 
-"Ah?" A look of deep disappointment instantly clouded Hua Caili's jade-like face. "Why?"
+Hua Fuchen’s gaze stilled, and he was unable to say a word for a long, long time.
 
-Yun Che explained in a gentle tone, "First, although there are no more obstacles between us... our fates are, after all, connected to a great extent with the Heaven Breaker and Weaver Dream God Kingdoms. We have not yet been formally engaged, let alone exchanged betrothal gifts. You are the esteemed Divine Maiden of Heaven Breaker. If you were to take the initiative to stay in Weaver Dream for a long time, it would surely invite gossip from the world about the Heaven Breaker God Kingdom."
+“Caili,” Yun Che said softly, “I yearn to be by your side day and night as well, but right now really isn’t a good time for you to return to the Dreamweaver Kingdom of God with me.”
 
-Though her expression was dejected, Hua Caili listened obediently, a stark contrast to her subconscious retorts to Hua Fuchen earlier. The sight made the Heart Spirit God Sovereign sigh inwardly.
+Hua Caili’s jade-like face was immediately filled with disappointment. ‘Why though?”
 
-"Second, although the Abyss Monarch has dissolved your engagement with Dian Jiuzhi, the Absolute Beginning God Sovereign has been thoroughly enraged. For the two Senior God Sovereigns, this will be a tremendous emotional blow that is almost incomprehensible to us. Therefore, to allow the two seniors to resolve this matter, we must avoid doing anything that might provoke the Absolute Beginning God Kingdom for the time being."
+Yun Che explained gently, “For one, although nothing stands in our way anymore, our fates... are ultimately tied to our Kingdoms of God to a great degree. Currently, we have neither officially engaged nor exchanged marriage certificates or betrothal gifts. As the esteemed Heaven Breaker Divine Daughter, your extended presence in Dreamweaver will inevitably invite criticism toward the Heaven Breaker Kingdom of God.”
 
-Hua Fuchen and Meng Kongchan exchanged a glance, both feeling greatly comforted.
+Although she looked downcast, Hua Caili obediently listened to Yun Che’s every word. It was like she was a completely different person from the disobedient girl who argued against her father until he was speechless. The Heart Painter Divine Regent could not help but sigh at this.
 
-"Third..." Yun Che lowered his voice slightly. "Actually, when the Spirit Immortal God Official summoned me earlier, she bestowed upon me nine drops of Vermilion Bird's source blood."
+“Two, although the Abyssal Monarch had annulled your engagement with Dian Jiuzhi, the Boundless Divine Regent had also been utterly enraged. To our two seniors, this represents a profound wound of the heart that we can scarcely comprehend. Therefore, we should avoid any actions that may provoke the Boundless Kingdom of God for now and allow them the time they need to resolve this matter.”
 
-At these words, not only did Hua Caili's cherry lips part slightly, but Hua Fuchen also showed a look of astonishment. "Such a thing happened?"
+Hua Fuchen and Meng Kongchan exchanged glances with each other. They both looked grateful and comforted.
 
-"Mm." Meng Kongchan nodded slightly, feigning a casual tone. "But it wasn't to thank him for the Primordial Flame Crystal. Rather, after the Spirit Immortal God Official met Yuan'er, she felt deeply that there could be no more outstanding successor to the Vermilion Bird in the entire world, so she forced Yuan'er to accept this gift... Mm, that's how it was."
+“And three...”
 
-"..." Hua Fuchen averted his gaze, offering no response.
+Yun Che lowered his voice a little, “When High Priest Ling Xian summoned me earlier, she had bestowed me with nine drops of Vermillion Bird origin blood.”
 
-"Granny Spirit Immortal actually..." After her surprise came an excitement several times greater. "I understand now. Big Brother Yun needs time to refine the Vermilion Bird's source blood. I really shouldn't disturb you at a time like this."
+Hua Caili’s vermilion lips parted a bit when she heard this. Even Hua Fuchen looked surprised. “Is that true?”
 
-"Having Caili by my side could never be a disturbance," Yun Che quickly corrected. "It's just that I do need to refine the first drop of source blood immediately, and I'll have no time to attend to my Caili. But I promise, in three months at most, I will go to the Heaven Breaker God Kingdom to be with you."
+Meng Kongchan nodded slightly and said with feigned indifference, “It’s not because she wants to thank him for the Primal Flame Crystal. It’s because High Priest Ling Xian realizes that there will never be a better inheritor of the Vermillion Bird than Yuan’er after meeting him. So, she forced Yuan’er to accept this gift... yep, that’s how it goes.”
 
-"Okay." She reached out and grasped his fingers, smiling faintly. "You said it, three months at most. No going back on your word. Otherwise, I'll have Auntie take me to the Weaver Dream God Kingdom to personally drag you back."
+Hua Fuchen pointedly looked away from Meng Kongchan and refused to respond.
 
-The profound arks separated, each heading into the distance. Yun Che's figure quickly receded in Hua Caili's vision until he became a blurry speck of light, yet her gaze remained firmly fixed upon him. Even after that faint speck of light vanished over the horizon, Hua Caili maintained her distant gaze, like a jade statue frosted over, unmoving for a long, long time.
+“Grandma Ling Xian actually...”
 
-A breeze carrying a hint of the Pure Land's air brushed past the ends of her hair. A few stray strands clung to her creamy cheeks, carrying a cool dampness. At some point, crystalline tears had silently rolled down from between her long lashes, glinting with a fine, hazy light, refracting an unscattered longing and melancholy.
+After her initial surprise had passed, surprise and excitement several times greater than her original surprise erupted. “I understand! You need time to refine the Vermillion Bird origin blood. I definitely shouldn’t disturb you during this time.”
 
-Hua Fuchen, who was about to approach, stopped in his tracks. His emotions were complex; for a moment, he didn't know whether to feel heartache or to scold her. She was the dignified Divine Maiden of Heaven Breaker, a miraculous prodigy who had touched upon the fourth Heaven Breaker Sword in less than half a sixty-year cycle²... yet she was shedding tears over a brief separation of a mere three months.
+“Your presence will never constitute a disturbance to me.” Yun Che hurriedly corrected her. “That said, I do need to refine the first origin blood drop right away, and I will not have the time to keep you company during this time. That said, I promise I will visit you at the Heaven Breaker Kingdom of God in three months at most.”
 
-The Radiance Sword Sovereign walked over and said with a smile, "The emotions of youth are just so sincere and ardent. It makes one sigh with emotion, and even more so, with envy. But Yun Che of the Weaver Dream God Kingdom is indeed worthy of Caili's affection."
+“Okay.” 𝒻𝑟𝘦𝘦𝘸ℯ𝒷𝑛𝘰𝓋ℯ𝘭.𝘤𝘰𝘮
 
-These words managed to dispel the sour feeling in Hua Fuchen's heart. He followed with a faint smile. "Yes, they are young after all. She was born ten thousand years ago, so I often forget that her actual age is just over twenty."
+She grabbed Yun Che’s fingers tightly and wore a small smile. “You promised! Three months at most. You’re not allowed to break your word. Otherwise, I will ask Aunt to bring me to the Dreamweaver Kingdom of God and kidnap you ourselves.”
 
-"So be it." He turned away, not wanting to disturb Hua Caili's sorrow. "Let her be disappointing if she must. After all, that Yun boy... he is indeed worth it. Hahahaha... Sigh."
+The profound ships parted ways after that and went their respective ways. Yun Che’s figure rapidly shrank in Hua Caili’s vision, but she kept staring at him even after he became a blurry star on the horizon. She was still standing at the edge of the ship and looking at the horizon when the blurry star had vanished completely from view. Like a frost-covered jade statue, she remained motionless for a very, very long time.
 
-...
+A gust carrying some of the Pure Land’s aura brushed past her face and caused a few strands of hair to become stuck to her cheek. Strangely, they felt cold and wet. As it turned out, translucent tears had rolled down her long eyelashes and stained her cheeks before she knew it. They glittered faintly and hazily with lingering yearning and sorrow.
 
-Upon returning to the Weaver Dream God Kingdom, Meng Kongchan gave himself no time to rest. He immediately gathered the masters of the major Dream Halls and began preparations for the Eternal Pure Land. It was conceivable that for a long time to come, the entire God Kingdom would be extremely busy, its atmosphere changing abruptly.
+Hua Fuchen was going to approach Hua Caili, but the sight of his daughter crying silently caused him to stop in his tracks. Heart stirring with complicated emotions, he wasn’t sure whether he should pity her or reproach her for a time. She was the formidable Heaven Breaker Divine Daughter and a miraculous prodigy who mastered the fourth Heaven Breaker Fourth Sword style in less than half a sexagenary year... yet here she was, shedding tears over a mere three months of separation.
 
-"Brother Yuan, Father God has already instructed that you are to rest and recuperate for the coming period. Focus on refining the Vermilion Bird's divine blood bestowed by the Spirit Immortal God Official, and pay no mind to external affairs. If anything major happens, I will personally inform you at the first opportunity."
+Yaoguang Sword Sovereign walked up to him with a smile. “The passions of youth are always so bright and intense. It evokes admiration and even more envy. Then again, Yun Che of Dreamweaver is worth it.”
 
-Yun Che didn't respond directly, instead saying, "Before that, I need to make a trip to the Heavenly Jade Hall."
+His words dispelled the jealousy in Hua Fuchen’s heart and caused him to crack a heartfelt smile. “Yes, she is so very young, isn’t she? She was born over ten thousand years ago, so I often forget that she is really just twenty.”
 
-Meng Jianxi was taken aback but didn't ask further, nodding. "Alright, I'll go with you."
+“Oh well.”
 
-When they were leaving the Pure Land, Shen Wuyi had made a gesture of pointing a single finger to her ear... The most likely meaning Yun Che could think of was that she wanted him to carefully investigate information about the Eternal Night God Kingdom. And the "seven orifices³" she had mentioned afterward might be the key hidden within.
+He turned away so as not to disturb Hua Caili. “She’s debasing herself, but whatever. As you say, that boy is worth it, hahahaha... sigh.”
 
+Back in the Dreamweaver Kingdom of God, Meng Kongchan gave himself no time to rest. As soon as he returned, he swiftly assembled the Dream Lords and began the preparations for the Eternal Pure Land. It was clear that everyone in the Kingdom of God, regardless of their status, would be busy with work for a very long time to come. The atmosphere had changed dramatically as well.
 
+“Brother Yuan, Father had given instructions saying that you should focus on recuperating and refining the Vermillion Bird divine blood bestowed by High Priest Ling Xian for the time being. You need not concern yourself with external matters. Should any major event occur, I shall personally inform you at the earliest opportunity.”
+
+Yun Che did not respond to that. Instead, he said, “Before I do that, I need to visit the Xuanji Hall first.”
+
+Meng Jianxi was surprised, but he did not ask unnecessary questions. He simply nodded and said, “Got it. I’ll come with you.”
+
+Before he left the Pure Land, Shenwu Yi had pointed at her ear with one finger... the greatest possibility Yun Che could think of was that she wanted him to look deep into the Eternal Night Kingdom of God. As for the “seven orifices,” she whispered, it was probably hidden somewhere in that intel.
+
+1. The Chinese community is speculating that he used the Mirror of Samsara in the future, and this entity is his original self or something. Wild. ☜

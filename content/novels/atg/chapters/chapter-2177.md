@@ -1,180 +1,171 @@
 ---
 chapterNumber: 2177
-title: "The Nine Fiends of the Devil Emperor"
-publishedAt: "2026-04-05"
+title: "Devil Emperor’s Nine Fiends"
+publishedAt: "2026-05-30"
 ---
 
-Yun Che acted as if he hadn't noticed. He waved away the barrier and shouted, "He Lu, bring all the wine in the palace here!"
+Yun Che did not seem to notice, though. He dispelled the barrier and shouted, “He Lu, bring us every last drop of wine in this palace!”
 
-Shangguan He Lu gave a soft reply. A gentle breeze brushed past, and dozens of jars of ancient, sealed spirit brew landed beside the two men. With a flick of her slender hand, she unsealed one of the jars, and a crisp yet warm fragrance of wine immediately wafted through the air.
+Shangguan Helu acknowledged his command softly. Then, a gentle breeze dropped dozens of jars of spirit wine at their sides. With a flick of her slender hand, she removed the simple seal from one jar. The crisp yet warm aroma of wine immediately filled the air.
 
-The young girl moved with light steps, filling the jade cups before the two men. Then, she wordlessly withdrew, reapplying the barrier.
+The young woman stepped lightly, filling each jade cup on the table. Then, she withdrew silently and closed the barrier once more.
 
-The amber liquid swayed gently in the jade cup, reflecting Mo Su’s eyes, which were filled with difficult-to-settle emotions. He raised a finger and rested it on the jade cup, his voice faint and ethereal. "A long time ago, I used wine to burn my thoughts and drunkenness to sink into dreams. But when I awoke, there was only deeper emptiness and guilt."
+The amber-colored liquid swayed gently in the jade cups, reflecting the complex emotion in Mo Su’s eyes. He raised a finger and rested it on the rim of his cup, his voice faint and distant. “Long ago, I used wine to scorch my thoughts and drunkenness to sink into dreams, but upon waking, I was left with only deeper emptiness and guilt.”
 
-Yun Che looked him straight in the eye. His gaze held none of the reverence the myriad spirits of the Abyss felt when looking up at the Abyss Sovereign; there was only a calmness like water and a faint, caring smile.
+Yun Che looked him straight in the eye. His gaze held not a trace of the awe with which all beings of the Abyss looked up to the Abyssal Monarch. Instead, it was calm as water and accompanied by a faint, concerned smile. “Even the finest wine feels lonely and desolate when drinking alone without a companion; even the most beautiful moments seem cold and empty when enjoying a scenery in solitude. Ten thousand words weigh upon your heart, but for the longest time, you can only bury them deep within your soul. It is only natural that they wound your heart and break your spirit.
 
-"Drinking alone without a companion makes even the finest vintage feel lonely. Admiring beauty without someone to lean on makes even the most glorious moment feel cold. Big Brother, you have ten thousand words in your heart, but they have always remained buried in your chest; naturally, only heartbreak and soul-mourning remain. Now that your younger brother is before you, why not use wine as a guide to speak your heart's song? You can wantonly pour these three million years of loneliness into this single cup of joy."
+“Now that I am here before you, why not let the wine serve as a conduit to pour out your innermost thoughts? Pour all the loneliness of these three million years into this single cup of pure joy, Big Brother.”
 
-Mo Su gave a faint, light smile. "Such clever words; you are exactly like Big Brother Ni Xuan¹."
+Mo Su smiled faintly. “Such eloquent words—they are just like those of Big Brother Ni Xuan.”
 
-He raised his jade cup, his gaze touching the ripples within. In the sea of his heart, the joy and delight he felt when drinking with Pan Xiaodie back then flickered by. At the time, he thought it was ordinary, but after waking from the dream, there was only the lonely shadow of the cold palace, drinking alone in sorrow.
+He raised the jade cup, his gaze resting on the ripples within. Memories of the joy and delight he had felt while drinking with Pan Xiaodie many years ago flashed through his mind. At the time, he had thought it was nothing out of the ordinary, but upon waking from that dream, all that remained was a solitary figure in a cold hall, drinking alone in self-pity.
 
-His eyes grew misty as he murmured a dream-like verse:
+His eyes grew misty, and he murmured softly as if in a dream:
 
-"How to sever the grieving heart,
-How to cross the long night,
-How to voice the sorrow of longing,
-How to speak of desolation."
+“How can I sever this heartache? How can I pass the long night? How can I voice my sorrow? How can I speak of this desolation?”
 
-Yun Che also raised his jade cup, still watching him, and spoke in a tone several times more spirited:
+Yun Che also raised his jade cup, gaze still fixed on Mo Su as he replied in a tone several times more defiant:
 
-"Raise the wine to sever the grieving heart,
-Pillow the dream to cross the long night,
-Look to the heavens to voice the sorrow of longing..."
+With wine, you sever this heartache; with dreams, you pass the long night. To the heavens, you voice your sorrow....”
 
-Yun Che thrust his arm forward, clinking his jade cup against the other. The splashing wine seemed to unintentionally wash away the mist in Mo Su’s eyes, their gazes meeting without gap. "And to your brother, speak of desolation."
+Yun Che extended his arm, and the jade cups clinked together. The splashing wine seemed to inadvertently wash away the haze from Mo Su’s eyes, allowing their gaze to meet unimpeded. To your younger brother, you speak of that desolation.”
 
-As his voice fell, Yun Che raised his arm and threw back his head, draining the cup in one gulp.
+As soon as he finished speaking, Yun Che raised his arm, tilted his head back, and drained the cup in one gulp.
 
-Mo Su’s gaze paused for a moment. He likewise raised his cup and tilted it back until it was empty.
+Mo Su’s gaze lingered for a moment, then he too raised his cup and drank it dry.
 
-The smile on Yun Che’s face deepened. He suddenly flicked his wrist, and the jade cup flew far away, shattering into a spray of clear light on the floor. Following this, two large jars of wine landed heavily on the table. Yun Che grabbed one directly, upended it over his head, and began to drink. The liquid splashed everywhere as the sound of thunderous gulping filled the room.
+Yun Che’s smile deepened. Suddenly, he flung his wrist, sending the jade cup flying far away, where it shattered into a shower of shimmering fragments across the floor. Immediately afterward, two large wine jars landed heavily on the table. Yun Che grabbed one of them and buried his head inside, drinking directly from the mouth. Wine splashed everywhere, and the sound of his gulps echoed loudly.
 
-It took nearly ten breaths before the sound stopped and the wine was gone. Yun Che threw the empty jar aside. His face was now flushed deep red, and his eyes carried a hint of turbid haze. He did not use the slightest bit of profound strength to disperse the alcohol. With eyes stained by tipsiness, he looked straight at Mo Su—half-gesturing, half-encouraging, and carrying a hint of undisguised "provocation."
+It took nearly ten breaths before the noise finally ceased, and the wine was gone. When Yun Che flung the empty wine jar aside, it was revealed that his face was flushed crimson and his eyes held a hazy, clouded look. He made no effort to dispel the effects of the alcohol with his profound energy. He stared straight at Mo Su with intoxicated eyes, conveying not only encouragement and incitement, but also undisguised “provocation”.
 
-Mo Su narrowed his eyes slightly. His hesitation lasted only half a heartbeat before he, like Yun Che, grabbed a wine jar and drank it over his head... The strong wine poured down his throat, and the intoxication spread through his soul, seemingly stripping away his identity and majesty as the Abyss Sovereign layer by layer in silence.
+Mo Su narrowed his eyes slightly. His hesitation lasted only a split second before, just as Yun Che had, he grabbed the wine jar and drank straight from it, tilting it back over his head... As the strong alcohol poured down his throat, and intoxication spread through his soul, his identity and majesty as the Abyssal Monarch seemed to fall off layer by layer without a sound.
 
-Bang!
+The empty jar crashed loudly against the table, and Mo Su let out a long sigh. What had once been an air of refined elegance and otherworldly grace was now mingled with an overwhelming scent of alcohol. Even the way he braced himself against the jar’s rim carried a touch of reckless abandon that should never have belonged to the Abyssal Monarch.
 
-He slammed the empty jar down and let out a long breath. His aura, which was usually elegant and transcendent, was now wrapped in a thick scent of alcohol. Even the way he propped himself against the jar carried a hint of wildness that absolutely should not belong to the Abyss Sovereign.
+“It really is... heartfelt and exhilarating.”
 
-"Indeed... wanton and refreshing."
+He laughed, and this time, his smile was almost entirely free of stiffness and divine formality. Instead, it held a sincerity that felt far too distant, unfamiliar, and luxurious for him.
 
-He began to laugh. This time, his laughter was almost entirely devoid of divine grace or stiffness. Instead, it carried a touch of sincerity that was too distant, too strange, and too luxurious for him.
+With a wave of his hand, Yun Che produced two more heavy wine jars. They landed heavily between the two men and wafted out a rich, potent aroma even before they were unsealed. Smiling, he asked, “Your young brother is by your side, and the wine has set the mood. Might I ask my big brother to pour out the ten thousand words within his heart?”
 
-Yun Che waved his palm, and another two heavy jars of wine landed before them. Even before being opened, they exuded a mellow, sharp aroma. He smiled and said, "With a brother as a companion and wine as a guide, can I exchange this for Big Brother pouring out the thousand words in his heart?"
+Mo Su grabbed a wine jar, tilted his head back, and took a long swig. This time, though, he did not finish it. Instead, he said wistfully, “Thinking back to those days, I had relied heavily on Big Brother Ni Xuan. He was the only one I could confide in regarding the matters between Xiaodie and me. I have also told him everything. I suppose Big Brother Ni Xuan has already told you all of it.”
 
-Mo Su grabbed the wine jar and took a long swig, but he did not finish it. Instead, he said wistfully, "Thinking back to those years, I relied on Big Brother Ni Xuan immensely. The matters between Xiaodie and me could only be told to him, and I told him everything. I imagine Big Brother Ni Xuan has already told you all of it."
+Yun Che did not deny it. “Still, I’d rather hear it from you, Big Brother.”
 
-Yun Che did not deny it. "But I would prefer to hear Big Brother tell it personally."
+“How could I not know your intentions?” Mo Su smiled faintly. “Ten thousand words bottled up in the heart eventually turn to poison. You’re not merely curious; you wish to help me unburden myself. I suppose this is also one of the wishes Big Brother Ni Xuan has entrusted to you.”
 
-"How could I not know your intent?" Mo Su smiled faintly. "Ten thousand words stagnating in the heart eventually become poison. You aren't asking out of curiosity, but because you want to ease my burden. I imagine this was also a trust Big Brother Ni Xuan placed in you."
+Yun Che opened his mouth to speak, but Mo Su continued, “I know that Big Brother Ni Xuan has advised you to live life to the fullest; to choose whatever you want to do according to your own desires. But from the moment I learned that your name was bestowed by him, I immediately understood the hidden meaning behind it.”
 
-Yun Che opened his mouth to say something, but Mo Su continued, "I know Big Brother Ni Xuan told you to live life freely and make choices according to your own heart. However, from the moment I learned your name was given by him, I knew the hidden meaning he harbored."
+“Huh?” Yun Che looked surprised. “My name?”
 
-"Eh?" Yun Che showed a look of surprise. "My name?"
+His surprise was entirely genuine, for his name truly had nothing to do with Ni Xuan.
 
-This surprise was not faked at all, because his name truly had nothing to do with Ni Xuan.
+“I suppose Big Brother Ni Xuan didn’t tell you about it.”
 
-"It seems Big Brother Ni Xuan did not tell you."
+Mo Su paused, and a hint of mistiness clouded his eyes once more. Slowly, he uttered that name. “Xiaodie... her mother, and her maternal clan, bear the surname ‘Yun’.”
 
-Mo Su’s voice paused slightly, his gaze growing mistier. He slowly uttered a name: "Xiaodie... her mother, and her maternal clan, used 'Yun'² as their surname."
+“......” A genuine, faint look of surprise flashed across Yun Che’s brow.
 
-"..." A genuine, faint surprise surfaced on Yun Che’s brow.
+Mo Su continued, “Big Brother Ni Xuan had specifically bestowed the surname Yun upon you for many profound reasons—both for your sake, and mine.”
 
-Mo Su continued, "Big Brother Ni Xuan specifically gave you the surname Yun because it held multiple deep meanings—both for you and for me."
+He grabbed the wine jar and took a long swig again. When he finally looked up, his gaze was fixed on the distance, as if he was gazing upon the ancient shadow of Ni Xuan.
 
-After speaking, he grabbed the wine jar and took a long drink. When he raised his eyes, he was looking toward the distance, as if gazing at the ancient shadow of Ni Xuan.
+Only then did the look of surprise slowly fade from Yun Che’s face. He nodded slightly, and a sigh escaped his lips. “So that’s how it is... It wasn’t until today that I realized this name held such profound meaning, either.”
 
-The look of surprise slowly faded from Yun Che’s face. He nodded slightly and let out a sigh of realization. "So that's how it is... Only today did I learn this name held such deep meaning."
+In the Era of Gods and Devils, Pan Xiaodie had held an extremely high status not just within the Original Nether Devil Clan, but the entire Devil race. It was to the extent that the Original Nether Devil Emperor had bestowed upon her the Original Nether Void Breaching Mirror as her protection. Naturally, her mother and her maternal clan had to be extraordinary as well.
 
-In the Era of Gods and Devils, Pan Xiaodie’s status in the Pan Ming clan—and even the entire Devil Race—was extremely high. Even the Pan Ming Mirror of Void Destruction protected her. Thus, her mother and her maternal clan must have been extraordinary.
+Despite searching his memory, Yun Che could not recall any ancient Devil Clan approaching the level of a Devil Emperor that bore the surname “Yun” in the surviving records.
 
-But...
+The Heavenly Handle Yun Clan, from which he hailed, did bear the surname “Yun”, but it was just a struggling remnant of the Devil race, barely managing to survive the powers to be of the Northern Divine Region. Had it not been for his emergence, they might already have been completely reduced to dust and forgotten history. They bore no connection to the word “powerful” whatsoever.
 
-Yun Che quickly searched his memories. Among the ancient devil clans recorded who were qualified to be near the level of a Devil Emperor, none seemed to have the surname "Yun."
+In Primal Chaos, records of the ancient Devil race were far scarcer than those of the God race. Instead of dwelling on the matter, Yun Che sighed and said, “Master once mentioned that your cultivation had greatly improved after your travels, yet your first encounter with her was one that ended with your defeat. It was only later that you learned that she was actually the foremost figure of her generation among the Devil race... To have raised such an extraordinary woman, I imagine her mother must have hailed from the strongest devil clan under the command of the Original Nether Devil Emperor.”
 
-The Heavenly Sky Yun Clan he hailed from was named Yun, but they were merely a struggling remnant of devil descendants. Back then, they could barely survive in the cracks between powers in the Northern Divine Region. If not for his appearance, they might have turned into the dust of history, having nothing to do with the word "powerful."
+“No,” Mo Su said slowly, “Xiaodie’s maternal clan did not originate from Pan Ming’s ranks, but from Nine Fiend.”
 
-However, the surviving records regarding the ancient Devil Race were far fewer than those of the Divine Race. Yun Che did not overthink it and instead followed the flow, sighing, "Master once said that Big Brother’s cultivation surged after his travels, but in your first encounter with her, you suffered a defeat. Only later did you learn she was the number one of her generation in the Devil Race... To raise such a remarkable woman, I imagine her mother must have come from the strongest devil clan under the Pan Ming Devil Emperor."
+“Nine Fiend...” Yun Che whispered before narrowing his eyes a little. “Oh? So they’re Devils who served under the Nine Fiend Devil Emperor? It seems that the ancient Devil Clans get along quite well after all—enough to “join forces” like this.”
 
-"No," Mo Su said slowly. "Xiaodie’s maternal clan did not serve under Pan Ming, but under the Nine Fiends."
+Mo Su turned his gaze at him, a faint, inscrutable smile playing on his lips. “It would appear that you know very little about the affairs of the Devils.”
 
-"Nine Fiends..." Yun Che murmured the name, then narrowed his eyes slightly. "Oh? So she was from a devil clan under the Nine Fiends Devil Emperor? It seems the ancient devil clans got along quite well to 'unite' like that."
+Yun Che was momentarily puzzled. He did not understand why his casual remark had prompted such a response from Mo Su. He gulped down a large mouthful of wine, belched loudly, and spoke with a slur, “That would be an understatement. My master rarely spoke to me about the ancient Devil race. He had always deliberately avoided the subject when I’ve asked him about them. Over time, I stopped asking altogether.”
 
-Mo Su turned his gaze toward him with a half-smile. "It seems you know very little about the affairs of the Devil Race."
+He continued without waiting for a response, “Speaking of the four great Devil Emperors who once led the ancient Devils, I only know roughly that... the Heaven Smiting Devil Emperor held the highest status, the Original Nether Devil Emperor possessed the greatest strength, the Nirvana Devil Emperor had the most abundant soul power, and the Nine Fiend Devil Emperor... Well, his assessment was rather contradictory. It was said that he was the weakest in strength, yet simultaneously the most terrifying of them all. Come to think of it, the Creation Goddess of Life, Li Suo, had fallen at the hands of the Nine Fiend Devil Emperor.”
 
-Yun Che didn't understand why his ordinary remark caused Mo Su to give such an evaluation. He took a large gulp of wine, let out a heavy burp, and said with a bit of a slur, "It’s more than just a little. Master rarely mentioned the ancient Devil Race to me. Sometimes when I proactively asked, he would deliberately avoid the topic. Over time, I stopped asking."
+Shaking his head as if puzzled, Yun Che raised his wine jar and clinked it loudly against Mo Su’s. He then took another huge gulp.
 
-He continued to himself, "Speaking of the four Devil Emperors who led the ancient Devil Race, I only know... the Heaven Smiting Devil Emperor had the highest status, the Pan Ming Devil Emperor had the greatest strength, the Nirvana Devil Emperor had the strongest soul power, and the Nine Fiends Devil Emperor... has a very contradictory evaluation. They say he was the weakest in strength, yet happened to be the most terrifying. Speaking of which, Li Suo, the Creation God of Life, fell at the hands of the Nine Fiends Devil Emperor."
+Mo Su remarked, “That assessment is actually spot on.”
 
-After finishing, he shook his head as if confused, then raised his wine jar to clink heavily with Mo Su’s, taking another massive gulp.
+“Oh?” Yun Che’s face lit up with curiosity.
 
-Mo Su said, "That evaluation is actually quite accurate."
+Mo Su was more than willing to clarify for him. He began slowly and deliberately, “In terms of personal strength, the Nine Fiend Devil Emperor is indeed the weakest among the four Devil Emperors. However, the Nine Fiend is a different story.”
 
-"Oh?" Yun Che’s face lit up with curiosity.
+“At the dawn of the Devil race, the Nine Fiend Devil Emperor cut away a portion of his flesh, devilish soul, and the power of Nine Fiend. Each fragment of the Nine Fiend became a devil in its own right with its own legacy. Over time, they formed the Nine Fiend Devil Clans under his command.
 
-Mo Su did not hesitate to enlighten him, speaking leisurely, "The Nine Fiends Devil Emperor’s personal power was indeed the weakest of the four Devil Emperors. But while he was weak in himself, he was strong because of the Nine Fiends."
+“Shadow Fiend, Nether Fiend, Poison Fiend, Blood Fiend, Calamity Fiend, Devourer Fiend, Ash Fiend, Heavenly Net Fiend, Ghost Net Fiend... all of them had formed clans, and all of them bore the Devil Emperor’s name!
 
-"At the beginning of the Devil Race, the Nine Fiends Devil Emperor separated portions of his own flesh, devil soul, and Nine Fiends power. Each of the Nine Fiends powers became a devil and a lineage, gradually becoming the Nine Fiends Devil Clans under his command."
+“Given the Nine Fiend Devil Clans’ unique origin and status, it would be no exaggeration to call them all direct descendants of the Devil Emperor.”
 
-"Shadow Fiend, Abyss Fiend, Poison Fiend, Blood Fiend, Calamity Fiend, Devourer Fiend, Ember Fiend, Tianluo Fiend, and Guiluo Fiend... the Nine Fiends formed clans, sharing the Emperor's name!"
+Yun Che listened quietly, then interjected at the right moment, “I did not know that the Nine Fiend Devil Emperor was such a unique existence. Master mentioned that the Creation Goddess of Life, Li Suo, had fallen victim to the Nine Fiend Devil Emperor’s devil poison. I assume that it was the work of the power of the Poison Fiend?”
 
-"Given the special origin and status of the Nine Fiends Devil Clans, it wouldn't be an exaggeration to call them all direct descendants of the Devil Emperor." Yun Che listened quietly and interjected at the right time. "So the name of the Nine Fiends Devil Emperor was such a special existence. Master said the Creation God of Life, Li Suo, fell to the devil poison of the Nine Fiends Devil Emperor. I imagine... it was his Poison Fiend power?"
+Mo Su replied, “According to the records and accounts of the beings from the Eternal Pure Land, that was indeed the case.”
 
-Mo Su replied, "Based on the beings and records from the Eternal Pure Land, that is indeed the case."
+“To think that the Poison Fiend was capable of slaying even a Creation God—it must surely be the most formidable force among the Nine Fiends.” Yun Che let out a deep sigh, his mind drifting for a fleeting moment.
 
-"The Poison Fiend power could actually kill a Creation God. It seems it must be the strongest among the Nine Fiends powers." Yun Che let out a deep sigh, his mind drifting for a moment.
+It was highly likely that the Absolute God Slaying Poison that afflicted Jasmine all those years ago had originated from the Poison Fiend energy left behind by the Nine Fiend Devil Emperor... The devil poison had been dissipating for a full million years, yet it still managed to push Jasmine to the brink of death, and with ease, too—how terrifying.
 
-Back then, the God-Slaying Sky-Poisoning Poison that Jasmine suffered from likely originated from the Poison Fiend power left behind by the Nine Fiends Devil Emperor... A devil poison that had been diluted for a full million years could still easily push the Jasmine of that time into a death trap. How terrifying.
+“That is not true,” Mo Su said softly. “The mightiest of the Nine Fiends was, in fact, Shadow Fiend. Not only was it the strongest, but it was also the most unique and mysterious of them all. It was also... Xiaodie’s maternal clan.”
 
-"That is not the case," Mo Su said softly. "The strongest of the Nine Fiends is named Shadow Fiend. Not only the strongest, but also the most special and mysterious existence. That was... Xiaodie’s maternal clan."
+Whenever the name “Xiaodie” was mentioned, a lingering tremor would ripple through the depths of Mo Su’s eyes. He grabbed the wine jar and drank again with wild abandon, allowing the intoxication—which he could have easily dispelled—to spread throughout his body.
 
-Every time he spoke the name "Xiaodie," ripples of long-lasting, unquenchable emotion would tremble in the depths of Mo Su’s pupils. He grabbed the wine jar and drank wantonly again, allowing the dizziness—which he could have easily dispersed—to spread through his body.
+Shadow Fiend......
 
-Shadow Fiend...
+The word had never existed in Yun Che’s or Chi Wuyao’s memories.
 
-Whether in Yun Che’s memories or Chi Wuyao’s memories, these two words had never existed.
+Clearly, it had vanished completely into the dust of the ages with the downfall of the Nine Fiend Devil Emperor and the end of the Era of Gods and Devils.
 
-Clearly, it had vanished completely into the dust of the ages following the death of the Nine Fiends Devil Emperor and the end of the Era of Gods and Devils.
+“The direct descendant of the Original Nether Devil Emperor, and the strongest heir of the Nine Fiend Devil Emperor... no wonder she turned out to be such a prodigiously talented individual. A figure of this caliber—looking back through the ages—could likely only be matched by my Big Brother.”
 
-"The direct bloodline of the Pan Ming Devil Emperor and the strongest descendant of the Nine Fiends Devil Emperor... No wonder she could be such an extraordinary person. Such a figure, throughout history, I fear only Big Brother could be worthy of her."
+Mo Su looked at him, and their gazes met. Despite the hazy intoxication in the older man’s eyes, Yun Che noticed that the terrifying obsession embedded behind them had not diminished even the slightest bit.
 
-Mo Su looked at him... Their gazes met, and Yun Che saw the drunken haze in his eyes, as well as the terrifying obsession embedded within them—one that had not settled even a fraction.
+“Yun Che, I understand your intentions, and as your big brother, I am deeply touched and grateful. But... the karma and grudge between Xiaodie and me simply run too deep; there is no room for compromise, no way out. I will not allow anyone I care about to be dragged into this, and she... feels the same way. Perhaps even more so.”
 
-"Yun Che, I know your intent. As your big brother, I feel warm and grateful. But... the karmic sins and grievances between Xiaodie and me are too heavy. There is no longer any room for maneuver or retreat. I will not allow any [person I care about] to be pulled into this. This is true for me, and for her... even more so."
+These words ensured that Yun Che could not press the matter further... not even through seemingly casual probing.
 
-These words meant Yun Che could not press any further... even through seemingly casual probing from the sidelines.
+“All right!” Yun Che replied heartily, jerking his arm and spilling wine everywhere. “The point of drinking and chatting is, of course, to speak freely of joyful matters. So, Big Brother, would you be interested in hearing the many teasing remarks our Master has made about you?”
 
-"Fine!" Yun Che responded readily, slamming his arm down as wine splashed everywhere. "Since we are drinking and being merry, we should of course speak of happy things. Big Brother, would you be interested in hearing the many mocking things Master said about you?"
+“Hmm?” Mo Su sat up straight at once. “Brother Ni Xuan’s barbed remarks are indeed bizarre and varied. Just in the first year he took me on my travels, he had spoken of the Heaven Punishing Divine Emperor in the most disparaging terms. I should’ve known that he wouldn’t spare a brother with his back turned toward him....”
 
-"Hmm?" Mo Su sat up straight all of a sudden. "Big Brother Ni Xuan’s insults were indeed diverse and strange. In the first year he took me traveling, he insulted the Heaven Punishing Divine Emperor to no end. As expected, behind his back, he doesn't even spare his own brothers..."
+“Hahahaha! Spare you? I’m afraid that we can drink until tomorrow, and I still won’t be able to recount them all!”
 
-"Hahahaha! Not only does he not spare them, I’m afraid if we drink until tomorrow, I still won't be able to finish repeating them all!"
+Mo Su: “......”
 
-Mo Su: "..."
+“Divine Son Xi, a Night Patrol Officer from the Eternal Night Kingdom of God, requests an audience.”
 
-…………
+Meng Jianxi abruptly spun around with a deep frown. “A Night Patrol Officer? Which one?”
 
-"Reporting to Godchild Xi, a Night Patroller from the Eternal Night God Realm seeks an audience." Meng Jianxi turned around abruptly, his brow furrowed deeply. "A Night Patroller? Which one?"
+“She claims to be the leader, the ‘Nightstalker Owlbird’.”
 
-"She calls herself the head of the Eternal Night Night Patrollers. Her title is 'Dark Hunt Owl-Sparrow³.'"
+Meng Jianxi’s furrowed brows sank even lower.
 
-Meng Jianxi’s furrowed brows sank another notch.
+Eternal Night and Dreamweaver had just fallen into a bitter feud. Given the Lightless Divine Regent’s nature, she likely harbored a hatred so deep it ran to the marrow. The conflict would not end until one side was destroyed.
 
-Eternal Night and Weaver Dream had just developed a great grudge. With Wuming God King’s temperament, he likely hated them to the bone, a grudge that would only end in death.
+At a time like this, a Night Patrol Officer was paying the Dreamweaver Kingdom of God a visit?
 
-At such a time, a Night Patroller actually showed up at the Weaver Dream God Realm on their own initiative.
+Who was Shenwu Mingque? Since Shenwu Yefeng was demoted to a slave of sin, she had become the leader of the Night Patrol Officers of the Eternal Night Kingdom of God. She was a figure of supreme authority second only to the Lightless Divine Regent herself.
 
-Who was Shenwu Mingque... Ever since Shenwu Yefeng had been demoted to a sin-slave, she had become the current head of the Night Patrollers in the Eternal Night God Realm, a transcendent figure whose status was second only to Wuming God King.
+Not only had she appeared to the Dreamweaver Kingdom of God in person, but she wasn’t even here to meet Meng Kongchan. No, she was requesting an audience with him, a mere Divine Son.
 
-For her to come personally at this time, and not even to see Meng Kongchan, but to condescend to see him—a Weaver Dream Godchild?
+Meng Jianxi fell deep in thought, remaining silent for a long time.
 
-Meng Jianxi fell into deep thought, remaining silent for a long time.
+The male messenger spoke up. ‘Should we inform the Divine Regent and the Chief Lord of this matter first?”
 
-The man who delivered the message asked, "Should this matter be reported to the God King and the Head Hall Master first?"
+“Mm.” Meng Jianxi nodded slowly as he pondered. “Of course we should... Wait!”
 
-"Mm." Meng Jianxi nodded slowly in thought. "Of course we must... Wait!"
+A sudden thought struck him, and his gaze grew intense.
 
-He suddenly thought of something, and his gaze became sharp.
+“Go escort our distinguished guest to the main hall at once. Inform them that I am currently away on business and am rushing back at full speed... Also, there is no need to specifically inform Father and the others of this matter.”
 
-"Go quickly and invite the honored guest in; settle her in the main hall. Tell her I have matters outside and am rushing back at full speed... Additionally, there is no need to specifically inform Father and the others of this."
+After making the arrangements, Meng Jianxi set aside his current tasks and headed straight for Yun Che’s Divine Son Palace.
 
-After giving the orders, Meng Jianxi dropped everything he was doing and headed straight for Yun Che’s Godchild Palace.
+Since returning from the Pure Land, Meng Kongchan had been preoccupied with matters concerning the Eternal Pure Land. He was handling nearly all internal affairs himself and had little time for anything else. Naturally, he could not have done anything to attract the attention of other kingdoms.
 
-Since returning from the Pure Land, Meng Kongchan had been busy with the matters of the Eternal Pure Land. Internal affairs were almost entirely handled by Meng Jianxi. He basically had no time for anything else, and naturally hadn't done anything to draw the side-eye of other realms.
-
-The only exception he could think of was that dragon-shaped profound crystal Yun Che had given him.
-
-
+The only exception Meng Jianxi could think of... was the dragon-shaped profound crystal Yun Che had entrusted to him.

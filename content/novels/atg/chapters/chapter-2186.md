@@ -1,267 +1,263 @@
 ---
 chapterNumber: 2186
-title: ""
-publishedAt: "2026-04-17"
+title: "Burying Calamity"
+publishedAt: "2026-05-30"
 ---
 
-Standing once more before the Ancestral Dragon Barrier, Yun Che did not use the Dragon Jade to break through immediately as he had before. His figure remained still, and even his aura seemed to stagnate, leaving only a brief, suffocating moment of immersion.
+UNedited chapter - Rubble
 
-Meng Chaoyang watched from a distance, his gaze deep and inscrutable.
+Yun Che stood once more before the Ancestral Dragon barrier, but unlike the first time, he did not pass through it directly with the dragon jade. Instead, he stood motionless, so much so that the energy surging around him had come to a standstill, leaving only a fleeting, almost suffocating sense of stillness.
 
-He was a man of extreme rationality, skilled at reading expressions and peering into the hearts of others. Years ago, when Yun Che first arrived at the Weaver Dream Divine Kingdom and clashed with Meng Jianxi, he was the first among the nine Hall Masters of the Dream Halls to step forward and support Yun Che.
+Meng Chaoyang watched from afar, his gaze deep and inscrutable.
 
-Since then, he had naturally become one of the Hall Masters closest to Yun Che.
+He was a man of great rationality, and he excelled at reading people’s expressions and discerning their innermost thoughts. Back when Yun Che first arrived at the Dreamweaver Kingdom of God, during his conflict against Meng Jianxi, he had been the first among the nine Dream Lords to step forward and support Yun Che.
 
-Based on his observations and understanding of Yun Che over the past three years, setting aside his world-shaking talents, Yun Che possessed a temperament and shrewdness that should not belong to someone of his age.
+Since then, he had naturally become one of the closest Dream Lords to Yun Che.
 
-Clearly only two jiazi¹ in age with the cultivation of a Divine Master, his eyes seemed to contain a boundless deep sea. Even when Meng Chaoyang occasionally peered in out of curiosity, he could only touch upon a chaos that seemed to have no end.
+Based on his observation and understanding of Yun Che over the past three years, setting aside his extraordinary talents in all sorts of things, he also possessed a maturity and depth of character that was completely uncharacteristic of his age.
 
-As a cultivator of the soul, he knew better than anyone how abnormal—even terrifying—it was for someone of such an age to possess such a sea of soul.
+He was clearly only two sexagenary years old and a Divine Master, yet his eyes seemed to contain a deep, boundless ocean. Even when he occasionally peered into them out of curiosity, he could only glimpse an expanse of chaos that seemed to stretch endlessly.
 
-He had once spoken of this to Meng Kongchan, but Meng Kongchan had responded only with a face full of pride and delight, followed by uncontrollable laughter.
+As a soul cultivator, he understood better than anyone just how abnormal—even terrifying—it was for someone of such a young age to possess such a soul sea.
 
-If this were the son of another nation, he would undoubtedly be a terrifying anomaly. But he was the Son of Weaver Dream... that changed everything.
+He had once discussed this matter with Meng Kongchan, but his Divine Regent had only responded with nothing but a face full of pride and delight. He had even burst into a long and uncontrollable laughter after that.
 
-Meng Kongchan had even ordered the various Dream Halls that no one was permitted to spy on Yun Che with their divine soul. Their consciousness was forbidden from even touching the Son of God Hall where he resided... even necessary concern or protection was not allowed to overstep.
+If he was the Divine Son of another kingdom, then he would undoubtedly be a terrifying heretic. But since he was the Divine Son of Dreamweaver... it was an entirely different matter altogether.
 
-Therefore... Yun Che’s performance today was truly too abnormal.
+To protect Yun Che, he had even issued the following orders to all Dream Halls: no one was to use their divine soul to peer into Yun Che, nor was their consciousness allowed to touch the Divine Son Hall where he resided... even necessary concern and protection must not overstep these boundaries.
 
-Meng Chaoyang did not believe the hasty excuse Yun Che had given for a moment. As Yun Che regained his composure now, he would likely find it absurd and desperate himself.
+That was why... Yun Che’s behavior today was far too abnormal.
 
-So, what exactly did he encounter in that Forbidden Zone of the Dragon Race, and what was he deliberately hiding?
+He didn’t believe the flimsy excuse Yun Che had hastily offered as a matter of course. Now that the young man had come to his senses, even he himself must realize how utterly absurd and desperate it had sounded.
 
-"..." Standing before the Ancestral Dragon Barrier, Yun Che faintly felt Meng Chaoyang’s gaze—worried, solemn, and filled with deep inquiry.
+So, what exactly had he encountered in the dragon race’s forbidden zone, and what was he deliberately trying to conceal?
 
-He took out the Pale Dragon Jade once more. Light rippled, parting the barrier ahead.
+Standing before the Ancestral Dragon barrier, Yun Che faintly sensed Meng Chaoyang’s gaze. It was a gaze filled with concern and solemnity, but also filled with deep inquiry.
 
-This time, there was no need for the dragon guards to announce him. Within a few breaths, the Dragon Sovereign arrived in haste, carrying an urgency he either intended to show or had no time to hide.
+He took out the pale dragon jade. A gentle glow rippled, parting the barrier before him once more.
 
-Long Zhiming landed slowly not far in front of Yun Che, without disturbing a speck of dust, a warm smile still on his face.
+This time, there was no need for the dragon guards to announce his arrival. Within mere moments, the Dragon Lord had rushed over to meet him in person. His urgency—it could be a deliberate showing, or he could simply be moving too fast to conceal it—was plain to see.
 
-Before Yun Che could speak, he raised his hand in welcome. "The God child of the Abyss departs and returns; it truly brings this old man both surprise and joy. Just now, hearing of your hasty departure while I was in the hall, I didn't even have time to ask you to stay. My heart has been uneasy, reflecting repeatedly, fearing that I had been negligent or slighted our distinguished guest."
+Long Zhiming descended slowly not far ahead of Yun Che, landing without stirring a speck of dust, and wearing a gentle smile on his face as before.
 
-Yun Che looked directly at him. The aged voice entered his ears, causing a brief hum in his sea of soul.
+Before Yun Che could speak, he raised his hand in greeting and said, “Your return has truly filled this old man with surprise and delight, Divine Son Yuan. I was in the hall when I heard of your hasty departure, so I did not even get the chance or time to ask you to stay. My heart has been filled with anxiety ever since, and I have been ruminating over whether I might have been negligent in some way or failed to treat such a distinguished guest with the proper respect.”
 
-The Dragon Sovereign of the Abyssal Dragon Race, Long Zhiming. Aside from the Abyssal Monarch and the four High Priests of the Pure Land, he was the longest-living being in existence.
+Yun Che looked the Dragon Lord straight in the eye. His aged voice resonated in his ears, causing a brief hum in his soul sea.
 
-With such status and seniority, he showed not a hint of the arrogance that looks down upon all living things, nor the posturing and reserve of an ancient. Toward a junior like Yun Che, who was only "two jiazi" old, he was so gentle, so eager, and even... did not hesitate to show a trace of caution and humility within his million-year-old ancient frame.
+Long Zhiming, Dragon Lord of the dragons of the Abyss. Aside from the Abyssal Monarch and the Four High Priests of the Pure Land, he was the oldest living being in existence.
 
-The solitary pride of dragons—Yun Che knew it well.
+His status and seniority were extraordinary to say the least, yet not a trace of arrogance toward others could be seen in him, nor the slightest air of an ancient one’s aloofness or reserve. Moreover, he was so gentle and earnest toward a junior who had only lived “two sexagenary years” like him, going so far as to burden his one-million-year-old body with a hint of caution and humility.
 
-It wasn't that Long Zhiming was naturally like this, nor was it that he feared the Divine Kingdom.
+Yun Che understood the pride and aloofness of dragons all too well.
 
-His time was running out. Everything he displayed and everything he did was for a single purpose, a single obsession...
+Long Zhiming was not naturally this way, and he definitely wasn’t acting like this because he was afraid of the Kingdoms of God.
 
-The future of the Abyssal Dragon Race, especially the Ancestral Dragon lineage.
+He was a dragon on a timer. Everything he displayed, everything he did, was for a single purpose; a single obsession....
 
-For this, he could cast aside all pride and temperament engraved in his dragon bones. He could be humble, he could bow his head, he could deceive, he could be despicable, and he could use any means he once disdained.
+The future of the dragons of the Abyss, especially that of the Ancestral Dragons.
+
+For this, he could set aside all the pride and nature etched into his draconic bones. He could be humble, he could bow his head, he could deceive, he could be despicable, he could even resort to any means he had once deemed beneath him.
 
 Yun Che thought of Zhou Xuzi.
 
-He thought of himself, who was likewise using any means necessary for the sake of his homeland.
+He thought of himself, who was likewise sparing no means for the sake of his homeland.
 
-Both were people carrying heavy burdens, and both were selfish, despicable, and sinful... If that were the case, they should have long ago prepared themselves to bear any price or retribution.
+They were all men who were burdened by heavy responsibility. They were all selfish, despicable, and sinful... Thus, Long Zhiming should have long since been prepared to bear any cost and face any retribution.
 
-The Dragon Sovereign was thus, and so was he!
+It wasn’t just the Dragon Lord. He was no different!
 
-He smiled, a smile that was warm and apologetic, and then gave a slight bow to Long Zhiming. "Senior Dragon Sovereign, your words are too kind. Your hospitality has left this junior only with gratitude and trepidation. How could there be any negligence?"
+Wearing a gentle, apologetic smile, Yun Che bowed slightly to Long Zhiming and said, “Senior Dragon Lord, how could you say such a thing? Your generosity has only left this junior feeling gratitude and trepidation—how could there be any shortcoming on your part?”
 
-He sighed softly, his face showing a perfectly timed expression of complexity and bitterness. "My sudden departure without saying goodbye just now was, in truth... a flight in panic."
+He let out a soft sigh, his face betraying a perfectly measured mix of complexity and bitterness. “Truth be told, my sudden departure just now... was a panicked escape.”
 
-"A flight... in panic?"
+“Panicked... escape?”
 
-Long Zhiming’s white eyebrows twitched, his face showing bewilderment. He had considered various possibilities, but he had never imagined such an answer. "This... this old man truly finds it hard to understand."
+Long Zhiming’s white eyebrows twitched, and his face betrayed astonishment. He had considered every possibility, but never imagined such an answer. “Forgive this old man for his poor mind, but I do not understand what you mean.”
 
-"It had nothing to do with Senior or the Dragon Race, but rather my own internal turmoil and self-inflicted wounds," Yun Che said, the guilt on his brow seemingly becoming clearer.
+“It has nothing to do with you, Senior, or the dragon race. It was a case of self-inflicted chaos.” As Yun Che spoke, the sense of guilt between his brows seemed to grow even clearer.
 
-The doubt in Long Zhiming’s eyes grew even stronger, leaving him with only a bitter smile. "This old man understands even less now."
+Puzzlement deepened in Long Zhiming’s eyes, and he could only offer an amused laughter. “I find myself even more at a loss.”
 
-Yun Che stepped forward slowly, his demeanor composed, yet still carrying a trace of inexplicable apology. "This junior’s return is because I have cast aside my stray thoughts and made a firm decision. I will tell Senior everything in detail and will no longer hide anything."
+Yun Che slowly stepped forward, his demeanor calm yet still tinged with a hint of inexplicable guilt. “Since I have returned from my journey, I have already cast aside all doubts and made up my mind. I will now tell you everything in detail, Senior. I also promise I won’t hide anything from you again.”
 
-Yun Che’s appearance completely put Long Zhiming at ease, who had been unsettled by his departure. He smiled and made an inviting gesture. "Then let us enter the main hall again and speak slowly."
+Seeing Yun Che like this, Long Zhiming—who had been deeply troubled by the young man’s sudden departure—was finally put at ease. He smiled and gestured invitingly, “Then let us return to the main hall and discuss this matter at leisure.”
 
-Yun Che added, "Furthermore, what I wish to discuss involves the Ancestral Dragon lineage. Perhaps Senior could summon all the Ancestral Dragons of the clan to gather in the hall to discuss and witness this together."
+Yun Che added, “One more thing. The matter I wish to discuss concerns the Ancestral Dragon’s lineage. Perhaps you could summon all the Ancestral Dragons of the clan to gather in the hall so that they may deliberate and bear witness together?”
 
-Long Zhiming gave a bitter smile. "The Godchild may not know, but the purer the Ancestral Dragon bloodline, the harder it is to pass on. This old man has lived in vain for a million years and has only one son, Wangchu."
+However, Long Zhiming responded with a bitter smile. “You may not be aware of this, Divine Son Yuan, but the purer the Ancestral Dragon bloodline, the more difficult it is to pass it down. Despite having lived a million years, I have only but one son—Wangchu.
 
-"In this entire Dragon Race, those still qualified to be called 'Ancestral Dragons' number fewer than ten. Most others belong to other tribes, with the Chi Dragons and Mirage Dragons being the most numerous; or they are distant and mixed, carrying only a thin trace of Ancestral Dragon blood. If such as those were forcibly called Ancestral Dragons, it would be a great disrespect to our ancestors."
+“Within the entire dragon race, those who are truly worthy of being called ‘Ancestral Dragons’ can literally be counted on one hand. The vast majority are either of other lineages—such as the Chi Dragons and the Mirage Dragons—or come from distant, mixed lineages, possessing only a faint trace of the Ancestral Dragon’s bloodline. To forcibly call such beings as ‘Ancestral Dragons’ would be a grave insult to our ancestors.”
 
-At this point, his old eyes suddenly grew clouded, and he let out a dazed lament. "Thinking back to ancient times, our ancestor, the Dragon God—the Primeval Azure Dragon—his dragon might awed the world, unrivaled beneath the Creation Gods. The Dragon God Clan he led stood above all ten thousand races. Now, we have fallen to such a pitiful state, withered to this point..."
+As he spoke, his aged eyes suddenly clouded over, and he uttered a somewhat dazed sigh, “Back in the day, our Dragon God—the Primordial Azure Dragon—once was a being of boundless might, standing above all other races and was beneath only the Creation Gods. Yet now, we have fallen so low, dwindled to such a state....”
 
-Realizing he had lost his composure, Long Zhiming quickly shifted his gaze. "As one's lifespan nears its end, one always feels sudden bursts of emotion. I have made a fool of myself before the Godchild. Since you have such kind intentions, I shall call the most powerful and prestigious members of my Ancestral Dragon lineage to join us."
+Realizing he had lost his composure, Long Zhiming quickly returned his gaze and said, “As my days draw to a close, I cannot help but feel a sudden wave of emotion. Please forgive my outburst Divine Son Yuan. Since Divine Son Yuan has shown such kindness, this old one shall summon the most powerful and esteemed members of the Ancestral Dragon lineage besides me to join us.”
 
-His old eyes turned, and a deep dragon roar drifted into the distance. "Chixin, Qianxin, come quickly to the Ancestral Dragon Sacred Hall to discuss a great matter with the Godchild."
+His aged eyes swept across the room, and a deep, resonant dragon’s roar spread into the distance. “Chixin, Qianxin, hasten to the Ancestral Dragon Hall right now. There are matters of great importance that we need to discuss with Divine Son Yuan.”
 
-In the Ancestral Dragon Sacred Hall, Yun Che and Long Zhiming took their seats once more. Long Chixin and Long Qianxin stood on either side, their expressions indifferent and eyelids lowered, clearly not believing there would truly be any "great matter."
+In the Ancestral Dragon Divine Hall, Yun Che and Long Zhiming took their seats once more, while Long Chixin and Long Qianxin stood on either side. Their expressions were serene, and their eyes were cast downward. Clearly, they did not believe there would actually be any “matter of great importance”.
 
-Meng Chaoyang stood a bit closer this time, his eyes half-squinted and his aura completely restrained, showing no emotion.
+Meng Chaoyang stood a little closer this time, his eyes half-closed, and his aura completely concealed. He betrayed no emotion whatsoever.
 
-"Godchild," Long Zhiming began, "you are the Godchild of Weaver Dream, a guest of guests to our race. You also possess the Ancestral Dragon bloodline; this old man is bold enough to view you as half a clansman. Therefore, whatever the matter, feel free to speak plainly without any reservations."
+“Divine Son Yuan,” Long Zhiming began, “as the Dreamweaver Divine Son, you are, to our race, the most honored of guests among honored guests. Furthermore, you are also the possessor of the Ancestral Dragon’s bloodline. It may be audacious for me to say this, but I regard you as one of our own. Thus, whatever the matter may be, feel free to speak freely without any reservations.”
 
-"Good!"
+“Very well!”
 
-Yun Che nodded, adopting a posture of having made a monumental decision. "Since I have made up my mind and returned, I will no longer hide anything."
+Yun Che nodded, his expression resolved as if he had just made a major decision. “Since I have made up my mind and returned, I will hide nothing from you.”
 
-He looked directly at Long Zhiming and said slowly, "In the Pure Land, I once confessed to Senior Dragon Sovereign that this body was bestowed with dragon blood and dragon marrow by my master, which is why I possess the Ancestral Dragon aura."
+He looked Long Zhiming directly in the eye and said slowly, “On the Pure Land, I once confessed to you, Senior Dragon Lord, that I had received my dragon blood and dragon marrow from my master. That is why I possess the aura of the Ancestral Dragons.
 
-"In truth... at that time, this junior had reservations and hid some things."
+“In truth, at the time, this junior had withheld certain details out of reservations.”
 
-As his words fell, he took a slight breath. His aura gathered, and then the dragon blood throughout his body boiled violently. The Dragon God aura was suddenly released, almost without reservation.
+He took a shallow breath after saying this, gathering his strength. Instantly, the dragon blood coursing through his body began to boil violently, and the aura of the Dragon God surged forth almost without restraint.
 
-The space trembled slightly, and the air currents swirled. Though there was no sound, a primordial dragon roar seemed to echo in everyone's hearts.
+Space trembled slightly, and air currents swirled. Though there was no sound, it felt as though an ancient dragon’s roar was echoing in everyone’s hearts.
 
-Long Chixin and Long Qianxin, who had remained silent, both shuddered violently. Their pupils shrank, and their faces were filled with shock bordering on terror.
+Long Chixin and Long Qianxin, who had remained silent until then, shook violently. Their pupils contracted sharply, and their shocked expressions bordered that of terror.
 
-Long Zhiming even sprang up from his seat. His hair and beard flared out, dancing wildly without wind. His old eyes stared fixedly at Yun Che, bulging to the point of nearly bursting.
+Long Zhiming abruptly leaped from his seat. His hair and beard were standing on end and whipping wildly despite the absence of wind. His aged eyes were fixed intently on Yun Che, bulging so wide they seemed on the verge of bursting.
 
-"This... this... this, this... you... you..."
+“Th-th-th-this... you... you....”
 
-Trembling, broken syllables spilled chaotically from his mouth, unable to form a complete sentence. Even Long Chixin and Long Qianxin, who had followed him for countless years, had never seen him lose his composure to such an extent.
+Trembling, broken syllables spilled chaotically from his gaping mouth, yet try as he might, he could not form a coherent sentence. Even Long Chixin and Long Qianxin, who had both served by his side for untold years, had never witnessed him losing his composure to such an extent.
 
-Even Meng Chaoyang suddenly looked up, a brilliant light flashing in his eyes.
+Even Meng Chaoyang was looking up suddenly, a strange light blazing in his eyes.
 
-Though he was not of the Dragon Race, he could clearly perceive that although the Ancestral Dragon aura Yun Che released was only at the Divine Master Realm—far weaker than any Ancestral Dragon present—its purity and density clearly surpassed... no, far surpassed Dragon Sovereign Long Zhiming!
+Although he wasn’t a dragon, he could sense with crystal clarity the Ancestral Dragon Aura Yun Che was currently unleashing. Though only at the Divine Master Realm and far weaker than any Ancestral Dragon present, it was, in both purity and depth, clearly superior... no, far superior to even the Dragon Lord, Long Zhiming!
 
-And this was only the beginning.
+This was merely the beginning.
 
-Casting a faint glance at the three who were dazed with shock, a blue light flickered in Yun Che's eyes, and a pale blue dragon shadow was reflected deep within his pupils.
+Casting a faint, sidelong glance at the trio who had been stunned into a daze, a faint azure light flickered in Yun Che’s eyes, and the shadow of an azure dragon reflected deep within his pupils.
 
-In the next instant, a massive image of the Azure Dragon soared into the sky from behind Yun Che. It coiled in the air, its dragon head slightly lowered, as if looking down upon a group of lowly beings.
+In the next instant, a colossal azure dragon soared skyward from behind Yun Che. It loomed in the air with its head bowed slightly, as if looking down on a multitude of insignificant beings.
 
-Accompanied by a world-shaking, vast dragon roar:
+Accompanying it was a colossal dragon’s roar that shook the heavens and split the void—
 
-ROAR——————
+ROOOOOOOOOAAAAAAAAAAAARRRRRRRRRRRRRRR——————
 
-The dragon roar vibrated through the Ancestral Dragon Sacred Hall and echoed throughout the entire Ancestral Dragon Mountain Range.
+The dragon’s roar shook the Ancestral Dragon Divine Hall to its core and echoed throughout the entire Ancestral Dragon Mountain Range.
 
-The thousands of dragon-patterned ancient seals in the hall all stopped circulating, their dragon radiance dimming, leaving only disordered trembling and faint wails.
+The countless draconic patterns and ancient seals within the hall ceased functioning all of a sudden, their draconic radiance dimmed to the point where only chaotic tremors and faint, mournful wails were left.
 
-The vast Dragon Race seemed to have all sound erased in an instant, falling into a state of total deathly silence.
+The dragons—across the entire mountain range—also seemed to have their voices erased in an instant, plunging into total, absolute silence.
 
-From the Ancestral Dragons down to the lowliest hatchlings, everyone's ears rang and their dragon souls quaked. When their consciousness struggled to pull a sliver of clarity from the blankness and fragmentation, they found their bodies and souls completely out of control, trembling almost frantically, unable to stop.
+From the highest Ancestral Dragon to the lowest dragonling, all of them were experiencing a deafening roar in their ears, and a startled tremor in their souls. Only when their blank, shattered consciousness struggled loose a sliver of clarity did they realize that they had lost total control over their bodies and souls, they were shivering madly and unable to stop no matter what.
 
-Even more dragons had collapsed to their knees, some even prostrating themselves, unable to stand for a long time.
+Many dragons had even dropped to their knees—some even prostrating themselves—and remained like this for a long, long time.
 
-Thud!
+Long Zhiming’s aged body lurched violently to one side. It was only when he gripped the armrest of his chair that he barely managed to keep from collapsing to the ground.
 
-Long Zhiming’s aged dragon body suddenly tilted. He instinctively braced himself against his chair, barely managing not to collapse onto the floor.
+With his powerful dragon soul, he should not have been so thoroughly intimidated by Yun Che’s dragon soul intimidation. What truly shook his soul was a shock and disbelief so intense and overwhelming that it completely shattered his perception.
 
-With his powerful dragon soul, he shouldn't have been intimidated to this extent by Yun Che's dragon soul. What shook his soul was a shock and horror so intense and surging that it completely crushed his perception.
+Dust hung motionless in the hall, the air itself seemed to freeze. Long Chixin and Long Qianxin stood utterly frozen, their eyes vacant, as if they were trapped in an utterly absurd dream.
 
-The dust in the hall stood still, the air currents stagnated. Long Chixin and Long Qianxin were completely stunned, their eyes hollow, as if in an utterly absurd dream.
+Long Zhiming remained in a lopsided posture, his hands braced against his seat, as if that single dragon’s roar had instantly stripped him of the composure and pose he had accumulated over a million years.
 
-Long Zhiming maintained his tilted posture, hand on the chair, for a long time, as if that dragon roar had instantly stripped away the composure and calm he had accumulated over a million years.
+This was a dragon’s roar from Yun Che, yet it carried an ancient, overbearing might that seemed to come from the distant past, spanning countless ages.
 
-This was a dragon roar from Yun Che, yet it carried a primordial majesty that seemed to come from ancient times, spanning thousands of years.
+Yun Che lowered his arms, and both his draconic aura and dragon soul disappeared in an instant.
 
-Yun Che lowered his arm, and the dragon aura and dragon soul vanished in an instant.
+The Ancestral Dragon Divine Hall remained deathly silent, though. Yun Che continued of his own accord, “In truth, the blessing bestowed upon me by my master all those years ago—be it the dragon blood, dragon marrow, or dragon soul—was far greater than the meager manifestations I have displayed on the Pure Land. In fact, they were immeasurably greater. It was just that, at the time, this junior harbored reservations and could only offer a simple acknowledgement, unable to speak the full truth.”
 
-However, the Ancestral Dragon Sacred Hall remained deathly silent. Yun Che began to speak to himself: "In truth, my master's bestowal back then—whether it was dragon blood, dragon marrow, or dragon soul—was far from being as thin as what was shown in the Pure Land. It was incredibly dense. It was only because this junior had reservations at the time that I only gave a simple acknowledgment and failed to tell the truth."
+“......” Meng Chaoyang frowned slightly, lips twitching in a way that clearly indicated he wanted to say something, but held back.
 
-"..." Meng Chaoyang frowned slightly. His lips moved, clearly wanting to say something but hesitating.
+There was a saying that went something like this: “It is a sin to possess something valuable.” That is why one should strive to hide their valuables as much as possible... Yun Che surely understood this, or there was no way he, the Dream Lord of a Dream Hall, would only find out about it today. So why had he willingly divulged such a massive secret to the dragon race?
 
-A man carrying a jade treasure should hide it with all his might... Yun Che couldn't possibly not understand this. Otherwise, even he, a Hall Master, wouldn't have just found out today.
+Long Zhiming’s beard quivered violently. He clearly wanted to say something, but he was so shocked that he failed to form the words for a terribly long time. It wasn’t until his body swayed, and he nearly toppled to the ground once more, that he snapped out of his daze and hastily regained his footing.
 
-Why would he suddenly take the initiative to expose such a massive secret to the Dragon Race?
+But his dragon blood continued to boil, and his soul sea remained in turmoil. In the blink of an eye, his aged faced shifted from the pallor of moments ago to a crimson flush:
 
-Long Zhiming’s beard twitched violently. He clearly wanted to say something, but for a long time, no sound came out. As his body tilted, he nearly fell to the ground again, only then snapping out of it like waking from a dream and hastily standing firm.
+“Di... Di... Divine Son Yuan, where... where exactly do you dragon blood... and dragon soul... come from!?”
 
-But his dragon blood was still churning, his sea of soul still surging. His aged face turned from deathly pale to bright red in an instant.
+Though his voice was still trembling violently, he was finally able to form a complete sentence.
 
-"God... God... Godchild, your dragon blood... dragon soul... where exactly did they come from!?"
+Yet the gaze he was fixing on Yun Che held none of its former warmth; instead, it was filled with a terror as if a million stars were shattering.
 
-Though his voice still carried a heavy tremor, he could finally speak a complete sentence.
+A boundlessly absurd thought had even flashed through his mind—for a dragon roar to terrify his Ancestral Dragon Soul to this extent... it almost seemed to be the supreme dragon might of the Ancestral Dragon God himself!
 
-However, the eyes he fixed on Yun Che no longer held their previous warmth, but were filled with a shock like ten thousand stars shattering.
+Meanwhile, Long Chixin and Long Qianxin were completely frozen in place, unable to speak, let alone remain calm. Just moments ago, they had dismissed the so-called “matter of great importance” as trivial. As it turned out, the matter was so great it had nearly shattered their hearts and souls!
 
-An infinitely absurd thought even flashed through his mind—to be able to make his Ancestral Dragon soul so terrified, it was almost like the supreme dragon might from the Ancestor Dragon God himself.
+Yun Che shook his head. “It was bestowed upon me by my master. I do not know which Ancestral Dragon predecessor it came from, nor was it appropriate for me to inquire.”
 
-Long Chixin and Long Qianxin stood there completely frozen, unable to speak, unable to calm down. They had been indifferent to the so-called "great matter" just moments ago, but now it was so "great" that their hearts and souls were nearly collapsing.
+Before Long Zhiming could ask another question, he continued, “Earlier on the Pure Land, when Senior Dragon Lord had asked me that question, I appeared composed on the surface, but in truth, I was hiding nine-tenths of the truth. It wasn’t because I possess a terrible secret that needs to be kept hidden from the greedy and envious, but because... I was selfish.
 
-Yun Che shook his head. "Bestowed by my master. This junior does not know which Ancestral Dragon senior it came from, nor is it convenient to ask."
+“Now, in the presence of all Senior Ancestral Dragons, I am laying everything bare not to show off, but rather....” He exhaled softly, his expression relieved like he had finally shed a heavy burden weighing on his heart. “To fulfill my master’s dying wish.”
 
-Without waiting for Long Zhiming to ask further, he continued, "Previously in the Pure Land, when Senior Dragon Sovereign asked, I appeared composed, but in truth, I was ninety percent deceptive. It wasn't to hide the treasure I carried, but because... I harbored a selfish motive."
+“Your master’s... dying wish?” Long Zhiming leaned forward involuntarily, his throat convulsing violently with excitement that nearly burst from his voice. “Does it... concern the dragon race?”
 
-"Revealing everything today before all the Ancestral Dragon seniors is not for the sake of showing off, but..." He let out a soft breath, his demeanor appearing as if he had finally offloaded a heavy burden from his heart: "...to follow my master's dying wish."
+It was as if he had sensed something; anticipated something. The turmoil in his heart had not yet fully subsided, yet it was already beginning to churn even more violently. 𝙛𝓻𝒆𝓮𝒘𝙚𝙗𝒏𝙤𝙫𝓮𝒍.𝓬𝒐𝙢
 
-"Your master's... dying wish?" Long Zhiming’s body unconsciously leaned forward, his throat bobbing violently, his voice carrying an excitement that was almost ready to burst forth: "It is related to... my Dragon Race?"
+“When my master bestowed the Ancestral Dragon’s inheritance upon me, he once sighed... that the dragon race once reigned supreme over all races, its might dominating every age, yet this abyssal world had utterly eroded their draconic power and bodies, whittling both strength and lifespan. It was all they could do to survive, painstakingly clinging to life while passing the torch to the next generation—yet still edge ever closer to the brink of extinction. In fact, even the Ancestral Dragon’s lineage had withered to near extinction.”
 
-He seemed to have sensed something, anticipated something, and his heart, which had not yet fully calmed, began to churn even more violently.
+These words spoke directly to the dragon race’s long-standing struggle and tragic fate, undoubtedly striking a chord deep within the hearts of the three Ancestral Dragons.
 
-"Of course." Yun Che nodded. His gaze slowly swept over Long Chixin and Long Qianxin, then met Long Zhiming’s eyes directly, his expression completely open:
+“This Ancestral Dragon was my master’s closest friend in life, which was why he had chosen to entrust his inheritance to him. He would certainly not wish to see his race reduced to such a dire state. Therefore... my master once said that, as I am now the bearer of the Ancestral Dragon bloodline and the Ancestral Dragon’s dragon soul, I am technically half a member of the dragon race. Thus, when I enter the world in the future, I must strive to befriend the dragons, and if they are facing hardships, then I must spare no effort to assist them.”
 
-"When Master bestowed the Ancestral Dragon inheritance upon me, he lamented... the Dragon Race was once the sovereign of all races, awing all worlds. But in this world of Abyssal Dust, their dragon power and bodies have been eroded by the Abyss, their strength and lifespan drastically reduced. They can only struggle to survive, bitterly supporting their heritage, but they are ultimately approaching the brink of extinction. Even the Ancestral Dragon lineage has withered to near ruin."
+These words deeply moved and stirred Long Zhiming. For Yun Che carried more than just the Ancestral Dragon’s legacy; he was also the Dreamweaver Divine Son. Given his status and the backing of the Dreamweaver Kingdom of God, the weight of those three words—“spare no effort”—could only be immense.
 
-These words spoke exactly of the struggle and sorrow the Dragon Race had always faced, undoubtedly striking the hearts of the three Ancestral Dragons.
+But he had clearly gotten excited too soon, for what Yun Che said next hit him like ten thousand thunderclaps.
 
-"That Ancestral Dragon senior was my master's lifelong friend and left his final remains to my master. He certainly wouldn't want to see his own race fall into such a tragic state. Therefore... Master said that since I have inherited the Ancestral Dragon bloodline and soul, I am already half a member of the Dragon Race. When I enter the world in the future, I should be close to the Dragon Race, and if the Dragon Race is in trouble, I must help without reservation."
+“He especially mentioned that...” Yun Che paused briefly before lowering his voice and slowly enunciating each word, “Should the Ancestral Dragon lineage face calamity, should their bloodline grow weak and endangered, and should it become impossible for them to continue existing, then I must return the dragon marrow and dragon soul to the youngest generation of the Ancestral Dragon, to sustain the glory of their draconic lineage.”
 
-These words made Long Zhiming feel extremely excited and moved. Because Yun Che was more than just the Ancestral Dragon inheritance; he was also the Godchild of Weaver Dream. With his status and the Weaver Dream Divine Kingdom behind him, the weight of the words "without reservation" was incredibly heavy.
+BOOOOOOOOOOOOOOOOOOOOOOOM————
 
-But he was clearly excited too early. Yun Che’s next words were like ten thousand claps of thunder.
+Long Zhiming felt the blood in his entire body surging to his head, culminating into an endless roar inside his mind.
 
-"There was a further instruction..." Yun Che paused briefly before slowing his voice, saying word for word: "If the Ancestral Dragon lineage faces disaster and the bloodline becomes weak and endangered, making it difficult to continue, I must return the dragon marrow and dragon soul within this body to the youngest generation of the Ancestral Dragons to continue the glory of the dragon lineage."
+“Your Highness!”
 
-Buzz————
+Meng Chaoyang let out a low growl and instantly teleported to Yun Che’s side, placing a hand on his shoulder.
 
-Long Zhiming’s blood rushed to his head, and his mind filled with endless roaring.
+He had witnessed with his own eyes and felt first hand just how terrifying Yun Che’s draconic aura and dragon soul were. Coupled with Long Zhiming’s extreme reaction, it was clear that the dragon blood and dragon soul within him far surpassed even those of the current Dragon Lord!
 
-"Your Highness!"
+Such a precious treasure—how could he possibly part with it!
 
-With a low growl, Meng Chaoyang instantly moved to Yun Che's side and pressed his hand on his arm.
+The meaning behind his current actions were clear: he did not want Yun Che to actually hand over the dragon marrow and dragon soul. As long as Yun Che refused, with the Dreamweaver Kingdom of God as his backing, the dragon race could grow a thousand times more courageous than they were now, and still they would never dare to forcibly take them.
 
-He had witnessed and felt firsthand how terrifying Yun Che's dragon aura and soul were. Combined with Long Zhiming’s extreme reaction, it was clear that the dragon blood and soul within him far surpassed the current Dragon Sovereign!
+Yun Che, though, raised his hand slightly and looked back at Meng Chaoyang with resolute eyes. Though he said nothing, his silence spoke volumes: My mind is made up; there is no need for further discussion.
 
-Something so significant—how could he just give it up!
+“......” Meng Chaoyang watched him for a long moment before finally stepping back. He let out a soft sigh, unsure whether to feel sorrow or admiration for the young man.
 
-His actions were clearly intended to tell Yun Che that he must absolutely not hand over the dragon marrow and soul. As long as he was unwilling, with the Weaver Dream Divine Kingdom as his backing, the Dragon Race wouldn't dare to take it by force even if they were given a thousand times the courage.
+Long Zhiming lunged forward suddenly, every hair and every pore on his body trembling with excitement. His normally deep, aged voice had become shrill and piercing due to the overwhelming emotions. “Divine Son Yuan, do you... mean it? Do you mean it!?”
 
-Yun Che, however, raised his hand slightly, his gaze resolute. Though he didn't speak, he silently communicated: My mind is made up; there is no need for further words.
+“Do... you... mean... it!?” Long Chixin and Long Qianxin had roared out in unison as well, their voices nearly overlapping.
 
-"..." Meng Chaoyang looked at him for a long while before finally stepping back, letting out a soft sigh, unsure for a moment whether to feel pity or admiration.
+Yun Che replied calmly, “If I hadn’t already made up my mind, why would I have spoken of it myself?”
 
-Long Zhiming lunged forward, every hair and pore on his body trembling frantically with excitement. His aged, deep voice became sharp and piercing due to his extreme emotions: "Godchild, are these words... true? Are they true!?"
+Long Zhiming’s eyes trembled, and the corners of his lips quivered. Before him was the noble Dreamweaver Divine Son, with absolutely no reason to deceive or toy with them. Yet even so, this sudden, unimaginable surprise—so immense it defied description—left him dazed for a long time, unable to believe it.
 
-"Are... these... words... true!?" Long Chixin and Long Qianxin also shouted out almost at the same time.
+They had just witnessed Yun Che’s dragon aura and dragon soul; they understood far better than Meng Chaoyang exactly what they entailed. They understood even more what it meant for the Ancestral Dragon lineage if Yun Che were to truly “return” it to them....
 
-Yun Che said unhurriedly, "If I hadn't already decided, why would I take the initiative to say it?"
+It was a divine blessing they had never even dared to dream of.
 
-Long Zhiming’s eyeballs were vibrating, and the corners of his lips were twitching. Before him was the noble Godchild of Weaver Dream; there was no reason for him to deceive or toy with them... Even so, this sudden surprise from the heavens, too great to be described by any words, still left him dazed and unable to believe it for a long time.
+Yun Che stood up, pacing back and forth as he spoke slowly, “When I first arrived here, I hadn’t considered this possibility. I merely thought that, although the Ancestral Dragon lineage had declined, it was far from being on the brink of extinction.
 
-They had just witnessed Yun Che's dragon aura and soul, and they knew far better than Meng Chaoyang what that concept meant. They knew even better what it would mean for the Ancestral Dragon lineage if he truly "returned" it...
+“That was... until Brother Wangchu appeared.”
 
-That was a miraculous gift they hadn't even dared to dream of.
+He turned his gaze, seemingly weighing his words, before continuing, “Forgive my frankness, but based on what I felt with the dragon soul I bear, Brother Wangchu possesses extremely poor natural talent, a muddled bloodline, a frail dragon body, and a pitifully weak dragon soul. Even his rapid growth in recent years must have been fueled by some... unorthodox external forces.”
 
-Yun Che stood up, pacing as he spoke slowly, "When I first entered this place, I hadn't considered this thought, thinking that although the Ancestral Dragon lineage had withered, it was far from being on the brink of extinction."
+Yun Che’s words were harsh and cutting, sparing no one’s feelings. Long Zhiming opened his mouth but couldn’t bring himself to utter a single word in rebuttal, for he knew better than anyone that this was the cruelest, most humiliating truth.
 
-"Until... the appearance of Brother Wangchu."
+“If he were to lead the dragons in the future...” Yun Che shook his head, continuing to speak bluntly and without mercy, “I’m afraid the dragons won’t have a future.”
 
-He turned his gaze, seemingly weighing his words before continuing, "Forgive my bluntness, but based on what my dragon soul perceives, Brother Wangchu's talent is extremely poor, his bloodline is murky, his dragon body is unstable, and his dragon soul is incredibly weak. Even his rapid growth in recent years must have been achieved through some... wicked external forces."
+These words struck directly at the core of their deepest, most long-held fears—the very issue they had dared not touch all these years.
 
-Yun Che’s words could be described as harsh and cutting, showing no mercy. Long Zhiming opened his mouth but couldn't refute a single word. Because he knew better than anyone that this was the cruel and embarrassing truth.
+“My earlier praise of Brother Wangchu was, in truth... born of my recollection of my master’s entrustment. Yet, in the blink of an eye, selfishness took hold, and I found myself unwilling to part with the dragon marrow and dragon soul.
 
-"If he is to lead the Dragon Race in the future..." Yun Che shook his head, still speaking bluntly without mercy: "...I fear the Dragon Race will have no future."
+“After that, I left the hall under the pretext of visiting Long Xi, and then departed without a word. In truth, it was all self-reproach stemming from selfishness. I felt ashamed of my failure to repay my master’s kindness, and I had no face to continue standing before the Dragon Lord... so I fled in disgrace.”
 
-These words struck directly at the core of what they had been most worried about and most afraid to touch all these years.
+Yun Che tilted his head back slightly and said wistfully, “After leaving, the mountain breeze cleansed my heart, and the vast sky purified my soul. As I recalled my master’s profound kindness and the Dragon Lord’s generous hospitality, a deep sense of shame and remorse began to consume my soul. At the same time, a flood of regret surged through my heart, like a swarm of ants gnawing at my bones. Only then did I come to my senses and turn back.”
 
-"And my high praise for Brother Wangchu earlier was actually... because I thought of my master's entrustment, yet my selfish thoughts took over, making me reluctant to hand over the dragon marrow and soul."
+He looked at Long Zhiming, his face still flushed with shame. “Because of my own greed, I had nearly defied my master’s final wishes. I had nearly let the redemption and hope that the Ancestral Dragons left for future generations be silently extinguished by my selfishness, and placed the dragon race in the perilous situation of extinction. Truly... I am ashamed to face you, Senior Dragon Lord.”
 
-"Afterward, I left the hall on the pretext of visiting Long Xi, and then departed without saying goodbye. In truth, it was all out of self-reproach for my selfishness, feeling I had failed my master's kindness, and having no face to continue facing Senior Dragon Sovereign... a flight in panic."
+“No... no, no! You must not speak of yourself this way, Divine Son Yuan!”
 
-Yun Che looked up slightly, saying wistfully, "After leaving, the mountain wind cleared my mind and the vast sky cleansed my soul. Recalling my master's great kindness and the Dragon Sovereign's hospitality, I gradually felt the pain of guilt piercing my soul and a flood of regret filling my heart, like ten thousand ants gnawing at my bones. Only then did I suddenly wake up and turn back."
+Long Zhiming’s aged eyes turned crimson as he stumbled forward in haste. When he stood in front of Yun Che, he began:
 
-He looked at Long Zhiming, the guilt still present. "Because of my own greed, this junior nearly disobeyed my master's dying wish and almost silently extinguished the salvation and hope left by the Ancestral Dragon senior for future generations out of selfishness, placing the Dragon Race in a state of extinction. I truly... have failed Senior Dragon Sovereign."
+“All that our ancestral forebears had left behind resides within Divine Son Yuan’s body—and your thoughts! If you had chosen not to speak of it, no one would know, and no one could blame you for it.”
 
-"No... no, no! The Godchild must never say such things!"
+His voice trembled with every word, each one resounding like thunder and gradually becoming drenched with sobs.
 
-Long Zhiming’s old dragon eyes were red as he stumbled forward in a rush until he was in front of Yun Che.
+“How magnificent was the might of our ancestors! Who in the world, having obtained it, would willingly relinquish it? But you, Divine Son Yuan, you are so noble... that you are willing to sacrifice yourself for we who have fallen to such insignificance, the dragon race.
 
-"What the ancestor left behind is all within the Godchild's body, and even more so within the Godchild's will! If the Godchild were unwilling and remained silent, no one in the world would know, and no one could condemn you."
+“Such profound devotion and righteousness, such noble character and integrity—in my million years of existence, I have never witnessed the like. Your grace is as vast as the heavens, and your virtue as steadfast as the mountains... please, accept this old one’s deepest bow!”
 
-Every word he spoke trembled, every word was deafening, and gradually, every word became tearful.
-
-"How great is the ancestor's dragon might? Who in the world would be willing to give it up? And the Godchild is of such noble status... yet you are willing to make such a sacrifice and self-harm for our Dragon Race, which has reached its end."
-
-"Such deep affection and righteousness, such noble character—in my million years of existence, I have never seen the like. Your great kindness is like the heavens, your great virtue like a mountain... Please accept this old man's bow!"
-
-Facing Yun Che, Long Zhiming clasped his hands, his aged dragon spine bending deeply, his head lowering all the way to his knees.
+Facing Yun Che, Long Zhiming clasped his hands together and bent his dragon spine deeply, his head hanging straight down to his knees.

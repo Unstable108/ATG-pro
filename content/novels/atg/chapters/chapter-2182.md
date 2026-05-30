@@ -1,276 +1,279 @@
 ---
 chapterNumber: 2182
-title: ""
-publishedAt: "2026-04-14"
+title: "Formation of Metamorphic Rebirth"
+publishedAt: "2026-05-30"
 ---
 
-The moment Shen Wu Yi stepped out of the barrier, Yun Che’s figure flickered as he followed closely behind.
+UNedited chapter - Rubble
 
-Beyond his leisurely composure, he carried a hint of satisfaction that he seemingly could not suppress.
+The moment Shenwu Yi stepped out of the barrier, Yun Che’s figure flickered, and he followed closely behind.
 
-"Wuyi!"
+His expression was serene, tinged with a sense of contentment that seemed impossible to suppress.
 
-Shen Wu Mingque arrived almost instantaneously. Her gaze and profound energy swept over Shen Wu Yi several times; only after confirming she was unharmed did she finally seem to relax.
+Shenwu Mingque appeared almost instantly, her gaze and profound energy sweeping over Shenwu Yi multiple times to ensure she was unharmed. Only then did she relax slightly.
 
-Shen Wu Yi offered her a faint smile. "Aunt, there is no need for concern. The Abyssal Godchild appears overbearing, but he possesses the inner heart of a gentleman. He has quite exceeded my expectations. This journey was a success; Aunt, let us depart."
+Shenwu Yi offered her a faint smile. “There’s no need to worry, Aunt. Divine Son Yuan may seem arrogant on the surface, but he possesses the heart of a gentleman. He’s actually quite impressive[1]. We’ve successfully completed our mission, so let’s go.”
 
-"Thank you for the praise. I shall not see you out." Yun Che spoke with a beaming smile, looking like a man who had achieved his heart's desire—perhaps even leaving one with the impression that he wanted more, sparking much room for imagination.
+“Thanks for the compliment, but I won’t be seeing you off.” Yun Che wore a beaming smile, looking as though he’d gotten exactly what he wanted... there was even a hint of reluctance in his expression that sparked quite a bit of speculation.
 
-Shen Wu Mingque shielded Shen Wu Yi and did not linger. "We are leaving!"
+Shenwu Mingque stepped in front of Shenwu Yi and made no further delay: “Let’s go!”
 
-As the two rose into the air, prepared to fly away at high speed, Shen Wu Yi’s figure suddenly faltered, and she came to a halt.
+The two floated into the air. Just as they were about to speed away, Shenwu Yi suddenly paused and stopped in her tracks.
 
-Shen Wu Mingque turned halfway to look at her, her eyes filled with doubt, yet she did not force her to leave.
+Shenwu Mingque turned halfway to look at her, confusion in her eyes, but she did not force the young woman to leave.
 
-Shen Wu Yi turned her eyes slightly, her voice calm and slow. "Abyssal Godchild, the conflict between you and me is, in the end, merely a struggle between juniors. Even if your methods are clever and everything goes as you wish, what of it? Under the rule of the God Emperors, all of this is but a fleeting child’s game."
+Shenwu Yi turned her gaze slightly and spoke in a calm, measured tone, “Divine Son Yuan, between you and me, this is ultimately nothing more than a dispute among juniors. Even if your tactics are brilliant, and everything goes as you wish, what good will it do? To the Divine Regents, it is nothing more than a fleeting, childish game.”
 
-On the surface, these words were a hidden jab at Yun Che for fighting so hard for a moment of dignity—an act of impulsive, childish behavior that failed to hide its sharp edges. In the Six God Kingdoms, the God Emperors were the heavens; no matter how large a struggle between juniors was, it was still just a game.
+On the surface, these words were a veiled criticism of Yun Che’s pursuit of momentary dignity—a childish act driven by impulsiveness, lacking the wisdom to hide one’s true strength. After all, in the six Kingdoms of God, the Divine Regents ultimately reigned supreme. No matter how intense, the disputes among the younger generation were nothing more than child’s play.
 
-But... this was no longer a secluded cultivation space. Her sudden stop to say these words in front of everyone absolutely carried a significant, hidden meaning.
+But... they were no longer in a secluded cultivation space where no one could eavesdrop. The fact that she suddenly stopped and chose to speak these words in front of everyone undoubtedly held a profound meaning.
 
-Yun Che’s eyes narrowed slightly, grasping her intent in an instant.
+Yun Che narrowed his eyes slightly, instantly grasping her intent.
 
-She was saying: Even if you truly succeed in inciting turmoil among the God Kingdoms, what then? If the Abyssal Monarch¹ intervenes, with his supreme prestige that has transcended the world for three million years, even the greatest chaos would be easily quelled.
+What she was really saying was: Even if you truly succeeded in stirring up turmoil across the Kingdoms of God, so what? If the Abyssal Monarch were to intervene, with his supreme prestige accumulated over three million years of dominance, even the greatest upheaval would be easily quelled.
 
-Yun Che crossed his arms, his leisurely expression fading slightly as he spoke unhurriedly. "The God Emperors are exalted beings; how could they find the leisure to condescend and interfere in the affairs of juniors? I, Yun Che, did not grow up in a God Kingdom. In essence, I am a man of the marketplace—narrow-minded and vindictive. I have never been one to suffer the slightest loss. I advise the Divine Daughter of Evernight, whether of her own will or forced, to provoke me as little as possible."
+Yun Che crossed his arms, the serene smile on his face fading slightly as he said in a leisurely tone, “What sort of beings are the Divine Regents? Why would they deign to meddle in the affairs of the younger generation? I, Yun Che, did not grow up in a Kingdom of God. In fact, I am, at heart, a commoner. I am narrow-minded, hold grudges, and cannot tolerate even the slightest injustice. I would advise the Eternal Night Divine Daughter—whether by choice or by force—that it would be best not to provoke me.”
 
-The hidden meaning: I have my own ways to ensure the Abyssal Monarch has no heart to interfere and no time to look elsewhere.
+His implication was clear: I have my own ways of ensuring the Abyssal Monarch has no desire to intervene, and no time for anything else.
 
-She looked back, giving Yun Che a deep, lingering gaze.
+She turned her head and gazed deeply at Yun Che.
 
-He said he could turn the Senluo, Zhetian, and Zhimeng Kingdoms against each other; he said he had planted a cognitive suggestion in the Wumeng God Emperor that could be triggered at any time; he said he could incite the Xiaodie God Kingdom to bring calamity upon Evernight...
+He claimed he could turn the three kingdoms—Boundless, Heaven Breaker, and Dreamweaver—against one another; he claimed he had implanted a belief in the mind of Dreamless Divine Regent, and suggestions that could be triggered at any moment; he claimed he could incite the Owl Butterfly Kingdom of God to bring calamity upon Eternal Night....
 
-And now, he said he could restrain the Supreme Abyssal Monarch...
+And now, he claimed that he could keep the supreme Abyssal Monarch in check....
 
-The Emperor of the Eternal Pure Land... the husband to whom I am bound by a marriage contract...
+The emperor of the Eternal Pure Land... the husband who is bound to me by a marriage contract....
 
-When facing him, those eyes were so clear they allowed not a speck of dust, yet they held a hidden, profound joy and guilt that seemed to have no end...
+Facing his eyes, so clear that they admitted not a speck of dust; and that joy and shame—so profound they seemed bottomless, impossible to conceal....
 
-As well as... a sincerity and cautiousness that made it seem as though he wished he could carve out his very soul to present before her...
+And... that sincerity and caution, as if he longed to tear out his very soul and lay it before her....
 
-She saw it all, and she perceived it with a clarity that touched her soul.
+She could see it all, and feel it with such soul-stirring clarity.
 
-Just what kind of past and secrets did he carry...
+What kind of past and secrets did he carry with him....
 
-And just what kind of grievances and entanglements had occurred between him and her...
+And what kind of entanglements and grievances had unfolded between him and me....
 
-Was her completely irrational choice born of her rejection of this world, or... because of him...
+Was my choice—one that completely defied reason—driven by my rejection of this world, or... was it because.... of him....
 
-A silent surge of complex emotions, unfamiliar and indescribable, rose within her. She spoke no more, her figure fluttering as she silently drifted away.
+Unprecedented, indescribably complex emotions surged silently within her. She said nothing more, her figure gliding gracefully away in silence.
 
-No one knew, and no one could have imagined, that this seemingly forced transaction—this clash of grievances between God-Inheritors—actually tugged at the threads of fate for the entire Abyssal world.
+No one could have imagined—much less known—that what appeared to be a forced transaction and a feud between two God Bearers were, in fact, tugging at the very threads of fate of the entire Abyss.
 
-Yun Che watched Shen Wu Yi leave with Shen Wu Mingque, then turned directly back into the cultivation space.
+Yun Che watched as Shenwu Yi followed Shenwu Mingque away, then turned directly and returned to his cultivation space.
 
-As for how Shen Wu Yi would explain what happened during their private time to Shen Wu Mingque and the Wuming God Emperor², he didn't need to worry in the slightest.
+As for how Shenwu Yi would explain to Shenwu Mingque—and the Lightless Divine Regent—what had transpired during their private moment, he had not the slightest concern.
 
-Standing alone and silent in the cultivation space, Yun Che fell into deep thought for a long time. He extended his right hand, looking at his palm.
+Standing alone in the cultivation space, Yun Che remained deep in thought for a long time. He extended his right hand and gazed at his palm.
 
-After falling into the Abyss of Nothingness, the terrifying sensation of being torn apart by spatial turbulence remained vivid. When he successfully landed in the Abyssal world, even with a body as powerful as his, there wasn't a single intact spot on him. His internal organs were riddled with countless cracks, and he had survived solely by clinging to his remaining profound energy.
+The terrifying sensation of being torn apart by spatial turbulence after falling into the Abyss of Nothingness remained vivid. Even when he finally landed in the Abyss Realm, despite his formidable physique, not a single part of his body remained unscathed; his internal organs were riddled with countless fractures, held together only by the last remnants of his profound energy.
 
-How did she, who was gravely injured, on the brink of death, and exhausted of profound strength, safely pass through the Abyssal passage? And where did those missing twenty years go...
+How had she, gravely wounded and on the brink of death with her profound energy completely depleted, managed to safely pass through the Abyss passage? And where exactly had those missing twenty years gone...
 
-He couldn't find even a single possibility that could offer him a modicum of comfort.
+He could not find even a single possibility that might offer him the slightest comfort.
 
-Could it truly only be understood as "Heaven's protection"?
+Can it really only be interpreted as “heavens’ blessing’....
 
-Sensing his restless heart, Li Suo³ spoke in a soft, comforting voice: "Perhaps when she fell into the Abyss, she happened to touch a dimensional passage torn open by spatial turbulence, which transported her directly to this world. Perhaps the laws of time in this world have completely lost their order, and the distortion of the time flow by the Time Black Tides is fluctuating violently, resulting in a temporal displacement."
+Sensing his restless turmoil, Li Sha spoke softly to comfort him: “Perhaps, as she fell into the Abyss, she happened to brush against a dimensional passage that was torn open by a spatial turbulence, which transported her directly to this world. Or perhaps the laws of time in this world have completely broken down, and the distortions caused by the Time Tidal Wave to the flow of time are fluctuating violently, leading to temporal chaos.
 
-"Or perhaps this world... this place abandoned by the Ancestral God, still hides many unknown secrets. It is difficult enough to know a person, let alone the full picture of a vast world."
+“Or perhaps this world... the land that was abandoned by the Ancestral God Herself... still harbors many secrets that are unknown to us. It is difficult enough to understand a single person; much less the full scope of a vast world.
 
-"But... as Shen Wu Yi said, the road ahead is extremely difficult. There is no need to be overly distracted by the unresolved mysteries of the past."
+“But... as Shenwu Yi said, the road ahead is extremely arduous, so there’s no need to dwell too much on the unresolved matters of the past.”
 
-"Mhm, I know," Yun Che replied calmly. He lowered his arm and reined in his thoughts, appearing to let it go and no longer dwell on it.
+“Mm, I know,” Yun Che replied calmly. He let his arms hang down and withdrew his thoughts. He seemed to have let it go, no longer dwelling on the matter.
 
-However, a strand of unerasable unease remained coiled within his soul.
+Yet, a thread of unease that could not be dispelled still lingered in his soul.
 
-Its name... was the Unknown.
+Its name... the unknown.
 
-The Evernight God Kingdom; a gloom that shrouded the sky.
+Pitch black darkness shrouded the Eternal Night Kingdom of God.
 
-Clang... scrape... clang... scrape...
+Clang... scrape... clang... scrape....
 
-Heavy shackles rubbed against the cold sand and stone, each sound heavier than the last. Every step dragged with a sense of powerless defeat—heavy steps, hopeless steps.
+Heavy shackles scraped against the cold gravel, each clang louder than the last, and every sound dragging a sense of helpless despair behind it. Step by step, the weight grew heavier; step by step, hope faded.
 
-A line of thirty people, thirty pairs of shackles nailed into flesh and bone. Every step was accompanied by heart-piercing pain, yet none of them dared to fly, nor did anyone dare to lift their deeply bowed heads.
+A procession of thirty, thirty pairs of shackles embedded deep into flesh and bone. Every step was accompanied by excruciating, bone-piercing pain. Yet none dared to fly through the air nor lift their heavily bowed heads.
 
-As the lowest "sin-slaves" of the Evernight God Kingdom—the "livestock" in the words of the Wuming God Emperor—they did not have the right to fly within the kingdom's territory.
+As the most despised criminal slaves of the Eternal Night Kingdom of God—the “livestock” spoken of by the Lightless Divine Regent—they possessed no right to fly within the realm’s borders.
 
-Clang... scrape... clang... scrape...
+Clang... scrape... clang... scrape....
 
-Their footsteps were uniform and silent. Their eyes held no light, and their expressions held no ripples, like a line of mechanical living corpses. The blood-stained shackles locked away not only their bodies but also their broken souls and their trampled faith and dignity.
+Their footsteps were steady and silent, their eyes devoid of light, and their expressions unchanging. It was like a procession of mechanized[2] living corpses. The bloodstained shackles bound not only their bodies, but also their shattered souls and trampled faith and dignity.
 
-The man at the head of the line had hair that was half-white and a face covered in filth. The thick sludge of blood on his body emitted a nauseating stench. His coarse features were hidden beneath his messy, long hair, which also concealed a pair of eyes that had once looked down upon all living spirits.
+The leader of the procession had half-gray hair and a face caked in grime. Thick layers of blood clung to his body, emitting a nauseating stench. Messy, unkempt hair concealed his coarse features and eyes that had once looked down upon all living beings with arrogance.
 
-Even a low-level practitioner from the borderlands would avoid him in disgust, not even deigning to cast a glance of pity or contempt.
+Even low-ranking profound practitioners living at the borders of the Land of the Living would recoil in disgust at the sight of him, refusing to spare him even a glance of contempt or pity.
 
-Yet, they would never dream that this filthy, shackled man possessed a profound cultivation as high as the ninth level of the Divine Extinction Realm.
+Yet not one would ever have dreamed that this filthy, stinking man, shackled in chains, possessed profound cultivation as high as the ninth level of the Divine Limit Realm.
 
-He was once the Mentor of the Godchild within the God Kingdom, a transcendent existence whose status and power were second only to the God Emperor.
+He was once the teacher of a Divine Son of a Kingdom of God; a transcendent being whose status and profound power was second only to the Divine Regent.
 
-A name that, when mentioned by the experts of the various God Kingdoms today, brought only sighs...
+He bore a name that, when mentioned by the powerful figures of the Kingdoms of God today, elicited nothing but sighs of regret...
 
-Shen Wu Yefeng.
+Shen Wuyefeng.
 
-When Shen Wu Anyey seized the Divine Source and became the Wuming God Emperor, he fell from being the Mentor of the Godchild and the arm of the God Emperor to the lowest sin-slave of Evernight.
+When Shenwu Yanye successfully seized the divine origin and became the Lightless Divine Regent, he too fell from being the mentor of the Divine Son and the right-hand man of the Divine Regent to become the most despised criminal slave of the Eternal Night Kingdom of God.
 
-Simply because he was a man with the surname "Shen Wu."
+Simply because he was a man bearing the surname “Shenwu.”
 
-His duty as a sin-slave was to lead the men of the Shen Wu clan, who had also been reduced to slaves, deep into the Sea of Mist time and time again to bring back Abyssal Crystals with their blood, wounds, and lives. Sufficient amounts brought no reward; insufficient amounts brought heavy punishment.
+And his duty as a criminal slave was to lead the men of the Shenwu clan—who had likewise been reduced to slaves—time and again into the Endless Fog, retrieving abyssal crystal at the cost of their blood, wounds, and lives... If the harvest was sufficient, there was no reward; if it fell short, the punishment was severe.
 
-Under the Seal of the Polar Night Death-Wish, they only dared to die; they did not dare to flee.
+Branded by the Eternal Night Death Wishing Mark, they dared only to die, not to flee.
 
-But what truly trapped Shen Wu Yefeng was not the seal, but his wife...
+Yet what truly held Shenwu Yefeng captive was not the Eternal Night Death Wishing Mark, but his wife...
 
-Shen Wu Youluan.
+Shenwu Youluan.
 
-Even with his dignity shattered and suffering every humiliation, he did not dare to die, flee, or resist... year after year, night after night. Only her safety was the comfort and support that kept his light from flickering out.
+Even as his dignity was shattered and he endured every humiliation, he dared not die, dared not flee, dared not resist... year after year, night after night. Only her safety remained his unwavering comfort and support.
 
-A flash of light approached from afar. Upon entering the kingdom's territory, its speed slowed, and it drifted slowly over them.
+A brilliant beam of light approached from afar, slowing as it entered the realm, then glided slowly overhead.
 
-Without looking up, Shen Wu Yefeng knelt and bowed his head, letting out a hoarse voice: "Sin-slave Yefeng greets the Divine Daughter, and greets the Night Patrol Envoy."
+Without raising his head, Shen Wuyefeng knelt with his head bowed, his voice hoarse: “Criminal slave Yefeng humbly welcomes Her Divine Highness[3] and the esteemed Night Patrol Officer.”
 
-The "sin-slaves" all knelt and bowed, creating a series of ear-piercing, tragic clangs from their shackles.
+The rest of the “criminal slaves” also bowed their heads and knelt, their shackles clanging in a piercing, heart-rending chorus.
 
-Even if these shackles were ten times stronger, they could easily break free. However, their existence was not for restraint, but for pure humiliation.
+In truth, they could have broken free with ease even if these shackles were ten times stronger. Yet the existence of these tools were not meant to restrain them—purely humiliate them.
 
-Shen Wu Yi and Shen Wu Mingque did not stop, nor did they cast a single glance toward them. Sin-slaves did not deserve a response, nor could they approach any woman of Evernight; they were only fit to be the lowest slaves and tools... In the era of Shen Wu Anyey, it had always been so.
+Neither Shenwu Yi nor Shenwu Youluan paused in their stride, or cast a single glance their way. Criminal slaves were unworthy of any response, let alone the privilege of approaching any women of Eternal Night. They were fit only to be the most despicable of servants and tools... Such had always been the way of Shenwu Yanye’s era.
 
-Shen Wu Yefeng remained kneeling and bowed, motionless, until the auras of Shen Wu Yi and Shen Wu Mingque had faded into the distance. Only then did he be the first to rise, then tremblingly moved his feet to continue forward.
+Shenwu Yefeng remained motionless, kneeling with his head bowed, until the two women’s auras had faded into the distance. Only then did he rise—the first to do so—and continued onward with unsteady steps.
 
-Only, the shackles seemed even heavier and more piercing.
+Yet the shackles seemed to grow heavier and more grating.
 
-The direction of his path seemed to shift slightly until, at a certain moment, his footsteps and his aura touched the space directly beneath Shen Wu Yi’s flight path.
+His direct of travel seemed to shift slightly, until a certain moment, where his footsteps and his breath touched the space directly beneath Shenwu Yi’s path of flight.
 
-His steps did not stop, and his deathly aura remained... only beneath that filthy, messy hair, a flash of light that shouldn't have been there flickered for an instant.
+His footsteps did not stop, and the aura of death remained... Yet beneath his filthy, tangled hair, a fleeting gleam that should not have occurred flickered for just an instant.
 
-Inside the Evernight Divine Hall, the "Seven-Coiled Dragon Profound Crystal" floated in mid-air, releasing an incredibly strange aura and Abyssal light... Even Shen Wu Anyey, behind the black curtain, had never sensed such a peculiar Abyssal Crystal aura.
+In the Eternal Night Divine Hall, the “Coiling Dragon Seven Profound Crystal” floated in midair, emitting an incredibly strange aura and an abyssal glow... Even Shenwu Yanye, hidden behind her pitch-black curtain, had never sensed such an odd abyssal crystal aura before.
 
-A sharp profound light suddenly shot out, instantly pulling the crystal behind the black curtain. Following this, the surrounding airflow began to surge violently, even causing the entire space to tremble slightly.
+A sharp beam of profound light suddenly shot out, instantly sweeping the “Coiling Dragon Seven Profound Crystal” behind the black curtain. Immediately after that, the surrounding air currents began to surge, causing the entire space to tremble slightly.
 
-Shen Wu Mingque’s fingers tightened slightly, her heart pounding like a drum. She had served Shen Wu Anyey for so many years and had endured her madness and fury countless times, yet never once had her emotions been so disordered... but it was not because of anger, but because of an extremely intense excitement and wild joy.
+Shenwu Mingque’s fingers tightened slightly, her heart pounding like a drum. Despite having served Shenwu Yanye for so many years and endured her countless fits of rage and madness, she had never once witnessed the supreme one losing control of her emotions to this extent... yet this was not due to anger, but rather an intense surge of excitement and ecstasy.
 
-Sss—Sss!
+Shred—shred!
 
-The black curtain was shredded by the turbulent airflow, revealing a pair of hands so excited that the fingers were completely twisted. No one could understand what this moment meant to the Wuming God Emperor; perhaps even she herself did not fully know.
+The pitch-black curtain was torn to shreds by the raging currents, revealing a pair of hands so overcome with emotion that every finger was twisted beyond recognition. No one could fathom what this moment meant to the Lightless Divine Regent—perhaps not even herself.
 
-This terrifying emotional disorder lasted for a long time. When it finally calmed down, Shen Wu Mingque bowed deeply. "Congratulations, Your Majesty, for obtaining your heart's desire. This is Heaven protecting Your Majesty, and Heaven protecting our Evernight God Kingdom."
+This terrifying emotional turmoil raged on for a long time, but when it finally subsided, Shenwu Mingque bowed her head deeply: “Congratulations on having your wish granted, supreme one. This is a blessing from the heavens for you and the Eternal Night Kingdom of God.”
 
-The world suddenly went silent. In the abrupt breathlessness, the black curtain was violently thrown aside, and a violent gale of air slammed into Shen Wu Mingque, accompanied by a ghost-like, furious shriek:
+The world fell suddenly silent. In the sudden, breathless stillness, the black curtain was violently torn aside, and a torrent of raging air swept directly toward Shenwu Mingque, accompanied by a ghoulish, furious roar:
 
-"You fool!" With a muffled bang, Shen Wu Mingque was sent flying, crashing to her knees as blood seeped from her facial orifices.
+“You wretch!” With a dull thud, Shenwu Mingque was sent flying and crashed to her knees, blood spilling from her seven orifices.
 
-"Who gave you the audacity to act on your own!!"
+“Who gave you the audacity to act on your own!!”
 
-The violent voice almost tore her ears. Shen Wu Mingque did not dare to resist or explain. With a pale face, she bowed again. "Mingque... accepts her fault..."
+The savage voice nearly tore the eardrums apart. Shenwu Mingque dared not resist, dared not defend herself; her face deathly pale, she bowed once more: “Mingque... knows her mistake...”
 
-"Mother!" Shen Wu Yi called out in alarm to stop her. "Please calm your anger. This was not Aunt Mingque’s fault; it was Wuyi who insisted on—"
+“Mother!” Shenwu Yi cried out in panic, trying to intervene. “Please calm your anger. This is not Aunt Mingque’s fault; it was Wu Yi who insisted on....”
 
-"Shut up!"
+“Shut your mouth!”
 
-Shen Wu Yi’s voice was directly cut off. Shen Wu Anyey, who had been uncontrollably excited just moments ago, had now turned back into a furious wraith. "Wuyi, your courage is truly growing. For such a major matter, you dared to hide it from this Sovereign and leave the territory privately! To go and beg that Yun Che, who deserves to be hacked into a thousand pieces!"
+Shenwu Yi’s words were cut off mid-sentence. Shenwu Yanye, who had been so overcome with emotion moments ago, had now transformed once more into a raging fiend. “Shenwu Yi, your audacity truly knows no bounds. On a matter of such gravity, you dared to conceal it from me and leave the domain without permission! To seek out that wretch Yun Che, who deserves to be torn to pieces!
 
-"Did you think that by bringing back this Seven-Coiled Dragon Profound Crystal, this Sovereign would overlook this matter and even be grateful to you?!"
+“Do you think that just because you retrieved this Coiling Dragon Seven Profound Crystal, I would overlook this matter and even be grateful to you!?”
 
-"No..." Shen Wu Yi shook her head in panic. "Mother’s long-cherished wish is more important than Wuyi’s life. Today’s matter, regardless of the reason or action, is Wuyi’s fault. Please, Mother, hand down your punishment. Wuyi... has no regrets or complaints."
+“No...” Shenwu Yi shook her head in terror. “Mother’s lifelong wish naturally outweighs my own life. Regarding today’s incident, regardless of the reasons or circumstances, I admit that I am at fault from the start. I beg Mother to impose her punishment; I... would neither have regrets nor harbor any resentment.”
 
-"Punishment?? The ugly deed is done, the humiliation is complete; what use is punishment!"
+“Punishment?? The disgrace has been committed, the humiliation is complete—what use is punishment now!”
 
-Shen Wu Anyey’s voice became increasingly shrill. "At the Eden Cloud Summit, you trampled Dian Jiuzhi and received a gift from the Abyssal Monarch, ruthlessly crushing the faces of those lowly men. You finally won a bit of face for this Sovereign!"
+Shenwu Yanye’s voice grew even shriller. “You had trampled upon Dian Jiuzhi at Eden’s Crown, received the personal favor of the Abyssal Monarch, and ruthlessly crushed the faces of those vile men—at long last, you had restored a shred of dignity to this regent!”
 
-"And now, in just two short months, you actually took the initiative to submit yourself to beg a hypocritical, filthy beast..." Her terrifying voice began to tremble even more violently. "You are this Sovereign’s daughter, the God-Inheritor appointed by me! To actually do such a dignity-shattering, filthy thing!"
+“But now, barely two months later, you actually threw yourself at a hypocritical, filthy beast, begging for...” Her already terrifying voice trembled with increasing intensity. “You are this regent’s daughter and chosen God Bearer! How dare you commit such a disgraceful and filthy act!”
 
-Shen Wu Yi’s face turned pale. She parted her lips, her voice trembling slightly as if she wanted to explain something, but in the end, she bowed deeply, filled with endless guilt. "Wuyi... was wrong... Please, Mother, calm your anger. Mother’s soul wound has not yet healed... you must not let anger harm yourself again..."
+Shenwu Yi’s face turned pale. Her lips parted, and there was a faint tremor in her voice as the beginnings of an explanation escaped her throat. But in the end, she bowed her head deeply, overcome with guilt. “Wu Yi... knows she has erred... Please, Mother, calm your anger. Your soul wounds have not yet healed... You must not let this distress harm yourself further...”
 
-"Mingque!!" Shen Wu Anyey’s voice shifted abruptly. "Speak! How exactly was this Seven-Coiled Dragon Profound Crystal obtained! If you dare to speak a single false word, this Sovereign will tear you apart right now!"
+“Mingque!” Shenwu Yanye’s voice suddenly switched to a different target. “Speak! How exactly had you obtained the Coiling Dragon Seven Profound Crystal! If you dare utter a single false word, I will tear you apart right now!”
 
-Shen Wu Mingque shuddered. Following the instructions Shen Wu Yi had given her on the way back, she spoke truthfully: "Reporting to Your Majesty... Wuyi and Yun Che were alone for fifteen minutes, and outsiders could not probe. After fifteen minutes, Yun Che handed the Seven-Coiled Dragon Profound Crystal to Wuyi."
+Shenwu Mingque shuddered violently. She then recounted everything truthfully following the instructions Shenwu Yi had given her on their way back. “Supreme one... Wu Yi and Yun Che had been alone for fifteen minutes. No one was allowed to intrude or pry. Fifteen minutes later, Yun Che handed the abyssal crystal to Wu Yi.”
 
-Boom—
+Space roared, and absolute fury tore at the heart.
 
-The space exploded; extreme rage tore through the heart.
+By now, the voice behind the black veil had twisted into the screech of an abyssal ghost. “Wu Yi... Do you still remember... what this regent hates most?!”
 
-The voice behind the black curtain was now twisted like the screeching of an Abyssal ghost. "Wuyi... do you still remember... what this Sovereign hates most!"
+“Wu Yi... dares not forget,” Shenwu Yi murmured softly. “Mother hates men in this world most of all; she hates betrayal and defiance most of all....”
 
-"Wuyi... does not dare to forget." Shen Wu Yi whispered. "Mother hates the men of this world most, and hates betrayal and defiance most..."
+The Lightless Divine Regent struck down a palm. Cracks instantly spread across the Eternal Night Divine Palace, and debris flew everywhere. “You remember... if you remember, then how dare you come into close contact with that filthy beast! You... you ....”
 
-Bang!
+“Mother, Wu Yi has not! Nor would I ever do such a thing!”
 
-She struck down with her palm, and cracks immediately spread across the Evernight Divine Hall as stone fragments flew. "You remember... since you remember! You still dared to have close contact with that filthy animal! You... you..."
+Shenwu Yi raised her head, her eyes a mix of one part sorrow and two parts resolve. “Wu Yi has not forgotten Mother’s teachings for even a moment. No matter what, Wu Yi would never allow Yun Che... or any man in this world to touch me in the slightest.”
 
-"Mother, Wuyi did not! And I would never do such a thing!"
+She held out her arms and met Shenwu Yanye’s fury head on. “If Mother does not believe me, then you may search every inch of my being. It has not even been twenty-four hours since I last saw Yun Che. If there had truly been any contact, it would be impossible to hide it from your perception.”
 
-Shen Wu Yi looked up, her eyes three parts sorrowful and seven parts resolute. "Wuyi has never dared to forget Mother’s teachings for a single moment. No matter what, Wuyi would never let Yun Che... or any man in the world touch her in the slightest."
+Shenwu Yanye possessed no sight, but this had indirectly sharpened her other senses to an extraordinary degree. In particular, she harbored an extreme, bone-deep aversion and loathing for the aura of all men. Even the slightest trace would have triggered her spiritual senses, stirring the depths of her hatred and leaving it with nowhere to hide.
 
-She extended her hands, directly facing Shen Wu Anyey’s fury. "If Mother does not believe me, you may thoroughly check the aura on Wuyi’s body. It has not even been twelve hours since Wuyi met Yun Che. If there truly was any contact, it would be impossible to hide from Mother’s perception."
+In truth, the moment Wu Yi entered the hall, Shenwu Yanye’s perception had already swept over her entire body. If she truly carried Yun Che’s... or any man’s scent upon her, her fury would have been far beyond this.
 
-Shen Wu Anyey lacked sight, but that indirectly made her other senses incredibly sharp. In particular, she had an extreme, bone-deep rejection and hatred for the aura of men. Even a tiny trace would trigger her spiritual sense and provoke her hatred, leaving nowhere to hide.
+“A man’s flesh and blood are vile and filthy, and their hearts are the most disgusting and evil things in the world! If you offered yourself willingly, how could such a beast not harbor evil intentions... and how could he possibly hand over the Coiling Dragon Seven Profound Crystal to you so easily!”
 
-In truth, the moment Shen Wu Yi entered the hall, Shen Wu Anyey’s perception had already swept over her entire body. If she truly carried the aura of Yun Che... or any man, her fury would have been far greater than this.
+Though Shenwu Yanye could not see, Shenwu Yi still raised her gaze to meet hers, her eyes filled with nothing but flawless sincerity: “Mother, I had gone to Dreamweaver with a heart filled with remorse. If I could fulfill your lifelong wish, I would not hesitate to kneel and forfeit my dignity. However, I had never once entertained the thought of defying your teachings.”
 
-"A man’s flesh and blood are filthy and cheap, and their hearts are the most disgusting and ugly things in the world! You offered yourself up; how could such a beast not have evil thoughts... and how could he easily give the Seven-Coiled Dragon Profound Crystal to you!"
+“When I was alone with Yun Che, he stood facing me from a distance, but he had never made any demands of me—not even an apology. He had merely uttered some slanderous and offensive words about Mother before handing me the Coiling Dragon Seven Profound Crystal.”
 
-Although Shen Wu Anyey could not see, Shen Wu Yi still looked up at her, her eyes filled only with flawless sincerity. "Reporting to Mother, Wuyi went with the intention of making amends. If I could fulfill Mother’s long-cherished wish, I would not hesitate even if I had to kneel and lose my dignity, but I never once thought of transgressing Mother’s teachings."
+“Wu Yi knows this is hard for Mother to believe, but I swear that every word is true. If even a single word is false, may abyssal dust devour this daughter, bone by bone, flesh by flesh...”
 
-"But... when I was alone with Yun Che, he stood far across from me and never made any demands. He didn't even require an apology. He merely said some slanderous and offensive things about Mother, and then gave the Seven-Coiled Dragon Profound Crystal to me."
+“Words that slander and offend this regent?” A shriek suddenly pierced the air with piercing intensity... Had it been any other Divine Regent, they would have dismissed the trifling words of a junior with disdain. But she was Shenwu Yanye, crazy and mad as a ghost: “What did he say!?”
 
-"Wuyi knows this is difficult for Mother to believe, but every word is true. If there is a single false word, Wuyi is willing to have her bones and body eroded by Abyssal Dust..."
+Shenwu Yi paused slightly, then replied swiftly, “It is just some absurd and filthy words, unworthy of Mother’s ears...”
 
-"Slanderous and offensive words about this Sovereign?" The screeching suddenly became shrill... If it were any other God Emperor, they would disdain the words of a junior, but she was the ghost-like, mad Shen Wu Anyey. "What did he say!?"
+“Speak!! Say it word for word!!”
 
-Shen Wu Yi was slightly startled, then quickly said, "It was just some absurd and filthy talk, not fit for Mother’s ears..."
+“No lies, no omissions!!”
 
-"Speak!! Word for word!!"
+“...Yes!” Shenwu Yi closed her eyes in resignation and “recounted” in a whisper:
 
-"No lies, no omissions!!"
+“He said... that though Mother is a Divine Regent, in truth she is nothing more than a... foolish and mindless madwoman. He doesn’t need to do anything at all; he merely... merely needs to keep me with him for fifteen minutes. Even if I returned with the Coiling Dragon Seven Profound Crystal, Mother would not count it as a merit. Instead, she would... fly into a rage... hurl insults... inflict punishment... and become irreversibly distrustful of me. Just like... just like how Shenwu Qing had lost Mother’s trust after becoming close to Pan Buwang.
 
-"...Yes!" Shen Wu Yi helplessly closed her eyes and "repeated" in a very soft voice:
+“Such retribution is effortless, achieved without shedding a drop of blood.”
 
-"He said... although Mother is a God Emperor, she is actually nothing more than a... stupid and witless madwoman. He didn't need to do anything; he only needed... only needed to keep me for these fifteen minutes. Even if I returned with the Seven-Coiled Dragon Profound Crystal, Mother would not see it as a merit, but would instead... be furious... insult me... hand down punishment... and then create an unhealable rift. Just like... just like Shen Wu Qing, who approached Pan Buwang back then."
+Her voice grew unconsciously softer, and her head gradually drooped as she spoke. It was as if she could no longer bear to face Shenwu Yanye’s rage, which could erupt at any moment.
 
-"Such revenge is easy, a bloodless victory." As she reached the end, her voice unconsciously grew softer, and her head gradually lowered, as if she could no longer face Shen Wu Anyey’s imminent, explosive rage.
+If someone was looking through the black curtain right now, they would see that every feature and every muscle fiber on the terrifying visage of the Lightless Divine Regent was trembling violently.
 
-If sight could penetrate the black curtain, one would see every organ and every fiber of the Wuming God Emperor’s terrifying face trembling violently.
+“Yun Che’s words” had, in fact, perfectly described her earlier frenzied rage. It was like a resounding slap that had crossed the borders of two Kingdoms of God to strike her, the Divine Lightless Divine Regent, squarely across the face.
 
-"Yun Che’s words" perfectly matched her mad fury just now. Like a loud slap, it crossed the borders of two kingdoms and struck the Wuming God Emperor squarely in the face.
+A tremor of fear in her voice, Shenwu Yi continued, “These falsehoods are truly unworthy of defiling the Mother’s ears. Wu Yi knows full well that Mother’s wrath stemmed from her inability to bear seeing Wu Yi humiliated and disgraced—it was certainly not as Yun Che had claimed. Shenwu Qing had committed a grave error first and deserved punishment; how could I and she possibly—”
 
-Shen Wu Yi continued with a voice full of fear: "These absurd words are truly not fit to soil Mother’s ears. Wuyi knows deeply that Mother’s anger is born from her inability to bear Wuyi’s humiliation, and is absolutely not what Yun Che said. Shen Wu Qing committed a great error first and deserved punishment; how could I be compared to her..."
+“Get out...”
 
-"Get out..."
+Shenwu Yanye uttered the words first in a hoarse whisper, then with a roar that tore through her throat:
 
-She spoke in a low, raspy voice, followed by a throat-tearing roar:
+“GET OUT!!”
 
-"GET OUT!!"
+RUMBLE————
 
-BOOM————
+Space fell into disarray, and a terrifying boom shook the entire Eternal Night Kingdom of God. Shenwu Yi and Shenwu Mingque were blasted far, far away before they landed a hundred li away from the Eternal Night Divine Palace.
 
-The space turned chaotic, and a terrifying explosion shook the entire Evernight God Kingdom. The figures of Shen Wu Yi and Shen Wu Mingque were blasted away, landing a hundred miles away.
+Shenwu Yi was shielding Shenwu Mingque. Despite the unceremonious expulsion, the Night Patrol Officer actually let out a long sigh of relief.
 
-After shielding Shen Wu Yi, Shen Wu Mingque actually let out a long sigh of relief.
+Every encounter with Shenwu Yanye was undoubtedly like stepping into a terrifying nightmare.
 
-Every time she faced Shen Wu Anyey, it was undoubtedly like stepping into a terrifying nightmare.
+It was at this moment Shenwu Youluan’s figure approached at breakneck speed. Even before she drew near, her concerned voice rang out, “What happened? Are you all right, Wu Yi?”
 
-Shen Wu Youluan’s figure flew over rapidly. Before she even arrived, her voice was filled with concern: "What happened? Wuyi, are you alright?"
+Shen Wuyi smiled faintly and shook her head. “I’m fine. It was my fault for handling matters poorly and provoking Mother’s wrath.”
 
-Shen Wu Yi smiled and shook her head. "I am fine. It was my poor handling of matters that provoked Mother’s anger."
+Seeing that Shenwu Yi was unharmed, Shenwu Youluan let out a small sigh of relief. She then cast a discreet glance at Shenwu Mingque and asked softly, “Mingque, Wuyi, have you truly found the Coiling Dragon Seven Profound Crystal?”
 
-Seeing that Shen Wu Yi was unharmed, Shen Wu Youluan breathed a sigh of relief. She stole a glance at Shen Wu Mingque and asked softly, "Mingque, Wuyi, did you truly find the Seven-Coiled Dragon Profound Crystal?"
+“Yes!” Shenwu Mingque nodded. “And we have already delivered them to the supreme one.”
 
-"Yes!" Shen Wu Mingque nodded. "And it has already been handed to Her Majesty."
+A strange glint flashed in Shenwu Youluan’s eyes as she asked urgently, “In that case, have all the abyssal crystals required for the ‘Metamorphic Rebirth’ technique mentioned by the supreme one been gathered? Doesn’t... that mean that....”
 
-Shen Wu Youluan’s eyes flashed with a strange light as she said urgently, "In that case, are all the Abyssal Crystals required for the 'Rebirth'⁴ technique Her Majesty mentioned finally gathered? Then... then doesn't that mean..."
+Shenwu Yi shook her head slowly. “All matters concerning Mother shall be decided by Herself. We need not speculate; we simply need to wait quietly for her instructions.”
 
-Shen Wu Yi slowly shook her head. "Mother’s affairs are for her to decide. We need not speak recklessly; we only need to wait for Mother’s instructions."
+Amidst the swirling smoke and unresolved fury within the Eternal Night Divine Palace, a withered hand slowly opened an ancient tome that was shrouded in abyssal dust.
 
-Inside the Evernight Divine Hall, where the dust swirled and the tide of anger had not yet subsided, a withered palm slowly turned the pages of an old, Abyssal Dust-shrouded ancient book.
+The Night Wither Pearl, the Glazed Radiance Heart Tempering Jade, the Sea Soul Stone, the Obsidian Evil Removing Crystal, the Abyssal Heart Vine, and the Coiling Dragon Seven Profound Crystal....
 
-Night-Withered Pearl, Sun-Jade Heart-Tempering Jade, Sea-Soul Stone, Obsidian Evil-Dispelling Crystal, Abyssal-Heart Vine, Seven-Coiled Dragon Profound Crystal...
+As recorded in the Secret Tome, All six abyssal crystals required to manifest the Formation of Metamorphic Rebirth had been found.
 
-The six types of Abyssal Crystals recorded in the secret manual that could derive the Rebirth Array had all been found.
+All that remained was to dispel the last bit of abyssal dust to reveal the true form of the Formation of Metamorphic Rebirth....
 
-She only needed to disperse the final bits of Abyssal Dust to glimpse the full picture of the Rebirth Array...
+At last....
 
-Finally... at last...
+At long last....
 
-At last...
+1. Ah... she has no idea how she sounds does she? ☜
 
+2. Preemptive response: I’m just the translator. ☜
+
+3. I checked back in the glossary, and there were actually old cases where Your Highness is used. Since she’s a Divine Daughter, I tried going with Her Divine Highness. Hopefully it doesn’t feel too jarring; we’ve never had a lower class’ perspective until now. ☜

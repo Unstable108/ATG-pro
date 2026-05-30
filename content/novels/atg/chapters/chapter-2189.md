@@ -1,304 +1,315 @@
 ---
 chapterNumber: 2189
-title: ""
-publishedAt: "2026-04-20"
+title: "Heaven Punishing Sword Art"
+publishedAt: "2026-05-30"
 ---
 
+UNedited chapter - Rubble
 
+In an instant, Yun Che’s consciousness was completely engulfed by those four words.
 
-Yun Che’s consciousness was, in an instant, completely swallowed by these four characters.
+It was as if he saw four beams of sword light, cleaving through time and space from the primordial dawn to reach him. They silently and imperceptibly—but also flawlessly—severed his soul sea from his body and carried it into a boundless voice constructed entirely of sword intent.
 
-He seemed to see four sword lights that had cleaved through time and space from the primordial beginning, silently and invisibly, yet flawlessly, severing his Soul Sea¹ from his body and dragging it into a vast, boundless void constructed entirely of sword intent.
+This void had neither sky nor earth, neither light nor darkness.
 
-This void had no sky, no earth, no light, and no darkness.
+This unprecedented sense of nothingness, this utterly strange space, though completely unfamiliar, clearly protected a self-emerging realization within his consciousness—
 
-This unprecedented sense of nothingness, this extremely strange space—it was completely unfamiliar, yet a realization emerged clearly within his consciousness of its own accord:
+Primal chaos.
 
-Chaos.
+This patch of primal chaos seemed to originate from before heaven and earth were created, yin and yang were separated, and all things came to be. There was only a single sword intent... a sword intent that seemed to have existed even before the birth of all things and was older even than time itself.
 
-This chaos seemed as if the heavens and earth had not yet opened, yin and yang had not yet separated, and all things had not yet been born. There was only one sword intent... a sword intent that seemed to have existed before the birth of all things, older than time itself.
+It appeared to slumber quietly at the center of the world of primal chaos, neither sinking nor floating, neither moving nor swaying, yet silently touching every corner of the world.
 
-It seemed to be quietly slumbering in the very center of this chaotic world, neither sinking nor floating, neither moving nor swaying, yet silently touching every existence within the world.
+Should it ever stir....
 
-And if it were to move...
+Life and death would shift, heaven and earth would collapse, ten thousand stars would flicker and fade, the flow of time would cease, and the order of cause and effect would crumble....
 
-It would cause life and death to alternate, the heavens and earth to collapse, the stars to flicker and fade, the flow of time to break, and causality to crumble...
+Within the primal chaos, it seemed as though someone was calling his name—distant and faint and first, then growing increasingly urgent.
 
-Yun Che!
+An “impurity” that should not exist appeared in the world of primal chaos... a faint, pure-white trace.
 
-Yun Che!!
+The dormant sword intent remained silent and still, allowing this pure white trace to rapidly invade until it gradually filled the entire space of primal chaos.
 
-Within the chaos, someone seemed to be calling his name, distant and blurred, yet gradually becoming urgent.
+Gradually, Yun Che’s consciousness became clear within this pure white space. Though the four words “Heaven Punishing Sword Art” still carried the soul-chilling sword intent and shone clearly within his soul sea, it no longer devoured his consciousness.
 
-Yun Che—
+“You... Just now....”
 
-A "foreign impurity" appeared in the chaotic world... a pure, flawless, minute trace.
+Li Suo’s voice was laced with deep concern. There was also still a faint trace of lingering fear.
 
-That slumbering sword intent remained silent and still, allowing this pure, minute trace to rapidly invade, until it bit by bit filled the entire chaotic space.
+“I’m fine,” Yun Che said before falling silent for a long time seemingly to reconstruct his own sense of reality. Finally, he responded calmly, “Just now, it seemed as thought I had caught a fleeting glimpse... of the primordial state of primal chaos.”
 
-Yun Che’s consciousness gradually regained clarity within this pure whiteness. The four characters "Zhu Tian Sword Manual"² were still clearly reflected in his Soul Sea, still carrying that soul-piercing sword intent, but they no longer swallowed his consciousness.
+“......” Li Suo could not respond for a time.
 
-"You... just now..."
+“Can you see these words?” Yun Che asked.
 
-Li Suo’s voice carried deep worry, and even a faint trace of lingering fear.
+Li Suo replied slowly, “Heaven Punishing Sword Art.”
 
-"I'm fine." Yun Che was silent for a long while, as if reconstructing his own cognition, then calmly replied: "I think I saw... the original state of Chaos for a moment."
+No matter how faint her existence had become, and no matter how fragmented her memories were, she could never forget what these four words signified.
 
-"..." Li Suo had no words to respond.
+Following the deep resonance within her consciousness, she murmured softly, “The Heaven Punishing Ancestral Sword is the progenitor of all swords in the entire universe, and the Heaven Punishing Sword Art is the origin of all sword arts throughout the ages.
 
-"Can you see these characters?" Yun Che asked.
+“Throughout his life, Mo E had used the Heaven Punishing Sword Art as the foundation to create over nine hundred thousand sword arts. Aside from a few core sword arts, the rest were disseminated across all realms and races.
 
-Li Suo spoke slowly: "Zhu Tian Sword Manual."
+“Not only that, these nine hundred thousand sword manuals had continuously circulated and evolved throughout the realms, like trees branching out or torrents giving rise to streams, giving birth to countless sword arts and factions. But if you were to trace them back to their very origin, then none can escape the Heaven Punishing Divine Emperor or the Heaven Punishing Sword Art.”
 
-Even though her existence was extremely faint and her cognition incomplete, it was impossible for her to forget what these four characters meant.
+This was the awareness that had just resurfaced within Li Suo after making contact with the four words. As if she was softly reciting memories that did not belong to her, each word carried a sense of depth that spanned countless ages and fates.
 
-Following the cognition that had been deeply touched, she softly recited: "The Zhu Tian Ancestor Sword is the ancestor of all swords in the world. The Zhu Tian Sword Manual is the origin of all sword manuals in the worlds."
+“Out of all of the sword arts created by the Heaven Punishing Divine Emperor, the Heaven Breaker Sword Art practiced by the Heaven Breaker Kingdom of God was the most powerful. Though it was taught only to his subordinate clans, it was definitely not an exclusive art. Only the Heaven Punishing Sword Art... was engraved solely in Mo E’s soul foundation when the Ancestral God created the four Creation Gods. As far as I know, he has never revealed it to anyone.
 
-"Mo E spent his entire life using the Zhu Tian Sword Manual as a foundation to create over nine hundred thousand sword manuals. Except for a few core manuals, the rest were spread across all worlds and races."
+“To think... that now...”
 
-"These nine hundred thousand manuals have circulated and evolved throughout the heavens, like a tree branching out or a torrent creating streams, deriving countless sword manuals and sects. But tracing back to their ancestor, none can escape the Zhu Tian God Emperor and the Zhu Tian Sword Manual."
+The four Creation Gods did not hoard their self-created divine abilities to themselves. For instance, Ni Xuan had fully mastered the Ninety Nine Heaven Breaking Swords invented by Mo E, and fused Xi Ke’s power of order with Jie Yuan to create the Moon Star Restoration.
 
-This was the cognition that had just awakened within Li Suo as she was touched. She spoke as if reciting memories that did not belong to her, every word carrying a sense of remoteness that spanned countless years and fates.
+Mo Su was not at all surprised by Ni Xuan’s mastery of Li Suo’s Divine Miracle of Life either.
 
-"Among the sword manuals created by the Zhu Tian God Emperor, the Zhe Tian Sword Manual³ practiced by the Zhe Tian God Kingdom is the strongest. Although it was only taught to his subordinate clans, it was not an absolute secret. Only the Zhu Tian Sword Manual... was inscribed into Mo E’s soul foundation by the Ancestor God when he created the four Creation Gods, and it was never shown to anyone."
+However, each Creation God also possessed their own unique domain—one that was forbidden even to their fellow Creation Gods.
 
-"Now... to think that..."
+The one belonging to the first Creation God, Mo E, was none other than the Heaven Punishing Sword Art!
 
-The four Creation Gods did not hide their self-created divine abilities from one another. For instance, Ni Xuan had completely mastered the ninety-nine Zhe Tian Swords created by Mo E, and had once combined Xi Ke’s Order power with Jie Yuan to co-create 'Moon Pulling, Stars Returning.'
+If Mo E were to choose a single heir to the Heaven Punishing Sword Art, the only possible candidate would be the former Heaven Punishing Crown Prince, Mo Su.
 
-Mo Su was not surprised that Ni Xuan understood the Life Miracles created by Li Suo.
+And now, at this very moment, the Heaven Punishing Sword Art that should have belonged solely to the Heaven Punishing Divine Emperor, progenitor of all Ways of Sword in the entire universe, the likes of which that even other Creation Gods were forbidden from learning, had somehow been bestowed upon Yun Che.
 
-However, each of the four Creation Gods had their own exclusive, forbidden domains that even the other Creation Gods could not touch.
+Yun Che could never comprehend the sheer depth of Li Suo’s astonishment.
 
-Belonging to the first Creation God, Mo E, was the Zhu Tian Sword Manual!
+Three millions years of devoted vigil and solitude... apart from his obsession, was there truly nothing else of genuine importance left for the Mo Su of today?
 
-And if Mo E were to choose a successor for the Zhu Tian Sword Manual, it could only possibly be the former Zhu Tian Crown Prince, Mo Su.
+Yun Che’s soul sea was shaking wildly, and his heart was pounding even harder.
 
-And yet, right now, this Zhu Tian Sword Manual—which should have belonged solely to the Zhu Tian God Emperor, the ancestor of all swords in the world, a domain untouchable even by other Creation Gods—had been bestowed upon Yun Che.
+Bestowed by Mo Su himself, the essence of absolute beginning.... This was, genuinely, the primordial sword art that even Ni Xuan could not obtain—how could he possibly remain composed in its presence?
 
-Li Suo’s astonishment was far beyond what Yun Che could empathize with.
+He did not respond to Li Suo. Seemingly drawn by an irresistible force, his heart and soul slowly encompassed the sword art that was gradually coming into view.
 
-Three million years of obsessive waiting and loneliness... for the current Mo Su, was there truly nothing else of real importance besides that obsession?
+[Heaven Punishing Sword Art]
 
-Yun Che’s Soul Sea trembled, and his heart beat wildly.
+The Heavenly Gate crumbles, the sword shatters the primordial void.
 
-Bestowed personally by Mo Su, deriving from the primordial... this was a truly ancestral sword manual that even Ni Xuan could not obtain. How could he remain calm in its presence?
+It uproots the Heavenly Law, severs the vast expanse of the sky.
 
-Without responding to Li Suo, his heart and soul seemed to be pulled by an irresistible force, covering the slowly appearing sword manual:
+One sword punishes the heavens, ten thousand calamities return to its source.
 
-【Zhu Tian Sword Manual】
-The Heavenly Palace crumbles, the sword splits the primordial wilderness.
-Exterminating the Heavenly Dao, severing the firmament.
-One sword slaughters the heavens, ten thousand kalpas return to the origin.
-Hongmeng⁴ as the foundation, life and death as the sorrow.
+Primordial chaos is the foundation, life and death are the sacrifice.
 
-Yun Che spent a very, very long time on these mere thirty-two characters of the general manual. Because every time a character became clear in his consciousness, it felt as if an invisible sword intent was embedded into his Soul Sea—not heavy, not painful, but it felt as if his entire soul was being completely pierced through... a full thirty-two times.
+The master formula consisted of only forty-five words, yet Yun Che had spent an unbelievably long time on it. It was because every time a word became clear in his consciousness, it was as if an invisible sword intent had embedded itself into his soul sea. Although it was neither heavy nor painful, it felt as though his entire soul had been completely pierced through... forty-five times in a row.
 
-Until these thirty-two characters were deeply inscribed into the deepest part of his soul, never to be forgotten for all eternity.
+This would not stop until all forty-five words were deeply engraved into the very depths of his soul, never to be forgotten for all eternity.
 
-And before his soul could even rest, the originally quiet sword manual suddenly released a soul-piercing sharpness. His violently pierced Soul Sea emitted waves of intense tremors, nearly shattering:
+Before his soul could even recover, the once-still sword art suddenly unleashed a soul-piercing sharpness. His soul sea, violently pierced, was immediately beset by waves of intense tremors, nearly shattering—
 
-【Chi Shen Sword】⁵
-God’s edict over the nine heavens, the sword guides the mysterious yellow.
-Cleansing the sins of the God Marquis, severing the demons of deceit and delusion.
-Ten thousand gods bow their heads, the universe serves as the scabbard.
-The fruit of caution condenses the edge, the Dao evolves in the abyss.
+[Sword of Divine Command]
 
-【Yan Ji Sword】⁶
-Nightmare flames burn the firmament, the sword rises from the secluded abyss.
-Severing the roots of nightmares, shattering the folly of delusions.
-Ten thousand nightmares are annihilated, the nine depths serve as the tomb.
-Karma fire tempers the blade, the nightmare abyss is sealed forever.
+The divine command echoes through the nine heavens, the sword draws upon the essence of cosmos.
 
-【Tai Xu Sword】⁷
-Ten thousand phenomena return to one, the sword hides in the empty void.
-Without birth or destruction, without filth or purity, without void or reality.
-The Law escapes into silence, Chaos serves as the heart.
-The Great Harmony matches the breath, all return to the Great Void.
+It washes away the suns of the divine, cuts down the evil of delusion.
 
-Yun Che’s pupils had completely lost their color, and the profound energy around his body was darting out of control.
+Ten thousand gods bow their heads, heaven and earth becomes its sheath.
 
-Chi Shen, Yan Ji, Tai Xu... the three sword manuals were imprinted on his soul. But the appearance of the sword manuals did not stop...
+The fruit of enlightenment sharpens its edge, the Way unfolds within the void.
 
-【Zhu Tian Sword】
-The Heavenly Palace crumbles, the sword splits the primordial wilderness.
-Felling the laws of the Heavenly Dao, slaughtering the nexus of the firmament.
-Ten thousand kalpas return to the origin, Hongmeng as the foundation.
-The mysterious yellow is reopened, the primordial is re-judged.
-Relying on the Ancestor, the sword leaves with no return.
+[Sword of Nightmare Slaughter]
 
-Clang————
+Nightmare’s flames blaze across the heavens, the sword rises from the dark abyss.
 
-Yun Che’s consciousness instantly turned into a complete blank.
+It severs the roots of nightmares, shatters the delusions of folly.
 
-When he finally struggled to wake up, he was already slumped on the ground, gasping violently, his whole body drenched in sweat like rain.
+Ten thousand nightmares are annihilated, the nine depths become their graves.
 
-"Yun Che..." He heard Li Suo’s call, which seemed to have been going on for a long time: "Are you... alright?"
+Tempered by the fires of karma, the abyss of nightmares is forever sealed.
 
-"Hah... huff!!"
+[Great Void Sword]
 
-He took two more heavy breaths before slowly standing up from the ground, then bit by bit wiped the look of astonishment from his face.
+All phenomena return to oneness, the sword hides in the void.
 
-"No matter how profound a sword manual is, it should just be lifeless, silent text. Yet this Zhu Tian Sword Manual actually derives such terrifying sword intent on its own."
+Beyond birth and death, beyond defilement and purity. Beyond form and emptiness, beyond light and darkness.
 
-He seemed to still have lingering fears.
+The art retreats into stillness, primal chaos becomes the heart.
 
-This was not the first time he had encountered such a situation. Thinking back to when he first practiced the Great Dao Futu Manual, the divine manual would also derive faint wild god divine thoughts upon entering his heart... but compared to the sword intent derived from the Zhu Tian Sword Manual, it was a world of difference.
+The Great Brightness ceases to breathe, all return to the Great Void.
 
-"Because that is a sword manual personally created by the Ancestor God." Li Suo’s ethereal voice was tinged with awe originating from the depths of her soul and the source of her cognition: "It only needs to exist, only needs to be known, and it can stir the most primitive sword intent between heaven and earth."
+Yun Che’s pupils had completely lost their color, and his profound energy was spiraling out of control.
 
-"Just like the Void Laws you possess; they only need to exist within you to easily harmonize with everything between heaven and earth."
+Divine Command, Nightmare Slaughter, Great Void... All three sword arts were etched into his soul as well. Yet, the manifestation of sword arts showed no sign of stopping....
 
-Yun Che closed his eyes and re-examined the Zhu Tian Divine Manual... but this time, his Soul Sea was calm and waveless. No matter how many times he recited it, no matter how many times his divine sense touched it, there was no longer the terrifying anomaly from before.
+[Heaven Punishing Sword]
 
-"Have you... gained any understanding?" Li Suo asked, seemingly with faint anticipation.
+The Heavenly Gate crumbles, the sword shatters the primordial void.
 
-Yun Che shook his head directly: "None at all."
+It uproots the threads of the Heavenly Law, severs the bonds of the vast sky.
 
-He had never seen such a sword manual... no, aside from the anomaly when it was inscribed into his soul, anyone who saw it would never think it was a sword manual.
+Ten thousand calamities return to the source, primordial chaos becomes the foundation.
 
-No pivot of sword foundation, no form of sword moves, no essence of sword intent... only short, obscure, incomprehensible characters.
+The cosmos is reborn, the absolute beginning is redefined.
 
-Just like... the Ni Shi Tian Shu (Heaven-Defying Book).
+Bearing the will of the Ancestor, the sword emerges with no return.
 
-All he could understand were the names of the four sword moves: Chi Shen Sword, Yan Ji Sword, Tai Xu Sword, and Zhu Tian Sword.
+SHIIIIIING————
 
-Among them, the Zhu Tian Sword was the most special. The other three swords all had four-line manuals, only this one had five lines, and its last line...
+Yun Che’s consciousness instantly turned completely blank.
 
-Relying on the Ancestor, the sword leaves with no return.
+When he finally struggled awake, he found himself collapsed on his knees, gasping for breath and sweat pouring from his body like rain.
 
-Relying on the Ancestor...
+“Yun Che...” Li Suo’s voice hit him like she had been calling out to him for quite some time. “Are you... all right?”
 
-Did it mean that it could only be unleashed using the Zhu Tian Ancestor Sword?
+“Gah... Hoo!!”
 
-Calming his state of mind, he sat down again, sank his consciousness, and focused on comprehending... it was, after all, a sword manual created by the Ancestor God. If he could understand even a tiny bit, it would surely derive unimaginable power, which would undoubtedly be a huge help to him.
+He took two deep, labored breaths before slowly rising from the ground. Then, he gradually erased the look of astonishment from his face.
 
-————
+“No matter how profound a sword art may be, it should have been nothing more than lifeless, barren words. To think this Heaven Punishing Sword Art could manifest such a terrifying sword intent on its own!”
 
-Xiao Die God Kingdom.
+He seemed to still be shaken by the experience.
 
-The hall was as deep as an abyss. Gray, dim light seeped in from the cracks in the dome, and after being filtered by layers of dark aura, it was almost non-existent when it landed on the floor. There were no extra furnishings in the hall, only a figure with his back to the hall door, and the silhouette of that figure cast on the wall, stretched extremely long and pale by the ghostly light.
+This was not the first time he had encountered such a phenomenon. He recalled his early days of cultivating the Great Way of the Buddha; the divine art had also created a faint trace of the Rage God’s divine thought when it entered his heart... but compared to the sword intent created by the Heaven Punishing Sword Art, the difference was like heaven and earth.
 
-"Why have you returned alone? Where is Buwang?"
+“That’s because it is the sword art created by the Ancestral God herself.” Li Suo’s soft, ethereal voice was tinged with reverence stemming from the depths of her soul and the very source of her awareness. “It needs only to exist, only to be perceived, to trigger the most primal sword intent in heaven and earth.”
 
-The Ninth Imperial Son of Xiao Die knelt on one knee. The Qi Heng God Venerable in front had his back to him, his voice flat and waveless, but the Ninth Imperial Son’s heart and soul still shrank, and his head bowed a few inches lower.
+“It is just like the Law of Nothingness you bear; it needs only exist within you to effortlessly harmonize with all things in heaven and earth.”
 
-"Reporting to Father God, Younger Brother Buwang... is unwilling to return." He answered truthfully. And facing his solitary return, the cold aura hidden beneath Pan Yusheng’s calm far exceeded his expectations.
+Yun Che closed his eyes and studied the Heaven Punishing Sword Art once more... but this time, his soul sea remained calm and undisturbed. No matter how many times he contemplated it or how many times his divine senses touched it, none of the terrifying abnormalities from before reappeared.
 
-"Then keep looking, keep chasing!!" Pan Yusheng’s voice became a fraction more impatient: "He is merely venting his residual resentment, using retreat as a means of advance! He has no reason to truly not return!"
+“Have you... gained any insight?” Li Suo asked, her voice tinged with a hint of anticipation.
 
-"If ten times isn't enough, then twenty times! If that's not enough, then thirty times!! Who told you to come back so early!"
+Yun Che shook his head immediately. “Not at all.”
 
-The last sentence already carried a sharp tone that had lost a bit of its composure.
+He had never seen a sword art like this... no. Setting aside the strange phenomenon it caused when it inscribed itself upon the soul, no one who saw it would believe it to be a sword art.
 
-The Ninth Imperial Son’s throat rolled violently, and his lips moved for a long while before he said nervously and tremblingly: "Father God, at first, Child also thought so. But... Younger Brother Buwang seems to be... truly unwilling to return."
+It featured no foundation of sword principles, no form of sword techniques, no essence of sword intent... only short, obscure passages of text that defied comprehension. It was just like... the World-Defying Heaven Manual.
 
-"..." Pan Yusheng finally turned his head. His face was calm, but the gloom in the depths of his eyes was something no one dared to look at directly: "What did you say?"
+The only things he could understand were the Sword of Divine Command, the Sword of Nightmare Slaughter, the Great Void Sword, and the Heaven Punishing Sword.
 
-"At first, Child could easily detect his tracks and found him twice within half a month. I lowered my posture, my words were earnest, and I invited him to return in the name of Father God, but Younger Brother Buwang refused decisively... The third time I found his tracks, as soon as I approached, he fled quickly, not even willing to meet with Child."
+Among these four sword techniques, the Heaven Punishing Sword was the most peculiar. The other three sword techniques each consisted of four lines of sword incantation, but this one had five. And its final line....
 
-The Ninth Imperial Son took a deep breath, and his speech quickened: "After that, Child could no longer find any trace of him. Later, Child invited the Seventeenth Younger Brother and the people of the Shadow Court to help. Three thousand men, for over a month, yet we didn't find even the slightest trace."
+Bearing the will of the Ancestor, the sword emerges with no return.
 
-"As such, Younger Brother Buwang must be deeply hiding himself, and will constantly erase all traces of his existence. If he were truly using retreat as a means of advance, feigning refusal to welcome, how could he leave absolutely no traces, how could he hide so resolutely and thoroughly." After quickly reporting everything, the Ninth Imperial Son bowed his head deeply, waiting for his father's command.
+Bearing the will of the Ancestor....
 
-He could not see what expression Pan Yusheng had at this moment, but he could be sure that it was definitely not the calm indifference he had when he first ordered him to go searching.
+Is it an intent that can only be executed using the Heaven Punishing Ancestral Sword?
 
-For a long time, Pan Yusheng’s voice sounded in his ears: "Retire... no need to look anymore."
+Calming his mind, he sat down once more, deepened his focus, and concentrated his spirit to comprehend... This was a sword art created by the Ancestral God herself. If he could grasp even the slightest bit of it, it would surely unleash unimaginable power—a tremendous boon to him.
 
-"Yes."
+Owl Butterfly Kingdom of God.
 
-The Ninth Imperial Son breathed a huge sigh of relief and left as if fleeing.
+The hall was as deep as an abyss. Dim, ashen light seeped in through cracks in the dome, filtered through layer upon layer of dark energy and becoming nearly non-existent by the time it reached the floor. The hall contained no superfluous furnishings. There was only a kneeling figure with their back to the entrance, their silhouette stretched long and faint upon the wall by an eerie glow.
 
-Pan Yusheng stood in place, looking ahead, silent for a long time.
+“Why have you returned alone? Where is Buwang?”
 
-He actually knew the situation Pan Buwang faced after losing the title of God Son better than anyone else.
+The ninth prince of the Owl Butterfly Kingdom of God was kneeling on one knee. Standing in front of him was the Pray Eternal Divine Regent with his back to him. The divine regent’s voice was as calm as still water, but the ninth prince still felt a chill running through his soul and bowed his head even lower.
 
-But...
+“Father, Brother Buwang... does not wish to return,” he answered truthfully. However, his solitary return and paltry response provoked a burst of icy aura from the divine regent, and it far exceeded even his wildest expectations.
 
-"Ji Yao." He looked ahead and suddenly spoke.
+“Then keep searching! Keep pursuing him!!” Pan Yusheng’s voice betrayed a hint of impatience. “He’s merely holding a grudge and using retreat as a strategy! He has no legitimate reason not to return!”
 
-Dark aura swirled, and a figure quickly appeared in front of Pan Yusheng: "Venerable, what are your orders."
+“If ten times isn’t enough, then go after him twenty times! If that’s still not enough, then go after him thirty times!! Who allowed you to return so early?!”
 
-He looked at the man in front of him, his voice calm: "You go find Buwang yourself and persuade him to return."
+His final line carried a sharp edge that clearly betrayed a slight loss of composure.
 
-Pan Ji Yao looked up abruptly, but did not answer immediately, his expression complex.
+The ninth prince’s throat convulsed violently, and his lips trembled for a long time. Finally, he stammered nervously, “Father, I thought the same at first. But... Brother Wang seems to... truly not want to return.”
 
-"Although you 'betrayed' him, you are, after all, his master."
+“......” Pan Yusheng finally turned to face him. His expression was calm, yet his eyes held a darkness so deep it was almost unbearable to look upon. “What did you say?”
 
-The Qi Heng God Venerable’s voice remained calm, showing no emotion, and the word "betrayed" was spoken with particular clarity and directness: "After thinking it over, you are the most suitable."
+“At first, I could easily track his whereabouts and found him twice within half a month. I humbled myself deeply, spoke with utmost sincerity, and even invoked your name to invite him back, yet Brother Buwang flatly refused each time... The third time I tracked him down, he fled swiftly the moment I drew near, unwilling even to meet my gaze.”
 
-"I... understand."
+The ninth prince took a deep breath and spoke slightly faster than before. “Since then, I have been unable to find any trace of him whatsoever. Later, I enlisted the help of Seventeenth Younger Brother and the Shadow Court. With three thousand men, we searched everywhere for over a month, and still failed to find even the slightest trace.
 
-His expression was complex and hard to describe, but he was destined to be unable to refuse the God Venerable’s order.
+“All things considered, Brother Buwang must be hiding himself deeply and erasing all traces of his existence at every turn. If he were truly using retreat as a strategy, feigning refusal while actually welcoming us, how could he leave not a single trace behind? How could he hide himself so resolutely and completely?” Having reported everything swiftly, the ninth price bowed his head deeply and waited quietly for his father’s command.
 
-"Remember, it is to persuade him back." Pan Yusheng specifically instructed: "If he is unwilling, do not force him back."
+He could not see the divine regent’s expression at that moment, but he was certain it was not the same calm indifference Pan Yusheng had shown when first ordering him to go in search of Pan Buwang.
 
-This time, Pan Ji Yao did not answer, just nodded faintly, and then retreated silently.
+After a long while, Pan Yusheng’s voice finally reached his ears: “Withdraw... There is no need to search any further.”
 
-Anyone could see clearly that since returning from the Pure Land, Pan Yusheng’s attitude when mentioning Pan Buwang had been changing, from the initial indifference, to gradually showing slight impatience, and the frequency of mentioning him had also become higher and higher.
+The ninth prince let out a huge sigh of relief and hurriedly took his leave, almost as if he was running away.
 
-…………
+Pan Yusheng stood where he was, gazing ahead in silence for a long time.
 
-Although Yun Che used a heavy sword as his weapon, strictly speaking, he was not a true sword practitioner.
+He knew better than anyone else what had befallen Pan Buwang after he lost the title of Divine Son.
 
-With the Dragon Body and the Wild God’s power as the foundation, and using the Evil God Manual to trigger the amplification of power... his fighting style had always been dominated by rigidity and violence, and the heavy sword was just the most suitable vessel for carrying and unleashing such destructive power.
+“Jiyao,” he called suddenly.
 
-Unlike Hua Caili, whose sword moves, sword heart, sword intent, sword spirit, and sword soul... all had the sword as the core.
+A dark aura swirled, and a figure swiftly materialized before Pan Yusheng: “What are your orders, supreme one?”
 
-Yun Che focused on comprehending the Zhu Tian Sword Manual for six hours, but gained nothing.
+He looked at the man before him, his voice calm: “Go find Buwang yourself and persuade him to return.”
 
-He did not even have a single moment of epiphany.
+Pan Jiyao suddenly looked up, but did not respond immediately, his expression a complex mix of emotions.
 
-"Forget it..." Yun Che opened his eyes and gave up helplessly.
+“Although you ‘abandoned’ him, you are still his master.”
 
-"No need to rush." Li Suo comforted him softly: "Epiphanies in high-level domains often require long years. For a high-level plane like the Zhu Tian Divine Manual, a million years is quite normal."
+The Pray Eternal Divine Regent’s voice remained calm and devoid of emotion, yet the word “abandoned” was spoken with particular clarity and directness: “After much consideration, I believe you are the most suitable candidate.”
 
-Yun Che twisted his lips and said helplessly: "In my current situation, let alone a million years, I can't even wait a hundred years."
+“I... understand.”
 
-"If a sword manual of the highest plane cannot be comprehended, it can only become a useless, dead object... In that case, I exchanged the Hongmeng Life-Death Seal, which is useless to Mo Su, for the Zhu Tian Sword Manual, which is useless to me. That really is quite fair."
+His expression was too complex for words, but the Divine Regent’s command was one he could not refuse.
 
-He stood up, relaxed his shoulders, and smiled self-deprecatingly.
+“Remember, you are to persuade him to return,” Pan Yusheng emphasized. “If he refuses, do not bring him back by force.”
 
-"Do you... want to take a look at He Ling?"
+This time, Pan Jiyao did not respond, merely nodding faintly before silently withdrawing.
 
-Yun Che’s expression stiffened instantly. He didn't have time to respond, but had already closed his eyes and focused, sinking his consciousness into the Sky Poison Pearl.
+Everyone could see clearly that since returning from the Pure Land, Pan Yusheng’s demeanor whenever he mentioned Pan Buwang had been changing constantly. At first, it was simply initial indifference and nonchalance. Over time, it gradually gave way to slightly impatience. The frequency at which he mentioned his name had been increasing as well.
 
-The Sky Poison space, which had lost its emerald vitality, now had a touch of the emerald radiance he had once been infinitely familiar with.
+............
 
-This radiance used to appear in every corner of his Soul Sea whenever he needed comfort, accompanied by the soft voice of that forever gentle girl, preventing him from being completely swallowed by darkness even during those most hopeless years.
+Although Yun Che wielded a heavy sword as his weapon, strictly speaking, he was not a true practitioner of the sword.
 
-Now, only such a weak cluster remained, lying quietly in the palm of Li Suo’s pure, flawless hand.
+His draconic physique and the power of the Rage God was the foundation of his strength, and the Heretic God Art the amplifier... thus, his fighting style had always been characterized by ferocity and savagery; the heavy sword was merely the most suitable vessel for channeling and unleashing such destructive force.
 
-This was the first time he had sensed her existence again since He Ling passed away. Thousands of emotions surged into his soul. He stood there stunned for a moment, watching silently, not daring to approach, not daring to touch.
+It was completely unlike Hua Caili, whose sword techniques, sword heart, sword intent, sword spirit, and sword soul—all revolved around the sword itself.
 
-Li Suo gently closed her hands, and a mass of white light spread silently, completely covering it, like snow falling from late spring, gently and carefully embracing the last seed that had not yet withered.
+Despite concentrating on comprehending the Heaven Punishing Sword Art for six hours, Yun Che had gained nothing.
 
-It also made He Ling’s aura completely disappear from Yun Che’s perception again.
+Not even a fleeting moment of enlightenment had appeared.
 
-"Although forced to leave the Hongmeng Life-Death Seal, these life auras snatched from the Hongmeng Life-Death Seal are enough to protect her for hundreds of years without dissipating."
+“Forget it...” Yun Che opened his eyes and gave up in resignation.
 
-Yun Che opened his mouth, but still asked: "Can her current state really... recover as before, right?"
+“There’s no need to rush,” Li Shuo said softly, offering comfort. “At a high enough level, enlightenment often requires a long time. For a supreme-level art like the Heaven Punishing Sword Art, even a million years of contemplation is not uncommon.”
 
-Li Suo knew his worry and replied softly: "The Wood Spirit Clan was the first race I created, possessing my most primitive and purest life aura. Therefore, her life is far more resilient than you imagine."
+Yun Che twisted the corner of his mouth and said in exasperation, “Given my current situation, I can’t even wait a hundred years, let alone a million.
 
-"She will recover as before, the complete version in your memory, and she will not lose any of her own past."
+“So what if it is a sword art of the highest level? It is nothing more than a useless, lifeless object if I can’t comprehend it... Hah, I had no idea how fair the trade was when I exchanged the Primordial Seal of Life and Death—which is useless to Mo Su—for the Slaying Heaven Sword Art, which is useless to me.”
 
-Li Suo gave him the most beautiful answer.
+He stood up, stretched his shoulders a bit, and gave a self-deprecating smile.
 
-"As long as I manifest a body and recover enough life divine power, I can gradually restore her, and I can also summon back the Hongmeng Life-Death Seal at any time." At this moment, a voice came from the outside:
+“Do you want to take a look at He Ling?”
 
-"Young Master, Dragon Clan Young Master Long Wangchu requests an audience, he is already outside the hall."
+Yun Che’s expression froze. Faster than he could reply, he closed his eyes and focused his mind to sink his consciousness into the Sky Poison Pearl.
+
+The space of the Sky Poison Pearl, which had lost its vibrant green vitality, was now illuminated by a streak of emerald light that had once been so familiar.
+
+The glow had once appeared in every corner of his soul whenever he needed comfort, accompanied by the gentle voice of that eternally sweet young woman, ensuring that he would never be completely swallowed by darkness even during those most hopeless years.
+
+Now, only a faint wisp of that glow remained, lying quietly in the pure, flawless palm of Li Suo.
+
+This was the first time he had sensed He Ling’s presence again since her passing. Countless emotions were surging through his soul as he stood there frozen and gazed upon her silently, afraid to approach, afraid to touch.
+
+Li Suo pressed her hands together, and a white glow spread silently, completely enveloping He Ling’s presence. Like snow falling at the end of spring, it gently and carefully cradled the last seed that had not yet withered.
+
+And so, He Ling’s presence vanished once more from Yun Che’s senses.
+
+“Though she was forced to leave the Primordial Seal of Life and Death, the life aura she had drawn from it is sufficient to protect her for hundreds of years, ensuring that she neither fades nor perishes.”
+
+Yun Che opened his mouth, hesitated, but ultimately asked, “Considering her current state... can she... truly... achieve a perfect recovery?”
+
+Li Suo understood his worry and replied softly, “The Wood Spirit Race is the first race I have created. They possess my most primordial and purest life aura. Therefore, her life is far more resilient than you can ever imagine.
+
+“Not only will she be restored to her former self—the complete self that is etched to your memories—she will not lose any of her past either.”
+
+Li Suo gave him the most perfect answer imaginable.
+
+“As long as I can manifest a physical form and regain sufficient life divine energy, I can gradually heal her back to full health. I can also summon the Primordial Seal of Life and Death back to me at any time.”
+
+Just then, a voice drifted in from outside:
+
+“Young master, Long Wangchu, the young heir of the dragon race, requests an audience. He is already waiting outside the hall.”
 
 Yun Che opened his eyes instantly.
 
-It had only been three days since he left the Dragon Clan, truly impatient, fearing changes.
+It had only been three days since he left the dragon race. They truly could not wait for even a moment, fearing that any delay would bring unexpected complications.
 
-"Invite the Dragon Clan Young Master in, do not lose etiquette."
+“Bring him in. Do not neglect proper etiquette.”
 
-Yun Che walked slowly, and the moment he stepped out of the hall door, all the gloom in his eyes subsided, leaving only a very warm, light smile on the corners of his mouth, like a breeze brushing against clouds.
+Yun Che walked slowly. The moment he stepped out of the hall, all the gloom in his eyes vanished, leaving only a faint, warm smile as gentle as a breeze caressing the clouds.
 
-————
+Author’s Notes
 
-Question: Why ban He Ling before going into the Abyss?
-Answer: Because the Zhou Tian Pearl recovers energy too quickly in the Abyss, afraid that a certain man surnamed Yun would cheat using the Zhou Tian Divine Realm!
+Question: Why was He Ling banned before descending into the Abyss?
 
+Answer: Because the Eternal Heaven Pearl recharges too quickly in the Abyss, and I was afraid that a certain man surnamed Yun would use the Eternal Heaven Divine Realm to cheat!
+
+1. ... incoherent screaming of a translator’s descent into madness ☜

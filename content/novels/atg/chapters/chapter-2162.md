@@ -1,7 +1,7 @@
 ---
 chapterNumber: 2162
 title: "Cloud and Moon in the Mist (1)"
-publishedAt: "2025-12-23"
+publishedAt: "2026-05-30"
 ---
 
 Li Suo remembered what Yun Che said, of course. After all, this was not the first time he mutilated himself for an ulterior motive. When he first entered the Abyss, he had pretended to be severely injured to attract Helian Lingzhu. Later, he took this tactic to the extreme during his encounter with Hua Caili. It was human nature to lower one’s guard and feel sympathy toward someone who was grievously injured, and this was especially true for womenfolk.
@@ -80,13 +80,11 @@ Her lunar pupils narrowed slightly, and soul-chilling killing intent burst out. 
 
 Still, her outburst failed to elicit the slightest tremor or fear from him. The sword beam retracted before stabbing toward Yun Che’s solar plexus with bone-chilling, heart-freezing killing intent once more.
 
-Yun Che finally made a move, and his decision... was to throw away the intact Void Breaching Divine Jade on his right shoulder.
+Yun Che finally made a move, and his decision... was to throw away the intact Void Breaching Divine Jade on his right shoulder. 𝘧𝓇𝑒𝑒𝑤ℯ𝑏𝓃𝘰𝑣ℯ𝘭.𝘤ℴ𝘮
 
 The Heartless Sword stabbed half an inch into Yun Che’s solar plexus before stopping abruptly. In fact, the stop was so hasty that the slender blade visibly trembled and hummed with exertion. A droplet of blood slowly seeped out of the wound, catching Shenwu Yi’s gaze and causing the snow-white fingers gripping the hilt to tighten slightly.
 
 The world seemed to freeze once more. The only thing that remained unchanged was Yun Che’s expression and gaze.
-
-Bang! 𝗳𝐫𝚎𝗲𝚠𝚎𝗯𝕟𝐨𝘃𝚎𝗹.𝗰𝗼𝗺
 
 The Void Breaching Divine Jade landed quietly in the distance. However, the noise still shook one’s heartstrings. Finally, Shenwu Yi furrowed her brow and looked away, avoiding Yun Che’s gaze.
 

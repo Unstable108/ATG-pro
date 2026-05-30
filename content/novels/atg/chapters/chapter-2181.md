@@ -1,201 +1,205 @@
 ---
 chapterNumber: 2181
-title: "Heart-to-Heart Union"
-publishedAt: "2026-04-13"
+title: "Union of Hearts"
+publishedAt: "2026-05-30"
 ---
 
+UNedited chapter - Rubble
 
-As Shen Wuyi spoke, her moon-like eyes captured every subtle change in Yun Che’s expression and gaze. But from beginning to end, she saw no trace of surprise from Yun Che.
+While speaking, Shenwu Yi did not forget to observe every fleeting change in Yun Che’s expression and gaze with her moon-like eyes. Yet from start to finish, she could not find a single trace of surprise on his face.
 
-"This is also what puzzles me most."
+“That is precisely what puzzles me the most.”
 
-Past sorrow surged in his heart. Though it had faded, it still brought a lingering ache. He softened his voice, slowly speaking: "Back then, after learning that another world existed beneath Abyss of Nothingness, amidst fear and unease, there was also a sudden surge of ecstasy... because that might mean you still had hope of survival."
+Memories of past sorrow well up in his heart. Though long since faded, they still brought him a lingering ache. He softened his voice and said slowly, “Back then, upon learning that another world existed beneath the Abyss of Nothingness, besides fear and unease, I also felt a burst of sudden elation... After all, it meant that you had a chance of survival.
 
-"But, this glimmer of hope was completely extinguished after I personally fell into Abyss."
+“However... that glimmer of hope was utterly extinguished the moment I plunged into the Abyss myself.
 
-"When I leaped into Abyss, I was in my peak state, and fully prepared. In terms of protective power, I was slightly superior to you at that time, and in terms of physical strength, I far surpassed you. Even so, spatial turbulence of Abyss passage was still a terrifying nightmare for me. Every moment made me feel as if my body had been completely torn apart."
+“When I leaped into the Abyss, I was fully prepared and in peak condition. In terms of protective energy, I was slightly superior to you at the time. And in terms of physical strength, I far surpassed you. Even so, the spatial turbulence of the Abyss remained a terrifying nightmare for me; it felt as though my body was being completely torn apart at every moment.
 
-"At that time, I had to despairingly realize that you, severely injured and exhausted, could not possibly survive in such spatial turbulence... not to mention several days and nights, perhaps even a hundred breaths would be difficult to sustain."
+“At that moment, I was forced to recognize with despair that you, gravely wounded and utterly exhausted, could never have survived this spatial turbulence, one that lasted several days and nights no less. You likely wouldn’t even last a hundred breaths.
 
-"After arriving in this world, I repeatedly tried to search for your name... merely unwilling to admit, unable to let go of my unwillingness."
+“After arriving in this world, I tried time and again to search for your name... but it was merely my refusal to accept the truth; a stubborn refusal to let go of my attachment.”
 
-Shen Wuyi listened quietly, her jade face serene, never interrupting.
+Shenwu Yi listened quietly, never once interrupting him.
 
-"So, when I saw you on Pure Land, you cannot imagine how incredibly unbelievable and ecstatic I was at that moment."
+“That is why, when I saw you on the Pure Land, you cannot imagine how utterly incredulous and overjoyed I was at the moment.”
 
-Smile bloomed on his lips, as if he had returned to that unforgettable moment: "In God Slumber Forbidden Zone, I mentioned our marriage contract because I thought that your state at that time allowed you to safely pass through Abyss passage. The only possibility was that when you fell, it was as if blessed by heaven, and you did not encounter any spatial turbulence. If so, that marriage contract, hidden in your clothes, might have survived... or even remained completely intact."
+A smile spread across his lips, as if he had returned to that unforgettable moment. “I mentioned our marriage contract in the Forbidden Zone of Slumbering Gods, hadn’t I? It occurred to me that, given your condition at the time, the only way you could have safely passed through the abyssal tunnel was if, during your fall, you had somehow completely avoided the spatial turbulence as if you had been blessed by the heavens. If that was the case, then the marriage contract you had hidden in your robes might have survived... perhaps even intact.”
 
-"Blessed by heaven?" Shen Wuyi finally spoke, but with a faint sneer: "You, a person who, with your own strength, would fight against fate even if it meant certain death, actually believe in such a thing as 'blessed by heaven'?"
+“Heavenly blessing?”
 
-"I believe."
+Shenwu Yi finally spoke, though it was a faint, derisive chuckle. “You, a man who is risking everything—even certain death—to defy fate, actually believe in something like ‘heavenly blessing’?”
 
-Yun Che uttered these two words without hesitation, his gentle voice carrying a resolve akin to faith: "I believe even more that this heavenly blessing will always accompany you, eternally unceasing."
+The two words left Yun Che’s lips without any hesitation whatsoever. His gentle voice carried a resolve bordering on faith as he declared, “I believe even more firmly that this heavenly blessing will always be with you, eternal and unending.”
 
-His eyes seemed to be lightly scorched by something, making Shen Wuyi unconsciously avoid Yun Che’s gaze at this moment. Her mind also seemed to freeze for a very brief time.
+It felt as though something had lightly seared her eyes, causing Shenwu Yi to unconsciously avert her gaze from Yun Che’s. For a fleeting moment, her thoughts seemed to freeze.
 
-She was extremely calm and self-controlled. She never allowed her thoughts to be swayed by anything... But, world in her memory had never been cast with such a gaze, nor had she ever felt such tender affection...
+She was extremely calm and self-controlled, and she had never allowed her thoughts to be swayed by anything... Yet, in the world of her memories, she had never once been looked upon in this way, nor had she ever felt such tender affection....
 
-Too unfamiliar, indescribable, and somewhat difficult to adapt to.
+It was too unfamiliar, too indescribable, and even a little unsettling.
 
-"But I do not believe." She replied: "I only believe in myself."
+“But I don’t believe it,” she replied. “I only believe in myself.”
 
-An unsurprising answer... Even Xia Qingyue, who knew she was a "tool of fate" back then, did not follow predetermined fate, but her own choice... falling into Abyss was an utter liberation from and resolute defiance of words "fate."
+It was an answer that came as no surprise... Even back when she knew she was the ‘Artifact of Fate’, Xia Qingyue had chosen to submit not to a predetermined fate, but her own choices... Her plunge into the Abyss was a complete break from and a resolute rebellion against the very concept of “fate”.
 
-Yun Che’s toes slightly moved. He wanted to get closer, but ultimately restrained himself. As he said, how Xia Qingyue safely fell into Abyss, besides too vague "heavenly mandate protection," he could not think of any other explanation.
+Yun Che’s toes twitched slightly. He wanted to draw closer to her. In the end, though, he restrained himself. As he had told her, he could think of no other explanation for how Xia Qingyue had survived her fall into the Abyss besides the utterly ephemeral notion of “heavenly blessing”.
 
-He could only helplessly say: "I know these words are indeed hard to believe. Your doubts are completely reasonable. But I have not exaggerated or deceived in slightest..."
+Helpless, he could only say, “I know that my words are difficult to believe, and your skepticism is entirely understandable. But I have not exaggerated or deceived you in the slightest....”
 
-"No need to explain, I believe."
+“No need to explain. I believe you.”
 
-Cold light in her eyes slowly receded. She calmly said: "Deception requires a reason, and also bears risk of being exposed. Astute as you are, there is no reason to awkwardly create such a useless lie, one that can be easily exposed and has so many loopholes."
+The cold glint in her eyes slowly faded as she said calmly, “Deceive requires a reason, and carries the risk of being exposed. As shrewd as you are, there is no need for you to fabricate such a useless lie—one that can be easily debunked and is riddled with such glaring holes no less.
 
-"In my judgment, it should actually be true."
+“All things considered, it is probably the truth.”
 
-Yun Che’s lips curved slightly upward, saying with endless emotion: "Indeed, you are still you."
+The corners of Yun Che’s mouth turned up slightly as he replied with boundless emotion, “As I thought, you’re still you.”
 
-He knew very well that Shen Wuyi’s response was by no means trust in him, but her belief in her own intuition and judgment. She was Xia Qingyue, yet had no memories belonging to Xia Qingyue. And for current Shen Wuyi, he was merely a person she had only met a few times, calling him a "stranger" would not be an exaggeration.
+He knew full well that Shenwu Yi’s response was by no means a sign of trust in him, but rather a testament to her faith in her own intuition and judgment. She was Xia Qingyue, yet possessed no memories belonging to Xia Qingyue. To Shenwu Yi at this moment, he was merely a stranger—one she had only met a handful of times no less.
 
-But it did not matter. She was still alive, which was a luxury like a dream; her choice to fight alongside him dyed his originally gray path with too beautiful colors.
+But it didn’t matter. The fact that she was still alive was already a blessing beyond his wildest dreams, and her choice to fight alongside him had painted the once-gray path ahead of him with colors that could only be described as too beautiful to be true.
 
-"However, even for you, being forced to become Divine Maiden of Eternal Night Divine Kingdom, these past twenty years must have been exceptionally difficult."
+“Still, even for you, being forced to become the Eternal Night Divine Daughter... the past twenty-odd years must have been exceptionally difficult for you.”
 
-He asked question that had always lingered in his heart: "I have always wondered, where were you for twenty years before becoming Eternal Night Divine Maiden? During this time since returning from Pure Land, I have been unable to find any information about you twenty years ago. Even in Xuanji Hall, there are no relevant traces."
+He voiced the question that had long weighed in his heart. “Speaking of which, I’ve always wondered—where were you during the twenty years before you became the Eternal Night Divine Daughter? Since returning from the Pure Land, I’ve been trying to uncover any information about you from twenty years ago to no avail. There was no trace of you in the Xuanji Hall either.
 
-"Were you deeply hidden by Ignorant Divine Sovereign, or... in another place?"
+“Was it concealed by the Lightless Divine Regent, or... were you someplace else?”
 
-Yun Che’s tone gradually changed, because he suddenly noticed that as he spoke, Shen Wuyi’s brows were slowly furrowing, a gradually deepening surprise and confusion.
+Yun Che’s tone gradually shifted. It was because he suddenly noticed that, as he spoke, the corners of Shenwu Yi’s brows were slowly furrowing into a look of deepening astonishment and confusion.
 
-"Twenty years before becoming Eternal Night Divine Maiden? What do you mean?" Her gaze was deep and probing.
+“The twenty years before I became the Eternal Night Divine Daughter? What do you mean?” Her gaze was deep and probing.
 
-Yun Che also unconsciously frowned, and said seriously: "Time you leaped into Abyss was four years before me."
+Yun Che also furrowed his brow unconsciously and said solemnly, “You leaped into the Abyss four years before I did.
 
-"And with time black tide of Abyss World, four years in our world meant forty years had passed in Abyss World. This means that when I arrived, you had already been in this world for forty years." "And you became Eternal Night Divine Maiden twenty years ago, so for twenty years before that..."
+“Given the flow of the Black Tide of Time in the Abyss, four years in our world is equal to forty years in the Abyss. This means that when I arrived, you had already been in this world for forty years.
 
-He did not continue, because Shen Wuyi’s emotional changes were completely outside his expectations... the overflowing doubt was actually several times heavier than his own.
+“Since you became the Eternal Night Divine Daughter twenty years ago, I wanted to know what you were doing... twenty years prior...”
 
-Her brows were tightly furrowed, her eyes faintly rippling, then gradually deepening with his words, like a misty galaxy, hazy and indistinguishable.
+He did not continue, for Shenwu YI’s emotional reaction was completely beyond his expectations... The confusion radiating from her was actually several times more intense than his own.
 
-After a long time, she whispered: "When I opened my eyes, saw first ray of light in this world, and had first wisp of consciousness in this life, I was already in Eternal Night Divine Kingdom."
+Her brows were tightly furrowed, and her gaze rippled with a faint light that grew increasingly deep with each of his words. It was like a mist that was blocking the view of a river of stars, hazy and indistinct.
 
-"And in first year after I woke up, I was already conferred title of Eternal Night Divine Maiden."
+After a long silence, she finally whispered, “The moment I opened my eyes and saw the first light of day in this world, the second I possessed the first thread of consciousness in this life, I was already in the Eternal Night Kingdom of God.
 
-"At least in my cognition, in my memory, there is no 'twenty years before' you speak of."
+“Moreover, in the very first year after I awoke, I was already bestowed the title of Eternal Night Divine Daughter.
 
-"...?" Yun Che suddenly froze, his consciousness briefly chaotic, and aura around him solidified for a few breaths.
+“In my understanding and memories at least, there is simply no such thing as the ‘twenty years prior’ you speak of.”
 
-Then, he slowly shook his head, saying with extreme certainty: "Absolutely... im... pos... sible."
+“... ?” Yun Che froze suddenly, his mind momentarily clouded, and his aura condensing for a few breaths.
 
-"Scene of you leaping into Abyss would appear in every dream of mine thereafter. No matter what, I could not possibly misremember such a simple and clear time. And under time black tide of Abyss, there is indeed a tenfold difference in flow rate, which also cannot be wrong."
+Then, he shook his head slowly and declared in an unwavering voice, “Impossible.
 
-At least, Yun Xi’s age perfectly matched time black tide.
+“The image of you leaping into the Abyss had appeared in every dream I’ve had since then. No matter what, there is no way I could have misremembered such a simple, obvious span of time. I’ve also confirmed that the time flows ten times faster in the Abyss compared to the Eternal Pure Land due to the Black Tide of Time. This, too, cannot be a mistake.”
 
-"..." Shen Wuyi did not answer, and could not answer.
+At the very least, Yun Xi’s age perfectly aligned with the Black Tide of Time.
 
-Because her cognition and memory were indeed only twenty years. Her astonishment was no less than Yun Che’s.
+“......” Shenwu Yi did not answer. She couldn’t. After all, her own consciousness and memories had truly spanned only twenty years. Her astonishment was no less than Yun Che’s.
 
-And in his perception and judgment, his appearance did not seem to be lying, nor fabricating.
+In her perception and judgment, he did not appear to be lying or fabricating a story either.
 
-On Eden Cloud Peak, after Yun Che learned that Shen Wuyi was Xia Qingyue, he once whispered a question to Li Suo... Based on information he knew about Shen Wuyi at that time, when she first became Eternal Night Divine Maiden, twenty years ago, her cultivation was only at Divine Master Realm Level Ten.
+At Eden’s Crown, after learning that Shenwu Yi was actually Xia Qingyue, Yun Che had once quietly voiced a question to Li Suo... Based on what he knew about Shenwu Yi at the time, when she first became the Eternal Night Divine Daughter—that was, twenty years ago—her cultivation level had merely been at the tenth level of the Divine Master Realm.
 
-And when she fell into Abyss, her cultivation was also at this level.
+She had been at the same cultivation level when she fell into the Abyss as well.
 
-He was deeply puzzled at that time: with Xia Qingyue’s talent and aptitude, how could her cultivation not have progressed at all for entire twenty years from her fall into Abyss to her becoming Eternal Night Divine Maiden?
+At the time, he had been deeply puzzled: given Xia Qingyue’s innate talent and aptitude, just how was it possible that her cultivation had not progressed at all during the twenty years after she fell into the Abyss? Unchanged until the moment she became the Eternal Night Divine Daughter.
 
-He had briefly considered many possibilities... And now, Shen Wuyi’s answer to him was that she simply did not have those twenty years!?
+He had briefly considered many possibilities... and now, Shenwu Yi was telling him that those twenty years didn’t even exist to her!?
 
-What... was going on??
+Just... What on earth was going on here??
 
-"Where did Ignorant Divine Sovereign find you?" Yun Che thought of something, and suddenly asked.
+“Where did the Lightless Divine Regent find you?” Yun Che suddenly asked, a thought striking him.
 
-"Mist Sea, but it was not she who found me." Shen Wuyi corrected: "It was actually Shen Youluan who rescued me in Mist Sea. At that time, I was in a coma, in a deep part of Mist Sea that, with my cultivation at that time, I should never have entered."
+“In the Endless Fog, but it wasn’t she who had found me,” Shenwu Yi corrected him. “It was actually Shenwu Youluan who had rescued me from the Endless Fog while I was unconscious. At the time, I was unconscious, and the place I was found was deep within the Endless Fog—a place I, with my cultivation level back then, should never have been able to enter.”
 
-Deep part of Mist Sea... that was a place only Divine Emperor Realm practitioners dared to venture.
+The depths of the Endless Fog... was a place only those at the Divine Limit Realm would dare to venture into.
 
-"Shen Youluan felt compassion, rescued me from Mist Sea while I was in a coma, brought me back to Eternal Night Divine Kingdom, healed my injuries, and originally intended to safely send me away after I recovered and woke up."
+“Shenwu Youluan took pity on me and rescued me from the Endless Fog while I was unconscious. She brought me back to the Eternal Night Kingdom of God and healed my wounds. She had intended to safely send me away once I had recovered and awakened.
 
-"But before I woke up, Ignorant Divine Sovereign discovered that I possessed Nine Profound Exquisite Body. Thus, I fell into Ignorant Divine Sovereign’s hands. She gave me name 'Shen Wuyi,' forcibly chose me as perfect Divine Successor, and naturally, person who saved my life changed from Shen Youluan to her."
+“But before I woke up, Shenwu Yanye detected that I possessed the Nine Profound Exquisite Body. Thus, I fell into her hands. She bestowed upon me the name, ‘Shenwu Yi’ and forced me to become her perfect God Bearer. Consequently, she publicly declared that she was the one who saved my life, not Shenwu Youluan.
 
-"Including that marriage contract, it was also accidentally discovered by Shen Youluan when she rescued me, and she risked hiding it for me out of compassion. But under Ignorant Divine Sovereign’s overwhelming power, she could not tell me truth, but that did not prevent me from gradually seeing everything with my own eyes."
+“Even that marriage contract was something Shenwu Youluan had discovered by chance while saving me. Out of compassion, she had taken the risk of hiding it for me all this time, but under Shenwu Yanye’s overbearing pressure, she was unable to tell me the truth. Though, that did not prevent me from gradually seeing everything with my own eyes.”
 
-Yun Che’s brows furrowed even more. He had briefly explored deep part of Mist Sea once, but retreated in haste after a short time, never daring to venture deep again.
+Yun Che’s brows furrowed even deeper. He had once ventured briefly into the depths of the Endless Fog, only to retreat in disarray shortly after, never daring to venture inside carelessly again.
 
-How could she have been sleeping there back then?
+How could she have been sleeping there all those years ago?
 
-And those twenty years that mysteriously disappeared, could not have been spent entirely sleeping in deep part of Mist Sea...
+And those twenty years of her unexplained disappearance—surely she couldn’t have spent them all slumbering in the depths of the Endless Fog, right... ?
 
-Space fell silent again for a long time. Shen Wuyi raised her eyes from her contemplation, looking at Yun Che’s sometimes slightly moving, sometimes confused expression, and parted her lips: "It seems you find it hard to solve."
+The space fell silent once more. Shenwu Yi lifted her gaze from her contemplation and observed Yun Che’s expression. She noted how his face flickered between confusion and bewilderment from time to time while saying, “It would appear that you are no less confused than I am.”
 
-"More than hard to solve..." Yun Che’s brows remained furrowed for a long time. The twenty years from Xia Qingyue’s leap into Abyss to her becoming Shen Wuyi seemed to have been forcibly dug out, leaving no trace of their existence... This was more than an unsolvable doubt; it was a bizarre defiance of cognition.
+“Confused doesn’t even begin to explain it....” Yun Che’s brow remained furrowed for a long time. The twenty years between Xia Qingyue’s leap into the Abyss and her transformation into Shenwu Yi seemed to have been forcibly erased, leaving not even the slightest trace of her existence behind... This wasn’t just a puzzling mystery; it was a bizarre phenomenon that defied all understanding.
 
-Coupled with how she safely passed through Abyss passage...
+And then there was the question of how she had managed to fall into the Abyss unscathed....
 
-What exactly happened to all this?? Or what was hidden...
+What on earth had happened? Or was there something being concealed....
 
-Shen Wuyi said coldly: "Even hearts of mortals are hard to fathom, let alone world secrets involving space and time. Since it is an unsolvable past doubt, there is no need to trouble your mind with it. Perhaps one day, truth will inadvertently surface on its own."
+Shenwu Yi said coolly, “Even the emotions of ordinary mortals are hard to fathom, let alone the secrets of the world involving space and time. Since these are unsolvable mysteries of the past, dwelling on them will only cause unnecessary distress. Perhaps one day, the truth will reveal itself unexpectedly.”
 
-Upon hearing this, Yun Che also decisively cast aside his chaotic thoughts: "You are right. Compared to how to safely return to our homeland together, these past matters are insignificant. So, Qing... Wuyi, what does this 'Dragon-Coiling Seven Profound Crystal' that never existed actually mean?"
+Hearing this, Yun Che decisively cast aside his jumbled thoughts and replied, “You’re right. Compared to how we can safely return to our homeland together, these fleeting matters are utterly insignificant. So, Qing... Wu Yi, what exactly does this ‘Coiling Dragon Seven Profound Crystal’ that does not actually exist signify?”
 
-Shen Wuyi did not answer directly, her eyes containing a profound pool that was hard to fathom: "You might as well guess."
+Shenwu Yi did not answer him directly. Instead, she stared at him with eyes that looked as deep as an unfathomable abyss, asking, “Why don’t you take a guess?”
 
-Yun Che said: "I guess... it is related to 'Secret Canon' that Shenwu Yanye screamed out when she fell into a dream that day."
+Yun Che replied, “I think... it has something to do with the ‘Secret Canon’ Shenwu Yanye had screamed out that day she fell into a dream.”
 
-She tilted her head, giving him a deep look: "Although, you, who can defy cognition and control Abyss Dust, are person in world most likely to see through this situation, to be so accurate indeed makes me look at you with new eyes again. Thus, I am even more interested in your plan."
+Shenwu Yi tilted her head and looked at him intently. “Although you, possessor of the common-sense-defying ability to command abyssal dust, are the one most capable of seeing through this scheme, I must admit that I am very impressed by the accuracy of your deductions. I believe I am growing more interested in your scheme now.”
 
-She slowly said: "In God Slumber Forbidden Zone, you said you used despicable means to make Heaven-Folding Divine Maiden fall for you, to cause alliance of Dream Weaving, Heaven-Folding, and Senluo Kingdoms to fall apart, burying a hidden line of enmity."
+She said slowly, “In the Forbidden Zone of Slumbering Gods, you once said that you used underhanded means to make the Heaven Breaker Divine Daughter fall in love for you, all to sow the seeds of discord that will destroy the alliance between Dreamweaver, Heaven Breaker, and Boundless, and turn them against one another.
 
-"At first, I found it absurd and ridiculous. Because even if magnified tenfold, it is ultimately just emotional injury and betrayal. What if three Divine Sovereigns become sworn enemies? What if three Divine Kingdoms truly turn against each other? At most, they would block communication with each other. Could mere junior emotional grievances really cause disaster to a nation??" "Now it seems, your methods should not be so shallow."
+“At first, I found it absurd and laughable. For even if the enmity was magnified tenfold, it would still amount to nothing more than a broken heart and a betrayal of loyalty. So what if the tie between the three Divine Regents is permanently severed over this? So what if the three Kingdoms of God actually turned against one another? At worst, they would simply sever all diplomatic relations. Could the petty grievances among the younger generation truly spark a national crisis?
 
-"Of course, all this is just a prelude and an introduction." Yun Che organized his thoughts slightly, and actively explained: "Reason why my identity as 'Meng Jianyuan' is flawless is because Dreamless Divine Sovereign Meng Kongchan firmly believes I am Meng Jianyuan, and no matter what, will have no doubts."
+“But now, I have reason to believe that your methods are not that shallow.”
 
-"Oh?" Shen Wuyi’s eyes narrowed in surprise.
+“Of course, all of this is merely a prelude and a setup.” Yun Che took a brief moment to gather his thoughts before explaining proactively, “The reason my identity as ‘Meng Jianyuan’ is so flawless is because the Dreamless Divine Regent, Meng Kongchan, firmly believes that I am him. And no matter what happens, he will never harbor the slightest doubt.”
 
-Yun Che gave him facts without concealment: "Simply put, I used Divine Sovereign Hua Xin’s extreme concern for his daughter to induce him to send me to Dream Weaving Divine Kingdom. Meng Kongchan personally cast a dream on me to confirm that I had no ulterior motives towards Hua Caili. I used this as an opportunity. When Meng Kongchan cast his soul power on me, his soul domain wide open and unguarded, I used a wisp of ancient devil soul to counterattack his soul, implanting cognition 'I am Meng Jianyuan.'"
+“Oh?” Shenwu Yi’s eyes narrowed in surprise.
 
-"And three blank spots, where 'suggestions' can be implanted at any time."
+Yun Che continued to lay out the facts without reservation, “Simply put, I had exploited the Heart Painter Divine Regent’s extreme concern for his daughter and baited him into sending me to the Dreamweaver Kingdom of God. There, Meng Kongchan personally performed a Falling Dream technique on me to confirm that I harbor no ill will toward Hua Caili. While Meng Kongchan was channeling his soul power into me, and his soul domain was wide open and defenseless, I seized the opportunity to counterattack with a wisp of an ancient devil’s soul and embedded the belief that I am Meng Jianyuan.
 
-Yun Che’s words were undoubtedly shocking. Meng Kongchan was, without dispute, existence with strongest Divine Soul among Six Divine Kingdoms. Counterattacking his soul, implanting cognition and suggestions that could be activated at any time... probably no one would believe it even if someone dared to say it.
+“In addition, I have embedded three additional blank spaces that may be imprinted with ‘suggestions’ at any time.”
 
-Shen Wuyi’s aura showed a slight ripple of emotion, but she did not question or sneer. Instead, she calmly said: "It is indeed a method no one would ever dream of, so inconceivable that even if you told truth, probably no one would believe it."
+Every word Yun Che had spoken was nothing short of earth-shattering. Meng Kongchan possessed the strongest divine soul among the six Kingdoms of Gods—this was beyond dispute. To launch a counterattack against his soul and even embed suggestions into his consciousness that could be triggered at any moment... no one would ever believe such a thing even if it was the truth.
 
-"You specifically mentioned this. Is core of your plan centered on Meng Kongchan?"
+A faint ripple stirred in Shenwu Yi’s aura, though she offered neither skepticism nor derision. She said calmly, “Indeed, such a method could not be imagined even in one’s wildest dreams. It is so inconceivable that you could lay out the truth in its entirety, and I doubt that anyone would believe it.
 
-Yun Che did not answer directly, but said with extreme certainty: "Details of it, I cannot explain in a short time. What I can guarantee is..."
+“Since you’re bringing this up specifically—could it be that the core of your plan lies with Meng Kongchan?”
 
-"Within five years, Divine Kingdom will surely fall into chaos!"
+Yun Che did not answer directly, but he did declare with extraordinary certainty, “We do not have enough time for me to explain everything in detail. But I can promise you....
 
-Shen Wuyi’s moon-like eyes slightly narrowed, her long lashes trembling slightly, as if in surprise, or perhaps contemplating something.
+“That the Kingdoms of God will descend into chaos within five years!”
 
-"There is one more important thing." Yun Che continued: "I originally intended to use power of Pan Xiaodie Divine Kingdom to stir up chaos in Eternal Night Divine Kingdom. But now, since that is your dwelling place and place of your planning, I will naturally change it."
+Shenwu Yi’s moon-like eyes narrowed, and her long lashes trembled ever so slightly as if in astonishment, yet also deep in thought.
 
-"Stir up Pan Xiaodie Divine Kingdom?" Shen Wuyi’s eyes showed ripples of surprise again: "Pan Xiaodie Divine Kingdom is most loyal to Abyss Emperor, and least likely to contend with outsiders. I am very curious, what could stir..."
+“There is one more important matter,” Yun Che continued. “I originally intended to use the power of the Owl Butterfly Kingdom of God to destabilize the Eternal Night Kingdom of God. However, since that is now your home and the place where you’re making your plans, I shall alter that course.”
 
-Her voice suddenly stopped, cold ripples appearing in her beautiful eyes: "Could it be... Pan Buwang?"
+“Use the Owl Butterfly Kingdom of God?” A ripple of astonishment flashed across Shenwu Yi’s eyes. “Out of all the kingdoms, Owl Butterfly is the one most loyal to the Abyssal Monarch and the least inclined to quarrel with outsiders. I am truly curious what could possibly provoke them to—”
 
-Yun Che smiled and nodded, pleased with their telepathy: "Exactly."
+Her voice trailed off abruptly, and a chill seeped to sweep across her beautiful eyes. “Could it be... Pan Buwang?”
 
-Shen Wuyi’s lips moved slightly, a subtle expression flashing across her face: "Although I do not know how you will achieve this, but... no need to change it."
+Yun Che smiled and nodded, savoring their mutual understanding. “That’s right.”
 
-"Eh??" Yun Che was slightly startled.
+Shenwu Yi’s lips twitched slightly, a subtle expression flitting across her face. “Although I do not know how you intend to bring this about, there is... no need to alter your plans.”
 
-"After all, that is the power of the Divine Kingdom, if it can be utilized, how could it be wasted? If you truly can stir up calamity, then I also have my own method… to divert the disaster elsewhere."
+“Huh?” Yun Che was slightly taken aback.
 
-"Good!" Yun Che did not ask for details, only nodded heavily.
+“It is the power of a Kingdom of God after all. If it can be utilized, why let it go to waste? If you truly can provoke a calamity, then I, too, have my own methods... to divert it elsewhere.”
 
-Neither of them knew how other would do it, yet they gave each other complete trust... For Yun Che, this was too simple and natural; for Shen Wuyi, since she had made her choice, she would never regret or hesitate.
+“Very well!” Yun Che didn’t ask for further details; he merely nodded firmly.
 
-Shen Wuyi turned her gaze to barrier behind her.
+Neither of them knew what the other person intended to do, yet they had placed their complete trust in one another... For Yun Che, this was an all-too-natural choice. For Shenwu Yi, she never looked back or hesitated once she had made her choice. 𝙛𝒓𝓮𝙚𝔀𝒆𝒃𝓷𝒐𝓿𝙚𝓵.𝙘𝒐𝒎
 
-A quarter of an hour was too short. Unconsciously, it was approaching too quickly.
+Shenwu Yi turned her gaze toward the barrier behind her.
 
-"Since I chose to go to certain death with you, I will naturally not just wait. As for what I will do... you will soon know."
+Fifteen minutes was too short; before they knew it, the moment was drawing near all too quickly.
 
-After speaking, she had already turned and walked away. For her, retrieving Dragon-Coiling Seven Profound Crystal and stating her choice on this trip was enough. As for future, she would observe and act, even if it meant death, it would not be in vain.
+“Since I have chosen to walk this path to the end with you, I will not simply stand and wait. As for what I intend to do... you will find out soon enough.”
 
-"Wuyi!" Yun Che subconsciously raised his hand to call out to her, his fingertips slightly curled, then slowly lowered. His voice was soft, filled with deep concern: "Shenwu Yanye is too terrifying and dangerous. No matter what you do, you must first protect yourself."
+With that, she turned and walked away. For her, retrieving the Coiling Dragon Seven Profound Crystal and making her choice known was good enough. As for the future, she would take it one step at a time.
 
-Shen Wuyi’s steps did not stop. She said faintly: "Madmen are indeed terrifying, but they are also easiest to deal with, are they not?"
+Even if she died, it would not be in vain.
 
-"Everyone says becoming Eternal Night Divine Maiden is a great sorrow. In reality, most of time, I am extremely grateful that I drifted to Eternal Night Divine Kingdom."
+“Wu Yi!” Yun Che instinctively raised his hand to call her back, but he slowly dropped it, fingertips trembling. His voice gentle and tinged with deep concern, he said, “Shenwu Yanye is far too terrifying and dangerous. Whatever you do, you must ensure your own safety first.”
 
-As last word fell, her figure had already stepped outside barrier. Her expression had completely returned to its clear and indifferent state, showing no joy or sorrow, untainted by mortal dust.
+Shenwu Yi’s footsteps never stopped. She replied darkly, “Madmen are terrifying, but they’re also the easiest people to deal with, aren’t they?
 
+“The world says that becoming the Eternal Night Divine Daughter is a great tragedy. In truth, more often than not, I am immensely grateful that I ended up in the Eternal Night Kingdom of God.”
+
+As her last word fell, her figure passed through the barrier. Her expression also returned to its usual cold detachment—showing neither joy nor sorrow, and untouched by mortal coil.

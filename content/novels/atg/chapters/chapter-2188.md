@@ -1,315 +1,309 @@
 ---
 chapterNumber: 2188
-title: "Dreamweaving Divine Kingdom"
-publishedAt: "2026-04-19"
+title: "To Imprison a Monarch"
+publishedAt: "2026-05-30"
 ---
 
-Meng Chaoyang stood before the seat of Meng Kongchan, his eyes lowered and his gaze slightly averted, carrying an obvious sense of nuance and complexity.
+UNedited Chapter - Rubble
 
-"To see the most calm and desireless of the Nine Hall Masters reveal such a conflicted state is truly a rare sight."
+The Dreamweaver Kingdom of God.
 
-Meng Kongchan set down the object in his hand and fixed his gaze upon him. "Is it regarding Yuan'er?"
+Meng Chaoyang stood before Meng Kongchan with his eyes slightly lowered, and his gaze tilted ever so slightly. He was also exuding an unmistakable air of complicated feelings.
 
-Only then did Meng Chaoyang meet Meng Kongchan’s eyes. "When we left the territory, Your Exaltedness stated that I only needed to quietly protect Divine Son Yuan’s safety. As long as there was no danger, I was not to interfere, nor was there a need to report upon our return. But..."
+“It is quite rare to see the most composed and detached of the nine Dream Lords displaying such a conflicted expression.”
 
-He paused for a moment, and the airflow within the hall seemed to stagnate along with him. "There are some matters I feel are necessary to speak of with Your Exaltedness."
+Meng Kongchan set down the object in his hand and fixed his gaze on him. “Is it about Yuan’er?”
 
-Meng Kongchan spoke calmly, "Is it about Yuan’er’s desire to return the Dragon Marrow and Dragon Soul within him to the Dragon Race?"
+Only then did Meng Chaoyang meet his Divine Regent’s gaze and said, “Before we left the realm, you once told me that I only need to ensure the Divine Son Yuan. I must not interfere with anything unless there is danger, and there is no need to report back upon our return. But....”
 
-Meng Chaoyang was not surprised; instead, he narrowed his eyes slightly, a clear sense of irony surfacing. "As expected... no matter how fast one travels, it cannot compare to a sound transmission. I suspect that the moment the Prince and I left, that Old Dragon couldn't wait to spread the news to every corner reachable."
+He paused, and the air in the hall seemed to grow still for a moment. “There are certain matters I still feel that it is necessary to discuss with you, supreme one.”
 
-Meng Kongchan showed no sign of surprise, his voice remaining as flat as before. "Though it is somewhat unsightly, given the Dragon Race’s current plight, such behavior is understandable. Moreover, at its root, this was something Yuan’er took the initiative to facilitate... or is it that this matter is not as the rumors suggest?"
+Meng Kongchan said in a calm tone, “Is it regarding the matter of Yuan’er wishing to return the dragon marrow and dragon soul within him to the dragon race?”
 
-Meng Chaoyang shook his head. "The matter of 'returning' the Dragon Marrow and Dragon Soul was indeed proposed by the Prince himself, and his attitude was extremely firm. No matter how much audacity the Dragon Race possesses, they would never dare to speak falsely or recklessly regarding a matter involving our Dreamweaving Divine Son."
+Meng Chaoyang showed no surprise. Instead, he narrowed his eyes slightly and said with clear sarcasm in his voice, “As expected... no matter how fast one travels, it can’t keep up with the speed of a sound transmission. I fear that the moment His Highness and I left, that old dragon had already eagerly spread the news to every corner it could reach.”
 
-"It is just..." Meng Chaoyang watched the shifts in the Dreamless Divine Regent’s expression, lowering his voice slightly. "The Prince’s many actions and reactions were very strange."
+Meng Kongchan showed no sign of surprise, his voice as level as before. “Though it is somewhat unsightly, the dragon race’s behavior is understandable given their predicament. Besides, at its roots, this is something Yuan’er had actively brought upon himself... or is the matter not as the rumors suggest?”
 
-Meng Kongchan did not respond.
+Meng Chaoyang shook his head. “The matter of ‘returning’ the dragon marrow and dragon soul to the dragons was indeed initiated by His Highness, and His Highness’ stance was extremely firm as well. Otherwise, no matter how bold the dragons might be, they would never dare to speak falsely or make baseless claims regarding matters involving our Dreamweaver Divine Son.”
 
-Meng Chaoyang continued of his own accord, "The rumors likely failed to mention that after the Prince arrived at the Dragon Race, he only exchanged brief pleasantries with that Old Dragon before suddenly demanding to see Long Xi. After meeting Long Xi, he abruptly left without saying goodbye... and then, mid-air, he fell to the ground as if he had lost his soul, vomiting incessantly and in agonizing pain."
+“However...” Meng Chaoyang lowered his voice slightly while keeping a close eye on the subtle shifts in the Dreamless Divine Regent’s expression. “I must say that His Highness’ actions and reactions in this matter are quite... unusual.”
 
-"..." Meng Kongchan slowly stood up, his brows unknowingly sinking into two terrifying arcs.
+Meng Kongchan offered no reply.
 
-Meng Chaoyang did not stop because of his reaction, continuing, "At the time, facing my confusion, the Prince hastily fabricated a crude excuse. Later, upon returning to the Dragon Race, he proposed returning the Dragon Marrow and Dragon Soul, explaining his previous departure as a result of being too ashamed to face them due to his own selfishness. He confessed that after leaving, his selfishness and his Master’s orders clashed like ten thousand ants devouring his soul, causing unbearable agony."
+“Meng Chaoyang continued, “The rumors likely did not mention this, but after only arriving at the dragon’s place for a short while and exchanging brief pleasantries with the old dragon, His Highness had suddenly demanded to see Long Xi. After meeting her, he abruptly took his leave without a word and departed the place... Then, mid-air, His Highness abruptly lost his senses and fell to the ground, vomiting uncontrollably and writhing in agony.”
 
-"But..." Meng Chaoyang slowly narrowed his eyes. "From my observation, the Prince’s later words were, in fact, meant for my ears."
+“......” Meng Kongchan slowly stood up, his eyebrows unconsciously furrowing into two menacing arcs.
 
-"..." Meng Kongchan remained silent.
+His reaction did not cause Meng Chaoyang to balk. He continued, “At the time, faced with my doubts, His Highness had hastily concocted a flimsy excuse. After we returned to the dragon’s place, he proposed returning the dragon marrow and dragon soul to the dragon race, and explained that his earlier departure without notice stemmed from a sense of shame born of selfishness. He also confessed that, during his sudden departure, his personal desires had clashed against his master’s orders, tormenting him like a swarm of ants gnawing at his soul and causing him unbearable agony.”
 
-Meng Chaoyang’s voice dropped another notch, even though there was no one here who could eavesdrop. "Selfishness and personal desire are the true colors of human nature. Upon the Eternal Pure Land, I personally witnessed the Prince endure the punishment of double Abyssal Devouring¹ without a sound. His strength of will and resilience of soul are the greatest I have ever seen in my life. How could he be wounded to such a state of agony by mere selfish thoughts?"
+Meng Chaoyang narrowed his eyes slowly. “From what I had observed, His Highness’ explanation was, in truth, meant for my ears.”
 
-"During the return journey, I reflected on everything. I gradually felt that the Prince’s sudden abnormality likely had everything to do with that Long Xi..."
+“......” Meng Kongchan remained silent.
 
-"Chaoyang."
+Meng Chaoyang lowered his voice once more, even though there was no one here to eavesdrop. “Selfishness and personal desire are the true colors of all living being’s nature. On this Pure Land, I had witnessed with my own eyes how His Highness had endured twice the amount of punishment of devouring rage without uttering a single word of complaint. Such unwavering will and resilient spirit are a sight I have never seen before in my life until then. Knowing that, I find it hard to believe that such trivial personal thoughts possibly inflict such unbearable agony upon him.
 
-A soft call, just two words, yet it caused Meng Chaoyang’s soul to tremble. His eyes instantly clouded over, like a pool of still water violently stirred by an invisible force. All his thoughts, conjectures, and the words about to leave his mouth were brutally shredded in that instant.
+“On the journey back, as I reflected on everything, I gradually came to suspect that His Highness’ sudden change in demeanor was most likely connected to that Long Xi—”
 
-Then, in a similarly brief breath, he was forced back into a state of clarity.
+“Chaoyang.”
 
-However, the words he had intended to say could no longer be spoken.
+It was one soft cry of two words. Yet they sent a tremor through Meng Chaoyang’s soul, causing his eyes to cloud over instantly. As if an invisible force had violently stirred up a still pond, all his thoughts, conjectures, and the words on the tip of his tongue were shattered in that instant.
 
-Meng Kongchan looked at him, his expression calm and unhurried. "This is why I specifically instructed you to only protect him from afar, without any interference or superfluous words."
+Yet, in that same fleeting instant, he was forced back into clarity.
 
-"Your Exaltedness..."
+But the words on his lips could no longer be spoken.
 
-Meng Kongchan raised a hand, pushing back the words he was about to speak. "I know you worry for him, but... Yuan’er’s current strength and temperament both come from his Master and himself. Though we are his closest elders, we have never provided any assistance, never witnessed his growth, and even... failed to ensure his safety."
+Meng Kongchan looked at him, his expression calm and unhurried. “This is why I specifically instructed you to merely provide distant protection, without any interference or unnecessary words.”
 
-"Now, what right do we have to dictate his choices or pry into the secrets he does not wish others to know?"
+“Supreme one...”
 
-He stared at Meng Chaoyang, every word piercing the soul. "Chaoyang, remember: what Yuan’er does not wish to do, no one shall force; what Yuan’er does not wish to say, no one shall question; what Yuan’er wishes to hide, no one shall pry—and you must even help him hide it... This applies to this Regent as well!!"
+Meng Kongchan raised a hand, cutting off the words on his lips. “I know you worry for him, but... Yuan’er’s strength and character both come from his master and himself. Though we are his closest elders, we have never offered him any assistance, never witnessed his growth... and even failed to keep safe.
 
-Meng Chaoyang lowered his brows and let out a soft sigh. "Your Exaltedness, to this day, I cannot see clearly whether your feelings for Jianyuan are mostly guilt or mostly doting."
+“Now, what right do we have to dictate his choices or pry into secrets he wishes to keep from others?”
 
-A touch of softness appeared in Meng Kongchan’s eyes, a softness like the warm luster of ancient jade under moonlight. "There is also the trust I, as a father, should grant him."
+He fixed his gaze on Meng Chaoyang, his words piercing the soul. “Chaoyang, remember this. No one may force Yuan’er to do what he does not wish to do; no one may press him on what he does not wish to say; and no one may pry into what he wishes to conceal—on the contrary, we must help him keep it hidden... even from me!!”
 
-Meng Chaoyang was slightly startled.
+Meng Chaoyang furrowed his brows slightly before letting out a soft sigh. “Supreme one, even now I cannot discern whether your feelings toward Jianyuan are driven more by regret, or by affection.”
 
-"You Hall Masters know better than anyone what Jianxi is like. Now, you all so willingly step back behind Yuan’er—is that not enough??"
+A touch of tenderness flickered in Meng Kongchan’s eyes. It looked as soft as an ancient jade bathing in the warm glow of moonlight. “As his father, it is only right that I grant him my trust.”
 
-After a brief silence, Meng Chaoyang slowly nodded. "I understand Your Exaltedness’s meaning."
+His remark caused Meng Chaoyang to be taken aback slightly.
 
-"Let him do what he wishes. I believe he will always bring surprises we cannot imagine. Even if he fails, ruins it, or even causes a heaven-shaking disaster... so what?" Meng Kongchan turned his back, his voice neither heavy nor harsh, yet carrying an invisible majesty that caused the entire hall to stagnate.
+“You Dream Lords know better than anyone what Jianxi is capable of. Yet now, he is willingly stepping back and letting Yuan’er take the lead—is that not enough??”
 
-"In this world, beneath the Pure Land, is there anything I, Meng Kongchan, cannot handle!?"
+After a brief silence, Meng Chaoyang slowly nodded. “I understand your meaning, supreme one.”
 
-In the Divine Son’s Palace, Yun Che leaned against a rattan chair by the garden pavilion, his eyes lightly closed. He appeared leisurely and content, but in reality, the deep pain in his heart had never truly dissipated.
+“Let him do as he pleases. I believe he will bring us pleasant surprises that we could never have imagined. And even if he fails, makes a mess of things, or even causes a catastrophe of unimaginable proportions... So what?” Meng Kongchan turned away. His voice was neither loud nor harsh, yet it carried an intangible majesty that made the entire hall fall silent.
 
-On the chessboard in his mind, an extra, heavy piece had appeared... steaming with dark devilish aura.
+“In this world, beneath the Pure Land, is there anything that I, Meng Kongchan, cannot handle!?”
 
-The Dragon Race...
+In the Divine Son Palace, Yun Che was leaning back in a wicker chair beside the courtyard pavilion. His eyes were closed gently, the picture of serenity and easiness from the outside. In reality, the intense pain within his heart had never abated.
 
-He stood up and suddenly commanded, "Laisheng, close the palace gates. I will see no guests today."
+Inside his mind, a new piece—heavy and shrouded in a dark, devilish aura—had appeared on the game board.
 
-"All of you withdraw as well. Do not approach or disturb me."
+The dragons....
 
-Yun Che moved to the guest hall and sat before a desk. As he raised his hand, a faint white glow flickered ethereally between his fingers.
+He rose to his feet and suddenly ordered, “Laisheng, close the doors. No outsiders are to be received today.”
 
-It was the micro-crystal tainted with a bit of his soul that Mo Su had personally given him half a month ago.
+“All of you, withdraw as well. Do not disturb me.”
 
-Yun Che’s fingertip brushed the surface of the micro-crystal. He narrowed his eyes for a long time, and after a lengthy silence, his fingers gave a light snap.
+Yun Che walked into the reception hall, took his seat at the desk, and raised his hand. A faint white glow started flickering softly between his fingers.
 
-Bang!
+It was the tiny crystal that Mo Su had personally given him half a month ago—the one imbued with a trace of his divine soul.
 
-The micro-crystal shattered. The white light dispersed soundlessly and vanished in an instant.
+Eyes narrowing, Yun Che caressed the surface of the tiny crystal for a long time. Finally, he gently snapped his finger.
 
-This item, which could be called the most powerful and only protective talisman in the Abyssal World, was thus casually destroyed in a place devoid of any danger.
+The tiny crystal shattered, and a white glow dispersed silently before vanishing in an instant.
 
-Zheng—
+The talisman—arguably the most powerful, and indeed the only one of its kind in the entire Abyss—was thus casually destroyed in a situation that posed no danger whatsoever.
 
-A very soft hum echoed as a pale rift opened in the space ahead.
+A faint hum rang out, and a pale fissure split open in the space ahead.
 
-But within Yun Che’s pupils and perception, beneath that seemingly pure white light, layers of profound dark aura were shockingly hidden.
+Yet within Yun Che’s eyes and perception, beneath that seemingly pure white glow, layers of profound, dark energy were clearly concealed.
 
-A name silently manifested in his soul sea:
+A name emerged silently within his soul sea:
 
-The Pan Ming Void-Piercing Mirror².
+The Original Nether Void Breaching Mirror.
 
-A figure stepped slowly out of the spatial rift. He looked at Yun Che and smiled faintly, bringing a touch of warmth to that face that was usually indifferent to the world, along with... a hint of helplessness that rarely appeared on his face.
+A figure slowly stepped out of the spatial fissure. He looked at Yun Che with a faint smile that brought a hint of warmth to his otherwise aloof face—along with a touch of resignation rarely seen on his features.
 
-Yun Che stood up and greeted him with a smile. "Big Brother actually arrived so quickly. I didn't even have time to prepare wine to welcome you."
+Yun Che rose to his feet and greeted him with a smile, “Big Brother, you showed up so quickly that I didn’t even have time to prepare wine to welcome you.”
 
-Mo Su, in flawless white robes, slowly descended. "If the location where the soul-star dispersed weren't the Dreamweaving Territory, where no danger exists, I might have arrived instantly. You took the initiative to ask for this item half a month ago just to invite me for a drink?"
+Mo Su, clad in immaculate white, descended slowly. “Had the Soul Stars[1] not been scattered across the realm of Dreamweaver, and there were absolutely no danger to speak of, I would have arrived in an instant. You asked me for this item of your own accord half a month ago—was it merely to invite me to drink with you?”
 
-Yun Che shook his head with a smile, showing no sign of heartache over "wasting" the Abyssal Monarch’s Soul Crystal. "Traveling through the void over such a distance undoubtedly requires immense consumption. Big Brother must have been busy focusing on the great matters of the Eternal Pure Land recently. If it weren't for something significant enough, how could I easily disturb you?"
+Yun Che shook his head with a smile, showing not the slightest hint of regret for having “wasted” the Abyssal Monarch’s soul crystal. “Traveling such a great distance through space would undoubtedly require an immense amount of energy. Big Brother, I imagine you’ve been fully occupied with the affairs of the Eternal Pure Land lately. Unless it was a matter of great importance, how could I have disturbed you so lightly?”
 
-Mo Su’s faint smile deepened slightly. "You are the exception. Even small matters are fine."
+Mo Su’s faint smile deepened a little. “You are the exception. I permit you to disturb me even for trivial matters.”
 
-He took a seat across from Yun Che and said seemingly casually, "Before arriving, I just heard a rumor. You intend to give the Dragon Marrow and Dragon Soul within you to the Dragon Race to sustain their failing lifeline??"
+He took a seat in front of Yun Che before remarking, as if in passing, “I had heard a rumor before arriving. It stated that you intend to hand over the dragon marrow and dragon soul within you to the dragon race to sustain their dying lineage?”
 
-Yun Che smiled nonchalantly. "I didn't expect such a small matter could actually disturb Big Brother."
+Yun Che laughed nonchalantly. “I didn’t expect such a trivial matter to actually disturb you, Big Brother.”
 
-Mo Su raised his gaze slightly. "Brother Che, the current Dragon Race is not worthy of you doing this."
+Mo Su raised his gaze slightly. “Younger Brother Che, the dragon race of today is unworthy of such a sacrifice from you.”
 
-Simple words stated an obvious fact.
+These simply words articulated an obvious truth.
 
-Yun Che smiled faintly, not denying it. "Whether they are worthy or not is not important. What matters is Master’s sighs and instructions from back then."
+Yun Che smiled faintly, making no denial. “Whether they are worthy or not is irrelevant. What matters is Master’s sigh and admonition from back then.”
 
-"As expected." Mo Su’s eyes showed no surprise; he had clearly known this all along. "Big Brother Ni Xuan loved bestowing favors upon others, yet he was most unwilling to owe anyone a debt of gratitude."
+“As I expected.” Mo Su’s eyes showed no surprise; he clearly had known this all along. “Brother Ni Xuan loves bestowing favors upon others, yet he is the least willing to owe anyone a debt of gratitude.”
 
-"Thinking back to those years, Big Brother Ni Xuan shared a very deep friendship with the Supreme Dragon God (the Primordial Azure Dragon). Though the Dragon God still addressed him as Lord Ni Xuan in public, they were the closest of friends in private. Such a bond, crossing levels and races, moved me greatly back then."
+“Looking back on those days, Big Brother Ni Xuan and the Supreme Dragon God (Primordial Azure Dragon) shared a profound friendship. Though the Dragon God addressed him as ‘Lord Ni Xuan’ in public, in private they were the closest of friends. Their bond, one transcending both hierarchical differences and racial divides, had left a deep impression on me back then.
 
-"Upon the Pure Land, when I sensed that the dragon aura on you was likely left by the Supreme Dragon God, I was initially surprised, but then I felt it made sense."
+“I was initially astonished when I sensed the dragon aura within you on the Pure Land, and realized that it was most likely a legacy of the Supreme Dragon God. But then, I came to understand.”
 
-Yun Che’s face remained calm, appearing not to care. "Indeed, nothing can escape Big Brother’s eyes."
+Yun Che’s expression remained utterly impassive, as if he didn’t care. “Indeed, nothing can escape your eyes, Big Brother.”
 
-Mo Su said, "Given Big Brother Ni Xuan’s temperament and his friendship with the Dragon God, if he saw the current state of the Dragon Race, he certainly would not look on with indifference. It is truly most normal that he would leave such a final command."
+Mo Su said, “Given Big Brother Ni Xuan’s character and his bond with the Dragon God, if were to witness the current plight of the dragon race, he would certainly not stand idly by. That he left such a dying wish is truly the most natural thing in the world.”
 
-When the Dragon Race first spread the news, it naturally caused a significant stir. While others were surprised, perhaps only one part of them praised his righteousness and filial piety, while the other nine parts sighed at his pedantry and self-sabotage.
+When the dragon race first spread the news, it had naturally caused quite a stir. While everyone was astonished, perhaps only one part of them had praised Yun Che for his loyalty and filial piety, while the remaining nine parts lamented his naivety and self-sacrifice.
 
-Mo Su, however, was the person least surprised by this.
+Mo Su, though, was one the least surprised by it all.
 
-"Though the Dragon Race is unworthy, I imagine no one can change this decision of yours."
+“Though the dragon race is unworthy, I suppose no one could have changed your decision.”
 
 Yun Che smiled without speaking, personally pouring a cup of clear tea for Mo Su and pushing it toward him.
 
-Mo Su also smiled faintly, letting out a soft sigh identical to the ones he had made several times before. "You and Big Brother Ni Xuan are truly too alike. Sacrificing one's own interests to help a lower race—such a foolish act that the world cannot even comprehend—is perhaps something only you master and disciple could do."
+Mo Su also smiled faintly, letting out a soft sigh identical to the ones he’d made several times before. “You and Big Brother Ni Xuan are truly too alike. Sacrificing your own interests to aid a lowly race—such foolishness that the world cannot even comprehend—perhaps only the two of you, master and disciple, could ever do such a thing.”
 
-He lifted the teacup and took a light sip. Having reached this point, he stopped trying to persuade Yun Che and let the matter pass.
+He raised the teacup and took a light sip. Having said this much, he stopped trying to dissuade Yun Che and allowed the matter to rest.
 
-The teacup was set down, the tea fragrance lingering. He looked at Yun Che, his gaze possessing a clarity and lack of concealment reserved only for him. "So, what is the great matter for which you specifically invited me here today? Could it be the item you mentioned last time?"
+He rested the teacup back on the table, and the aroma of tea filled the air. He looked at Yun Che with a clarity and openness in his gaze that he reserved only for him. “So, what is this matter of importance that you specifically invited me here today? Could it be that thing you mentioned last time?”
 
-His voice was as elegant as a breeze over a shallow stream, without a ripple of excitement. Clearly, though he remembered what Yun Che had said before, he had no expectations for the item mentioned.
+His voice was as gentle as a breeze skimming a shallow stream, free of the slightest emotion. Clearly, though he remembered what Yun Che had said earlier, he harbored no expectations regarding the object in question.
 
-Or rather, in this world, outside of his obsession, there was nothing left that could move him.
+Or perhaps, between heaven and earth, there was nothing left besides his own obsessions that could move him.
 
-"Yes."
+Yun Che’s expression grew solemn, and his voice dropped to a low, measured tone. “I had been torn by indecision for a long time, but this journey to the dragon’s land has finally allowed me to make up my mind.
 
-Yun Che’s demeanor became solemn, and his voice slowed. "I was previously conflicted and undecided. It was actually this trip to the Dragon Race that made me finally reach a decision."
+“Whether ‘returning’ this body’s dragon marrow and dragon soul to the dragon race will save them from their peril, I do not know—perhaps no one can say for certain. Such is the way of the myriad causes and effects of the world.
 
-"Whether 'returning' this body's Dragon Marrow and Dragon Soul to the Dragon Race can save them from their peril, I do not know; perhaps no one can say for certain. All the karma and fates of the world are like this."
+“But even if I knew this act was in vain, I would still make the same decision.”
 
-"But even if I knew this action was in vain, I would make the same decision."
+He tilted his head back slightly, his eyes clouded with nostalgia and reverence. “Because my master once said, ‘Do not ask about cause and effect; ask only your own heart.’”
 
-He looked up slightly, his eyes tinged with hazy remembrance and respect. "Because Master once said: Do not ask about karma; only ask your own heart."
+A faint ripple appeared silently in the depths of Mo Su’s pupils—terribly light and faint, yet lingering for a long time without subsiding.
 
-A ripple quietly appeared deep within Mo Su’s pupils. It was extremely light and faint, yet it did not subside for a long time.
+How could he ever forget those words...?
 
-How could he ever forget those words...
+Back then, when he was torn and tormented by his uncontrollable feelings for Pan Xiaodie—the daughter of a Devil Emperor—it was precisely those words from Ni Xuan that had given him immense strength[2].
 
-Back then, when he was conflicted and pained by his uncontrollable feelings for Pan Xiao Die, the daughter of the Devil Emperor, it was precisely these words from Ni Xuan that gave him immense strength.
+“That is why... regarding the fate of the item Master had entrusted to me, I choose... to leave that decision to you, Big Brother.”
 
-"Therefore, regarding the ownership of the item Master entrusted to me, I choose... to let Big Brother decide."
+Yun Che raised his hand, and a wisp of ethereal profound energy quietly cradled a streak of pure white profound light. It slowly floated toward Mo Su.
 
-Yun Che raised his hand. A cluster of ethereal profound energy quietly supported a glow of pure white light, slowly floating before Mo Su.
+When the profound light faded, a jade stone... emitting a faint white glow was revealed.
 
-The white light dispersed, revealing a... jade stone emitting a faint white glow.
+The jade stone was about the size of a palm and shaped like a lustrous white jade plate. Its edges were engraved with irregular, strange divine patterns. The lines of these divine patterns were ancient and crude, as if they were engravings that had existed since the dawn of creation. Each one seemed to contain some inexplicable, mysterious significance.
 
-The jade was the size of a palm, shaped like a translucent white jade plate, its edges engraved with various irregular and strange divine runes. The lines of these runes were ancient and primitive, like marks that had existed since the dawn of the world, each one containing some unrecognizable and singular meaning.
+Its center was hollow, and within it floated a crystal-clear water jade. It looked like a suspended water droplet, or the shedded tear of a beauty.
 
-Its center was hollow, where a crystalline water-jade floated, like a silent drop of water, like the falling tear of a beauty.
+If the object had appeared before anyone else, they could have read countless records about it and still find it difficult to recognize it immediately.
 
-If it appeared before others, even those who had flipped through countless records about it would find it difficult to recognize quickly.
+But he, was Mo Su.
 
-But he was Mo Su.
+He had recognized the object instantly. It was none other than...
 
-In an instant, he recognized it. It was shockingly...
+The Primordial Seal of Life and Death!
 
-The Mirror of Fortune³!
+Mo Su’s gaze silently met the luminous white glow mere inches away from him. He neither made a sound nor tried to touch it. He simply stared at it... for a very, very long time.
 
-The world suddenly became exceptionally quiet.
+So long that it felt as if the entire world had sunk into a silence that transcended time itself, nearly frozen in place.
 
-Mo Su’s gaze silently touched the translucent white light within arm's reach. No sound, no touch—he just stared fixedly... for a long, long time.
+Yun Che too, was motionless and silent within this stagnant time, seemingly frozen. His heart did not grow heavy or anxious from this almost terrifying stillness; if anything, it gradually relaxed.
 
-So long that the entire world seemed to sink into a silence that transcended time, nearly frozen.
+After all, his greatest fear was Mo Su showing no reaction at all.
 
-Yun Che also seemed to be sealed within this frozen time, motionless and silent. His heart did not become heavy or uneasy due to this nearly terrifying silence; instead, it gradually relaxed.
+And this prolonged silence had already dispelled that greatest fear.
 
-What he feared most was Mo Su having no reaction at all.
+Finally, Mo Su spoke, softly uttering its name. “Primordial... Seal... of... Life... and... Death.”
 
-And this long silence had completely dispelled that greatest concern.
+His voice remained elegant and detached from the world, yet something seemed to have shifted within that calm.
 
-Finally, Mo Su spoke, softly murmuring its name: "The... Mirror... of... Fortune."
+It was as if, deep within his soul, some emotion that had lain dormant for ages—nearly dead—had been reawakened by the white light before him.
 
-His voice was still elegant and carried an indifference toward the world, but within that flatness, something was different.
+Right now, the world in Mo Su’s gaze was nothing but a shimmering white; nothing else could exist within it. Even Yun Che’s voice sounded distant and ethereal to his ears.
 
-It was as if something deep in his soul, something that had been dormant for so long it was nearly dead, had been revived by the reflection of the white light before him.
+“When master entrusted it to me, he told me to decide whether to give it to you or not. It’s because he feared that, not only would it fail to help you, it might plunge you into another kind of terrifying obsession instead...”
 
-At this moment, the world in Mo Su’s vision held only a field of translucent white, unable to accommodate anything else. Even Yun Che’s voice, which rang in his ears, carried a distant ethereality.
+“An obsession with eternity.”
 
-"When Master gave it to me, he told me to decide whether to give it to you. Because he feared that instead of helping you, it would cause you to fall into another terrifying obsession..."
+Mo Su still showed no reaction.
 
-"An obsession with eternity."
+Yun Che looked at him and continued, “That day, you told me that light profound energy wouldn’t be able to save Xiaodie. But...”
 
-Mo Su still gave no reaction.
-
-Yun Che looked at him and continued, "That day, Big Brother told me that light profound energy could not save your Pan Xiao Die. Then..."
-
-"What about eternity?"
+“What about eternity?”
 
 Mo Su’s eyelashes fluttered slightly.
 
-Though it was an extremely slight movement, like the edge of a petal floating on still water being lifted by a light breeze, it was enough for Yun Che to know that the word "eternity" had truly touched the deepest part of his heart and soul.
+Though it was only the slightest of movements—like a petal floating on still water, its edge gently lifted by a breeze—it was enough for Yun Che to know that the word “eternity” had truly touched on the deepest recesses of his soul.
 
-"I cannot understand or be certain if the word 'eternity' can trigger a terrifying obsession." Yun Che’s voice was as light as mist, as if he did not want to disturb the current lake of Mo Su’s heart. "But I believe that since it was Master’s concern, there must be a reason. However, from what I have observed and known of Big Brother, compared to Master’s concern, the Big Brother I see needs hope most of all."
+“I cannot fully comprehend or be certain whether the word ‘eternity’ could give rise to a terrifying obsession.”
 
-"So..."
+Yun Che’s voice was as light as wisps of cloud, as if he did not wish to disturb the still waters of Mo Su’s heart at the moment. “But I believe that there must be a reason why master is concerned about this. However, based on what I had observed and come to know about Big Brother, I believe that what you need most at this moment—even if master’s worries may turn out to be well-justified—is hope.”
 
-Yun Che’s finger gave a light push, moving the shimmering Mirror of Fortune an inch closer to Mo Su. "Today, at this moment, I hand over the item Master entrusted to me to Big Brother. How to use it and what to choose shall also be decided by Big Brother."
+Yun Che gently moved his finger forward, pushing the faintly glowing Primordial Seal of Life and Death a fraction closer to Mo Su. “Today, at this very moment, I shall entrust to Big Brother the item master had entrusted to me. How should it be used, and what choices should be made with it—I leave it all up to you, Big Brother.”
 
 Mo Su slowly raised his hand.
 
-His movements were slow and careful, as if he were afraid of disturbing a silently emerging dream. But just as he was about to touch that white light, his fingertips stopped. His long-stagnant gaze slowly turned toward Yun Che.
+His movements were slow and cautious, as if he was afraid that he might disturb a silent, emerging dream. But just as his fingertips were about to touch that white blow, they paused. His gaze, which had been frozen for so long, slowly shifted toward Yun Che.
 
-"Are you truly... giving it to me?"
+“Are you truly giving this to me?”
 
-He asked a question that absolutely did not sound like something the supreme Abyssal Monarch would ask.
+He asked a question that was utterly unlike anything the supreme Abyssal Monarch would ever ask.
 
-"Of course." Yun Che’s answer carried no hesitation and was untainted by any ulterior motive.
+“But of course.” Yun Che’s reply was devoid of any hesitation or impurity.
 
-He looked into Yun Che’s eyes and touched only a pool of clarity. "Do you know... even the ancient gods would exhaust themselves in madness for the word 'eternity'?"
+He looked into Yun Che’s eyes and found only a pool of clarity. “Did you know... that even the ancient gods would go mad with obsession over the word ‘eternity’?”
 
-Yun Che gave a nonchalant smile. "Master told me many legends of the Mirror of Fortune, and I have heard of them occasionally since entering the world. But no matter how powerful or mysterious its true form is, in my hands, it is ultimately just a dead object. At the very least, I have never smelled any aura of 'eternity' from it."
+Yun Che, though, smiled indifferently. “Master had told me many tales of the legend of the Primordial Seal of Life and Death, and I’ve heard bits and pieces since setting foot in this world. But no matter how powerful or profound its true form may be, in my hands, it remains nothing more than a lifeless object. At the very least, I have never sensed any trace of ‘eternity’ from it.
 
-"I think, in this world, only Big Brother has the ability to revive it. In my hands, it would likely only remain in this deathly slumber, a waste of a heavenly treasure."
+“I believe that you are the only one in the entire world who might possess the power to revive it. In my hands, it would likely remain in this state of lifeless slumber forever—a waste of such a divine artifact.
 
-"So, just like returning the Dragon Marrow and Dragon Soul to the Dragon Race, the Mirror of Fortune, which can only remain dormant in my hands, can be considered to have returned to its most suitable master today."
+“Therefore, just as I am returning the dragon marrow and dragon soul to the dragons, I too will surrender the Primordial Seal of Life and Death, which could only lie dormant in my hands, to its rightful master.”
 
-Mo Su’s hand finally moved forward, lightly grasping the Mirror of Fortune.
+Mo Su’s hand finally reached forward and gently clasped around the Primordial Seal of Life and Death.
 
-No rejection, no strange light—the Mirror of Fortune changed masters with such calm and lack of ripples.
+There was no rejection, no strange glow. The seal simply and calmly changed hands.
 
-Since its reappearance, the Mirror of Fortune had never acknowledged a master. With the departure of Li Suo’s remnant soul, it left no soul imprint or aura behind. An initial probe of divine sense would only touch a void of pure white.
+Since its reappearance, the Primordial Seal of Life and Death had never recognized a master. With the departure of Li Suo’s remnant soul, it contained not a trace of soul imprint or soul aura either. If someone were to conduct a preliminary probe with their perception, they would only find a pure, white void.
 
-This time, even Mo Su’s aura showed a slight ripple.
+This time, even Mo Su’s aura stirred with a faint ripple.
 
-Eternity...
+Eternity....
 
-For Mo Su, his greatest fear was the passing of Pan Xiao Die.
+For Mo Su, his greatest fear was the passing of Pan Xiaodie.
 
-Thus, he had kept her sleeping in the "Cradle," guarding her in loneliness for three million years.
+That was why he had laid her to rest in the “Cradle” and kept vigil in solitude for three million years.
 
-And now, the "Cradle" was teetering on the brink of collapse.
+Now, the “Cradle” was on the verge of collapse.
 
-Even the "Eternal Pure Land" was merely the greatest glimmer of hope... and behind that hope lurked the cruelest reality of eternal loss.
+Even the “Eternal Pure Land” was merely the greatest glimmer of hope... Behind that hope lay the cruelest of losses—eternal loss.
 
-But, if he possessed eternity...
+But, if she were to possess eternity...
 
-She could exist eternally; there would be eternal hope... until one day, she woke from her deep dream and returned to his world.
+If she could exist forever, then there would be eternal hope... that one day, she would awake from her slumber and return to his world.
 
-He murmured, "The Mirror of Fortune... since the Ancestral God created the world, it has ranked third among the supreme treasures, second only to the Heaven Punishing Ancestral Sword and the Evil Infant's Wheel of Myriad Tribulations. It is the tool of eternity that all living spirits in heaven and earth crave... Brother Che, for such a gift, even as the Abyssal Monarch, I do not know how to repay you."
+He murmured softly, “The Primordial Seal of Life and Death—from the moment the Ancestral God had created the universe, it had ranked as the third greatest Heavenly Profound Treasure, surpassed only by the Heaven Punishing Ancestral Sword and the Evil Infant's Wheel of Myriad Tribulations. It is the vessel of eternity and coveted by all beings under heaven... Brother Che, even as the Abyssal Monarch, I know not how to repay you for this favor.”
 
-Yun Che waved his hand and said with a smile, "Between brothers, what is there to say of repayment? Just consider it... something your Big Brother Ni Xuan specifically left for you, and I have merely been keeping it safe until now."
+Yun Che, though, waved his hand and said with a smile, “There is no need for talk of repayment between us brothers. Just consider this... a special gift Big Brother Ni Xuan has left behind for you. I have merely been keeping it safe for you all this time.”
 
-Mo Su did not simply accept this and feel at ease. He looked ahead, his gaze deep... After a few breaths, he seemed to suddenly think of something and began to smile faintly.
+Mo Su, though did not accept this or let it go. He gazed ahead, eyes deep and inscrutable... After a few breaths, he cracked a faint smile as if suddenly remembering something.
 
-"There is an item that Big Brother Ni Xuan asked me for many times in the past. Although I respected and admired him to the extreme, keeping nothing from him and sharing everything, this was the only thing I guarded strictly, never yielding for even a moment, leaving him unable to fulfill his wish."
+“There is one thing that Big Brother Ni Xuan had once asked of me many times. Though I held him in the utmost respect and admiration—sharing every experience and possessions I had ever had with him—there was this one thing that I had guarded with unwavering devotion. I had never wavered for even a moment, and so he had never gotten his wish.”
 
-He sighed with a smile, carrying a sense of loss and relief steeped in countless ages. "Thinking back now, how pedantic and laughable that strict adherence was. It is ultimately just a dead object; how could it compare to even a fraction of the friendship between me and Big Brother Ni Xuan?"
+He sighed softly, his smile tinged with the melancholy and resignation of countless years. “Looking back now, how foolish and absurd my steadfastness had been. After all, it was merely an inanimate object—how could it have compared to the bond between Big Brother Ni Xuan and me?”
 
-He raised his hand, light condensing at his fingertip, pointing toward the space between Yun Che’s brows.
+He raised his hand, and a gleam gathered at his fingertip. He then directed it toward the space between Yun Che’s eyebrows, saying:
 
-"Today, I give it to Brother Che, to repay today’s gift and to soothe the regrets of the past."
+“Today, I entrust it to you, Younger Brother Che, both as a token of gratitude for your gift today, and an atonement of regret from those olden days.”
 
-The soul light gathered, turning into an inch-wide vortex of profound light at Mo Su’s fingertip, then stagnated in mid-air.
+The soul light gathered, coalescing at Mo Su’s fingertip into a vortex of dark energy an inch wide. Then, it came to a halt in mid-air.
 
-Mo Su’s figure also began to slowly fade at this moment. In the final instant, he was frozen in a gentle, faint smile.
+It was at this moment Mo Su’s form began to fade slowly. At the final possible instant, it froze into a gentle, serene smile.
 
-He left in a great hurry, as if he could not wait to pursue eternity... not eternal life, but eternal hope.
+He had departed in a great hurry, as if he could not wait to pursue eternity... not eternal life, but eternal hope.
 
-"Whew!!"
+Yun Che exhaled deeply, then narrowed his eyes and smiled. “Very good. Things went exactly as I anticipated... Well, no. He had departed even more hastily than I had imagined.”
 
-Yun Che let out a long breath, then narrowed his eyes and smiled. "Very good, it’s basically consistent with what I anticipated... except he left even more hurriedly than I expected."
+He turned to Li Suo, the only known master of the Primordial Seal of Life and Death in history. “Are you certain... that within the seal lies a hope capable of binding all of his thoughts?”
 
-He asked Li Suo, the only master of the Mirror of Fortune in history, "Are you sure... that inside it lies the hope that can hook and lock all of his thoughts?"
+“Faint, yet undying. The obsession he has clung to for three million years should be enough to drive him to try again and again, at any cost and by any means. Yet, he will never succeed.”
 
-"Faint but inextinguishable. The obsession he has guarded for three million years should be enough to make him try again and again at any cost, by any means. Yet, he can never succeed," Li Suo replied. "Aren't you going to look at what he left behind first?"
+Li Suo replied before asking, “Won’t you first take a look at what he left behind? An object that even Ni Xuan could not obtain back in the day....”
 
-"Something even Ni Xuan could not obtain back then..."
+Curiosity had long been surging uncontrollably within Yun Che’s heart. As soon as Li Suo finished speaking, he reached out and touched the vortex of profound light left behind by Mo Su with both caution and anticipation.
 
-The curiosity in Yun Che’s heart had long been surging uncontrollably. As Li Suo’s voice fell, he had already reached out, touching the vortex of profound light Mo Su left behind with caution and anticipation.
+The moment his fingertip touched it, it suddenly shot out, transforming into a streak of light that struck Yun Che’s brow and vanished in an instant.
 
-The moment his fingertip touched it, it suddenly shot out, turning into a streak of light that crashed into the space between Yun Che’s brows, vanishing instantly.
+Strange characters slowly started appearing in Yun Che’s soul sea.
 
-Passages of strange text slowly appeared in Yun Che’s soul sea.
+Though they were clearly words manifesting within his soul sea, each stroke resembled a sword scar originating from the unbelievably distant past—one that had existed since the very beginning of time, in fact. It carried the supreme will to cleave through the primal chaos and divide heaven and earth.
 
-They were clearly words reflected in his soul sea, yet every stroke felt like a sword scar existing since the most distant antiquity, since the beginning of time, carrying the supreme will to slash through chaos and split heaven and earth.
+When the first four words took solid form, as if four ancient sword souls that had long lain dormant had suddenly awakened, a vast, overbearing, and intangible sword intent started stirring up his entire soul sea, pervading every corner and every soul string.
 
-When the first four characters clearly manifested, Yun Che’s soul sea felt as if four long-dormant ancient sword souls had suddenly awakened, stirring a vast and majestic invisible sword intent that swept through every corner and every soul string.
+Outside his soul sea, Yun Che’s body trembled uncontrollably for an instant, and his pupils contracted sharply:
 
-Outside his soul sea, Yun Che’s body trembled uncontrollably for an instant, and his pupils shrank violently:
-
-Heaven—
 Punishing—
-Sword—
-Art!
 
+1. Not sure what this is. ☜
+
+2. I thought there would be a line somewhere and went back to look for it... but there was none. Ugh what a waste of time it was. ☜

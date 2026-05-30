@@ -1,208 +1,205 @@
 ---
 chapterNumber: 2184
-title: ""
-publishedAt: "2026-04-16"
+title: "Soul Rending Fury"
+publishedAt: "2026-05-30"
 ---
 
-Meng Zhaoyang, who had been standing silently behind Yun Che, suddenly lifted his gaze. He looked at Yun Che’s back, his brow furrowing with growing surprise and doubt.
+Meng Chaoyang had been standing silently behind Yun Che all this time. Suddenly, the man raised his eyes and stared at Yun Che’s back, a look of surprise and confusion gradually gathering between his brows.
 
-Long Zhiming, who had bashfully averted his eyes, naturally sensed the abnormality as well. His aged eyes turned back toward them. At that exact moment, Yun Che closed his eyes. His expression remained unchanged, save for a slight heave of his chest that was instantly suppressed, returning him to a state of absolute calm.
+Long Zhiming, who had been averting his gaze in shame up until this point, naturally sensed the unusual atmosphere and looked back as well.
 
-As Yun Che closed his eyes, Long Wangchu’s body shuddered violently, as if waking from a bone-eroding nightmare. He stumbled backward, drenched in a cold sweat, his face drained of all color.
+Just then, Yun Che closed his eyes. His expression remained unchanged, though his chest rose and fell silently for an instant. Then, he forcibly suppressed the reaction and returned to perfect calmness.
 
-"Uh... this?" Long Zhiming stood up, asking hesitantly, "Son of God Yuan, is there... something wrong?"
+As Yun Che closed his eyes, Long Wangchu’s body trembled violently as if he had suddenly awakened from a bone-chilling nightmare. He stumbled backward, his entire body drenched in cold sweat, and his face as white as a sheet.
 
-Having interacted with Yun Che several times in the Pure Land, he felt that Yun Che was a man of iron will, yet humble and righteous at heart; he shouldn't be the type to lose his temper over Long Wangchu’s lack of etiquette.
+“Er... is something...” Long Zhiming had already risen to his feet. He asked hesitantly, “Divine Son Yuan, is... is something amiss?”
 
-Yun Che opened his eyes. The darkness in his pupils had vanished, replaced by a warm, indifferent smile. "Brother Wangchu’s Ancestral Dragon bloodline is exceptionally pure. When I drew near, it actually stirred the bloodline within my own body."
+Having interacted with Yun Che several times on the Pure Land, Long Zhiming deeply sensed that he was a man of unwavering will, but also humble and principled at heart. He would surely not deign to take offense at Long Wangchu’s discourtesy.
 
-"To have such a resonance despite never having met is truly a subtle stroke of fate."
+When Yun Che opened his eyes again, the darkness was gone like it never was, and a gentle, serene smile was playing at the corners of his lips. “Brother Wangchu’s Ancestral Dragon bloodline is exceptionally pure. It actually stirred the bloodline within me as you drew near.
 
-The curve of his lips widened slightly, his smile appearing increasingly gentle. "Thus, I was momentarily unable to restrain the impulse and released a bit of my Dragon Soul to seek resonance in soul power. It was a reckless move that startled Brother Wangchu. I hope the Dragon Sovereign and Brother Wangchu will not take offense."
+“To feel such a resonance without ever having met or known the other person is truly a strange feeling.”
 
-Long Wangchu opened his mouth but failed to make a sound, clearly still paralyzed by lingering terror.
+The curve on his lips widened slightly, and his smile grew even gentler. “Unable to suppress the stirrings within me, I had briefly released a portion of my dragon soul in search for a resonance of soul power. Yet, in my rashness, I ended up startling Brother Wangchu instead. I hope that the Dragon Lord and Brother Wangchu will not hold it against me.”
 
-"So that’s how it is." Long Zhiming slowly sat back down, the suspicion on his face clearing. He let out a light sigh. "Sigh, I am not afraid of being laughed at by the Son of God and Palace Master Zhaoyang. Though this rebellious son of mine has pure blood, his talent is mediocre, and his temperament is..."
+Long Wangchu opened his mouth, but could not speak. He was clearly still shaken by the experience.
 
-He shook his head, too ashamed to continue. "Though the Son of God is of the human race, from what I sensed that day, the Ancestral Dragon bloodline and soul you possess are likely more ancient and pure than my own. This rebellious son is not fit to be compared to you."
+“I see.” Long Zhiming slowly sat back down, all traces of doubt vanishing from his face. He sighed softly. “Ai. I shall be frank with you, Divine Son Yuan, Dream Lord Chaoyang. This old man’s wayward son, though of pure lineage, possessed mediocre natural talent. His personality is even more....”
 
-"For the Son of God to test him with a Dragon Soul is truly thinking too highly of him."
+He shook his head, too ashamed to continue. “Though Divine Son Yuan is of the human race, I’m sure that, from what I had sensed that day, the Ancestral Dragon bloodline and divine soul you possess are likely far older and purer than my own. How can my wayward son possibly hope to compare to you?
 
-Evidently, though the Dragon Sovereign fretted over Long Wangchu’s future, the layers of endless disappointment meant he never spared any harsh words or rebukes.
+“To test him with your dragon soul—you have truly overestimated him, Divine Son Yuan.”
 
-Only now did Long Wangchu finally regain his senses. He subconsciously wiped the cold sweat from his forehead. Upon hearing Long Zhiming’s comment that Yun Che’s bloodline and soul were "more ancient and pure" than his father's, his mouth fell open in shock.
+Clearly, though the Dragon Lord had devoted every ounce of his energy to Long Wangchu’s future, beneath layers upon layers of endless disappointment, he saw no need to hold back his scathing rebukes and scoldings whatsoever.
 
-With his emotions so completely out of control, he lacked even a shred of the shrewdness or majesty expected of a Young Master of the Dragon Race. Seeing this, Long Zhiming wished he could deliver a fierce kick right in front of his distinguished guests.
+Meanwhile, Long Wangchu had only just regained his composure and instinctively wiped away the cold sweat on his forehead. When he heard Long Zhiming saying, “The Ancestral Dragon bloodline and divine soul you possess are likely far older and purer than my own,” he could not help but gape in astonishment.
 
-"Senior Dragon Sovereign, please do not say such things," Yun Che advised. "To the Ancestral Dragon, Brother Wangchu is still in his youth. There is a saying: 'accumulate deeply to break out thinly¹.' Perhaps one day, Brother Wangchu’s Dragon Apertures will suddenly clear, and he will soar to the nine heavens, achieving heights even beyond yours, Senior."
+Long Wangchu was so lacking he could not even prevent his emotions from spilling out. He showed not a shred of composure and dignity befitting the heir of the Dragon Lord, so much so that Long Zhiming could hardly contain his urge to kick him hard right in front of their distinguished guests.
 
-"Right... right, right!" These words were so pleasing to the ear that they instantly dispelled Long Wangchu’s remaining fear. He said excitedly, "The peers in the clan also say that I am a late bloomer who is accumulating strength."
+“Senior Dragon Lord, please do not speak that way.” Yun Che interceded, “To the Ancestral Dragons, Brother Wang Chu is still young. As the saying goes, ‘accumulate slowly and deliver sparingly.’ Perhaps one day, Brother Wangchu’s draconic orifices will suddenly open, and he will soar to the ninth heaven and achieve greatness surpassing even that of you, Senior Dragon Lord.”
 
-"More than that," Yun Che said with a smile. "When we go to the Eternal Pure Land soon, without the erosion and shackles of the Abyss Dust, the Dragon Race will surely soar into the sky and restore the glory that reigns over all living spirits. At that time, Brother Wangchu will be the pioneer and leader of the Dragon Race’s new destiny and era, his name etched eternally in the annals of history."
+“Right... right, right!” These all-too-welcome words instantly dispelled the lingering fear within Long Wangchu as he exclaimed excitedly, “My peers in the clan said the exact same thing! They say that I’m a late bloomer who will achieve greatness in the future!”
 
-Long Wangchu’s face flushed instantly, his hands and feet trembling with excitement... He was used to his father's disappointment and scolding; he had never heard such high praise and flattery.
+“That’s not all,” Yun Che said with a smile. “When we’ve reached the Eternal Pure Land, free from the corrosion and constraints of abyssal dust, the dragon race will surely soar to the heavens, rise above the firmament, and once again shine with a glory that surpasses all other beings. When the time comes, Brother Wangchu will become the pioneer and leader of a new fate and era of the dragon race. Your name will surely be immortalized in the annals of the dragon race’s history[1].”
 
-Furthermore, these words didn't come from a peer seeking to curry favor, but from the legendary Son of God of the Dreamless Abyss—the one with the Perfect Divine Grace and the greatest reputation among the Six God Nations.
+Long Wangchu’s face flushed red in an instant, and his limbs trembled with excitement... He was accustomed to Long Zhiming’s disappointment and scolding; and he had never heard such lavish praise and adulation in his life.
 
-The previous terror had vanished without a trace. He looked at Yun Che with intense excitement, feeling for the first time in his life the deep meaning of "regretting not meeting sooner" and "finding a soulmate."
+Moreover, these words hadn’t come from a peer who needed to flatter him to stay in his and his father’s good graces. It had come from the Divine Son Yuan, the perfect God Bearer of Dreamweaver and currently the most renowned figure among the six Kingdoms of God.
 
-Long Zhiming shook his head with a smile. He knew Yun Che was speaking politely, but he found the words quite pleasant to hear. After all, no matter how incompetent Long Wangchu was now, he was his only son—the only choice and hope for the Ancestral Dragon lineage.
+The fear and dread he had felt moments ago had completely vanished. Instead, he gazed at Yun Che with eyes brimming with excitement, realizing for the first time in his life what it truly meant to find a kindred spirit he wished he could have met sooner.
 
-"Wangchu will keep every word the Son of God has said in his heart. In the future... when I become the Dragon Sovereign and lead the Dragon Race back to the peak, the Son of God will be my—and the Dragon Race's—best friend."
+Long Zhiming shook his head with a smile. He knew Yun Che’s words were merely polite courtesies, but it didn’t change that they were quite pleasing to the ears. After all, no matter how wretched Long Wangchu might be now, he was still his only son—the sole choice and hope of the Ancestral Dragon lineage.
 
-His face was crimson, and he was becoming so lightheaded that he began to speak recklessly, as if he could already see himself standing tall and looking down on all living beings in the Eternal Pure Land.
+“Wangchu will engrave every word you have said in his heart, Divine Son Yuan. In the future... When I have become the Dragon Lord and led the dragon race back to the pinnacle of glory, I promise that Divine Son Yuan will be Long Wangchu and the dragon race’s best friend.”
 
-"Enough, enough. Shut your mouth and stop embarrassing yourself. Now that you have met the Son of God, withdraw."
+Carried away by his own enthusiasm, he spoke without restraint and a flushed complexion. He looked as if he could already envision himself standing in the Eternal Pure Land, commanding respect and looking down upon all living beings.
 
-Even with a skin thickened by countless years of vicissitudes, Long Zhiming could no longer listen to this. However, his goal in calling Long Wangchu to meet Yun Che had been achieved, and Yun Che’s attitude toward his son had left him pleasantly surprised.
+“Enough, enough. Shut your mouth before you embarrass yourself. Since you’ve met Divine Son Yuan, you may withdraw now.”
 
-When Long Wangchu left, he did so somewhat reluctantly.
+Long Zhiming’s face had been weathered by countless years of trial, and still he could not bear to listen to his son’s spiel any longer. At least he had already accomplished his goal of showing Long Wangchu before Yun Che. Yun Che’s attitude toward Long Wangchu had left him pleasantly surprised as well.
 
-"Sigh, a misfortune of the clan. I have let my two distinguished guests see something shameful," Long Zhiming sighed once more.
+Long Wangchu even had the gall to look reluctant as he took his leave.
 
-"The Dragon Sovereign is too modest," Yun Che said, lowering his eyes slightly. A smile remained on his lips, but an unidentifiable, dark glint flickered in his eyes. "I actually think Brother Wangchu is... very good."
+“Ai. I’m sorry that my disappointing son has caused our distinguished guests some embarrassment,” Long Zhiming sighed once more.
 
-Having said that, Yun Che suddenly stood up. "Senior, may I go to visit Long Jiang... that is, Long Xi, first?"
+“Not at all, Dragon Lord.” Yun Che said as he lowered his gaze slightly. A faint smile was playing at the corners of his mouth, but his eyes held a mysterious, sombre glint. “I actually think that Brother Wangchu... is doing quite well.”
 
-He had only just entered the main hall and was already asking to leave. Though surprised, Long Zhiming had no reason to refuse. "Haha, the Son of God is indeed a man of deep sentiment and righteousness to be so impatient. Very well, I shall personally lead you there."
+Having said this, Yun Che suddenly stood up. “Senior, May I go pay my respects to Long Jiang... that is, Long Xi now?”
 
-"It is merely a small personal matter of mine; I cannot trouble the Dragon Sovereign," Yun Che declined politely. "Furthermore, with you by my side, I fear Long Xi might feel uneasy. Sending a guard to lead the way will suffice."
+He had only just entered the main hall, yet he was already asking to leave. Though Long Zhiming was taken aback, he had no reason to refuse. “Haha, Divine Son Yuan is indeed a man of deep loyalty and honor, to be so eager. Very well. This old man will personally escort you there.”
 
-Long Zhiming thought for a moment and nodded slightly. "In that case... very well."
+“It is merely a personal matter, how could I possibly trouble Senior Dragon Lord for this?” Yun Che declined modestly. “Besides, Long Xi might feel constrained with you by my side. It would suffice to have a guard lead me.”
 
-He looked outward, his dragon roar shaking the air. "Qianxin, personally lead the Son of God to the forbidden land where Long Xi resides. Escort him to the entrance, but do not disturb them."
+Long Zhiming pondered briefly before nodding. “I see... Very well.”
 
-"Understood." A distant dragon roar echoed in response.
+His gaze turned outward, and a draconic roar shook the heavens. “Qianxin, you shall personally escort Divine Son Yuan to the forbidden zone where Long Xi resides. It is fine to see him off from a distance; do not disturb him up close.”
 
-Stepping out of the Ancestral Dragon Temple, Yun Che followed Long Qianxin through layers of mountains toward Yun Xi’s location.
+“Yes.” A distant dragon’s roar echoed in response.
 
-His expression was calm, his eyes as still as dead water. He remained silent throughout the journey, not once casting a glance at the various scenes of the Dragon Race below.
+Stepping out of the Ancestral Dragon Hall, Yun Che followed Long Qianxin as they passed through layer upon layer of mountains, drawing near to Long Xi’s location.
 
-"What... happened to you?" Li Suo’s voice carried deep concern. "To be... this enraged."
+His expression was calm, and his eyes were as still as dead water. He remained silent the entire way, never once casting his gaze down to observe the myriad activities of the dragon race below.
 
-Enraged to the extreme, yet suppressed unto death. Thousands of tiny cracks were being forced open in Yun Che’s heart and soul sea.
+“What’s... wrong with you?” Li Suo’s voice carried deep concern. “To be enraged... to this extent.”
 
-Even now, it had not ceased in the slightest.
+Rage so hot it could not possibly burn hotter, yet suppressed so thoroughly that not a hint could leak outside. It was literally tearing open thousands of cracks in Yun Che’s internal organs and soul sea.
 
-Yun Che gave no response.
+Even now, it showed not the slightest sign of abating.
 
-On the surface, he was unnervingly calm, but only Li Suo knew that an abyss of fury was churning within his soul, sounding like the shrieks of ten thousand demons... This discrepancy gave Li Suo, for the first time since her awakening, a sensation akin to "palpitations."
+Yun Che offered no response.
 
-She did not dare ask further.
+On the surface, he appeared unusually calm, but only Li Suo knew that within his soul, a churning abyss of fury was raging, as if ten thousand devils were howling at the same time... it was such a stark contrast to his usual self that Li Suo, for the first time since regaining her consciousness, experienced a sensation bordering on “palpitations.”
 
-The only thing she was certain of was that this sudden explosion of rage occurred when he faced Long Wangchu... more accurately, his heartstrings had snapped tight the moment Long Wangchu’s aura approached, even before he appeared.
+She dared not ask him a second time.
 
-Up ahead, Long Qianxin stopped.
+The only thing she could be certain of was that this sudden, explosive rage had arisen when he was facing Long Wangchu... or more accurately, even before the dragon had shown up. The moment his aura drew near, his heartstrings had already snapped taut.
 
-Low mountains surrounded a withered, desolate mountain range.
+Long Qianxin stopped ahead.
 
-Jagged rocks were exposed, bleak and lonely. The encircling mountains trapped an endless solitude within this barren land where not a single blade of grass grew.
+It was a barren, desolate region surrounded by low mountains.
 
-Only the wind whistled through the rock walls, a mournful, piercingly cold sound.
+Bare rocks lay scattered about, creating a bleak and desolate scene. The encircling peaks seemed to have firmly trapped the endless solitude within this barren, lifeless expanse.
 
-"Son of God Yuan, Long Xi usually resides here. This is a mountain territory personally bestowed upon her by the Dragon Sovereign and declared a forbidden zone. Even the barrier was set by the Dragon Sovereign himself. Without Long Xi’s permission, no one may enter, including the Dragon Sovereign."
+Only the wind pierced through the mountain walls, wailing mournfully, its chill piercing to the bone.
 
-Yun Che looked ahead, the gray desolation reflected in his eyes. His face was unreadable as he spoke softly, "The Dragon Sovereign truly favors her."
+“Divine Son Yuan, we have arrived at Long Xi’s permanent residence. This is a mountainous region the Dragon Lord had personally bestowed upon her. He had declared it a forbidden zone to all dragons and even set up the barrier himself. None may enter without Long X’s permission—not even the Dragon Lord himself.”
 
-"That is true," Long Qianxin replied. "But then again, Long Xi indeed has the qualifications to be treated so by the Dragon Sovereign."
+Gazing ahead, eyes reflecting the desolate, barren landscape, Yun Che replied calmly with an inscrutable expression, “The Dragon Lord truly favors her.”
 
-Without saying more, Long Qianxin stepped aside. "Long Xi has been in this mountain territory recently, but her personality is extremely eccentric and reclusive. It is difficult even for the Dragon Sovereign to see her. So... everything depends on the Son of God himself." His tone was helpless, implying that even as the Son of God of the Dreamless Abyss, if Long Xi did not want to see him, no one could force her.
+“Indeed,” Long Qianxin agreed. “But then again, Long Xi certainly deserves such treatment from the Dragon Lord.”
 
-Just as he finished speaking, a gap just wide enough for one person to enter suddenly opened in the silent barrier.
+Without further ado, Long Qianxin stepped aside. “Long Xi had been staying in the mountain range recently, but she is extremely reclusive and eccentric. Even the Dragon Lord finds it exceedingly difficult to see her. So... good luck, Divine Son Yuan.” His tone carried a hint of resignation, clearly implying that, even if he was the Dreamweaver Divine Son, no one could force the matter if Long Xi did not wish to see him.
 
-Long Qianxin immediately smiled. "It seems the Son of God and Long Xi share a deep bond indeed. Please. If you need anything, you may summon me at any time."
+No sooner had he finished speaking than a gap just wide enough for a single person to pass through suddenly opened in the silent barrier.
 
-Yun Che walked forward, but stopped suddenly before stepping through the barrier. He said coldly, "Palace Master Zhaoyang, I must trouble you to seal another barrier. No one... is permitted to peek."
+Long Qianxin immediately broke into a smile. “It seems that Divine Son Yuan and Long Xi truly share a deep bond. Please, head inside. Should you require anything, please do not hesitate to ask.”
 
-Slightly surprised, Meng Zhaoyang said nothing. He pressed his palm down, and a barrier flowing with a faint silver glow enveloped the entire mountain territory. If anyone touched it, whether physically or through perception, they would suffer a soul-bite and alert those inside.
+Yun Che stepped forward, but just before entering the barrier, he suddenly halted and said in a calm voice, “Dream Lord Chaoyang, can you please cast another barrier? No one... is allowed to peer inside.”
 
-With everything isolated from the outside world, Yun Che’s expression could no longer remain indifferent. He closed his eyes and tilted his head back, his hands clenched so tightly that his knuckles twisted and trembled violently until they cracked and bled.
+A little surprised but finding no problems with the request, Meng Chaoyang waved his hand and enveloped the entire mountain range with a barrier shimmering with faint, silver light. Should anyone come into contact with it—whether physically or through perception—they would surely suffer a soul backlash and alert those within the barrier.
 
-"Hoo..."
+After he was cut off from the outside world, Yun Che abruptly lost his composure and closed his eyes, tilting his head back and clenching his fists so tightly that every knuckle twisted and trembled violently until they cracked and bled.
 
-He took several long breaths to barely stabilize his mind, then lifted his feet and stepped into the desolate land within the barrier.
+He took several long, ragged breaths before finally managing to steady his composure. He then lifted his foot and stepped into the desolate wasteland within the barrier.
 
-Step...
+His footsteps sounded exceptionally heavy; each one felt as though he was treading upon his own heart.
 
-Step...
+His daughter’s figure appeared in his line of sight, still clad in a loose-fitting gray robe and radiating a cold, oppressive loneliness that rejected all beings... For some reason, she seemed to flicker in and out of focus with his footsteps.
 
-His footsteps were exceptionally heavy, each one feeling as if it were treading directly on his heart.
+Her back was facing toward him. She was kneeling quietly before a tombstone.
 
-His daughter’s figure appeared in his sight. She was still wearing the oversized gray robe, carrying a cold gloom and loneliness that repelled all living things... Her image blurred and cleared with his footsteps.
+The area was strewn with jumbled rocks and desolation, yet the single tombstone stood upright, spotless and untouched.
 
-Her back was to him, kneeling quietly before a tombstone.
+There was no name on the tombstone, nor any inscription whatsoever.
 
-The area was filled with jagged rocks and decay, yet that tombstone stood straight and spotless.
+Yun Che didn’t know when he had stopped walking. He simply stood there, staring at her in silence—at the daughter he had with Shen Xi. A thousand emotions choked his throat... yet for a long time, he couldn’t utter a single word or make a sound.
 
-There was no name on the tombstone, nor any inscription.
+Finally, at a certain moment, she slowly turned around.
 
-Yun Che didn't know when he had stopped walking. He just stood there, staring blankly at her—at his and Shen Xi’s daughter. His throat felt choked with a thousand emotions... yet for a long time, he could not say a word or make a sound.
+The first thing that met his gaze were still those two terrifying, crisscrossing scars.
 
-Until a certain moment, she slowly turned around.
+She extended her hand toward Yun Che. Her slender wrist looked as white as snow, almost devoid of color, and her voice remained as cold and distant as ever, almost piercing to the bone.
 
-The first things to strike his pupils were still those two terrifying, crisscrossing scars.
+“The item I asked for... the Primal Flame Crystal.”
 
-She reached out a hand toward Yun Che. Her wrist was snowy white, almost devoid of color. Her voice remained cold and detached, nearly piercing to the bone:
+Yun Che finally managed to speak, but his voice was hoarse. “Is that... the price you paid for staying... in this so-called refuge?”
 
-"The thing I want... the Primordial Flame Crystal²."
+The first time he saw Yun Xi, he had already noticed her abnormal depletion of her blood essence. It had not changed when they met again at the Dreamweaver Kingdom of God.
 
-Yun Che finally spoke, but the voice he produced was hoarse. "Is this the price for you staying here... for your so-called place of refuge?"
+Yun Xi had never given him an answer, so he could only assume it was due to her excessive obsession—a willingness to drain herself dry in pursuit of her goal—that resulted in the severe damage to her body.
 
-The first time he met Yun Xi, he had noticed an abnormal depletion of her essence blood. It was the same when they met again in the Dreamless God Nation.
+That belief lasted until he detected her blood essence on Long Wangchu’s body.
 
-Yun Xi never answered, so he could only assume for the time being that her obsession was too great, and she was exhausting herself to achieve her goals, leading to severe self-harm.
+Though faint, though long since refined... how could he fail to recognize it? How could he possibly be mistaken?
 
-Until just now, when he sensed the aura of her essence blood on Long Wangchu.
+The records of the Xuanji Hall stated that Long Wangchu, young master of the dragon race, possessed extremely dull innate talent. Even after all of the top-tier resources the dragon race had poured into his cultivation, he barely managed to break through to the Divine Master Realm at the age of six sexagenary years.
 
-Though it was extremely faint, though it had long been refined... how could he possibly fail to recognize it? How could he possibly be mistaken?
+But after that, as if aided by divine intervention, he had risen from the first level of the Divine Master Realm to the eighth level in just a few decades, causing even the Kingdoms of God a small amount of surprise. That was why it had been speculated that he might have awakened his latent potential, and that his future held some promise.
 
-The records of the Xuanji Hall stated that the Young Master of the Dragon Race, Long Wangchu, was extremely dull-witted. Despite having all the top resources of the Dragon Race poured into him, he had barely broken through to the Divine Master Realm at the age of six hundred.
+It was only now Yun Che finally realized exactly what had happened to Yun Xi; what cruel price she had had to pay to earn the special treatment she was receiving.
 
-Yet afterward, as if aided by the gods, he had jumped from the first level of the Divine Master Realm to the eighth level in just a few decades, causing a minor stir even among the God Nations. It was speculated that his talent had awakened late, and his future might be promising.
+Yun Xi furrowed her brows slightly and, realizing he must have seen Long Wangchu, remained as unmoved and indifferent as ever. “It was a fair trade—both parties consented.”
 
-At this moment, Yun Che realized with a shock what had happened to Yun Xi. He finally understood the cruel price behind the Dragon Race’s "special treatment" of her.
+Terrifying bloodshot veins spread across Yun Che’s eyes as his voice became hoarse and unrecognizable. “You are... my daughter....”
 
-Yun Xi frowned slightly. Realizing he must have met Long Wangchu, she remained unmoved and as indifferent as ever. "A fair trade, agreed upon by both parties."
+“So what?” A hint of sarcasm tinged Yun Xi’s icy voice. “Are you trying to tell me that, since my body and flesh came from my parents, even though you’ve never raised me, protected me, or witnessed a single day of my growth, I have no right to dispose of my blood essence without your consent?”
 
-Terrifying blood vessels spread through Yun Che’s eyes. His voice was hoarse beyond recognition. "You are... my daughter..."
+“......” Yun Che slowly closed his eyes, his chest so painful that he was suffocating.
 
-"So what?" A hint of sarcasm entered Yun Xi’s icy voice. "Do you want to tell me that my body and skin are gifts from my parents? That even though you never raised me, never protected me, and never witnessed a single day of my growth, I have no right to dispose of my own essence blood without your consent?"
+Yun Xi moved her outstretched hand a little closer. “If you truly care about me as much as your expression suggests right now, then give me the Primal Flame Crystal. If you do, forget calling you father, I will even kowtow to you a hundred times without hesitation.”
 
-"..." Yun Che slowly closed his eyes, his chest aching to the point of suffocation.
+A cold wind blew, bringing endless desolation and sorrow.
 
-Yun Xi moved her outstretched palm an inch closer. "If you truly care about me as much as your face suggests, give me the Primordial Flame Crystal. If you do, forget about making me call you father—even if you ask me to kowtow to you a hundred times, I will not hesitate."
+Yun Che struggled to open his eyes; the bloodshot veins nearly covering his entire eyeballs at this point. “Tell me—what exactly do you intend to use the Primal Flame for, and the Qilin Bone Spirit Orchid you had risked your life to obtain all those years ago?
 
-The cold wind blew past, filled with endless desolation and sorrow.
+“If you don’t explain it clearly, then I won’t give it to you even if I find it!”
 
-Yun Che struggled to open his eyes; red bloodshot veins nearly covered his entire eyeballs. "Tell me, why do you crave the Primordial Flame Crystal so much? And the Lin-Bone Spirit Orchid you risked your life for back then—where exactly are they being used?"
+His voice had grown slightly clearer, yet it carried a chill that seemed to seep into the very marrow of one’s bones.
 
-"If you don't explain it clearly, I won't give it to you even if I find it!"
+Yun Xi looked at him for a long moment, but ultimately said, “Wind, Fire, Thunder, Water, Earth. When all Five Spirit Treasures are found, the Dragon Lord will mobilize the entire race’s strength—using the Five Spirit Treasures as the catalyst—to activate the Great Ancient Dragon Formation. It will gather all of the spirit essences of the five elements in heaven and earth and, with this most primordial and pure essences, gradually heal mother’s slumbering, fragmented soul until her life and body are fully restored.
 
-His voice became clearer, yet it carried a chill that seemed to seep into the marrow of one's bones.
+“This, too, is a fair trade between us.
 
-Yun Xi looked at him for a long time before finally speaking slowly. "By finding the five elemental treasures of Wind, Fire, Thunder, Water, and Earth, the Dragon Sovereign will use the strength of the entire clan to trigger the Ancient Dragon Array. It will gather the elemental rhythm of heaven and earth, using the most primordial and pure rhythm to gradually restore Mother’s sleeping remnant soul, until her life and body are made whole again."
+“It is also the only possibility—the only hope to save mother!”
 
-"This is also the fair trade between us."
+Yun Che looked into her eyes, overwhelming longing and excitement lurking beneath that icy gaze... and remained motionless for a very, very long time, saying nothing.
 
-"It is the only possibility, the only hope of saving Mother!" Yun Che looked into her eyes. Beneath that icy gaze lay a desire and excitement that were far too intense... He remained motionless and silent for a long time.
+“So...” Yun Xi’s voice grew heavier. “Have you found the Primal Flame Crystal or not?”
 
-"So..." Yun Xi’s voice grew heavier. "Did you find the Primordial Flame Crystal or not?"
+“......” Yun Che’s neck tensed as he slowly shook his head, his movements slow and stiff.
 
-"..." Yun Che’s neck strained as he shook his head, his movements slow and stiff.
+Like a million stars vanishing in the dead of the night, the light in Yun Xi’s eyes vanished in an instant, leaving only endless gloom and disappointment.
 
-Like ten thousand stars in a dark night being extinguished instantly, the light in the depths of Yun Xi’s eyes vanished without a trace, leaving only endless darkness and disappointment.
+“Don’t worry...” he said slowly, “I’ve given you my promise, and I will certainly deliver. As I told you before, finding a Primal Flame Crystal may be a pipe dream for others, but for me... it’s a mere trifle.”
 
-"Rest assured..." he spoke slowly. "Since I promised you, I will definitely do it. As I told you before, finding the Primordial Flame Crystal is like a pipe dream for others, but for me... it is easy."
+As he finished speaking, he suddenly spun around so that Yun Xi would not be able to see his eyes.
 
-As he finished speaking, he suddenly turned around, no longer letting Yun Xi see his eyes.
+“I came here today for two reasons. First, to see you. Second... I have an additional condition.
 
-"I came here for two reasons. One was to see you. Second... I have an additional condition."
+“Before I bring you the Primal Flame Crystal, you must not set foot outside the Ancestral Dragon Mountain Range no matter what. Otherwise, even if I can find it, I will not give it to you... You can do it for your mother’s sake, right?”
 
-"Before I deliver the Primordial Flame Crystal to you, you are not to step a single foot out of these Ancestral Dragon Mountains. Otherwise, even if I find it, I will not give it to you... For your mother’s sake, I believe you can certainly do this."
+“... ?” Staring at his back and frowning deeply, Yun Xi opened her mouth to say something. However, Yun Che had already stepped out of sight, disappearing beyond the barrier.
 
-"...?" Looking at his back, Yun Xi frowned deeply. She was about to speak, but saw that Yun Che had already started walking away.
+All that remained imprinted in her eyes was a desolate silhouette—one that lingered for a long time, stirring her soul in a way she could not quite name.
 
-Before she could even call out to stop him, his figure had vanished from her sight, heading outside the barrier.
-
-He left only a desolate silhouette imprinted in her pupils—one that would not dissipate for a long time, inexplicably stinging her heart and soul.
-
+1. In Chinese we call it “被安排的明明白白”. ☜

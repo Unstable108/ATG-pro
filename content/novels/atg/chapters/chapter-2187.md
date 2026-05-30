@@ -1,260 +1,265 @@
 ---
 chapterNumber: 2187
-title: ""
-publishedAt: "2026-04-18"
+title: "Draconic Vow"
+publishedAt: "2026-05-30"
 ---
 
-Long Zhiming’s temperament had always been gentle and placid, but he was, after all, the Dragon Sovereign. Even the God Reverends of the various God Nations had never been able to make him perform such a profound gesture of respect.
+UNedited Chapter - Rubble
 
-At this moment, however, like an ancient peak that had painstakingly supported the Dragon Race for a million years, he willingly bent his spine for the first time in his declining years.
+Long Zhiming’s disposition had always been gentle and unruffled, but he was, ultimately, the Dragon Lord. Not even the Divine Regents of the Kingdoms of God had ever compelled him to pay such a solemn respect.
 
-The dragon radiance in the hall flickered chaotically amidst the unceasing tremors, pulling at his deeply bowed dragon shadow.
+At this moment, though, the dragon who was like an ancient mountain that had propped up the dragons for a million years had finally, in the twilight of his existence, willingly bent his spine before another.
 
-Long Chixin and Long Qianxin were momentarily stunned. They hurriedly moved forward, but instead of helping Long Zhiming up, they followed suit and knelt behind him. Their posture was much lower than the Dragon Sovereign’s; their heads, symbols of the Ancestral Dragon’s dignity, were pressed almost to the floor.
+The draconic radiance in the hall was still flickering chaotically amidst the ceaseless tremors. It was also distorting his deeply bowed silhouette.
 
-Yun Che lowered his eyes.
+Long Chixin and Long Qianxin froze for a moment. Then, they hurried forward not to help Long Zhiming to his feet, but to kneel behind him. Their posture was far lower than that of the Dragon Lord; their heads, a symbol of the Ancestral Dragon’s dignity, hung so low that they were almost touching the ground.
 
-His gaze swept down from a height, looking at the three people prostrate before him... the three strongest Ancestral Dragons of the entire Dragon Race.
+Yun Che lowered his gaze.
 
-Yet, it failed to stir even a hint of pride or pleasure in his heart. For a fleeting moment, a dark, gloomy light overflowed from the depths of his soul and flickered in his eyes.
+From his lofty vantage point, he looked down upon the three figures prostrating themselves before him—the three mightiest Ancestral Dragons of the entire dragon race.
 
-But the expression that blossomed on his face was one of faint alarm.
+Yet this sight failed to stir even the slightest trace of triumph or satisfaction within him. For a fleeting moment, a dim, ominous glow flickered in his eyes, seeping from the depths of his soul.
 
-“Senior Dragon Sovereign, you must not!”
+But what bloomed on his face was a faint look of dread.
 
-He took a step forward, his hands supporting Long Zhiming’s arms, which were still trembling with agitation. “Such a grand gesture is something no one beneath the Pure Land¹ can accept. It truly shames this junior.”
+“Senior Dragon Lord, you must not!”
 
-Upon contact, the skeletal contour of the dragon bones was clearly discernible through the robes, like a piece of ancient wood whose vitality had been drained by time.
+He took a step forward and grasped Long Zhiming’s still trembling arms with both hands. “Such a great honor is beyond the reach of anyone besides the Pure Land. It is far too much for this junior!”
 
-It was such a decrepit husk that continued to stubbornly support the entire Dragon Race, unwilling to leave and not daring to leave—because behind his withered frame, there was only a Long Wangchu, who was less than useless.
+As their hands touched, the gaunt contours of Long Zhiming’s bones became clearly visible through his robes. He resembled an ancient tree that had been stripped of all vitality by the passage of time.
 
-Pitiful, pathetic... and hateful!!
+Yet it was this dying shell of a dragon who continued to prop up the entire dragon race, unwilling to depart and terrified of passing away, all because standing behind his withered frame was Long Wangchu, a failure of a dragon who was worse than even a useless piece of garbage.
 
-Meng Chaoyang’s eyelids lowered, his chest rising and falling slightly. When the Dragon Sovereign performed such a significant bow, the gratitude was genuine, but was it not also a form of kidnapping?
+How pitiful, how tragic, how... loathsome!
 
-Under Yun Che’s support, Long Zhiming remained firmly in his bowing posture for several breaths before finally rising. When he lifted his head, old tears were already crisscrossing the furrows of his face.
+Meng Chaoyang lowered his eye lids, his chest heaving slightly... the Dragon Lord’s extraordinary bow was indeed born of gratitude, yet was it not, in a sense, a form of coercion?
 
-Those old eyes, soaked in tears, stared fixedly at Yun Che as if looking at a dream, or a deity... Even when bowing to the Abyssal Monarch in the Pure Land, he had never been this agitated or fervent.
+Despite Yun Che’s attempt to lift him, Long Zhiming would remain in his bowing posture for several long breaths before finally rising. When he looked up, tears were streaming down the deep furrows of his aged face.
 
-“To the Abyssal Son, this is honoring your master and righteousness. But to my Dragon Race, it is a reversal of a dead end, a heavenly grace that blesses future generations! A mere bow of the body can hardly express even a fraction of the gratitude in my heart.”
+Those old eyes, drenched in tears, gazed fixedly at Yun Che. He looked as though he was lost in a dream, or gazing upon a deity... He had never felt such intense and fervent emotion even when he was paying homage to the Abyssal Monarch.
 
-Long Chixin and Long Qianxin also stood up. When they raised their heads, their eyes were similarly misted with tears. They knew all too well that Long Zhiming’s words contained not a shred of politeness or exaggeration.
+“To Divine Son Yuan, this is a matter of respecting your teacher and upholding your belief. But to us, it is a heavenly favor that turns us around from a dead end and benefits all future generations! A mere bow is truly insufficient to express even a fraction of the gratitude in my heart.”
 
-Yun Che’s gaze was complex as he sighed softly. “Senior acting like this makes this junior feel even more ashamed of my previous selfishness.”
+Long Chixin and Long Qianxin rose to their feet as well. When they looked up, their eyes were equally misted with tears. They knew all too well that Long Zhiming’s words contained not a shred of flattery or exaggeration.
 
-He reined in his emotions and said solemnly, “Among the younger generation of the Dragon Race, if we speak of talent and bloodline, Long Xi far surpasses Brother Wangchu. However, she is not the descendant of the Dragon Sovereign, nor does she belong to the direct line of the Ancestral Dragons.”
+Yun Che’s gaze grew complex as he sighed softly. “Seeing you like this, Senior, only makes this junior feel even more ashamed of my earlier selfishness.”
 
-“Therefore, the only choice for the return of this Dragon Marrow and Dragon Soul is Brother Wangchu.”
+He composed himself and said solemnly, “In truth, in terms of natural talent and bloodline, Long Xi far surpasses Brother Wangchu among the younger generation. However, she is ultimately not a descendant of the Dragon Lord, or even a direct descendant of the Ancestral Dragons.
 
-These words instantly wiped away the greatest lingering worry in Long Zhiming’s heart.
+“That is why Brother Wangchu is the only choice for the dragon marrow and dragon soul.”
 
-He suppressed his surging excitement and gave a soft sigh. “To tell the truth, even I do not know the origin of Long Xi’s bloodline, and she has never been willing to reveal a single bit. Over the years, I have tried many times to adopt her as my daughter, but she has always refused flatly, leaving no room for negotiation.”
+These words instantly dispelled the greatest fear that had been churning in Long Zhiming’s heart.
 
-He shook his head, his genuine sigh echoing in the hall. “A pity... what a pity.”
+He suppressed the surge of emotion willing up within him and sighed softly, “To be honest, I still do not know the origin of Long Xi’s bloodline, and she has never been willing to reveal even the slightest detail. Over the years, I have repeatedly sought to adopt her as my daughter, yet she has always refused outright, leaving no room for compromise.”
 
-Within Yun Che’s soul sea, Li Suo had been silently observing everything. She knew it was impossible for Yun Che to truly hand over the Dragon Marrow and Dragon Soul to the Dragon Race, but she could not fathom what he intended to do.
+He shook his head, and a sigh filled within genuine emotion echoed through the hall.”What a pity... What a pity.”
 
-Because none of this had been part of Yun Che’s plans before today.
+Within Yun Che’s soul sea, Li Suo had been silently observing everything. She knew it was utterly impossible for Yun Che to truly hand over his dragon marrow and dragon soul to the dragons, yet she could not fathom what he intended to do at all.
 
-Furthermore, even if Yun Che stripped away his own Dragon Marrow and Dragon Soul... could that Long Wangchu truly endure it?
+After all, none of what was happening had been part of Yun Che’s plans prior to today.
 
-After recovering from his initial emotional upheaval, Long Zhiming naturally thought of this as well. He asked tentatively, “Speaking of Wangchu, it is a stroke of heavenly luck that he can receive such a fortune. However, his aptitude is quite poor; both his dragon body and soul are frail, while the ancestral legacy carried by the Abyssal Son is extremely heavy and powerful.”
+Besides, even if Yun Che sincerely wanted to strip himself of his dragon marrow and dragon soul... could Long Wangchu even bear them with how weak he was?
 
-He secretly observed Yun Che’s expression, his face full of worry. “I only fear that although he is fortunate enough to obtain this opportunity, he will be unable to bear it.”
+After Long Zhiming’s initial emotional turmoil subsided, and he regained his composure, the thought naturally occurred to him as well. He asked tentatively, “Speaking of Wangchu, it is truly a stroke of heavenly fortune that he is receiving this blessing. However, his innate talent is rather poor, and his dragon body and dragon soul are weak. On the other hand, the ancestor’s legacy in you is exceedingly profound and powerful, Divine Son Yuan.”
 
-Yun Che, however, did not show any surprise or hesitation. Instead, he gave a reassuring smile. “It is natural for Senior Dragon Sovereign to have such concerns, but they are truly unnecessary.”
+He secretly observed Yun Che’s expression while continuing in a tone of deep concern, “This old one fears that, though he had been fortunate enough to receive this opportunity, he may not be able to bear it.”
 
-Long Zhiming’s eyes brightened sharply, and his withered fingers tucked inside his sleeves tightened unconsciously.
+Yun Che, however, showed no sign of surprise or hesitation. Instead, he offered a reassuring smile and replied, “It is only natural for you to have such concerns, Senior Dragon Lord, but it is truly unnecessary.”
 
-Yun Che spoke unhurriedly, as if recounting a common tale. “Back then, when Master bestowed the Dragon Marrow and Dragon Soul upon me, I was not even thirty years old, and my cultivation had barely touched the Divine Origin Realm. Yet, I was able to accept them safely, without any irreversible damage to my body or soul.”
+Long Zhiming’s eyes flashed with intensity, and the withered fingers tucked within his sleeves tightened involuntarily.
 
-Long Zhiming’s Adam’s apple bobbed, and a visible joy surged in the depths of his eyes.
+Yun Che spoke calmly, as if recounting an ordinary matter. “Back then, when my master had bestowed upon me the dragon marrow and dragon soul, I wasn’t even half-a-sexagenary years old, and my cultivation had barely reached the Divine Origin Realm. Yet, I was able to bear it without harm, and neither my body nor my soul had suffered any irreversible damage.”
 
-“To be close friends with such a powerful ancestor of our race and to raise a world-shocking genius like the Abyssal Son, your Master is undoubtedly a transcendent figure of the ages. Presumably, regarding this ‘inheritance,’ he must possess miraculous abilities beyond my understanding.”
+Long Zhiming’s throat bobbed, and a visible surge of joy welled up in his eyes.
 
-He could almost no longer hide the burning light in his eyes. “Then... this method of inheritance, could it be that the Abyssal Son...”
+To have been such close friends with such a powerful ancestor of our race, and to have raised a prodigy as extraordinary as Divine Son yuan—your master was undoubtedly a peerless, ancient luminary beyond the reach of the mortal coil. It would make sense that this ‘inheritance’ too contains extraordinary powers that are beyond this old one’s comprehension.”
 
-“Of course.” Yun Che nodded faintly, his demeanor composed. “Since Master left this final command, how could he not teach this inheritance method to me? To put it simply, this method is a mysterious profound formation created solely by my Master. When used for inheritance, it can allow a thin sheet of paper to support a mountain, or a shallow stream to contain a vast sea. Although my cultivation is lacking, I can perform it completely; it will simply take much longer.”
+He could barely conceal the intensity in his eyes. “So... this method of passing down the legacy... do you...”
 
-Long Zhiming slowly closed his eyes, suppressing the overwhelming emotions churning in his chest. Only after a long while did he open them, his mouth letting out continuous, hurried whispers: “Good, that is wonderful... truly wonderful...”
+“But of course.” Yun Che nodded calmly and composedly. “This is my master’s final wish. How could he not have entrusted the method of passing down the legacy to this junior?”
 
-All worries were gone; even the immense risks no longer existed. Such a godsend, such a smooth path... Had they not felt the Dragon Marrow and Dragon Soul personally, and had this not come from the mouth of the Dreamless Abyssal Son himself, how would they dare believe it? How would they dare hope for it?
+“To put it plainly, this method is a unique and profound formation invented by master himself. Used for passing on legacies and inheritances, it can support a mountain with a sheet of paper; contain a vast ocean within a shallow stream. Though my cultivation is lacking, I can still perform the ritual in its entirety—it will simply take much longer than usual.”
 
-“However...”
+Long Zhiming slowly closed his eyes, doing his best to suppress the overwhelming emotions surging within his chest. It wasn’t until some time later that he opened them again while muttering a series of low murmurs, “Wonderful... this is wonderful... this is wonderful....”
 
-Yun Che’s tone shifted. These two short words caused the souls of the three Ancestral Dragons to jerk simultaneously.
+All of his worries and concerns had vanished. Not even the immense risk that such a process usually entailed existed. Such heavenly favor, such smooth sailing... had they not witnessed and felt the dragon marrow and dragon soul with their own body, had the words not come from the mouth of the Dreamweaver Divine Son himself, they would not have dared to believe it, much less dared to hope for it.
 
-“Regarding the ‘inheritance’ method to transfer the Dragon Marrow and Dragon Soul to Brother Wangchu, though I can guarantee its success, it ultimately involves my Master’s secrets. My Master’s origins were unique; even though he has passed away, he would never wish for his secrets to be known by outsiders.”
+“However....”
 
-“Therefore, during the ‘inheritance,’ no one may watch, nor can it be exposed to anyone’s perception.”
+Yun Che’s tone shifted, and that one word stirred the hearts and souls of all three Ancestral Dragons at once.
 
-He looked at the Dragon Sovereign, his voice tinged with apology. “It is not that I do not trust the Dragon Race, but since it involves my Master’s secrets, it truly cannot be performed here.”
+“Although this junior promises that the ‘method of inheritance’ to transfer the dragon marrow and dragon soul to Brother Wangchu is flawless, it is ultimately a part of my master’s secret. My master possesses a unique background, and though he has passed away, he would never wish for outsiders to know about it.
 
-“What is the Abyssal Son saying? It is only right, only right.” Long Zhiming responded immediately, without the slightest hesitation.
+“Therefore, no one must bear witness while the inheritance is being transferred, nor must it be exposed to anyone’s perception[1].”
 
-Those words "however" had truly made his heart skip a beat. After hearing the explanation, his racing heart instantly settled... This was an issue? Was this not common human decency and the standard practice of the profound way?
+He looked at the Dragon Lord, his tone tinged with regret. “It is not that I do not trust the dragons, but since this involves my master’s secrets, it truly cannot be performed here.”
 
-Forget the secret methods of a peerless master; even the core profound arts of a tiny sect in a remote land would never be displayed before outsiders.
+“How could you say that, Divine Son Yuan? It is only right, only right.” Long Zhiming hurriedly responded without a shred of hesitation.
 
-“There is one more matter that Senior needs to consider carefully.”
+His heart had skipped a beat when he heard the word “however”, but upon hearing what Yun Che actually had to say, his suspended heart instantly settled... As it turned out, his request wasn’t a big deal at all. In fact, wasn’t this simply common sense and the standard practice of the profound way?
 
-Yun Che continued, “The Dragon Marrow will constantly produce dragon blood, and the Dragon Soul will harmonize and merge with the original soul. While this will not change Brother Wangchu’s bloodline or soul foundation, [the dragon breath and soul breath he releases hereafter will be different from before].”
+Never mind the secret techniques of peerless masters—even the core mystic arts of the smallest sect of the poorest Land of the Living would never be revealed in front of outsiders.
 
-“Brother Wangchu’s status is special, and his bloodline concerns the direct inheritance of the Ancestral Dragon line. I wonder if Senior Dragon Sovereign can accept this?”
+“There is one more matter that requires your careful consideration, Senior.”
 
-Long Zhiming showed no sign of difficulty; instead, he laughed heartily. “The Abyssal Son worries too much. With such powerful Dragon Marrow and Dragon Soul, a massive change in aura is only to be expected. This does not involve any damage to the legitimacy of the inheritance. For Wangchu and for my race, it is not a bad thing, but a monumental blessing. It would be even better if his will and temperament could grow or awaken because of it.”
+Yun Che continued, “The dragon marrow will perpetuate the dragon’s blood, and the dragon soul will harmonize and fuse with the original soul. While this will not alter Brother Wangchu’s bloodline or soul foundation, the draconic aura and soul aura he emits from this point forward will differ from what they were before.
 
-At this point, he felt he was being too greedy and shook his head with a bitter smile.
+“Brother Wangchu’s status is unique, and his bloodline is directly tied to the Ancestral Dragon’s lineage. Can you accept this, Senior Dragon Lord?”
+
+Long Zhiming showed not the slightest trace of concern. Instead, he laughed heartily, “You’re worrying too much, Divine Son Yuan. With such a powerful dragon marrow and dragon soul, it’s only natural for his aura to undergo a drastic change. This in no way compromises the legitimacy of the lineage. For Wangchu—and for our race—it is not only not a bad thing, but a tremendous blessing. If his will and character can grow or awaken as a result, then all the better.”
+
+Having said that, he realized he was being far too greedy and shook his head with a wry smile.
 
 “In that case, I have no further reservations.”
 
-Yun Che raised his hand, slightly stirring the dragon breath within his body. He seemed to have some lingering reluctance and sentimentality, but it soon turned into a sense of relief. “Then, let Senior Dragon Sovereign inform Brother Wangchu of this matter. Afterward, choose a suitable time to accomplish this. I will be in the Dreamless God Nation, awaiting news from the Dragon Race at any time.”
+Yun Che raised his hand and stirred the draconic aura within him slightly. It seemed he still harbored some lingering reluctance and wistfulness, but these soon gave away to complete acceptance. “In that case, please inform Brother Wangchu of this matter and choose an appropriate time to carry out the inheritance, Senior Dragon Lord. I will await your news at the Dreamweaver Kingdom of God.”
 
-“This...” Long Zhiming asked hesitantly, “In the Abyssal Son’s view, what time would be most suitable?”
+“Well...” Long Zhiming hesitated before asking, “In your opinion, what would be the most suitable time, Divine Son Yuan?”
 
-Yun Che’s tone was calm and indifferent. “For me, as long as I am not occupied by important matters, any time is fine. As for the Dragon Race and Brother Wangchu...”
+Yun Che replied in a calm and composed tone, “For me, as long as I’m not tied up with urgent matters, any time will do. As for the dragon race and Brother Wangchu....”
 
-He thought for a moment before saying slowly, “In my humble opinion, waiting several decades until Brother Wangchu successfully enters the Eternal Pure Land² to receive the new Dragon Marrow and Dragon Soul in a new world would signify a complete renewal of fate. The symbolism would be excellent.”
+He pondered for a moment before continuing slowly, “In my humble opinion, it would be best to wait several decades until Brother Wangchu has successfully set foot at the Eternal Pure Land. For him to obtain a new dragon marrow and dragon soul in a new world would symbolize a complete renewal of fate. It would be the most auspicious sign possible.”
 
-“No, no, that is too late, far too late!” Long Zhiming blurted out, completely losing the calm and indifference befitting a Dragon Sovereign.
+“No, no, that is far too late, far too late.” Long Zhiming blurted out, having completely lost the composure and pose expected of the Dragon Lord.
 
-As soon as the words left his mouth, Long Zhiming realized his excessive loss of composure. Long Chixin, standing behind him, quickly smoothed things over: “The timing the Abyssal Son mentioned is indeed wonderful. However... if the Abyssal Son will forgive us, our entire Dragon Race laments day and night that our path forward is difficult to sustain. Now that we have suddenly received this heavenly gift, if it is not settled, the Dragon Sovereign will likely not have a single day of peace.”
+That said, he realized how undignified he was acting the moment the words left his mouth. Long Chixin, standing behind him, hurried to cover for him. “The timing you suggested is most excellent, Divine Son, Yuan it’s just... please don’t laugh at us, but the entire dragon race has been grieving day and night over the impossibility of continuing our path. For such a heavenly favor to fall upon us today... I seriously doubt the Dragon Lord would be able to sleep a wink for as long as this matter isn’t settled.”
 
-Long Zhiming did not deny it, his eyes filled with obvious fervor... In such a situation, why would he care about dignity or decorum? Why would he care about his old face?
+Long Zhiming didn’t deny it. His eyes were filled with obvious eagerness... Considering the situation, how could he possibly care about dignity or decorum, or worry about saving face?
 
-Meng Chaoyang watched coldly from the side, saying nothing.
+Meng Chaoyang watched coldly from the sidelines, saying nothing.
 
-Yun Che seemed to realize something and nodded slowly. “I see. I was inconsiderate. Very well, I have no major matters recently, so let this be completed in the coming days. It will also allow me to fulfill my Master’s final wish sooner.”
+Yun Che seemed to have a sudden realization and nodded slowly. “I see. That was my oversight. Very well, I have no pressing matters at the moment, so let us complete this matter in the near future. It is best to fulfill my master’s dying wish as soon as possible.”
 
 “Good, good!”
 
-Long Zhiming bowed deeply again, his voice trembling violently. “Then everything shall be arranged by the Abyssal Son.”
+Long Zhiming bowed deeply once more, his voice trembling violently. “Then I shall leave everything to your arrangement, Divine Son Yuan.”
 
-Long Zhiming’s emotions were surging too violently; he had largely lost his poise and rationality. He was fervently expressing his gratitude, yet he had forgotten that for such a great favor, he should offer some form of repayment.
+Long Zhiming’s emotions were surging so violently that he had largely lost his composure and reason. As he fervently expressed his gratitude, he had completely forgotten that such a great favor must, above all, be repaid.
 
-Long Qianxin silently took half a step forward and spoke, “Forcibly stripping oneself of the Dragon Marrow and Dragon Soul will inevitably cause severe damage to the Abyssal Son’s body. Such self-sacrifice to help us... we truly do not know how to repay you.”
+Long Qianxin took a silent step forward and said, “Forcibly stripping away one’s dragon marrow and dragon soul is bound to inflict severe damage on Divine Son Yuan’s body. Such self-sacrifice truly leaves us... at a loss as to how to repay you.”
 
-Yun Che smiled slightly, his demeanor carefree. “A ferryman returning the goods on his boat to the other shore—how can one call that ‘sacrifice’? It is merely returning the item to its original owner.”
+However, Yun Che faintly smiled without a care for the world. “The ferryman is simply delivering the goods from one shore to another—what ‘sacrifice’ is there to speak of? I am merely returning what belongs to its rightful owner.”
 
-A simple sentence, filled with endless grace and nobility, left Long Qianxin stunned and brought tears to Long Zhiming’s eyes once more.
+Those simple words, imbued with boundless grace and purity, left Long Qianxin momentarily speechless and brought tears to Long Zhiming’s eyes once again.
 
-He looked at Yun Che, looking at this junior who was barely over a hundred years old, looking at his clear eyes and the faint smile at the corners of his lips... He suddenly felt that all the beautiful words he had accumulated over a million years of life were as light as dust and as dim as fireflies in this moment.
+He looked at Yun Che, at this young man barely two sexagenary years of age, at his clear eyes and the faint smile at the corner of his lips... Suddenly, he felt all the grand and beautiful compliments he had accumulated over a million years were, at this moment, as light as dust and as dim as the glow of a firefly.
 
-“Even ten million words of gratitude are insignificant before the Abyssal Son’s selfless gift.”
+“Even a million words of gratitude would be insignificant in the face of Divine Son Yuan’s selfless gift.”
 
-His voice was hoarse, as if each word was being ground out from the depths of his chest. Every word was incredibly heavy, as if carrying the weight of the entire Dragon Race:
+His voice was hoarse, as if each word was being ground out from the depths of his chest. Every syllable carried immense weight like that of the entire dragon race:
 
-“My Dragon Race is short on resources and struggles even to look after ourselves. We truly do not know what we can offer in repayment, save for a single promise...”
+“We dragons are sorely lacking in resources and can barely provide for ourselves. We truly do not know what we can offer in return, save for a single vow....”
 
-He raised his head and narrowed his eyes, his expression instantly becoming solemn. The Ancestral Dragon soul was released silently, and his voice, carrying a vast dragon roar, rippled out layer upon layer, shaking the entire Ancestral Dragon Mountains:
+He raised his head and fixed his gaze, expression turning solemn and grave. As the soul of the Ancestral Dragon silently radiated outward, the sound from his mouth, carrying the vast roars of dragons, rippled out in layers and shook the entire Ancestral Dragon Mountain Range to its core:
 
-“From this day forward, all members of my Abyssal Dragon Race, from the direct Ancestral Dragon line down to the lowliest branch members, shall eternally remember the selfless grace of the Dreamless God Nation’s Abyssal Son!”
+“From this day forward, all dragons of the Abyss—from the direct descendants of the Ancestral Dragon to the youngest of the collateral branches—shall forever remember the selfless grace of the Divine Son Yuan, who sacrificed himself for the sake of all of us!”
 
-Under the dragon roar, all dragons fell silent. They looked up and listened respectfully, their dragon souls shaking.
+Beneath the dragon’s roar, all dragons fell silent. They raised their heads to listen with reverence, their draconic souls trembling intensely.
 
-The Dragon Sovereign often announced matters to the entire race personally with a dragon roar, but it had never been this grand, never this soul-shaking. Every word seemed to be written with dragon bone as the brush and dragon blood as the ink, deeply engraved into the world itself.
+The Dragon Lord had often proclaimed decrees to the entire clan through his roar, but never had it been so majestic; so soul-shaking. Every word seemed to be etched into the very fabric of the world with dragon bones as the brush, and dragon blood as the ink.
 
-“Should the Abyssal Son have any commands in the future, everyone in the Dragon Race, high and low, shall obey!!”
+“Henceforth, whenever Divine Son Yuan issues a command, all dragons, from top to bottom, shall obey without exception!!”
 
-“If this oath is violated, the dragon line shall be forever extinguished!”
+“Should anyone violate this oath, the dragon bloodline shall be severed forever!”
 
-As the final dragon roar descended, the entire Dragon Race turned pale.
+As the final dragon’s roar echoed out, the entire dragon race turned as pale as a sheet.
 
-Because this oath was too cruel, too ruthless. It was like a desperate gamble carrying all the destiny and dignity of the Dragon Race.
+For this vow was simply too cruel, too ruthless. It felt like a desperate gamble staking the very fate and dignity of the dragon race.
 
-Such a resolute and poisonous oath caused even Long Chixin and Long Qianxin to be deeply moved, but they soon thought of something and quickly felt relieved.
+The vow was so ruthless, in fact, that even Long Chixin and Long Qianxin balked at its declaration. However, they soon realized something and quickly let it go.
 
-Only Meng Chaoyang’s eyes narrowed slightly. Standing in the shadow cast by a palace pillar, his gaze held seven parts helplessness and three parts dark ambiguity.
+Only Meng Chaoyang was narrowing his eyes slightly. Standing in the shadow cast by a pillar of the hall, his gaze held two parts resignation and one part inexplicable darkness.
 
-Long Zhiming was, after all, an old fox who had lived for a million years.
+Long Zhiming was, ultimately, a cunning old fox who had lived for a million years.
 
-Such a promise of the entire race’s repayment was not just announced to the Dragon Race; it would surely spread rapidly to the entire Abyssal world.
+Such a pledge, made in the name of the entire dragon race, wouldn’t be known to the dragon race only—it wouldn’t be long before the entire Abyss had heard of it as well.
 
-Under such a world-renowned promise of the entire race, even if Yun Che wanted to regret it later, he would have no way out.
+In short, a pledge like this—one known throughout the world and would bring damnation upon their very heads should they break it—gave Yun Che no chance to renege on his promise should he regretted his decision later.
 
-The poisonous oath seemed humble and grateful, the sincere offering of a Dragon Race at its wits' end. But the more "poisonous" it was, the more it bound Yun Che and the Dragon Race together, and indirectly bound them to the Dreamless God Nation.
+It looked like the ruthless vow was born from humility and gratefulness, and it appeared to be the sincere devotion of a race who was at the end of their ropes. But the reality was that the more ruthless the vow, the tighter it bound Yun Che—and indirectly, the Dreamweaver Kingdom of God—to the dragon race.
 
-As for Yun Che being able to command the Dragon Race in the future... with the Dreamless God Nation behind him, would he need a withered and nearly broken Dragon Race?
+As for whether Yun Che would be able to command the dragon race in the future... he was backed by the Dreamweaver Kingdom of God. Why would he ever need a dragon race that was withering to the point of extinction?
 
-Meng Chaoyang believed Long Zhiming’s gratitude was genuine, but within that total gratitude, three parts of calculation were still hidden.
+Meng Chaoyang believed that Long Zhiming’s gratitude was genuine. However, there was also no denying that that gratitude was mixed with three parts of calculation.
 
-Those three parts of calculation might not even be intentional; rather, through long years and a hopeless dead end, the word "calculation" had perhaps been carved into his very marrow without him even realizing it.
+The calculation had not necessarily been done deliberately. Rather, over the course of endless years of hopeless despair, the very concept of “calculation” had likely seeped deep into his very marrow without him even realizing it.
 
-“You old geezer! What... what is going on now?!”
+“You old fool! What... What are you up to now?”
 
-Long Wangchu’s reckless shouting came from outside the hall: “What do you mean the dragon line shall be forever extinguished!! Old man, aren't you cursing me to have no descendants! Are you even my father?!”
+It was at this moment Long Wangchu’s unrestrained roar echoed from outside the hall. “What do you mean, ‘the dragon bloodline shall be severed forever’?! Are you cursing me to have no descendants? Are you even my father anymore?!”
 
-Vulgar words, devoid of any poise or upbringing, roared from the mouth of this Dragon Race Young Master, nearly dissipating the Dragon Sovereign’s soul-filling excitement with pure anger.
+The crude, uncivilized words roaring out of the young Dragon Lord’s mouth instantly dissipated more than half of the Dragon Lord’s passion.
 
-Veins popped on Long Zhiming’s forehead. His old hand reached out, and a burst of crude profound energy dragged Long Wangchu from outside the hall. He roared in a low voice, “You rebellious son! Kneel down and kowtow immediately! Thank the Abyssal Son for his grace of rebirth!!”
+Long Zhiming’s face turned blue, and with a grab of his old hand, he yanked Long Wangchu into the hall with a brutal surge of profound qi. He then roared in a deep voice, “Ungrateful boy! Kneel immediately and kowtow to Divine Son Yuan for granting you a second life!”
 
-Long Wangchu looked bewildered. “What... kneel? You want me to kneel?”
+Long Wangchu looked utterly bewildered. “What... kneel? You want me to kneel?”
 
-Yun Che also took a step forward at the same time, saying urgently, “This must not happen...”
+Yun Che also stepped forward at the same time, exclaiming urgently, “Absolutely not, Se—”
 
-Bang!!
+The Dragon Lord had already struck down with a palm strike, instantly dropping Long Wangchu to his knees and slamming his head violently against the ground. Coerced by an irresistible force, the young dragon was forced to perform three heavy prostrations.
 
-The Dragon Sovereign had already pressed down with a palm. Long Wangchu’s knees hit the floor instantly, and his head was slammed into the ground by an irresistible force, performing three heavy kowtows.
+Even after he was hauled back to his feet, Long Wangchu did not fully regain his senses. He clutched his forehead and felt like screaming and cursing his father on the spot, but upon catching sight of Divine Son Yuan, he forced himself to hold back, letting out only a muffled grumble stuck in his throat.
 
-He didn't fully recover his senses until he was hauled up from the ground. He clutched his forehead, wanting to roar and curse, but catching sight of the Abyssal Son nearby, he forced himself to endure, leaving only a muffled grumble in his throat.
+Yun Che said with a look of resignation, “I have received your generous gesture, Brother Wangchu. I won’t let you down.”
 
-Yun Che’s face was full of helplessness. “I have received Brother Wangchu’s great sincerity; I will certainly not let it down.”
+He took out a piece of abyssal crystal that was about an inch long. He touched it with his fingertip and engraved the word “Yuan” on it. He then imbued it with a fairly substantial trace of soul aura before handing it to Long Zhiming.
 
-He took out an inch-long piece of Abyssal Crystal, tapped it with his fingertip to carve a neat character for ‘Abyss’ (渊), and left behind a relatively thick soul breath. He then placed it in Long Zhiming’s hand.
+“This junior had always led a secluded life in the Dreamweaver Kingdom of God and bore no public token of identification. Once Brother Wangchu has finished his preparations, he may present this abyssal crystal to enter the Dreamweaver Kingdom of God. Upon my return, I shall immediately give the order that anyone bearing this abyssal crystal need not announce their arrival and may be escorted directly to the Divine Son Palace.”
 
-“I usually live in seclusion in the Dreamless God Nation and do not have a public token. Once Brother Wangchu is prepared, he can take this Abyssal Crystal to the Dreamless God Nation. I will issue an order upon my return—anyone holding this crystal does not need to be announced and can be led directly into the Son’s Hall.”
+Though it was a most ordinary abyssal crystal, Long Zhiming cradled it with the utmost care. “Very... well.”
 
-It was a most ordinary piece of Abyssal Crystal, yet Long Zhiming held it with extreme care. “Good... good.”
+“There is one more thing.” Yun Che withdrew his hand before continuing, “Separating and transferring the dragon marrow and dragon soul is a process that will take only a couple hours at most, but it will take much longer for Brother Wangchu to inherit and fuse with them. Depending on how well he harmonizes with them, he will need to remain in the profound formation for anywhere from one or two months to half a year. During this period, he must not leave the formation for even a moment. As this is the dragon soul we’re talking about, he must not be disturbed by any external matters.
 
-“One more thing.” Yun Che withdrew his hand and continued, “Stripping and transferring the Dragon Marrow and Dragon Soul only takes a few hours, but if Brother Wangchu wishes to fully carry and integrate them, he must remain in the profound formation for a long time—anywhere from one or two months to half a year, depending on his compatibility. During this time, he cannot leave for even a step. Since it involves the Dragon Soul, he cannot be disturbed by any external matters.”
+“Therefore, it would be best for the dragons to send an elder to accompany him, to ensure his safety and protection.”
 
-“Therefore, it would be best for the Dragon Race to send a senior along to ensure his safety and protect him.”
+Long Zhiming, though, laughed without a moment’s hesitation. “That is entirely unnecessary. The Dreamweaver Kingdom of God is such a lofty place; Wangchu will be a hundred times safer there than a barren place like the Ancestral Dragon Mountain Range. And with you by his side, forget a year or two, even a hundred or a thousand years wouldn’t worry this old one in the slightest.”
 
-Long Zhiming laughed without hesitation. “There is no need for that. The Dreamless God Nation is such a lofty place; Wangchu will be a hundred times safer in Dreamless than in these barren Ancestral Dragon Mountains. With the Abyssal Son by his side, let alone a year or half a year, I wouldn't have even a hint of worry if it were a hundred or a thousand years.”
+To send someone to accompany and protect him would undoubtedly be a sign of distrust. Moreover, even assuming the worst case scenario, there was simply no reason for the Dreamweaver Kingdom of God to target a mere dragon upstart. And if they truly intended to harm Long Wangchu, not even the entire dragon race would be able to shield him from harm... with that in mind, why would the Dragon Lord possibly commit such a foolish act?
 
-To send someone to accompany and protect him would undoubtedly be a sign of distrust. Furthermore, to take ten thousand steps back, forget that the Dreamless God Nation had no reason to target a mere Dragon Race buffoon—even if they truly wanted to harm Long Wangchu, sending the entire Dragon Race would be useless... How could the Dragon Sovereign do something so foolish?
+“Very well!” Yun Che did not press the matter further and nodded firmly. “In that case, this junior will do everything in my power to ensure that Brother Wangchu suffers not even the slightest harm—both to live up to the Dragon Lord’s trust and to honor my master’s dying wish.”
 
-“Good!” Yun Che did not insist and nodded heavily. “In that case, I will certainly do my utmost when the time comes, hoping not to let Brother Wangchu suffer the slightest injury—both to live up to Senior Dragon Sovereign’s trust and to fulfill my Master’s final command.”
+With Divine Son Yuan’s promise, the divine favor bestowed upon the dragon race seemed to have been set in stone.
 
-With the Abyssal Son’s promise, this fortune that had descended upon the Dragon Race seemed to be set in stone.
+Stepping out of the Ancestral Dragon Divine Hall, Yun Che’s gaze unconsciously drifted to the forbidden zone where Yun Xi resided. However, he forcibly tore it away and bowed to take his leave of Long Zhiming:
 
-Walking out of the Ancestral Dragon Temple, Yun Che’s gaze involuntarily drifted toward the restricted area where Long Xi was located. He then forced it back and bowed to Long Zhiming in farewell:
+“Then this junior will await Brother Wangchu’s arrival in the Dreamweaver Kingdom of God.”
 
-“Then I shall await Brother Wangchu’s arrival in the Dreamless God Nation.”
+Not only did Long Zhiming personally escort Yun Che out of the Ancestral Dragon Barrier, he continued to accompany him a great distance before finally stopping to see him off.
 
-Long Zhiming personally escorted Yun Che out of the Ancestral Dragon Barrier and continued to escort him a great distance before stopping to see him off respectfully.
+“Oh right!”
 
-“Oh, right!”
+Just as he was about to depart, Yun Che suddenly turned around, as if he had just remembered something. “One of the reasons I came today was to repay Long Xi for her kindness, but she is far too aloof and possesses no worldly desires.I truly do not know how to repay the debt of gratitude from all those years ago, so I can only do so indirectly.
 
-Yun Che, who was about to fly away, suddenly turned around as if he had just remembered something. “One of my purposes for coming here today was to repay Long Xi’s kindness, but her personality is too cold and she has no desires. I truly did not know how to repay her for the grace she showed me back then.”
+“I hope that you, Dragon Lord, will remember today’s events and treat her kindly. Since I owe her my life, her life is no different from my own. Under no circumstances should she be subjected to any form of oppression or harm.”
 
-“I can only repay her indirectly. I hope Senior Dragon Sovereign will remember today and treat Long Xi well. Since I owe her a life, her life is my life. You must not let her suffer any bullying or injury.”
+Long Zhiming suppressed the turmoil in his heart and, in the manner befitting of the Dragon Lord, pledged, “Rest assured, Divine Son Yuan, this old one will issue the order immediately. No one in the entire race, regardless of rank, is to commit the slightest offense against Long Xi. Should anyone violate this decree, this old man will personally punish them without mercy.”
 
-Long Zhiming suppressed the surge in his heart and promised with the dignity of a Dragon Sovereign, “Rest assured, Abyssal Son. I will issue an order this very day that no one in the entire race, regardless of who they are, may offend Long Xi in the slightest. If anyone dares to do so, I will personally punish them without mercy.”
+Yun Che gave him a light nod and flew off into the distance after that.
 
-Yun Che nodded faintly and flew away.
+Long Zhiming remained gazing into the distance, not moving even after Yun Che and Meng Chaoyang had completely vanished from sight.
 
-Long Zhiming continued to gaze into the distance long after the figures of Yun Che and Meng Chaoyang had completely vanished from sight.
+Perhaps he was wondering if he was dreaming, and he would eventually wake up and realize that it was all just a delusional dream.
 
-Perhaps even at this moment, he deeply suspected he was immersed in a lavish dream from which he had not yet woken. He remained motionless for a long time, as if afraid that the slightest movement would shatter the dream the moment he turned around.
+He would stand motionless for a long time, as if afraid that the slightest movement—or even the very act of turning around—would shatter the dream.
 
 “What... exactly are you doing??”
 
-Before they had even fully left the Ancestral Dragon Mountains, Li Suo’s voice asked softly.
+Li Suo asked softly even before they had fully left the Ancestral Dragon Mountain Range.
 
-The mountain winds howled, and dark clouds hung low. The cold wind whistled through the cracks of the broken cliffs, bringing with it a sobbing moan, like the sighs of countless remnant dragon souls.
+The mountain winds howled, and the dark clouds hung low. The cold wind swept through the crevices of the sheer cliffs, carrying a low, wailing sound that sounded like the sighs of countless dragon souls.
 
-Yun Che replied, “The Dragon Race will fear that a long night brings many dreams. At most, within five days, they will send Long Wangchu to me. So, you will find out very soon.”
+Yun Che responded, “The dragon race fears that delays will lead to complications. Within five days at most, they will send Long Wangchu to me. You’ll get your answer then.”
 
-Li Suo said with no small amount of worry, “But none of this was in your previous plans. Since you wanted to end everything sooner, why did you suddenly introduce such a variable?”
+Li Suo asked with some concern, “But none of this was part of your original plan. If you were planning to end things sooner, why would you suddenly introduce such a variable?”
 
-“A variable?” Yun Che sneered. “The Dragon Race? They aren't worthy.”
+“Variable?” Yun Che let out a cold scoff. “Do you really think that the dragon race is worthy to be called a variable?”
 
-Li Suo: “...”
+Li Suo: “......”
 
-“Don't worry.” Yun Che’s tone began to turn dark. “Not only will this not be a variable, but if used well, it will be a massive help.”
+“Don’t worry.” His tone grew dark. “Not only won’t they become a variable, if used correctly, they will turn out to be a tremendous asset.”
 
-“As long as I am... cruel enough.”
+“All it requires... is for me to be ruthless enough.”
 
-The mountain wind grew violent, and the ten thousand ravines echoed with sorrow. The sound of the wind carried a sob, echoing for a long time among the endless mountains, like a desperate elegy unwilling to end.
+The mountain winds howled fiercely, and the valleys echoed with mournful sounds. The wind carried whispers of weeping, reverberating for a long time across the endless mountains, like a despairing elegy that refused to fade away.
 
+1. If I have to guess, Yun Che is going to use this opportunity to torture the absolute shit out of Wangchu. Then, he’s going to take full control of his body via some method, but keep a sliver of Wangchu’s soul fragment alive so he can experience the horror of the dragons slowly being brought to utter ruin while being unable to do anything but watch. ☜

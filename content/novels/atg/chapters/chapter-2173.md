@@ -1,148 +1,157 @@
 ---
 chapterNumber: 2173
-title: ""
-publishedAt: "2025-12-19"
+title: "Dragon Girl Looks For Father"
+publishedAt: "2026-05-30"
 ---
 
-In the boundless Sea of Mists, Yun Che sat cross-legged upon a slab of Abyssal Stone. All around him, the gray Abyssal Mist churned incessantly. The distant roars of Abyssal Beasts echoed through the gloom, yet as they drew near, they were driven away by the terrifying, majestic pressure emanating from the Abyssal Qilin God.
+In the Endless Fog, Yun Che was sitting cross-legged atop an abyssal stone. He was surrounded by ceaselessly churning gray abyssal fog and the constant, distant roars of abyssal beasts. However, the terrifying presence of the Abyssal Qilin God always drove them away when they got close.
 
-Yun Che’s eyes were closed. Within his consciousness, a single drop of Vermilion Bird Origin Blood¹, crimson as agate, suspended quietly in the air. Inside the blood droplet, a tiny divine silhouette of a Vermilion Bird seemed to spread its wings and cry out, sending unending ripples through his entire circulatory system.
+Yun Che’s eyes were closed. Inside his consciousness, a drop of Vermillion Bird origin blood, red as carnelian, was suspended in the air, unmoving. Inside the bead of blood, what looked like a small divine shadow of the Vermillion Bird was spreading its wings and letting out a cry, stirring up its own blood for a long, long time.
 
-With his Ancestor’s Divine Body and the Evil God Profound Veins, even the source essence blood of a True God—and all nine drops of it at that—could be completely refined within a month, and with flawless perfection.
+With his Ancestral Holy Body and the Heretic God Profound Veins, he could have refined even the origin blood essence of the Vermillion True God itself in under a month. He could have refined all nine drops perfectly.
 
-At this moment, Yun Che only needed to refine one-seventh of a single drop... just enough for him to ignite the Vermilion Bird’s flames while carrying a trace of its divine aura.
+Right now, Yun Che only needed to refine one-seventh of a drop... That was enough for him to ignite the Vermillion Bird Flame with some Vermillion Bird divine aura in it.
 
-Buzz—
+His consciousness space let out a weak buzz. As his profound energy gently enveloped the Vermillion Bird divine blood, several wisps of crimson light slowly dissipated and flooded into Yun Che’s blood vessels, meridians, and profound veins...
 
-A soft hum resonated in his mental space. As his profound energy lightly enveloped the divine blood, several wisps of scarlet light slowly diffused, surging toward Yun Che’s bloodlines, meridians, and profound veins. Though they were but faint wisps, they exploded within his body with a searing power akin to burning the heavens and boiling the seas.
+Although it was only a few faint wisps, they exploded inside his body with sky-scorching, sea-boiling power. If he were anyone else, the pain of their bones being scorched and their flesh being cooked would have them writhing in pain. They would have to handle all sorts of risks that could erupt at any moment. But for Yun Che, the power was as mild as a refreshing spring. All he needed to do was absorb the Vermillion Bird's divine power within the blood.
 
-For anyone else, merely enduring this bone-scorching, body-incinerating heat would be agonizingly painful, not to mention the various risks of sudden internal collapse. But for Yun Che, it felt as gentle and moisturizing as bathing in a secluded spring; he only needed to focus his mind on merging with the Vermilion Bird’s divine power contained within.
+An indefinite amount of time later, a fiery crimson light suddenly lit up the gloomy world. At the same time, a thin layer of crimson light appeared on Yun Che’s body. Plume-like patterns could be seen circulating slowly in the layer as well. His outer clothing fluttered even though there was no wind, and his hair slowly floated in the air from the heat waves. A Vermillion Bird mark appeared on his forehead and gradually deepened over time as well.
 
-An indeterminate amount of time passed before a streak of scarlet flame suddenly illuminated the dim world. A faint, red light barrier rose around Yun Che’s body, within which feather-like patterns flowed slowly. His robes fluttered without wind, his hair was lifted by the scorching waves, and between his brows, a Vermilion Bird mark glowed with a deepening intensity.
+Two hours passed, and a crimson flame suddenly kindled into existence on his palm. It was completely different from every divine fire he had ignited in the past. It was an indescribably silent and gentle flame. It dyed even the gloomy, terrifying space of the Endless Fog in a kind of warmth that shone straight into the heart and soul.
 
-Another hour passed, and a cluster of scarlet flames suddenly ignited in Yun Che’s palm.
+At a place near the Endless Fog.
 
-This flame was entirely different from the divine fire Yun Che had burned before. It burned with utter silence and gentleness, casting a warmth that touched the very soul upon the surrounding eerie and terrifying mist.
+The Thousand Tinkles Realm was masterless, but it had massive traffic because it was close to the Endless Fog. At first, it was just a place for training practitioners to rest and recuperate. Later, it naturally developed into a marketplace for supplies. As time went on, the realm’s scope of trade kept expanding until it grew to become one of the largest trading hubs in the vicinity of the Endless Fog.
 
-The nearlands of the Sea of Mists.
+Today, even abyssal knights frequently stop by to maintain a basic level of order.
 
-Qianlang Realm was an unclaimed territory, yet it boasted a massive, year-round flow of people. Because of its proximity to the Sea of Mists, it had originally served as a place for cultivators to rest and heal, which naturally gave birth to a trade in supplies. Over the passing years, the scale of trade grew larger and larger until it became one of the greatest trading hubs in the vicinity of the Sea of Mists. Eventually, even Abyssal Knights would occasionally glance its way or stop by to maintain basic order.
+A person clad in long gray robes was walking down a crowded street. Even her head was covered by a thick veil. It made it impossible for anyone to see her actual appearance.
 
-A figure dressed in a gray-white robe, wrapped tightly from head to toe, threaded through the crowd. Even her head was covered by a heavy hood, making it impossible to see her true face. Stopping before an old man, she spoke directly in a raspy voice, "Is there any news regarding Primordial Flame Crystals² recently?"
+She eventually stopped in front of an old man and asked in a raspy voice, “Have you heard any news regarding the Primal Flame Crystal as of late?”
 
-The old man glanced at her, cocked an eyebrow, and said with a face full of helplessness, "You again. I’ve told you how many times? The last time a Primordial Flame Crystal appeared in this world, my great-great-grandfather hadn’t even been born. Such exotic crystals are heavenly miracles that only occasionally manifest in the Sea of Mists. It’s impossible for another to appear. Stop looking, and stop thinking about it."
+The old man gave her a look and arched up the corner of his brows. He replied helplessly, “You again. How many times have I told you that my great-grandfather wasn’t even born yet the last time a Primal Flame Crystal showed up? Besides, every mutated crystal like this is basically a miracle bestowed by the heavens themselves. There is just no way it would appear again. You should abandon searching and thinking about it altogether.”
 
-Hidden by the hood, her expression was invisible. She said nothing and turned to move toward her next target. At that moment, a casual voice laced with mockery rang out: "As expected of people from the backwaters; such narrow knowledge is truly a joke."
+Her veil hat made it impossible to see her expression. Without a word, she turned away and prepared to head toward her next objective. It was at this moment that a leisurely, provocative voice rang, “As expected of the civilians of a remote place. Their ignorance is such that I can laugh my teeth off.”
 
-The old man glared in anger, but when he saw the speaker’s attire, his expression shifted instantly. A nearly sycophantic smile appeared on his aged face. "So it is a distinguished guest from a God Kingdom. This old man is indeed shallow-sighted; I have made a fool of myself."
+The old man whipped his head around in anger, but his attitude did a one-eighty when he saw the jeerer’s clothes. He was even wearing a flattering smile on his wizened face as he said, “A distinguished guest from a Kingdom of God! This old man is indeed ignorant and shallow-minded. I apologize for making a fool of myself before you.”
 
-The man who had spoken was dressed in black, with narrow eyes and an arrogance he made no effort to hide. His head was held high, his eyes squinting as he looked down like a superior being gazing at a pathetic creature. "A Primordial Flame Crystal reappeared less than a month ago. Tsk... but then again, you lowly people from this wretched place are indeed unworthy of knowing such things."
+The jeerer was a man with long, narrow eyes and clad in black robes. His head was held high, and the arrogance on his face was bare for all to see. Looking the old man out of the corner of his eye like he was a superior looking down on a humble spirit, he said, “The Primal Flame Crystal reappeared less than a month ago. Tch... then again, you are a humble man from a humble place. It makes sense you wouldn’t know anything.”
 
-The gray-robed figure turned abruptly, her gaze locking onto the man in black. Despite the hood, the man felt as if a pair of eyes, sharp as blades, were piercing directly into his own. "Where did that Primordial Flame Crystal appear!?"
+The gray-robed person abruptly wheeled around and gave the man in black robes her full attention. Despite her veil hat, the man in black robes felt as if a pair of sharpened blades were stabbing into his eyeballs. She asked, “Where is that Primal Flame Crystal!?”
 
-Even though her heart was filled with boundless agitation, her voice remained sufficiently calm.
+Her voice sounded calm enough, even though her chest was filled with unbridled excitement.
 
-The sudden, piercing gaze and the blunt tone made the man in black narrow his eyes. He then let out a cold sneer. "Asking me? Who do you think you are!?"
+The sudden look and the stiff tone caused the man in black robes to narrow his eyes slightly. He then let out a cold chuckle and said, “You’re asking me? Who do you think you are!!”
 
-The gray-robed figure took a step forward... but her left sleeve was lightly caught by the old man.
+The gray-robed person stepped forward... but the old man grabbed her left sleeve gently.
 
-The old man shook his head slowly at her and whispered, "He is from the Owl Butterfly God Kingdom. You must not provoke him."
+He slowly shook his head at her and said in a quiet voice, “He’s a member of the Owl Butterfly Kingdom of God. You shouldn’t provoke him.”
 
-The gray-robed figure said no more. She turned and left, her figure quickly disappearing into the crowd, completely ignoring the "tch" sound the Owl Butterfly practitioner made behind her.
+The gray-robed person stopped talking and turned to leave. Her back quickly disappeared into the crowd. She paid no attention to the “tsk” from the Owl Butterfly profound practitioner at all.
 
-An hour later, that Owl Butterfly practitioner had already left Qianlang Realm and stepped into the border of the Sea of Mists. Just as his figure passed through a grove of low, black stone trees, a sudden chill struck his back, and a heavy pressure slammed into his rear. He spun around quickly, but before his darkness profound energy could be released, it was forcibly suppressed by a sudden explosion of terrifying, gargantuan strength. His body was pinned ruthlessly against the black stone behind him by a massive claw-shadow, leaving him unable to move no matter how much he struggled.
+Two hours later, the Owl Butterfly profound practitioner left the Thousand Tinkles Realm and entered the periphery of the Endless Fog. He had just passed through a short forest of black stones when suddenly, his back turned cold, and a heavy pressure flew straight toward the back of his heart. He spun around at high speed, but a terrible, explosive strength forced his dark, profound energy down before he could even unleash it. The next moment, the gigantic shadow of a claw slammed him into a black stone pillar, pinning him in place and immobilizing him no matter how hard he struggled.
 
-"Divine Extinction Realm³..." His pupils shrank as he let out a startled cry. At that moment, the figure of the gray-robed person appeared in his vision.
+“Divine Extinction Realm...” His pupils contracted slightly, and a cry of surprise escaped his lips.
 
-"It’s you..."
+It was only then that he saw that his attacker was the gray-robed person.
 
-The Owl Butterfly practitioner’s gaze was dark, yet he showed no fear. Instead, he let out a sinister, cold laugh. "My name is Pan Yexun, a Shadow Guard serving the Ninth Imperial Son of the Owl Butterfly God Kingdom. I am currently following the orders of my Exalted Divine Qi Heng to accompany His Highness the Imperial Son in searching for our former Godchild, Pan Buwang. You dare lay a hand on someone from the Owl Butterfly God Kingdom..."
+“It’s you...”
 
-The two words "God Kingdom" were enough to strike fear into the hearts of almost any practitioner beneath that status. However, the gray-robed figure remained unmoved, saying coldly, "Tell me, where did the Primordial Flame Crystal appear!"
+The Owl Butterfly profound practitioner’s eyes were dark and brooding, yet he showed no fear whatsoever. In fact, he cracked a cold, sinister smile and said, “My name is Pan Yexun. I am a Shadow Guard serving the ninth prince of the Owl Butterfly Kingdom of God. I am currently carrying out the order of the Pray Eternal Divine Regent and accompanying my prince in search of our former Owl Butterfly Divine Son, Pan Buwang. If you dare harm a member of the Owl Butterfly Kingdom of God...”
 
-Pan Yexun sneered again. "Fool, it seems you haven't realized your situation yet. So what if you are in the Divine Extinction Realm? You dare... Uwaaaaaa!!"
+“Kingdom of God”
 
-An incredibly shrill scream suddenly exploded above the border of the Sea of Mists. That pale claw-shadow ruthlessly pierced through his body, skewering his internal organs in an instant. Even his heart veins were punctured, dealing a permanent wound that could never be healed.
+These three words could have scared most profound practitioners not of a Kingdom of God into submission, but the gray-robed person wasn’t moved in the slightest. She ordered in a cold voice, “Where is that Primal Flame Crystal?”
 
-Into his ear drifted the gray-robed figure’s extremely cold voice: "You have one last chance... That Primordial Flame Crystal—where is it now!"
+Pan Yexun sneered again, “Fool. You still don’t understand your situation, it seems. So what if you’re Divine Extinction Realm? If you dare—ARGH!!”
 
-A terror he had never felt before, carrying a bone-chilling cold, surged through Pan Yexun’s entire body. His pupils dilated until they nearly burst; all his previous confidence and arrogance had transformed into ultimate dread. He could never have dreamed that after he invoked the name of the "Owl Butterfly God Kingdom," the opponent would not only show no hesitation but would drive him directly to the brink of death.
+A bloodcurdling cry abruptly exploded across the sky of the periphery of the Endless Fog. The pale white claw had pierced right through Pan Yexun’s flesh, internal organs, and even his life vein, dealing irreversible and permanent damage.
 
-He no longer dared to rely on his God Kingdom background, nor did he even dare to beg for mercy. A trembling voice escaped his lips: "It’s... it’s the Pure Land. The Abyssal Son⁴ of the Dreamweaving God Kingdom... offered a Primordial Flame Crystal to a Spirit Immortal Divine Official..."
+Once more, the gray-robed person’s icy voice entered his ears. “You have one last chance... where is that Primal Flame Crystal?”
 
-The gray-robed figure, who had been extremely indifferent as if devoid of emotion, suddenly felt her aura surge violently upon hearing the title "Abyssal Son." She closed the distance, and the claw-shadow suppressing Pan Yexun glowed with a slightly uncontrolled white light, drawing another round of screams from him. "You said the Abyssal Son of the Dreamweaving God Kingdom... that... Yun Che!?"
+Unprecedented, bone-deep fear slithered throughout Pan Yexun’s body. His pupils dilated to the point of breaking before his earlier surety and arrogance gave way to absolute fear. He never dreamed that revealing the name of his Kingdom of God would not only fail to intimidate his attacker in the slightest, but also drive him to the cliff edge of death.
 
-"Yes, yes!" Pan Yexun answered in a panicked rush. "The Abyssal Son’s name is Meng Jianyuan, but he is also called Yun Che. This matter was learned by His Highness the Imperial Son when he attended the Meeting of the Pure Land. Everyone from the God Kingdoms who was present knows... it is absolutely true, I have hidden nothing!!"
+Not daring to proclaim his background or even beg for mercy, he answered through chattering teeth, “It’s... It’s the Pure Land. Divine Son Yuan of the Dreamweaver Kingdom of God... gave a Primal Flame Crystal to High Priest Ling Xian as a gift...”
 
-The gray-robed figure seemed to freeze there, silent and motionless for a long time.
+The gray-robed man had been acting indifferent and even emotionless this whole time. When she heard of the name “Divine Son Yuan,” though, she abruptly lost control of her aura and moved closer. Even the claw she was using to suppress Pan Yexun was flickering slightly out of control and causing the man to let out another bloodcurdling scream. “Are you talking about Divine Son Yuan of the Dreamweaver Kingdom of God, the one they call... Yun Che!?”
 
-"I... I have told you everything. Can you... can you let me go first? I promise... I promise I won't tell anyone about you... I don't even know what you look like..." His lips pulled back into a strained, fawning, and harmless smile. But in the next instant...
+“Yes! Yes!”
 
-Bang!
+Pan Yexun hurriedly replied, “Divine Son Yuan’s true name is Meng Jianyuan, but he calls himself Yun Che. My prince learned about this while participating in the Pure Land Meet. This news is known to everyone attending the gathering at the time... it is one hundred percent the truth! I promise I did not conceal anything!!”
 
-The claw-shadow exploded—it was revealed to be a pale dragon claw. Without hesitation or mercy, under the pitiless explosion of Divine Extinction power, Pan Yexun’s body was instantly shattered by the dragon claw’s shadow. He did not even have time to let out a final scream.
+The gray-robed person suddenly froze in place. She would not move or speak for a very, very long time.
 
-Without sparing him another glance, she turned indifferently and walked away. Her gray, lonely silhouette soon vanished into the vast Abyssal Mist... traveling in the direction of the Dreamweaving God Kingdom.
+“I... I’ve told you everything, so... can you let me go now? I promise... I promise I won’t tell anyone about this... I don’t even know what you look like...”
 
-In the mid-section of the Sea of Mists.
+Pan Yexun cracked a strained smile, trying to look meek and harmless, but the next instant...
 
-Yun Che’s hands moved in a dance, the scarlet flames in his palms as soft as flowing dawn light.
+Bang! The claw shadow exploded, and an actual draconic claw appeared. There was neither hesitation nor pity. The merciless power of the Divine Extinction Realm instantly ripped Pan Yexun’s body to pieces. He never even managed to let out a death scream.
 
-Guided by his profound energy and divine soul, the flames vibrated slightly, emitting a hum that was sometimes long and drawn out, sometimes fine and rapid. Wisps of scarlet sound waves slowly rippled out from within the fire. At first, the tune was low and distant, like an ancient wind sweeping across a silent land, carrying a hint of desolation. Gradually, the melody became gentle, like warm sunlight melting ice and snow. Wherever the sound waves reached, the surrounding Abyssal Mist seemed to lose its chill, becoming dyed with a layer of warm color.
+She did not give the remains a second glance. She turned around and quickly disappeared into the abyssal fog alone.
 
-Yun Che flipped his palms, and the tone changed abruptly. A clear phoenix cry merged into the music, and the pitch soared. Yet, it was not sharp or soul-piercing; instead, it carried a compassion that seemed to embrace all things, as if it could turn all the pain and resentment in the world into curling wisps of smoke, scattering with the warm wind.
+The direction she was headed was where the Dreamweaver Kingdom of God lay.
 
-Li Suo let out a light murmur: "Celestial Feather Compassionate Navigation Melody⁵... the Vermilion Bird’s sound from my memory. A holy sound played by holy flames; it incinerates filth for the enemy and drives away pain and sorrow for oneself."
+In the middle section of the Endless Fog, Yun Che was waving his hand. Crimson flame was flowing in his palm as gently as flowing iridescence.
 
-She listened quietly, her soul finding a rare moment of rest. Vaguely, those vanished, blank, and blurred fragments of memory began to stir with slight ripples in her soul amidst the gentle Vermilion Bird sound.
+Guided by his profound energy and soul, the flame shook slightly and hummed, sometimes deep and resonant, sometimes high-pitched and fragmented. Crimson sound waves slowly rippled outward from within the flames.
 
-Yun Che’s mind was completely immersed in the Vermilion Bird melody he was playing. The Vermilion Bird flames at his fingertips rose and fell with the tune, transforming into the shapes of feathers. Before he knew it, they had covered a large area of the surrounding space. The flaming feathers then condensed into small bird silhouettes. Sound waves and flame power intertwined, weaving a dreamlike, warm landscape around him. Endless thoughts echoed in his soul-sea, but every wisp of hesitation, heaviness, or hostility was smoothed away bit by bit by the sound.
+At the beginning, the melody was low and distant like ancient winds sweeping across a still land, carrying a hint of desolation.
 
-When he opened his eyes, the world around him was filled with drifting feathers and flying bird shadows.
+Gradually, the tune grew gentler, like warm sunlight melting ice and snow. Wherever the sound waves reached, the abyssal fog seemed to shed its chill and gain a hue of warmth instead.
 
-He extinguished the Vermilion Bird flame in his palm and smiled faintly. "If I completely refine all nine drops of Vermilion Bird Origin Blood, the concentration of my Vermilion Bird bloodline will surely far exceed that of the Phoenix and Golden Crow blood. However, this Vermilion Bird flame actually has the lowest dependency on the bloodline; what it needs most is a powerful and compassionate divine soul."
+When Yun Che flipped his palm, the tone of the melody abruptly shifted. A clear phoenix cry merged into the melody and lifted its pitch sharply. However, it neither sounded shrill nor pierced the soul at all. Instead, it carried a compassion that embraced all things. It felt like it could transform every pain and resentment in the world into harmless wisps of smoke and carry them away in a warm breeze.
 
-"I could consider merging it with light profound energy."
+Li Suo let out a soft murmur, “Heavenly Plume Compassionate Voyage Melody... in my memory, the sacred melody played by the Vermillion Bird’s voice and ignited by its sacred flames could be used to burn all evil and filth into ash, or soothe one’s pains and sorrows completely.”
 
-Li Suo said, "The Vermilion Bird’s flames and light profound energy do indeed have many similarities; for instance, both are the bane of darkness profound energy. You possess the Eternal Night of Darkness, yet you can burn the flames of the Vermilion Bird... The Ancestor’s Divine Body bestowed by the Ancestor God is truly beyond the comprehension of ordinary logic."
+After that, she listened to the music in silence, feeling a rare sense of peace in her soul. Vaguely, those vanished, blank, or blurry memory fragments began to ripple minutely amid the warm, gentle voice of the Vermillion Bird.
 
-"In the future, if you have leisure time, you can play the Vermilion Bird Requiem for me more often."
+Right now, Yun Che’s mind was wholly absorbed in the Vermillion Bird music he was playing. The Vermillion Bird Flame on his fingertips was fluctuating based on the tune and taking the shapes of countless plumes. Before he knew it, the surrounding space was covered in them.
 
-"Hmm?"
+The fiery plumes then transformed into many small and delicate-looking birds. Sound waves and fire merged to weave a dream so warm it felt like a fantasy.
 
-Yun Che looked surprised. For Li Suo to actively make a request was exceedingly rare.
+Countless thoughts were echoing inside his soul sea, but the Vermillion Bird’s melody gradually soothed every ripple of hesitation, heaviness, and malevolence.
 
-"The Vermilion Bird’s sound seems to help awaken my dormant memories... or perhaps it is just an illusion born of a peaceful mind."
+When he opened his eyes again, the surrounding world was filled with plumes and dancing birds.
 
-"I see..."
+He extinguished the Vermillion Bird Flame in his palm and wore a slight smile on his face. “Nine drops of Vermilion Bird origin blood. If I refine them all, the richness of my Vermillion Bird bloodline will far surpass my Phoenix blood and Golden Crow blood. However, the Vermillion Bird Flame’s dependence on bloodline is actually the weakest of them all. What it most needs is a powerful and merciful soul.”
 
-Yun Che’s heart stirred. As the former Creation God of Life, if Li Suo’s memories could be recovered, the help she could provide would be immeasurable.
+“I could consider merging it with my light profound energy.”
 
-By now, he had stayed in the Sea of Mists for a month and a half. By the standards of common knowledge, the time taken to initially refine a portion of the Vermilion Bird’s divine blood was sufficient. Stepping back into the Heaven and Earth Array Core, a flash of red light signaled his departure from the Sea of Mists and his return to the Dreamweaving God Kingdom.
+Li Suo said, “The Vermillion Bird Flame and light profound energy definitely share many similarities. For example, they are both the bane of dark, profound energy. You, however, are capable of igniting the Vermillion Bird Flame despite bearing the Eternal Calamity of Darkness... the Ancestral Holy Body bestowed by the Ancestral God truly is extraordinary.”
 
-Just as he stepped out of the cultivation space’s barrier, Meng Zhiyuan’s voice, half-joyful and half-anxious, rang in his ears: "Young Master, you are finally out. During this time, several people have come looking for you."
+“If you have the time, I implore you to play the Vermilion Bird's Spirit Soothing Hymn for me.”
 
-"Oh? Looking for me?" Yun Che looked surprised. Meng Kongchan and Meng Jianxi both knew he was refining divine blood; logically, they shouldn't have let anyone disturb him.
+Yun Che looked surprised. It was extremely rare for Li Suo to make any sort of request of her own accord.
 
-Meng Zhiyuan said, "There were three people in total. One was the Divine Son of the Senluo God Kingdom, Dian Jiuzhi."
+“The Vermillion Bird’s melody seems to aid in awakening my slumbering memories... or maybe its soothing effects are deluding me into thinking so.”
 
-Yun Che: "Huh??"
+“I see...”
 
-"There was also a strange person who hid his face and claimed to be your Elder Brother. He appeared suddenly like a phantom, and after learning you were in seclusion, he vanished just as suddenly... Even stranger, not a single guard noticed him, and even Meng Shouyuan didn't detect any movement."
+Yun Che’s heart stirred a little. Li Suo was the former Creation Goddess of Life. If she could regain her memories, the help she could offer him would be immeasurable.
 
-Yun Che: "Uh... What!?"
+By now, he had resided in the Endless Fog for one and a half months. By ordinary standards, this was enough time for the initial refinement of the Vermillion Bird’s divine blood. So, he stepped back into the World Formation Core. A crimson flash later, he had left the Endless Fog and returned to the Dreamweaver Kingdom of God.
 
-"And there is one more person who is even more special."
+He had just stepped out of his cultivation space barrier when Meng Zhiyuan’s overjoyed yet urgent voice hit him, “You’re finally out, young master. A lot of people were looking to meet you while you were gone.”
 
-Looking at the changes in Yun Che’s expression with some curiosity, Meng Zhiyuan continued, "She was originally unable to enter the Dreamweaving God Kingdom, but after being driven away time and again, she still refused to leave the realm gate, stubbornly insisting on seeing you."
+“Hmm? Looking to meet me?” Yun Che looked astonished. Meng Kongchan and Meng Jianxi knew he was refining the Vermillion Bird divine blood. Logically speaking, no one should bother him at all.
 
-"The gate guards intended to arrest her, but she was spotted by Divine Son Jianxi. He seemed to sense something unusual about her identity, so he sent word for me to inform you the moment you came out."
+Meng Zhiyuan replied, “There are three. The first visitor is the Boundless Divine Son, Dian Jiuzhi.”
 
-Yun Che’s brows knitted tightly as he quickly organized his thoughts. "Who is this person?"
+Yun Che: “Hmm??”
 
-"Divine Son Jianxi said she calls herself Long Jiang."
+“The second visitor is a strange man covering his face. He called himself your big brother. He appeared like a phantom and disappeared like one after learning that you are in secluded cultivation... even stranger, not a single guard noticed his presence, including Meng Shouyuan.”
 
-"...!"
+Yun Che: “Hmm... Hmm!?”
 
-Yun Che snapped his head up, his eyes shaking with shock.
+“The third visitor is even more special.”
 
+Watching Yun Che’s face curiously, Meng Zhiyuan continued, “Originally, she wasn’t able to enter the Dreamweaver Kingdom of God. However, she refused to leave despite being kicked out again and again. Even now, she’s standing at the border gate and refusing to leave. She kept requesting to meet you.”
+
+“The border gate guards would have detained her, but Divine Son Xi happened to be passing through the area and saw this. He seemed to realize that her identity was special, so he dispatched someone to carry a message. He wanted me to notify you about this as soon as you emerge from your secluded cultivation.”
+
+Yun Che frowned deeply while swiftly sorting out his thoughts, “And who is this person?”
+
+“Divine Son Xi said that she calls herself Long Jiang.”
+
+Yun Che abruptly looked up, the light in his eyes shaking violently.

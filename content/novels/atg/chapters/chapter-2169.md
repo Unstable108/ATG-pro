@@ -1,229 +1,207 @@
 ---
 chapterNumber: 2169
-title: ""
-publishedAt: "2025-12-12"
+title: "Lone Cloud"
+publishedAt: "2026-05-30"
 ---
 
-"Lass Caili has arrived. Then this boy must be Yun Che?"
+“You’ve come, lass. I assume that the boy is Yun Che then.”
 
-An old, placid voice drifted over. Yun Che followed the sound and saw a serene figure seated atop a high platform constructed from exotic wood and abyssal crystals. He wore a simple grey robe, his frame tall and slender, his hair and beard half-white. His features were touched by age but could still be described as handsome. His downward gaze was gentle, yet his eyes held no warmth. His demeanor carried no deliberate majesty, yet Yun Che felt a faint sense of pressure that seeped straight into his soul. Moreover, this formless spiritual pressure felt deeply familiar.
+A calm, unruffled, elderly voice drifted over, and Yun Che followed it. He immediately saw a figure seated in serene meditation atop a tall platform of exotic woods and abyssal crystals. He was dressed in plain gray robes. He was tall and slender, and his hair and beard were streaked with silver. Although his features bore some traces of age, he could still be described as “handsome”.
 
-Yun Che's gaze narrowed slightly. This man was one of the four Divine Officers of the Pure Land, the Myriad Dao Divine Officer who managed its resources. To guard the Myriad Dao Divine Pavilion, with its boundless aura and astonishing reserves, one would undoubtedly have to be exceedingly strict and cautious.
+His downward gaze was gentle, but there was no warmth in its depths whatsoever. His demeanor carried no deliberate air of authority, yet Yun Che felt a subtle, oppressive pressure seeping deep into his soul. More importantly, the intangible spiritual pressure was surprisingly familiar to him.
 
-Yun Che bowed respectfully, neither servile nor arrogant. "Junior Yun Che of the Dreamweaver Divine Nation pays his respects to the Myriad Dao Divine Officer."
+Yun Che’s gaze sharpened slightly... This man was none other than High Priest Wan Dao, one of the Four High Priests of the Pure Land and the one who oversaw all of its resources.
 
-"Mm."
+Considering the sheer amount of energy and treasures that were stored in the Wan Dao Divine Pavilion, he had no doubt that the guardian was extremely strict and cautious.
 
-The Myriad Dao Divine Officer gave a faint nod, a smile on his face that did not reach his eyes. "Indeed, your looks and bearing are both extraordinary. For Caili to have given her heart to you... you've certainly gotten the better end of the deal, boy."
+Yun Che bowed respectfully, his demeanor neither humble nor arrogant. “Junior Yun Che of Dreamweaver greets you, High Priest, Wan Dao.”
 
-Yun Che: "?"
+High Priest Wan Dao gave him a slight nod and cracked a smile. However, just like his gentle gaze earlier, there wasn’t a hint of a smile in his eyes whatsoever. “As expected, both your looks and bearing are extraordinary. Still, for Caili to fall for you—you got a bargain, you little rascal.”
 
-The words sat uncomfortably with Yun Che, but given the other party's status, he showed no sign of it.
+Yun Che: “?”
 
-"Grandpa Wandao!"
+Yun Che did not like what the old man was saying, but he was a High Priest. So, he kept his reactions in check.
 
-Hua Caili looked up at him, her smile radiant. "What ancient tome are you studying today?"
+“Grandpa Wan Dao!”
 
-"Hehe."
+Hua Caili looked up at the old man and asked smilingly, “What ancient scripture are you researching today?”
 
-The Myriad Dao Divine Officer chuckled leisurely, speaking in a casual tone. "No matter how ancient the tome, it cannot be older than your Grandpa Wandao. These are just some mortal curiosities with occasional merits. For instance, where an unusual abyssal crystal was unearthed, or where a beautiful young lady has blossomed, tsk."
+High Priest Wan Dao carelessly answered with a leisurely smile on his face, “Not even the oldest book is older than your Grandpa Wan Dao. They’re all nothing but mundane tales with the occasional redeeming qualities such as where an exotic abyssal crystal can be unearthed, or where a beauty has blossomed. Tsk.”
 
-Hua Caili pursed her lips in a teasing manner. "I heard from Uncle Liuxiao that you've probably touched nearly a million women in your lifetime. You're an old grandpa now, yet you still haven't shed these strange inclinations."
+Hua Caili pursed her lips and teased him, “Uncle Liu Xiao told me that the number of women you made contact with is approaching a million. I can’t believe that you still haven’t shaken off your weird thoughts even after you’ve become an old man.”
 
-Yun Che: "..."
+Yun Che: “......”
 
-The Myriad Dao Divine Officer's eyes narrowed slightly. "I savor all of the myriad daos; how could women be excluded? However, this World of Abyssal Dust is far too sullied, and true spiritual charm is hard to find. What's a million of them? Compared to you and your aunt, they are but a pile of barely palatable mortal flesh. And all the most exquisite flesh in history has come from the Divine Nations. A pity, what a pity."
+High Priest Wan Dao narrowed his eyes slightly. “I, Wan Dao, savor everything, so how could I possibly miss out on womenfolk? Alas, this abyssal world is too heavily contaminated, and women with a true air of spirituality are difficult to find. So what if I have savored a million? Compared to you and your aunt, they are nothing but a pile of barely edible mortal flesh. Worse, every gorgeous flesh that has ever appeared in the history of the Abyss originates from the Kingdoms of God. It is truly a shame.”
 
-An almost imperceptible frown creased Yun Che's brow before smoothing out instantly.
+Yun Che’s eyebrows furrowed imperceptibly before returning to normal the next instant.
 
-"There you go again with your strange talk," Hua Caili muttered under her breath.
+“There you go with your weird talks again,” Hua Caili mumbled under her breath.
 
-The Myriad Dao Divine Officer's gaze returned to the scroll before him, his voice utterly casual. "I have received a sound transmission from the Abyssal Emperor. You may choose any one of the profound artifacts¹ here."
+High Priest Wan Dao’s gaze returned to his book, and he added in a casual voice, “I have received the Abyssal Monarch’s sound transmission. You may pick any one profound artifact that exists in this place.”
 
-As his words fell, the world before Yun Che's eyes suddenly flipped. When space stabilized again, the vast, majestic scene from before had been replaced by a heart-stopping, soul-shaking sharpness and baleful aura. It was as if countless ferocious beasts, dormant for millennia, had suddenly awakened. Endless killing intent and baleful energy erupted from every corner of the world, instantly transforming the entire space into a terrifying domain of slaughter woven from razor-sharp edges.
+As soon as he finished, the world before Yun Che suddenly flipped upside down. When space stood still once more, the vastness from before had transformed into intimidating, soul-shaking sharpness and vicious intent.
 
-Profound artifacts filled his vision, stretching to the horizon.
+It was like countless vicious beasts that had been slumbering since time immemorial had suddenly woken up at the same time. An endless amount of killing intent and vicious energies erupted from every corner of the world and transformed the entire space into a terrifying domain of murder and clashing wills. Wherever one looked, profound artifacts filled the vision to the horizon.
 
-Though unsheathed and their heavenly might unreleased, they already caused the surrounding air to crackle and pop, and even space itself rippled with fine fissures. Endless baleful energy converged into rivers, flowing slowly throughout the divine pavilion.
+The weapons had not left their scabbards or unleashed their devastating power, but the surrounding air was audibly cut into countless pieces. Space itself was covered in dense cracks, and the seemingly endless amount of vicious energies had gathered into rivers that slowly flowed across the space of the divine pavilion.
 
-As if just realizing something, Yun Che spoke with a mix of surprise and gratitude, "So... Caili, you used the Abyssal Emperor's boon to choose a new weapon for me?"
+It was only now that Yun Che seemed to realize something and exclaimed with both gratitude and surprise, “Did... Did you use the Abyssal Monarch’s favor to choose a new weapon for me?”
 
-"Mhm!"
+Hua Caili broke into a smile, her eyes sparkling like scattered diamonds and reflecting Yun Che’s figure with each ray, “Losing your Cloud Glass Sword is like losing a connection to your late master. Although... although I dare not compare myself to your master, I still wish to—”
 
-Hua Caili's smile bloomed, her eyes shimmering like crushed diamonds, their light filled with Yun Che's reflection. "Without Master's Yunli Sword, Elder Brother Yun is missing a part of Master's companionship. Although... although I don't dare compare myself to your master, I want..."
+Yun Che suddenly reached out and tapped her on her soft, dainty lips, cutting her off. “You’re talking nonsense again. My master may have passed away, but he forever lives in my heart. As for you, you’re not only in my heart, but right by my side as well. There has never been a comparison between you two, and there never will.”
 
-Yun Che suddenly reached out, his fingertip gently touching her soft lips, silencing the rest of her words. "Silly girl. Master has passed, but she will forever be in my heart. And you are not only in my heart but also by my side. There has never been any comparison to be made."
+The light in Hua Caili’s eyes stilled a little. Then, she broke into a full smile that was brighter and more beautiful than even the purest skylight of the dome of the Pure Land.
 
-Hua Caili's gaze froze for a moment, and then her smile blossomed completely, so pure and bright it outshone the clearest celestial light in the Pure Land's dome.
+High up at his platform, High Priest Wan Dao scoffed in a voice only he could hear, “Cheating wheedling.”
 
-On the distant high platform, the Myriad Dao Divine Officer let out a sneer only he could hear. "Sweet nothings."
+Hua Caili pulled Yun Che’s hand and carefully stepped forward. “Uncle Abyssal Monarch said that you may pick anything you want, even if it’s something Grandpa Wan Dao is reluctant to part with. However, the vicious energies in the artifact pavilion are extremely terrible and capable of corrupting the heart and soul, so you must shield yourself with profound energy before you step inside.”
 
-Hua Caili took Yun Che's hand and stepped forward with great care. "Uncle Abyssal Emperor said that as long as it's something you like, you can take it, no matter which one it is. Even if Grandpa Wandao is reluctant, he can't stop you. But, the Artifact Pavilion is filled with a terrifying baleful aura that can invade the mind and disturb the soul. You must isolate yourself with profound energy before stepping inside."
+As soon as she finished, her eyes flickered with sword beams. A delicate domain of sword energy immediately appeared around her.
 
-As she spoke, a faint sword light flashed in her eyes, and she erected an exquisite domain of sword energy around herself.
+Yun Che neither changed his expression nor made a move, however. Right before he would enter the artifact pavilion, High Priest Wan Dao’s enigmatic voice rang beside his ears, “Boy, you should shield yourself with profound energy. The vicious energies of this place are absolutely not something a junior like you can endure.”
 
-Yun Che's expression, however, remained unchanged. He made no move. Just as he was about to step into the Artifact Pavilion, the Myriad Dao Divine Officer's emotionless voice sounded in his ear, "Boy, defend yourself with profound energy. The baleful aura here is not something a junior like you can withstand."
+“Thank you for the reminder, senior,” Yun Che replied politely, but he still did not release an ounce of profound energy. Instead, he strode right through the entrance and into the terrifying domain of vicious energies woven by countless artifacts.
 
-"Thank you for the reminder, Senior." Yun Che replied courteously but still did not release the slightest bit of profound energy. Instead, he strode forward directly into the terrifying domain of balefulness woven by the ten thousand artifacts before him.
+Hua Caili subconsciously reached out to grab him, but she withdrew her hand about halfway through the motion. While it was true that the vicious energies of these powerful artifacts weren’t something an ordinary person could endure, her man was anything but ordinary.
 
-Hua Caili subconsciously reached out to pull him back, but her hand retracted midway. The vicious balefulness of the myriad artifacts here was indeed beyond what an ordinary person could bear, but how could her man be compared to an ordinary person?
+From the very first step, the already choking amount of vicious energies instantly became as dense as lead. Walking inside the domain felt like carrying ten thousand mountains on his shoulders, making it hard to breathe for a time. At the same time, an endless amount of yin energy and vicious energy pierced through one’s profound energy like needles and seeped straight into the flesh, inflicting a chill that seemed to pervade the bones and ignite a fiery pain that burned the very marrow. As if that wasn’t enough, it felt like two energies on opposite ends of a spectrum were viciously fighting against each other inside his body.
 
-With a single step forward, the already dense baleful aura suddenly congealed like lead. Walking into it was like having ten thousand mountains pressing down on him, making it difficult to breathe. Countless sinister energies pierced through his profound defenses like needles, penetrating his flesh and bringing a bone-deep chill, which then ignited a violent, searing pain deep within his marrow, as if two ultimate forces were viciously battling and tearing each other apart inside his body.
+Still, the physical oppression could not compare to the flaying of the soul. All five of his senses were warped instantly. His vision grew dark and blurry, his nose was filled with a sickly sweetness and the stench of decay that smelled like rust. It was as if he wasn’t inhaling air, but the deathly vapor of countless dead bones.
 
-Compared to the physical pressure, the assault on his soul was even more terrifying. His five senses were instantly distorted. His vision grew dim and hazy, and the air smelled of metallic rust and decay, as if he were inhaling not air, but the deathly miasma steamed from millions of withered bones.
+Not only that, the darkness resting at the bottom of his heart was being drawn out at a maddening rate. Insane thoughts about murder and destruction automatically and unconsciously surfaced in his mind. As if countless vicious souls possessed him, his reason was slowly being broken apart by the onslaught of violent thoughts.
 
-The darkness in his heart was wildly stirred up, and crazed thoughts of slaughter and destruction surfaced uncontrollably. It was as if his body had been possessed by countless vicious souls, his sanity gradually nearing collapse amidst the violence. This was the sinister balefulness and killing intent accumulated by countless profound artifacts over millions of years. To withstand it, one relied less on cultivation and more on experience... or rather, on the frenzied malevolence and blood of living beings that one's heart had experienced and body had been stained with!
+The vicious energies were really the murderous aura and dark energies that the profound artifacts had accumulated across millions of years. The best way to shield oneself from it wasn’t cultivation, but experience... or more accurately, the amount of madness and blood the person was submerged in!
 
-One step... two steps... ten steps...
+One step... two steps... ten steps... Yun Che slowly walked around the artifact pavilion while checking out one profound artifact after another. His complexion was unchanged, his breathing calm, and his stroll so relaxed you would think he was checking out art pieces rather than deadly artifacts.
 
-Yun Che walked slowly through the domain, his gaze sweeping over one profound artifact after another. His face was impassive, his breathing even. He strolled as if in a courtyard, admiring elegant objects.
+“Hmm?” High Priest Wan Dao slowly turned his head. For the first time, his gaze focused on Yun Che.
 
-"Hm?" The Myriad Dao Divine Officer slowly turned his head, his gaze focusing on Yun Che for the first time.
+“Are you uncomfortable anywhere, Big Brother Yun?” Hua Caili stood by his side, her eyes shining with three parts concern and seven parts admiration.
 
-"Elder Brother Yun, are you feeling uncomfortable anywhere?" Hua Caili followed by his side, her eyes holding three parts concern and seven parts wonder.
+However, Yun Che wore a light smile on his face and said calmly, “No matter how fierce and intense the aura of a profound artifact is, it is ultimately just an inanimate object with no master. A profound artifact only comes to life when wielded by its owner. If you give an inch, then it will take a mile. But if you treat it like the inanimate object it is and scorn it, then that is all it will be. With that in mind, why would I be afraid of an inanimate object?”
 
-Yun Che, however, smiled faintly and said calmly, "No matter how strong or fierce the aura of a profound artifact, it is ultimately a masterless, dead object. Only when it meets its master does it gain life. If you revere it, it will push its advantage. If you view it with contempt as a dead thing, then it is merely a dead thing. What right does it have to inspire fear?"
+Hua Caili did not seem to fully understand Yun Che’s explanation, but the starlight of admiration rose from the depths of her eyes regardless. “As expected of Big Brother Yun! Now that you mention it... the vicious energies of this place really don’t look as scary as before.”
 
-"Oh..."
+Suddenly, Yun Che stopped in his tracks and looked downward. His gaze quickly settled on a faint gray shadow in the far corner. It was a dull, ash-gray colored greatsword that looked simple and unadorned.
 
-Hua Caili seemed to only half-understand, but starlight of adoration once again lit up her eyes. "As expected of Elder Brother Yun. Now that you put it that way... the baleful aura here really doesn't seem so scary anymore."
+Any weapon that could enter this place had to be extraordinary. Take the artifact Mo Beichen had used to drive him into a corner, the “Eternal Boulder,” for example. It was highly likely to have come from this pavilion. Every single artifact in this place was unleashing its full presence and divine glow. It was to show off their power, reject an incompatible lifeform, or attract a desired master.
 
-Yun Che's steps suddenly halted. His gaze tilted downward, landing on a faint grey shadow in a bottom corner.
+All of them, except the ash-gray greatsword. Not only was it emitting zero light or aura, but it had hidden itself in the most cramped, dark corner of the pavilion. As a result, its existence was nearly imperceptible amidst the boundless, overwhelming aura of the surrounding artifacts.
 
-It was a greatsword, entirely grayish-white and unadorned. Any artifact that could exist here was extraordinary.
+Its existence was clearly incompatible with the surrounding world. There was only lightlessness and endless loneliness.
 
-The "Eternal Rock" on Mo Beichen, which had once pushed him into a desperate situation, had likely come from this place. Their auras and divine glimmers were all incredibly potent, either to display their might, repel living beings, or attract a master.
+Yun Che reached out and grabbed the ash-gray handle. A thick, dense layer of ancient dust immediately stained his palm. When he clenched his fingers and pulled... he discovered that the gray sword hadn’t so much as budged an inch.
 
-But this grayish-white greatsword released not a shred of sword light or sword might. Instead, it hid itself in the most cramped and lightless corner, so much so that its existence was barely noticeable amidst the boundless power of the surrounding artifacts. Its presence was completely at odds with the world around it, possessing only a lightless, endless solitude.
+Hua Caili’s lips parted as she exclaimed in surprise, “Big Brother Yun, are you...”
 
-Yun Che reached out and grasped the grayish-white hilt, his palm coated with a thick layer of ancient dust. He tightened his five fingers and lifted his arm... but the grey sword did not budge in the slightest.
+Yun Che’s profound energy erupted as he unlocked the Heretic God Gates all the way to Hell Monarch instantly. There was a loud bang, and the heavy gray sword was slowly but surely dragged off the floor. When he propped up the greatsword in front of him, the metallic clang it elicited when it hit the floor erupted like a thunderclap and caused Hua Caili to cover up her ears timidly.
 
-"Eh?"
+Yun Che clenched his fingers once more and slowly crossed the blade in front of his chest. Then, he looked at High Priest Wan Dao and asked loudly, “If I may ask, what is the name of this sword, senior Wan Dao?”
 
-Hua Caili's lips parted in surprise. "Elder Brother Yun, you're not going to..."
+High Priest Wan Dao replied indifferently, “This sword was not forged in the Pure Land, nor was it obtained from the Forbidden Zone of Slumbering Gods in ancient times. Its origins are unknown. Beyond its extraordinary weight, it neither collects divine aura nor births sword spirits. As a result, no one pays it any attention, and it never got a name for the same reason. Had it not been long forgotten, it would have been reduced to scrap for use in refining weapons long ago.”
 
-Voom—
+Clearly, if Yun Che hadn’t picked up the sword today, High Priest Wan Dao himself would have forgotten that the spiritless, nameless sword existed in his pavilion.
 
-Profound energy erupted from Yun Che's body as he activated the Heretic God's Yama Emperor gate. With a sudden explosive sound, he slowly dragged the heavy grey sword up from the ground and stood it before him, creating a thunderous metallic clang that made a slightly startled Hua Caili subconsciously cover her ears.
+Usually, his words would have convinced anyone to discard the greatsword without hesitation. However, Yun Che maintained his grip and turned his back on the artifact pavilion, declaring, “I have decided. This will be my new sword.”
 
-He tightened his grip again, slowly bringing the sword horizontal before his chest. Then, he turned his gaze to the Myriad Dao Divine Officer and said in a clear voice, "May I ask Senior Wandao, what is this sword's name?"
+“......” High Priest Wan Dao narrowed his eyes a little. It was impossible to say what he was thinking.
 
-The Myriad Dao Divine Officer replied faintly, "This sword was not forged in the Pure Land. It was likely obtained from the God-Sleep Forbidden Domain in a distant era. Its origins are unknown. Besides being unusually heavy, it contains no divine aura and has not birthed a sword spirit. No one has ever paid it any mind, so it has never been named. If it hadn't been long forgotten, it would have been melted down into raw material for forging."
+Hua Caili was surprised, but she believed in Yun Che’s choice and said happily, “Okay! Since it doesn’t have a name yet, you should give it one, Big Brother Yun.”
 
-Evidently, if Yun Che hadn't picked it up today, the Myriad Dao Divine Officer would have even forgotten that such a spiritless, nameless sword still remained here.
+Staring at its ash-gray blade, Yun Che slowly said, “Lone... Cloud.”
 
-These words would have been enough for anyone else who entered this place to discard it without a second thought. But Yun Che held the sword, turned around, and didn't spare the endless Artifact Pavilion another glance. "In that case, this is the one."
+“......” Li Suo looked like she wanted to say something.
 
-"..." The Myriad Dao Divine Officer narrowed his eyes, his expression inscrutable.
+The ash-gray blade caught fire abruptly. The heat waves it generated instantly dispelled the surrounding killing intent and vicious energies, causing countless profound artifacts to vibrate in response.
 
-Though surprised, Hua Caili readily trusted Yun Che's choice. "Alright. Since it doesn't have a name yet, Elder Brother Yun can give it one."
+“From today onward, you are my companion. You will no longer be a nameless, lonely sword who was forgotten by the world!”
 
-Yun Che looked at its grayish-white blade and slowly uttered two words: "Lone... Cloud."
+The blazing sword hummed in his grip, and its long slumbering body unleashed heavy waves of power. It was as if the spiritless greatsword was doing its utmost to respond to his call.
 
-"..." Li Suo looked as if she wanted to speak but stopped herself.
+“Lone... Cloud...”
 
-BOOM!!
+Hua Caili repeated the name before tilting her head slightly. She asked seriously, “Of course, a sword you name should have the word ‘Cloud’ in it, but why did you name it Lone Cloud? I will never let you be alone, Big Brother Yun.”
 
-Fierce flames ignited on the sword's body. A surging heatwave instantly dispersed the surrounding killing intent and baleful aura, causing countless profound artifacts to hum in response.
+Yun Che lowered his gaze slightly and met the girl’s pure, untainted eyes. “‘Lone’ does not necessarily mean lonely. It could also mean the one and only!!”
 
-"From this day forward, you will be my companion, no longer a nameless, lonely sword forgotten in this place!"
+He then moved his face next to Hua Caili’s ear and whispered, “Even your Uncle Abyssal Monarch addresses himself as ‘this lone one’, doesn’t he?”
 
-The flaming sword body trembled and buzzed. The long-silent blade released a heavy might, as if this spiritless greatsword was trying its utmost to respond to him.
+Hua Caili immediately nodded in agreement. “I get it now. Mm! Of course, my Big Brother Yun is the one and only in this heaven and earth.”
 
-"Lone... Cloud..."
+High Priest Wan Dao tugged his lips again and scoffed lightly, “This lass is feeding herself sweet lies. What a pity, what a pity.”
 
-Hua Caili murmured the name, tilting her head slightly as she said earnestly, "It's best that a sword named by Elder Brother Yun has the character 'Yun' in it. But why 'Lone Cloud'? With me here, I'll never let Elder Brother Yun be lonely."
+He then spoke up again, “You have not viewed even one ten-thousandth of the artifacts that exist in this pavilion. If you leave now, then you won’t get the chance to change your mind later. Are you sure about this, boy?”
 
-Yun Che lowered his gaze slightly, looking into the girl's pure eyes. "'Lone' doesn't just mean lonely. It also symbolizes being unique and irreplaceable in all of heaven and earth!!"
+“This junior has already made his choice. Naturally, there is no need to change anything.”
 
-He leaned in close to Hua Caili's ear and whispered, "Even your Uncle Abyssal Emperor refers to himself as 'the lone one'²."
+Yun Che’s reply did not contain even an ounce of hesitation. He put away Lone Cloud and stepped out of the artifact pavilion while holding hands with Hua Caili. Then, he bowed to the high priest from afar and said, “Since this junior has fulfilled his wish, I shan’t disturb the high priest any longer. Goodbye.”
 
-Hua Caili understood at once. "I get it. Mmm! My Elder Brother Yun is, of course, truly unique in all of heaven and earth."
+If the high priest were anyone else, he would have tried to get closer to them. However, this High Priest Wan Dao made him feel uncomfortable despite his amiable appearance and eyes.
 
-The Myriad Dao Divine Officer's lips twitched, and he let out another faint sneer. "This little girl can even feed herself love potions. A pity, what a pity."
+“Mm. You may go.”
 
-He spoke up, "The artifacts you have seen are not even a ten-thousandth of this pavilion's collection. Once you step out of this place, there will be no chance to change your mind. Boy, are you certain?"
+High Priest Wan Dao replied carelessly, eyes still glued to his book. From start to finish, he never stepped down from his platform.
 
-"Since this junior has made his choice, there is no need to change it."
+“We’re leaving, Grandpa Wan Dao! I’ll visit you the next time I come to the Pure Land! Oh, right, I haven’t thanked you for giving me the Glass Cloud Sword!”
 
-Yun Che's reply was without a hint of hesitation. He put away Lone Cloud, took Hua Caili's hand, and walked out of the Artifact Pavilion. Then, he bowed from a distance. "This junior's wish has been fulfilled. We will intrude no longer. Farewell."
+High Priest Wan Dao did not look away from his book. He simply said, “I did not give you the Glass Cloud Sword. It is the Glass Cloud Sword that chose you. Since the day you left, it has been shaking nonstop and ringing day and night like a banshee. That is why I gave it to your aunt. It is your fortune and its fate to be able to find each other. Therefore, you do not need to thank me.”
 
-If it had been any other Divine Officer, he might have tried to get closer. But this Myriad Dao Divine Officer, despite his peaceful appearance and gaze, made him feel uneasy.
+After he finished, he flipped his palm downward and caused the space of the divine pavilion to flip around once more, hiding the artifact pavilion in an unknown space. The instant he turned his hand, Yun Che captured a flicker of something golden in the depths of his eyes and finally understood why his power felt so familiar... It was because it was the Brahma Monarch divine power practiced by Qianye Ying’er[1]!!
 
-"Mm, you may go then."
+The reason he wasn’t able to put two and two together immediately was that High Priest Wan Dao’s cultivation was much, much higher.
 
-The Myriad Dao Divine Officer responded casually, his eyes on his scroll. From beginning to end, he never descended from his high platform.
+Could High Priest Wan Dao be one of the divine sword attendants who once served the Heaven-Punishing Divine Emperor... the ancient Brahma Gods of the Brahma Monarch God Clan!?
 
-"Grandpa Wandao, we're leaving! We'll come see you next time we're in the Pure Land. Oh, and I haven't thanked you for the Liyun Sword yet!"
+Hua Caili was in an exceedingly good mood after leaving the Wan Dao Divine Pavilion. However, she noticed Yun Che frowning slightly as he chatted with him. She immediately asked, “You don’t seem happy, Big Brother Yun. Are you... thinking about your Cloud Glass Sword?” 𝙛𝒓𝓮𝒆𝔀𝒆𝙗𝓷𝒐𝙫𝒆𝙡.𝒄𝓸𝓶
 
-The Myriad Dao Divine Officer did not look up, speaking faintly, "It was not I who gave you the Liyun Sword, but the Liyun Sword that chose you. After you left last time, it trembled incessantly, wailing day and night, so I tossed it to your aunt. To find a compatible master is your good fortune and its destiny. There is no need for thanks."
+Yun Che recovered his senses and shook his head. “If I remember correctly, you told me that High Priest Wan Dao is a genial grandpa who always wears a smile on his face.”
 
-As he spoke, he casually pressed his palm down. The space of the divine pavilion flipped once more, concealing the Artifact Pavilion in an unknown void. In that instant, as his hand descended, Yun Che caught a faint golden glint flash in the depths of his eyes.
+Hua Caili blinked. “Grandpa Wan Dao has always been like this. I’ve never seen him get angry even once, although... the abyssal knights seem to be very scared of him for some reason.”
 
-Suddenly, Yun Che understood where that sense of familiarity came from.
+Yun Che said after a pause, “In the future, you should avoid coming to the Wan Dao Divine Pavilion as much as possible.”
 
-It was clearly... the Brahma Monarch Divine Power that Qianye Ying'er cultivated!
+Hua Caili was both surprised and puzzled. “But why?”
 
-It was just that the realm was so high that he hadn't been able to connect it with his knowledge at first. Could this Myriad Dao Divine Officer actually be one of the sword attendant god races under the Heaven Punishing Divine Emperor... an Ancient Brahma God of the Brahma Monarch God Race!?
+“I wonder...”
 
-...
+Yun Che pretended to be casual as he found an excuse, “I guess it’s purely because I don’t like this place?”
 
-After leaving the Myriad Dao Divine Pavilion, Hua Caili was in high spirits. Amidst her cheerful laughter, she noticed Yun Che's brow was slightly furrowed and immediately asked, "Elder Brother Yun, you don't seem happy. Are you... thinking about the lost Yunli Sword again?"
+Hua Caili nodded in agreement. “I won’t come here anymore. If Big Brother Yun doesn’t like this place, then I certainly won’t either.”
 
-Yun Che returned to his senses and shook his head. "I remember when you mentioned the Myriad Dao Divine Officer to me before, you said he was a very gentle old grandpa who was always smiling."
+When Yun Che bade Hua Caili a temporary farewell and returned to his place, Meng Kongchan was already waiting for him.
 
-"That's right."
+Meng Kongchan did not ask him why High Priest Ling Xian had summoned him. He simply said smilingly, “Perfect timing. I have already taken my leave from the High Priest. It’s about time we depart the Pure Land and devote ourselves entirely to the preparation to travel to the Eternal Pure Land.”
 
-Hua Caili blinked. "Grandpa Wandao has always been like this. I've never seen him get angry, although... for some reason, the Abyssal Knights all seem to be very afraid of him."
+“But before we leave, there is one big show we must watch.”
 
-Yun Che pondered for a moment. "In the future, it's best you come to this Myriad Dao Divine Pavilion less often."
+“A big show??”
 
-"Huh?"
+Yun Che asked with a slightly raised eyebrow.
 
-Hua Caili was surprised and confused. "Why?"
+Meng Jianxi responded with a mysterious smile, “You will know when it’s time, Brother Yuan.”
 
-"Probably..."
+It was at this moment that Yun Che suddenly furrowed his brow slightly and asked in an incredibly soft voice, “Senior, can you tell me if someone is spying on us right now?”
 
-Yun Che made up a casual excuse. "I just don't like this place?"
+Meng Kongchan turned around and stared at Yun Che for a moment. Then, he said slowly, “No. Even if this isn’t the Pure Land, no one would be so impolite as to spy on a Divine Regent’s dwelling. Why are you asking this, Yuan’er?”
 
-"Alright."
+Yun Che’s furrowed brow relaxed slightly. “Ever since I entered the Forbidden Zone of Slumbering God, I’ve had this strange feeling that a divine perception is secretly spying on me time and again. Just now, it appeared again. But if you, senior, sensed nothing, then I was probably just mistaken.”
 
-Hua Caili nodded in agreement. "Then I won't come here anymore. A place Elder Brother Yun doesn't like is a place I won't like either."
+Meng Kongchan narrowed his eyes slightly and fell silent for a short moment. Finally, he said, “In this world, not even the Abyssal Monarch’s divine perception could approach me without triggering my soul aura. Perhaps you are experiencing this because your soul hasn’t fully recovered from the punishment of devouring rage.”
 
-...
+He did not state it outright, but he clearly implied that Yun Che was mistaken.
 
-After a brief farewell to Hua Caili, Yun Che returned to his original __cpLocation to find Meng Kongchan already waiting for him.
+“Brother Xi,” Meng Jianxi said with apparent concern, “Soul damage is nothing to scoff at. You should spend some time resting after we return home. You mustn’t push yourself.”
 
-He did not ask why the Spirit Immortal Divine Officer had summoned him, only smiling faintly. "You're back just in time. I have already bid farewell to the Grand Divine Officer. It is time to leave the Pure Land and return to prepare for stepping into the Eternal Pure Land."
+“Mm. I understand.” Yun Che nodded, and the frown slowly vanished completely.
 
-"But before we leave, there's a big show to watch."
+It feels like the thing watching me is weak... yet even the Divine Regent with the greatest soul power in this world sensed nothing...
 
-"A big show?"
+I thought it might belong to an ancient soul fragment that the abyssal dust wasn’t able to eliminate entirely at first, but this is the Pure Land, not the Forbidden Zone of Slumbering Gods!
 
-Yun Che raised an eyebrow slightly.
+In that case... it probably really is an illusion caused by the soul damage I received from the punishment of devouring rage.
 
-Meng Jianxi gave a mysterious smile. "You'll know when the time comes."
+As soon as he thought this, Yun Che closed his eyes and cleared his mind. Just a few breaths later, he had forcefully expelled all unnecessary thoughts.
 
-Just then, Yun Che's brow furrowed slightly, and he said in a very low voice, "Senior, at this very moment, is anyone spying on this place?"
-
-Meng Kongchan's gaze shifted to Yun Che, staring at him for a moment before he slowly said, "No. Where the Divine Sovereign resides, even in the Pure Land, no one would be so discourteous as to pry. Yuan'er³, why do you ask?"
-
-Yun Che's brow relaxed a little. "Ever since I entered the God-Sleep Forbidden Domain, I've occasionally felt a spiritual sense spying on me in secret. It just appeared again. But if even Senior is completely unaware... then it's highly likely an illusion."
-
-Meng Kongchan's eyes narrowed slightly. After a brief silence, he spoke slowly, "In this world, not even the Abyssal Emperor could approach with his spiritual sense without triggering my soul sense. Perhaps the soul-wound you sustained from the Punishment of Savage Desolation has not fully healed, which is why you occasionally have these strange feelings."
-
-The meaning behind his words was that it wasn't "highly likely" an illusion, but that it must be an illusion.
-
-"Brother Yuan," Meng Jianxi said with no small amount of concern, "a soul-wound is no small matter. It would be best to rest and recuperate for a while after you return this time. You must not push yourself."
-
-"Mm, I understand." Yun Che nodded in agreement, the frown on his brow gradually smoothing out completely.
-
-A faint sense of being watched... yet even the Divine Sovereign, the one with the strongest soul power in this world, was completely unaware...
-
-The prying sensation he felt in the God-Sleep Forbidden Domain could be suspected to be a remnant ancient soul that hadn't been completely annihilated by the Abyssal Dust. But this was the Pure Land!
-
-In that case... it really should be an illusion created by the lingering soul-wound from the Punishment of Savage Desolation.
-
-At this thought, Yun Che closed his eyes and cleared his mind. In just a few breaths, he had forcibly expelled all extraneous thoughts.
-
-PS: Sorry for late update
+1. So, everyone who cultivates this power is a lecher. Makes sense. ☜

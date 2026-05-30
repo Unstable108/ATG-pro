@@ -1,7 +1,7 @@
 ---
 chapterNumber: 2161
 title: "Abyss of Death"
-publishedAt: "2025-12-23"
+publishedAt: "2026-05-30"
 ---
 
 The grayish, spatial profound light of the Void Breaching Great Formation immediately congealed as all five candidates stepped into it. The formation continued to revolve slowly amidst blurry glimmers of gray light, and its profound patterns emitted the supreme divine aura of the Abyssal Monarch.

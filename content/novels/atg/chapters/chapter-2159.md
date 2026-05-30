@@ -1,7 +1,7 @@
 ---
 chapterNumber: 2159
-title: "Unknown Title"
-publishedAt: "2025-12-23"
+title: "Formless Dark Abyss"
+publishedAt: "2026-05-30"
 ---
 
 “Hmm? The Lightless Divine Regent... wants to kill me?” Yun Che exclaimed in two-fifths shock and three-fifths confusion.
@@ -178,7 +178,7 @@ Yun Che grew stronger, and everyone he met was stronger than the last. However, 
 
 After she learned of the Lord of the Abyss, one of her broken fragments of knowledge had whispered to her that her unease... could have originated in an existence even greater than her own.
 
-In the end, though, she did not share the thought with Yun Che. As he said, he was facing the entire Abyss alone right now. He truly did not have the energy to spare another variable, especially one like the Lord of the Abyss. Informing him about it now would only add more pressure to his already-overburdened shoulders. 𝓯𝙧𝓮𝓮𝒘𝓮𝙗𝙣𝒐𝒗𝒆𝓵.𝓬𝓸𝒎
+In the end, though, she did not share the thought with Yun Che. As he said, he was facing the entire Abyss alone right now. He truly did not have the energy to spare another variable, especially one like the Lord of the Abyss. Informing him about it now would only add more pressure to his already-overburdened shoulders.
 
 She could only pray that her thought was a mistake, that the Lord of the Abyss truly wouldn’t awaken until the very end.
 

@@ -1,179 +1,181 @@
 ---
 chapterNumber: 2190
-title: ""
-publishedAt: "2026-04-21"
+title: "The End of Wangchu"
+publishedAt: "2026-05-30"
 ---
 
-Since the day Long Wangchu was born, this was his first time setting foot within the territory of a God Kingdom.
+UNedited chapter - Rubble
 
-It wasn't that the Dragon Sovereign was unable or unwilling; rather, he truly lacked the face to bring this fellow out to make a fool of himself before the various God Kingdoms.
+Since Long Wangchu’s birth, this was the first time he had ever set foot within the borders of a Kingdom of God.
 
-Within the borders of a God Kingdom, there was almost no Abyss Dust. To Long Wangchu, every wisp of aura here felt like soul-soothing celestial dew, making him so cautious that even his breathing became tentative.
+It wasn’t that the Dragon Lord was unwilling—it was simply that he couldn’t bear to bring this fool along and make a spectacle of himself before the kingdoms of god.
 
-Led all the way to the Son of God’s Palace, he witnessed the magnificence of the God Kingdom. His eyes twitched and his throat bobbed almost incessantly. Standing before the palace, as the doors swung open, his eyes bulged uncontrollably, unable to close for a long time.
+Within a Kingdom of God, there were virtually no traces of abyssal dust. To Long Wangchu, every wisp of air here felt like an immortal dew that soothed the soul itself. It caused him to breathe with almost reverent caution.
 
-Those ancient wall carvings, flowing with strange and eerie light, released the aura of several types of exotic Abyssal Crystals¹, most of which he couldn't even identify. Pure Abyssal Crystals, which only high-ranking dragon scions in his clan were qualified to receive, were actually used here as mere paving stones beneath his feet, stretching across his entire field of vision.
+On the way to the Divine Son Palace, he couldn’t help but behold the grandeur of a Kingdom of God with eyes that kept darting about, and a throat that squirmed almost without pause. When he stood in front of the Divine Son Palace, and the gates swung open, his eyes widened involuntarily, and he could not close them for a long while.
 
-Looking upward, heavy silken banners embroidered with the national crest of the Weaver’s Dream God Kingdom hung down or drifted above the high pavilions and palace roofs, the largest being a hundred feet in size. He was all too familiar with the Profound Jade Silk needed to weave these banners...
+The ancient wall carvings, shimmering with a strange, dark glow, radiated the aura of several types of rare abyssal crystals—most of which he could not even identify. Pure abyssal crystals, which within his race were reserved only for the high-ranking dragon descendants, were merely used as stepping stones here. Literally. The paved path stretched as far as the eyes could see.
 
-Because within the Dragon Race, only his clothes as the Young Master were worthy of such a luxurious material.
+Looking up, he saw magnificent canopies intricately woven with the Dreamweaver Kingdom of God’s crest; some hanging down, and some billowing above the high-ceilinged hall. The largest one stretched a full three hundred meters in width. Not only that, the profound jade silk used to weave these canopies was all too familiar to him.
 
-Long Wangchu’s head instinctively shrank back a fraction, and his palm uncomfortably gripped the sleeve at his side.
+Only he, the young heir of the dragon race, was prestigious enough to wear robes adorned with such a luxurious fabric after all.
 
-Green wood, which was rarely seen even in small patches within the Dragon Race—or even the entire Ancestral Dragon Mountains—surrounded this place in lush emerald, further adorned with various luxurious and exotic flowers. Servants moved among them, every one of them dressed in opulence and possessing an extraordinary temperament.
+Long Wangchu instinctively ducked his head, and unconsciously clenched the sleeve at his fingertips.
 
-As the Young Master of the Dragon Race, he undoubtedly enjoyed the best resources of his entire clan. Although he knew of the prosperity of the God Kingdoms, he had never imagined that the gap between the Dragon Race and a God Kingdom—the gap between himself and the Son of God of Weaver’s Dream—was actually so vast.
+The dragon race... in fact, the entire Ancestral Dragon Mountain Range rarely saw even a single strand of green, yet this place was almost drowning in emerald greenery and adorned with all manners of exotic, luxurious flowers. Attendants could be seen moving through the space here and there, all of them dressed in opulent attire and possessing an air of exceptional refinement.
 
-They were worlds apart, existing on entirely different planes.
+As the young heir of the dragon race, he undoubtedly enjoyed the finest resources his race had to offer. Though he was aware of the prosperity of the Kingdoms of God, he had never imagined that the gap between the dragon race and the kingdoms—between himself and the Dreamweaver Divine Son—would be so vast.
 
-Behind him, Long Qianxin stood with a straight back and an unchanging expression, though in truth, he was sighing repeatedly in secret.
+It was as if they belonged to two entirely different planes.
 
-"Senior Dragon Attendant, Brother Wangchu, you two distinguished guests have traveled far. It has been a long journey."
+Behind him, Long Qianxin stood with his back straight and his expression unflinching, though inwardly he was sighing repeatedly.
 
-A clear voice rang out as Yun Che strode forward, wearing an exceptionally warm smile. Wherever he passed, servants and guards stopped and bowed, welcoming him respectfully. Within that humility was a respect that came from the bottom of their hearts... for as they performed their salutations, there wasn't a hint of trepidation or fear on their faces, only smiles they felt no need to restrain.
+“Senior Dragon Attendant, Brother Wangchu, you have traveled a long distance.”
 
-Only then did Long Wangchu pull his gaze away from the various heart-shaking and dazzling sights to look at the approaching Yun Che... but this time, the look in his eyes had changed drastically.
+A clear, resonant voice echoed in the air as Yun Che strode forward with an exceptionally warm smile on his face. Wherever he went, attendants and guards halted in their tracks and bowed low to greet him with reverence. They could tell that it was a kind of humility infused with genuine, heartfelt respect... For as they bowed, there was not a trace of anxiety or fear on their faces—only smiles that needed no restraint.
 
-Under the overwhelming impact on his perception, he could no longer remember the etiquette Long Zhiming had repeatedly drilled into him. He instinctively took a step forward, bowed deeply at the waist, and raised his hands in salute, his lips pulling back into what was meant to be a smile.
+Only then did Long Wangchu tear his gaze away from the various breathtaking and dazzling sights to look at Yun Che approaching him... but this time, the look in his eyes had changed dramatically.
 
-However, he smiled far too hard—so hard that the lines at the corners of his eyes were squeezed into flattering wrinkles. He tried so hard that the face which should have displayed the majesty of the Dragon Race’s Young Master instead presented a lowly state filled with panic and fawning.
+Overwhelmed by everything he had seen, heard, and felt along his way, he could no longer recall the etiquette Long Zhimin had repeatedly emphasized. Instinctively, he took a step forward, bowed deeply at the waist, raised his hand in a gesture of respect. At the same time, the corners of his mouth curled into a smile he felt he ought to display.
 
-"Greetings... to... the Abyssal Son of God."
+He was smiling too hard, though—so hard that the lines at the corners of his eyes were squeezed into fawning creases, so hard that the face that should have radiated the majesty of the future Dragon Lord instead wore an expression of utter fluster and obsequiousness.
 
-The corner of Long Qianxin’s eye, who had forced himself to remain calm throughout the journey, twitched violently for a moment.
+“T-this one... p-pays his respects to... Divine Son Yuan.”
 
-A dignified Young Master of the Dragon Race, meeting a peer, actually used the word "greetings²." Combined with this "unsightly" appearance, if the Dragon Sovereign were here, he would likely cough up a mouthful of old blood on the spot.
+A momentary, even violent twitch rippled across the corner of Long Qianxin’s eyes, despite his great efforts to remain composed throughout the journey.
 
-Yun Che seemed slightly taken aback for a moment before his smile returned. "Brother Wangchu is a distinguished guest from afar; you must not perform such a grand salute. Although I am of Weaver’s Dream, I am also half-part of the Dragon Race. I am very happy that Brother Wangchu has graced us with his presence. Please do not be formal; treat this as your own home."
+To think that the heir of the dragons, upon meeting a peer, had actually uttered the words, “Pays his respects.” Coupled with his “grotesque” behavior, the Dragon Lord would likely have spat out a mouthful of old blood on the spot if he were present.
 
-As he spoke, a strand of profound energy gently lifted Long Wangchu's arms.
+Yun Che seemed startled for a moment before resuming his smile. “Brother Wangchu, you are a distinguished guest who has traveled from afar; there is absolutely no need for this level of formality. Though I am a Dreamweaver, I am also a half-dragon. I am truly delighted by your visit, Brother Wangchu, so please do not be so formal and make yourself at home.”
 
-Long Wangchu naturally realized his own abnormal state. He lowered his hands and hurriedly adjusted his expression, but his back remained slightly hunched, and his face still bore a lowly air that originated from the depths of his heart and could not be hidden. "The Abyssal Son of God is too kind... haha... too kind."
+As he spoke, he gently lifted Long Wangchu’s arm with a wisp of profound energy.
 
-Behind Yun Che, Meng Zhiyuan silently lowered her head, using almost all her willpower to suppress the urge to roll her eyes.
+Long Wangchu naturally noticed his own peculiar demeanor. He let his hands drop and hurriedly adjusted his expression. However, his back remained slightly hunched, and his face still bore an unmistakable, deep-seated sense of inferiority. “You’re too kind, Divine Son Yuan... hehe... too kind.”
 
-Long Qianxin’s chest heaved, then he stepped forward and gave a slight bow. "Abyssal Son of God, we are truly uneasy about disturbing you like this."
+Behind Yun Che, Meng Zhiyuan silently bowed her head. It took her nearly every ounce of her willpower to suppress the urge to roll her eyes.
 
-Yun Che smiled and said, "Senior Dragon Attendant, what are you saying? Brother Wangchu’s arrival is actually helping me fulfill my Master’s dying wish; how can you call it a disturbance? Please, Senior and Brother Wangchu, move to the guest hall so I may show some hospitality."
+Long Qianxin’s chest rose and fell as he took a step forward and bowed slightly. He said, “Divine Son Yuan, I am deeply humbled to have caused you such an inconvenience.”
 
-Long Qianxin said, "I appreciate the Abyssal Son of God’s kind intentions. However, I am only here on escort duty. Now that Wangchu is by your side, I should return as soon as possible to report back and put the Dragon Sovereign’s mind at ease."
+Yun Che smiled faintly. “Please don’t say that, Senior Dragon Attendant. Brother Wangchu’s presence here is truly helping me to fulfill my master’s dying wish[1], so how could I possibly consider this an inconvenience? Please, come to the guest hall so I may show you the hospitality of a host.”
 
-As he finished speaking, before Yun Che could say anything to urge him to stay, Long Qianxin held out his hands. With a flash of profound light, a massive pale bone casket appeared, containing dozens of various glowing Dragon Race treasures intertwined with an extremely dense dragon aura.
+Long Qianxin replied, “I appreciate your kindness, Divine Son Yuan. However, my duty is merely to escort Wangchu. Now that he is by your side, I should return at once to report back and put the Dragon Lord’s mind at ease.”
 
-"These are some meager gifts personally prepared by the Dragon Sovereign. Our Dragon Race is poor in resources, and these will likely fail to catch the Abyssal Son of God’s eye. They are merely to express the gratitude of the entire Dragon Race. I hope the Abyssal Son of God will not look down on them."
+Before Yun Che could offer words of retention, Long Qianxin cupped his hands. There was a flash of profound light, and a massive, pale white box that was shaped from bones came into view. Inside were dozens of draconic treasures, each radiating a distinct glow and intertwined with an intensely potent draconic aura.
 
-Yun Che’s gaze swept over them, then he reached out and gently took a piece of soft armor covered in dragon scales. He praised, "The aura is ancient yet still contains hidden majesty. This must be the scales left behind by a powerful Ancestral Dragon senior. I shall accept this gift, and in doing so, I accept the full weight of the Dragon Race’s kindness. This is enough; any more would instead damage the friendship between myself and the Dragon Race."
+“These are modest gifts the Dragon Lord had personally prepared. The dragon race’s resources are scarce, so these items are likely of little value to you. They are merely a token of gratitude from the entire dragon race. I hope that you will find them pleasing.”
 
-His eyes and smile were incredibly clean, without the slightest hint of disdain for Long Wangchu’s pathetic display. His words and actions were extremely sincere, lacking any sense of looking down from a position of impending grace.
+Yun Che’s gaze swept over the items. Then, he reached out and gently picked up a soft armor that was covered in dragon scales, exclaiming in admiration. “Its aura is ancient, yet it still holds a latent might. It must be the scales left behind by some powerful Ancestral Dragon of the past. I shall gladly accept this gift as a show of complete acceptance of the dragons’ deep goodwill. However, this is enough; anything more would only harm the bond between me and the dragon race.”
 
-Long Qianxin sighed inwardly and did not persist. He withdrew the other gifts and bowed once more. "Then everything shall be as the Abyssal Son of God wishes. I shall return now to report. I leave Wangchu in your care."
+His eyes and smile were utterly pure, free of any trace of contempt toward Long Wangchu’s pathetic state. His words and actions were also exceptionally sincere, devoid of any condescending air of one about to bestow an unprecedented favor.
 
-"Please inform the Dragon Sovereign that in as little as a month, or at most half a year, Brother Wangchu will surely be reborn," Yun Che said with a smile. "In the name of the son of the Dreamless God Regent, I guarantee Brother Wangchu’s safety."
+Long Qianxin sighed inwardly but did not press the matter. He withdrew the rest of the gifts and bowed once more. “As you wish, Divine Son Yuan. I shall return now to report back to the Dragon Lord. I leave Wangchu in your care.”
 
-Long Qianxin smiled faintly. "Even if my Dragon Race did not trust ourselves, we would never distrust the Abyssal Son of God and the vast Weaver’s Dream God Kingdom."
+“Please inform the Dragon Lord that in as little as a month, or at most half a year, Brother Wangchu will surely be reborn,” Yun Che said with a gentle smile. “In the name of the son of the Dreamless Divine Regent, I swear to ensure Brother Wangchu’s safety[2].”
 
-"Farewell!"
+Long Qianxin smiled faintly. “We dragons may not trust ourselves, and still we would never doubt Divine Son Yuan or the Dreamweaver Kingdom of God. Farewell!”
 
-Long Qianxin departed, leaving quite decisively and hurriedly, fearing that if he stayed any longer, his own old face would be dragged onto the ground along with Long Wangchu’s.
+Just like that, Long Qianxin took his leave, departing so decisively and hurriedly it was as if he was afraid his old face would be dragged through the mud along with Long Wangchu’s if he lingered for even a moment longer.
 
-Leaving the Weaver’s Dream God Kingdom, he turned back to look, sighing long and hard in his heart... Long Wangchu acted like a tyrant within the Dragon Race, fearing nothing. But standing next to Yun Che, whether in temperament, speech, or bearing, they were as different as heaven and earth, as distinct as clouds and mud.
+Upon leaving the Dreamweaver Kingdom of God, Long Qianxin looked behind him and let out a long sigh... Long Wanchu had ruled the dragon race with an iron fist, fearing nothing and doing whatever the hell he wanted. Yet standing beside Yun Che, whether in bearing, speech, or demeanor, the difference between them was as big as the gap between heaven and earth; as vast as the distance between the clouds and the mud.
 
-"Brother Wangchu, please."
+“Brother Wangchu, please.”
 
-Yun Che stepped aside and raised his hand, his smile as gentle as a breeze blowing over spring water without causing a single ripple... yet no one could see the terrifying dark undercurrent hidden beneath that smile.
+Yun Che stepped aside and raised his hand, his smile as gentle as a breeze skimming over spring water without stirring a single ripple... no one could glimpse the terrifying undercurrent hidden beneath that smile.
 
-"Uh... the Abyssal Son of God should go first."
+“Uh... Divine Son Yuan, please go first.”
 
-Long Wangchu was trying hard to recall the etiquette the Dragon Sovereign had instructed, but his dragon spine remained half-bent, as if pressed down by some invisible force, having forgotten how to straighten up.
+Long Wangchu struggled to recall the etiquette the Dragon Lord had instructed him about, yet his spine remained perpetually hunched, as if an invisible force were constantly pressing him down, or he had forgotten how to stand straight.
 
-"Hahahaha!" Yun Che laughed heartily. "I heard that Brother Wangchu rarely steps out of the Dragon Race; it seems that is indeed the case. This is my private palace; there is no need for any restraint... Never mind, Brother Wangchu, follow me."
+“Hahahaha!” Yun Che laughed heartily. “I’ve heard Brother Wangchu rarely ventures beyond the dragons’ domain, and it would seem that is indeed the case. This is my private palace, Brother Wangchu. You need not be at all self-conscious... Never mind, come with me, Brother Wangchu.”
 
-"Alright." Long Wangchu nodded, trying to show a smile that was agreeable yet did not lose the integrity of the Dragon Race. "Having just arrived at the God Kingdom, I am indeed a bit unadjusted. I have... made a fool of myself before the Abyssal Son of God."
+“Okay.” Long Wangchu nodded, attempting a smile that was accommodating but still true to the dignity of the dragons. “This is my first visit to a Kingdom of God, and I must admit that I feel a bit out of place. I hope the Divine Son Yuan... will not hold it against me.”
 
-Yun Che nodded slightly and led the way forward.
+Yun Che gave a slight nod and led the way forward.
 
-Long Wangchu followed behind with light steps, instinctively restraining his aura for fear of causing offense. His gaze shifted slightly toward Meng Zhiyuan, who was walking alongside them. Upon catching sight of that beautiful, flawless profile, he was momentarily dazed, his eyes unable to look away for a long time.
+Long Wangchu lightened his steps and unconsciously toned down his aura as he followed behind, fearful of causing any offense. His gaze then shifted slightly to Meng Zhiyuan, who was walking beside them. When his eyes met her flawless, delicate profile, he found himself momentarily transfixed, unable to look away for a long time.
 
-Meng Zhiyuan looked straight ahead, a shallow smile on her face, but her jade fingers were slightly clenched. She was calculating whether she should invade his dragon soul and make him fall flat on his face right then and there...
+Meng Zhiyuan kept her eyes straight ahead, a faint smile on her face, though her slender fingers were already clenched slightly. In her mind, she was weighing whether to invade his dragon soul and give him a nasty trip right there on the spot...
 
-Forget it, I shouldn't cause trouble for the Young Master.
+Never mind. Better not to cause trouble for Young Master.
 
-Arriving at the guest hall, Yun Che stopped and turned around. "Brother Wangchu has traveled far and needs to rest. I will give orders to prepare a banquet. If you have any needs, please feel free to ask; do not be polite."
+Upon reaching the guest hall, Yun Che stopped in his tracks and turned back. “Brother Wangchu, you’ve traveled a long way and must be exhausted. I’ll have a banquet prepared at once. If there’s anything you need, please don’t hesitate to ask—and by all means, don’t be shy.”
 
-Long Wangchu felt quite overwhelmed by the favor, but he finally remembered the main business and said hurriedly, "No, no, there's no need for that, Abyssal Son of God. Before leaving, that old... uh, my father repeatedly instructed that the only thing to do on this trip is to concentrate on receiving the dragon bone and dragon marrow bestowed by the Abyssal Son of God. Other than that, I am not to cause any trouble for you."
+Long Wangchu felt both flattered and overwhelmed, but for once, he didn’t lose sight of the matter at hand[3]. He quickly replied, “No, no, there is no need to go to such lengths, Divine Son Yuan. Before I left, that damn old... er, I mean, father repeatedly urged me that the only thing I must do on this journey is to focus my mind on bearing the dragon bone and dragon marrow you will soon bestow upon me. Other than that, I must not cause you any trouble.”
 
-Yun Che nodded slightly, appearing deep in thought. After a moment, he said, "I understand the Dragon Sovereign’s worry and urgency. However, once the transfer and inheritance of the dragon marrow and dragon soul begins, Brother Wangchu may have to stay within the profound formation for several months without leaving for even a second."
+Yun Che nodded slightly, appearing deep in thought, before replying slowly, “I fully understand Senior Dragon Lord’s concerns and urgency. However, once the transfer and inheritance of the dragon marrow and dragon soul begins, you may have to remain within the profound formation for several months, Brother Wangchu. You won’t be able to leave for even an instant if you want to.”
 
-"I know that, I know," Long Wangchu said quickly. The persistent feeling of inferiority undoubtedly made him uncomfortable. He said cautiously, "If the Abyssal Son of God has no pressing matters at the moment, could we... could we directly..."
+“I know that, I know,” Long Wangchu hurriedly replied. The persistent sense of inferiority enveloping him was making him feel thoroughly uncomfortable. He spoke cautiously, “But if you have no pressing matters at the moment, might it be possible... might it be possible to proceed directly, Divine Son Yuan...?”
 
-Yun Che looked helpless and nodded. "In that case... very well."
+A look of resignation flashed across Yun Che’s face as he nodded. “In that case... very well.”
 
-"Zhiyuan, close the palace doors. I will see no guests today."
+“Zhiyuan, close the hall doors. We shall receive no visitors today.”
 
-Meng Zhiyuan watched as Yun Che led Long Wangchu into the cultivation space. The moment the barrier was completely sealed, she finally couldn't hold back any longer and let out an extremely angry and indignant low cry: "The Young Master is willing to damage himself just to help a piece of trash like that?"
+Meng Zhiyuan watched as Yun Che led Long Wangchu into the cultivation chamber. The moment the barrier closed completely, she could no longer contain herself and let out a low, furious cry of resentment. “Is Young Master seriously sacrificing himself to accommodate a pathetic worm like him?”
 
-"What 'Young Master of the Dragon Race'? He can't even compare to the Young Master's little toe... I'm so angry! I'm so angry!!"
+“Heir of the dragon race? He’s not even worth a single little toe of the Young Master... Ahh, it’s driving me crazy! It’s driving me crazy!!”
 
-"This is the Young Master's decision after all, don't be angry," Shangguan Helu comforted her softly... though she herself was also full of indignation.
+“It was Young Master’s decision. Don’t get so worked up.” Shangguan Helu consoled her softly... though she herself was seething with indignation.
 
-"But I am angry! Even if the Young Master said it himself, I'm still angry!" Meng Zhiyuan stomped her foot hard. After a long while, she muttered in a low voice, "I'm afraid in this world, only the Young Master could be so foolishly kind-hearted."
+“But I am! Even if Young Master said it himself, I’m still furious !” Meng Zhiyuan stomped her foot heavily. After a long moment, she muttered under her breath, “I suppose only Young Master could be so foolish and kind-hearted in this whole world.”
 
-In the space completely isolated from the outside world, with a barrier personally set by Meng Kongchan, not a single ray of light or wisp of aura could escape.
+The space was completely cut off from the outside world. Thanks to the barrier personally set up by Meng Kongchan, not even a single ray of light or a wisp of aura could escape.
 
-Yun Che’s footsteps stopped. He looked at the empty space ahead... his calm expression showed a crack that was on the verge of losing control, but in an instant, it was perfectly restored.
+Yun Che stopped in his tracks, staring at the empty space ahead... A sudden crack appeared in his calm expression and threatened to spread, but just as quickly, it was gone in the next instant.
 
-Behind him, Long Wangchu was already trembling with excitement. Long Zhiming had told him clearly that the dragon marrow and dragon soul Yun Che carried were so powerful they made even the Dragon Sovereign tremble. Completing the inheritance would surely allow him to be completely reborn.
+Behind him, Long Wangchu was so overcome with excitement that his hands and feet were trembling. Long Zhiming had made it crystal clear to him: the dragon marrow and dragon soul that Yun Che carried were so powerful that even he, the Dragon Lord, found them terrifying. Completing the succession would undoubtedly grant him a complete rebirth.
 
-In the future, there was even a high possibility of surpassing his father and touching the Dragon God Realm that the Dragon Race had lost for so long.
+In the future, there was even a strong possibility that he would surpass Long Zhiming and once again reach the Dragon God Realm—a level of power the dragon race had long since lost.
 
-"Abyssal Son of God, I am ready. We can start anytime..."
+“Divine Son Yuan, I am ready. We can begin at any moment...”
 
-Amidst his excitement and eagerness, he didn't forget to offer a compliment: "I am truly troubling the Abyssal Son of God."
+Despite his excitement and eagerness, he did not forget to offer a compliment: “I truly appreciate your trouble, Divine Son Yuan.”
 
-"It seems Brother Wangchu is indeed impatient." Yun Che’s eyes slowly narrowed, and his smile took on an unfathomable meaning. "Coincidentally, so am I."
+“It seems Brother Wangchu is truly eager to begin,” Yun Che said, his eyes narrowing slowly, a hint of inscrutability mingling with his smile. “How convenient—I feel the same way.”
 
-He raised his hand, and with a flash of crimson light, a small profound formation appeared in front of him, flowing with a faint crimson divine light.
+He raised his hand, and a crimson light flashed. A small profound formation appeared before them, radiating a faint yet divine crimson glow.
 
-"Brother Wangchu, please." Yun Che stepped aside.
+“Brother Wangchu, please go ahead.” Yun Che stepped aside.
 
-Long Wangchu’s throat bobbed violently. He stared intently at the strange profound formation before him, as if gazing at a door of destiny that would completely rewrite his life.
+Long Wangchu’s throat convulsed violently as he stared intently at the strange profound formation before him. He looked as if he was gazing upon a door of fate that would completely rewrite his life.
 
-He had never seen such strange crimson divine light in his life. From it, he vaguely sensed a spatial aura, yet it was vastly different from the spatial divine power he knew.
+He had never seen such an extraordinary crimson profound light in his life. He could vaguely sense a kind of spatial aura from it, but it was also vastly different from the spatial divine power he knew.
 
-Mysterious and unpredictable, combined with an unfamiliarity that transcended his understanding, it did not arouse any suspicion. Instead, it made the throbbing in his heart intensify.
+It was mysterious, unfathomable, and mixed with an unfamiliarity that transcended his understanding. Not only did it arouse any suspicion in him, it only caused the fluttering excitement in his heart to surge even higher.
 
-He took a deep breath, forced his mind to steady, and stepped into the crimson profound formation with a relatively calm posture.
+He took a deep, sharp breath, forcefully steadied his mind, and stepped into the crimson profound formation with a relatively composed demeanor.
 
-And truly, he stepped through a "door of destiny."
+And indeed, he had truly stepped through a “door of fate”.
 
-The crimson light flashed, and the dimensions suddenly shifted. Before Long Wangchu could react, the world before him had turned gray and dark.
+The crimson formation flickered, and the dimensions shifted abruptly. Before Long Wangchu could react, the world before him had already turned a gloomy gray.
 
-Dense Abyss Dust surged from the surroundings like a nightmare, covering his body and spiritual senses like layers of inescapable, heavy mire.
+Thick, abyssal dust surged toward him like a nightmare, enveloping his body and spiritual senses like layer upon layer of inescapable, heavy mud.
 
-His pupils dilated, and his soul was struck with terror, as if suddenly falling into a nightmare. "This... this... this is..."
+His pupils dilated, and he was stunned and disoriented, as if suddenly plunged into a nightmare. “This... this... this is...”
 
-In the gray world, his eyes caught Yun Che’s figure. He spun around abruptly in horror and cried out, "What... what happened? Where is this... why does it look so much like... the Sea of Fog³..."
+In the dimness, he caught Yun Che’s figure out of the corner of his eye. Snapping out of his terror, he spun around and cried out, “Wh—what happened? Where is this... why does it look so much like... the Endless Fog...”
 
-His voice, which started with a sharp edge of terror, gradually weakened until it finally faded away.
+His voice, initially shrill with terror, gradually weakened until it finally faded away.
 
-The shock in his pupils did not dissipate upon seeing Yun Che; instead, it slowly magnified as they contracted.
+The astonishment in his pupils did not dissipate quickly despite finding Yun Che; instead, it grew bigger and bigger as his pupils contracted.
 
-Yun Che was staring fixedly at him. He was still smiling, but accompanying the smile this time was an incredibly sinister coldness—a coldness so bone-chilling it seemed to seep from the bottom of an endless abyss of death.
+Yun Che was staring intently at him. He was still smiling, but accompanying that smile was an unimaginably sinister chill—so bone-chilling it felt as though it had seeped up from the bottom of an endless Abyss of Death.
 
-This terrifying chill invaded his dragon pupils, then went straight into his body and soul, causing his blood to freeze completely in an instant.
+That terrifying chill penetrated his dragon’s eyes and pierced straight into his body and soul, causing every drop of blood in his veins to freeze solid in an instant.
 
-"You..."
+Long Wangchu’s lips trembled violently, but he could barely utter a single syllable before his voice failed him entirely. It felt as though an invisible, icy, devilish hand—extending from Yun Che’s eyes—had suddenly clamped down on his throat, choking him.
 
-Long Wangchu’s lips moved violently, but he could only manage to shout one word before he could no longer make a sound. His throat felt as if it were being strangled by an invisible, icy demonic hand reaching out from Yun Che’s eyes.
+No more pretense was needed; no more patience or restraint. Raging hatred tore wildly at every fiber of Yun Che’s being, causing his blood to surge out of control, and his hanging hands to tremble uncontrollably.
 
-No longer needing to pretend, no longer needing to endure or suppress, the crazily surging hatred wildly tore at every one of Yun Che’s soul strings. The blood in his body was running wild out of control, and his lowered hands were trembling uncontrollably.
+The full weight of Yun Che’s hatred was so intense that even Li Shuo felt a soul-piercing chill, let alone Long Wangchu.
 
-The completely unleashed resentment made even Li Suo feel a soul-piercing chill, let alone Long Wangchu.
+The corners of Yun Che’s mouth curled upward bit by bit. His pupils, dyed the color of an abyss by hatred and reflecting Long Wangchu’s deathly pale face. Finally, his parted lips uttered a slow, deliberate voice:
 
-The corners of Yun Che’s mouth slowly pulled back. His pupils, dyed the color of the abyss by hatred, stared fixedly at Long Wangchu’s pale face. Finally, his parted lips released a slow voice:
+“Long... Wang... Chu...”
 
-"Long... Wang... Chu..."
+“Welcome... to... hell!”
 
-"Wel... come... to... Hell!"
+1. Oh yes, he’s dying to meet the wonderful lad and teach him the meaning of dying. ☜
 
+2. Ohhhhhhh mah gawd. Remember, he’s not the actual son of the DDR, so swearing it this way is just... gaaaaaaaaaaawd if only I am half as petty and hateful as Yun Che is. ☜
 
+3. The one time he should’ve let go completely and went bonkers.... ☜
