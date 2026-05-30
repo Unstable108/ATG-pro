@@ -10,6 +10,7 @@ import { useEffect, useRef, useState } from "react";
 import TopBar from "../../../components/TopBar";
 import SidebarChapters from "../../../components/SidebarChapters";
 import { useRouter } from "next/router";
+import DisqusComments from "../../../components/DisqusComments";
 
 export default function Chapter({
   chapterHtml,
@@ -22,18 +23,26 @@ export default function Chapter({
 }) {
   const [bookmarked, setBookmarked] = useState(false);
   const [chapOpen, setChapOpen] = useState(false);
-  const [isMenuOpen, setIsMenuOpen] = useState(false); // Track from TopBar
+  const [isMenuOpen, setIsMenuOpen] = useState(false);
   const router = useRouter();
   const currentSlug = router.query.novelSlug || "atg";
   const basePath = currentSlug === "atg" ? "" : `/${currentSlug}`;
   const articleRef = useRef(null);
-
-  // Hide/show top & bottom chrome on scroll
+  
   const [chromeHidden, setChromeHidden] = useState(false);
   const lastScrollYRef = useRef(0);
 
+  // 1. Format the Novel Title safely
+  const novelTitle = typeof novelSlug === 'string' 
+    ? novelSlug.split('-').map(word => word.charAt(0).toUpperCase() + word.slice(1)).join(' ')
+    : 'Loading...';
+
+  // 2. Get the Chapter Title safely directly from the object properties
+  const chapterTitle = chapter?.title || `Chapter ${chapter?.chapterNumber || 'Unknown'}`;
+
   // load bookmarked state
   useEffect(() => {
+    if (!chapter?.slug) return;
     try {
       const raw =
         typeof window !== "undefined" &&
@@ -47,10 +56,11 @@ export default function Chapter({
         );
       }
     } catch (e) {}
-  }, [chapter.slug, currentSlug]);
+  }, [chapter?.slug, currentSlug]);
 
   // restore scroll position for this chapter
   useEffect(() => {
+    if (!chapter?.slug) return;
     try {
       const key = `progress:${currentSlug}:${chapter.slug}`;
       const raw = localStorage.getItem(key);
@@ -64,10 +74,11 @@ export default function Chapter({
         window.scrollTo(0, 0);
       }
     } catch (e) {}
-  }, [chapter.slug, currentSlug]);
+  }, [chapter?.slug, currentSlug]);
 
   // reading progress bar + save progress
   useEffect(() => {
+    if (!chapter?.slug) return;
     function onScroll() {
       const el = document.documentElement;
       const scrollTop = window.scrollY || el.scrollTop;
@@ -84,25 +95,22 @@ export default function Chapter({
       } catch (e) {}
     }
     window.addEventListener("scroll", onScroll, { passive: true });
-    // set initial bar width
     onScroll();
     return () => window.removeEventListener("scroll", onScroll);
-  }, [chapter.slug, currentSlug]);
+  }, [chapter?.slug, currentSlug]);
 
   // chrome hide/show on scroll direction
   useEffect(() => {
     function handleScrollDirection() {
-      if (isMenuOpen) return; // Ignore scrolls when menu open—no hiding!
+      if (isMenuOpen) return;
 
       const current = window.scrollY || 0;
       const last = lastScrollYRef.current;
       const delta = current - last;
 
-      // scrolling up or near top -> show chrome
       if (current < 80 || delta < -10) {
         setChromeHidden(false);
       } else if (delta > 10 && current > 80) {
-        // scrolling down a bit -> hide chrome
         setChromeHidden(true);
       }
       lastScrollYRef.current = current;
@@ -110,35 +118,31 @@ export default function Chapter({
 
     window.addEventListener("scroll", handleScrollDirection, { passive: true });
     return () => window.removeEventListener("scroll", handleScrollDirection);
-  }, [isMenuOpen]); // Depend on isMenuOpen
+  }, [isMenuOpen]); 
 
-  // Callback for TopBar
   const handleMenuToggle = (open) => {
     setIsMenuOpen(open);
     if (open) {
-      setChromeHidden(false); // Force-show topbar on menu open (bonus smoothness)
+      setChromeHidden(false); 
     }
   };
 
-  // NEW: Toggle for mobile hamburger in ReaderControls
   const handleToggleChapters = () => {
     setChapOpen((prev) => !prev);
   };
 
-  // keyboard navigation (ArrowLeft/ArrowRight + J/K) — ignore when typing in inputs
+  // keyboard navigation
   useEffect(() => {
     function isTypingTarget(el) {
       if (!el) return false;
       const tag = el.tagName?.toLowerCase();
       if (!tag) return false;
-      if (tag === "input" || tag === "textarea" || tag === "select")
-        return true;
+      if (tag === "input" || tag === "textarea" || tag === "select") return true;
       if (el.isContentEditable) return true;
       return false;
     }
 
     function onKey(e) {
-      // ignore when modifier held (ctrl/meta/alt) or typing into an input
       if (e.ctrlKey || e.metaKey || e.altKey) return;
       const active = document.activeElement;
       if (isTypingTarget(active)) return;
@@ -151,11 +155,9 @@ export default function Chapter({
         e.preventDefault();
         navTo(nextSlug);
       } else if (key === "j" && prevSlug) {
-        // J = previous (like vim-style reverse)
         e.preventDefault();
         navTo(prevSlug);
       } else if (key === "k" && nextSlug) {
-        // K = next
         e.preventDefault();
         navTo(nextSlug);
       }
@@ -163,9 +165,10 @@ export default function Chapter({
 
     window.addEventListener("keydown", onKey);
     return () => window.removeEventListener("keydown", onKey);
-  }, [prevSlug, nextSlug, basePath /* navTo is stable in-file */]);
+  }, [prevSlug, nextSlug, basePath]);
 
   function toggleBookmark() {
+    if (!chapter?.slug) return;
     try {
       const raw =
         typeof window !== "undefined" &&
@@ -193,7 +196,6 @@ export default function Chapter({
     } catch (e) {}
   }
 
-  // helper for client-side navigation: scroll to top after pushing route
   function navTo(slug) {
     router.push(`${basePath}/chapters/${slug}`).then(() => {
       if (typeof window !== "undefined")
@@ -201,7 +203,6 @@ export default function Chapter({
     });
   }
 
-  // --- analytics: wrappers for tracked nav actions
   function handlePrev() {
     if (!prevSlug) return;
     navTo(prevSlug);
@@ -210,6 +211,15 @@ export default function Chapter({
   function handleNext() {
     if (!nextSlug) return;
     navTo(nextSlug);
+  }
+
+  // Safety check before rendering content
+  if (!chapter || !novelSlug) {
+    return (
+      <div className="min-h-screen flex items-center justify-center">
+        <div className="text-xl text-gray-500">Loading Chapter Data...</div>
+      </div>
+    );
   }
 
   // ---------------- SEO bits ----------------
@@ -269,7 +279,6 @@ export default function Chapter({
         <meta property="og:url" content={fullUrl} />
 
         <meta name="twitter:card" content="summary_large_image" />
-
         <link rel="canonical" href={fullUrl} />
 
         <script
@@ -290,13 +299,11 @@ export default function Chapter({
           open={chapOpen}
           onClose={() => setChapOpen(false)}
           currentSlug={chapter.slug}
-          basePath={basePath} // NEW: Pass it
+          basePath={basePath}
         />
 
         <main className="flex-1">
-          {/* Chapter header */}
           <div className="chapter-meta">
-            {/* NOVEL TITLE AS LINK TO HOMEPAGE */}
             <div className="novel-title">
               <Link
                 href={basePath || "/"}
@@ -313,31 +320,20 @@ export default function Chapter({
             <div className="chapter-subtitle">{chapter.publishedAt}</div>
           </div>
 
-          {/* Inline prev/next under title (centered) */}
           <div className="flex items-center justify-center gap-4 mb-4">
             {prevSlug ? (
-              <button
-                onClick={handlePrev}
-                className="px-3 py-2 rounded border btn"
-              >
+              <button onClick={handlePrev} className="px-3 py-2 rounded border btn">
                 ← Prev
               </button>
             ) : (
-              <span className="px-3 py-2 rounded border opacity-40 btn">
-                ← Prev
-              </span>
+              <span className="px-3 py-2 rounded border opacity-40 btn">← Prev</span>
             )}
             {nextSlug ? (
-              <button
-                onClick={handleNext}
-                className="px-3 py-2 rounded border btn"
-              >
+              <button onClick={handleNext} className="px-3 py-2 rounded border btn">
                 Next →
               </button>
             ) : (
-              <span className="px-3 py-2 rounded border opacity-40 btn">
-                Next →
-              </span>
+              <span className="px-3 py-2 rounded border opacity-40 btn">Next →</span>
             )}
           </div>
 
@@ -352,7 +348,6 @@ export default function Chapter({
             />
           </div>
 
-          {/* Article */}
           <article
             ref={articleRef}
             key={chapter.slug}
@@ -362,14 +357,10 @@ export default function Chapter({
             <div dangerouslySetInnerHTML={{ __html: chapterHtml }} />
           </article>
 
-          {/* Bottom inline prev/next links */}
           <div className="mt-8 mb-12 text-center">
             <div className="flex items-center justify-center gap-6">
               {prevSlug ? (
-                <button
-                  onClick={handlePrev}
-                  className="px-4 py-2 rounded border btn"
-                >
+                <button onClick={handlePrev} className="px-4 py-2 rounded border btn">
                   ← Previous Chapter
                 </button>
               ) : (
@@ -379,10 +370,7 @@ export default function Chapter({
               )}
 
               {nextSlug ? (
-                <button
-                  onClick={handleNext}
-                  className="px-4 py-2 rounded border btn"
-                >
+                <button onClick={handleNext} className="px-4 py-2 rounded border btn">
                   Next Chapter →
                 </button>
               ) : (
@@ -401,6 +389,13 @@ export default function Chapter({
               </button>
             </div>
           </div>
+
+          {/* 💬 Comments Section Wrapper */}
+          <DisqusComments 
+            id={`novel-${novelSlug}-ch-${chapter.slug}`} 
+            title={`${novelTitle} - ${chapterTitle}`}
+            path={`/${novelSlug}/chapters/${chapter.slug}`}
+          />
         </main>
       </div>
     </div>

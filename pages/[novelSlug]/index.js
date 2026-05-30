@@ -9,13 +9,24 @@ import { useEffect, useState } from "react";
 import Head from "next/head";
 import { useRouter } from "next/router";
 import ChapterSearchToggle from "../../components/ChapterSearchToggle";
-import ChapterList from "../../components/ChapterList"; // NEW: Import the component
+import ChapterList from "../../components/ChapterList"; 
+import DisqusComments from "../../components/DisqusComments";
 
 export default function Home({ novel, chapters, novelSlug }) {
   const router = useRouter();
   const currentSlug = router.query.novelSlug || 'atg'; // Client-side fallback
   const basePath = currentSlug === 'atg' ? '' : `/${currentSlug}`; // Flat for ATG, prefixed for others
   const latest = [...chapters].slice(-2).reverse(); // latest 2, newest first
+
+
+  // Prevent loading error before Next.js populates query properties
+  if (!novelSlug) return <div>Loading...</div>;
+
+  // Normalize string for aesthetic listing headers
+  const displayTitle = novelSlug
+    .split('-')
+    .map(word => word.charAt(0).toUpperCase() + word.slice(1))
+    .join(' ');
 
   // Client-side state for continue reading
   const [continueItem, setContinueItem] = useState(null);
@@ -288,6 +299,12 @@ export default function Home({ novel, chapters, novelSlug }) {
             onSortToggle={() => setSortAsc((prev) => !prev)}
           />
         </section>
+         {/* 💬 Disqus Global Reviews Thread */}
+        <DisqusComments 
+          id={`novel-${novelSlug}-main`} 
+          title={`${displayTitle} - Reviews`}
+          path={`/${novelSlug}`}
+        />
       </main>
     </div>
   );
